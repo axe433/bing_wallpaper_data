@@ -52,24 +52,42 @@ for country, lang in country_to_lang.items():
 def merge_images(existing_images, new_images, date_field, unique_field=None):
     existing_dates = {image[date_field] for image in existing_images if date_field in image}
     if unique_field:
+        # 创建一个集合来快速查找已存在的唯一标识
         existing_ids = {image[unique_field] for image in existing_images if unique_field in image}
     else:
         existing_ids = set()
 
+    added_count = 0
+    skipped_count = 0
+
     for image_info in new_images:
         # 只处理包含 fullstartdate 的数据
         if unique_field and unique_field in image_info:
-            if image_info[unique_field] not in existing_ids:
+            unique_id = image_info[unique_field]
+            if unique_id not in existing_ids:
+                # 如果不存在，添加新数据
                 existing_images.append(image_info)
-                existing_ids.add(image_info[unique_field])
+                existing_ids.add(unique_id)
+                added_count += 1
+                print(f"  ➕ 添加新数据: {unique_id}")
+            else:
+                # 如果已存在，完全跳过，保留旧数据不变
+                skipped_count += 1
+                print(f"  ⏭️  跳过已存在数据: {unique_id}")
         # 处理不包含 fullstartdate 的数据，仍然使用 date 进行判断
         elif image_info[date_field] not in existing_dates:
             existing_images.append(image_info)
             existing_dates.add(image_info[date_field])
+            added_count += 1
+            print(f"  ➕ 添加新数据 (按日期): {image_info[date_field]}")
+        else:
+            skipped_count += 1
+            print(f"  ⏭️  跳过已存在数据 (按日期): {image_info[date_field]}")
 
     # 按日期倒序排序
     existing_images.sort(key=lambda x: datetime.strptime(x[date_field], '%Y%m%d'), reverse=True)
 
+    print(f"  📊 数据统计: 新增 {added_count} 条，跳过 {skipped_count} 条")
     return existing_images
 
 

@@ -1,5 +1,50 @@
 [
     {
+        "startdate": "20250807",
+        "fullstartdate": "202508072200",
+        "enddate": "20250808",
+        "url": "/th?id=OHR.IguazuArgentina_ES-ES1410228495_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IguazuArgentina_ES-ES1410228495",
+        "copyright": "Saltos Tres Mosqueteros en las Cataratas del Iguazú, Argentina (© Mark Meredith/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=cataratas+del+iguaz%C3%BA&form=hpcapt&filters=HpDate%3a%2220250807_2200%22",
+        "title": "¡Un paraíso en cascada!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250807_IguazuArgentina%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "cf53eb13ce8e89d3bc22c6fb5280baeb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ningún sonido puede opacar el rugido de las Cataratas del Iguazú. Esta maravilla natural, situada entre Argentina y Brasil, impresiona con más de 270 saltos de agua que se extienden a lo largo de casi tres kilómetros. Desde el lado argentino, los Saltos Tres Mosqueteros ofrecen una de las vistas más impactantes: tres potentes caídas rodeadas de una exuberante selva subtropical.",
+                "Image": {
+                    "Url": "/th?id=OHR.IguazuArgentina_ES-ES1410228495_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.IguazuArgentina_ES-ES1410228495_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "¡Un paraíso en cascada!",
+                "Title": "Saltos Tres Mosqueteros en las Cataratas del Iguazú, Argentina",
+                "Copyright": "© Mark Meredith/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250808_IguazuArgentina\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=cataratas+del+iguaz%c3%ba&form=hpcapt&filters=HpDate:\"20250807_2200\"",
+                "TriviaId": "HPQuiz_20250808_IguazuArgentina"
+            },
+            "Ssd": "20250807_2200",
+            "FullDateString": "8 de ago. de 2025"
+        }
+    },
+    {
         "startdate": "20250806",
         "fullstartdate": "202508062200",
         "enddate": "20250807",
