@@ -32,6 +32,7 @@
 │   ├── download_wallpapers_action.py  # 壁纸下载脚本（Actions版）
 │   ├── download_wallpapers.py # 壁纸下载脚本（本地版）
 │   ├── generate_markdown.py  # Markdown文档生成脚本
+│   ├── generate_readme.py    # README生成脚本
 │   └── deduplicate_images.py # 图片去重工具
 ├── jsonc/                     # 壁纸数据存储
 │   ├── us/bing.jsonc         # 美国壁纸数据
@@ -48,7 +49,11 @@
 │   ├── us.json               # 英文界面文本
 │   ├── cn.json               # 中文界面文本
 │   └── ...
-└── README.md                  # 项目说明文档
+├── templates/                 # README模板文件
+│   ├── README_template.md    # 英文README模板
+│   └── README_CN_template.md # 中文README模板
+├── README.md                  # 项目说明文档（自动生成）
+└── README_CN.md              # 中文说明文档（自动生成）
 ```
 
 ## 🚀 核心脚本说明
@@ -81,6 +86,17 @@
   - **响应式设计**：适配不同设备的显示效果
   - **多语言支持**：根据国家显示对应语言的界面
 
+### `generate_readme.py` - README生成脚本
+- **功能**：自动生成中英文README文档
+- **输入**：从 `templates/README_template.md` 和 `templates/README_CN_template.md` 读取模板
+- **输出**：更新项目根目录的 `README.md` 和 `README_CN.md`
+- **特性**：
+  - **基于模板**：使用模板文件避免覆盖基础内容
+  - **国家链接**：生成所有国家壁纸文档的链接
+  - **今日壁纸**：嵌入今日特色壁纸（英文版显示美国，中文版显示中国）
+  - **双语支持**：同时生成英文和中文版本
+  - **自动更新**：与其他自动化任务一起每日运行
+
 ## ⚙️ 自动化工作流
 
 GitHub Actions 每天自动执行以下步骤：
@@ -91,7 +107,8 @@ GitHub Actions 每天自动执行以下步骤：
 4. **📊 抓取数据** - 运行 `bing_data.py` 获取最新壁纸数据
 5. **🖼️ 下载图片** - 运行 `download_wallpapers_action.py` 下载新壁纸
 6. **📝 生成文档** - 运行 `generate_markdown.py` 更新Markdown文档
-7. **💾 提交更改** - 自动提交并推送所有更新
+7. **📄 生成README** - 运行 `generate_readme.py` 更新项目README文件
+8. **💾 提交更改** - 自动提交并推送所有更新
 
 ## 🌍 支持的国家和地区
 
@@ -134,6 +151,9 @@ python crawl/download_wallpapers_action.py
 
 # 3. 生成Markdown文档
 python crawl/generate_markdown.py
+
+# 4. 生成README文档
+python crawl/generate_readme.py
 ```
 
 ### 图片去重工具
@@ -188,6 +208,8 @@ jobs:
         run: python crawl/download_wallpapers_action.py
       - name: Generate markdown documents
         run: python crawl/generate_markdown.py
+      - name: Generate README documents
+        run: python crawl/generate_readme.py
       - name: Commit and Push
         run: |
           git add .

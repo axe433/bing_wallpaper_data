@@ -32,6 +32,7 @@ Project Root/
 │   ├── download_wallpapers_action.py  # Wallpaper download script (Actions version)
 │   ├── download_wallpapers.py # Wallpaper download script (Local version)
 │   ├── generate_markdown.py  # Markdown document generation script
+│   ├── generate_readme.py    # README generation script
 │   └── deduplicate_images.py # Image deduplication tool
 ├── jsonc/                     # Wallpaper data storage
 │   ├── us/bing.jsonc         # US wallpaper data
@@ -48,7 +49,11 @@ Project Root/
 │   ├── us.json               # English interface text
 │   ├── cn.json               # Chinese interface text
 │   └── ...
-└── README.md                  # Project documentation
+├── templates/                 # README template files
+│   ├── README_template.md    # English README template
+│   └── README_CN_template.md # Chinese README template
+├── README.md                  # Project documentation (auto-generated)
+└── README_CN.md              # Chinese documentation (auto-generated)
 ```
 
 ## 🚀 Core Scripts
@@ -81,6 +86,17 @@ Project Root/
   - **Responsive Design**: Display effects adapted to different devices
   - **Multilingual Support**: Displays interface in corresponding language based on country
 
+### `generate_readme.py` - README Generation Script
+- **Function**: Automatically generates bilingual README documents
+- **Input**: Reads from `templates/README_template.md` and `templates/README_CN_template.md`
+- **Output**: Updates `README.md` and `README_CN.md` in project root
+- **Features**:
+  - **Template-Based**: Uses template files to avoid overwriting base content
+  - **Country Links**: Generates links to all country wallpaper documents
+  - **Today's Wallpaper**: Embeds today's featured wallpaper (US for English, CN for Chinese)
+  - **Bilingual Support**: Generates both English and Chinese versions
+  - **Auto-Update**: Runs daily with other automation tasks
+
 ## ⚙️ Automated Workflow
 
 GitHub Actions automatically executes the following steps daily:
@@ -91,7 +107,8 @@ GitHub Actions automatically executes the following steps daily:
 4. **📊 Crawl Data** - Run `bing_data.py` to get latest wallpaper data
 5. **🖼️ Download Images** - Run `download_wallpapers_action.py` to download new wallpapers
 6. **📝 Generate Documents** - Run `generate_markdown.py` to update Markdown documents
-7. **💾 Commit Changes** - Automatically commit and push all updates
+7. **📄 Generate README** - Run `generate_readme.py` to update project README files
+8. **💾 Commit Changes** - Automatically commit and push all updates
 
 ## 🌍 Supported Countries and Regions
 
@@ -134,6 +151,9 @@ python crawl/download_wallpapers_action.py
 
 # 3. Generate Markdown documents
 python crawl/generate_markdown.py
+
+# 4. Generate README documents
+python crawl/generate_readme.py
 ```
 
 ### Image Deduplication Tool
@@ -188,6 +208,8 @@ jobs:
         run: python crawl/download_wallpapers_action.py
       - name: Generate markdown documents
         run: python crawl/generate_markdown.py
+      - name: Generate README documents
+        run: python crawl/generate_readme.py
       - name: Commit and Push
         run: |
           git add .
