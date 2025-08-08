@@ -250,10 +250,39 @@ def generate_markdown_document(country: str) -> str:
     
     return markdown
 
+def get_available_countries() -> List[str]:
+    """获取所有可用的国家代码"""
+    jsonc_dir = "./jsonc"
+    countries = []
+    
+    if not os.path.exists(jsonc_dir):
+        print(f"JSONC目录不存在: {jsonc_dir}")
+        return countries
+    
+    for item in os.listdir(jsonc_dir):
+        country_dir = os.path.join(jsonc_dir, item)
+        if os.path.isdir(country_dir):
+            bing_file = os.path.join(country_dir, "bing.jsonc")
+            if os.path.exists(bing_file):
+                countries.append(item)
+    
+    return sorted(countries)
+
 def main():
     """主函数"""
-    # 支持的国家列表
-    countries = ['us', 'gb', 'de', 'fr', 'cn', 'jp']
+    # 确保markdown目录存在
+    markdown_dir = "./markdown"
+    if not os.path.exists(markdown_dir):
+        os.makedirs(markdown_dir)
+        print(f"创建markdown目录: {markdown_dir}")
+    
+    # 自动获取所有可用的国家列表
+    countries = get_available_countries()
+    if not countries:
+        print("❌ 没有找到任何国家的数据文件")
+        return
+    
+    print(f"🌍 找到 {len(countries)} 个国家: {', '.join(countries)}")
     
     for country in countries:
         print(f"Generating markdown for {country}...")
@@ -261,8 +290,8 @@ def main():
         markdown_content = generate_markdown_document(country)
         
         if markdown_content:
-            # 生成文件名（输出到项目根目录）
-            output_file = f"./{country}-wallpaper-list.md"
+            # 生成文件名（输出到markdown目录，国家代码放到最后）
+            output_file = f"{markdown_dir}/wallpaper-list-{country}.md"
             
             # 写入文件
             with open(output_file, 'w', encoding='utf-8') as f:
