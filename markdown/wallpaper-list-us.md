@@ -36,8 +36,6 @@ Before GPS told ships where to go, lighthouses lit the way—each with its own f
 | **[Chasing waves](https://bing.codexun.com/us/detail/20250715)**<br>Young blue shark swimming off the coast of Galicia, Spain<br>*2025-07-15* | **[Rockin' those layers](https://bing.codexun.com/us/detail/20250714)**<br>Basalt columns at Kálfshamarsvík, Skagi Peninsula, Iceland<br>*2025-07-14* | **[Following mom's lead](https://bing.codexun.com/us/detail/20250713)**<br>Thomson's gazelle mother and fawn, Maasai Mara, Kenya<br>*2025-07-13* | 
 | [![Counting us all in](https://www.bing.com/th?id=OHR.TokyoSunrise_EN-US4269783992_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/us/detail/20250712) | [![To the waves of freedom](https://www.bing.com/th?id=OHR.BahamaBlues_EN-US1367794856_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/us/detail/20250711) | [![The rise of a republic](https://www.bing.com/th?id=OHR.ConstitucionStation_EN-US1235857389_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/us/detail/20250710) | 
 | **[Counting us all in](https://bing.codexun.com/us/detail/20250712)**<br>Tokyo at sunrise<br>*2025-07-12* | **[To the waves of freedom](https://bing.codexun.com/us/detail/20250711)**<br>Turquoise waters of the Bahamas<br>*2025-07-11* | **[The rise of a republic](https://bing.codexun.com/us/detail/20250710)**<br>Constitución railway station, Buenos Aires, Argentina<br>*2025-07-10* | 
-| [![Beauty with an edge](https://www.bing.com/th?id=OHR.SecedaPeak_EN-US0983713623_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/us/detail/20250709) |  |  | 
-| **[Beauty with an edge](https://bing.codexun.com/us/detail/20250709)**<br>Seceda, a peak in the Dolomites, South Tyrol, Italy<br>*2025-07-09* |  |  | 
 
 
 ---

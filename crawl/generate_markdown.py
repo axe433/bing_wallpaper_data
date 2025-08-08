@@ -59,8 +59,8 @@ def get_recent_30_days_wallpapers(wallpapers: List[Dict[str, Any]]) -> List[Dict
     latest_date_str = wallpapers[0]['enddate']
     latest_date = datetime.strptime(latest_date_str, '%Y%m%d')
     
-    # 计算30天前的日期
-    thirty_days_ago = latest_date - timedelta(days=30)
+    # 计算30天前的日期（不包含30天前的那一天）
+    thirty_days_ago = latest_date - timedelta(days=29)
     
     # 筛选最近30天的壁纸
     recent_wallpapers = []

@@ -36,8 +36,6 @@ Before GPS told ships where to go, lighthouses lit the way—each with its own f
 | **[Info](https://bing.codexun.com/hk/detail/20250715)**<br>Young blue shark swimming off the coast of Galicia, Spain<br>*2025-07-15* | **[Info](https://bing.codexun.com/hk/detail/20250714)**<br>Basalt columns in Kálfshamarsvík cove, Skagi peninsula, Iceland<br>*2025-07-14* | **[Info](https://bing.codexun.com/hk/detail/20250713)**<br>Thomson's gazelle mother and fawn, Maasai Mara, Kenya<br>*2025-07-13* | 
 | [![Info](https://www.bing.com/th?id=OHR.TokyoSunrise_ROW8328728305_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/hk/detail/20250712) | [![Info](https://www.bing.com/th?id=OHR.BahamaBlues_ROW5508297502_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/hk/detail/20250711) | [![Info](https://www.bing.com/th?id=OHR.ConstitucionStation_ROW5458871760_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/hk/detail/20250710) | 
 | **[Info](https://bing.codexun.com/hk/detail/20250712)**<br>Tokyo at sunrise, Japan<br>*2025-07-12* | **[Info](https://bing.codexun.com/hk/detail/20250711)**<br>Turquoise waters of the Bahamas<br>*2025-07-11* | **[Info](https://bing.codexun.com/hk/detail/20250710)**<br>Constitución railway station, Buenos Aires, Argentina<br>*2025-07-10* | 
-| [![Info](https://www.bing.com/th?id=OHR.SecedaPeak_ROW5372649409_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/hk/detail/20250709) |  |  | 
-| **[Info](https://bing.codexun.com/hk/detail/20250709)**<br>Seceda, a peak in the Dolomites, South Tyrol, Italy<br>*2025-07-09* |  |  | 
 
 
 ---

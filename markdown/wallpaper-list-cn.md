@@ -36,8 +36,6 @@
 | **[永恒的光芒](https://bing.codexun.com/cn/detail/20250715)**<br>英仙座流星雨和一棵古老刺果松，大盆地国家公园，内华达州，美国<br>*2025-07-15* | **[追逐海浪，掀起潮汐](https://bing.codexun.com/cn/detail/20250714)**<br>加利西亚海域游弋的幼年大青鲨，西班牙<br>*2025-07-14* | **[层层叠叠的岩石](https://bing.codexun.com/cn/detail/20250713)**<br>卡尔夫沙马尔斯维克湾玄武岩柱，斯卡吉半岛，冰岛<br>*2025-07-13* | 
 | [![跟随妈妈的脚步](https://www.bing.com/th?id=OHR.ThomsonGazelle_ZH-CN0413171014_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/cn/detail/20250712) | [![把我们都算上](https://www.bing.com/th?id=OHR.TokyoSunrise_ZH-CN0091906710_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/cn/detail/20250711) | [![奔向自由之浪](https://www.bing.com/th?id=OHR.BahamaBlues_ZH-CN8134624828_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/cn/detail/20250710) | 
 | **[跟随妈妈的脚步](https://bing.codexun.com/cn/detail/20250712)**<br>汤氏瞪羚母亲和小鹿，马赛马拉，肯尼亚<br>*2025-07-12* | **[把我们都算上](https://bing.codexun.com/cn/detail/20250711)**<br>日出时的东京，日本<br>*2025-07-11* | **[奔向自由之浪](https://bing.codexun.com/cn/detail/20250710)**<br>巴哈马的绿松石色水域<br>*2025-07-10* | 
-| [![具有纪念意义的火车站](https://www.bing.com/th?id=OHR.ConstitucionStation_ZH-CN7962568053_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/cn/detail/20250709) |  |  | 
-| **[具有纪念意义的火车站](https://bing.codexun.com/cn/detail/20250709)**<br>宪法火车站，布宜诺斯艾利斯，阿根廷<br>*2025-07-09* |  |  | 
 
 
 ---

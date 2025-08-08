@@ -36,8 +36,6 @@
 | **[幻想的なペルセウス座流星群](https://bing.codexun.com/jp/detail/20250715)**<br>グレートベースン国立公園, 米国 ネバダ州<br>*2025-07-15* | **[今日はサメ啓発の日](https://bing.codexun.com/jp/detail/20250714)**<br>ガリシア沖を泳ぐヨシキリザメ, スペイン<br>*2025-07-14* | **[黒い玄武岩の柱状節理](https://bing.codexun.com/jp/detail/20250713)**<br>カールフザマルスヴィーク, アイスランド<br>*2025-07-13* | 
 | [![トムソンガゼルの母子](https://www.bing.com/th?id=OHR.ThomsonGazelle_JA-JP8883266814_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/jp/detail/20250712) | [![今日は世界人口デー](https://www.bing.com/th?id=OHR.TokyoSunrise_JA-JP8418771987_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/jp/detail/20250711) | [![今日はバハマの独立記念日](https://www.bing.com/th?id=OHR.BahamaBlues_JA-JP9790462699_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/jp/detail/20250710) | 
 | **[トムソンガゼルの母子](https://bing.codexun.com/jp/detail/20250712)**<br>マサイマラ国立保護区, ケニア<br>*2025-07-12* | **[今日は世界人口デー](https://bing.codexun.com/jp/detail/20250711)**<br>1400 万の人口を抱える大都市, 東京<br>*2025-07-11* | **[今日はバハマの独立記念日](https://bing.codexun.com/jp/detail/20250710)**<br>ターコイズブルーの海, バハマ<br>*2025-07-10* | 
-| [![今日はアルゼンチンの独立記念日](https://www.bing.com/th?id=OHR.ConstitucionStation_JA-JP9081110784_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/jp/detail/20250709) |  |  | 
-| **[今日はアルゼンチンの独立記念日](https://bing.codexun.com/jp/detail/20250709)**<br>コンスティトゥシオン駅, アルゼンチン<br>*2025-07-09* |  |  | 
 
 
 ---

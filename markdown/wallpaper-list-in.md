@@ -36,8 +36,6 @@ No voice is loud enough to drown out the roar of Iguazú Falls. The sheer presen
 | **[Pond of peace](https://bing.codexun.com/in/detail/20250715)**<br>Muchalinda Sarovar, Bodh Gaya, Bihar<br>*2025-07-15* | **[Chasing waves, making tides](https://bing.codexun.com/in/detail/20250714)**<br>Young blue shark swimming off the coast of Galicia, Spain<br>*2025-07-14* | **[Rockin' those layers](https://bing.codexun.com/in/detail/20250713)**<br>Basalt columns in Kálfshamarsvík cove, Skagi peninsula, Iceland<br>*2025-07-13* | 
 | [![Following mom's lead](https://www.bing.com/th?id=OHR.ThomsonGazelle_EN-IN8946995037_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/in/detail/20250712) | [![Counting us all in](https://www.bing.com/th?id=OHR.TokyoSunrise_EN-IN0638589694_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/in/detail/20250711) | [![Light that leads](https://www.bing.com/th?id=OHR.LordBuddha_EN-IN7435610826_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/in/detail/20250710) | 
 | **[Following mom's lead](https://bing.codexun.com/in/detail/20250712)**<br>Thomson's gazelle mother and fawn, Maasai Mara, Kenya<br>*2025-07-12* | **[Counting us all in](https://bing.codexun.com/in/detail/20250711)**<br>Tokyo at sunrise, Japan<br>*2025-07-11* | **[Light that leads](https://bing.codexun.com/in/detail/20250710)**<br>Buddha Statue, Hussain Sagar, Hyderabad, Telangana<br>*2025-07-10* | 
-| [![The rise of a republic](https://www.bing.com/th?id=OHR.ConstitucionStation_EN-IN1557564124_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/in/detail/20250709) |  |  | 
-| **[The rise of a republic](https://bing.codexun.com/in/detail/20250709)**<br>Constitución railway station, Buenos Aires, Argentina<br>*2025-07-09* |  |  | 
 
 
 ---

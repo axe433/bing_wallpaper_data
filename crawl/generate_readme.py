@@ -34,6 +34,45 @@ def get_available_countries() -> List[str]:
     
     return sorted(countries)
 
+def get_country_flag_mapping() -> Dict[str, str]:
+    """获取国家或地区代码到国旗emoji的映射"""
+    return {
+        'ar': '🇦🇷',  # 阿根廷
+        'au': '🇦🇺',  # 澳大利亚
+        'br': '🇧🇷',  # 巴西
+        'ca': '🇨🇦',  # 加拿大
+        'cn': '🇨🇳',  # 中国
+        'cz': '🇨🇿',  # 捷克
+        'de': '🇩🇪',  # 德国
+        'dk': '🇩🇰',  # 丹麦
+        'es': '🇪🇸',  # 西班牙
+        'fi': '🇫🇮',  # 芬兰
+        'fr': '🇫🇷',  # 法国
+        'gb': '🇬🇧',  # 英国
+        'gr': '🇬🇷',  # 希腊
+        'hk': '🇭🇰',  # 香港
+        'id': '🇮🇩',  # 印度尼西亚
+        'in': '🇮🇳',  # 印度
+        'it': '🇮🇹',  # 意大利
+        'jp': '🇯🇵',  # 日本
+        'kr': '🇰🇷',  # 韩国
+        'my': '🇲🇾',  # 马来西亚
+        'nl': '🇳🇱',  # 荷兰
+        'no': '🇳🇴',  # 挪威
+        'pl': '🇵🇱',  # 波兰
+        'pt': '🇵🇹',  # 葡萄牙
+        'ru': '🇷🇺',  # 俄罗斯
+        'se': '🇸🇪',  # 瑞典
+        'sg': '🇸🇬',  # 新加坡
+        'th': '🇹🇭',  # 泰国
+        'tr': '🇹🇷',  # 土耳其
+        'tw': '🇹🇼',  # 台湾
+        'ua': '🇺🇦',  # 乌克兰
+        'us': '🇺🇸',  # 美国
+        'vn': '🇻🇳',  # 越南
+        'za': '🇿🇦'   # 南非
+    }
+
 def get_country_name_mapping() -> Dict[str, Dict[str, str]]:
     """获取国家代码到国家名称的映射"""
     return {
@@ -73,6 +112,43 @@ def get_country_name_mapping() -> Dict[str, Dict[str, str]]:
         'za': {'en': 'South Africa', 'cn': '南非'}
     }
 
+def generate_supported_countries_section(countries: List[str], lang: str) -> str:
+    """生成支持的国家和地区部分"""
+    country_mapping = get_country_name_mapping()
+    flag_mapping = get_country_flag_mapping()
+    
+    if lang == 'cn':
+        section_title = "## 🌍 支持的国家和地区"
+        section_desc = f"项目支持以下 {len(countries)} 个国家和地区："
+        table_headers = "| 代码 | 国家/地区 | 代码 | 国家/地区 | 代码 | 国家/地区 |"
+        table_separator = "|------|-----------|------|-----------|------|-----------|"
+    else:
+        section_title = "## 🌍 Supported Countries and Regions"
+        section_desc = f"The project supports the following {len(countries)} countries and regions:"
+        table_headers = "| Code | Country/Region | Code | Country/Region | Code | Country/Region |"
+        table_separator = "|------|----------------|------|----------------|------|----------------|"
+    
+    content = f"{section_title}\n\n{section_desc}\n\n{table_headers}\n{table_separator}\n"
+    
+    # 按每行3个分组
+    for i in range(0, len(countries), 3):
+        row_countries = countries[i:i+3]
+        row_content = "| "
+        
+        for country in row_countries:
+            country_name = country_mapping.get(country, {}).get(lang, country.upper())
+            country_flag = flag_mapping.get(country, '🏳️')
+            row_content += f"`{country}` | {country_flag} {country_name} | "
+        
+        # 补齐空列
+        while len(row_countries) < 3:
+            row_content += " | "
+            row_countries.append("")
+        
+        content += row_content + "\n"
+    
+    return content
+
 def get_base_readme_content(lang: str) -> str:
     """获取基础README内容"""
     if lang == 'cn':
@@ -95,6 +171,7 @@ def get_base_readme_content(lang: str) -> str:
 def generate_country_links_section(countries: List[str], lang: str) -> str:
     """生成各国壁纸链接部分"""
     country_mapping = get_country_name_mapping()
+    flag_mapping = get_country_flag_mapping()
     
     if lang == 'cn':
         section_title = "## 🌍 各国壁纸文档链接"
@@ -112,7 +189,8 @@ def generate_country_links_section(countries: List[str], lang: str) -> str:
         
         for country in row_countries:
             country_name = country_mapping.get(country, {}).get(lang, country.upper())
-            link = f"[{country_name}](markdown/wallpaper-list-{country}.md)"
+            country_flag = flag_mapping.get(country, '🏳️')
+            link = f"[{country_flag} {country_name}](markdown/wallpaper-list-{country}.md)"
             row_content += f"{link} | "
         
         # 补齐空列
@@ -180,6 +258,21 @@ def generate_readme(lang: str):
     if not countries:
         print("❌ 没有找到任何国家的数据文件")
         return
+    
+    # 生成支持的国家和地区部分（替换模板中的静态内容）
+    supported_countries_section = generate_supported_countries_section(countries, lang)
+    
+    # 替换模板中的支持国家部分
+    if lang == 'cn':
+        # 查找并替换中文模板中的支持国家部分
+        import re
+        pattern = r'## 🌍 支持的国家和地区.*?(?=\n## |\n---|\Z)'
+        base_content = re.sub(pattern, supported_countries_section.rstrip(), base_content, flags=re.DOTALL)
+    else:
+        # 查找并替换英文模板中的支持国家部分
+        import re
+        pattern = r'## 🌍 Supported Countries and Regions.*?(?=\n## |\n---|\Z)'
+        base_content = re.sub(pattern, supported_countries_section.rstrip(), base_content, flags=re.DOTALL)
     
     # 生成各国链接部分
     country_links_section = generate_country_links_section(countries, lang)

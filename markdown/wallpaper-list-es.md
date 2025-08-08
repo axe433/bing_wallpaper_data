@@ -36,8 +36,6 @@ Ningún sonido puede opacar el rugido de las Cataratas del Iguazú. Esta maravil
 | **[Fragancia la de Francia](https://bing.codexun.com/es/detail/20250715)**<br>Campos de lavanda en Plateau de Valensole, Francia<br>*2025-07-15* | **[Persiguiendo olas, haciendo mareas](https://bing.codexun.com/es/detail/20250714)**<br>Joven tiburón azul nadando frente a la costa de Galicia, España<br>*2025-07-14* | **[Meciendo esas capas](https://bing.codexun.com/es/detail/20250713)**<br>Columnas de basalto en la cala de Kálfshamarsvík, península de Skagi, Islandia<br>*2025-07-13* | 
 | [![¡Un mundo ideal!](https://www.bing.com/th?id=OHR.RibadesellaSummer_ES-ES5366585834_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/es/detail/20250712) | [![Contamos todos](https://www.bing.com/th?id=OHR.TokyoSunrise_ES-ES5285423958_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/es/detail/20250711) | [![Las olas de la libertad](https://www.bing.com/th?id=OHR.BahamaBlues_ES-ES3186595692_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/es/detail/20250710) | 
 | **[¡Un mundo ideal!](https://bing.codexun.com/es/detail/20250712)**<br>Ribadesella, Asturias, España<br>*2025-07-12* | **[Contamos todos](https://bing.codexun.com/es/detail/20250711)**<br>Tokio al amanecer, Japón<br>*2025-07-11* | **[Las olas de la libertad](https://bing.codexun.com/es/detail/20250710)**<br>Aguas turquesas de las Bahamas<br>*2025-07-10* | 
-| [![El ascenso de una república](https://www.bing.com/th?id=OHR.ConstitucionStation_ES-ES3087797004_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/es/detail/20250709) |  |  | 
-| **[El ascenso de una república](https://bing.codexun.com/es/detail/20250709)**<br>Estación de ferrocarril de Constitución, Buenos Aires, Argentina<br>*2025-07-09* |  |  | 
 
 
 ---

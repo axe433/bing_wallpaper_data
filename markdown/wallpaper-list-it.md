@@ -36,8 +36,6 @@ Nessuna voce riesce a competere con il respiro possente delle Cascate dell'Iguaz
 | **[Cosa brilla nel firmamento?](https://bing.codexun.com/it/detail/20250715)**<br>Pioggia di meteore delle Perseidi e un antico pino setoloso, Parco Nazionale del Great Basin, Nevada, USA<br>*2025-07-15* | **[Sacro o Profano?](https://bing.codexun.com/it/detail/20250714)**<br>Cattedrale di Palermo, Palermo, Sicilia<br>*2025-07-14* | **[Tracce vulcaniche](https://bing.codexun.com/it/detail/20250713)**<br>Colonne di basalto nell'insenatura di Kálfshamarsvík, penisola di Skagi, Islanda<br>*2025-07-13* | 
 | [![Passi sacri?](https://www.bing.com/th?id=OHR.ThomsonGazelle_IT-IT0397264762_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/it/detail/20250712) | [![Sol Levante](https://www.bing.com/th?id=OHR.TokyoSunrise_IT-IT6877517307_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/it/detail/20250711) | [![Onde e Libertà](https://www.bing.com/th?id=OHR.BahamaBlues_IT-IT2994052693_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/it/detail/20250710) | 
 | **[Passi sacri?](https://bing.codexun.com/it/detail/20250712)**<br>Gazelle di Thomson, Madre con prole, Masai Mara, Kenya<br>*2025-07-12* | **[Sol Levante](https://bing.codexun.com/it/detail/20250711)**<br>Tokyo all’alba, Giappone<br>*2025-07-11* | **[Onde e Libertà](https://bing.codexun.com/it/detail/20250710)**<br>Acque turchesi delle Bahamas<br>*2025-07-10* | 
-| [![Sorge il Sole della Repubblica](https://www.bing.com/th?id=OHR.ConstitucionStation_IT-IT2913035611_UHD.jpg&pid=hp&w=2560)](https://bing.codexun.com/it/detail/20250709) |  |  | 
-| **[Sorge il Sole della Repubblica](https://bing.codexun.com/it/detail/20250709)**<br>Stazione Ferroviaria di Constitución, Buenos Aires, Argentina<br>*2025-07-09* |  |  | 
 
 
 ---
