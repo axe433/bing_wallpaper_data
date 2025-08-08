@@ -1,0 +1,48 @@
+name: Generate Bing Wallpaper Json Auto
+on:
+  schedule:
+    - cron: '1 23 * * *'
+  workflow_dispatch:  # 手动触发
+
+jobs:
+  download_and_push:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      # with:
+      #   python-version: '3.x'
+
+    - name: Install requests
+      run: pip install requests
+
+    - name: run bingjson
+      run: python crawl/bing_data.py
+
+    - name: Download wallpaper images
+      run: python crawl/download_wallpapers_action.py
+
+    - name: Generate markdown documents
+      run: python crawl/generate_markdown.py
+
+    - name: Generate README documents
+      run: python crawl/generate_readme.py
+
+    - name: Commit and Push
+        # git config --global user.name "${{ github.actor }}"
+        # git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+      run: |
+        git status
+        git diff
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add .
+        git commit -m "Update wallpaper data and markdown at $(date +'%Y-%m-%d %H:%M:%S')"
+        git push
+      
+      env:
+        GITHUB_TOKEN: ${{ secrets.PAT }}
