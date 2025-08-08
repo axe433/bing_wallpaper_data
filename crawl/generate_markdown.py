@@ -8,7 +8,7 @@ from typing import List, Dict, Any
 
 def load_wallpaper_data(country: str) -> List[Dict[str, Any]]:
     """加载指定国家的壁纸数据"""
-    file_path = f'../jsonc/{country}/bing.jsonc'
+    file_path = f'./jsonc/{country}/bing.jsonc'
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
             return json.load(file)
@@ -18,7 +18,7 @@ def load_wallpaper_data(country: str) -> List[Dict[str, Any]]:
 
 def load_messages(country: str) -> Dict[str, Any]:
     """加载国际化文案"""
-    file_path = f'../messages/{country}.json'
+    file_path = f'./messages/{country}.json'
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
             return json.load(file)
@@ -261,8 +261,8 @@ def main():
         markdown_content = generate_markdown_document(country)
         
         if markdown_content:
-            # 生成文件名（输出到上级目录）
-            output_file = f"../{country}-wallpaper-list.md"
+            # 生成文件名（输出到项目根目录）
+            output_file = f"./{country}-wallpaper-list.md"
             
             # 写入文件
             with open(output_file, 'w', encoding='utf-8') as f:
