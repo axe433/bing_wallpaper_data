@@ -116,18 +116,18 @@ The project supports the following 34 countries and regions:
 
 | Code | Country/Region | Code | Country/Region | Code | Country/Region |
 |------|----------------|------|----------------|------|----------------|
-| `ar` | 🇦🇷 Argentina | `au` | 🇦🇺 Australia | `br` | 🇧🇷 Brazil | 
-| `ca` | 🇨🇦 Canada | `cn` | 🇨🇳 China | `cz` | 🇨🇿 Czech Republic | 
-| `de` | 🇩🇪 Germany | `dk` | 🇩🇰 Denmark | `es` | 🇪🇸 Spain | 
-| `fi` | 🇫🇮 Finland | `fr` | 🇫🇷 France | `gb` | 🇬🇧 United Kingdom | 
-| `gr` | 🇬🇷 Greece | `hk` | 🇭🇰 Hong Kong | `id` | 🇮🇩 Indonesia | 
-| `in` | 🇮🇳 India | `it` | 🇮🇹 Italy | `jp` | 🇯🇵 Japan | 
-| `kr` | 🇰🇷 South Korea | `my` | 🇲🇾 Malaysia | `nl` | 🇳🇱 Netherlands | 
-| `no` | 🇳🇴 Norway | `pl` | 🇵🇱 Poland | `pt` | 🇵🇹 Portugal | 
-| `ru` | 🇷🇺 Russia | `se` | 🇸🇪 Sweden | `sg` | 🇸🇬 Singapore | 
-| `th` | 🇹🇭 Thailand | `tr` | 🇹🇷 Turkey | `tw` | 🇹🇼 Taiwan | 
-| `ua` | 🇺🇦 Ukraine | `us` | 🇺🇸 United States | `vn` | 🇻🇳 Vietnam | 
-| `za` | 🇿🇦 South Africa |  |  |
+| `ar` | [🇦🇷 Argentina](markdown/wallpaper-list-ar.md) | `au` | [🇦🇺 Australia](markdown/wallpaper-list-au.md) | `br` | [🇧🇷 Brazil](markdown/wallpaper-list-br.md) | 
+| `ca` | [🇨🇦 Canada](markdown/wallpaper-list-ca.md) | `cn` | [🇨🇳 China](markdown/wallpaper-list-cn.md) | `cz` | [🇨🇿 Czech Republic](markdown/wallpaper-list-cz.md) | 
+| `de` | [🇩🇪 Germany](markdown/wallpaper-list-de.md) | `dk` | [🇩🇰 Denmark](markdown/wallpaper-list-dk.md) | `es` | [🇪🇸 Spain](markdown/wallpaper-list-es.md) | 
+| `fi` | [🇫🇮 Finland](markdown/wallpaper-list-fi.md) | `fr` | [🇫🇷 France](markdown/wallpaper-list-fr.md) | `gb` | [🇬🇧 United Kingdom](markdown/wallpaper-list-gb.md) | 
+| `gr` | [🇬🇷 Greece](markdown/wallpaper-list-gr.md) | `hk` | [🇭🇰 Hong Kong](markdown/wallpaper-list-hk.md) | `id` | [🇮🇩 Indonesia](markdown/wallpaper-list-id.md) | 
+| `in` | [🇮🇳 India](markdown/wallpaper-list-in.md) | `it` | [🇮🇹 Italy](markdown/wallpaper-list-it.md) | `jp` | [🇯🇵 Japan](markdown/wallpaper-list-jp.md) | 
+| `kr` | [🇰🇷 South Korea](markdown/wallpaper-list-kr.md) | `my` | [🇲🇾 Malaysia](markdown/wallpaper-list-my.md) | `nl` | [🇳🇱 Netherlands](markdown/wallpaper-list-nl.md) | 
+| `no` | [🇳🇴 Norway](markdown/wallpaper-list-no.md) | `pl` | [🇵🇱 Poland](markdown/wallpaper-list-pl.md) | `pt` | [🇵🇹 Portugal](markdown/wallpaper-list-pt.md) | 
+| `ru` | [🇷🇺 Russia](markdown/wallpaper-list-ru.md) | `se` | [🇸🇪 Sweden](markdown/wallpaper-list-se.md) | `sg` | [🇸🇬 Singapore](markdown/wallpaper-list-sg.md) | 
+| `th` | [🇹🇭 Thailand](markdown/wallpaper-list-th.md) | `tr` | [🇹🇷 Turkey](markdown/wallpaper-list-tr.md) | `tw` | [🇹🇼 Taiwan](markdown/wallpaper-list-tw.md) | 
+| `ua` | [🇺🇦 Ukraine](markdown/wallpaper-list-ua.md) | `us` | [🇺🇸 United States](markdown/wallpaper-list-us.md) | `vn` | [🇻🇳 Vietnam](markdown/wallpaper-list-vn.md) | 
+| `za` | [🇿🇦 South Africa](markdown/wallpaper-list-za.md) |  |  |
 ## 🛠️ Local Usage
 
 ### Requirements
@@ -270,23 +270,18 @@ This project is for learning and research purposes only. All wallpaper copyright
 - [中文文档 (Chinese Documentation)](README_CN.md)
 - [English Documentation](README.md)
 
-## 🌍 Country Wallpaper Document Links
+## 🌍 Country Wallpaper Links
 
-Click the links below to view wallpaper documents for each country:
+Click the links below to view wallpaper for each country:
 
-| [🇦🇷 Argentina](markdown/wallpaper-list-ar.md) | [🇦🇺 Australia](markdown/wallpaper-list-au.md) | [🇧🇷 Brazil](markdown/wallpaper-list-br.md) | 
-|:---:|:---:|:---:|
-| [🇨🇦 Canada](markdown/wallpaper-list-ca.md) | [🇨🇳 China](markdown/wallpaper-list-cn.md) | [🇨🇿 Czech Republic](markdown/wallpaper-list-cz.md) | 
-| [🇩🇪 Germany](markdown/wallpaper-list-de.md) | [🇩🇰 Denmark](markdown/wallpaper-list-dk.md) | [🇪🇸 Spain](markdown/wallpaper-list-es.md) | 
-| [🇫🇮 Finland](markdown/wallpaper-list-fi.md) | [🇫🇷 France](markdown/wallpaper-list-fr.md) | [🇬🇧 United Kingdom](markdown/wallpaper-list-gb.md) | 
-| [🇬🇷 Greece](markdown/wallpaper-list-gr.md) | [🇭🇰 Hong Kong](markdown/wallpaper-list-hk.md) | [🇮🇩 Indonesia](markdown/wallpaper-list-id.md) | 
-| [🇮🇳 India](markdown/wallpaper-list-in.md) | [🇮🇹 Italy](markdown/wallpaper-list-it.md) | [🇯🇵 Japan](markdown/wallpaper-list-jp.md) | 
-| [🇰🇷 South Korea](markdown/wallpaper-list-kr.md) | [🇲🇾 Malaysia](markdown/wallpaper-list-my.md) | [🇳🇱 Netherlands](markdown/wallpaper-list-nl.md) | 
-| [🇳🇴 Norway](markdown/wallpaper-list-no.md) | [🇵🇱 Poland](markdown/wallpaper-list-pl.md) | [🇵🇹 Portugal](markdown/wallpaper-list-pt.md) | 
-| [🇷🇺 Russia](markdown/wallpaper-list-ru.md) | [🇸🇪 Sweden](markdown/wallpaper-list-se.md) | [🇸🇬 Singapore](markdown/wallpaper-list-sg.md) | 
-| [🇹🇭 Thailand](markdown/wallpaper-list-th.md) | [🇹🇷 Turkey](markdown/wallpaper-list-tr.md) | [🇹🇼 Taiwan](markdown/wallpaper-list-tw.md) | 
-| [🇺🇦 Ukraine](markdown/wallpaper-list-ua.md) | [🇺🇸 United States](markdown/wallpaper-list-us.md) | [🇻🇳 Vietnam](markdown/wallpaper-list-vn.md) | 
-| [🇿🇦 South Africa](markdown/wallpaper-list-za.md) |  |  | 
+| [🇦🇷 Argentina](https://bing.codexun.com/ar) | [🇦🇺 Australia](https://bing.codexun.com/au) | [🇧🇷 Brazil](https://bing.codexun.com/br) | [🇨🇦 Canada](https://bing.codexun.com/ca) | [🇨🇳 China](https://bing.codexun.com/cn) | 
+|:---:|:---:|:---:|:---:|:---:|
+| [🇨🇿 Czech Republic](https://bing.codexun.com/cz) | [🇩🇪 Germany](https://bing.codexun.com/de) | [🇩🇰 Denmark](https://bing.codexun.com/dk) | [🇪🇸 Spain](https://bing.codexun.com/es) | [🇫🇮 Finland](https://bing.codexun.com/fi) | 
+| [🇫🇷 France](https://bing.codexun.com/fr) | [🇬🇧 United Kingdom](https://bing.codexun.com/gb) | [🇬🇷 Greece](https://bing.codexun.com/gr) | [🇭🇰 Hong Kong](https://bing.codexun.com/hk) | [🇮🇩 Indonesia](https://bing.codexun.com/id) | 
+| [🇮🇳 India](https://bing.codexun.com/in) | [🇮🇹 Italy](https://bing.codexun.com/it) | [🇯🇵 Japan](https://bing.codexun.com/jp) | [🇰🇷 South Korea](https://bing.codexun.com/kr) | [🇲🇾 Malaysia](https://bing.codexun.com/my) | 
+| [🇳🇱 Netherlands](https://bing.codexun.com/nl) | [🇳🇴 Norway](https://bing.codexun.com/no) | [🇵🇱 Poland](https://bing.codexun.com/pl) | [🇵🇹 Portugal](https://bing.codexun.com/pt) | [🇷🇺 Russia](https://bing.codexun.com/ru) | 
+| [🇸🇪 Sweden](https://bing.codexun.com/se) | [🇸🇬 Singapore](https://bing.codexun.com/sg) | [🇹🇭 Thailand](https://bing.codexun.com/th) | [🇹🇷 Turkey](https://bing.codexun.com/tr) | [🇹🇼 Taiwan](https://bing.codexun.com/tw) | 
+| [🇺🇦 Ukraine](https://bing.codexun.com/ua) | [🇺🇸 United States](https://bing.codexun.com/us) | [🇻🇳 Vietnam](https://bing.codexun.com/vn) | [🇿🇦 South Africa](https://bing.codexun.com/za) |  | 
 
 
 ## Today's Wallpaper

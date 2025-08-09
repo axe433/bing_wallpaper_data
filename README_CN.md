@@ -116,18 +116,18 @@ GitHub Actions 每天自动执行以下步骤：
 
 | 代码 | 国家/地区 | 代码 | 国家/地区 | 代码 | 国家/地区 |
 |------|-----------|------|-----------|------|-----------|
-| `ar` | 🇦🇷 阿根廷 | `au` | 🇦🇺 澳大利亚 | `br` | 🇧🇷 巴西 | 
-| `ca` | 🇨🇦 加拿大 | `cn` | 🇨🇳 中国 | `cz` | 🇨🇿 捷克 | 
-| `de` | 🇩🇪 德国 | `dk` | 🇩🇰 丹麦 | `es` | 🇪🇸 西班牙 | 
-| `fi` | 🇫🇮 芬兰 | `fr` | 🇫🇷 法国 | `gb` | 🇬🇧 英国 | 
-| `gr` | 🇬🇷 希腊 | `hk` | 🇭🇰 香港 | `id` | 🇮🇩 印度尼西亚 | 
-| `in` | 🇮🇳 印度 | `it` | 🇮🇹 意大利 | `jp` | 🇯🇵 日本 | 
-| `kr` | 🇰🇷 韩国 | `my` | 🇲🇾 马来西亚 | `nl` | 🇳🇱 荷兰 | 
-| `no` | 🇳🇴 挪威 | `pl` | 🇵🇱 波兰 | `pt` | 🇵🇹 葡萄牙 | 
-| `ru` | 🇷🇺 俄罗斯 | `se` | 🇸🇪 瑞典 | `sg` | 🇸🇬 新加坡 | 
-| `th` | 🇹🇭 泰国 | `tr` | 🇹🇷 土耳其 | `tw` | 🇹🇼 台湾 | 
-| `ua` | 🇺🇦 乌克兰 | `us` | 🇺🇸 美国 | `vn` | 🇻🇳 越南 | 
-| `za` | 🇿🇦 南非 |  |  |
+| `ar` | [🇦🇷 阿根廷](markdown/wallpaper-list-ar.md) | `au` | [🇦🇺 澳大利亚](markdown/wallpaper-list-au.md) | `br` | [🇧🇷 巴西](markdown/wallpaper-list-br.md) | 
+| `ca` | [🇨🇦 加拿大](markdown/wallpaper-list-ca.md) | `cn` | [🇨🇳 中国](markdown/wallpaper-list-cn.md) | `cz` | [🇨🇿 捷克](markdown/wallpaper-list-cz.md) | 
+| `de` | [🇩🇪 德国](markdown/wallpaper-list-de.md) | `dk` | [🇩🇰 丹麦](markdown/wallpaper-list-dk.md) | `es` | [🇪🇸 西班牙](markdown/wallpaper-list-es.md) | 
+| `fi` | [🇫🇮 芬兰](markdown/wallpaper-list-fi.md) | `fr` | [🇫🇷 法国](markdown/wallpaper-list-fr.md) | `gb` | [🇬🇧 英国](markdown/wallpaper-list-gb.md) | 
+| `gr` | [🇬🇷 希腊](markdown/wallpaper-list-gr.md) | `hk` | [🇭🇰 香港](markdown/wallpaper-list-hk.md) | `id` | [🇮🇩 印度尼西亚](markdown/wallpaper-list-id.md) | 
+| `in` | [🇮🇳 印度](markdown/wallpaper-list-in.md) | `it` | [🇮🇹 意大利](markdown/wallpaper-list-it.md) | `jp` | [🇯🇵 日本](markdown/wallpaper-list-jp.md) | 
+| `kr` | [🇰🇷 韩国](markdown/wallpaper-list-kr.md) | `my` | [🇲🇾 马来西亚](markdown/wallpaper-list-my.md) | `nl` | [🇳🇱 荷兰](markdown/wallpaper-list-nl.md) | 
+| `no` | [🇳🇴 挪威](markdown/wallpaper-list-no.md) | `pl` | [🇵🇱 波兰](markdown/wallpaper-list-pl.md) | `pt` | [🇵🇹 葡萄牙](markdown/wallpaper-list-pt.md) | 
+| `ru` | [🇷🇺 俄罗斯](markdown/wallpaper-list-ru.md) | `se` | [🇸🇪 瑞典](markdown/wallpaper-list-se.md) | `sg` | [🇸🇬 新加坡](markdown/wallpaper-list-sg.md) | 
+| `th` | [🇹🇭 泰国](markdown/wallpaper-list-th.md) | `tr` | [🇹🇷 土耳其](markdown/wallpaper-list-tr.md) | `tw` | [🇹🇼 台湾](markdown/wallpaper-list-tw.md) | 
+| `ua` | [🇺🇦 乌克兰](markdown/wallpaper-list-ua.md) | `us` | [🇺🇸 美国](markdown/wallpaper-list-us.md) | `vn` | [🇻🇳 越南](markdown/wallpaper-list-vn.md) | 
+| `za` | [🇿🇦 南非](markdown/wallpaper-list-za.md) |  |  |
 ## 🛠️ 本地使用
 
 ### 环境要求
@@ -265,23 +265,18 @@ jobs:
 
 *最后更新：2025年8月*
 
-## 🌍 各国壁纸文档链接
+## 🌍 各国壁纸链接
 
-点击下方链接查看各国的壁纸文档：
+点击下方链接查看各国的壁纸：
 
-| [🇦🇷 阿根廷](markdown/wallpaper-list-ar.md) | [🇦🇺 澳大利亚](markdown/wallpaper-list-au.md) | [🇧🇷 巴西](markdown/wallpaper-list-br.md) | 
-|:---:|:---:|:---:|
-| [🇨🇦 加拿大](markdown/wallpaper-list-ca.md) | [🇨🇳 中国](markdown/wallpaper-list-cn.md) | [🇨🇿 捷克](markdown/wallpaper-list-cz.md) | 
-| [🇩🇪 德国](markdown/wallpaper-list-de.md) | [🇩🇰 丹麦](markdown/wallpaper-list-dk.md) | [🇪🇸 西班牙](markdown/wallpaper-list-es.md) | 
-| [🇫🇮 芬兰](markdown/wallpaper-list-fi.md) | [🇫🇷 法国](markdown/wallpaper-list-fr.md) | [🇬🇧 英国](markdown/wallpaper-list-gb.md) | 
-| [🇬🇷 希腊](markdown/wallpaper-list-gr.md) | [🇭🇰 香港](markdown/wallpaper-list-hk.md) | [🇮🇩 印度尼西亚](markdown/wallpaper-list-id.md) | 
-| [🇮🇳 印度](markdown/wallpaper-list-in.md) | [🇮🇹 意大利](markdown/wallpaper-list-it.md) | [🇯🇵 日本](markdown/wallpaper-list-jp.md) | 
-| [🇰🇷 韩国](markdown/wallpaper-list-kr.md) | [🇲🇾 马来西亚](markdown/wallpaper-list-my.md) | [🇳🇱 荷兰](markdown/wallpaper-list-nl.md) | 
-| [🇳🇴 挪威](markdown/wallpaper-list-no.md) | [🇵🇱 波兰](markdown/wallpaper-list-pl.md) | [🇵🇹 葡萄牙](markdown/wallpaper-list-pt.md) | 
-| [🇷🇺 俄罗斯](markdown/wallpaper-list-ru.md) | [🇸🇪 瑞典](markdown/wallpaper-list-se.md) | [🇸🇬 新加坡](markdown/wallpaper-list-sg.md) | 
-| [🇹🇭 泰国](markdown/wallpaper-list-th.md) | [🇹🇷 土耳其](markdown/wallpaper-list-tr.md) | [🇹🇼 台湾](markdown/wallpaper-list-tw.md) | 
-| [🇺🇦 乌克兰](markdown/wallpaper-list-ua.md) | [🇺🇸 美国](markdown/wallpaper-list-us.md) | [🇻🇳 越南](markdown/wallpaper-list-vn.md) | 
-| [🇿🇦 南非](markdown/wallpaper-list-za.md) |  |  | 
+| [🇦🇷 阿根廷](https://bing.codexun.com/ar) | [🇦🇺 澳大利亚](https://bing.codexun.com/au) | [🇧🇷 巴西](https://bing.codexun.com/br) | [🇨🇦 加拿大](https://bing.codexun.com/ca) | [🇨🇳 中国](https://bing.codexun.com/cn) | 
+|:---:|:---:|:---:|:---:|:---:|
+| [🇨🇿 捷克](https://bing.codexun.com/cz) | [🇩🇪 德国](https://bing.codexun.com/de) | [🇩🇰 丹麦](https://bing.codexun.com/dk) | [🇪🇸 西班牙](https://bing.codexun.com/es) | [🇫🇮 芬兰](https://bing.codexun.com/fi) | 
+| [🇫🇷 法国](https://bing.codexun.com/fr) | [🇬🇧 英国](https://bing.codexun.com/gb) | [🇬🇷 希腊](https://bing.codexun.com/gr) | [🇭🇰 香港](https://bing.codexun.com/hk) | [🇮🇩 印度尼西亚](https://bing.codexun.com/id) | 
+| [🇮🇳 印度](https://bing.codexun.com/in) | [🇮🇹 意大利](https://bing.codexun.com/it) | [🇯🇵 日本](https://bing.codexun.com/jp) | [🇰🇷 韩国](https://bing.codexun.com/kr) | [🇲🇾 马来西亚](https://bing.codexun.com/my) | 
+| [🇳🇱 荷兰](https://bing.codexun.com/nl) | [🇳🇴 挪威](https://bing.codexun.com/no) | [🇵🇱 波兰](https://bing.codexun.com/pl) | [🇵🇹 葡萄牙](https://bing.codexun.com/pt) | [🇷🇺 俄罗斯](https://bing.codexun.com/ru) | 
+| [🇸🇪 瑞典](https://bing.codexun.com/se) | [🇸🇬 新加坡](https://bing.codexun.com/sg) | [🇹🇭 泰国](https://bing.codexun.com/th) | [🇹🇷 土耳其](https://bing.codexun.com/tr) | [🇹🇼 台湾](https://bing.codexun.com/tw) | 
+| [🇺🇦 乌克兰](https://bing.codexun.com/ua) | [🇺🇸 美国](https://bing.codexun.com/us) | [🇻🇳 越南](https://bing.codexun.com/vn) | [🇿🇦 南非](https://bing.codexun.com/za) |  | 
 
 
 ## 今日壁纸

@@ -138,7 +138,8 @@ def generate_supported_countries_section(countries: List[str], lang: str) -> str
         for country in row_countries:
             country_name = country_mapping.get(country, {}).get(lang, country.upper())
             country_flag = flag_mapping.get(country, '🏳️')
-            row_content += f"`{country}` | {country_flag} {country_name} | "
+            country_link = f"[{country_flag} {country_name}](markdown/wallpaper-list-{country}.md)"
+            row_content += f"`{country}` | {country_link} | "
         
         # 补齐空列
         while len(row_countries) < 3:
@@ -174,27 +175,27 @@ def generate_country_links_section(countries: List[str], lang: str) -> str:
     flag_mapping = get_country_flag_mapping()
     
     if lang == 'cn':
-        section_title = "## 🌍 各国壁纸文档链接"
-        section_desc = "点击下方链接查看各国的壁纸文档："
+        section_title = "## 🌍 各国壁纸链接"
+        section_desc = "点击下方链接查看各国的壁纸："
     else:
-        section_title = "## 🌍 Country Wallpaper Document Links"
-        section_desc = "Click the links below to view wallpaper documents for each country:"
+        section_title = "## 🌍 Country Wallpaper Links"
+        section_desc = "Click the links below to view wallpaper for each country:"
     
     links_content = f"{section_title}\n\n{section_desc}\n\n"
     
-    # 按每行3个分组
-    for i in range(0, len(countries), 3):
-        row_countries = countries[i:i+3]
+    # 按每行5个分组
+    for i in range(0, len(countries), 5):
+        row_countries = countries[i:i+5]
         row_content = "| "
         
         for country in row_countries:
             country_name = country_mapping.get(country, {}).get(lang, country.upper())
             country_flag = flag_mapping.get(country, '🏳️')
-            link = f"[{country_flag} {country_name}](markdown/wallpaper-list-{country}.md)"
+            link = f"[{country_flag} {country_name}](https://bing.codexun.com/{country})"
             row_content += f"{link} | "
         
         # 补齐空列
-        while len(row_countries) < 3:
+        while len(row_countries) < 5:
             row_content += " | "
             row_countries.append("")
         
@@ -202,7 +203,7 @@ def generate_country_links_section(countries: List[str], lang: str) -> str:
         
         # 添加表格分隔符（只在第一行后添加）
         if i == 0:
-            links_content += "|:---:|:---:|:---:|\n"
+            links_content += "|:---:|:---:|:---:|:---:|:---:|\n"
     
     return links_content
 
