@@ -1,5 +1,8 @@
 # Bing Wallpaper Data Crawler and Markdown Generator
 
+- [English Documentation](README.md)
+- [中文文档](README_CN.md)
+
 An automated Bing wallpaper data collection and documentation generation project that supports daily wallpaper data crawling, high-definition image downloading, and Markdown document generation for 34+ countries and regions.
 
 ## 🌟 Key Features
@@ -265,8 +268,3 @@ This project is for learning and research purposes only. All wallpaper copyright
 ---
 
 *Last Updated: August 2025*
-
-## 📖 Documentation
-
-- [中文文档 (Chinese Documentation)](README_CN.md)
-- [English Documentation](README.md)

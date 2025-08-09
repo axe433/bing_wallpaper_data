@@ -1,5 +1,8 @@
 # Bing 壁纸数据爬虫与文档生成器
 
+- [English Documentation](README.md)
+- [中文文档](README_CN.md)
+
 这是一个自动化的 Bing 壁纸数据收集和文档生成项目，支持多国家/地区的每日壁纸数据抓取、高清图片下载和 Markdown 文档生成。
 
 ## 🌟 主要功能
