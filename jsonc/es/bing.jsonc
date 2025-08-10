@@ -1,5 +1,51 @@
 [
     {
+        "startdate": "20250810",
+        "fullstartdate": "202508102200",
+        "enddate": "20250811",
+        "url": "/th?id=OHR.SantaMaddalena_ES-ES3834895860_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SantaMaddalena_ES-ES3834895860",
+        "copyright": "Pueblo de Santa Maddalena, Dolomitas, Italia (© Sakrapee Nopparat/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dolomitas+Italia&form=hpcapt&filters=HpDate%3a%2220250810_2200%22",
+        "title": "La postal de los picos",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250810_SantaMaddalena%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6d69947f4019c917d06e60717572dcbe",
+        "hsh": "d9082b9f9ef8dae37f2150b503773b3c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En el norte de Italia, escondido en el valle de Val di Funes, se encuentra Santa Maddalena, un pueblo de postal en pleno Tirol del Sur. Su famoso campanario destaca frente a los Dolomitas, una cadena montañosa declarada Patrimonio de la Humanidad por la UNESCO y que deben su nombre al geólogo francés Déodat de Dolomieu. Al atardecer, estas montañas se tiñen de rosa en un fenómeno natural conocido como enrosadira.",
+                "Image": {
+                    "Url": "/th?id=OHR.SantaMaddalena_ES-ES3834895860_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SantaMaddalena_ES-ES3834895860_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La postal de los picos",
+                "Title": "Pueblo de Santa Maddalena, Dolomitas, Italia",
+                "Copyright": "© Sakrapee Nopparat/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250811_SantaMaddalena\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dolomitas+Italia&form=hpcapt&filters=HpDate:\"20250810_2200\"",
+                "TriviaId": "HPQuiz_20250811_SantaMaddalena"
+            },
+            "Ssd": "20250810_2200",
+            "FullDateString": "11 de ago. de 2025"
+        }
+    },
+    {
         "startdate": "20250809",
         "fullstartdate": "202508092200",
         "enddate": "20250810",
