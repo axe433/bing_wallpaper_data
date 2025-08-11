@@ -1,5 +1,51 @@
 [
     {
+        "startdate": "20250811",
+        "fullstartdate": "202508110300",
+        "enddate": "20250812",
+        "url": "/th?id=OHR.SantaMaddalena_PT-BR8037703771_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SantaMaddalena_PT-BR8037703771",
+        "copyright": "Vila de Santa Maddalena, Dolomitas, Itália (© Sakrapee Nopparat/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dolomitas+na+It%C3%A1lia&form=hpcapt&mkt=pt-br",
+        "title": "O cartão-postal dos picos",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250811_SantaMaddalena%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6d69947f4019c917d06e60717572dcbe",
+        "hsh": "e6b905cbe6efed4445ba4d82ddc37a4d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Vamos viajar à Itália hoje? A imagem do dia nos leva a Santa Maddalena, um vilarejo encantador no vale de Val di Funes, onde as casas parecem se encolher diante das Dolomitas. Essa cadeia montanhosa, formada por antigos recifes marinhos e esculpida ao longo de milênios pela ação da água e do vento, é composta por dolomita — rocha rica em cálcio e magnésio que, ao pôr do sol, se tinge de rosa no fenômeno local chamado “enrosadira”.",
+                "Image": {
+                    "Url": "/th?id=OHR.SantaMaddalena_PT-BR8037703771_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SantaMaddalena_PT-BR8037703771_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O cartão-postal dos picos",
+                "Title": "Vila de Santa Maddalena, Dolomitas, Itália",
+                "Copyright": "© Sakrapee Nopparat/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250811_SantaMaddalena\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dolomitas+na+It%c3%a1lia&form=hpcapt&filters=HpDate:\"20250811_0300\"",
+                "TriviaId": "HPQuiz_20250811_SantaMaddalena"
+            },
+            "Ssd": "20250811_0300",
+            "FullDateString": "11 ago. 2025"
+        }
+    },
+    {
         "startdate": "20250810",
         "fullstartdate": "202508100300",
         "enddate": "20250811",
