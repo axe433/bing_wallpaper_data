@@ -1,5 +1,51 @@
 [
     {
+        "startdate": "20250812",
+        "fullstartdate": "202508122200",
+        "enddate": "20250813",
+        "url": "/th?id=OHR.Flamingos_FR-FR9616625186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Flamingos_FR-FR9616625186",
+        "copyright": "Flamant rose, Saintes-Maries-de-la-Mer, Parc naturel régional de Camargue, Languedoc-Roussillon (© Raimund Linke/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Saintes-Maries-de-la-Mer&form=hpcapt&filters=HpDate%3a%2220250812_2200%22",
+        "title": "Le flamant rose, emblème vivant de la Camargue",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250812_Flamingos%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6b4557c04d9cc7e75b77e5e514b69d08",
+        "hsh": "410d0d8522eac8935333a80ef2a822db",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Aux portes des Saintes-Maries-de-la-Mer, le parc naturel régional de Camargue déploie ses paysages d’eau, de sel et de lumière. Ici, entre marais, sansouïres et lagunes, le flamant rose règne en majesté. Dans les eaux peu profondes, ces oiseaux gracieux, aux plumes rosées et aux ailes teintées de rouge et de noir, offrent un ballet aérien inoubliable.",
+                "Image": {
+                    "Url": "/th?id=OHR.Flamingos_FR-FR9616625186_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Flamingos_FR-FR9616625186_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Le flamant rose, emblème vivant de la Camargue",
+                "Title": "Flamant rose, Saintes-Maries-de-la-Mer, Parc naturel régional de Camargue, Languedoc-Roussillon",
+                "Copyright": "© Raimund Linke/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.45167,4.428056/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=43.45167,4.428056;S9;Saintes-Maries-de-la-Mer%2C%20France&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Saintes-Maries-de-la-Mer%2C%20France&satid=id.sid%3A346e5d24-7c4f-d46a-3c41-ea38f7a9f7cb&vdpid=7206748201817210881&mb=43.458114~4.412856~43.445231~4.44324&cardbg=%23F98745&tt=Saintes-Maries-de-la-Mer%2C%20Bouches-du-Rh%C3%B4ne&tsts0=%2526ty%253D30%2526q%253DSaintes-Maries-de-la-Mer%25252C%252520France%2526satid%253Did.sid%25253A346e5d24-7c4f-d46a-3c41-ea38f7a9f7cb%2526vdpid%253D7206748201817210881%2526mb%253D43.458114~4.412856~43.445231~4.44324%2526cardbg%253D%252523F98745&tstt0=Saintes-Maries-de-la-Mer%2C%20Bouches-du-Rh%C3%B4ne&cp=43.451673~4.422727&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250813_Flamingos\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Saintes-Maries-de-la-Mer&form=hpcapt&filters=HpDate:\"20250812_2200\"",
+                "TriviaId": "HPQuiz_20250813_Flamingos"
+            },
+            "Ssd": "20250812_2200",
+            "FullDateString": "13 août 2025"
+        }
+    },
+    {
         "startdate": "20250811",
         "fullstartdate": "202508112200",
         "enddate": "20250812",
