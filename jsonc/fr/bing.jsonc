@@ -1,5 +1,51 @@
 [
     {
+        "startdate": "20250814",
+        "fullstartdate": "202508142200",
+        "enddate": "20250815",
+        "url": "/th?id=OHR.SpottedEagleRay_FR-FR5066753247_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpottedEagleRay_FR-FR5066753247",
+        "copyright": "Raies léopards, île San Cristóbal, archipel des Galápagos, Équateur (© Tui De Roy/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=raie+l%C3%A9opard&form=hpcapt&filters=HpDate%3a%2220250814_2200%22",
+        "title": "Les ailes de l’océan",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250814_SpottedEagleRay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3384925292782804fae5e98f70e2eaa7",
+        "hsh": "07d81abb757bdc83584450d6ed8bafec",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Elles ne rampent pas sur le sable comme les pastenagues. Les raies léopards semblent voler. Leurs larges nageoires ondulent avec grâce. Leur dos tacheté, unique à chaque individu, scintille sous la lumière turquoise.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpottedEagleRay_FR-FR5066753247_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpottedEagleRay_FR-FR5066753247_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Les ailes de l'océan",
+                "Title": "Raies léopards, île San Cristóbal, archipel des Galápagos, Équateur",
+                "Copyright": "© Tui De Roy/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-0.8,-89.4/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=-0.8,-89.4;S9;archipel des Galápagos, Équateur&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=San%20Cristobal%20Island&satid=id.sid%3Ac6f044b8-4af9-fdd6-9c00-80924b35da85&vdpid=6341152786889048065&mb=-0.684968~-89.688521~-0.955951~-89.18033&cardbg=%23F98745&dt=1751362200000&tt=Isla%20San%20Crist%C3%B3bal%2C%20Gal%C3%A1pagos%2C%20Ecuador&tsts0=%2526ty%253D30%2526q%253DSan%252520Cristobal%252520Island%2526satid%253Did.sid%25253Ac6f044b8-4af9-fdd6-9c00-80924b35da85%2526vdpid%253D6341152786889048065%2526mb%253D-0.684968~-89.688521~-0.955951~-89.18033%2526cardbg%253D%252523F98745%2526dt%253D1751362200000&tstt0=Isla%20San%20Crist%C3%B3bal%2C%20Gal%C3%A1pagos%2C%20Ecuador&cp=-5.625093~-83.824365&lvl=5.6448774&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250815_SpottedEagleRay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=raie+l%c3%a9opard&form=hpcapt&filters=HpDate:\"20250814_2200\"",
+                "TriviaId": "HPQuiz_20250815_SpottedEagleRay"
+            },
+            "Ssd": "20250814_2200",
+            "FullDateString": "15 août 2025"
+        }
+    },
+    {
         "startdate": "20250813",
         "fullstartdate": "202508132200",
         "enddate": "20250814",

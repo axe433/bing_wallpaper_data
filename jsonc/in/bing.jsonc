@@ -1,5 +1,51 @@
 [
     {
+        "startdate": "20250814",
+        "fullstartdate": "202508141830",
+        "enddate": "20250815",
+        "url": "/th?id=OHR.RefFort2025_EN-IN3018612282_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RefFort2025_EN-IN3018612282",
+        "copyright": "Red Fort, Delhi (© MadhoG/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=India+Independence+day&form=hpcapt&filters=HpDate%3a%2220250814_1830%22",
+        "title": "Unfurling freedom",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250814_RefFort2025%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "dcc7ff0ade8c5fa040d3b499f4740421",
+        "hsh": "40c2c5f01a21c8a4b3ddbafeecae7c90",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "As the Red Fort echoes with patriotic speeches, the nation celebrates its Independence Day today. Observed every year on August 15, the day marks India's freedom from British rule in 1947. Years of colonial control had fuelled Indian nationalism and deepened the collective desire for self-governance. It was on this day that the Indian Independence Act of 1947 came into force, transferring legislative powers to the Indian Constituent Assembly.",
+                "Image": {
+                    "Url": "/th?id=OHR.RefFort2025_EN-IN3018612282_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RefFort2025_EN-IN3018612282_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Unfurling freedom",
+                "Title": "Red Fort, Delhi",
+                "Copyright": "© MadhoG/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/28.655809,77.240959/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=28.655809,77.240959;S9;Red Fort, Delhi&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Red%20Fort&satid=id.sid%3A4b999c2d-4525-3c0a-9b9c-5ffab0d57dfb&mb=29.107796~72.802157~23.093355~84.660798&description=Netaji%20Subhash%20Marg%2C%20Chandni%20Chowk%2C%20New%20Delhi%2C%20Delhi%20110006&cardbg=%23219AB6&dt=1752571800000&tt=Red%20Fort&tsts0=%2526ty%253D18%2526q%253DRed%252520Fort%2526satid%253Did.sid%25253A4b999c2d-4525-3c0a-9b9c-5ffab0d57dfb%2526mb%253D29.107796~72.802157~23.093355~84.660798%2526description%253DNetaji%252520Subhash%252520Marg%25252C%252520Chandni%252520Chowk%25252C%252520New%252520Delhi%25252C%252520Delhi%252520110006%2526cardbg%253D%252523219AB6%2526dt%253D1752571800000&tstt0=Red%20Fort&cp=25.499894~72.191955&lvl=6.040463&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250815_RefFort2025\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=India+Independence+day&form=hpcapt&filters=HpDate:\"20250814_1830\"",
+                "TriviaId": "HPQuiz_20250815_RefFort2025"
+            },
+            "Ssd": "20250814_1830",
+            "FullDateString": "15 Aug, 2025"
+        }
+    },
+    {
         "startdate": "20250813",
         "fullstartdate": "202508131830",
         "enddate": "20250814",
