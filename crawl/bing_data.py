@@ -49,6 +49,7 @@ for country, lang in country_to_lang.items():
     if not os.path.exists(directory):
         os.makedirs(directory)
 
+#  date_field='enddate', unique_field='fullstartdate'
 def merge_images(existing_images, new_images, date_field, unique_field=None):
     existing_dates = {image[date_field] for image in existing_images if date_field in image}
     if unique_field:
@@ -63,6 +64,7 @@ def merge_images(existing_images, new_images, date_field, unique_field=None):
     for image_info in new_images:
         # 只处理包含 fullstartdate 的数据
         if unique_field and unique_field in image_info:
+            #  TODO 使用 fullstartdate 对比
             unique_id = image_info[unique_field]
             if unique_id not in existing_ids:
                 # 如果不存在，添加新数据
@@ -76,6 +78,7 @@ def merge_images(existing_images, new_images, date_field, unique_field=None):
                 print(f"  ⏭️  跳过已存在数据: {unique_id}")
         # 处理不包含 fullstartdate 的数据，仍然使用 date 进行判断
         elif image_info[date_field] not in existing_dates:
+            #  TODO 使用 enddate 进行对比
             existing_images.append(image_info)
             existing_dates.add(image_info[date_field])
             added_count += 1
@@ -144,7 +147,7 @@ for country, lang in country_to_lang.items():
         # description = image2['ImageContent']['Description']
         # 找到对应 fullstartdate 的 image_info，并添加 description
         for image_info in images_info:
-            if image_info['fullstartdate'] == fullstartdate:
+            if image_info['fullstartdate'] == fullstartdate or image_info['startdate'] == fullstartdate:
                 image_info['MediaContent'] = image2
                 break  # 找到匹配项后跳出循环
 
