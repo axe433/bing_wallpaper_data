@@ -104,6 +104,16 @@ for country, lang in country_to_lang.items():
     response = requests.get(api_url)
     response_description = requests.get(api_description)
 
+    # Save the response data
+    response_dir = f"response/{country}"
+    os.makedirs(response_dir, exist_ok=True)
+
+    with open(os.path.join(response_dir, 'data_image.json'), 'w', encoding='utf-8') as f:
+        f.write(response.text)
+
+    with open(os.path.join(response_dir, 'data_description.json'), 'w', encoding='utf-8') as f:
+        f.write(response_description.text)
+    
     data = response.json()
     data_description = response_description.json()
 
