@@ -6,7 +6,7 @@
 
 **Ciudad de la tranquilidad**
 
-La ciudadela en Bonifacio, Córcega del sur, Francia
+En la costa de Zumaia, en Guipúzcoa, se encuentra uno de los paisajes geológicos más impresionantes de España: los flysch. Estas formaciones rocosas, visibles en los acantilados, muestran millones de años de historia de la Tierra en capas perfectamente alineadas. Pasear por la playa de Itzurun o desde el sendero del geoparque de la Costa Vasca permite observar este fenómeno natural único en Europa.
 
 *© Marc Dozier/Getty Images (Bing Spain)*
 

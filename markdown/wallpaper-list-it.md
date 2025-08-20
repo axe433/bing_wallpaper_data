@@ -6,7 +6,7 @@
 
 **Costruita per l’eternità**
 
-La Cittadella di Bonifacio, Corsica, Francia
+Sulla costa di Zumaia, nella provincia di Guipúzcoa, vi aspetta uno dei paesaggi geologici più affascinanti di tutta la Spagna: i flysch. Si tratta di spettacolari strati rocciosi sedimentari, formatisi milioni di anni fa sul fondo del mare, che si alternano come pagine di una storia antica. Il termine, di origine svizzera, significa "scivoloso" e descrive proprio la natura friabile e stratificata di queste rocce, visibili lungo le scogliere come un libro aperto sulla storia della Terra. Camminando sulla spiaggia di Itzurun o lungo il sentiero del geoparco della Costa Basca, potrete osservare questo spettacolo unico in Europa, dove ogni strato racconta un’epoca lontana.
 
 *© Marc Dozier/Getty Images (Bing Italy)*
 

@@ -6,7 +6,7 @@
 
 **Mächtige Mauern hoch über dem Meer**
 
-Die Zitadelle von Bonifacio, Südkorsika, Frankreich
+Im Norden des spanischen Baskenlandes, rund 40 Kilometer westlich von San Sebastián, liegt Zumaia – eine charmante Küstenstadt an einem der schönsten Abschnitte der Region, dort, wo die Flüsse Urola und Norrondo zusammenfließen. Besonders bekannt ist Zumaia für seine beeindruckenden Flysch-Felsformationen, die auf unserem heutigen Bild zu sehen sind. Diese schichtweise abgelagerten Kalk-, Sandstein- und Tonschiefergesteine entstanden über Millionen Jahre hinweg durch geologische Prozesse. Diese geologische Besonderheit fasziniert sowohl Wissenschaftler als auch Naturbegeisterte und Fotografen aus aller Welt. Die Steilküste von Zumaia gewährt spannende Einblicke in die Erdgeschichte und ist Teil des UNESCO-Geoparks der Baskischen Küste.
 
 *© Marc Dozier/Getty Images (Bing Germany)*
 

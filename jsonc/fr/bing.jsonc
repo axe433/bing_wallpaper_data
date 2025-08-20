@@ -15,7 +15,38 @@
         "drk": 1,
         "top": 1,
         "bot": 1,
-        "hs": []
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sur la côte de Zumaia, au cœur du Pays basque espagnol, se trouve l'un des paysages géologiques les plus saisissants d'Europe : les flysch. Ces falaises rocheuses dévoilent des couches parfaitement alignées qui racontent, telles les pages d'un livre ouvert, des millions d'années d'histoire de notre planète.",
+                "Image": {
+                    "Url": "/th?id=OHR.GipuzcoaSummer_FR-FR5838334376_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GipuzcoaSummer_FR-FR5838334376_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Voyage au cœur des âges",
+                "Title": "Couches de flysch à Zumaia, Pays basque, Espagne",
+                "Copyright": "© Eloi_Omella/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.28333,-2.25/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=43.28333,-2.25;S9;Zumaya&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Zumaya&vdpid=5668641172432617473&mb=43.311017~-2.284653~43.263316~-2.209111&cardbg=%23F98745&tt=Zumaya%2C%20Pa%C3%ADs%20Vasco%20%2F%20Euskadi%2C%20Espa%C3%B1a&tsts1=%2526ty%253D30%2526q%253DZumaya%2526vdpid%253D5668641172432617473%2526mb%253D43.311017~-2.284653~43.263316~-2.209111%2526cardbg%253D%252523F98745&tstt1=Zumaya%2C%20Pa%C3%ADs%20Vasco%20%2F%20Euskadi%2C%20Espa%C3%B1a&cp=39.304432~-4.516357&lvl=5.7157006&pi=0&ftst=1&ftics=True&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250819_GipuzcoaSummer\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Zumaia&form=hpcapt&filters=HpDate:\"20250818_2200\"",
+                "TriviaId": "HPQuiz_20250819_GipuzcoaSummer"
+            },
+            "Ssd": "20250819",
+            "Name": "GipuzcoaSummer",
+            "Market": "FR-FR",
+            "Hash": "5838334376",
+            "FullDateString": "19 août 2025"
+        }
     },
     {
         "startdate": "20250818",
@@ -33,7 +64,38 @@
         "drk": 1,
         "top": 1,
         "bot": 1,
-        "hs": []
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Alignées sous les arbres, leurs façades bleues, jaunes ou rouges comme autant de portes ouvertes vers un monde bourdonnant. Ces ruches colorées, photographiées en Italie, sont bien plus que de jolies cabanes : elles abritent les actrices d’un écosystème entier.",
+                "Image": {
+                    "Url": "/th?id=OHR.ColorfulBeehives_FR-FR5685260580_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ColorfulBeehives_FR-FR5685260580_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Des ruches qui font le buzzzzzz !",
+                "Title": "Ruches colorées, Italie",
+                "Copyright": "© Roberto Caucino/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Les abeilles domestiques utilisent une danse, appelée « danse frétillante », pour indiquer à leurs congénères l’emplacement de nourriture.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250818_ColorfulBeehives\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=ruche+et+abeille&form=hpcapt&filters=HpDate:\"20250817_2200\"",
+                "TriviaId": "HPQuiz_20250818_ColorfulBeehives"
+            },
+            "Ssd": "20250818",
+            "Name": "ColorfulBeehives",
+            "Market": "FR-FR",
+            "Hash": "5685260580",
+            "FullDateString": "18 août 2025"
+        }
     },
     {
         "startdate": "20250817",
@@ -51,7 +113,38 @@
         "drk": 1,
         "top": 1,
         "bot": 1,
-        "hs": []
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sur les dunes du Jutland, au Danemark, le phare de Lyngvig domine les vents et les vagues depuis 1906. Haut de 38 mètres, il fut bâti après un naufrage tragique, comme tant d’autres sentinelles du littoral. Chaque troisième week-end d’août, cet événement international rend hommage à ces monuments de lumière et aux histoires qu’ils portent.",
+                "Image": {
+                    "Url": "/th?id=OHR.LyngvigLighthouse_FR-FR5388600592_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LyngvigLighthouse_FR-FR5388600592_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Au rythme des phares, d'un océan à l'autre",
+                "Title": "Phare de Lyngvig, Hvide Sande, Danemark",
+                "Copyright": "© Caroline Brundle Bugge/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/56.049713,8.103892/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=56.049713,8.103892;S9;Lyngvig Lighthouse, Danmark&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Lyngvig%20Fyr&ss=ypid.YN8048x1235030552&segment=Attraction&mb=56.053905~8.091023~56.045528~8.116772&description=Holmsland%20Klitvej%20109%206960%20Hvide%20Sande&poicount=18&cardbg=%23219AB6&dt=1750930200000&tt=Lyngvig%20Fyr&tsts0=%2526ty%253D18%2526q%253DLyngvig%252520Fyr%2526ss%253Dypid.YN8048x1235030552%2526segment%253DAttraction%2526mb%253D56.053905~8.091023~56.045528~8.116772%2526description%253DHolmsland%252520Klitvej%252520109%2525206960%252520Hvide%252520Sande%2526poicount%253D18%2526cardbg%253D%252523219AB6%2526dt%253D1750930200000&tstt0=Lyngvig%20Fyr&cp=53.787877~2.953181&lvl=6.2801604&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250817_LyngvigLighthouse\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=phare&form=hpcapt&filters=HpDate:\"20250816_2200\"",
+                "TriviaId": "HPQuiz_20250817_LyngvigLighthouse"
+            },
+            "Ssd": "20250817",
+            "Name": "LyngvigLighthouse",
+            "Market": "FR-FR",
+            "Hash": "5388600592",
+            "FullDateString": "17 août 2025"
+        }
     },
     {
         "startdate": "20250816",
@@ -69,7 +162,38 @@
         "drk": 1,
         "top": 1,
         "bot": 1,
-        "hs": []
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Chaque 16 août, la Journée mondiale du cerf-volant célèbre l’art ancestral de faire danser le vent. Instaurée pour mettre en lumière cet art venu de Chine, cette journée invite petits et grands à lever les yeux vers le ciel. En France, si les grandes rencontres ont lieu à Dieppe ou Berck-sur-Mer, Fréjus, dans le Var, offre aussi un spectacle aérien inoubliable.",
+                "Image": {
+                    "Url": "/th?id=OHR.KiteFrejus_FR-FR4833953629_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KiteFrejus_FR-FR4833953629_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Le ciel en fête",
+                "Title": "Cerfs-volants dans le ciel de Fréjus, Var, Provence-Alpes-Côte d’Azur",
+                "Copyright": "© ICHAUVEL/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.43306,6.735556/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=43.43306,6.735556;S9;Fréjus, Var&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Fr%C3%A9jus&satid=id.sid%3A9033facd-54ad-8bcf-a54e-84a394fc417b&vdpid=7208338029797179393&mb=43.533237~6.596572~43.36829~6.985606&cardbg=%23F98745&tt=Fr%C3%A9jus%2C%20Var&tsts0=%2526ty%253D30%2526q%253DFr%2525C3%2525A9jus%2526satid%253Did.sid%25253A9033facd-54ad-8bcf-a54e-84a394fc417b%2526vdpid%253D7208338029797179393%2526mb%253D43.533237~6.596572~43.36829~6.985606%2526cardbg%253D%252523F98745&tstt0=Fr%C3%A9jus%2C%20Var&cp=43.450781~6.72299&lvl=12.321489&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250816_KiteFrejus\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=cerf-volant&form=hpcapt&filters=HpDate:\"20250815_2200\"",
+                "TriviaId": "HPQuiz_20250816_KiteFrejus"
+            },
+            "Ssd": "20250816",
+            "Name": "KiteFrejus",
+            "Market": "FR-FR",
+            "Hash": "4833953629",
+            "FullDateString": "16 août 2025"
+        }
     },
     {
         "startdate": "20250815",
@@ -87,7 +211,38 @@
         "drk": 1,
         "top": 1,
         "bot": 1,
-        "hs": []
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Elles ne rampent pas sur le sable comme les pastenagues. Les raies léopards semblent voler. Leurs larges nageoires ondulent avec grâce. Leur dos tacheté, unique à chaque individu, scintille sous la lumière turquoise.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpottedEagleRay_FR-FR5066753247_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpottedEagleRay_FR-FR5066753247_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Les ailes de l'océan",
+                "Title": "Raies léopards, île San Cristóbal, archipel des Galápagos, Équateur",
+                "Copyright": "© Tui De Roy/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-0.8,-89.4/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=-0.8,-89.4;S9;archipel des Galápagos, Équateur&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=San%20Cristobal%20Island&satid=id.sid%3Ac6f044b8-4af9-fdd6-9c00-80924b35da85&vdpid=6341152786889048065&mb=-0.684968~-89.688521~-0.955951~-89.18033&cardbg=%23F98745&dt=1751362200000&tt=Isla%20San%20Crist%C3%B3bal%2C%20Gal%C3%A1pagos%2C%20Ecuador&tsts0=%2526ty%253D30%2526q%253DSan%252520Cristobal%252520Island%2526satid%253Did.sid%25253Ac6f044b8-4af9-fdd6-9c00-80924b35da85%2526vdpid%253D6341152786889048065%2526mb%253D-0.684968~-89.688521~-0.955951~-89.18033%2526cardbg%253D%252523F98745%2526dt%253D1751362200000&tstt0=Isla%20San%20Crist%C3%B3bal%2C%20Gal%C3%A1pagos%2C%20Ecuador&cp=-5.625093~-83.824365&lvl=5.6448774&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250815_SpottedEagleRay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=raie+l%c3%a9opard&form=hpcapt&filters=HpDate:\"20250814_2200\"",
+                "TriviaId": "HPQuiz_20250815_SpottedEagleRay"
+            },
+            "Ssd": "20250815",
+            "Name": "SpottedEagleRay",
+            "Market": "FR-FR",
+            "Hash": "5066753247",
+            "FullDateString": "15 août 2025"
+        }
     },
     {
         "startdate": "20250814",

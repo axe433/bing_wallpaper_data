@@ -6,7 +6,7 @@
 
 **Entre ciel et mer, Bonifacio suspendue**
 
-Citadelle de Bonifacio, Corse-du-Sud, France
+Sur la côte de Zumaia, au cœur du Pays basque espagnol, se trouve l'un des paysages géologiques les plus saisissants d'Europe : les flysch. Ces falaises rocheuses dévoilent des couches parfaitement alignées qui racontent, telles les pages d'un livre ouvert, des millions d'années d'histoire de notre planète.
 
 *© Marc Dozier/Getty Images (Bing France)*
 

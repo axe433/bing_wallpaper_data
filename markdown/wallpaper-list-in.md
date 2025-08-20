@@ -6,7 +6,7 @@
 
 **Built to last**
 
-The citadel in Bonifacio, Southern Corsica, France
+It's a bird, it's a plane, it's … a fish! Gliding through the ocean with flapping fins and polka-dot flair, the spotted eagle ray refuses to blend in. It doesn't crawl along the seabed like its stingray cousins—it flies underwater. The species gets its name from—you guessed it—its protruding snout, which resembles an eagle's beak and its distinctive spotted back, which is unique to each individual, much like fingerprints. Their wing-like pectoral fins can span over 3 metres. Near the base of the long tail are venomous spines, in case a predator gets too close. These rays aren't aggressive, but they're not defenceless either.
 
 *© Marc Dozier/Getty Images (Bing India)*
 

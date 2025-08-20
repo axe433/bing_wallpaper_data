@@ -15,7 +15,38 @@
         "drk": 1,
         "top": 1,
         "bot": 1,
-        "hs": []
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sulla costa di Zumaia, nella provincia di Guipúzcoa, vi aspetta uno dei paesaggi geologici più affascinanti di tutta la Spagna: i flysch. Si tratta di spettacolari strati rocciosi sedimentari, formatisi milioni di anni fa sul fondo del mare, che si alternano come pagine di una storia antica. Il termine, di origine svizzera, significa \"scivoloso\" e descrive proprio la natura friabile e stratificata di queste rocce, visibili lungo le scogliere come un libro aperto sulla storia della Terra. Camminando sulla spiaggia di Itzurun o lungo il sentiero del geoparco della Costa Basca, potrete osservare questo spettacolo unico in Europa, dove ogni strato racconta un’epoca lontana.",
+                "Image": {
+                    "Url": "/th?id=OHR.GipuzcoaSummer_IT-IT3301652373_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GipuzcoaSummer_IT-IT3301652373_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Emozioni stratificate",
+                "Title": "Strati di flysch a Zumaia, Paesi Baschi, Spagna",
+                "Copyright": "© Eloi_Omella/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.28333,-2.25/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=43.28333,-2.25;S9;Zumaia, Paesi Baschi, Spagna&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Zumaya&vdpid=5668641172432617473&mb=43.311017~-2.284653~43.263316~-2.209111&cardbg=%23F98745&tt=Zumaya%2C%20Pa%C3%ADs%20Vasco%20%2F%20Euskadi%2C%20Espa%C3%B1a&tsts1=%2526ty%253D30%2526q%253DZumaya%2526vdpid%253D5668641172432617473%2526mb%253D43.311017~-2.284653~43.263316~-2.209111%2526cardbg%253D%252523F98745&tstt1=Zumaya%2C%20Pa%C3%ADs%20Vasco%20%2F%20Euskadi%2C%20Espa%C3%B1a&cp=39.304432~-4.516357&lvl=5.7157006&pi=0&ftst=1&ftics=True&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250819_GipuzcoaSummer\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Zumaia&form=hpcapt&filters=HpDate:\"20250818_2200\"",
+                "TriviaId": "HPQuiz_20250819_GipuzcoaSummer"
+            },
+            "Ssd": "20250819",
+            "Name": "GipuzcoaSummer",
+            "Market": "IT-IT",
+            "Hash": "3301652373",
+            "FullDateString": "19 agosto 2025"
+        }
     },
     {
         "startdate": "20250818",
@@ -33,7 +64,38 @@
         "drk": 1,
         "top": 1,
         "bot": 1,
-        "hs": []
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Benvenuti al lago di Avalanche, dove la natura non concede introduzioni: vi accoglie di colpo, con il passo incerto tra sassi nudi e sentieri che si stringono, mentre il silenzio alpino si apre come una soglia. Ci troviamo nello stato di New York, tra le High Peaks degli Adirondack. Questo lago riposa in una conca di roccia e vento, nascosto tra pareti severe e boschi che sembrano custodirlo con rispetto. La luce vibra sull’acqua immobile, riflettendo la vertigine di canyon e creste scolpite dal tempo e dal ghiaccio. Nel cuore di questo paesaggio austero c’è il Trap Dike, una fenditura possente tra le rocce, vertiginosa come un respiro trattenuto. Le valanghe che un tempo hanno modellato questi contorni hanno lasciato ferite splendide: visioni che non si dimenticano. Il sentiero parte dal Loj degli Adirondack, e da lì prende corpo, serpeggia, si arrampica e si ritrae nel bosco.",
+                "Image": {
+                    "Url": "/th?id=OHR.AvalancheLake_IT-IT9962796758_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AvalancheLake_IT-IT9962796758_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Il cuore nella roccia",
+                "Title": "Lago Avalanche sulle Adirondack High Peaks, New York, USA",
+                "Copyright": "© Posnov/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.19096,-73.789589/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=44.19096,-73.789589;S9;Lago di Avalanche, New York, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Avalanche%20Lake&ss=ypid.YN873x17388677487537349530&segment=Attraction&mb=44.196336~-73.802462~44.185582~-73.776712&description=Avalanche%20Pass%20Trail%2C%20Keene%2C%20NY%2012943&poicount=18&cardbg=%23219AB6&dt=1750930200000&tt=Avalanche%20Lake&tsts0=%2526ty%253D18%2526q%253DAvalanche%252520Lake%2526ss%253Dypid.YN873x17388677487537349530%2526segment%253DAttraction%2526mb%253D44.196336~-73.802462~44.185582~-73.776712%2526description%253DAvalanche%252520Pass%252520Trail%25252C%252520Keene%25252C%252520NY%25252012943%2526poicount%253D18%2526cardbg%253D%252523219AB6%2526dt%253D1750930200000&tstt0=Avalanche%20Lake&cp=40.908568~-85.59177&lvl=4.962369&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250818_AvalancheLake\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Monti+Adirondack+massiccio+cristallino&form=hpcapt&filters=HpDate:\"20250817_2200\"",
+                "TriviaId": "HPQuiz_20250818_AvalancheLake"
+            },
+            "Ssd": "20250818",
+            "Name": "AvalancheLake",
+            "Market": "IT-IT",
+            "Hash": "9962796758",
+            "FullDateString": "18 agosto 2025"
+        }
     },
     {
         "startdate": "20250817",
@@ -51,7 +113,38 @@
         "drk": 1,
         "top": 1,
         "bot": 1,
-        "hs": []
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sulla costa occidentale della Danimarca, nei pressi di Hvide Sande, il faro di Lyngvig si erge tra sabbia, vento e cielo. Costruito nel 1906, dopo una tragedia in mare, è l’ultimo grande faro innalzato lungo la costa del Paese. Ha il volto austero dei luoghi che non chiedono nulla, ma danno tutto: luce, spazio, respiro. I suoi muri di mattoni e le finestre in teak raccontano storie di mare, di solitudine e di rotte ritrovate.",
+                "Image": {
+                    "Url": "/th?id=OHR.LyngvigLighthouse_IT-IT3166242120_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LyngvigLighthouse_IT-IT3166242120_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Guardiano del Mare",
+                "Title": "Faro di Lyngvig, Hvide Sande, Danimarca",
+                "Copyright": "© Caroline Brundle Bugge/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/56.049713,8.103892/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=56.049713,8.103892;S9;Faro di Lyngvig, Hvide Sande, Danimarca&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Lyngvig%20Fyr&ss=ypid.YN8048x1235030552&segment=Attraction&mb=56.053905~8.091023~56.045528~8.116772&description=Holmsland%20Klitvej%20109%206960%20Hvide%20Sande&poicount=18&cardbg=%23219AB6&dt=1750930200000&tt=Lyngvig%20Fyr&tsts0=%2526ty%253D18%2526q%253DLyngvig%252520Fyr%2526ss%253Dypid.YN8048x1235030552%2526segment%253DAttraction%2526mb%253D56.053905~8.091023~56.045528~8.116772%2526description%253DHolmsland%252520Klitvej%252520109%2525206960%252520Hvide%252520Sande%2526poicount%253D18%2526cardbg%253D%252523219AB6%2526dt%253D1750930200000&tstt0=Lyngvig%20Fyr&cp=53.787877~2.953181&lvl=6.2801604&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250817_LyngvigLighthouse\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hvide+Sande+citt%c3%a0+portuale+danese&form=hpcapt&filters=HpDate:\"20250816_2200\"",
+                "TriviaId": "HPQuiz_20250817_LyngvigLighthouse"
+            },
+            "Ssd": "20250817",
+            "Name": "LyngvigLighthouse",
+            "Market": "IT-IT",
+            "Hash": "3166242120",
+            "FullDateString": "17 agosto 2025"
+        }
     },
     {
         "startdate": "20250816",
@@ -69,7 +162,38 @@
         "drk": 1,
         "top": 1,
         "bot": 1,
-        "hs": []
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Minuscole e instancabili, le api danzano tra i fiori come custodi invisibili dell’equilibrio naturale. Ogni volo è un gesto di cura, ogni ronzio un sussurro che tiene in vita il mondo. Una parte significativa della produzione alimentare globale dipende dal loro lavoro silenzioso: senza impollinatori come le api, interi ecosistemi agricoli perderebbero stabilità e varietà. Sono il cuore pulsante della biodiversità, le tessitrici silenziose di un futuro fertile.",
+                "Image": {
+                    "Url": "/th?id=OHR.ColorfulBeehives_IT-IT3102989336_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ColorfulBeehives_IT-IT3102989336_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ronzio, Ritmo, Rinascita",
+                "Title": "Alveari colorati, Italia",
+                "Copyright": "© Roberto Caucino/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Le api mellifere utilizzano una complessa \"danza delle scosse\" per comunicare la posizione delle fonti di cibo alle altre api dell'alveare.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250816_ColorfulBeehives\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Apis+mellifera&form=hpcapt&filters=HpDate:\"20250815_2200\"",
+                "TriviaId": "HPQuiz_20250816_ColorfulBeehives"
+            },
+            "Ssd": "20250816",
+            "Name": "ColorfulBeehives",
+            "Market": "IT-IT",
+            "Hash": "3102989336",
+            "FullDateString": "16 agosto 2025"
+        }
     },
     {
         "startdate": "20250815",
@@ -87,7 +211,38 @@
         "drk": 1,
         "top": 1,
         "bot": 1,
-        "hs": []
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Buon Ferragosto dalla Sardegna! Il 15 agosto, l’isola si accende di colori, tradizioni e sorrisi. Nell’Arcipelago di La Maddalena, la festa prende vita tra escursioni in barca, tuffi in acque cristalline e aperitivi al tramonto. È il giorno in cui la natura selvaggia incontra la convivialità, tra picnic in spiaggia, musica sotto le stelle, fuochi d’artificio che illuminano il granito e il mare, e risate che si rincorrono fino a notte fonda. Ferragosto qui non è solo una ricorrenza: è un rituale estivo che celebra la bellezza del Mediterraneo in tutta la sua autenticità.",
+                "Image": {
+                    "Url": "/th?id=OHR.LaMaddalenaSardegna_IT-IT3035454950_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LaMaddalenaSardegna_IT-IT3035454950_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Sapore di Sole",
+                "Title": "Parco Nazionale dell’Arcipelago di La Maddalena, Gallura Nord-Est Sardegna, Sardegna",
+                "Copyright": "© Travel Wild/iStock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.237303,9.410936/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=41.237303,9.410936;S9;Parco Nazionale La Maddalena, Sardegna&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Parco%20Nazionale%20dell%E2%80%99Arcipelago%20di%20La%20Maddalena&vdpid=7209813119319670785&ss=ypid.YN1354x12810895087592809221&mb=41.312641~9.295169~41.061008~9.645244&description=Strada%20Provinciale%20SP53%20-%2007024%20La%20Maddalena%20%28OT%29&cardbg=%233DB838&dt=1753095600000&tt=Parco%20Nazionale%20dell%27Arcipelago%20di%20La%20Maddalena&tsts0=%2526ty%253D30%2526q%253DParco%252520Nazionale%252520dell%2525E2%252580%252599Arcipelago%252520di%252520La%252520Maddalena%2526vdpid%253D7209813119319670785%2526ss%253Dypid.YN1354x12810895087592809221%2526mb%253D41.312641~9.295169~41.061008~9.645244%2526description%253DStrada%252520Provinciale%252520SP53%252520-%25252007024%252520La%252520Maddalena%252520%252528OT%252529%2526cardbg%253D%2525233DB838%2526dt%253D1753095600000&tstt0=Parco%20Nazionale%20dell%27Arcipelago%20di%20La%20Maddalena&cp=41.187078~9.196067&lvl=11.291518&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250815_LaMaddalenaSardegna\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parco+Nazionale+dell%e2%80%99+Arcipelago+di+La+Maddalena&form=hpcapt&filters=HpDate:\"20250814_2200\"",
+                "TriviaId": "HPQuiz_20250815_LaMaddalenaSardegna"
+            },
+            "Ssd": "20250815",
+            "Name": "LaMaddalenaSardegna",
+            "Market": "IT-IT",
+            "Hash": "3035454950",
+            "FullDateString": "15 agosto 2025"
+        }
     },
     {
         "startdate": "20250814",

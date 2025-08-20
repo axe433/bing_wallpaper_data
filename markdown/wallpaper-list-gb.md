@@ -6,7 +6,7 @@
 
 **Built to last**
 
-The citadel in Bonifacio, Southern Corsica, France
+No voice is loud enough to drown out the roar of Iguazú Falls. But it's not just the sound. The sheer presence of this natural wonder is overwhelming as it straddles the border between Argentina and Brazil. This vast waterfall system stretches nearly two miles and features more than 270 individual cascades, each offering a unique display of tumbling water and shimmering mist.
 
 *© Marc Dozier/Getty Images (Bing United Kingdom)*
 

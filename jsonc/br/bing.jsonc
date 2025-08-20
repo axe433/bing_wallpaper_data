@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250820",
+        "fullstartdate": "202508200300",
+        "enddate": "20250821",
+        "url": "/th?id=OHR.CitadelBonifacio_PT-BR4689124587_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CitadelBonifacio_PT-BR4689124587",
+        "copyright": "Cidadela de Bonifácio no sul da Córsega, França (© Marc Dozier/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Bonifacio+em+C%C3%B3rsega+Fran%C3%A7a&form=hpcapt&mkt=pt-br",
+        "title": "Construída para durar",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250820_CitadelBonifacio%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d815d45c386e71836c3474ddc52af575",
+        "hsh": "354bcd2ab45b94ae02f8d958272bc996",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Erguida sobre falésias de calcário no extremo sul da Córsega, a cidadela de Bonifácio — nossa imagem do dia — contempla o estreito que a separa da Sardenha. Fundada em 828 d.C. por Bonifácio II de Toscana, a cidade começou como uma fortificação estratégica, protegendo uma das rotas marítimas mais movimentadas do Mediterrâneo. Com o tempo, tornou-se um ponto de encontro para comerciantes, soldados e marinheiros, que moldaram sua estrutura urbana. Divide-se entre a cidade velha, no alto do penhasco, e a área marítima, que acompanha a enseada com portos e casas à beira-mar.",
+                "Image": {
+                    "Url": "/th?id=OHR.CitadelBonifacio_PT-BR4689124587_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CitadelBonifacio_PT-BR4689124587_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Construída para durar",
+                "Title": "Cidadela de Bonifácio no sul da Córsega, França",
+                "Copyright": "© Marc Dozier/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250820_CitadelBonifacio\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Bonifacio+em+C%c3%b3rsega+Fran%c3%a7a&form=hpcapt&filters=HpDate:\"20250820_0300\"",
+                "TriviaId": "HPQuiz_20250820_CitadelBonifacio"
+            },
+            "Ssd": "20250820",
+            "Name": "CitadelBonifacio",
+            "Market": "PT-BR",
+            "Hash": "4689124587",
+            "FullDateString": "20 ago. 2025"
+        }
+    },
+    {
         "startdate": "20250819",
         "fullstartdate": "202508190300",
         "enddate": "20250820",
@@ -15,7 +64,38 @@
         "drk": 1,
         "top": 1,
         "bot": 1,
-        "hs": []
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Zumaia, no País Basco, Espanha, é um daqueles lugares em que a Terra parece ter feito questão de deixar um rastro. Na imagem do dia, a falésia se dobra em linhas diagonais que lembram páginas de um livro aberto — mas aqui, o enredo é geológico. O flysch, formação rara à beira-mar, registra milhões de anos em camadas sucessivas de rocha, revelando eventos como extinções em massa e mudanças climáticas profundas. É o passado inteiro, exposto ao sol e à rebentação.",
+                "Image": {
+                    "Url": "/th?id=OHR.GipuzcoaSummer_PT-BR3784755779_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GipuzcoaSummer_PT-BR3784755779_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "As rochas que dançam com o mar",
+                "Title": "Camadas de flysch em Zumaia, País Basco, Espanha",
+                "Copyright": "© Eloi_Omella/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250819_GipuzcoaSummer\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Zumaia&form=hpcapt&filters=HpDate:\"20250819_0300\"",
+                "TriviaId": "HPQuiz_20250819_GipuzcoaSummer"
+            },
+            "Ssd": "20250819",
+            "Name": "GipuzcoaSummer",
+            "Market": "PT-BR",
+            "Hash": "3784755779",
+            "FullDateString": "19 ago. 2025"
+        }
     },
     {
         "startdate": "20250818",
@@ -33,7 +113,38 @@
         "drk": 1,
         "top": 1,
         "bot": 1,
-        "hs": []
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Não há transição suave para a natureza selvagem aqui — a trilha do Avalanche Lake, nossa imagem do dia, traça um caminho ousado por entre rochas, passagens estreitas e a serenidade alpina. Escondido nas Montanhas Adirondack, no estado de Nova York, este lago alpino de cerca de 9 hectares está a quase 884 metros de altitude, entre o Monte Colden e a Montanha Avalanche.",
+                "Image": {
+                    "Url": "/th?id=OHR.AvalancheLake_PT-BR3490746058_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AvalancheLake_PT-BR3490746058_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Trilhas que conectam",
+                "Title": "Trilha do Avalanche Lake nas Montanhas Adirondack, Nova York, EUA",
+                "Copyright": "© Posnov/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250818_AvalancheLake\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Montanhas+Altas+de+Adirondack%2c+Nova+York%2c+EUA&form=hpcapt&filters=HpDate:\"20250818_0300\"",
+                "TriviaId": "HPQuiz_20250818_AvalancheLake"
+            },
+            "Ssd": "20250818",
+            "Name": "AvalancheLake",
+            "Market": "PT-BR",
+            "Hash": "3490746058",
+            "FullDateString": "18 ago. 2025"
+        }
     },
     {
         "startdate": "20250817",
@@ -51,7 +162,38 @@
         "drk": 1,
         "top": 1,
         "bot": 1,
-        "hs": []
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Vistas do alto, as dunas de Jericoacoara revelam um desenho sempre em transformação. O vento cria e recria as curvas da areia clara, a luz se espalha pelo litoral e o mar ganha tonalidades que mudam ao longo do dia. No oeste do Ceará, essa antiga vila de pescadores parece nascer da própria paisagem, sem quebrar a calma das formas naturais. Ali, o asfalto não chega; as ruas de areia prolongam o contorno das praias e sustentam o ritmo tranquilo do lugar.",
+                "Image": {
+                    "Url": "/th?id=OHR.Jeribeach_PT-BR3080165878_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Jeribeach_PT-BR3080165878_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Um desenho feito de vento e tempo",
+                "Title": "Vista aérea de praia em Jericoacoara, no Ceará",
+                "Copyright": "© AmazingAerialAgency/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250817_Jeribeach\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=praia+de+Jericoacoara&form=hpcapt&filters=HpDate:\"20250817_0300\"",
+                "TriviaId": "HPQuiz_20250817_Jeribeach"
+            },
+            "Ssd": "20250817",
+            "Name": "Jeribeach",
+            "Market": "PT-BR",
+            "Hash": "3080165878",
+            "FullDateString": "17 ago. 2025"
+        }
     },
     {
         "startdate": "20250816",
@@ -69,7 +211,38 @@
         "drk": 1,
         "top": 1,
         "bot": 1,
-        "hs": []
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Se você acha que as abelhas estão apenas por aí para picar, pense de novo. Essas pequenas trabalhadoras aladas comandam um dos trabalhos mais doces e importantes do planeta. Na imagem, vemos colmeias coloridas na Itália. As abelhas usam as cores para diferenciar suas casas, assim como usamos números nas portas. Isso evita confusões e invasões entre colmeias.",
+                "Image": {
+                    "Url": "/th?id=OHR.ColorfulBeehives_PT-BR1350605096_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ColorfulBeehives_PT-BR1350605096_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Coloridas, trabalhadoras e essenciais",
+                "Title": "Colmeias coloridas, Itália",
+                "Copyright": "© Roberto Caucino/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250816_ColorfulBeehives\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=abelha-europeia&form=hpcapt&filters=HpDate:\"20250816_0300\"",
+                "TriviaId": "HPQuiz_20250816_ColorfulBeehives"
+            },
+            "Ssd": "20250816",
+            "Name": "ColorfulBeehives",
+            "Market": "PT-BR",
+            "Hash": "1350605096",
+            "FullDateString": "16 ago. 2025"
+        }
     },
     {
         "startdate": "20250815",
@@ -87,7 +260,38 @@
         "drk": 1,
         "top": 1,
         "bot": 1,
-        "hs": []
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "É um pássaro? Um avião? Não… é um peixe! A raia-pintada da foto desliza pelo oceano com nadadeiras que batem como asas e um corpo coberto por manchas únicas, como impressões digitais. Diferente de outras arraias, ela não rasteja no fundo do mar — ela literalmente \"voa\" debaixo d’água.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpottedEagleRay_PT-BR1035439304_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpottedEagleRay_PT-BR1035439304_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Asas no azul profundo",
+                "Title": "Raia-pintada, Ilha San Cristóbal, Galápagos, Equador",
+                "Copyright": "© Tui De Roy/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250815_SpottedEagleRay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Raia-pintada&form=hpcapt&filters=HpDate:\"20250815_0300\"",
+                "TriviaId": "HPQuiz_20250815_SpottedEagleRay"
+            },
+            "Ssd": "20250815",
+            "Name": "SpottedEagleRay",
+            "Market": "PT-BR",
+            "Hash": "1035439304",
+            "FullDateString": "15 ago. 2025"
+        }
     },
     {
         "startdate": "20250814",
