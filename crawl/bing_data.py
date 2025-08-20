@@ -111,10 +111,13 @@ for country, lang in country_to_lang.items():
     response_dir = f"response/{country}"
     os.makedirs(response_dir, exist_ok=True)
 
-    with open(os.path.join(response_dir, 'data_image.json'), 'w', encoding='utf-8') as f:
+    # 获取当前日期并格式化
+    current_date = datetime.now().strftime('%Y%m%d')
+
+    with open(os.path.join(response_dir, f'{current_date}_data_image.json'), 'w', encoding='utf-8') as f:
         f.write(response.text)
 
-    with open(os.path.join(response_dir, 'data_description.json'), 'w', encoding='utf-8') as f:
+    with open(os.path.join(response_dir, f'{current_date}_data_description.json'), 'w', encoding='utf-8') as f:
         f.write(response_description.text)
     
     data = response.json()
