@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250820",
+        "fullstartdate": "202508201500",
+        "enddate": "20250821",
+        "url": "/th?id=OHR.WheatearBird_JA-JP4532304114_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WheatearBird_JA-JP4532304114",
+        "copyright": "ピーク・ディストリクト国立公園, イングランド (© Ben Hall/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%8F%E3%82%B7%E3%82%B0%E3%83%AD%E3%83%92%E3%82%BF%E3%82%AD&form=hpcapt&filters=HpDate%3a%2220250820_1500%22",
+        "title": "花咲く野に佇むハシグロヒタキ",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250820_WheatearBird%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "802f1a8c8fac3c65ca3e13adec43d46e",
+        "hsh": "b16dac522d85ade49bbf142c55bd04e8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "フランス・コルシカ島の南端に位置するボニファシオ。歴史的な趣のある街で、断崖の上にある旧市街と、港周辺に広がる新しい街並みが特徴です。西暦 828 年、トスカーナのボニファス 2 世がこの地に要塞を築き、その後長い間、地中海の航路を守る重要な拠点として栄えてきました…",
+                "Image": {
+                    "Url": "/th?id=OHR.CitadelBonifacio_JA-JP4122292062_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CitadelBonifacio_JA-JP4122292062_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "地中海を見下ろす絶景のお城",
+                "Title": "ボニファシオの城塞, フランス",
+                "Copyright": "© Marc Dozier/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.38802,9.160529/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=41.38802,9.160529;S9;ボニファシオの城塞, フランス&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Citadel%20in%20Bonifacio&ss=ypid.YN2000x10421764216980575599&mb=41.39628~9.138565~41.379747~9.18251&description=Bastion%20de%20l%E2%80%99Etendard%2C%20Rue%20de%20la%20Torricella%2C%2020169%20Bonifacio%C2%B7Ch%C3%A2teau&cardbg=%23219AB6&dt=1751272200000&tt=Bonifacio%20Citadel&tsts0=%2526ty%253D18%2526q%253DCitadel%252520in%252520Bonifacio%2526ss%253Dypid.YN2000x10421764216980575599%2526mb%253D41.39628~9.138565~41.379747~9.18251%2526description%253DBastion%252520de%252520l%2525E2%252580%252599Etendard%25252C%252520Rue%252520de%252520la%252520Torricella%25252C%25252020169%252520Bonifacio%2525C2%2525B7Ch%2525C3%2525A2teau%2526cardbg%253D%252523219AB6%2526dt%253D1751272200000&tstt0=Bonifacio%20Citadel&cp=41.348782~8.901151&lvl=7.147566&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250820_CitadelBonifacio\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%9c%e3%83%8b%e3%83%95%e3%82%a1%e3%82%b7%e3%82%aa%e3%81%ae%e5%9f%8e%e5%a1%9e&form=hpcapt&filters=HpDate:\"20250819_1500\"",
+                "TriviaId": "HPQuiz_20250820_CitadelBonifacio"
+            },
+            "Ssd": "20250820",
+            "Name": "CitadelBonifacio",
+            "Market": "JA-JP",
+            "Hash": "4122292062",
+            "FullDateString": "2025 年 8月 月 20 日"
+        }
+    },
+    {
         "startdate": "20250819",
         "fullstartdate": "202508191500",
         "enddate": "20250820",

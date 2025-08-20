@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250820",
+        "fullstartdate": "202508202200",
+        "enddate": "20250821",
+        "url": "/th?id=OHR.WheatearBird_IT-IT3442241392_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WheatearBird_IT-IT3442241392",
+        "copyright": "Culbianco ed Erica in fiore, Parco Nazionale del Peak District, Inghilterra (© Ben Hall/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Oenanthe+oenanthe&form=hpcapt",
+        "title": "Ombra che migra",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250820_WheatearBird%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "802f1a8c8fac3c65ca3e13adec43d46e",
+        "hsh": "9f29c4ee8716ac12c0fd97daba666728",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sospesa tra mare e cielo, Bonifacio, all’estremo sud della Corsica, si affaccia con fierezza sull’orizzonte. Le sue falesie calcaree, scolpite dal vento, dominano le acque come sentinelle antiche. Un luogo nato per proteggere, che oggi conquista lo sguardo. Non è nata come meta da cartolina: Bonifacio fu fondata come fortificazione costiera e, per secoli, ha sorvegliato una delle rotte marittime più trafficate del Mediterraneo. Fu Bonifacio II di Toscana a istituirla nel lontano 828, e da allora la città è diventata crocevia di mercanti, soldati e marinai, ognuno dei quali ha contribuito alla sua forma e alla sua identità.",
+                "Image": {
+                    "Url": "/th?id=OHR.CitadelBonifacio_IT-IT3373229957_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CitadelBonifacio_IT-IT3373229957_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Costruita per l'eternità",
+                "Title": "La Cittadella di Bonifacio, Corsica, Francia",
+                "Copyright": "© Marc Dozier/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.67461,9.117152/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=41.67461,9.117152;S9;La Cittadella di Bonifacio, Corsica, Francia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Citadel%20in%20Bonifacio&ss=ypid.YN2000x10421764216980575599&mb=41.39628~9.138565~41.379747~9.18251&description=Bastion%20de%20l%E2%80%99Etendard%2C%20Rue%20de%20la%20Torricella%2C%2020169%20Bonifacio%C2%B7Ch%C3%A2teau&cardbg=%23219AB6&dt=1751272200000&tt=Bonifacio%20Citadel&tsts0=%2526ty%253D18%2526q%253DCitadel%252520in%252520Bonifacio%2526ss%253Dypid.YN2000x10421764216980575599%2526mb%253D41.39628~9.138565~41.379747~9.18251%2526description%253DBastion%252520de%252520l%2525E2%252580%252599Etendard%25252C%252520Rue%252520de%252520la%252520Torricella%25252C%25252020169%252520Bonifacio%2525C2%2525B7Ch%2525C3%2525A2teau%2526cardbg%253D%252523219AB6%2526dt%253D1751272200000&tstt0=Bonifacio%20Citadel&cp=41.348782~8.901151&lvl=7.147566&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250820_CitadelBonifacio\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Bonifacio&form=hpcapt&filters=HpDate:\"20250819_2200\"",
+                "TriviaId": "HPQuiz_20250820_CitadelBonifacio"
+            },
+            "Ssd": "20250820",
+            "Name": "CitadelBonifacio",
+            "Market": "IT-IT",
+            "Hash": "3373229957",
+            "FullDateString": "20 agosto 2025"
+        }
+    },
+    {
         "startdate": "20250819",
         "fullstartdate": "202508192200",
         "enddate": "20250820",
