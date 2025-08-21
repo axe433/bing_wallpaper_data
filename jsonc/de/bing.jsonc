@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250821",
+        "fullstartdate": "202508212200",
+        "enddate": "20250822",
+        "url": "/th?id=OHR.FieldKaiserstuhl_DE-DE8624743800_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FieldKaiserstuhl_DE-DE8624743800",
+        "copyright": "Ansicht eines landwirtschaftlichen Feldes, Kaiserstuhl, Baden-Württemberg (© EyeEM Mobile GmbH/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Kaiserstuhl&form=hpcapt&filters=HpDate%3a%2220250821_2200%22",
+        "title": "Inmitten unendlicher Weinterrassen",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250821_FieldKaiserstuhl%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "037f5686f6ba341d9e7b43d2462ad584",
+        "hsh": "34f8b211f2208fa4c15835ded47d7b22",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Der auffällige kleine Singvogel auf unserem heutigen Bild ist ein Steinschmätzer – ein faszinierender Zugvogel, der vor allem in offenen, steinigen Landschaften wie Gebirgen, Heiden oder Strandwiesen zu Hause ist. Mit seiner aufrechten Haltung, dem charakteristischen schwarz-weißen Schwanzmuster und der hellen Unterseite ist er leicht zu erkennen. Im Frühjahr trägt das Männchen ein besonders kontrastreiches Gefieder mit grauem Rücken und schwarzer Gesichtsmaske. Auch sein Zugverhalten ist bemerkenswert: Der nur etwa 25 Gramm leichte Vogel legt jährlich über 10.000 Kilometer zurück – von Europa bis ins südliche Afrika. Diese Strecke zählt zu den längsten bekannten Zugrouten eines Vogels seiner Größe.",
+                "Image": {
+                    "Url": "/th?id=OHR.WheatearBird_DE-DE8545255513_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WheatearBird_DE-DE8545255513_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Kleine Flugkünstler",
+                "Title": "Steinschmätzer, Peak-District-Nationalpark, England",
+                "Copyright": "© Ben Hall/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/53.199345,-1.979117/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=53.199345,-1.979117;S9;Peak-District-Nationalpark, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Peak%20District%20National%20Park&vdpid=5470596076643811329&ss=ypid.YN1029x576662774073335430&mb=53.597855~-2.532569~53.03381~-1.09102&description=Baslow%20Road%2C%20Bakewell%20DE45%201AE&cardbg=%233DB838&dt=1751016600000&tt=Peak%20District%20National%20Park&tsts0=%2526ty%253D30%2526q%253DPeak%252520District%252520National%252520Park%2526vdpid%253D5470596076643811329%2526ss%253Dypid.YN1029x576662774073335430%2526mb%253D53.597855~-2.532569~53.03381~-1.09102%2526description%253DBaslow%252520Road%25252C%252520Bakewell%252520DE45%2525201AE%2526cardbg%253D%2525233DB838%2526dt%253D1751016600000&tstt0=Peak%20District%20National%20Park&cp=53.309527~-2.391069&lvl=11.578942&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250821_WheatearBird\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Steinschm%c3%a4tzer&form=hpcapt&filters=HpDate:\"20250820_2200\"",
+                "TriviaId": "HPQuiz_20250821_WheatearBird"
+            },
+            "Ssd": "20250821",
+            "Name": "WheatearBird",
+            "Market": "DE-DE",
+            "Hash": "8545255513",
+            "FullDateString": "21. Aug.. 2025"
+        }
+    },
+    {
         "startdate": "20250820",
         "fullstartdate": "202508202200",
         "enddate": "20250821",
