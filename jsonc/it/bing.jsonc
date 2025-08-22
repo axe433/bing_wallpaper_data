@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250822",
+        "fullstartdate": "202508222200",
+        "enddate": "20250823",
+        "url": "/th?id=OHR.SaintBarbaras_IT-IT0267106236_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SaintBarbaras_IT-IT0267106236",
+        "copyright": "Cattedrale di Santa Barbara, Kutná Hora, Repubblica Ceca (© Castka/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Cattedrale+di+Santa+Barbara+Kutn%C3%A1+Hora+Cechia&form=hpcapt",
+        "title": "Cuspidi e Mistica",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250822_SaintBarbaras%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0343ab56b6982e50306dd01b14c9230f",
+        "hsh": "df587f947a1ddf7988d0482be4ccc80d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ondata dopo ondata, le colline della Palouse, nello stato americano di Washington, si distendono come pieghe morbide di un drappo silenzioso, vellutate e leggere, immerse in un equilibrio che sembra sospeso nel tempo. La regione si allunga fino ai confini dell’Idaho e dell’Oregon, dove le coltivazioni di grano seguono, quasi danzando, il ritmo delle stagioni. In primavera, il verde tenero riveste ogni pendio, quando grano e orzo appena nati affiorano come promesse; in estate, le colline si ammantano di dorati chiaroscuri, maturi e quieti, pronti a offrire i frutti alla terra.",
+                "Image": {
+                    "Url": "/th?id=OHR.PalouseWA_IT-IT4357870693_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PalouseWA_IT-IT4357870693_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Panismo e Poesia?",
+                "Title": "Praterie ondulate della Palouse, Washington, USA",
+                "Copyright": "© svetlana57/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.5891,-117.07/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=46.5891,-117.07;S9;Palouse, Washington, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Palouse&satid=id.sid%3Ab8e6553e-223e-fada-2ca5-557972236ae2&vdpid=4862887303703429121&mb=46.598251~-117.094531~46.57901~-117.044989&cardbg=%23F98745&dt=1752132600000&tt=Palouse%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253DPalouse%2526satid%253Did.sid%25253Ab8e6553e-223e-fada-2ca5-557972236ae2%2526vdpid%253D4862887303703429121%2526mb%253D46.598251~-117.094531~46.57901~-117.044989%2526cardbg%253D%252523F98745%2526dt%253D1752132600000&tstt0=Palouse%2C%20United%20States&cp=36.108921~-140.571742&lvl=4.6190553&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250822_PalouseWA\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Palouse&form=hpcapt&filters=HpDate:\"20250821_2200\"",
+                "TriviaId": "HPQuiz_20250822_PalouseWA"
+            },
+            "Ssd": "20250822",
+            "Name": "PalouseWA",
+            "Market": "IT-IT",
+            "Hash": "4357870693",
+            "FullDateString": "22 agosto 2025"
+        }
+    },
+    {
         "startdate": "20250821",
         "fullstartdate": "202508212200",
         "enddate": "20250822",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250822",
+        "fullstartdate": "202508222200",
+        "enddate": "20250823",
+        "url": "/th?id=OHR.SaintBarbaras_FR-FR4490815569_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SaintBarbaras_FR-FR4490815569",
+        "copyright": "Cathédrale Sainte-Barbe, Kutná Hora, Tchéquie (© Castka/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Cath%C3%A9drale+Sainte-Barbe&form=hpcapt&filters=HpDate%3a%2220250822_2200%22",
+        "title": "Une cathédrale en hommage aux mineurs",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250822_SaintBarbaras%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0343ab56b6982e50306dd01b14c9230f",
+        "hsh": "f4d314f9ef2b40d0540794bb269fcf82",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sous les frondaisons du Domaine national de Saint-Cloud, classé monument historique, la musique s’invite là où jadis résonnaient les fêtes royales. Chaque été, Rock en Seine transforme ce parc dessiné par Le Nôtre en un écrin vibrant : fontaines, sculptures et allées à la française deviennent le décor d’un festival où l’histoire rencontre l’électricité du rock.",
+                "Image": {
+                    "Url": "/th?id=OHR.RockSeine_FR-FR5220728990_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RockSeine_FR-FR5220728990_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Rock et patrimoine, même tempo",
+                "Title": "Domaine national de Saint-Cloud, Grande Cascade, Île de France",
+                "Copyright": "© GUIZIOU Franck/hemis.fr",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.837723,2.216719/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=48.837723,2.216719;S9;Domaine national de Saint-Cloud, Île de France&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=domaine%20de%20saint-cloud&vdpid=7012580254174674954&ss=ypid.YN2000x18234320164194456883&mb=48.849623~2.168913~48.817742~2.22373&description=1%20AV%20de%20la%20Grille%20d%27Honneur%2C%2092210%20Saint-Cloud&cardbg=%233DB838&dt=1752843600000&tt=Domaine%20national%20de%20Saint-Cloud&tsts0=%2526ty%253D30%2526q%253Ddomaine%252520de%252520saint-cloud%2526vdpid%253D7012580254174674954%2526ss%253Dypid.YN2000x18234320164194456883%2526mb%253D48.849623~2.168913~48.817742~2.22373%2526description%253D1%252520AV%252520de%252520la%252520Grille%252520d%252527Honneur%25252C%25252092210%252520Saint-Cloud%2526cardbg%253D%2525233DB838%2526dt%253D1752843600000&tstt0=Domaine%20national%20de%20Saint-Cloud&cp=48.87197~2.029925&lvl=10.8133955&pi=0&ftst=0&ftics=False&v=2&sV =&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250822_RockSeine\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Festival+Rock+en+Seine&form=hpcapt&filters=HpDate:\"20250821_2200\"",
+                "TriviaId": "HPQuiz_20250822_RockSeine"
+            },
+            "Ssd": "20250822",
+            "Name": "RockSeine",
+            "Market": "FR-FR",
+            "Hash": "5220728990",
+            "FullDateString": "22 août 2025"
+        }
+    },
+    {
         "startdate": "20250821",
         "fullstartdate": "202508212200",
         "enddate": "20250822",
