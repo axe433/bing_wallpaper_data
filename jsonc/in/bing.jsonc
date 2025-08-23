@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250823",
+        "fullstartdate": "202508231830",
+        "enddate": "20250824",
+        "url": "/th?id=OHR.CervusDama_EN-IN1330796053_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CervusDama_EN-IN1330796053",
+        "copyright": "European fallow deer, England (© Enrique Aguirre Aves/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=European+fallow+deer&form=hpcapt&filters=HpDate%3a%2220250823_1830%22",
+        "title": "'Fallow' me",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250823_CervusDama%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "277d8655822545403789b302ef2e27e2",
+        "hsh": "7c6519948749aeb3cf1c652fc6059e09",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Rising like a stone hymn in the heart of Kutná Hora, a town in Czechia, the Cathedral of St. Barbara is an example of medieval grandeur. The cathedral was dedicated to St. Barbara, the patron saint of miners—an enduring symbol for a community whose lifeblood was silver. The miners themselves played a key role in building the cathedral that still bears her name. Originally envisioned on a much grander scale—twice its current size—the cathedral's fate was tied to the fortunes of the silver mines. In the years that followed, the Jesuits took over, gradually introducing Baroque elements into the original Gothic design.",
+                "Image": {
+                    "Url": "/th?id=OHR.SaintBarbaras_EN-IN1181237590_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SaintBarbaras_EN-IN1181237590_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Gothic majesty",
+                "Title": "St. Barbara's Cathedral, Kutná Hora, Czechia",
+                "Copyright": "© Castka/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/49.944893,15.263266/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=49.944893,15.263266;S9;The Cathedral of St. Barbara, Kutná Hora, Czechia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=St%20Barbara%27s%20Cathedral&ss=ypid.YN8046x7434223566493806923&segment=Local&mb=49.947537~15.255686~49.942255~15.270835&description=Barborska%20Street%20284%2001%20Kutna%20Hora&cardbg=%2388979C&dt=1752143400000&tt=St%20Barbara%27s%20Cathedral&tsts0=%2526ty%253D18%2526q%253DSt%252520Barbara%252527s%252520Cathedral%2526ss%253Dypid.YN8046x7434223566493806923%2526segment%253DLocal%2526mb%253D49.947537~15.255686~49.942255~15.270835%2526description%253DBarborska%252520Street%252520284%25252001%252520Kutna%252520Hora%2526cardbg%253D%25252388979C%2526dt%253D1752143400000&tstt0=St%20Barbara%27s%20Cathedral&cp=52.876501~14.693196&lvl=5.51159&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250823_SaintBarbaras\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=St+Barbaras+Cathedral&form=hpcapt&filters=HpDate:\"20250822_1830\"",
+                "TriviaId": "HPQuiz_20250823_SaintBarbaras"
+            },
+            "Ssd": "20250823",
+            "Name": "SaintBarbaras",
+            "Market": "EN-IN",
+            "Hash": "1181237590",
+            "FullDateString": "23 Aug, 2025"
+        }
+    },
+    {
         "startdate": "20250822",
         "fullstartdate": "202508221830",
         "enddate": "20250823",

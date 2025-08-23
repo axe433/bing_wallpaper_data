@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250823",
+        "fullstartdate": "202508230700",
+        "enddate": "20250824",
+        "url": "/th?id=OHR.Flamingos_ROW6320249671_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Flamingos_ROW6320249671",
+        "copyright": "Greater flamingos, Saintes-Maries-de-la-Mer, Camargue Regional Nature Park, France (© Raimund Linke/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Greater+flamingo&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250823_Flamingos%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6b4557c04d9cc7e75b77e5e514b69d08",
+        "hsh": "7265a9e14989fa3817601efb335c05be",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "At the gateway to Saintes-Maries-de-la-Mer, the Camargue Regional Natural Park unfolds its landscapes of water, salt and light. Here, amidst marshes, salt marshes and lagoons, the greater flamingo reigns supreme. In the shallow waters, these graceful birds, with their pink feathers and wings tinged with red and black, perform an unforgettable aerial ballet.",
+                "Image": {
+                    "Url": "/th?id=OHR.Flamingos_ROW6320249671_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Flamingos_ROW6320249671_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Greater flamingos, Saintes-Maries-de-la-Mer, Camargue Regional Nature Park, France",
+                "Copyright": "© Raimund Linke/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250823_Flamingos\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Greater+flamingo&form=hpcapt&filters=HpDate:\"20250823_0700\"",
+                "TriviaId": "HPQuiz_20250823_Flamingos"
+            },
+            "Ssd": "20250823",
+            "Name": "Flamingos",
+            "Market": "ROW",
+            "Hash": "6320249671",
+            "FullDateString": "23 Aug 2025"
+        }
+    },
+    {
         "startdate": "20250822",
         "fullstartdate": "202508220700",
         "enddate": "20250823",
