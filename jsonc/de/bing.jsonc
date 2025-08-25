@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250825",
+        "fullstartdate": "202508252200",
+        "enddate": "20250826",
+        "url": "/th?id=OHR.KitesurferGermany_DE-DE6337370430_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KitesurferGermany_DE-DE6337370430",
+        "copyright": "Silhouette eines springenden Kitesurfers bei Sonnenuntergang im baltischen Meer (© Jens Breuer/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Defender+GKA+Kite+World+Cup+auf+Sylt&form=hpcapt&filters=HpDate%3a%2220250825_2200%22",
+        "title": "Wind, Wellen und Adrenalin",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250825_KitesurferGermany%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "430fb27a1b23ae67262146096f762750",
+        "hsh": "422fefa3a25fc20c5b28ba114d5bc553",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Mit einer Fläche von fast 9.000 km² ist der Yellowstone-Nationalpark größer als Korsika und zugleich ein Ort voller geologischer Wunder und spektakulärer Landschaften. Er liegt im Nordwesten der USA, hauptsächlich in Wyoming, und ist berühmt für seine Geysire, heißen Quellen und die riesige Caldera eines Supervulkans. Das heutige Bild zeigt den Calcite Springs Overlook, einen ganz besonderen Aussichtspunkt. Hier trifft thermische Aktivität auf eine dramatische Canyonlandschaft. Dabei offenbart sich ein faszinierendes Zusammenspiel aus Naturgewalten: Der Yellowstone River schlängelt sich durch einen von Lava geformten Canyon mit schwarzen Basaltklippen und weißen Mineralablagerungen, die von heißen Quellen stammen.",
+                "Image": {
+                    "Url": "/th?id=OHR.YellowstoneRiver_DE-DE2550082704_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.YellowstoneRiver_DE-DE2550082704_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Naturgewalten im Wandel",
+                "Title": "Aussichtspunkt Calcite Springs und Yellowstone River, Yellowstone-Nationalpark, Wyoming, USA",
+                "Copyright": "© Rebecca L. Latson/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.902538,-110.392708/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=44.902538,-110.392708;S9;Yellowstone-Nationalpark, Wyoming, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Calcite%20Springs%20overlook&ss=ypid.YN873x4645145190670723051&mb=44.908254~-110.402706~44.89681~-110.382707&description=Grand%20Loop%20Rd%2C%20Yellowstone%20National%20Park%2C%20WY%2082190&cardbg=%23219AB6&dt=1752579000000&tt=Calcite%20Springs%20Overlook&tsts0=%2526ty%253D18%2526q%253DCalcite%252520Springs%252520overlook%2526ss%253Dypid.YN873x4645145190670723051%2526mb%253D44.908254~-110.402706~44.89681~-110.382707%2526description%253DGrand%252520Loop%252520Rd%25252C%252520Yellowstone%252520National%252520Park%25252C%252520WY%25252082190%2526cardbg%253D%252523219AB6%2526dt%253D1752579000000&tstt0=Calcite%20Springs%20Overlook&cp=37.89384~-117.133853&lvl=5.2258635&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250825_YellowstoneRiver\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=+Yellowstone-Nationalpark+USA&form=hpcapt&filters=HpDate:\"20250824_2200\"",
+                "TriviaId": "HPQuiz_20250825_YellowstoneRiver"
+            },
+            "Ssd": "20250825",
+            "Name": "YellowstoneRiver",
+            "Market": "DE-DE",
+            "Hash": "2550082704",
+            "FullDateString": "25. Aug.. 2025"
+        }
+    },
+    {
         "startdate": "20250824",
         "fullstartdate": "202508242200",
         "enddate": "20250825",
