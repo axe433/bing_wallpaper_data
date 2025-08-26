@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250826",
+        "fullstartdate": "202508262200",
+        "enddate": "20250827",
+        "url": "/th?id=OHR.FaroeLake_ES-ES8719950614_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FaroeLake_ES-ES8719950614",
+        "copyright": "Lago Sørvágsvatn, Isla de Vágar, Islas Feroe, Reino de Dinamarca (© Anton Petrus/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=S%C3%B8rv%C3%A1gsvatn&form=hpcapt&filters=HpDate%3a%2220250826_2200%22",
+        "title": "Un lago sobre el océano",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250826_FaroeLake%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "aa50bcee969b8df08342e3eb6cd76a0d",
+        "hsh": "64c45cd3f93e6a67ec02cd6769222b60",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Si los cuentos de hadas tuvieran arquitectos, quizás habrían diseñado un lugar como Alberobello, en el sur de Italia. Pero en vez de magia, fueron la piedra caliza, la técnica tradicional y, según algunas teorías, el ingenio para evitar impuestos lo que dio forma a sus famosas casas: los trullos. Estas viviendas, encaladas y coronadas con techos cónicos de piedra apilada en seco, surgieron en el siglo XIV. Los vecinos las construían sin mortero para poder desmontarlas rápidamente cuando llegaba el recaudador de impuestos. Ingenioso, ¿verdad?",
+                "Image": {
+                    "Url": "/th?id=OHR.TrulliHouses_ES-ES8633260965_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TrulliHouses_ES-ES8633260965_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Una construcción icónica",
+                "Title": "Los trulli de Alberobello, Apulia, Italia",
+                "Copyright": "© Feng Wei Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250826_TrulliHouses\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Alberobello&form=hpcapt&filters=HpDate:\"20250825_2200\"",
+                "TriviaId": "HPQuiz_20250826_TrulliHouses"
+            },
+            "Ssd": "20250826",
+            "Name": "TrulliHouses",
+            "Market": "ES-ES",
+            "Hash": "8633260965",
+            "FullDateString": "26 de ago. de 2025"
+        }
+    },
+    {
         "startdate": "20250825",
         "fullstartdate": "202508252200",
         "enddate": "20250826",

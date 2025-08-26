@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250826",
+        "fullstartdate": "202508260300",
+        "enddate": "20250827",
+        "url": "/th?id=OHR.TrulliHouses_PT-BR9475692206_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TrulliHouses_PT-BR9475692206",
+        "copyright": "Casas trulli em Alberobello, Apúlia, Itália (© Feng Wei Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Alberobello%2c+Ap%C3%BAlia%2c+It%C3%A1lia&form=hpcapt&mkt=pt-br",
+        "title": "Trulli encantado",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250826_TrulliHouses%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "02db0516c273f9df3b0fbcce4787a231",
+        "hsh": "fb3809e78cb0a5cfeb98b1a7ae564b80",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Se contos de fadas tivessem arquitetos, eles talvez criassem algo como Alberobello, na Itália. Mas em vez de varinhas mágicas, foram o calcário, a alvenaria sem argamassa e — segundo algumas teorias — um pouco de evasão fiscal que ergueram as casas emblemáticas da cidade: os trulli, nossa imagem de hoje. São estruturas de pedra caiada com coberturas de calcário empilhado sem cimento, em forma de cone invertido, como sorvetes ao contrário. Trata-se de uma técnica ancestral de construção — e, neste caso, engenhosa. No século XIV, os moradores, aparentemente, construíam casas que podiam ser desmontadas rapidamente sempre que chegava o coletor de impostos, para evitar tributos.",
+                "Image": {
+                    "Url": "/th?id=OHR.TrulliHouses_PT-BR9475692206_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TrulliHouses_PT-BR9475692206_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Trulli encantado",
+                "Title": "Casas trulli em Alberobello, Apúlia, Itália",
+                "Copyright": "© Feng Wei Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250826_TrulliHouses\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Alberobello%2c+Ap%c3%balia%2c+It%c3%a1lia&form=hpcapt&filters=HpDate:\"20250826_0300\"",
+                "TriviaId": "HPQuiz_20250826_TrulliHouses"
+            },
+            "Ssd": "20250826",
+            "Name": "TrulliHouses",
+            "Market": "PT-BR",
+            "Hash": "9475692206",
+            "FullDateString": "26 ago. 2025"
+        }
+    },
+    {
         "startdate": "20250825",
         "fullstartdate": "202508250300",
         "enddate": "20250826",

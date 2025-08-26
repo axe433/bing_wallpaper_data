@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250826",
+        "fullstartdate": "202508262300",
+        "enddate": "20250827",
+        "url": "/th?id=OHR.FaroeLake_EN-GB9601686603_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FaroeLake_EN-GB9601686603",
+        "copyright": "Sørvágsvatn lake, island of Vágar, Faroe Islands (© Anton Petrus/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=World+Lake+Day&form=hpcapt&filters=HpDate%3a%2220250826_2300%22",
+        "title": "A lake above the ocean",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250826_FaroeLake%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "aa50bcee969b8df08342e3eb6cd76a0d",
+        "hsh": "45ce06373d0aa6352288ac1f9fd23a8d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "If fairy tales had architects, they might've come up with something like Alberobello in Italy. But instead of magic wands, it was limestone, mortar-free masonry and—according to some theories—a bit of tax evasion that built this town's signature homes: the trulli. These are whitewashed stone houses topped with dry-stacked limestone roofs shaped like upside-down ice cream cones. It's an ancient building technique, and in this case, a clever one. Back in the 14th century, locals were reportedly trying to avoid property taxes by constructing homes that could be quickly dismantled when the king's tax collector came around.",
+                "Image": {
+                    "Url": "/th?id=OHR.TrulliHouses_EN-GB9384999011_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TrulliHouses_EN-GB9384999011_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A 'trulli' remarkable town",
+                "Title": "Trullo buildings in Alberobello, Apulia, Italy",
+                "Copyright": "© Feng Wei Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.78406,17.23746/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=40.78406,17.23746;S9;Alberobello, Apulia, Italy&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Alberobello&satid=id.sid%3A1a4741bd-af44-01b9-226f-69d471844aa5&vdpid=7218434605160857601&mb=40.826256~17.161562~40.756973~17.333161&cardbg=%23F98745&tt=Alberobello%2C%20Apulia%2C%20Italy&tsts0=%2526ty%253D30%2526q%253DAlberobello%2526satid%253Did.sid%25253A1a4741bd-af44-01b9-226f-69d471844aa5%2526vdpid%253D7218434605160857601%2526mb%253D40.826256~17.161562~40.756973~17.333161%2526cardbg%253D%252523F98745&tstt0=Alberobello%2C%20Apulia%2C%20Italy&cp=39.839177~9.461211&lvl=5.029382&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250826_TrulliHouses\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Alberobello&form=hpcapt&filters=HpDate:\"20250825_2300\"",
+                "TriviaId": "HPQuiz_20250826_TrulliHouses"
+            },
+            "Ssd": "20250826",
+            "Name": "TrulliHouses",
+            "Market": "EN-GB",
+            "Hash": "9384999011",
+            "FullDateString": "26 Aug 2025"
+        }
+    },
+    {
         "startdate": "20250825",
         "fullstartdate": "202508252300",
         "enddate": "20250826",
