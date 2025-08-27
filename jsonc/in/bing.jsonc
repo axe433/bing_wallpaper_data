@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250827",
+        "fullstartdate": "202508271830",
+        "enddate": "20250828",
+        "url": "/th?id=OHR.WhiteEgret_EN-IN3331960000_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WhiteEgret_EN-IN3331960000",
+        "copyright": "Great white egret, Hungary (© Markus Varesvuo/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Great+white+egret&form=hpcapt&filters=HpDate%3a%2220250827_1830%22",
+        "title": "This egret has no regrets",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250827_WhiteEgret%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "29188e7b58922dc8f8f261276973be91",
+        "hsh": "2c0c0a84b1666e61c3934a13fb455b41",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Marking ten days of devotion, rituals and community spirit, Ganesh Chaturthi is one of the country's most cherished festivals. Rooted in deep cultural and religious significance, the celebration honours the beloved elephant-headed deity, a symbol of wisdom and prosperity. Festivities begin with the installation of intricately crafted idols, or murtis, placed in homes and on grand public pandals (temporary stages). Over the next ten days, communities come alive with prayer, music and cultural performances. The festival culminates in a vibrant procession on Ananta Chaturdashi, as the murtis are immersed in rivers or seas in a ritual known as visarjana, symbolising a respectful farewell.",
+                "Image": {
+                    "Url": "/th?id=OHR.ClayGanesha_EN-IN3970807588_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ClayGanesha_EN-IN3970807588_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Crafted with soil and soul",
+                "Title": "Clay-idol of Ganesha at a temple near Bengaluru",
+                "Copyright": "© Amith Nag Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Ganesh Chaturthi gained popularity in 1893 when freedom fighter Lokmanya Bal Gangadhar Tilak transformed it into a public celebration to unite people against British rule.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250827_ClayGanesha\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ganesh+Chaturthi&form=hpcapt&filters=HpDate:\"20250826_1830\"",
+                "TriviaId": "HPQuiz_20250827_ClayGanesha"
+            },
+            "Ssd": "20250827",
+            "Name": "ClayGanesha",
+            "Market": "EN-IN",
+            "Hash": "3970807588",
+            "FullDateString": "27 Aug, 2025"
+        }
+    },
+    {
         "startdate": "20250826",
         "fullstartdate": "202508261830",
         "enddate": "20250827",
