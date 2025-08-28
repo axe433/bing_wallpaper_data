@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250828",
+        "fullstartdate": "202508280300",
+        "enddate": "20250829",
+        "url": "/th?id=OHR.WhiteEgret_PT-BR8998981600_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WhiteEgret_PT-BR8998981600",
+        "copyright": "Garça-branca-grande, Hungria (© Markus Varesvuo/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Gar%C3%A7a-branca-grande&form=hpcapt&mkt=pt-br",
+        "title": "Resistência é o novo branco",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250828_WhiteEgret%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "29188e7b58922dc8f8f261276973be91",
+        "hsh": "cffa01e8b894e0f9e9394daa9e4b837e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ela não segue tendências: tem estilo próprio. Está sempre vestida de branco, impecável em qualquer estação. A garça-branca-grande — ou simplesmente garça-branca, como a que vemos na imagem, fotografada na Hungria — habita pântanos, estuários e rios calmos nas Américas, na África, Ásia e Europa. No Brasil, é figura carimbada em manguezais, áreas alagadas e no vasto Pantanal, onde sua figura esguia indica que a natureza está em equilíbrio. Pode ficar imóvel por longos minutos, à espera do momento exato para lançar seu ataque relâmpago. Prefere peixes, mas não recusa sapos, pequenos répteis e até mamíferos.",
+                "Image": {
+                    "Url": "/th?id=OHR.WhiteEgret_PT-BR8998981600_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WhiteEgret_PT-BR8998981600_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Resistência é o novo branco",
+                "Title": "Garça-branca-grande, Hungria",
+                "Copyright": "© Markus Varesvuo/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250828_WhiteEgret\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Gar%c3%a7a-branca-grande&form=hpcapt&filters=HpDate:\"20250828_0300\"",
+                "TriviaId": "HPQuiz_20250828_WhiteEgret"
+            },
+            "Ssd": "20250828",
+            "Name": "WhiteEgret",
+            "Market": "PT-BR",
+            "Hash": "8998981600",
+            "FullDateString": "28 ago. 2025"
+        }
+    },
+    {
         "startdate": "20250827",
         "fullstartdate": "202508270300",
         "enddate": "20250828",

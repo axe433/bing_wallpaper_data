@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250828",
+        "fullstartdate": "202508282200",
+        "enddate": "20250829",
+        "url": "/th?id=OHR.PlazaMayor_ES-ES8897104707_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PlazaMayor_ES-ES8897104707",
+        "copyright": "Vista aérea de la Plaza Mayor, Madrid, España (© AirPano LLC/Amazing Aerial Agency)",
+        "copyrightlink": "https://www.bing.com/search?q=Plaza+Mayor+Madrid&form=hpcapt&filters=HpDate%3a%2220250828_2200%22",
+        "title": "El corazón de la red",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250828_PlazaMayor%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ffe398fb3eab07720311370a8f8f2a68",
+        "hsh": "a6207dd5a826a7ec313f327df102d513",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Visten de blanco todo el año y sin vergüenza. Conozca a la garza grande, también llamada garza blanca, un ave elegante y silenciosa que habita humedales, marismas y riberas tranquilas de América, Asia, África y partes de Europa. Pueden permanecer inmóviles durante minutos, esperando el momento justo para lanzar su ataque relámpago. Su dieta se basa en peces, aunque también cazan ranas, reptiles e incluso pequeños mamíferos.",
+                "Image": {
+                    "Url": "/th?id=OHR.WhiteEgret_ES-ES8814073965_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WhiteEgret_ES-ES8814073965_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un plumaje impoluto",
+                "Title": "Garza blanca, Hungría",
+                "Copyright": "© Markus Varesvuo/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250828_WhiteEgret\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Garza+blanca&form=hpcapt&filters=HpDate:\"20250827_2200\"",
+                "TriviaId": "HPQuiz_20250828_WhiteEgret"
+            },
+            "Ssd": "20250828",
+            "Name": "WhiteEgret",
+            "Market": "ES-ES",
+            "Hash": "8814073965",
+            "FullDateString": "28 de ago. de 2025"
+        }
+    },
+    {
         "startdate": "20250827",
         "fullstartdate": "202508272200",
         "enddate": "20250828",
