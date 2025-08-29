@@ -86,8 +86,12 @@ def merge_images_with_update(old_images, new_images_data):
 
 def process_local_files():
     """
-    主函数，遍历所有国家，从本地读取文件，合并数据并保存。
+    主函数，遍历所有国家，从本地读取文件，合并数据，并用合并后的正确数据修正目标文件。
     """
+    # 定义修正的日期范围
+    correction_start_date = "20250815"
+    correction_end_date = "20250828"
+
     for country, lang in countries.items():
         print(f"Processing country: {country.upper()}")
 
@@ -131,12 +135,36 @@ def process_local_files():
                     if desc_item:
                         image['MediaContent'] = desc_item
             
-            # 4. 将合并后的文件保存到 merge.json
-            output_path = os.path.join(response_dir, 'merge.json')
-            with open(output_path, 'w', encoding='utf-8') as f:
-                json.dump(images_info, f, ensure_ascii=False, indent=4)
+            # 4. 读取、修正并写回目标文件
+            target_file_path = f'./jsonc/{country}/bing.jsonc'
+            if not os.path.exists(target_file_path):
+                print(f"  Target file not found: {target_file_path}, skipping correction.")
+                continue
+
+            with open(target_file_path, 'r', encoding='utf-8') as f:
+                target_data = json.load(f)
+
+            # 将修正源数据转换为以 startdate 为键的字典，以便快速查找
+            correct_data_map = {item['startdate']: item for item in images_info if 'startdate' in item}
+
+            update_count = 0
+            for item in target_data:
+                item_startdate = item.get('startdate')
+                if item_startdate and correction_start_date <= item_startdate <= correction_end_date:
+                    correct_item = correct_data_map.get(item_startdate)
+                    # 如果找到了对应的正确数据，并且其中包含 MediaContent
+                    if correct_item and 'MediaContent' in correct_item:
+                        # 只有当 MediaContent 不存在或内容不同时才更新
+                        if item.get('MediaContent') != correct_item['MediaContent']:
+                            item['MediaContent'] = correct_item['MediaContent']
+                            update_count += 1
             
-            print(f"  Successfully merged data and saved to '{output_path}'.\n")
+            if update_count > 0:
+                with open(target_file_path, 'w', encoding='utf-8') as f:
+                    json.dump(target_data, f, ensure_ascii=False, indent=4)
+                print(f"  Successfully corrected {update_count} items in '{target_file_path}'.\n")
+            else:
+                print(f"  No items needed correction in '{target_file_path}'.\n")
 
         except json.JSONDecodeError as e:
             print(f"Error decoding JSON for {country.upper()}: {e}")
