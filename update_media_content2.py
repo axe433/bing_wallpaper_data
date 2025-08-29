@@ -116,25 +116,28 @@ def process_local_files():
                                 seen_startdates.add(startdate)
 
             # 2. 从 'data_description' 文件读取描述数据
-            description_map = {}
+            descriptions_info = []
+            seen_titles = set()
             for filename in os.listdir(response_dir):
                 if 'data_description' in filename:
                     file_path = os.path.join(response_dir, filename)
                     with open(file_path, 'r', encoding='utf-8') as f:
                         data = json.load(f)
                         for item in data.get('MediaContents', []):
-                            ssd = item.get('Ssd')
-                            if ssd and ssd not in description_map:
-                                description_map[ssd] = item
+                            title = item.get('ImageContent').get('Title')
+                            if title and title not in seen_titles:
+                                descriptions_info.append(item)
+                                seen_titles.add(title)
 
             # 3. 将描述数据合并到图片数据中 (使用选中的代码逻辑)
             for image in images_info:
-                startdate_key = image.get('enddate')
-                if startdate_key:
-                    desc_item = description_map.get(startdate_key)
-                    if desc_item:
-                        image['MediaContent'] = desc_item
-            
+                copyright = image.get('copyright')
+                if copyright:
+                    for desc_item in descriptions_info:
+                        if desc_item.get('ImageContent').get('Title') in copyright and desc_item.get('ImageContent').get('Copyright') in copyright:
+                            image['MediaContent'] = desc_item
+                            break
+
             # 4. 读取、修正并写回目标文件
             target_file_path = f'./jsonc/{country}/bing.jsonc'
             if not os.path.exists(target_file_path):
@@ -156,6 +159,9 @@ def process_local_files():
                     if correct_item and 'MediaContent' in correct_item:
                         # 只有当 MediaContent 不存在或内容不同时才更新
                         if item.get('MediaContent') != correct_item['MediaContent']:
+                            item['MediaContent'] = correct_item['MediaContent']
+                            update_count += 1
+                        else:
                             item['MediaContent'] = correct_item['MediaContent']
                             update_count += 1
             
