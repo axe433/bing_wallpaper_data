@@ -6,7 +6,7 @@
 
 **La géométrie du souvenir**
 
-Dans la lumière dorée du crépuscule hongrois, une Grande Aigrette se penche avec délicatesse vers l’eau calme du lac Tisza, plume d’albâtre reflétée dans les reflets ambrés. Immobile, elle observe, patiente, avant de lancer son bec en une éclaboussure parfaite. Un poisson capturé, un instant suspendu.
+Vue du ciel, la Plaza Mayor de Madrid ressemble à un damier en pierre et en tuiles rouges, ciselé au cœur vibrant de la capitale espagnole. Ses arcades régulières, ses 237 balcons tournés vers l’intérieur, et son pavage symétrique racontent une quête d’ordre et de majesté, amorcée sous Philippe II et concrétisée par Philippe III au XVIIe siècle.
 
 *© AirPano LLC/Amazing Aerial Agency (Bing France)*
 

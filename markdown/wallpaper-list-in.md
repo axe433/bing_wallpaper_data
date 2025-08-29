@@ -6,7 +6,7 @@
 
 **The heart of the grid**
 
-Meet the great egret, also known as the great white egret. Found in the Americas, Asia, Africa and parts of Europe, these birds are often seen wading through wetlands, tidal flats and quiet streams. Patient and precise, they stand motionless for minutes, waiting for just the right moment to deliver a lightning-fast strike. Fish are their main prey, but they also eat frogs, reptiles and even small mammals. In the late 1800s, the great egret's beautiful plumes became a must-have in women's fashion across North America, driving their population down by an estimated 95%. The killing might have continued if not for two Boston socialites, Harriet Hemenway and Minna Hall, who led a boycott of the feather trade. Their activism helped launch the National Audubon Society.
+Seen from above, the uniform arcades and tiled rooftops of Plaza Mayor in Madrid—the capital of Spain—create a captivating architectural harmony. Once the site of a bustling market square known as the Plaza del Arrabal, this historic space has witnessed the city's transformation over the centuries. The shift began in 1561, when the plaza came under Madrid's jurisdiction after the royal court moved from Toledo. Inspired by a vision of order and grandeur, King Philip II reimagined the square—though construction did not actually begin until 1617, under the reign of Philip III.
 
 *© AirPano LLC/Amazing Aerial Agency (Bing India)*
 

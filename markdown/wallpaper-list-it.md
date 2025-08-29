@@ -6,7 +6,7 @@
 
 **Geometria del potere**
 
-Avvolto in candore, l’airone bianco maggiore (Ardea alba) cammina sulle acque come una poesia in movimento. Vi presentiamo una creatura che incarna l’eleganza senza tempo, l’attesa paziente e la grazia innata. È una creatura di luce e riflessi: immobile come un pensiero profondo, attende il momento perfetto. Nulla lo disturba: la sua calma è antica, la sua eleganza è senza tempo. E quando decide di agire, lo fa con la precisione di un verso ben scolpito: rapida è la sua lama, mirato il suo gesto.
+Vista dall’alto, la geometria armoniosa delle arcate uniformi e dei tetti in tegole della Plaza Mayor di Madrid, capitale della Spagna, crea una sinfonia architettonica affascinante. In origine sede del vivace mercato noto come Plaza del Arrabal, questo spazio storico ha accompagnato la metamorfosi della città attraverso i secoli. Il cambiamento iniziò nel 1561, quando la piazza passò sotto la giurisdizione madrilena dopo il trasferimento della corte reale da Toledo. Mosso da un’idea di ordine e grandiosità, Filippo II ne ridefinì il progetto, anche se la costruzione vera e propria ebbe inizio solo nel 1617, durante il regno di Filippo III.
 
 *© AirPano LLC/Amazing Aerial Agency (Bing Italy)*
 

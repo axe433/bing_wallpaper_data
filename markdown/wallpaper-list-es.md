@@ -6,7 +6,7 @@
 
 **El corazón de la red**
 
-Visten de blanco todo el año y sin vergüenza. Conozca a la garza grande, también llamada garza blanca, un ave elegante y silenciosa que habita humedales, marismas y riberas tranquilas de América, Asia, África y partes de Europa. Pueden permanecer inmóviles durante minutos, esperando el momento justo para lanzar su ataque relámpago. Su dieta se basa en peces, aunque también cazan ranas, reptiles e incluso pequeños mamíferos.
+Vista desde lo alto, la Plaza Mayor de Madrid forma una imagen perfecta con sus tejados de tejas y arcos simétricos. En sus orígenes fue la Plaza del Arrabal, un bullicioso mercado que comenzó a transformarse tras la llegada de la corte real desde Toledo en 1561. Felipe II impulsó su reforma, aunque las obras comenzaron en 1617, ya bajo el reinado de Felipe III.
 
 *© AirPano LLC/Amazing Aerial Agency (Bing Spain)*
 

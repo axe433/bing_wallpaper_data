@@ -6,7 +6,7 @@
 
 **Das Wahrzeichen der Stadt**
 
-Auf dem heutigen Bild sehen wir einen Silberreiher in Ungarn, einen eleganten weißen Vogel, der in Feuchtgebieten und ruhigen Seen lebt. Sein schneeweißes Gefieder und der langsame Flug machen ihn zu einem Symbol für natürliche Gelassenheit. Besonders faszinierend ist seine Fähigkeit, lange Zeit regungslos zu verharren, während er auf Beute lauert. In Ungarn, vor allem im Nationalpark Hortobágy, kann man ihn während der Zugzeit in großen Gruppen beobachten – ein beeindruckendes Naturschauspiel.
+Mitten im Herzen von Madrid liegt die Plaza Mayor – einer der eindrucksvollsten Plätze Spaniens. Umgeben von eleganten, dreigeschossigen Gebäuden mit Arkadengängen, beeindruckt der rechteckige Platz mit seiner harmonischen Architektur und lebendigen Atmosphäre. Ursprünglich befand sich hier der Plaza del Arrabal, ein belebter Marktplatz. Nachdem der spanische Hof 1561 von Toledo nach Madrid verlegt worden war, plante König Philipp II. eine Neugestaltung. Der Bau begann jedoch erst 1617 unter Philipp III., dessen Reiterstatue heute das Zentrum des Platzes schmückt. Die Plaza ist von Gebäuden mit insgesamt 237 Balkonen umgeben, die alle zum Platz hin ausgerichtet sind. Zehn Eingänge führen hinein, neun davon sind durch Torbögen gekennzeichnet. Über Jahrhunderte war der Platz Schauplatz von Märkten, Festen, Stierkämpfen und königlichen Zeremonien.
 
 *© AirPano LLC/Amazing Aerial Agency (Bing Germany)*
 
