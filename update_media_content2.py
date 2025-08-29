@@ -84,69 +84,60 @@ def merge_images_with_update(old_images, new_images_data):
     return old_images_merged
 
 
-def fetch_and_update():
+def process_local_files():
     """
-    主函数，遍历所有国家，获取数据并执行更新。
+    主函数，遍历所有国家，从本地读取文件，合并数据并保存。
     """
     for country, lang in countries.items():
         print(f"Processing country: {country.upper()}")
 
-        # 定义 API URL
-        api_url = f"https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=8&mkt={lang}"
-        # api_description = f"https://www.bing.com/hp/api/v1/imagegallery?format=json&mkt={lang}"
-        api_description = f"https://www.bing.com/hp/api/model?toWww=1&mkt={lang}"
+        response_dir = f"response/{country}"
+        if not os.path.isdir(response_dir):
+            print(f"  Directory not found: {response_dir}, skipping.")
+            continue
 
         try:
-            # 获取数据
-            response = requests.get(api_url)
-            response.raise_for_status()
-            response_description = requests.get(api_description)
-            response_description.raise_for_status()
+            # 1. 从 'data_image' 文件读取图片数据并去重
+            images_info = []
+            seen_startdates = set()
+            for filename in os.listdir(response_dir):
+                if 'data_image' in filename:
+                    file_path = os.path.join(response_dir, filename)
+                    with open(file_path, 'r', encoding='utf-8') as f:
+                        data = json.load(f)
+                        for image in data.get('images', []):
+                            startdate = image.get('startdate')
+                            if startdate and startdate not in seen_startdates:
+                                images_info.append(image)
+                                seen_startdates.add(startdate)
 
-            images_data = response.json()
-            description_data = response_description.json()
+            # 2. 从 'data_description' 文件读取描述数据
+            description_map = {}
+            for filename in os.listdir(response_dir):
+                if 'data_description' in filename:
+                    file_path = os.path.join(response_dir, filename)
+                    with open(file_path, 'r', encoding='utf-8') as f:
+                        data = json.load(f)
+                        for item in data.get('MediaContents', []):
+                            ssd = item.get('Ssd')
+                            if ssd and ssd not in description_map:
+                                description_map[ssd] = item
 
-            # 提取需要合并的数据 (与 bing_data.py 第174行逻辑相同)
-            images_info = images_data.get('images', [])
-            description_map = {item['Ssd']: item for item in description_data.get('MediaContents', [])}
-
-            # 将描述数据合并到图片数据中
+            # 3. 将描述数据合并到图片数据中 (使用选中的代码逻辑)
             for image in images_info:
-                desc_item = description_map.get(image['startdate'])
-                if desc_item:
-                    image['MediaContent'] = desc_item
+                startdate_key = image.get('enddate')
+                if startdate_key:
+                    desc_item = description_map.get(startdate_key)
+                    if desc_item:
+                        image['MediaContent'] = desc_item
+            
+            # 4. 将合并后的文件保存到 merge.json
+            output_path = os.path.join(response_dir, 'merge.json')
+            with open(output_path, 'w', encoding='utf-8') as f:
+                json.dump(images_info, f, ensure_ascii=False, indent=4)
+            
+            print(f"  Successfully merged data and saved to '{output_path}'.\n")
 
-
-            # 定义与语言代码相关的文件路径
-            file_path_current = f'./jsonc/{country}/bing.jsonc'
-
-            # 函数读写数据
-            def read_json(file_path):
-                try:
-                    with open(file_path, 'r', encoding='utf-8') as file:
-                        return json.load(file)
-                except FileNotFoundError:
-                    return []
-
-            def write_json(file_path, data):
-                with open(file_path, 'w', encoding='utf-8') as file:
-                    json.dump(data, file, ensure_ascii=False, indent=4)
-
-
-            # 读取现有数据
-            old_data = read_json(file_path_current)
-
-            # 执行新的合并逻辑
-            merged_data = merge_images_with_update(old_data, images_info)
-
-            # 写回文件
-            # 将更新后的数据写回到本地JSON文件
-            write_json(file_path_current, merged_data)
-
-            print(f"Successfully updated data for {country.upper()}.\n")
-
-        except requests.exceptions.RequestException as e:
-            print(f"Error fetching data for {country.upper()}: {e}")
         except json.JSONDecodeError as e:
             print(f"Error decoding JSON for {country.upper()}: {e}")
         except Exception as e:
@@ -154,4 +145,4 @@ def fetch_and_update():
 
 
 if __name__ == "__main__":
-    fetch_and_update()
+    process_local_files()
