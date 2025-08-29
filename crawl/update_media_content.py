@@ -108,42 +108,47 @@ def fetch_and_update():
 
             # 提取需要合并的数据 (与 bing_data.py 第174行逻辑相同)
             images_info = images_data.get('images', [])
-            description_map = {item['Ssd']: item for item in description_data.get('MediaContents', [])}
+            descriptions_info = description_data.get('MediaContents', [])
 
-            # 将描述数据合并到图片数据中
+            # 3. 将描述数据合并到图片数据中 (使用选中的代码逻辑)
             for image in images_info:
-                desc_item = description_map.get(image['startdate'])
-                if desc_item:
-                    image['MediaContent'] = desc_item
+                copyright = image.get('copyright')
+                if copyright:
+                    for desc_item in descriptions_info:
+                        if desc_item.get('ImageContent').get('Title') in copyright and desc_item.get('ImageContent').get('Copyright') in copyright:
+                            image['MediaContent'] = desc_item
+                            break
 
+            # 4. 读取、修正并写回目标文件
+            target_file_path = f'./jsonc/{country}/bing.jsonc'
+            if not os.path.exists(target_file_path):
+                print(f"  Target file not found: {target_file_path}, skipping correction.")
+                continue
 
-            # 定义与语言代码相关的文件路径
-            file_path_current = f'./jsonc/{country}/bing.jsonc'
+            with open(target_file_path, 'r', encoding='utf-8') as f:
+                target_data = json.load(f)
 
-            # 函数读写数据
-            def read_json(file_path):
-                try:
-                    with open(file_path, 'r', encoding='utf-8') as file:
-                        return json.load(file)
-                except FileNotFoundError:
-                    return []
-
-            def write_json(file_path, data):
-                with open(file_path, 'w', encoding='utf-8') as file:
-                    json.dump(data, file, ensure_ascii=False, indent=4)
-
-
-            # 读取现有数据
-            old_data = read_json(file_path_current)
+            # 将修正源数据转换为以 startdate 为键的字典，以便快速查找
+            correct_data_map = {item['startdate']: item for item in images_info if 'startdate' in item}
 
             # 执行新的合并逻辑
-            merged_data = merge_images_with_update(old_data, images_info)
+            update_count = 0
+            for item in target_data:
+                item_startdate = item.get('startdate')
+                correct_item = correct_data_map.get(item_startdate)
+                # 如果找到了对应的正确数据，并且其中包含 MediaContent
+                if correct_item and 'MediaContent' in correct_item:
+                    # 只有当 MediaContent 不存在或内容不同时才更新
+                    if item.get('MediaContent') != correct_item['MediaContent']:
+                        item['MediaContent'] = correct_item['MediaContent']
+                        update_count += 1
 
-            # 写回文件
-            # 将更新后的数据写回到本地JSON文件
-            write_json(file_path_current, merged_data)
-
-            print(f"Successfully updated data for {country.upper()}.\n")
+            if update_count > 0:
+                with open(target_file_path, 'w', encoding='utf-8') as f:
+                    json.dump(target_data, f, ensure_ascii=False, indent=4)
+                print(f"  Successfully updated data {update_count} items in '{target_file_path}' for {country.upper()}.\n")
+            else:
+                print(f"  No items needed correction in '{target_file_path}'.\n")
 
         except requests.exceptions.RequestException as e:
             print(f"Error fetching data for {country.upper()}: {e}")

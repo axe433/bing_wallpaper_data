@@ -102,83 +102,99 @@ for country, lang in country_to_lang.items():
     # api_url = f"https://www.bing.com/HPImageArchive.aspx?format=js&idx=8&n=8&mkt={lang}" # old
     # 语言不支持，会使用通用 ROW 数据
     if (lang == "hu-HU"): lang = "ROW"
+    try:
+        # 发起请求获取数据
+        response = requests.get(api_url)
+        response.raise_for_status()
+        response_description = requests.get(api_description)
+        response_description.raise_for_status()
 
-    # 发起请求获取数据
-    response = requests.get(api_url)
-    response_description = requests.get(api_description)
+        # Save the response data
+        response_dir = f"response/{country}"
+        os.makedirs(response_dir, exist_ok=True)
 
-    # Save the response data
-    response_dir = f"response/{country}"
-    os.makedirs(response_dir, exist_ok=True)
+        # 获取当前日期并格式化
+        current_date = datetime.now().strftime('%Y%m%d')
 
-    # 获取当前日期并格式化
-    current_date = datetime.now().strftime('%Y%m%d')
+        with open(os.path.join(response_dir, f'{current_date}_data_image.json'), 'w', encoding='utf-8') as f:
+            f.write(response.text)
 
-    with open(os.path.join(response_dir, f'{current_date}_data_image.json'), 'w', encoding='utf-8') as f:
-        f.write(response.text)
+        with open(os.path.join(response_dir, f'{current_date}_data_description.json'), 'w', encoding='utf-8') as f:
+            f.write(response_description.text)
 
-    with open(os.path.join(response_dir, f'{current_date}_data_description.json'), 'w', encoding='utf-8') as f:
-        f.write(response_description.text)
-    
-    data = response.json()
-    data_description = response_description.json()
+        data = response.json()
+        data_description = response_description.json()
 
-    # 提取所需数据并格式化
-    images_info = []
-    for image in data['images']:
-        # image_info = {
-        #     'startdate': datetime.strptime(image['startdate'], '%Y%m%d').strftime('%Y%m%d'),
-        #     'fullstartdate': image['fullstartdate'],
-        #     'enddate': datetime.strptime(image['enddate'], '%Y%m%d').strftime('%Y%m%d'),
-        #     'url': image['url'],
-        #     'urlbase': image['urlbase'],
-        #     'copyright': image['copyright'],
-        #     'copyrightlink': image['copyrightlink'],
-        #     'title': image['title'],
-        #     'quiz': image['quiz'],
-        #     'hsh': image['hsh'],
-        #     'drk': image['drk'],
-        #     'top': image['top'],
-        #     'bot': image['bot'],
-        #     # 'tag': [name, id] # such as "tag": ["DugiOtokCroatia","EN-CA6561432536"]
-        # }
-        image_info = image
-        images_info.append(image_info)
-    
-    for image2 in data_description['MediaContents']:
-        fullstartdate = image2['Ssd'].replace('_', '')
-        # description = image2['ImageContent']['Description']
-        # 找到对应 fullstartdate 的 image_info，并添加 description
-        for image_info in images_info:
-            if image_info['fullstartdate'] == fullstartdate or image_info['startdate'] == fullstartdate:
-                image_info['MediaContent'] = image2
-                break  # 找到匹配项后跳出循环
+        # 提取所需数据并格式化
+        images_info = []
+        for image in data['images']:
+            # image_info = {
+            #     'startdate': datetime.strptime(image['startdate'], '%Y%m%d').strftime('%Y%m%d'),
+            #     'fullstartdate': image['fullstartdate'],
+            #     'enddate': datetime.strptime(image['enddate'], '%Y%m%d').strftime('%Y%m%d'),
+            #     'url': image['url'],
+            #     'urlbase': image['urlbase'],
+            #     'copyright': image['copyright'],
+            #     'copyrightlink': image['copyrightlink'],
+            #     'title': image['title'],
+            #     'quiz': image['quiz'],
+            #     'hsh': image['hsh'],
+            #     'drk': image['drk'],
+            #     'top': image['top'],
+            #     'bot': image['bot'],
+            #     # 'tag': [name, id] # such as "tag": ["DugiOtokCroatia","EN-CA6561432536"]
+            # }
+            image_info = image
+            images_info.append(image_info)
 
+        descriptions_info = data_description.get('MediaContents', [])
 
-    # 定义与语言代码相关的文件路径
-    file_path_current = f'./jsonc/{country}/bing.jsonc'
+        # 3. 将描述数据合并到图片数据中 (使用选中的代码逻辑)
+        for image in images_info:
+            copyright = image.get('copyright')
+            if copyright:
+                for desc_item in descriptions_info:
+                    if desc_item.get('ImageContent').get('Title') in copyright and desc_item.get('ImageContent').get('Copyright') in copyright:
+                        image['MediaContent'] = desc_item
+                        break
 
-    # 函数读写数据
-    def read_json(file_path):
-        try:
-            with open(file_path, 'r', encoding='utf-8') as file:
-                return json.load(file)
-        except FileNotFoundError:
-            return []
+        # 4. 读取、修正并写回目标文件
+        target_file_path = f'./jsonc/{country}/bing.jsonc'
+        if not os.path.exists(target_file_path):
+            print(f"  Target file not found: {target_file_path}, skipping correction.")
+            continue
 
-    def write_json(file_path, data):
-        with open(file_path, 'w', encoding='utf-8') as file:
-            json.dump(data, file, ensure_ascii=False, indent=4)
+        with open(target_file_path, 'r', encoding='utf-8') as f:
+            target_data = json.load(f)
 
-    # 读取现有数据
-    existing_images_info_current = read_json(file_path_current)
+            # 将修正源数据转换为以 startdate 为键的字典，以便快速查找
+            correct_data_map = {item['startdate']: item for item in images_info if 'startdate' in item}
 
-    # 过滤并合并新数据
-    existing_images_info_current = merge_images(existing_images_info_current, images_info, date_field='enddate', unique_field='fullstartdate')
+            # 执行新的合并逻辑
+            update_count = 0
+            for item in target_data:
+                item_startdate = item.get('startdate')
+                correct_item = correct_data_map.get(item_startdate)
+                # 如果找到了对应的正确数据，并且其中包含 MediaContent
+                if correct_item and 'MediaContent' in correct_item:
+                    # 只有当 MediaContent 不存在或内容不同时才更新
+                    if item.get('MediaContent') != correct_item['MediaContent']:
+                        item['MediaContent'] = correct_item['MediaContent']
+                        update_count += 1
 
-    # 将更新后的数据写回到本地JSON文件
-    write_json(file_path_current, existing_images_info_current)
-    print(f"Bing Daily Image data has been saved to '{file_path_current}'")
+            if update_count > 0:
+                with open(target_file_path, 'w', encoding='utf-8') as f:
+                    json.dump(target_data, f, ensure_ascii=False, indent=4)
+                print(f"  Successfully updated data {update_count} items in '{target_file_path}' for {country.upper()}.\n")
+            else:
+                print(f"  No items needed correction in '{target_file_path}'.\n")
+
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching data for {country.upper()}: {e}")
+    except json.JSONDecodeError as e:
+        print(f"Error decoding JSON for {country.upper()}: {e}")
+    except Exception as e:
+        print(f"An unexpected error occurred for {country.upper()}: {e}")
 
 print("Bing Image of the Day data is saved for all languages.")
 print("Ends time: ", datetime.now(timezone.utc))
