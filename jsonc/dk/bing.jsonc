@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250831",
+        "fullstartdate": "202508310700",
+        "enddate": "20250901",
+        "url": "/th?id=OHR.ScottsBluff_ROW7379733057_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ScottsBluff_ROW7379733057",
+        "copyright": "Scotts Bluff National Monument in Gering, Nebraska, United States (© Hawk Buckman/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Scotts+Bluff+National+Monument&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250831_ScottsBluff%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c000b87e1f0ce2ae15c5f7d996bb35d1",
+        "hsh": "117195cb66c57499ba60173794bc81aa",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Long before GPS, natural landmarks like Scotts Bluff rose high above the prairie, signalling to travellers that they were on the right path heading west. Before Gering became a town in 1887 and decades before Nebraska achieved statehood in 1867, these sandstone and siltstone formations were already guiding thousands along the Oregon, California and Mormon Trails. Scotts Bluff National Monument is named after Hiram Scott, a fur trader with the Rocky Mountain Fur Company who died under mysterious circumstances nearby in the 1820s.",
+                "Image": {
+                    "Url": "/th?id=OHR.ScottsBluff_ROW7379733057_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ScottsBluff_ROW7379733057_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Scotts Bluff National Monument in Gering, Nebraska, United States",
+                "Copyright": "© Hawk Buckman/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250831_ScottsBluff\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Scotts+Bluff+National+Monument&form=hpcapt&filters=HpDate:\"20250831_0700\"",
+                "TriviaId": "HPQuiz_20250831_ScottsBluff"
+            },
+            "Ssd": "20250831",
+            "Name": "ScottsBluff",
+            "Market": "ROW",
+            "Hash": "7379733057",
+            "FullDateString": "31. aug. 2025"
+        }
+    },
+    {
         "startdate": "20250830",
         "fullstartdate": "202508300700",
         "enddate": "20250831",

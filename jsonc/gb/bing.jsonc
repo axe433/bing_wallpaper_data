@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250831",
+        "fullstartdate": "202508312300",
+        "enddate": "20250901",
+        "url": "/th?id=OHR.GipuzcoaSummer_EN-GB2818544324_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GipuzcoaSummer_EN-GB2818544324",
+        "copyright": "Rock layers in Zumaia, Basque Country, Spain (© Eloi_Omella/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Zumaia&form=hpcapt&filters=HpDate%3a%2220250831_2300%22",
+        "title": "Rocks that flow with the sea!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250831_GipuzcoaSummer%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "afed20a3e813af7bfe4c6b4299a91000",
+        "hsh": "9fa3853946020372bef810a6fea8c5e5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "On the coast of Zumaia, in the Basque Country, lies one of the most stunning geological landscapes in Spain: the flysch. These rock formations, visible along the cliffs, reveal millions of years of Earth's history in perfectly aligned layers. Walking along Itzurun Beach or following the trail through the Basque Coast Geopark offers a chance to witness this unique natural phenomenon.",
+                "Image": {
+                    "Url": "/th?id=OHR.GipuzcoaSummer_EN-GB2818544324_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GipuzcoaSummer_EN-GB2818544324_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Rocks that flow with the sea!",
+                "Title": "Rock layers in Zumaia, Basque Country, Spain",
+                "Copyright": "© Eloi_Omella/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.28333,-2.25/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=43.28333,-2.25;S9;Zumaya&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Zumaya&vdpid=5668641172432617473&mb=43.311017~-2.284653~43.263316~-2.209111&cardbg=%23F98745&tt=Zumaya%2C%20Pa%C3%ADs%20Vasco%20%2F%20Euskadi%2C%20Espa%C3%B1a&tsts1=%2526ty%253D30%2526q%253DZumaya%2526vdpid%253D5668641172432617473%2526mb%253D43.311017~-2.284653~43.263316~-2.209111%2526cardbg%253D%252523F98745&tstt1=Zumaya%2C%20Pa%C3%ADs%20Vasco%20%2F%20Euskadi%2C%20Espa%C3%B1a&cp=39.304432~-4.516357&lvl=5.7157006&pi=0&ftst=1&ftics=True&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250901_GipuzcoaSummer\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Zumaia&form=hpcapt&filters=HpDate:\"20250831_2300\"",
+                "TriviaId": "HPQuiz_20250901_GipuzcoaSummer"
+            },
+            "Ssd": "20250901",
+            "Name": "GipuzcoaSummer",
+            "Market": "EN-GB",
+            "Hash": "2818544324",
+            "FullDateString": "1 Sep 2025"
+        }
+    },
+    {
         "startdate": "20250830",
         "fullstartdate": "202508302300",
         "enddate": "20250831",
