@@ -157,7 +157,7 @@ def process_local_files():
                     if not correct_item: # 如果没有找到对应的正确数据，说明是新数据，则添加
                         target_data.append(item)
                         update_count += 1
-                    elif correct_item.get('MediaContent') != item.get('MediaContent'):
+                    elif 'MediaContent' in item and correct_item.get('MediaContent') != item.get('MediaContent'):
                         correct_item['MediaContent'] = item.get('MediaContent')
                         update_count += 1
 
