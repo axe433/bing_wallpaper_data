@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250831",
+        "fullstartdate": "202508310300",
+        "enddate": "20250901",
+        "url": "/th?id=OHR.ScottsBluff_PT-BR7461504826_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ScottsBluff_PT-BR7461504826",
+        "copyright": "Monumento Nacional Scotts Bluff em Gering, Nebraska, EUA (© Hawk Buckman/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Monumento+Nacional+Scotts+Bluff+em+Gering%2c+Nebraska%2c+EUA&form=hpcapt&mkt=pt-br",
+        "title": "Faróis de pedra",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250831_ScottsBluff%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c000b87e1f0ce2ae15c5f7d996bb35d1",
+        "hsh": "fc74dd7d7f293c24774b7c5d19e65267",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Muito antes da criação do GPS, quem cruzava as vastas pradarias do atual Nebraska, nos Estados Unidos, seguia as pistas da própria terra. Nossa imagem do dia mostra o Scotts Bluff, um paredão de arenito e siltito que, por séculos, guiou viajantes por trilhas próximas. Seu nome homenageia Hiram Scott, comerciante de peles que morreu ali nos anos 1820, em circunstâncias que ainda alimentam o folclore local. Hoje, veados-mula, carneiros-selvagens e cães-da-pradaria circulam entre seus 1.214 hectares de encostas e gramíneas douradas.",
+                "Image": {
+                    "Url": "/th?id=OHR.ScottsBluff_PT-BR7461504826_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ScottsBluff_PT-BR7461504826_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Faróis de pedra",
+                "Title": "Monumento Nacional Scotts Bluff em Gering, Nebraska, EUA",
+                "Copyright": "© Hawk Buckman/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250831_ScottsBluff\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Monumento+Nacional+Scotts+Bluff+em+Gering%2c+Nebraska%2c+EUA&form=hpcapt&filters=HpDate:\"20250831_0300\"",
+                "TriviaId": "HPQuiz_20250831_ScottsBluff"
+            },
+            "Ssd": "20250831",
+            "Name": "ScottsBluff",
+            "Market": "PT-BR",
+            "Hash": "7461504826",
+            "FullDateString": "31 ago. 2025"
+        }
+    },
+    {
         "startdate": "20250830",
         "fullstartdate": "202508300300",
         "enddate": "20250831",
