@@ -19,7 +19,7 @@ jobs:
       run: pip install requests
 
     - name: run update_media
-      run: python crawl/update_media_content.py
+      run: python crawl/update_media_content_local.py
 
     - name: Download wallpaper images
       run: python crawl/download_wallpapers_action.py

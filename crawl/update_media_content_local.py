@@ -89,8 +89,8 @@ def process_local_files():
     主函数，遍历所有国家，从本地读取文件，合并数据，并用合并后的正确数据修正目标文件。
     """
     # 定义修正的日期范围
-    correction_start_date = "20250815"
-    correction_end_date = "20250828"
+    correction_start_date = "20250829"
+    correction_end_date = "20250830"
 
     for country, lang in countries.items():
         print(f"Processing country: {country.upper()}")
@@ -147,26 +147,24 @@ def process_local_files():
             with open(target_file_path, 'r', encoding='utf-8') as f:
                 target_data = json.load(f)
 
-            # 将修正源数据转换为以 startdate 为键的字典，以便快速查找
-            correct_data_map = {item['startdate']: item for item in images_info if 'startdate' in item}
-
             update_count = 0
-            for item in target_data:
+            # 将修正源数据转换为以 startdate 为键的字典，以便快速查找 [将新数据中新条目合并到target 数据中]
+            correct_target_map = {item['startdate']: item for item in target_data if 'startdate' in item}
+            for item in images_info:
                 item_startdate = item.get('startdate')
                 if item_startdate and correction_start_date <= item_startdate <= correction_end_date:
-                    correct_item = correct_data_map.get(item_startdate)
-                    # 如果找到了对应的正确数据，并且其中包含 MediaContent
-                    if correct_item and 'MediaContent' in correct_item:
-                        # 只有当 MediaContent 不存在或内容不同时才更新
-                        if item.get('MediaContent') != correct_item['MediaContent']:
-                            item['MediaContent'] = correct_item['MediaContent']
-                            update_count += 1
-                        else:
-                            item['MediaContent'] = correct_item['MediaContent']
-                            update_count += 1
-            
+                    correct_item = correct_target_map.get(item_startdate)
+                    if not correct_item: # 如果没有找到对应的正确数据，说明是新数据，则添加
+                        target_data.append(item)
+                        update_count += 1
+                    elif correct_item.get('MediaContent') != item.get('MediaContent'):
+                        correct_item['MediaContent'] = item.get('MediaContent')
+                        update_count += 1
+
             if update_count > 0:
                 with open(target_file_path, 'w', encoding='utf-8') as f:
+                    # 按日期倒序排序
+                    target_data.sort(key=lambda x: datetime.strptime(x['startdate'], '%Y%m%d'), reverse=True)
                     json.dump(target_data, f, ensure_ascii=False, indent=4)
                 print(f"  Successfully corrected {update_count} items in '{target_file_path}'.\n")
             else:
