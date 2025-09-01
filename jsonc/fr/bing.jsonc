@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250901",
+        "fullstartdate": "202509012200",
+        "enddate": "20250902",
+        "url": "/th?id=OHR.DeadvleiTrees_FR-FR9220930229_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DeadvleiTrees_FR-FR9220930229",
+        "copyright": "Acacias à girafe, Deadvlei, parc Namib-Naukluft, Namibie (© Inge Johnsson/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Parc+Namib-Naukluft%2c+Namibie&form=hpcapt&filters=HpDate%3a%2220250901_2200%22",
+        "title": "Les arbres du passé",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250901_DeadvleiTrees%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "66b32f9388bd369b8806a07caa147d14",
+        "hsh": "3107f78e1d9f04855e0d020a006ca59b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Au cœur du parc Namib-Naukluft en Namibie, Deadvlei, une ancienne cuvette argileuse aujourd’hui asséchée, semble irréel. Des silhouettes d’arbres sombres s’y dressent, figées dans un silence vieux de 900 ans. Jadis, une rivière nourrissait ces acacias à girafe. Puis les dunes ont bougé, coupant l’eau. Le désert n’a pas détruit ces arbres : il les a conservés. Le sel, la sécheresse extrême et le soleil implacable ont stoppé la décomposition. Ces géants desséchés sont devenus les gardiens d’un temps suspendu.",
+                "Image": {
+                    "Url": "/th?id=OHR.DeadvleiTrees_FR-FR9220930229_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DeadvleiTrees_FR-FR9220930229_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Les arbres du passé",
+                "Title": "Acacias à girafe, Deadvlei, parc Namib-Naukluft, Namibie",
+                "Copyright": "© Inge Johnsson/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-24.216471,15.938733/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=-24.216471,15.938733;S9;Parc Namib-Naukluft, Namibie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Namib-Naukluft%20Park%2C%20Namibia&ss=ypid.YN8131x4389843755792910065&mb=-24.210491~15.93215~-24.222467~15.945325&description=C27%2C%20Sesriem&cardbg=%233DB838&dt=1752073200000&tt=Namib-Naukluft%20National%20Park&tsts0=%2526ty%253D18%2526q%253DNamib-Naukluft%252520Park%25252C%252520Namibia%2526ss%253Dypid.YN8131x4389843755792910065%2526mb%253D-24.210491~15.93215~-24.222467~15.945325%2526description%253DC27%25252C%252520Sesriem%2526cardbg%253D%2525233DB838%2526dt%253D1752073200000&tstt0=Namib-Naukluft%20National%20Park&cp=-24.254271~15.199049&lvl=9.851223&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250902_DeadvleiTrees\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parc+Namib-Naukluft%2c+Namibie&form=hpcapt&filters=HpDate:\"20250901_2200\"",
+                "TriviaId": "HPQuiz_20250902_DeadvleiTrees"
+            },
+            "Ssd": "20250902",
+            "Name": "DeadvleiTrees",
+            "Market": "FR-FR",
+            "Hash": "9220930229",
+            "FullDateString": "2 sept. 2025"
+        }
+    },
+    {
         "startdate": "20250831",
         "fullstartdate": "202508312200",
         "enddate": "20250901",

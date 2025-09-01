@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250901",
+        "fullstartdate": "202509012200",
+        "enddate": "20250902",
+        "url": "/th?id=OHR.DeadvleiTrees_DE-DE6613331232_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DeadvleiTrees_DE-DE6613331232",
+        "copyright": "Kameldornbäume, Deadvlei, Namib-Naukluft-Park, Namibia (© Inge Johnsson/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Namib-Naukluft-Park+in+Namibia&form=hpcapt&filters=HpDate%3a%2220250901_2200%22",
+        "title": "Stumme Zeugen der Vergangenheit",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250901_DeadvleiTrees%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "66b32f9388bd369b8806a07caa147d14",
+        "hsh": "aa6310de87faa7587b9c75eb76032f84",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Mitten in der ältesten Wüste der Welt, der Namib, liegt eine der faszinierendsten Landschaften Afrikas: Deadvlei, auch bekannt als „weiße Tonpfanne“ im Namib-Naukluft-Nationalpark. Umgeben von bis zu 300 Meter hohen, rot leuchtenden Sanddünen, wirkt dieser Ort wie von einem anderen Planeten und zählt zu den bekanntesten Fotomotiven Namibias. Inmitten der höchsten Dünen der Welt ragen geheimnisvolle schwarze Silhouetten empor, die an eine surrealistische Kunstinstallation erinnern. Diese jahrhundertealten, abgestorbenen Kameldornbäume, wie auf unserem heutigen Bild zu sehen, sind längst zu zeitlosen Ikonen dieser alten Landschaft geworden und locken Fotografen aus aller Welt an. Seit über 900 Jahren trotzen sie der Verrottung – bewahrt durch die Trockenheit der Wüste und den salzhaltigen Boden. Als stille Zeugen vergangener Jahrhunderte tragen sie eine besondere kulturelle Bedeutung in sich. Die Region ist ein beeindruckendes Reiseziel für Abenteurer, Wanderer und Naturfreunde.",
+                "Image": {
+                    "Url": "/th?id=OHR.DeadvleiTrees_DE-DE6613331232_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DeadvleiTrees_DE-DE6613331232_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Stumme Zeugen der Vergangenheit",
+                "Title": "Kameldornbäume, Deadvlei, Namib-Naukluft-Park, Namibia",
+                "Copyright": "© Inge Johnsson/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-24.216471,15.938733/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=-24.216471,15.938733;S9;Namib-Naukluft-Park, Namibia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=C27%2C%20Sesriem&ss=ypid.YN8131x4389843755792910065&mb=-24.210491~15.93215~-24.222467~15.945325&description=C27%2C%20Sesriem%2C%20Hardap&cardbg=%233DB838&dt=1752073200000&tt=Namib-Naukluft%20National%20Park&tsts0=%2526ty%253D18%2526q%253DC27%25252C%252520Sesriem%2526ss%253Dypid.YN8131x4389843755792910065%2526mb%253D-24.210491~15.93215~-24.222467~15.945325%2526description%253DC27%25252C%252520Sesriem%25252C%252520Hardap%2526cardbg%253D%2525233DB838%2526dt%253D1752073200000&tstt0=Namib-Naukluft%20National%20Park&cp=-24.254371~15.198456&lvl=9.85&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250902_DeadvleiTrees\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Namib-Naukluft-Park+in+Namibia&form=hpcapt&filters=HpDate:\"20250901_2200\"",
+                "TriviaId": "HPQuiz_20250902_DeadvleiTrees"
+            },
+            "Ssd": "20250902",
+            "Name": "DeadvleiTrees",
+            "Market": "DE-DE",
+            "Hash": "6613331232",
+            "FullDateString": "2. Sept.. 2025"
+        }
+    },
+    {
         "startdate": "20250831",
         "fullstartdate": "202508312200",
         "enddate": "20250901",

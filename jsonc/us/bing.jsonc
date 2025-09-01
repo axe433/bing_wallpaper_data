@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250901",
+        "fullstartdate": "202509010700",
+        "enddate": "20250902",
+        "url": "/th?id=OHR.LaborDayChicago_EN-US3947410593_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LaborDayChicago_EN-US3947410593",
+        "copyright": "Amalgamated Clothing Workers of America in a Labor Day parade, May 1915, Chicago (© Chicago Sun-Times/Chicago Daily News collection/Chicago History Museum/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Labor+Day&form=hpcapt&filters=HpDate%3a%2220250901_0700%22",
+        "title": "Stitched into history",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250901_LaborDayChicago%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "53cd549ea34544370ddc738c9f7a67d1",
+        "hsh": "3d6cd13ea271115f03b766259886edd8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "May 1915: Chicago buzzes with energy. Streetcars pass brick buildings, shop signs catch the morning light, and the city moves with purpose. But today, something different takes over the streets. The Amalgamated Clothing Workers of America, just months old, march in rows as sharp as the suits they craft. This isn't a quiet debut—it's a statement.",
+                "Image": {
+                    "Url": "/th?id=OHR.LaborDayChicago_EN-US3947410593_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LaborDayChicago_EN-US3947410593_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Stitched into history",
+                "Title": "Amalgamated Clothing Workers of America in a Labor Day parade, May 1915, Chicago",
+                "Copyright": "© Chicago Sun-Times/Chicago Daily News collection/Chicago History Museum/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.873212,-87.657816/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=41.873212,-87.657816;S9;Chicago&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Chicago%2C%20Illinois&vdpid=5477686925982695427&mb=42.073029~-88.306646~41.594292~-87.158068&cardbg=%23F98745&dt=1752073200000&tt=Chicago%2C%20IL&tsts0=%2526ty%253D30%2526q%253DChicago%25252C%252520Illinois%2526vdpid%253D5477686925982695427%2526mb%253D42.073029~-88.306646~41.594292~-87.158068%2526cardbg%253D%252523F98745%2526dt%253D1752073200000&tstt0=Chicago%2C%20IL&cp=41.834286~-87.992987&lvl=10.387401&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250901_LaborDayChicago\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Labor+Day&form=hpcapt&filters=HpDate:\"20250901_0700\"",
+                "TriviaId": "HPQuiz_20250901_LaborDayChicago"
+            },
+            "Ssd": "20250901",
+            "Name": "LaborDayChicago",
+            "Market": "EN-US",
+            "Hash": "3947410593",
+            "FullDateString": "Sep 1, 2025"
+        }
+    },
+    {
         "startdate": "20250831",
         "fullstartdate": "202508310700",
         "enddate": "20250901",

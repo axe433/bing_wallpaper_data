@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250901",
+        "fullstartdate": "202509011830",
+        "enddate": "20250902",
+        "url": "/th?id=OHR.DeadvleiTrees_EN-IN4217239314_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DeadvleiTrees_EN-IN4217239314",
+        "copyright": "Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy Stock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=Namib+Naukluft+Park+in+Namibia&form=hpcapt&filters=HpDate%3a%2220250901_1830%22",
+        "title": "Ghosts of Deadvlei",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250901_DeadvleiTrees%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "66b32f9388bd369b8806a07caa147d14",
+        "hsh": "c67190b19710fd5b364c77db4c4cb119",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "At first glance, it looks like a surreal art installation: dark trees frozen on a clay pan, backed by sand dunes and a glowing sky. But this scene from Deadvlei, in Namibia's Namib-Naukluft Park, is entirely natural. The name 'Deadvlei' means 'dead marsh'—a remnant of the wetland that once filled this basin.",
+                "Image": {
+                    "Url": "/th?id=OHR.DeadvleiTrees_EN-IN4217239314_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DeadvleiTrees_EN-IN4217239314_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ghosts of Deadvlei",
+                "Title": "Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia",
+                "Copyright": "© Inge Johnsson/Alamy Stock Photo",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-24.216471,15.938733/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=-24.216471,15.938733;S9;Namib-Naukluft Park, Namibia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Namib-Naukluft%20Park%2C%20Namibia&ss=ypid.YN8131x4389843755792910065&mb=-24.210491~15.93215~-24.222467~15.945325&description=C27%2C%20Sesriem&cardbg=%233DB838&dt=1752073200000&tt=Namib-Naukluft%20National%20Park&tsts0=%2526ty%253D18%2526q%253DNamib-Naukluft%252520Park%25252C%252520Namibia%2526ss%253Dypid.YN8131x4389843755792910065%2526mb%253D-24.210491~15.93215~-24.222467~15.945325%2526description%253DC27%25252C%252520Sesriem%2526cardbg%253D%2525233DB838%2526dt%253D1752073200000&tstt0=Namib-Naukluft%20National%20Park&cp=-24.254271~15.199049&lvl=9.851223&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250902_DeadvleiTrees\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Namib+Naukluft+Park+in+Namibia&form=hpcapt&filters=HpDate:\"20250901_1830\"",
+                "TriviaId": "HPQuiz_20250902_DeadvleiTrees"
+            },
+            "Ssd": "20250902",
+            "Name": "DeadvleiTrees",
+            "Market": "EN-IN",
+            "Hash": "4217239314",
+            "FullDateString": "2 Sep, 2025"
+        }
+    },
+    {
         "startdate": "20250831",
         "fullstartdate": "202508311830",
         "enddate": "20250901",

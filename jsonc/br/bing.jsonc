@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250901",
+        "fullstartdate": "202509010300",
+        "enddate": "20250902",
+        "url": "/th?id=OHR.PalouseWA_PT-BR8269290462_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PalouseWA_PT-BR8269290462",
+        "copyright": "Colinas onduladas de Palouse, Washington, EUA (© svetlana57/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Palouse&form=hpcapt&mkt=pt-br",
+        "title": "O trigo que nasceu do gelo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250901_PalouseWA%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ef0e161671704aed2344430dd1480537",
+        "hsh": "e834ac6a51bce762ea7607028dd50126",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Em Palouse, no estado de Washington, Estados Unidos, as colinas que vemos na imagem se estendem como ondas imóveis até o horizonte. No verão, são campos de trigo dourado; na primavera, uma tapeçaria verde que se move ao sabor do vento. Por trás dessa suavidade, uma história antiga e paciente: durante as Eras do Gelo, glaciares avançaram sobre o Canadá, triturando rochas até transformá-las em fina “farinha glacial”. Essa poeira foi carregada por inundações e, ao longo de milênios, redistribuída pelo vento. O resultado são os “loess” de Palouse: camadas que chegam a 75 metros de espessura e cobrem mais de 50 mil quilômetros quadrados.",
+                "Image": {
+                    "Url": "/th?id=OHR.PalouseWA_PT-BR8269290462_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PalouseWA_PT-BR8269290462_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O trigo que nasceu do gelo",
+                "Title": "Colinas onduladas de Palouse, Washington, EUA",
+                "Copyright": "© svetlana57/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250901_PalouseWA\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Palouse&form=hpcapt&filters=HpDate:\"20250901_0300\"",
+                "TriviaId": "HPQuiz_20250901_PalouseWA"
+            },
+            "Ssd": "20250901",
+            "Name": "PalouseWA",
+            "Market": "PT-BR",
+            "Hash": "8269290462",
+            "FullDateString": "1 set. 2025"
+        }
+    },
+    {
         "startdate": "20250831",
         "fullstartdate": "202508310300",
         "enddate": "20250901",
