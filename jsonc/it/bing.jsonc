@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250902",
+        "fullstartdate": "202509022200",
+        "enddate": "20250903",
+        "url": "/th?id=OHR.AgrigentoSicilia_IT-IT0162455126_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AgrigentoSicilia_IT-IT0162455126",
+        "copyright": "Tempio della Concordia, Agrigento, Sicilia (© Wirestock/iStock)",
+        "copyrightlink": "https://www.bing.com/search?q=Tempio+della+Concordia&form=hpcapt",
+        "title": "Luce sulle rovine",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250902_AgrigentoSicilia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ac4e27d31de092c577de0dcddb2be151",
+        "hsh": "29de630cba0f7135c551d31e626145ba",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "C’è un tempo che non passa nella Valle dei Templi, ad Agrigento, in Sicilia. Qui, tra mandorli e colonne dorate dal sole, la pietra racconta storie di dèi e di uomini, di guerre e di silenzi. I templi dorici, eretti oltre duemila anni fa, non sono solo rovine: sono presenze. Il Tempio della Concordia, intatto e fiero, sembra vegliare sul paesaggio come un antico custode della memoria. Passeggiare tra questi resti è come sfogliare un libro scritto dal vento e dalla luce. Ogni capitello, ogni frammento di scultura, ogni gradino consumato dal tempo parla di una civiltà che cercava l’eternità. E forse l’ha trovata. La Valle non è solo archeologia: è un luogo dove il mito si mescola alla terra, dove il passato non è dietro di noi, ma sotto i nostri piedi. Al tramonto, quando il cielo si tinge di rame e le ombre si allungano tra le colonne, si ha la sensazione che il tempo si fermi. E che, per un istante, tutto sia ancora possibile.",
+                "Image": {
+                    "Url": "/th?id=OHR.AgrigentoSicilia_IT-IT0162455126_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AgrigentoSicilia_IT-IT0162455126_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Luce sulle rovine",
+                "Title": "Tempio della Concordia, Agrigento, Sicilia",
+                "Copyright": "© Wirestock/iStock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.289665,13.592079/11?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=37.289665,13.592079;S9;Tempio della Concordia, Agrigento, Sicilia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Tempio%20della%20Concordia&ss=ypid.YN1354x12419238612099913137&mb=37.294745~13.585389~37.28457~13.598778&description=Via%20Passeggiata%20Archeologica%2026%20-%2092100%20Free%20Municipal%20Consortium%20Of%20Agrigento%20%28AG%29&cardbg=%23219AB6&dt=1753887600000&tt=Tempio%20della%20Concordia&tsts0=%2526ty%253D18%2526q%253DTempio%252520della%252520Concordia%2526ss%253Dypid.YN1354x12419238612099913137%2526mb%253D37.294745~13.585389~37.28457~13.598778%2526description%253DVia%252520Passeggiata%252520Archeologica%25252026%252520-%25252092100%252520Free%252520Municipal%252520Consortium%252520Of%252520Agrigento%252520%252528AG%252529%2526cardbg%253D%252523219AB6%2526dt%253D1753887600000&tstt0=Tempio%20della%20Concordia&cp=37.289658~13.581612&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250903_AgrigentoSicilia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tempio+della+Concordia&form=hpcapt&filters=HpDate:\"20250902_2200\"",
+                "TriviaId": "HPQuiz_20250903_AgrigentoSicilia"
+            },
+            "Ssd": "20250903",
+            "Name": "AgrigentoSicilia",
+            "Market": "IT-IT",
+            "Hash": "0162455126",
+            "FullDateString": "3 settembre 2025"
+        }
+    },
+    {
         "startdate": "20250901",
         "fullstartdate": "202509012200",
         "enddate": "20250902",

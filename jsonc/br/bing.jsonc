@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250902",
+        "fullstartdate": "202509020300",
+        "enddate": "20250903",
+        "url": "/th?id=OHR.DeadvleiTrees_PT-BR2241595565_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DeadvleiTrees_PT-BR2241595565",
+        "copyright": "Árvores espinho-de-camelo, Deadvlei, Parque Namib-Naukluft, Namíbia (© Inge Johnsson/Alamy Stock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=o+Parque+Namib-Naukluft&form=hpcapt&mkt=pt-br",
+        "title": "Os fantasmas de Deadvlei",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250902_DeadvleiTrees%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "66b32f9388bd369b8806a07caa147d14",
+        "hsh": "08eb95f59cd0dffe16d08f939541c2ff",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Pode parecer, mas o que vemos aqui não é uma miragem. O vale de Deadvlei, na Namíbia, parece feito de contrastes: troncos retorcidos e escurecidos brotam de um chão claro como giz, cercado por dunas vermelhas e um céu em brasa. Essas árvores são vestígios de um pântano que um dia existiu ali, alimentado pelo rio Tsauchab. Mas as dunas mudaram de lugar, barraram a água e selaram o destino da vegetação. As árvores secaram sob o sol impiedoso — e ficaram. Sem umidade, sem fungos, sem decomposição: há quase mil anos, os troncos permanecem de pé, como sombras fossilizadas que o tempo se esqueceu de levar.",
+                "Image": {
+                    "Url": "/th?id=OHR.DeadvleiTrees_PT-BR2241595565_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DeadvleiTrees_PT-BR2241595565_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Os fantasmas de Deadvlei",
+                "Title": "Árvores espinho-de-camelo, Deadvlei, Parque Namib-Naukluft, Namíbia",
+                "Copyright": "© Inge Johnsson/Alamy Stock Photo",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250902_DeadvleiTrees\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=o+Parque+Namib-Naukluft&form=hpcapt&filters=HpDate:\"20250902_0300\"",
+                "TriviaId": "HPQuiz_20250902_DeadvleiTrees"
+            },
+            "Ssd": "20250902",
+            "Name": "DeadvleiTrees",
+            "Market": "PT-BR",
+            "Hash": "2241595565",
+            "FullDateString": "2 set. 2025"
+        }
+    },
+    {
         "startdate": "20250901",
         "fullstartdate": "202509010300",
         "enddate": "20250902",
