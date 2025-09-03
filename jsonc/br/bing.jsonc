@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250903",
+        "fullstartdate": "202509030300",
+        "enddate": "20250904",
+        "url": "/th?id=OHR.MinnesotaWaters_PT-BR7389411612_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MinnesotaWaters_PT-BR7389411612",
+        "copyright": "Águas serenas da Boundary Waters Canoe Area Wilderness, Minnesota, EUA (© s.tomas/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Boundary+Waters+em+Minnesota+EUA&form=hpcapt&mkt=pt-br",
+        "title": "Tranquilidade protegida",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250903_MinnesotaWaters%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b8379ebaf066e1b4cb386537a0e6b194",
+        "hsh": "278e83342f4d50c71648b43905b8b2eb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A imagem do dia nos leva a Minnesota, nos Estados Unidos, onde o silêncio navega entre lagos, florestas e penhascos glaciais. Trata-se da Boundary Waters Canoe Area Wilderness, um território com mais de quatro mil quilômetros quadrados, que existe graças a uma ideia ousada que virou lei há 61 anos: a \"Wilderness Act\".",
+                "Image": {
+                    "Url": "/th?id=OHR.MinnesotaWaters_PT-BR7389411612_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MinnesotaWaters_PT-BR7389411612_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Tranquilidade protegida",
+                "Title": "Águas serenas da Boundary Waters Canoe Area Wilderness, Minnesota, EUA",
+                "Copyright": "© s.tomas/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250903_MinnesotaWaters\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Boundary+Waters+em+Minnesota+EUA&form=hpcapt&filters=HpDate:\"20250903_0300\"",
+                "TriviaId": "HPQuiz_20250903_MinnesotaWaters"
+            },
+            "Ssd": "20250903",
+            "Name": "MinnesotaWaters",
+            "Market": "PT-BR",
+            "Hash": "7389411612",
+            "FullDateString": "3 set. 2025"
+        }
+    },
+    {
         "startdate": "20250902",
         "fullstartdate": "202509020300",
         "enddate": "20250903",

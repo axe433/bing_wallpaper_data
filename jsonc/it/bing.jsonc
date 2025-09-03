@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250903",
+        "fullstartdate": "202509032200",
+        "enddate": "20250904",
+        "url": "/th?id=OHR.WrestlingBears_IT-IT9855887848_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WrestlingBears_IT-IT9855887848",
+        "copyright": "Orsi grizzly, Parco Nazionale e Riserva di Katmai, Alaska, USA (© Cavan Images/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Grizzly&form=hpcapt",
+        "title": "Giganti dal cuore selvaggio",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250903_WrestlingBears%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a1bcfeb3e889a9fb9bbf23c31153b067",
+        "hsh": "6683a3f7626ccf50cdeffbe2dc53e081",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Gli orsi grizzly dell’Alaska, tra i mammiferi più maestosi e potenti del Nord America, possono raggiungere i 400 kg di peso e correre fino a 56 km/h, nonostante la loro mole imponente. I giovani grizzly spesso si cimentano in combattimenti giocosi per sviluppare forza, affinare le abilità e stabilire legami sociali. Questi orsi sono eccellenti pescatori e si nutrono principalmente di salmoni, bacche, radici e piccoli mammiferi. Un tempo diffusi in gran parte degli Stati Uniti occidentali, oggi vivono soprattutto in Alaska e nelle Montagne Rocciose settentrionali, dove trovano ancora ampi spazi selvaggi e incontaminati.",
+                "Image": {
+                    "Url": "/th?id=OHR.WrestlingBears_IT-IT9855887848_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WrestlingBears_IT-IT9855887848_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Giganti dal cuore selvaggio",
+                "Title": "Orsi grizzly, Parco Nazionale e Riserva di Katmai, Alaska, USA",
+                "Copyright": "© Cavan Images/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "L'olfatto di un orso grizzly è così potente che può individuare il cibo fino a ca. 30 km di distanza, sette volte meglio di quello di un segugio.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250904_WrestlingBears\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Grizzly&form=hpcapt&filters=HpDate:\"20250903_2200\"",
+                "TriviaId": "HPQuiz_20250904_WrestlingBears"
+            },
+            "Ssd": "20250904",
+            "Name": "WrestlingBears",
+            "Market": "IT-IT",
+            "Hash": "9855887848",
+            "FullDateString": "4 settembre 2025"
+        }
+    },
+    {
         "startdate": "20250902",
         "fullstartdate": "202509022200",
         "enddate": "20250903",

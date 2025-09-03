@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250903",
+        "fullstartdate": "202509032200",
+        "enddate": "20250904",
+        "url": "/th?id=OHR.WrestlingBears_FR-FR0316323134_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WrestlingBears_FR-FR0316323134",
+        "copyright": "Bagarre amicale de grizzlis, parc national Katmai, Alaska, États-Unis (© Cavan Images/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Ours+grizzli&form=hpcapt&filters=HpDate%3a%2220250903_2200%22",
+        "title": "Les grizzlis... aussi !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250903_WrestlingBears%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a1bcfeb3e889a9fb9bbf23c31153b067",
+        "hsh": "9e480d34dffae372c29b016f0c20574c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dans les replis silencieux du parc national de Katmai, en Alaska, deux jeunes grizzlis se chamaillent, museaux levés, pattes tendues, dans une chorégraphie brute et joyeuse. Ce n’est pas un duel, mais un rituel d’apprentissage. Force, agilité et complicité s’y forgent dans l’élan de la jeunesse. Ces colosses peuvent atteindre 400 kg et filer à plus de 50 km/h.",
+                "Image": {
+                    "Url": "/th?id=OHR.WrestlingBears_FR-FR0316323134_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WrestlingBears_FR-FR0316323134_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Les grizzlis... aussi !",
+                "Title": "Bagarre amicale de grizzlis, parc national Katmai, Alaska, États-Unis",
+                "Copyright": "© Cavan Images/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "L’odorat d’un grizzli peut détecter de la nourriture à plus de 30 kilomètres, soit sept fois plus que celui d’un chien de chasse.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250904_WrestlingBears\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ours+grizzli&form=hpcapt&filters=HpDate:\"20250903_2200\"",
+                "TriviaId": "HPQuiz_20250904_WrestlingBears"
+            },
+            "Ssd": "20250904",
+            "Name": "WrestlingBears",
+            "Market": "FR-FR",
+            "Hash": "0316323134",
+            "FullDateString": "4 sept. 2025"
+        }
+    },
+    {
         "startdate": "20250902",
         "fullstartdate": "202509022200",
         "enddate": "20250903",

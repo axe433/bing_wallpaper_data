@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250903",
+        "fullstartdate": "202509030400",
+        "enddate": "20250904",
+        "url": "/th?id=OHR.WrestlingBears_EN-CA6711958224_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WrestlingBears_EN-CA6711958224",
+        "copyright": "Grizzly bears wrestling, Katmai National Park and Preserve, Alaska, United States (© Cavan Images/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Grizzly+bears&form=hpcapt&filters=HpDate%3a%2220250903_0400%22",
+        "title": "Bear with us",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250903_WrestlingBears%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a1bcfeb3e889a9fb9bbf23c31153b067",
+        "hsh": "9c6a3ce0feb055ed072e833964e1f663",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Established in 1918 to preserve the aftermath of the Novarupta eruption, Katmai National Park and Preserve in southern Alaska, United States, spans over 16,500 square kilometres of raw wilderness. It is home to the alpine tundra, boreal forests and salmon-rich rivers that support brown bears, moose, wolves and hundreds of bird species, including the rare Aleutian tern. Also residing here is one of the most iconic symbols of the North American wilderness—the grizzly bear. Don't be fooled by their shaggy coats and lumbering walk—these predators can weigh up to 410 kilograms and still run at 56 km/h. Young grizzlies often 'play-fight' to build strength, sharpen survival skills and figure out their place in bear society. It may look cute, but it's serious practice for life in the wild.",
+                "Image": {
+                    "Url": "/th?id=OHR.WrestlingBears_EN-CA6711958224_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WrestlingBears_EN-CA6711958224_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Bear with us",
+                "Title": "Grizzly bears wrestling, Katmai National Park and Preserve, Alaska, United States",
+                "Copyright": "© Cavan Images/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "A grizzly bear's sense of smell is so powerful, it can detect food from up to 32 kilometres away—seven times better than a bloodhound's.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250903_WrestlingBears\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Grizzly+bears&form=hpcapt&filters=HpDate:\"20250903_0400\"",
+                "TriviaId": "HPQuiz_20250903_WrestlingBears"
+            },
+            "Ssd": "20250903",
+            "Name": "WrestlingBears",
+            "Market": "EN-CA",
+            "Hash": "6711958224",
+            "FullDateString": "Sep. 3, 2025"
+        }
+    },
+    {
         "startdate": "20250902",
         "fullstartdate": "202509020400",
         "enddate": "20250903",

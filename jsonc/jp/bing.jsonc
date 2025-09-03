@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250903",
+        "fullstartdate": "202509031500",
+        "enddate": "20250904",
+        "url": "/th?id=OHR.YohoNP_JA-JP5965096200_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.YohoNP_JA-JP5965096200",
+        "copyright": "ヨーホー国立公園, カナダ (© Feng Wei Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%A8%E3%83%BC%E3%83%9B%E3%83%BC%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220250903_1500%22",
+        "title": "エメラルド湖",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250903_YohoNP%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "db55ebccc76cb9bd04a23a2c0f759e04",
+        "hsh": "400d135ee7f0d9cd78c3fbe6231e46e0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "カナダのブリティッシュコロンビア州南東部に位置するヨーホー国立公園。1886 年に設立された国立公園で、紙幣の図柄にも採用された「モレーン湖」や、カナダで最も高い滝「タカカウ滝」が有名です。カナダで 2 番目に古い国立公園で、世界遺産であるカナディアン・ロッキー山脈公園群の一部でもあります…",
+                "Image": {
+                    "Url": "/th?id=OHR.YohoNP_JA-JP5965096200_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.YohoNP_JA-JP5965096200_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "エメラルド湖",
+                "Title": "ヨーホー国立公園, カナダ",
+                "Copyright": "© Feng Wei Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.466667,-116.583336/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=51.466667,-116.583336;S9;ヨーホー国立公園, カナダ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Yoho%20National%20Park&vdpid=4858757717126283265&ss=ypid.YN1226x12344715446652449966&mb=51.644943~-117.006226~51.122772~-116.045433&description=213%202nd%20Ave%2C%20Field%20British%20Columbia%20V0A%201G0&cardbg=%233DB838&dt=1744201800000&tt=Yoho%20National%20Park&tsts0=%2526ty%253D30%2526q%253DYoho%252520National%252520Park%2526vdpid%253D4858757717126283265%2526ss%253Dypid.YN1226x12344715446652449966%2526mb%253D51.644943~-117.006226~51.122772~-116.045433%2526description%253D213%2525202nd%252520Ave%25252C%252520Field%252520British%252520Columbia%252520V0A%2525201G0%2526cardbg%253D%2525233DB838%2526dt%253D1744201800000&tstt0=Yoho%20National%20Park&cp=49.422757~-127.157134&lvl=4.66&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250904_YohoNP\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%a8%e3%83%bc%e3%83%9b%e3%83%bc%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate:\"20250903_1500\"",
+                "TriviaId": "HPQuiz_20250904_YohoNP"
+            },
+            "Ssd": "20250904",
+            "Name": "YohoNP",
+            "Market": "JA-JP",
+            "Hash": "5965096200",
+            "FullDateString": "2025 年 9月 月 4 日"
+        }
+    },
+    {
         "startdate": "20250902",
         "fullstartdate": "202509021500",
         "enddate": "20250903",

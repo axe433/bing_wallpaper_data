@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250903",
+        "fullstartdate": "202509032200",
+        "enddate": "20250904",
+        "url": "/th?id=OHR.WrestlingBears_ES-ES0873710105_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WrestlingBears_ES-ES0873710105",
+        "copyright": "Lucha de osos pardos, Parque Nacional y Reserva Katmai, Alaska, EE. UU. (© Cavan Images/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+nacional+y+reserva+Katmai&form=hpcapt&filters=HpDate%3a%2220250903_2200%22",
+        "title": "¡Qué graci-oso!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250903_WrestlingBears%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a1bcfeb3e889a9fb9bbf23c31153b067",
+        "hsh": "c2a21cea0e74544525c3825f791bc00c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El oso pardo es uno de los grandes símbolos de la naturaleza salvaje. En Alaska (Estados Unidos), especialmente en el Parque Nacional y Reserva Katmai, es común ver a estos imponentes animales en libertad. Los más jóvenes suelen “jugar a pelear” para ganar fuerza, aprender habilidades de supervivencia y estrechar lazos con otros osos. A pesar de su tamaño —pueden llegar a pesar más de 400 kilos—, corren a más de 55 km/h, superando con facilidad a cualquier persona.",
+                "Image": {
+                    "Url": "/th?id=OHR.WrestlingBears_ES-ES0873710105_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WrestlingBears_ES-ES0873710105_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "¡Qué graci-oso!",
+                "Title": "Lucha de osos pardos, Parque Nacional y Reserva Katmai, Alaska, EE. UU.",
+                "Copyright": "© Cavan Images/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250904_WrestlingBears\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parque+nacional+y+reserva+Katmai&form=hpcapt&filters=HpDate:\"20250903_2200\"",
+                "TriviaId": "HPQuiz_20250904_WrestlingBears"
+            },
+            "Ssd": "20250904",
+            "Name": "WrestlingBears",
+            "Market": "ES-ES",
+            "Hash": "0873710105",
+            "FullDateString": "4 de sept. de 2025"
+        }
+    },
+    {
         "startdate": "20250902",
         "fullstartdate": "202509022200",
         "enddate": "20250903",

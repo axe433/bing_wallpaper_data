@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250903",
+        "fullstartdate": "202509032200",
+        "enddate": "20250904",
+        "url": "/th?id=OHR.WrestlingBears_DE-DE4535845239_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WrestlingBears_DE-DE4535845239",
+        "copyright": "Raufende Grizzlybären, Katmai-Nationalpark, Alaska, USA (© Cavan Images/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Grizzlyb%C3%A4ren&form=hpcapt&filters=HpDate%3a%2220250903_2200%22",
+        "title": "Verspielte Giganten",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250903_WrestlingBears%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a1bcfeb3e889a9fb9bbf23c31153b067",
+        "hsh": "d5b24779ad7c2fbb31da7a75722419c1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Grizzlybären zählen zu den eindrucksvollsten Wildtieren Nordamerikas. Mit einer Schulterhöhe von bis zu 1,50 Metern und einem Gewicht von über 400 Kilogramm wirken sie durchaus respekteinflößend – und doch sind sie zugleich anmutige und faszinierend sanfte Wesen. Besonders junge Grizzlys zeigen ein lebhaftes, neugieriges Verhalten: Sie tollen herum, ringen spielerisch und trainieren dabei wichtige Fähigkeiten für ihr späteres Leben. Dieses Spielverhalten stärkt Muskeln, Reflexe und das soziale Miteinander. Die pelzigen Zeitgenossen sind nicht nur geschickte Kletterer, sondern auch überraschend schnelle Sprinter: Auf kurzen Strecken erreichen sie Geschwindigkeiten vergleichbar mit einem galoppierenden Pferd. Ihr dichtes Fell schützt sie vor Kälte, und ihre feine Nase kann Beute über Kilometer hinweg erschnüffeln.",
+                "Image": {
+                    "Url": "/th?id=OHR.WrestlingBears_DE-DE4535845239_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WrestlingBears_DE-DE4535845239_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Verspielte Giganten",
+                "Title": "Raufende Grizzlybären, Katmai-Nationalpark, Alaska, USA",
+                "Copyright": "© Cavan Images/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Der Geruchssinn eines Grizzlybären ist so ausgeprägt, dass er Nahrung aus bis zu 32 Kilometern Entfernung wittern kann – das ist etwa siebenmal besser als der eines Bluthunds.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250904_WrestlingBears\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Grizzlyb%c3%a4ren&form=hpcapt&filters=HpDate:\"20250903_2200\"",
+                "TriviaId": "HPQuiz_20250904_WrestlingBears"
+            },
+            "Ssd": "20250904",
+            "Name": "WrestlingBears",
+            "Market": "DE-DE",
+            "Hash": "4535845239",
+            "FullDateString": "4. Sept.. 2025"
+        }
+    },
+    {
         "startdate": "20250902",
         "fullstartdate": "202509022200",
         "enddate": "20250903",
