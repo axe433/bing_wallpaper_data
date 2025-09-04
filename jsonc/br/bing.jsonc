@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250904",
+        "fullstartdate": "202509040300",
+        "enddate": "20250905",
+        "url": "/th?id=OHR.WrestlingBears_PT-BR2169243821_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WrestlingBears_PT-BR2169243821",
+        "copyright": "Ursos-pardos lutando no Parque Nacional e Reserva de Katmai, Alasca, EUA (© Cavan Images/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=urso-pardo&form=hpcapt&mkt=pt-br",
+        "title": "A resistência é selvagem",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250904_WrestlingBears%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a1bcfeb3e889a9fb9bbf23c31153b067",
+        "hsh": "e7b0bcdbd30517578c7889051f44eb58",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Os jovens ursos-pardos vistos na imagem não estão em guerra — estão em treinamento. Esses embates simulados são uma espécie de escola da vida selvagem: neles, filhotes aprendem a se defender, a caçar e a viver em equilíbrio com o território que habitam. Apesar da aparência robusta, esses gigantes fotografados no Alasca, Estados Unidos, mal começaram a explorar seu papel na cadeia natural.",
+                "Image": {
+                    "Url": "/th?id=OHR.WrestlingBears_PT-BR2169243821_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WrestlingBears_PT-BR2169243821_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A resistência é selvagem",
+                "Title": "Ursos-pardos lutando no Parque Nacional e Reserva de Katmai, Alasca, EUA",
+                "Copyright": "© Cavan Images/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250904_WrestlingBears\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=urso-pardo&form=hpcapt&filters=HpDate:\"20250904_0300\"",
+                "TriviaId": "HPQuiz_20250904_WrestlingBears"
+            },
+            "Ssd": "20250904",
+            "Name": "WrestlingBears",
+            "Market": "PT-BR",
+            "Hash": "2169243821",
+            "FullDateString": "4 set. 2025"
+        }
+    },
+    {
         "startdate": "20250903",
         "fullstartdate": "202509030300",
         "enddate": "20250904",
