@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250905",
+        "fullstartdate": "202509052200",
+        "enddate": "20250906",
+        "url": "/th?id=OHR.BlueGdansk_IT-IT8980051630_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BlueGdansk_IT-IT8980051630",
+        "copyright": "Danzica, Fiume Motława, Polonia (© Oscar Dominguez/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Gda%C5%84sk+Polonia&form=hpcapt",
+        "title": "Colori ad Acqua",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250905_BlueGdansk%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "043c101845f1a2cf34b7b3224d6f7b8a",
+        "hsh": "7b3477c65836e134f69f32d1ede4002f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dove il vento salato incontra guglie fiabesche, Danzica è un incanto che non si dimentica. Affacciata sulla costa settentrionale della Polonia, nella regione del Pomorskie, Danzica è il cuore pulsante del Trójmiasto, un’area metropolitana che comprende anche le raffinate Sopot e Gdynia, distese lungo la baia omonima. Fondata come fortino slavo nel X secolo, Danzica ha vissuto secoli di influenze polacche e tedesche, alternando momenti di autonomia come Città Libera a periodi di dominazione straniera, che ne hanno plasmato l’identità cosmopolita.",
+                "Image": {
+                    "Url": "/th?id=OHR.BlueGdansk_IT-IT8980051630_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BlueGdansk_IT-IT8980051630_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Colori ad Acqua",
+                "Title": "Danzica, Fiume Motława, Polonia",
+                "Copyright": "© Oscar Dominguez/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/54.34829,18.65402/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=54.34829,18.65402;S9;Danzica,  Provincia di Pomorskie, Polonia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Gdansk%2C%20Pomeranian%20Voivodeship%2C%20Poland&satid=id.sid%3A1c7b7430-4313-286a-eb42-b51f26cd8729&vdpid=7019310712790974465&mb=54.773866~17.690464~54.0007~20.141291&cardbg=%23F98745&tt=Gdansk%2C%20Pomeranian%20Voivodeship%2C%20Poland&tsts0=%2526ty%253D30%2526q%253DGdansk%25252C%252520Pomeranian%252520Voivodeship%25252C%252520Poland%2526satid%253Did.sid%25253A1c7b7430-4313-286a-eb42-b51f26cd8729%2526vdpid%253D7019310712790974465%2526mb%253D54.773866~17.690464~54.0007~20.141291%2526cardbg%253D%252523F98745&tstt0=Gdansk%2C%20Pomeranian%20Voivodeship%2C%20Poland&cp=53.714625~14.842355&lvl=5.2929573&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250906_BlueGdansk\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Gda%c5%84sk+Polonia&form=hpcapt&filters=HpDate:\"20250905_2200\"",
+                "TriviaId": "HPQuiz_20250906_BlueGdansk"
+            },
+            "Ssd": "20250906",
+            "Name": "BlueGdansk",
+            "Market": "IT-IT",
+            "Hash": "8980051630",
+            "FullDateString": "6 settembre 2025"
+        }
+    },
+    {
         "startdate": "20250904",
         "fullstartdate": "202509042200",
         "enddate": "20250905",

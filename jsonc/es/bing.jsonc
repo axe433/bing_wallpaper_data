@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250905",
+        "fullstartdate": "202509052200",
+        "enddate": "20250906",
+        "url": "/th?id=OHR.RufousHummer_ES-ES7667920526_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RufousHummer_ES-ES7667920526",
+        "copyright": "Colibrí rufo, Golden Gate Park, San Francisco, California, EE. UU. (© jeremyborkat/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Colibr%C3%AD+rufo&form=hpcapt&filters=HpDate%3a%2220250905_2200%22",
+        "title": "¡Intenta ver su aleteo!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250905_RufousHummer%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "52be44398bbd11ffc9f95175bc315d30",
+        "hsh": "d1fd85b2ffd4b714727dd0ad114ad6fb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Descubra al colibrí rufo, avistado en el Golden Gate Park de San Francisco, California, Estados Unidos. Este pequeño pájaro, de apenas 7 centímetros, destaca por su colorido plumaje: los machos lucen tonos rojizos y cobrizos que brillan con el sol; las hembras son más discretas, pero también muestran franjas anaranjadas en los costados. Aunque parecen frágiles, estos colibríes son sorprendentemente territoriales: no dudan en espantar a otros colibríes, mariposas o abejas para proteger su fuente de néctar. Además, protagonizan una de las migraciones más largas del mundo en relación con su tamaño: viajan cada año desde México hasta Alaska, recorriendo unos 13.000 kilómetros ida y vuelta.",
+                "Image": {
+                    "Url": "/th?id=OHR.RufousHummer_ES-ES7667920526_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RufousHummer_ES-ES7667920526_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "¡Intenta ver su aleteo!",
+                "Title": "Colibrí rufo, Golden Gate Park, San Francisco, California, EE. UU.",
+                "Copyright": "© jeremyborkat/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250906_RufousHummer\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Colibr%c3%ad+rufo&form=hpcapt&filters=HpDate:\"20250905_2200\"",
+                "TriviaId": "HPQuiz_20250906_RufousHummer"
+            },
+            "Ssd": "20250906",
+            "Name": "RufousHummer",
+            "Market": "ES-ES",
+            "Hash": "7667920526",
+            "FullDateString": "6 de sept. de 2025"
+        }
+    },
+    {
         "startdate": "20250904",
         "fullstartdate": "202509042200",
         "enddate": "20250905",

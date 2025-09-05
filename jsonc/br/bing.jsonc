@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250905",
+        "fullstartdate": "202509050300",
+        "enddate": "20250906",
+        "url": "/th?id=OHR.DiaAmazonia_PT-BR5240863340_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DiaAmazonia_PT-BR5240863340",
+        "copyright": "Névoa sobre a copa da Floresta Amazônica (© Ignacio Palacios/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+da+Amaz%C3%B4nia&form=hpcapt&mkt=pt-br",
+        "title": "O que os olhos não veem",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250905_DiaAmazonia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a478d2e7c00f88a2e620e1417de0a28d",
+        "hsh": "18ce916b7cd72159884cfc2d7014e10e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Vista do alto, a névoa que repousa sobre as árvores não esconde: revela. Ali embaixo pulsa um mundo vertical, feito de camadas vivas. Hoje, 5 de setembro, Dia da Amazônia, somos chamados a enxergar além do verde — e proteger até o que ainda não sabemos nomear.",
+                "Image": {
+                    "Url": "/th?id=OHR.DiaAmazonia_PT-BR5240863340_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DiaAmazonia_PT-BR5240863340_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O que os olhos não veem",
+                "Title": "Névoa sobre a copa da Floresta Amazônica",
+                "Copyright": "© Ignacio Palacios/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250905_DiaAmazonia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dia+da+Amaz%c3%b4nia&form=hpcapt&filters=HpDate:\"20250905_0300\"",
+                "TriviaId": "HPQuiz_20250905_DiaAmazonia"
+            },
+            "Ssd": "20250905",
+            "Name": "DiaAmazonia",
+            "Market": "PT-BR",
+            "Hash": "5240863340",
+            "FullDateString": "5 set. 2025"
+        }
+    },
+    {
         "startdate": "20250904",
         "fullstartdate": "202509040300",
         "enddate": "20250905",

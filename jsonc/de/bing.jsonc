@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250905",
+        "fullstartdate": "202509052200",
+        "enddate": "20250906",
+        "url": "/th?id=OHR.FrankfurtAlteBruecke_DE-DE0460546178_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FrankfurtAlteBruecke_DE-DE0460546178",
+        "copyright": "Frankfurter Skyline im violetten Licht und Alte Brücke, Frankfurt am Main, Hessen (© diegograndi/iStock/Getty Images Plus)",
+        "copyrightlink": "https://www.bing.com/search?q=Alte+Br%C3%BCcke+Frankfurt&form=hpcapt&filters=HpDate%3a%2220250905_2200%22",
+        "title": "Geschichte trifft Moderne",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250905_FrankfurtAlteBruecke%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b22dc7d836850a90a6020a408325d16f",
+        "hsh": "6c34925738b3ce451a63997c3d231b98",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Frankfurt am Main, die lebendige Metropole im Herzen Deutschlands, besticht durch ihre einzigartige Verbindung von moderner Skyline und historischer Altstadt. Ein herausragendes Bauwerk ist die Alte Brücke, die den Main seit dem Mittelalter überspannt und als eine der ältesten Flussquerungen der Stadt gilt. Über Jahrhunderte war sie ein bedeutender Handelsweg. Die heutige Alte Brücke, zwischen 1912 und 1926 neu errichtet, verbindet die Altstadt mit dem Stadtteil Sachsenhausen und bietet einen der schönsten Ausblicke auf die beeindruckende Mainhattan-Skyline und den Dom – ein Sinnbild für die Verbindung von Tradition und Moderne. Besonders bei Sonnenuntergang entfaltet die Brücke ihren besonderen Charme.",
+                "Image": {
+                    "Url": "/th?id=OHR.FrankfurtAlteBruecke_DE-DE0460546178_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FrankfurtAlteBruecke_DE-DE0460546178_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Geschichte trifft Moderne",
+                "Title": "Frankfurter Skyline im violetten Licht und Alte Brücke, Frankfurt am Main, Hessen",
+                "Copyright": "© diegograndi/iStock/Getty Images Plus",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.107559,8.68781/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=50.107559,8.68781;S9;Frankfurt am Main, Hessen&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Frankfurt%20am%20Main&satid=id.sid%3Af8c5588a-2360-3601-8d88-1b98e4763711&vdpid=7014946881717403649&mb=50.406639~8.022895~49.892368~9.320984&cardbg=%23F98745&tt=Frankfurt%2C%20Hessen&tsts0=%2526ty%253D30%2526q%253DFrankfurt%252520am%252520Main%2526satid%253Did.sid%25253Af8c5588a-2360-3601-8d88-1b98e4763711%2526vdpid%253D7014946881717403649%2526mb%253D50.406639~8.022895~49.892368~9.320984%2526cardbg%253D%252523F98745&tstt0=Frankfurt%2C%20Hessen&cp=50.234899~7.975116&lvl=8.934812&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250906_FrankfurtAlteBruecke\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Alte+Br%c3%bccke+Frankfurt&form=hpcapt&filters=HpDate:\"20250905_2200\"",
+                "TriviaId": "HPQuiz_20250906_FrankfurtAlteBruecke"
+            },
+            "Ssd": "20250906",
+            "Name": "FrankfurtAlteBruecke",
+            "Market": "DE-DE",
+            "Hash": "0460546178",
+            "FullDateString": "6. Sept.. 2025"
+        }
+    },
+    {
         "startdate": "20250904",
         "fullstartdate": "202509042200",
         "enddate": "20250905",

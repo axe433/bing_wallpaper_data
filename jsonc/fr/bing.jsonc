@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250905",
+        "fullstartdate": "202509052200",
+        "enddate": "20250906",
+        "url": "/th?id=OHR.LilleMarket_FR-FR3271144048_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LilleMarket_FR-FR3271144048",
+        "copyright": "Le beffroi de la Chambre de Commerce, Lille, Hauts-de-France (© Wirestock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Braderie+de+Lille&form=hpcapt&filters=HpDate%3a%2220250905_2200%22",
+        "title": "Lille en fête !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250905_LilleMarket%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "44a6d3c2ed266f469a027d8a142baa45",
+        "hsh": "48626e37b3761d009e40d0df68d152fc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Chaque année, au premier week-end de septembre, Lille devient le théâtre d’un événement aussi populaire que légendaire : la Braderie. Pendant deux jours et deux nuits, la ville se transforme en immense marché à ciel ouvert, l’un des plus grands d’Europe, où professionnels, brocanteurs et habitants déballent des trésors sur les trottoirs.",
+                "Image": {
+                    "Url": "/th?id=OHR.LilleMarket_FR-FR3271144048_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LilleMarket_FR-FR3271144048_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Lille en fête !",
+                "Title": "Le beffroi de la Chambre de Commerce, Lille, Hauts-de-France",
+                "Copyright": "© Wirestock/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.6371,3.06356/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=50.6371,3.06356;S9;Braderie, Lille&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Braderie%20de%20Lille&ss=ypid.YN2000x7762342577947613913&mb=50.642759~3.048363~50.63145~3.078747&description=pl%20G%C3%A9n%20de%20Gaulle%2C%2059000%20Lille%C2%B7March%C3%A9%20aux%20puces&cardbg=%23F98745&dt=1755000000000&tt=Braderie%20de%20Lille&tsts0=%2526ty%253D18%2526q%253DBraderie%252520de%252520Lille%2526ss%253Dypid.YN2000x7762342577947613913%2526mb%253D50.642759~3.048363~50.63145~3.078747%2526description%253Dpl%252520G%2525C3%2525A9n%252520de%252520Gaulle%25252C%25252059000%252520Lille%2525C2%2525B7March%2525C3%2525A9%252520aux%252520puces%2526cardbg%253D%252523F98745%2526dt%253D1755000000000&tstt0=Braderie%20de%20Lille&cp=50.637105~3.058233&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250906_LilleMarket\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Braderie+de+Lille&form=hpcapt&filters=HpDate:\"20250905_2200\"",
+                "TriviaId": "HPQuiz_20250906_LilleMarket"
+            },
+            "Ssd": "20250906",
+            "Name": "LilleMarket",
+            "Market": "FR-FR",
+            "Hash": "3271144048",
+            "FullDateString": "6 sept. 2025"
+        }
+    },
+    {
         "startdate": "20250904",
         "fullstartdate": "202509042200",
         "enddate": "20250905",

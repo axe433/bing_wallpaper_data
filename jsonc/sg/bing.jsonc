@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250905",
+        "fullstartdate": "202509050700",
+        "enddate": "20250906",
+        "url": "/th?id=OHR.SunsetPier_ROW6836711117_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SunsetPier_ROW6836711117",
+        "copyright": "Pacific Park, Santa Monica State Beach, California, United States (© EXTREME-PHOTOGRAPHER/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Santa+Monica+State+Beach&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250905_SunsetPier%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b30db08da7f25b14063a755ac1156b68",
+        "hsh": "f510f149cd46855cfc9cdcb41d0a9d64",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "When the sun clocks out in streaks of orange, pink and purple, Santa Monica, in the United States, goes from laid-back to lit up. Literally. With over 5 kilometres of sand, a historic pier and the Pacific Coast Highway keeping things scenic, this Californian beach is more than just a pretty shoreline. Let's start with the sand. Wide, clean and ready for volleyball or just flopping down with a good book, it's ideal for sunbathers and sandcastle architects alike. And yes, 'Baywatch' was filmed along Santa Monica Bay. Feel free to run in slow motion.",
+                "Image": {
+                    "Url": "/th?id=OHR.SunsetPier_ROW6836711117_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SunsetPier_ROW6836711117_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Pacific Park, Santa Monica State Beach, California, United States",
+                "Copyright": "© EXTREME-PHOTOGRAPHER/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250905_SunsetPier\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Santa+Monica+State+Beach&form=hpcapt&filters=HpDate:\"20250905_0700\"",
+                "TriviaId": "HPQuiz_20250905_SunsetPier"
+            },
+            "Ssd": "20250905",
+            "Name": "SunsetPier",
+            "Market": "ROW",
+            "Hash": "6836711117",
+            "FullDateString": "Sep 5, 2025"
+        }
+    },
+    {
         "startdate": "20250904",
         "fullstartdate": "202509040700",
         "enddate": "20250905",
