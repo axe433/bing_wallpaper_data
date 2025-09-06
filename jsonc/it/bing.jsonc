@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250906",
+        "fullstartdate": "202509062200",
+        "enddate": "20250907",
+        "url": "/th?id=OHR.GaribaldiNapoli_IT-IT9017622092_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GaribaldiNapoli_IT-IT9017622092",
+        "copyright": "Castel dell’Ovo, Baia di Napoli, Napoli, Campania (© florin1961/iStock)",
+        "copyrightlink": "https://www.bing.com/search?q=Ingresso+di+Garibaldi+a+Napoli&form=hpcapt",
+        "title": "Rivol-Unione",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250906_GaribaldiNapoli%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "00c16d9fdc6a61b8c727a7b745fe25cc",
+        "hsh": "4adc183ad3fbc533ac73870f4a6ed504",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dal Castel dell’Ovo, il panorama abbraccia Napoli come un racconto aperto sul mare. Le sue mura, antiche e salmastre, hanno visto secoli di storia, ma il 7 settembre 1860 fu un giorno diverso: oggi ricorre il 165º anniversario. Da qui, si immagina la città in fermento, mentre Giuseppe Garibaldi entra senza spargimento di sangue, accolto da una folla che lo acclama come liberatore. Il Regno delle Due Sicilie vacilla, e Napoli diventa il cuore pulsante del Risorgimento. Garibaldi, con il suo cappello e la camicia rossa, attraversa Chiaia tra volti emozionati e finestre spalancate, diretto verso il cuore della città, dove la storia attende di essere scritta. Non è solo un ingresso: è un gesto simbolico, una rivoluzione che cammina tra la gente. Il Castel dell’Ovo osserva, silenzioso, mentre la città cambia volto. Quel giorno, Napoli non fu conquistata: fu scelta. E da questa terrazza sul tempo, si sente ancora l’eco di quel passo deciso che avvicinò un po’ di più l’Italia unita.",
+                "Image": {
+                    "Url": "/th?id=OHR.GaribaldiNapoli_IT-IT9017622092_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GaribaldiNapoli_IT-IT9017622092_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Rivol-Unione",
+                "Title": "Castel dell’Ovo, Baia di Napoli, Napoli, Campania",
+                "Copyright": "© florin1961/iStock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.828316,14.247604/12?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=40.828316,14.247604;S9;Castel dell’Ovo, Napoli, Campania&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Castel%20dell%27Ovo%2C%20Napoli&ss=ypid.YN1354x7007992320667307900&mb=40.833148~14.240899~40.823471~14.254289&description=Via%20Eldorado%203%20-%2080132%20Napoli%20%28NA%29&cardbg=%23219AB6&dt=1754920800000&tt=Castel%20dell%27Ovo&tsts0=%2526ty%253D18%2526q%253DCastel%252520dell%252527Ovo%25252C%252520Napoli%2526ss%253Dypid.YN1354x7007992320667307900%2526mb%253D40.833148~14.240899~40.823471~14.254289%2526description%253DVia%252520Eldorado%2525203%252520-%25252080132%252520Napoli%252520%252528NA%252529%2526cardbg%253D%252523219AB6%2526dt%253D1754920800000&tstt0=Castel%20dell%27Ovo&cp=40.82831~14.237123&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250907_GaribaldiNapoli\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ingresso+di+Garibaldi+a+Napoli&form=hpcapt&filters=HpDate:\"20250906_2200\"",
+                "TriviaId": "HPQuiz_20250907_GaribaldiNapoli"
+            },
+            "Ssd": "20250907",
+            "Name": "GaribaldiNapoli",
+            "Market": "IT-IT",
+            "Hash": "9017622092",
+            "FullDateString": "7 settembre 2025"
+        }
+    },
+    {
         "startdate": "20250905",
         "fullstartdate": "202509052200",
         "enddate": "20250906",

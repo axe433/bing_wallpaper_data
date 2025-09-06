@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250906",
+        "fullstartdate": "202509062200",
+        "enddate": "20250907",
+        "url": "/th?id=OHR.BlueGdansk_FR-FR3495478989_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BlueGdansk_FR-FR3495478989",
+        "copyright": "Ville de Gdańsk, rives de la rivière Motława, Pologne (© Oscar Dominguez/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Gdansk+Pologne&form=hpcapt&filters=HpDate%3a%2220250906_2200%22",
+        "title": "Une cité faite d’ambre et d’écume",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250906_BlueGdansk%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "043c101845f1a2cf34b7b3224d6f7b8a",
+        "hsh": "5c03d37d268563980612aa60f2cefce1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "À Gdańsk, sur les rives calmes de la rivière Motława, en Pologne, les façades colorées se reflètent dans l’eau comme dans un miroir d’antan. Ancienne forteresse slave du Xe siècle, la ville a connu les couronnes polonaises, les influences germaniques et les élans d’indépendance. Chaque pierre porte la mémoire d’un peuple, d’un passage, d’un espoir.",
+                "Image": {
+                    "Url": "/th?id=OHR.BlueGdansk_FR-FR3495478989_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BlueGdansk_FR-FR3495478989_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Une cité faite d'ambre et d'écume",
+                "Title": "Ville de Gdańsk, rives de la rivière Motława, Pologne",
+                "Copyright": "© Oscar Dominguez/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/54.34829,18.65402/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=54.34829,18.65402;S9;Gdańsk, Pologne&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Gdansk%2C%20Pomeranian%20Voivodeship%2C%20Poland&satid=id.sid%3A1c7b7430-4313-286a-eb42-b51f26cd8729&vdpid=7019310712790974465&mb=54.773866~17.690464~54.0007~20.141291&cardbg=%23F98745&tt=Gdansk%2C%20Pomeranian%20Voivodeship%2C%20Poland&tsts0=%2526ty%253D30%2526q%253DGdansk%25252C%252520Pomeranian%252520Voivodeship%25252C%252520Poland%2526satid%253Did.sid%25253A1c7b7430-4313-286a-eb42-b51f26cd8729%2526vdpid%253D7019310712790974465%2526mb%253D54.773866~17.690464~54.0007~20.141291%2526cardbg%253D%252523F98745&tstt0=Gdansk%2C%20Pomeranian%20Voivodeship%2C%20Poland&cp=53.714625~14.842355&lvl=5.2929573&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250907_BlueGdansk\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Gdansk+Pologne&form=hpcapt&filters=HpDate:\"20250906_2200\"",
+                "TriviaId": "HPQuiz_20250907_BlueGdansk"
+            },
+            "Ssd": "20250907",
+            "Name": "BlueGdansk",
+            "Market": "FR-FR",
+            "Hash": "3495478989",
+            "FullDateString": "7 sept. 2025"
+        }
+    },
+    {
         "startdate": "20250905",
         "fullstartdate": "202509052200",
         "enddate": "20250906",

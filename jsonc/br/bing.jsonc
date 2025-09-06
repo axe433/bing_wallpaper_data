@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250906",
+        "fullstartdate": "202509060300",
+        "enddate": "20250907",
+        "url": "/th?id=OHR.RufousHummer_PT-BR5721753783_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RufousHummer_PT-BR5721753783",
+        "copyright": "Beija-flor-ruivo no Golden Gate Park, São Francisco, Califórnia, Estados Unidos (© jeremyborkat/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=beija-flor&form=hpcapt&mkt=pt-br",
+        "title": "Pequeno grande viajante",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250906_RufousHummer%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "52be44398bbd11ffc9f95175bc315d30",
+        "hsh": "68781d16154f9fbd2dee21f3c6d21d34",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ele pesa menos que uma moeda, mas viaja mais do que muitos mochileiros por aí. Este beija-flor-ruivo, fotografado na Califórnia, Estados Unidos, mede pouco mais de 7 centímetros, mas realiza um dos voos migratórios mais impressionantes do mundo: vai do México ao Alasca e volta, percorrendo até 13 mil quilômetros. Para sustentar essa odisseia, seu coração pulsa mais de 1.200 vezes por minuto, enquanto suas asas vibram até 50 vezes por segundo, numa sinfonia aérea incansável.",
+                "Image": {
+                    "Url": "/th?id=OHR.RufousHummer_PT-BR5721753783_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RufousHummer_PT-BR5721753783_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Pequeno grande viajante",
+                "Title": "Beija-flor-ruivo no Golden Gate Park, São Francisco, Califórnia, Estados Unidos",
+                "Copyright": "© jeremyborkat/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250906_RufousHummer\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=beija-flor&form=hpcapt&filters=HpDate:\"20250906_0300\"",
+                "TriviaId": "HPQuiz_20250906_RufousHummer"
+            },
+            "Ssd": "20250906",
+            "Name": "RufousHummer",
+            "Market": "PT-BR",
+            "Hash": "5721753783",
+            "FullDateString": "6 set. 2025"
+        }
+    },
+    {
         "startdate": "20250905",
         "fullstartdate": "202509050300",
         "enddate": "20250906",
