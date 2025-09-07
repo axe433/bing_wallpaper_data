@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250907",
+        "fullstartdate": "202509070300",
+        "enddate": "20250908",
+        "url": "/th?id=OHR.BlueGdansk_PT-BR6180639699_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BlueGdansk_PT-BR6180639699",
+        "copyright": "Gdansk às margens do rio Motława, Polônia (© Oscar Dominguez/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Gdansk&form=hpcapt&mkt=pt-br",
+        "title": "A cidade preservada em âmbar",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250907_BlueGdansk%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "043c101845f1a2cf34b7b3224d6f7b8a",
+        "hsh": "3252b4d8bf505504a99de68f85b187e1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "À beira do mar Báltico, no norte da Polônia, a cidade de Gdansk combina um cenário vibrante a um passado milenar. Fundada como um forte eslavo no século X e documentada pela primeira vez no ano 997, ela passou por domínios polonês, alemão e até períodos de autonomia. E carrega no nome — derivado de “Gdania”, antiga forma do rio Motława — as marcas da terra que a moldou.",
+                "Image": {
+                    "Url": "/th?id=OHR.BlueGdansk_PT-BR6180639699_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BlueGdansk_PT-BR6180639699_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A cidade preservada em âmbar",
+                "Title": "Gdansk às margens do rio Motława, Polônia",
+                "Copyright": "© Oscar Dominguez/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250907_BlueGdansk\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Gdansk&form=hpcapt&filters=HpDate:\"20250907_0300\"",
+                "TriviaId": "HPQuiz_20250907_BlueGdansk"
+            },
+            "Ssd": "20250907",
+            "Name": "BlueGdansk",
+            "Market": "PT-BR",
+            "Hash": "6180639699",
+            "FullDateString": "7 set. 2025"
+        }
+    },
+    {
         "startdate": "20250906",
         "fullstartdate": "202509060300",
         "enddate": "20250907",

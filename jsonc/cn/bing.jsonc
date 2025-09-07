@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250907",
+        "fullstartdate": "202509071600",
+        "enddate": "20250908",
+        "url": "/th?id=OHR.OrchardLibrary_ZH-CN3578982798_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OrchardLibrary_ZH-CN3578982798",
+        "copyright": "乌节图书馆，新加坡 (© Darwin Fan/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E6%89%AB%E7%9B%B2%E6%97%A5&form=hpcapt&mkt=zh-cn",
+        "title": "当天预订",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250907_OrchardLibrary%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "93272f2271f2d2f9bc4a5c306cd6392f",
+        "hsh": "ea8f398bf14d39c4c5c213917911f1f2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "读一读，就相信它——读写能力改变一切。作为一项基本人权，读写能力是一个强大的工具，它开启了通往更大自由和积极全球公民身份的大门。国际扫盲日（自1967年以来，每年的9月8日）认识到其深远的影响，提醒人们读写能力在为所有人建设更美好、更可持续的未来方面至关重要。今年的主题探讨了数字时代的读写能力，科技正在不断重塑人们学习、交流和参与社会的方式。因此，数字化参与既是挑战，也是机遇。",
+                "Image": {
+                    "Url": "/th?id=OHR.OrchardLibrary_ZH-CN3578982798_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OrchardLibrary_ZH-CN3578982798_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "当天预订",
+                "Title": "乌节图书馆，新加坡",
+                "Copyright": "© Darwin Fan/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "识字能力对于培养批判性思维、辨别可靠信息以及应对复杂的信息环境也至关重要。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250908_OrchardLibrary\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%9b%bd%e9%99%85%e6%89%ab%e7%9b%b2%e6%97%a5&form=hpcapt&filters=HpDate:\"20250907_1600\"",
+                "TriviaId": "HPQuiz_20250908_OrchardLibrary"
+            },
+            "Ssd": "20250908",
+            "Name": "OrchardLibrary",
+            "Market": "ZH-CN",
+            "Hash": "3578982798",
+            "FullDateString": "2025 9月 8"
+        }
+    },
+    {
         "startdate": "20250906",
         "fullstartdate": "202509061600",
         "enddate": "20250907",
