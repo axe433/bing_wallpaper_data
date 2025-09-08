@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250908",
+        "fullstartdate": "202509080400",
+        "enddate": "20250909",
+        "url": "/th?id=OHR.OrchardLibrary_EN-CA5905828145_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OrchardLibrary_EN-CA5905828145",
+        "copyright": "Library@orchard, Singapore (© Darwin Fan/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=International+Literacy+Day&form=hpcapt&filters=HpDate%3a%2220250908_0400%22",
+        "title": "Booked for the day",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250908_OrchardLibrary%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "93272f2271f2d2f9bc4a5c306cd6392f",
+        "hsh": "dcf9c17f8adf899c920b1bb125beb366",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Read it and believe it—literacy changes everything. As a basic human right, literacy is a powerful tool that opens the door to greater freedoms and active global citizenship. Recognising its far-reaching impact, International Literacy Day—observed each year on September 8 since 1967—serves as a reminder of how vital literacy is in building a better, more sustainable future for all. This year, the theme explores literacy in a digital age, where technology continues to reshape how people learn, communicate and participate in society. As a result, digital engagement has become both a challenge and an opportunity.",
+                "Image": {
+                    "Url": "/th?id=OHR.OrchardLibrary_EN-CA5905828145_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OrchardLibrary_EN-CA5905828145_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Booked for the day",
+                "Title": "Library@orchard, Singapore",
+                "Copyright": "© Darwin Fan/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/1.300509,103.839539/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=1.300509,103.839539;S9;Library@orchard, Singapore&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=library%40orchard&satid=id.sid%3A9ab04bf6-35cb-96fe-154b-6ad34ac3afd1&mb=1.309062~103.824384~1.291943~103.854682&description=277%20Orchard%20Road%20Orchard%20Gateway%20Singapore%20238858%C2%B7Library&cardbg=%2388979C&dt=1753353000000&tt=Library%20%40%20Orchard&tsts0=%2526ty%253D18%2526q%253Dlibrary%252540orchard%2526satid%253Did.sid%25253A9ab04bf6-35cb-96fe-154b-6ad34ac3afd1%2526mb%253D1.309062~103.824384~1.291943~103.854682%2526description%253D277%252520Orchard%252520Road%252520Orchard%252520Gateway%252520Singapore%252520238858%2525C2%2525B7Library%2526cardbg%253D%25252388979C%2526dt%253D1753353000000&tstt0=Library%20%40%20Orchard&cp=1.053365~102.08152&lvl=6.983062&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250908_OrchardLibrary\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=International+Literacy+Day&form=hpcapt&filters=HpDate:\"20250908_0400\"",
+                "TriviaId": "HPQuiz_20250908_OrchardLibrary"
+            },
+            "Ssd": "20250908",
+            "Name": "OrchardLibrary",
+            "Market": "EN-CA",
+            "Hash": "5905828145",
+            "FullDateString": "Sep. 8, 2025"
+        }
+    },
+    {
         "startdate": "20250907",
         "fullstartdate": "202509070400",
         "enddate": "20250908",

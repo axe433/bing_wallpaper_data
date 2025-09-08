@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250908",
+        "fullstartdate": "202509081830",
+        "enddate": "20250909",
+        "url": "/th?id=OHR.SwissSquirrel_EN-IN0066763187_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SwissSquirrel_EN-IN0066763187",
+        "copyright": "A female Eurasian red squirrel carrying moss, Switzerland (© Jean-Luc and Francoise Ziegler/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Eurasian+red+squirrel&form=hpcapt&filters=HpDate%3a%2220250908_1830%22",
+        "title": "Twig by twig, she prepares",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250908_SwissSquirrel%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "606bc16f9fc3e08dabd0a345a95f4b59",
+        "hsh": "24e706d87c7b7467f3ce0d3ab28b028a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Quick, clever and always on the move—meet the Eurasian red squirrel, a leafy treetop resident found across much of Europe and Asia. While it prefers the shelter of forests, this agile creature easily adapts to gardens and parks. It builds its nest, called a drey, high in the fork of a tree using twigs to form a domed structure about 25 to 30 centimetres wide. The female featured here is gathering moss—one of several soft materials, along with bark, leaves and grass, that line the nest and turn it into a snug, well-insulated retreat. These rodents may also take over tree hollows or abandoned woodpecker holes when available.",
+                "Image": {
+                    "Url": "/th?id=OHR.SwissSquirrel_EN-IN0066763187_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SwissSquirrel_EN-IN0066763187_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Twig by twig, she prepares",
+                "Title": "A female Eurasian red squirrel carrying moss, Switzerland",
+                "Copyright": "© Jean-Luc and Francoise Ziegler/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "The red squirrel's coat varies by season and region, ranging from black to red. Red is most common in Great Britain, while diverse colours appear across Europe and Asia.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250909_SwissSquirrel\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Eurasian+red+squirrel&form=hpcapt&filters=HpDate:\"20250908_1830\"",
+                "TriviaId": "HPQuiz_20250909_SwissSquirrel"
+            },
+            "Ssd": "20250909",
+            "Name": "SwissSquirrel",
+            "Market": "EN-IN",
+            "Hash": "0066763187",
+            "FullDateString": "9 Sep, 2025"
+        }
+    },
+    {
         "startdate": "20250907",
         "fullstartdate": "202509071830",
         "enddate": "20250908",

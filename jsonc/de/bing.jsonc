@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250908",
+        "fullstartdate": "202509082200",
+        "enddate": "20250909",
+        "url": "/th?id=OHR.SwissSquirrel_DE-DE3902212654_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SwissSquirrel_DE-DE3902212654",
+        "copyright": "Ein Eurasisches Eichhörnchen trägt Moos, Schweiz (© Jean-Luc and Francoise Ziegler/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Eurasisches+Eichh%C3%B6rnchen&form=hpcapt&filters=HpDate%3a%2220250908_2200%22",
+        "title": "Ein Meister des Kletterns",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250908_SwissSquirrel%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "606bc16f9fc3e08dabd0a345a95f4b59",
+        "hsh": "5e276323a49be3656419b5b82ecf2638",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Das Eurasische Eichhörnchen ist ein heimisches Nagetier Europas und Asiens, bekannt für seine flinke Beweglichkeit, den buschigen Schwanz und seine Kletterkünste. Auf dem heutigen Bild sehen wir ein Eurasisches Eichhörnchen in der Schweiz, das Moos trägt – eine faszinierende Szene, denn das Moos wird verwendet, um das Nest, den sogenannten Kobel, weich auszupolstern. Diese Eichhörnchen halten keinen Winterschlaf, sondern legen im Herbst Vorräte an, um die kalte Jahreszeit zu überstehen. Ihr Fell kann von rot bis schwarz variieren, und die charakteristischen Ohrbüschel sind besonders im Winter deutlich sichtbar.",
+                "Image": {
+                    "Url": "/th?id=OHR.SwissSquirrel_DE-DE3902212654_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SwissSquirrel_DE-DE3902212654_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ein Meister des Kletterns",
+                "Title": "Ein Eurasisches Eichhörnchen trägt Moos, Schweiz",
+                "Copyright": "© Jean-Luc and Francoise Ziegler/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Das Fell des Eurasischen Eichhörnchens variiert je nach Jahreszeit und Region – von Schwarz bis Rot. In Großbritannien ist Rot am häufigsten, in Europa und Asien kommen verschiedene Farbtöne vor.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250909_SwissSquirrel\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Eurasisches+Eichh%c3%b6rnchen&form=hpcapt&filters=HpDate:\"20250908_2200\"",
+                "TriviaId": "HPQuiz_20250909_SwissSquirrel"
+            },
+            "Ssd": "20250909",
+            "Name": "SwissSquirrel",
+            "Market": "DE-DE",
+            "Hash": "3902212654",
+            "FullDateString": "9. Sept.. 2025"
+        }
+    },
+    {
         "startdate": "20250907",
         "fullstartdate": "202509072200",
         "enddate": "20250908",

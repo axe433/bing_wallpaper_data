@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250908",
+        "fullstartdate": "202509080300",
+        "enddate": "20250909",
+        "url": "/th?id=OHR.OrchardLibrary_PT-BR6559924297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OrchardLibrary_PT-BR6559924297",
+        "copyright": "Library@orchard, Singapura (© Darwin Fan/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+Internacional+da+Alfabetiza%C3%A7%C3%A3o&form=hpcapt&mkt=pt-br",
+        "title": "Ler para crer",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250908_OrchardLibrary%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "93272f2271f2d2f9bc4a5c306cd6392f",
+        "hsh": "0ed43ad0fa978c307c71944f27448aa6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ler transforma. Abre fendas no concreto do mundo e deixa passar a luz. No Dia Internacional da Alfabetização, celebrado em 8 de setembro, vale lembrar que cada palavra lida é uma conquista — individual e coletiva.",
+                "Image": {
+                    "Url": "/th?id=OHR.OrchardLibrary_PT-BR6559924297_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OrchardLibrary_PT-BR6559924297_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ler para crer",
+                "Title": "Library@orchard, Singapura",
+                "Copyright": "© Darwin Fan/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250908_OrchardLibrary\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dia+Internacional+da+Alfabetiza%c3%a7%c3%a3o&form=hpcapt&filters=HpDate:\"20250908_0300\"",
+                "TriviaId": "HPQuiz_20250908_OrchardLibrary"
+            },
+            "Ssd": "20250908",
+            "Name": "OrchardLibrary",
+            "Market": "PT-BR",
+            "Hash": "6559924297",
+            "FullDateString": "8 set. 2025"
+        }
+    },
+    {
         "startdate": "20250907",
         "fullstartdate": "202509070300",
         "enddate": "20250908",

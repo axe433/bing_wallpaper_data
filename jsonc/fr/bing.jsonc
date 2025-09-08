@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250908",
+        "fullstartdate": "202509082200",
+        "enddate": "20250909",
+        "url": "/th?id=OHR.SwissSquirrel_FR-FR3805105470_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SwissSquirrel_FR-FR3805105470",
+        "copyright": "Femelle écureuil roux avec de la mousse, Suisse (© Jean-Luc and Francoise Ziegler/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=%C3%A9cureuil+roux&form=hpcapt&filters=HpDate%3a%2220250908_2200%22",
+        "title": "La forêt à hauteur d’écureuil",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250908_SwissSquirrel%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "606bc16f9fc3e08dabd0a345a95f4b59",
+        "hsh": "b2a07af9c758a71075b04b49c00efdbf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En Suisse, entre les branches moussues d’un vieux hêtre, une femelle écureuil roux grimpe avec précaution. Dans sa gueule, un précieux chargement : de la mousse fraîche, récoltée pour tapisser son nid perché. Ce dôme de brindilles, appelé hutte, s’abrite à la fourche des arbres, loin du sol, loin du froid.",
+                "Image": {
+                    "Url": "/th?id=OHR.SwissSquirrel_FR-FR3805105470_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SwissSquirrel_FR-FR3805105470_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La forêt à hauteur d'écureuil",
+                "Title": "Femelle écureuil roux avec de la mousse, Suisse",
+                "Copyright": "© Jean-Luc and Francoise Ziegler/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Le pelage de l’écureuil roux varie selon la saison et la région, du noir au roux.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250909_SwissSquirrel\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%c3%a9cureuil+roux&form=hpcapt&filters=HpDate:\"20250908_2200\"",
+                "TriviaId": "HPQuiz_20250909_SwissSquirrel"
+            },
+            "Ssd": "20250909",
+            "Name": "SwissSquirrel",
+            "Market": "FR-FR",
+            "Hash": "3805105470",
+            "FullDateString": "9 sept. 2025"
+        }
+    },
+    {
         "startdate": "20250907",
         "fullstartdate": "202509072200",
         "enddate": "20250908",

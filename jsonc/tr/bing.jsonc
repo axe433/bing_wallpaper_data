@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250908",
+        "fullstartdate": "202509080700",
+        "enddate": "20250909",
+        "url": "/th?id=OHR.OrchardLibrary_ROW7132062115_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OrchardLibrary_ROW7132062115",
+        "copyright": "Library@orchard, Singapore (© Darwin Fan/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Library+orchard+Singapore&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250908_OrchardLibrary%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "93272f2271f2d2f9bc4a5c306cd6392f",
+        "hsh": "0c72ab776d9ed8c37a46ae4bbccd47af",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "The library@orchard at Orchard Gateway in Singapore, featured here, reflects a bold shift in how libraries engage with younger audiences. Its journey began in 1999 when then-Minister for Information and the Arts, Lee Yock Suan, inaugurated the original space on the fifth floor of Ngee Ann City along Orchard Road. After closing in 2007 due to rising rents, the concept was revived and redefined—returning in 2014 to its present home at Orchard Gateway where it continues to inspire a new generation of readers and creators. Spanning two visually distinct levels—The Studio and The Loft—this 1,700-square-metre space holds a curated collection of 100,000 items. Developed in collaboration with students and lecturers from Singapore Polytechnic, this library is a dynamic environment for learning, expression and creative exploration in the heart of Orchard Road.",
+                "Image": {
+                    "Url": "/th?id=OHR.OrchardLibrary_ROW7132062115_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OrchardLibrary_ROW7132062115_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Library@orchard, Singapore",
+                "Copyright": "© Darwin Fan/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250908_OrchardLibrary\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Library+orchard+Singapore&form=hpcapt&filters=HpDate:\"20250908_0700\"",
+                "TriviaId": "HPQuiz_20250908_OrchardLibrary"
+            },
+            "Ssd": "20250908",
+            "Name": "OrchardLibrary",
+            "Market": "ROW",
+            "Hash": "7132062115",
+            "FullDateString": "8 Eyl, 2025"
+        }
+    },
+    {
         "startdate": "20250907",
         "fullstartdate": "202509070700",
         "enddate": "20250908",
