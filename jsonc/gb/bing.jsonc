@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250910",
+        "fullstartdate": "202509102300",
+        "enddate": "20250911",
+        "url": "/th?id=OHR.BlueGdansk_EN-GB1148120483_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BlueGdansk_EN-GB1148120483",
+        "copyright": "Gdańsk on the banks of the Motława river, Poland (© Oscar Dominguez/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Gdansk+poland&form=hpcapt&filters=HpDate%3a%2220250910_2300%22",
+        "title": "Pastel dreams and still waters",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250910_BlueGdansk%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "043c101845f1a2cf34b7b3224d6f7b8a",
+        "hsh": "e353d6b2974a35926653e0a5e377881f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Where cobbled charm meets coastal cool, Gdańsk is a dynamic city in Poland's Pomorskie province. It is part of Tricity—a metropolitan area along the Gdańsk Bay that includes the neighbouring coastal cities of Sopot and Gdynia, along with nearby towns. The city likely takes its name from 'Gdania,' an earlier name for the Motława river that runs through it.",
+                "Image": {
+                    "Url": "/th?id=OHR.BlueGdansk_EN-GB1148120483_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BlueGdansk_EN-GB1148120483_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Pastel dreams and still waters",
+                "Title": "Gdańsk on the banks of the Motława river, Poland",
+                "Copyright": "© Oscar Dominguez/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/54.34829,18.65402/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=54.34829,18.65402;S9;Gdańsk, Pomorskie province, Poland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Gdansk%2C%20Pomeranian%20Voivodeship%2C%20Poland&satid=id.sid%3A1c7b7430-4313-286a-eb42-b51f26cd8729&vdpid=7019310712790974465&mb=54.773866~17.690464~54.0007~20.141291&cardbg=%23F98745&tt=Gdansk%2C%20Pomeranian%20Voivodeship%2C%20Poland&tsts0=%2526ty%253D30%2526q%253DGdansk%25252C%252520Pomeranian%252520Voivodeship%25252C%252520Poland%2526satid%253Did.sid%25253A1c7b7430-4313-286a-eb42-b51f26cd8729%2526vdpid%253D7019310712790974465%2526mb%253D54.773866~17.690464~54.0007~20.141291%2526cardbg%253D%252523F98745&tstt0=Gdansk%2C%20Pomeranian%20Voivodeship%2C%20Poland&cp=53.714625~14.842355&lvl=5.2929573&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250911_BlueGdansk\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Gdansk+poland&form=hpcapt&filters=HpDate:\"20250910_2300\"",
+                "TriviaId": "HPQuiz_20250911_BlueGdansk"
+            },
+            "Ssd": "20250911",
+            "Name": "BlueGdansk",
+            "Market": "EN-GB",
+            "Hash": "1148120483",
+            "FullDateString": "11 Sep 2025"
+        }
+    },
+    {
         "startdate": "20250909",
         "fullstartdate": "202509092300",
         "enddate": "20250910",
