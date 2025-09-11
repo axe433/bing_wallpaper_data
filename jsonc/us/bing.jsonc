@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250911",
+        "fullstartdate": "202509110700",
+        "enddate": "20250912",
+        "url": "/th?id=OHR.LibertyManhattan_EN-US8781721086_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LibertyManhattan_EN-US8781721086",
+        "copyright": "Statue of Liberty and Lower Manhattan, New York City (© Tetra Images/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Patriot+Day&form=hpcapt&filters=HpDate%3a%2220250911_0700%22",
+        "title": "In unity and remembrance",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250911_LibertyManhattan%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6ff6252ab494ef46a39047720e617791",
+        "hsh": "db810057e213b867b7b13c7871ea1a06",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "September 11, 2001, began like any other day—until history changed in an instant. Nearly 3,000 innocent lives were lost in the terrorist attacks on the World Trade Center, the Pentagon, and aboard United Airlines Flight 93. Today, on Patriot Day, we honor the fallen and the countless acts of courage that emerged in the face of tragedy, from firefighters and first responders to ordinary citizens who became heroes. At 8:46 AM Eastern Time—the moment the first plane struck the North Tower—Americans observe a moment of silence. Permanent memorials now stand at each of the three sites. Visiting one or volunteering in your community is a meaningful way to participate in the National Day of Service and honor those who continue to serve.",
+                "Image": {
+                    "Url": "/th?id=OHR.LibertyManhattan_EN-US8781721086_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LibertyManhattan_EN-US8781721086_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "In unity and remembrance",
+                "Title": "Statue of Liberty and Lower Manhattan, New York City",
+                "Copyright": "© Tetra Images/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.71278,-74.00611/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=40.71278,-74.00611;S9;New York City&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=new%20york%20city&satid=id.sid%3A60d5dc2b-c915-460b-b722-c9e3485499ca&vdpid=5487505297524129794&mb=41.066734~-74.745926~40.353453~-73.26722&cardbg=%23F98745&tt=New%20York%2C%20New%20York%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253Dnew%252520york%252520city%2526satid%253Did.sid%25253A60d5dc2b-c915-460b-b722-c9e3485499ca%2526vdpid%253D5487505297524129794%2526mb%253D41.066734~-74.745926~40.353453~-73.26722%2526cardbg%253D%252523F98745&tstt0=New%20York%2C%20New%20York%2C%20United%20States&cp=40.65214~-82.810232&lvl=5.29&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250911_LibertyManhattan\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Patriot+Day&form=hpcapt&filters=HpDate:\"20250911_0700\"",
+                "TriviaId": "HPQuiz_20250911_LibertyManhattan"
+            },
+            "Ssd": "20250911",
+            "Name": "LibertyManhattan",
+            "Market": "EN-US",
+            "Hash": "8781721086",
+            "FullDateString": "Sep 11, 2025"
+        }
+    },
+    {
         "startdate": "20250910",
         "fullstartdate": "202509100700",
         "enddate": "20250911",

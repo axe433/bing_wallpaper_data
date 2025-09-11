@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250911",
+        "fullstartdate": "202509110300",
+        "enddate": "20250912",
+        "url": "/th?id=OHR.ExtremaduraJamon_PT-BR7599252573_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ExtremaduraJamon_PT-BR7599252573",
+        "copyright": "Vista do Salto del Gitano, Parque Nacional de Monfragüe, Cáceres, Extremadura, Espanha (© Daniel Viñé Garcia/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+de+Monfrag%C3%BCe&form=hpcapt&mkt=pt-br",
+        "title": "Ao infinito e além",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250911_ExtremaduraJamon%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6d7e47a458f45467758dfbcbe323d40b",
+        "hsh": "f4102f77032bce08951a46d00cfa7336",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A luz suave que envolve o Salto del Gitano, no Parque Nacional de Monfragüe, na Espanha, anuncia o fim do dia — e prepara o palco para um espetáculo que se prolonga para além do visível. Ao cair da noite, o céu se revela em sua plenitude: estrelas e planetas surgem como centelhas, e a Via Láctea se estende como um rio de luz no tecido escuro do universo.",
+                "Image": {
+                    "Url": "/th?id=OHR.ExtremaduraJamon_PT-BR7599252573_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ExtremaduraJamon_PT-BR7599252573_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ao infinito e além",
+                "Title": "Vista do Salto del Gitano, Parque Nacional de Monfragüe, Cáceres, Extremadura, Espanha",
+                "Copyright": "© Daniel Viñé Garcia/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250911_ExtremaduraJamon\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parque+Nacional+de+Monfrag%c3%bce&form=hpcapt&filters=HpDate:\"20250911_0300\"",
+                "TriviaId": "HPQuiz_20250911_ExtremaduraJamon"
+            },
+            "Ssd": "20250911",
+            "Name": "ExtremaduraJamon",
+            "Market": "PT-BR",
+            "Hash": "7599252573",
+            "FullDateString": "11 set. 2025"
+        }
+    },
+    {
         "startdate": "20250910",
         "fullstartdate": "202509100300",
         "enddate": "20250911",
