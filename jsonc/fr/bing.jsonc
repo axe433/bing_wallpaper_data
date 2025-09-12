@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250912",
+        "fullstartdate": "202509122200",
+        "enddate": "20250913",
+        "url": "/th?id=OHR.PointReyesSeashore_FR-FR5791711233_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PointReyesSeashore_FR-FR5791711233",
+        "copyright": "Chimney Rock, Point Reyes National Seashore, Californie, États-Unis (© Enrique Aguirre Aves/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Point+reyes+national+seashore+etats-unis&form=hpcapt&filters=HpDate%3a%2220250912_2200%22",
+        "title": "La vigie du Pacifique",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250912_PointReyesSeashore%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f2ece2e0ecb5b835e3eec0d91f74eb93",
+        "hsh": "3367d8b29d2390b19e6e5ac924312f12",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En Californie, aux États-Unis, à un peu plus d’une heure au nord de San Francisco, la côte de Point Reyes National Seashore s’avance dans le Pacifique avec une majesté brute. Ici, les falaises se dressent, les brumes s’attardent, et les élans de la mer dessinent un territoire libre, sauvage, et profondément vivant.",
+                "Image": {
+                    "Url": "/th?id=OHR.PointReyesSeashore_FR-FR5791711233_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PointReyesSeashore_FR-FR5791711233_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La vigie du Pacifique",
+                "Title": "Chimney Rock, Point Reyes National Seashore, Californie, États-Unis",
+                "Copyright": "© Enrique Aguirre Aves/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.043972,-122.798416/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=38.043972,-122.798416;S9;Point Reyes National Seashore, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Chimney%20Rock%20Point%20Reyes%20National%20Seashore&ss=ypid.YN873x15731574389794398308&mb=38.05033~-122.813566~38.037605~-122.783267&description=1%20Bear%20Valley%20Rd%2C%20Point%20Reyes%20Station%2C%20Ca%2094956%C2%B7Hiking%20area&cardbg=%23219AB6&dt=1753446600000&tt=Chimney%20Rock%20Point%20Reyes%20National%20Seashore&tsts0=%2526ty%253D18%2526q%253DChimney%252520Rock%252520Point%252520Reyes%252520National%252520Seashore%2526ss%253Dypid.YN873x15731574389794398308%2526mb%253D38.05033~-122.813566~38.037605~-122.783267%2526description%253D1%252520Bear%252520Valley%252520Rd%25252C%252520Point%252520Reyes%252520Station%25252C%252520Ca%25252094956%2525C2%2525B7Hiking%252520area%2526cardbg%253D%252523219AB6%2526dt%253D1753446600000&tstt0=Chimney%20Rock%20Point%20Reyes%20National%20Seashore&cp=37.341737~-128.936347&lvl=5.644177&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250913_PointReyesSeashore\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Point+reyes+national+seashore+etats-unis&form=hpcapt&filters=HpDate:\"20250912_2200\"",
+                "TriviaId": "HPQuiz_20250913_PointReyesSeashore"
+            },
+            "Ssd": "20250913",
+            "Name": "PointReyesSeashore",
+            "Market": "FR-FR",
+            "Hash": "5791711233",
+            "FullDateString": "13 sept. 2025"
+        }
+    },
+    {
         "startdate": "20250911",
         "fullstartdate": "202509112200",
         "enddate": "20250912",

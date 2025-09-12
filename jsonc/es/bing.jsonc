@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250912",
+        "fullstartdate": "202509122200",
+        "enddate": "20250913",
+        "url": "/th?id=OHR.PointReyesSeashore_ES-ES8209669177_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PointReyesSeashore_ES-ES8209669177",
+        "copyright": "Chimney Rock, Costa Nacional de Point Reyes, California, EE. UU. (© Enrique Aguirre Aves/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Costa+Nacional+de+Point+Reyes&form=hpcapt&filters=HpDate%3a%2220250912_2200%22",
+        "title": "Escarpado y salvaje",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250912_PointReyesSeashore%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f2ece2e0ecb5b835e3eec0d91f74eb93",
+        "hsh": "3478e9ea25a3aee97abeb3d296d7d44a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "No está pulido ni domesticado, y ese es su encanto. Si viajas a Estados Unidos, a poco más de una hora al norte de San Francisco encontrarás la Costa Nacional de Point Reyes, donde la niebla avanza lentamente, los alces tule deambulan libres y el tiempo parece detenerse. Creado por el Congreso en 1962, este parque protege más de 260 kilómetros cuadrados de praderas costeras, acantilados ventosos, playas y bosques de abetos Douglas.",
+                "Image": {
+                    "Url": "/th?id=OHR.PointReyesSeashore_ES-ES8209669177_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PointReyesSeashore_ES-ES8209669177_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Escarpado y salvaje",
+                "Title": "Chimney Rock, Costa Nacional de Point Reyes, California, EE. UU.",
+                "Copyright": "© Enrique Aguirre Aves/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250913_PointReyesSeashore\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Costa+Nacional+de+Point+Reyes&form=hpcapt&filters=HpDate:\"20250912_2200\"",
+                "TriviaId": "HPQuiz_20250913_PointReyesSeashore"
+            },
+            "Ssd": "20250913",
+            "Name": "PointReyesSeashore",
+            "Market": "ES-ES",
+            "Hash": "8209669177",
+            "FullDateString": "13 de sept. de 2025"
+        }
+    },
+    {
         "startdate": "20250911",
         "fullstartdate": "202509112200",
         "enddate": "20250912",

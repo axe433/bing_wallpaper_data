@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250912",
+        "fullstartdate": "202509120700",
+        "enddate": "20250913",
+        "url": "/th?id=OHR.SpinnerDolphins_ROW7589569967_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpinnerDolphins_ROW7589569967",
+        "copyright": "Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt (© Franco Banfi/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Spinner+dolphin&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250912_SpinnerDolphins%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1fefee9bf9c4f189e8686b78376bcdad",
+        "hsh": "27a024701cd42ce67b434aa0e2b1264a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "With lifelong bonds, signature whistles and echolocation, dolphins are more than just smart swimmers. Over 40 dolphin species swim our seas, from the Māui dolphin to the Irrawaddy dolphin. They're expert navigators, problem-solvers and team players. Some even form super pods—temporary gatherings of hundreds or thousands of dolphins moving together offshore.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpinnerDolphins_ROW7589569967_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpinnerDolphins_ROW7589569967_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt",
+                "Copyright": "© Franco Banfi/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250912_SpinnerDolphins\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Spinner+dolphin&form=hpcapt&filters=HpDate:\"20250912_0700\"",
+                "TriviaId": "HPQuiz_20250912_SpinnerDolphins"
+            },
+            "Ssd": "20250912",
+            "Name": "SpinnerDolphins",
+            "Market": "ROW",
+            "Hash": "7589569967",
+            "FullDateString": "12 sep. 2025"
+        }
+    },
+    {
         "startdate": "20250911",
         "fullstartdate": "202509110700",
         "enddate": "20250912",
