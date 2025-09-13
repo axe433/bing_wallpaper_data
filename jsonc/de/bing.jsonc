@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250913",
+        "fullstartdate": "202509132200",
+        "enddate": "20250914",
+        "url": "/th?id=OHR.GeraOrangerie_DE-DE0955611584_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GeraOrangerie_DE-DE0955611584",
+        "copyright": "Orangerie Gera, Thüringen (© luchschenF/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Tag+des+offenen+Denkmals&form=hpcapt&filters=HpDate%3a%2220250913_2200%22",
+        "title": "Zeugen der Vergangenheit",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250913_GeraOrangerie%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "637270245f29504b291ade6f6fe1feae",
+        "hsh": "20e4aa6a7ea3562db326658341e77b7c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Wussten Sie, dass heute der Tag des offenen Denkmals stattfindet? Jedes Jahr am zweiten Sonntag im September öffnen in ganz Deutschland historische Gebäude und Kulturdenkmäler ihre Türen. Der Aktionstag lädt dazu ein, unser kulturelles Erbe aus neuen Perspektiven zu entdecken. Seit 1993 wird er bundesweit von der Deutschen Stiftung Denkmalschutz koordiniert – und gilt heute als größte Kulturveranstaltung des Landes. Millionen Menschen nutzen die Gelegenheit, Geschichte direkt vor Ort zu erleben. Denn Denkmäler sind mehr als steinerne Zeugen der Vergangenheit: Sie prägen unseren Alltag und geben der Gegenwart ein Gesicht. Der diesjährige Aktionstag steht unter dem Motto „DENKMAL bewahren, DIGITAL erfahren“. Im Mittelpunkt steht die Frage, wie Digitalisierung den Denkmalschutz und die Denkmalpflege unterstützen kann.",
+                "Image": {
+                    "Url": "/th?id=OHR.GeraOrangerie_DE-DE0955611584_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GeraOrangerie_DE-DE0955611584_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Zeugen der Vergangenheit",
+                "Title": "Orangerie Gera, Thüringen",
+                "Copyright": "© luchschenF/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.87818,12.08242/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=50.87818,12.08242;S9;Gera, Thüringen&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Gera%2C%20Th%C3%BCringen&satid=id.sid%3A9d7d8650-7ca9-7136-dbca-7befdde3c127&vdpid=7018139207159775233&mb=50.97654~11.856284~50.799099~12.311225&cardbg=%23F98745&tt=Gera%2C%20Th%C3%BCringen&tsts0=%2526ty%253D30%2526q%253DGera%25252C%252520Th%2525C3%2525BCringen%2526satid%253Did.sid%25253A9d7d8650-7ca9-7136-dbca-7befdde3c127%2526vdpid%253D7018139207159775233%2526mb%253D50.97654~11.856284~50.799099~12.311225%2526cardbg%253D%252523F98745&tstt0=Gera%2C%20Th%C3%BCringen&cp=50.891348~11.871598&lvl=10.726687&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250914_GeraOrangerie\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tag+des+offenen+Denkmals&form=hpcapt&filters=HpDate:\"20250913_2200\"",
+                "TriviaId": "HPQuiz_20250914_GeraOrangerie"
+            },
+            "Ssd": "20250914",
+            "Name": "GeraOrangerie",
+            "Market": "DE-DE",
+            "Hash": "0955611584",
+            "FullDateString": "14. Sept.. 2025"
+        }
+    },
+    {
         "startdate": "20250912",
         "fullstartdate": "202509122200",
         "enddate": "20250913",

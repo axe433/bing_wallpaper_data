@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250913",
+        "fullstartdate": "202509130300",
+        "enddate": "20250914",
+        "url": "/th?id=OHR.PointReyesSeashore_PT-BR6646395434_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PointReyesSeashore_PT-BR6646395434",
+        "copyright": "Chimney Rock, Point Reyes National Seashore, Califórnia, EUA (© Enrique Aguirre Aves/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Point+Reyes+National+Seashore+na+Calif%C3%B3rnia&form=hpcapt&mkt=pt-br",
+        "title": "Esculpida pelo Pacífico",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250913_PointReyesSeashore%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f2ece2e0ecb5b835e3eec0d91f74eb93",
+        "hsh": "980df16a3d116363f48693d6656b4b79",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Na imagem do dia, a Chimney Rock, uma imponente formação rochosa na costa da Califórnia, Estados Unidos, se ergue sobre o Pacífico. Ela faz parte do Point Reyes National Seashore, um parque nacional que protege mais de 28 mil hectares de litoral intocado, penhascos dramáticos, pradarias, dunas e florestas costeiras. Aqui, a vegetação se move com o vento frio e úmido: abetos, gramíneas, líquens, arbustos e flores resistentes ao ar salgado formam um tapete verde que cobre boa parte dos 240 quilômetros de trilhas do parque.",
+                "Image": {
+                    "Url": "/th?id=OHR.PointReyesSeashore_PT-BR6646395434_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PointReyesSeashore_PT-BR6646395434_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Esculpida pelo Pacífico",
+                "Title": "Chimney Rock, Point Reyes National Seashore, Califórnia, EUA",
+                "Copyright": "© Enrique Aguirre Aves/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250913_PointReyesSeashore\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Point+Reyes+National+Seashore+na+Calif%c3%b3rnia&form=hpcapt&filters=HpDate:\"20250913_0300\"",
+                "TriviaId": "HPQuiz_20250913_PointReyesSeashore"
+            },
+            "Ssd": "20250913",
+            "Name": "PointReyesSeashore",
+            "Market": "PT-BR",
+            "Hash": "6646395434",
+            "FullDateString": "13 set. 2025"
+        }
+    },
+    {
         "startdate": "20250912",
         "fullstartdate": "202509120300",
         "enddate": "20250913",
