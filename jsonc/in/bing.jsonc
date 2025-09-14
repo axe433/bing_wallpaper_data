@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250914",
+        "fullstartdate": "202509141830",
+        "enddate": "20250915",
+        "url": "/th?id=OHR.Echasse_EN-IN1542383073_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Echasse_EN-IN1542383073",
+        "copyright": "Black-winged stilts, France (© Antonio Sementa/500px/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Black-winged+stilt&form=hpcapt&filters=HpDate%3a%2220250914_1830%22",
+        "title": "Wading for a sign",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250914_Echasse%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6aca731b228ff01c6129e9536c055787",
+        "hsh": "944e2ae4d3ad73e7a91a0c6ceea66ea9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Across the shimmering lagoons of Africa, the winding deltas of Asia and the salt marshes of southern Europe, a graceful figure emerges—poised delicately between water and sky. The black-winged stilt, with its long slender red legs, moves with quiet elegance through the shallows. At times their presence carries a sense of intimacy—two birds drifting close, their movements mirroring each other in a delicate choreography as if sharing a secret only the wetlands can hear. They hunt with patient precision, gently picking insects, larvae and tiny crustaceans from the water's surface. Every movement reflects a subtle mastery of their environment, shaped by patience and instinct.",
+                "Image": {
+                    "Url": "/th?id=OHR.Echasse_EN-IN1542383073_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Echasse_EN-IN1542383073_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Wading for a sign",
+                "Title": "Black-winged stilts, France",
+                "Copyright": "© Antonio Sementa/500px/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47,2/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=47,2;S9;France&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=France&satid=id.sid%3Ac7bfe2de-4f82-e23c-ae42-8544b5b5c0ea&vdpid=84&mb=50.961682~-10.240019~41.241693~14.658891&cardbg=%23F98745&tt=France&tsts0=%2526ty%253D30%2526q%253DFrance%2526satid%253Did.sid%25253Ac7bfe2de-4f82-e23c-ae42-8544b5b5c0ea%2526vdpid%253D84%2526mb%253D50.961682~-10.240019~41.241693~14.658891%2526cardbg%253D%252523F98745&tstt0=France&cp=45.862261~-15.877268&lvl=3.0961177&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250915_Echasse\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Black-winged+stilt&form=hpcapt&filters=HpDate:\"20250914_1830\"",
+                "TriviaId": "HPQuiz_20250915_Echasse"
+            },
+            "Ssd": "20250915",
+            "Name": "Echasse",
+            "Market": "EN-IN",
+            "Hash": "1542383073",
+            "FullDateString": "15 Sep, 2025"
+        }
+    },
+    {
         "startdate": "20250913",
         "fullstartdate": "202509131830",
         "enddate": "20250914",

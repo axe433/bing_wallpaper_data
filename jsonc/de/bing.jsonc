@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250914",
+        "fullstartdate": "202509142200",
+        "enddate": "20250915",
+        "url": "/th?id=OHR.Echasse_DE-DE5356832083_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Echasse_DE-DE5356832083",
+        "copyright": "Stelzenläufer, Frankreich (© Antonio Sementa/500px/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Stelzenl%C3%A4ufer&form=hpcapt&filters=HpDate%3a%2220250914_2200%22",
+        "title": "Anmutig und stimmfreudig",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250914_Echasse%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6aca731b228ff01c6129e9536c055787",
+        "hsh": "1ef63b21b184e7dd7257d01117da41c0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Mit seinen langen, roten Beinen und dem schwarz-weißen Gefieder schreitet der Stelzenläufer anmutig durch flache Gewässer. Oft sieht man Paare, die sich synchron bewegen – fast wie ein stiller Tanz, der nur diesen Watvögeln gehört. Dank seiner langen Beine kann er auch in tieferem Wasser nach Nahrung suchen. Im Verhältnis zum Körper sind seine Beine übrigens die längsten aller Vogelarten. Der Stelzenläufer ernährt sich von Insekten, Larven und kleinen Krebstieren, die er mit präzisen Bewegungen von der Wasseroberfläche pickt. Seine Anwesenheit gilt als Zeichen für ein intaktes Ökosystem – sein Verschwinden dagegen als Warnsignal. Der wärmeliebende Zugvogel lebt vor allem im Mittelmeerraum, wo er an Lagunen, Küstensümpfen, Teichen oder Salinen zu finden ist. Die Wintermonate verbringt er überwiegend in Afrika, nur selten bleibt er in Südeuropa.",
+                "Image": {
+                    "Url": "/th?id=OHR.Echasse_DE-DE5356832083_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Echasse_DE-DE5356832083_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Anmutig und stimmfreudig",
+                "Title": "Stelzenläufer, Frankreich",
+                "Copyright": "© Antonio Sementa/500px/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Der Stelzenläufer hat im Verhältnis zu seiner Körpergröße die längsten Beine im gesamten Vogelreich – fast 90 Prozent seiner Körperlänge entfallen auf die Beine!",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250915_Echasse\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Stelzenl%c3%a4ufer&form=hpcapt&filters=HpDate:\"20250914_2200\"",
+                "TriviaId": "HPQuiz_20250915_Echasse"
+            },
+            "Ssd": "20250915",
+            "Name": "Echasse",
+            "Market": "DE-DE",
+            "Hash": "5356832083",
+            "FullDateString": "15. Sept.. 2025"
+        }
+    },
+    {
         "startdate": "20250913",
         "fullstartdate": "202509132200",
         "enddate": "20250914",
