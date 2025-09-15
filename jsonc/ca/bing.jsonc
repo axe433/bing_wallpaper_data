@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250915",
+        "fullstartdate": "202509150400",
+        "enddate": "20250916",
+        "url": "/th?id=OHR.BrentonHighlandsNP_EN-CA6938321042_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BrentonHighlandsNP_EN-CA6938321042",
+        "copyright": "Coastline at Cape Breton Highlands National Park, Nova Scotia (© Tiago_Fernandez/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Cape+Breton+Highlands+National+Park+Nova+Scotia&form=hpcapt&filters=HpDate%3a%2220250915_0400%22",
+        "title": "Cape Brenton views",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250915_BrentonHighlandsNP%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "56a6bb404cf2f1971012763bc025f623",
+        "hsh": "17aa0b39fa71358901652bab0872eefe",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Follow the curve of the Cabot Trail, and you will find yourself in Cape Breton Highlands National Park in Nova Scotia, where the highlands meet the sea. Established in 1936, the park stretches across almost 950 square kilometres of northern Cape Breton Island. It's where the Gulf of St. Lawrence meets the Atlantic, shaping rugged cliffs, highland plateaus and sheltered valleys, as seen in today's image.",
+                "Image": {
+                    "Url": "/th?id=OHR.BrentonHighlandsNP_EN-CA6938321042_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BrentonHighlandsNP_EN-CA6938321042_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Cape Brenton views",
+                "Title": "Coastline at Cape Breton Highlands National Park, Nova Scotia",
+                "Copyright": "© Tiago_Fernandez/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.7167,-60.6597/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=46.7167,-60.6597;S9;Cape Breton Highlands National Park, Nova Scotia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Cape%20Breton%20Highlands%20National%20Park%20in%20Nova%20Scotia&satid=id.sid%3A2cbb18ea-21e6-0fd2-4ca8-acca564c4366&vdpid=5322250826146643969&mb=46.864525~-61.02932~46.595665~-60.31506&cardbg=%23F98745&dt=1755509400000&tt=Cape%20Breton%20Highlands%20National%20Park%2C%20Nova%20Scotia&tsts0=%2526ty%253D30%2526q%253DCape%252520Breton%252520Highlands%252520National%252520Park%252520in%252520Nova%252520Scotia%2526satid%253Did.sid%25253A2cbb18ea-21e6-0fd2-4ca8-acca564c4366%2526vdpid%253D5322250826146643969%2526mb%253D46.864525~-61.02932~46.595665~-60.31506%2526cardbg%253D%252523F98745%2526dt%253D1755509400000&tstt0=Cape%20Breton%20Highlands%20National%20Park%2C%20Nova%20Scotia&cp=46.592001~-66.763775&lvl=6.21&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250915_BrentonHighlandsNP\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Cape+Breton+Highlands+National+Park+Nova+Scotia&form=hpcapt&filters=HpDate:\"20250915_0400\"",
+                "TriviaId": "HPQuiz_20250915_BrentonHighlandsNP"
+            },
+            "Ssd": "20250915",
+            "Name": "BrentonHighlandsNP",
+            "Market": "EN-CA",
+            "Hash": "6938321042",
+            "FullDateString": "Sep. 15, 2025"
+        }
+    },
+    {
         "startdate": "20250914",
         "fullstartdate": "202509140400",
         "enddate": "20250915",

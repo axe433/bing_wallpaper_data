@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250915",
+        "fullstartdate": "202509151830",
+        "enddate": "20250916",
+        "url": "/th?id=OHR.OzoneEarth_EN-IN1801873889_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OzoneEarth_EN-IN1801873889",
+        "copyright": "A nighttime view of the Gulf Coast states from 350 kilometres above Earth (© Stocktrek Images/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ozone+Day&form=hpcapt&filters=HpDate%3a%2220250915_1830%22",
+        "title": "A stratospheric success",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250915_OzoneEarth%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "08bac57d18f808cbb06d64c9d5597505",
+        "hsh": "824ed66679ef561b53cf1a1f1cf24fb8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "What do invisible gases, vintage hairspray and satellites have in common? They all played a role in one of the greatest environmental comebacks in history. Seen from over 350 kilometres above, the Gulf Coast glows like a constellation—clusters of light scattered across the dark. But what truly makes this view possible can't be seen: the ozone layer, silently shielding everything below from the sun's ultraviolet rays. By the 1980s, that shield was thinning fast—damaged by chemicals once used in refrigeration and aerosol products. The solution? A global pact. The Montreal Protocol, signed in 1987, led to a swift phase-out of ozone-depleting substances. Today, satellites show that the hole over Antarctica is shrinking. Scientists believe it could be fully healed by mid-century.",
+                "Image": {
+                    "Url": "/th?id=OHR.OzoneEarth_EN-IN1801873889_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OzoneEarth_EN-IN1801873889_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A stratospheric success",
+                "Title": "A nighttime view of the Gulf Coast states from 350 kilometres above Earth",
+                "Copyright": "© Stocktrek Images/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Every single United Nations member—197 countries—ratified the Montreal Protocol, making it the first treaty in UN history to achieve universal ratification.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250916_OzoneEarth\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ozone+Day&form=hpcapt&filters=HpDate:\"20250915_1830\"",
+                "TriviaId": "HPQuiz_20250916_OzoneEarth"
+            },
+            "Ssd": "20250916",
+            "Name": "OzoneEarth",
+            "Market": "EN-IN",
+            "Hash": "1801873889",
+            "FullDateString": "16 Sep, 2025"
+        }
+    },
+    {
         "startdate": "20250914",
         "fullstartdate": "202509141830",
         "enddate": "20250915",

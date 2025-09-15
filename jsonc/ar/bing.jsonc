@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250915",
+        "fullstartdate": "202509150700",
+        "enddate": "20250916",
+        "url": "/th?id=OHR.Echasse_ROW7944797323_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Echasse_ROW7944797323",
+        "copyright": "Black-winged stilts, France (© Antonio Sementa/500px/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Black-winged+stilt&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250915_Echasse%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6aca731b228ff01c6129e9536c055787",
+        "hsh": "e602f90dd65d267504daf9547c28d679",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Across the shimmering lagoons of Africa, the winding deltas of Asia and the salt marshes of southern Europe, a graceful figure emerges, poised delicately between water and sky. The black-winged stilt, with its long, slender red legs, moves with quiet elegance through the shallows. Their presence sometimes evokes a quiet intimacy—two birds drifting close, their movements mirroring one another in a delicate choreography, as if sharing a secret only the wetlands can hear. They hunt with quiet precision, gently picking insects, larvae and tiny crustaceans from the water's surface. Each movement reveals a subtle mastery of their environment, shaped by patience and instinct.",
+                "Image": {
+                    "Url": "/th?id=OHR.Echasse_ROW7944797323_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Echasse_ROW7944797323_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Black-winged stilts, France",
+                "Copyright": "© Antonio Sementa/500px/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250915_Echasse\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Black-winged+stilt&form=hpcapt&filters=HpDate:\"20250915_0700\"",
+                "TriviaId": "HPQuiz_20250915_Echasse"
+            },
+            "Ssd": "20250915",
+            "Name": "Echasse",
+            "Market": "ROW",
+            "Hash": "7944797323",
+            "FullDateString": "15 de sep. de 2025"
+        }
+    },
+    {
         "startdate": "20250914",
         "fullstartdate": "202509140700",
         "enddate": "20250915",

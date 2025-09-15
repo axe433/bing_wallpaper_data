@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250915",
+        "fullstartdate": "202509152200",
+        "enddate": "20250916",
+        "url": "/th?id=OHR.OzoneEarth_IT-IT9452054464_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OzoneEarth_IT-IT9452054464",
+        "copyright": "Vista notturna degli Stati della costa del Golfo dallo Spazio (© Stocktrek Images/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Giornata+internazionale+per+la+preservazione+dello+strato+di+ozono&form=hpcapt",
+        "title": "Un successo stratosferico",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250915_OzoneEarth%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "08bac57d18f808cbb06d64c9d5597505",
+        "hsh": "c4bc60daaea01058774710b68b3f029c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Oggi, 16 settembre, si celebra la \"Giornata Internazionale per la Preservazione dello Strato di Ozono\". È il giorno in cui ricordiamo che anche ciò che non si vede può proteggere, ferire… e guarire. A oltre 360 chilometri dalla Terra, i satelliti osservano il mondo come se fosse una mappa di luci: il Golfo del Messico brilla come una costellazione, frammenti luminosi nel buio. Ma ciò che rende possibile questa visione non è la luce: è l’ombra silenziosa dello strato di ozono, che ci difende dai raggi invisibili del sole.",
+                "Image": {
+                    "Url": "/th?id=OHR.OzoneEarth_IT-IT9452054464_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OzoneEarth_IT-IT9452054464_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un successo stratosferico",
+                "Title": "Vista notturna degli Stati della costa del Golfo dallo Spazio",
+                "Copyright": "© Stocktrek Images/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Tutti i membri delle Nazioni Unite, ovvero 197 paesi, hanno ratificato il Protocollo di Montréal, rendendolo il primo trattato nella storia dell'ONU ad ottenere la ratifica universale.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250916_OzoneEarth\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Giornata+internazionale+per+la+preservazione+dello+strato+di+ozono&form=hpcapt&filters=HpDate:\"20250915_2200\"",
+                "TriviaId": "HPQuiz_20250916_OzoneEarth"
+            },
+            "Ssd": "20250916",
+            "Name": "OzoneEarth",
+            "Market": "IT-IT",
+            "Hash": "9452054464",
+            "FullDateString": "16 settembre 2025"
+        }
+    },
+    {
         "startdate": "20250914",
         "fullstartdate": "202509142200",
         "enddate": "20250915",

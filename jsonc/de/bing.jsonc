@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250915",
+        "fullstartdate": "202509152200",
+        "enddate": "20250916",
+        "url": "/th?id=OHR.OzoneEarth_DE-DE2800551844_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OzoneEarth_DE-DE2800551844",
+        "copyright": "Nachtansicht der Golfküstenstaaten aus 362 Kilometern Höhe über der Erde (© Stocktrek Images/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+zum+Schutz+der+Ozonschicht&form=hpcapt&filters=HpDate%3a%2220250915_2200%22",
+        "title": "Ein stratosphärischer Erfolg",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250915_OzoneEarth%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "08bac57d18f808cbb06d64c9d5597505",
+        "hsh": "d810d9d4b92233387548920f6514d305",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Am 16. September wird der Internationale Tag zum Schutz der Ozonschicht begangen – ein Datum, das an die Unterzeichnung des Montrealer Protokolls im Jahr 1987 erinnert. Dieses historische Abkommen erzielte etwas Einzigartiges: Es wurde von allen 197 Mitgliedstaaten der Vereinten Nationen ratifiziert und ist damit das erste Abkommen in der Geschichte der UNO mit universeller Zustimmung. Dank dieser globalen Zusammenarbeit konnte der Einsatz ozonschädlicher Stoffe wie FCKW drastisch reduziert werden.",
+                "Image": {
+                    "Url": "/th?id=OHR.OzoneEarth_DE-DE2800551844_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OzoneEarth_DE-DE2800551844_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ein stratosphärischer Erfolg",
+                "Title": "Nachtansicht der Golfküstenstaaten aus 362 Kilometern Höhe über der Erde",
+                "Copyright": "© Stocktrek Images/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Das Montrealer Protokoll ist das erste UNO-Abkommen, das von allen 197 Mitgliedstaaten ratifiziert wurde – ein historischer Meilenstein für den globalen Umweltschutz.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250916_OzoneEarth\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Internationaler+Tag+zum+Schutz+der+Ozonschicht&form=hpcapt&filters=HpDate:\"20250915_2200\"",
+                "TriviaId": "HPQuiz_20250916_OzoneEarth"
+            },
+            "Ssd": "20250916",
+            "Name": "OzoneEarth",
+            "Market": "DE-DE",
+            "Hash": "2800551844",
+            "FullDateString": "16. Sept.. 2025"
+        }
+    },
+    {
         "startdate": "20250914",
         "fullstartdate": "202509142200",
         "enddate": "20250915",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250915",
+        "fullstartdate": "202509152200",
+        "enddate": "20250916",
+        "url": "/th?id=OHR.OzoneEarth_FR-FR6213796059_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OzoneEarth_FR-FR6213796059",
+        "copyright": "Vue nocturne des États américains bordant le golfe du Mexique, depuis 360 kilomètres au-dessus de la Terre (© Stocktrek Images/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Protection+de+la+couche+d%27ozone&form=hpcapt&filters=HpDate%3a%2220250915_2200%22",
+        "title": "La couche d’ozone, un succès environnemental",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250915_OzoneEarth%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "08bac57d18f808cbb06d64c9d5597505",
+        "hsh": "f6deeeaa3df60cf17601cd12ebae204f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "À 360 kilomètres au-dessus de la Terre, la côte américaine du golfe du Mexique scintille comme une constellation. Mais ce spectacle lumineux n’existerait pas sans une force invisible : la couche d’ozone, un bouclier silencieux qui filtre les rayons ultraviolets du soleil.",
+                "Image": {
+                    "Url": "/th?id=OHR.OzoneEarth_FR-FR6213796059_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OzoneEarth_FR-FR6213796059_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La couche d'ozone, un succès environnemental",
+                "Title": "Vue nocturne des États américains bordant le golfe du Mexique, depuis 360 kilomètres au-dessus de la Terre",
+                "Copyright": "© Stocktrek Images/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Le Protocole de Montréal, adopté pour protéger la couche d’ozone, est le premier traité de l’ONU à avoir été ratifié par l’ensemble des 197 États membres.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250916_OzoneEarth\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Protection+de+la+couche+d%27ozone&form=hpcapt&filters=HpDate:\"20250915_2200\"",
+                "TriviaId": "HPQuiz_20250916_OzoneEarth"
+            },
+            "Ssd": "20250916",
+            "Name": "OzoneEarth",
+            "Market": "FR-FR",
+            "Hash": "6213796059",
+            "FullDateString": "16 sept. 2025"
+        }
+    },
+    {
         "startdate": "20250914",
         "fullstartdate": "202509142200",
         "enddate": "20250915",
