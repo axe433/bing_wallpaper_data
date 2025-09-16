@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250916",
+        "fullstartdate": "202509160400",
+        "enddate": "20250917",
+        "url": "/th?id=OHR.OzoneEarth_EN-CA7588653763_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OzoneEarth_EN-CA7588653763",
+        "copyright": "A nighttime view of the Gulf Coast states from 362 kilometres above Earth (© Stocktrek Images/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ozone+Day&form=hpcapt&filters=HpDate%3a%2220250916_0400%22",
+        "title": "A stratospheric success",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250916_OzoneEarth%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "08bac57d18f808cbb06d64c9d5597505",
+        "hsh": "f7eb56ba835a471da242d379f02f946f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "What do invisible gases, vintage hairspray and satellites have in common? They all played a role in one of the greatest environmental comebacks in history. Seen from 362 kilometres above, the Gulf Coast glows like a constellation—clusters of light scattered across the dark. But what truly makes this view possible can't be seen: the ozone layer, silently shielding everything below from the sun's ultraviolet rays. By the 1980s, that shield was thinning fast—damaged by chemicals once used in refrigeration and aerosol products. The solution? A global pact. The Montreal Protocol, signed in 1987, led to a swift phase-out of ozone-depleting substances. Today, satellites show that the hole over Antarctica is shrinking. Scientists believe it could be fully healed by mid-century.",
+                "Image": {
+                    "Url": "/th?id=OHR.OzoneEarth_EN-CA7588653763_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OzoneEarth_EN-CA7588653763_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A stratospheric success",
+                "Title": "A nighttime view of the Gulf Coast states from 362 kilometres above Earth",
+                "Copyright": "© Stocktrek Images/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Every single United Nations member—197 countries—ratified the Montreal Protocol, making it the first treaty in UN history to achieve universal ratification.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250916_OzoneEarth\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ozone+Day&form=hpcapt&filters=HpDate:\"20250916_0400\"",
+                "TriviaId": "HPQuiz_20250916_OzoneEarth"
+            },
+            "Ssd": "20250916",
+            "Name": "OzoneEarth",
+            "Market": "EN-CA",
+            "Hash": "7588653763",
+            "FullDateString": "Sep. 16, 2025"
+        }
+    },
+    {
         "startdate": "20250915",
         "fullstartdate": "202509150400",
         "enddate": "20250916",
@@ -20,11 +69,11 @@
             "ImageContent": {
                 "Description": "Follow the curve of the Cabot Trail, and you will find yourself in Cape Breton Highlands National Park in Nova Scotia, where the highlands meet the sea. Established in 1936, the park stretches across almost 950 square kilometres of northern Cape Breton Island. It's where the Gulf of St. Lawrence meets the Atlantic, shaping rugged cliffs, highland plateaus and sheltered valleys, as seen in today's image.",
                 "Image": {
-                    "Url": "/th?id=OHR.BrentonHighlandsNP_EN-CA6938321042_1920x1080.webp",
-                    "Wallpaper": "/th?id=OHR.BrentonHighlandsNP_EN-CA6938321042_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Url": "/th?id=OHR.BrentonHighlandsNP_EN-CA0999765737_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BrentonHighlandsNP_EN-CA0999765737_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
                     "Downloadable": true
                 },
-                "Headline": "Cape Brenton views",
+                "Headline": "Cape Breton views",
                 "Title": "Coastline at Cape Breton Highlands National Park, Nova Scotia",
                 "Copyright": "© Tiago_Fernandez/Getty Images",
                 "SocialGood": null,
@@ -44,7 +93,7 @@
             "Ssd": "20250915",
             "Name": "BrentonHighlandsNP",
             "Market": "EN-CA",
-            "Hash": "6938321042",
+            "Hash": "0999765737",
             "FullDateString": "Sep. 15, 2025"
         }
     },

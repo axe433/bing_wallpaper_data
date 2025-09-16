@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250916",
+        "fullstartdate": "202509162200",
+        "enddate": "20250917",
+        "url": "/th?id=OHR.YoungMoose_FR-FR2257077158_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.YoungMoose_FR-FR2257077158",
+        "copyright": "Jeune élan mâle, parc national de Denali, Alaska, États-Unis (© Grant Ordelheide/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=%C3%A9lan+d%27Alaska&form=hpcapt&filters=HpDate%3a%2220250916_2200%22",
+        "title": "Le souffle calme de la force",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250916_YoungMoose%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ec5e99db8c067807edd142745b37db71",
+        "hsh": "df6c9f949e559444810353e7183313d4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dans le parc national de Denali, en Alaska, un jeune élan mâle dresse la tête au-dessus des herbes dorées. Ses bois encore tendres, couverts de velours, ressemblent plus à une couronne qu’à une arme. Et pourtant, tout est là : la promesse d’un futur combat, l’instinct, la tension silencieuse d’un monde régi par la force tranquille.",
+                "Image": {
+                    "Url": "/th?id=OHR.YoungMoose_FR-FR2257077158_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.YoungMoose_FR-FR2257077158_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Le souffle calme de la force",
+                "Title": "Jeune élan mâle, parc national de Denali, Alaska, États-Unis",
+                "Copyright": "© Grant Ordelheide/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/63.73802,-148.887697/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=63.73802,-148.887697;S9;Parc national de Denali, Alaska, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Denali%20National%20Park&satid=id.sid%3Abda0d437-5f32-48a4-53d2-c9a0d581aa01&vdpid=4721671633587142657&mb=64.110603~-154.690803~62.103882~-146.620232&cardbg=%23F98745&dt=1753380000000&tt=P.%20N.%20e%20Reserva%20Denali%2C%20AK&tsts1=%2526ty%253D30%2526q%253DDenali%252520National%252520Park%2526satid%253Did.sid%25253Abda0d437-5f32-48a4-53d2-c9a0d581aa01%2526vdpid%253D4721671633587142657%2526mb%253D64.110603~-154.690803~62.103882~-146.620232%2526cardbg%253D%252523F98745%2526dt%253D1753380000000&tstt1=P.%20N.%20e%20Reserva%20Denali%2C%20AK&cp=62.689259~-156.414967&lvl=6.211664&pi=0&ftst=1&ftics=True&v=2&sV=2form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250917_YoungMoose\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%c3%a9lan+d%27Alaska&form=hpcapt&filters=HpDate:\"20250916_2200\"",
+                "TriviaId": "HPQuiz_20250917_YoungMoose"
+            },
+            "Ssd": "20250917",
+            "Name": "YoungMoose",
+            "Market": "FR-FR",
+            "Hash": "2257077158",
+            "FullDateString": "17 sept. 2025"
+        }
+    },
+    {
         "startdate": "20250915",
         "fullstartdate": "202509152200",
         "enddate": "20250916",
