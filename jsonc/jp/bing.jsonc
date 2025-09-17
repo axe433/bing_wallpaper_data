@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250917",
+        "fullstartdate": "202509171500",
+        "enddate": "20250918",
+        "url": "/th?id=OHR.DunquinIreland_JA-JP7345541610_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DunquinIreland_JA-JP7345541610",
+        "copyright": "ダンキンの船着き場, アイルランド (© Hugh O'Connor/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%80%E3%83%B3%E3%82%AD%E3%83%B3%E3%81%AE%E8%88%B9%E7%9D%80%E3%81%8D%E5%A0%B4&form=hpcapt&filters=HpDate%3a%2220250917_1500%22",
+        "title": "崖沿いに続く美しい蛇行階段",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250917_DunquinIreland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e24f8f03dc7e6b2ed794a90875201d57",
+        "hsh": "3d5c312abe7c0c96f2839494b60b0f1f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日の画像は、アイルランドのディングル半島最西端にあるダンキンの船着き場。アイルランド西海岸沖の無人島諸島、ブラスケット諸島へわたる船着き場です。また、断崖をジグザグに下る道しかないこの場所へは、徒歩でしか行くことができませんが、その道中の景観が美しく、写真映えするスポットとして人気があります…",
+                "Image": {
+                    "Url": "/th?id=OHR.DunquinIreland_JA-JP7345541610_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DunquinIreland_JA-JP7345541610_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "崖沿いに続く美しい蛇行階段",
+                "Title": "ダンキンの船着き場, アイルランド",
+                "Copyright": "© Hugh O'Connor/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.13349,-10.45452/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=52.13349,-10.45452;S9;ダンキン, アイルランド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Dunquin%2C%20County%20Kerry%2C%20Ireland&satid=id.sid%3Aed169e2d-97d9-61eb-8ab1-128f48d9a46a&vdpid=5468623927200710657&mb=52.137762~-10.466259~52.129214~-10.442784&cardbg=%23F98745&dt=1753452000000&tt=Dunquin%2C%20County%20Kerry%2C%20Ireland&tsts0=%2526ty%253D30%2526q%253DDunquin%25252C%252520County%252520Kerry%25252C%252520Ireland%2526satid%253Did.sid%25253Aed169e2d-97d9-61eb-8ab1-128f48d9a46a%2526vdpid%253D5468623927200710657%2526mb%253D52.137762~-10.466259~52.129214~-10.442784%2526cardbg%253D%252523F98745%2526dt%253D1753452000000&tstt0=Dunquin%2C%20County%20Kerry%2C%20Ireland&cp=53.175959~-11.398033&lvl=6.9123583&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250918_DunquinIreland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%80%e3%83%b3%e3%82%ad%e3%83%b3%e3%81%ae%e8%88%b9%e7%9d%80%e3%81%8d%e5%a0%b4&form=hpcapt&filters=HpDate:\"20250917_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250918_DunquinIreland"
+            },
+            "Ssd": "20250918",
+            "Name": "DunquinIreland",
+            "Market": "JA-JP",
+            "Hash": "7345541610",
+            "FullDateString": "2025 年 9月 月 18 日"
+        }
+    },
+    {
         "startdate": "20250916",
         "fullstartdate": "202509161500",
         "enddate": "20250917",
@@ -38,7 +87,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250917_YoungMoose\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=%e8%8b%a5%e3%81%84%e3%82%aa%e3%82%b9%e3%81%ae%e3%83%98%e3%83%a9%e3%82%b8%e3%82%ab&form=hpcapt&filters=HpDate:\"20250916_1500\"",
+                "BackstageUrl": "/search?q=%e8%8b%a5%e3%81%84%e3%82%aa%e3%82%b9%e3%81%ae%e3%83%98%e3%83%a9%e3%82%b8%e3%82%ab&form=hpcapt&filters=HpDate:\"20250916_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250917_YoungMoose"
             },
             "Ssd": "20250917",
@@ -87,7 +136,7 @@
                     "LinkText": "オゾンホールは、特にどの地域の上空で確認される？"
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250916_OzoneEarth\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=%e5%9b%bd%e9%9a%9b%e3%82%aa%e3%82%be%e3%83%b3%e5%b1%a4%e4%bf%9d%e8%ad%b7%e3%83%87%e3%83%bc&form=hpcapt&filters=HpDate:\"20250915_1500\"",
+                "BackstageUrl": "/search?q=%e5%9b%bd%e9%9a%9b%e3%82%aa%e3%82%be%e3%83%b3%e5%b1%a4%e4%bf%9d%e8%ad%b7%e3%83%87%e3%83%bc&form=hpcapt&filters=HpDate:\"20250915_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250916_OzoneEarth"
             },
             "Ssd": "20250916",
@@ -136,7 +185,7 @@
                     "LinkText": "フクロウが首を大きく回せるのはなぜ？"
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250915_AgedDay2025\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%83%af%e3%82%b7%e3%83%9f%e3%83%9f%e3%82%ba%e3%82%af&form=hpcapt&filters=HpDate:\"20250914_1500\"",
+                "BackstageUrl": "/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%83%af%e3%82%b7%e3%83%9f%e3%83%9f%e3%82%ba%e3%82%af&form=hpcapt&filters=HpDate:\"20250914_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250915_AgedDay2025"
             },
             "Ssd": "20250915",
@@ -185,7 +234,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250914_HohWaterfall\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=%e3%82%aa%e3%83%aa%e3%83%b3%e3%83%94%e3%83%83%e3%82%af%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate:\"20250913_1500\"",
+                "BackstageUrl": "/search?q=%e3%82%aa%e3%83%aa%e3%83%b3%e3%83%94%e3%83%83%e3%82%af%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate:\"20250913_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250914_HohWaterfall"
             },
             "Ssd": "20250914",
@@ -234,7 +283,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250913_PointReyesSeashore\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88%e3%83%bb%e3%83%ac%e3%82%a4%e3%82%ba%e5%9b%bd%e5%ae%9a%e6%b5%b7%e5%b2%b8&form=hpcapt&filters=HpDate:\"20250912_1500\"",
+                "BackstageUrl": "/search?q=%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88%e3%83%bb%e3%83%ac%e3%82%a4%e3%82%ba%e5%9b%bd%e5%ae%9a%e6%b5%b7%e5%b2%b8&form=hpcapt&filters=HpDate:\"20250912_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250913_PointReyesSeashore"
             },
             "Ssd": "20250913",
@@ -283,7 +332,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250912_SpaceDay2025\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=%e7%a8%ae%e5%ad%90%e5%b3%b6%e5%ae%87%e5%ae%99%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc&form=hpcapt&filters=HpDate:\"20250911_1500\"",
+                "BackstageUrl": "/search?q=%e7%a8%ae%e5%ad%90%e5%b3%b6%e5%ae%87%e5%ae%99%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc&form=hpcapt&filters=HpDate:\"20250911_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250912_SpaceDay2025"
             },
             "Ssd": "20250912",

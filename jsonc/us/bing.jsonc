@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250917",
+        "fullstartdate": "202509170700",
+        "enddate": "20250918",
+        "url": "/th?id=OHR.YoungMoose_EN-US2991221135_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.YoungMoose_EN-US2991221135",
+        "copyright": "Young bull moose in Denali National Park, Alaska (© Grant Ordelheide/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Alaska+moose&form=hpcapt&filters=HpDate%3a%2220250917_0700%22",
+        "title": "A crown in the making",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250917_YoungMoose%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ec5e99db8c067807edd142745b37db71",
+        "hsh": "45c0fee7cb5ca1125a2144d64844f516",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "He may be young, but these antlers speak of future battles. In Denali National Park, Alaska, a young bull moose lifts his head above the shrubs. At this stage, his antlers are more crown than weapon—still covered in velvet. But even now, they hint at a life shaped by instinct, sparring, and the quiet pull of dominance.",
+                "Image": {
+                    "Url": "/th?id=OHR.YoungMoose_EN-US2991221135_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.YoungMoose_EN-US2991221135_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A crown in the making",
+                "Title": "Young bull moose in Denali National Park, Alaska",
+                "Copyright": "© Grant Ordelheide/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/63.73802,-148.887697/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=63.73802,-148.887697;S9;Denali National Park&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Denali%20National%20Park&satid=id.sid%3Abda0d437-5f32-48a4-53d2-c9a0d581aa01&vdpid=4721671633587142657&mb=64.110603~-154.690803~62.103882~-146.620232&cardbg=%23F98745&dt=1753380000000&tt=P.%20N.%20e%20Reserva%20Denali%2C%20AK&tsts1=%2526ty%253D30%2526q%253DDenali%252520National%252520Park%2526satid%253Did.sid%25253Abda0d437-5f32-48a4-53d2-c9a0d581aa01%2526vdpid%253D4721671633587142657%2526mb%253D64.110603~-154.690803~62.103882~-146.620232%2526cardbg%253D%252523F98745%2526dt%253D1753380000000&tstt1=P.%20N.%20e%20Reserva%20Denali%2C%20AK&cp=62.689259~-156.414967&lvl=6.211664&pi=0&ftst=1&ftics=True&v=2&sV=2form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250917_YoungMoose\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Alaska+moose&form=hpcapt&filters=HpDate:\"20250917_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250917_YoungMoose"
+            },
+            "Ssd": "20250917",
+            "Name": "YoungMoose",
+            "Market": "EN-US",
+            "Hash": "2991221135",
+            "FullDateString": "Sep 17, 2025"
+        }
+    },
+    {
         "startdate": "20250916",
         "fullstartdate": "202509160700",
         "enddate": "20250917",
@@ -38,7 +87,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250916_OzoneEarth\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Ozone+Day&form=hpcapt&filters=HpDate:\"20250916_0700\"",
+                "BackstageUrl": "/search?q=Ozone+Day&form=hpcapt&filters=HpDate:\"20250916_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250916_OzoneEarth"
             },
             "Ssd": "20250916",
@@ -87,7 +136,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250915_DallasLegorreta\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Hispanic+Heritage+Month&form=hpcapt&filters=HpDate:\"20250915_0700\"",
+                "BackstageUrl": "/search?q=Hispanic+Heritage+Month&form=hpcapt&filters=HpDate:\"20250915_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250915_DallasLegorreta"
             },
             "Ssd": "20250915",
@@ -136,7 +185,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250914_HohWaterfall\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Olympic+National+Park+Washington&form=hpcapt&filters=HpDate:\"20250914_0700\"",
+                "BackstageUrl": "/search?q=Olympic+National+Park+Washington&form=hpcapt&filters=HpDate:\"20250914_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250914_HohWaterfall"
             },
             "Ssd": "20250914",
@@ -185,7 +234,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250913_PointReyesSeashore\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Point+Reyes+National+Seashore&form=hpcapt&filters=HpDate:\"20250913_0700\"",
+                "BackstageUrl": "/search?q=Point+Reyes+National+Seashore&form=hpcapt&filters=HpDate:\"20250913_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250913_PointReyesSeashore"
             },
             "Ssd": "20250913",
@@ -234,7 +283,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250912_SpinnerDolphins\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=World+Dolphin+Day&form=hpcapt&filters=HpDate:\"20250912_0700\"",
+                "BackstageUrl": "/search?q=World+Dolphin+Day&form=hpcapt&filters=HpDate:\"20250912_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250912_SpinnerDolphins"
             },
             "Ssd": "20250912",
@@ -283,7 +332,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250911_LibertyManhattan\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Patriot+Day&form=hpcapt&filters=HpDate:\"20250911_0700\"",
+                "BackstageUrl": "/search?q=Patriot+Day&form=hpcapt&filters=HpDate:\"20250911_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250911_LibertyManhattan"
             },
             "Ssd": "20250911",

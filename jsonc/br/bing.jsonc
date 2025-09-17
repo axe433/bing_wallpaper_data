@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250917",
+        "fullstartdate": "202509170300",
+        "enddate": "20250918",
+        "url": "/th?id=OHR.ArpoadorRJ_PT-BR5341950627_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ArpoadorRJ_PT-BR5341950627",
+        "copyright": "Praia do Arpoador, Rio de Janeiro (© marchello74/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Arpoador&form=hpcapt&mkt=pt-br",
+        "title": "Surf, história e pôr do sol",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250917_ArpoadorRJ%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2859010193c0acf8c2938c23dc093abd",
+        "hsh": "8e509960ca0012aad15938d4e29c517e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "No coração do Rio de Janeiro, entre Ipanema e Copacabana, existe um pedaço de magia chamado Arpoador. Mais do que uma praia, nossa imagem de hoje é um palco natural onde o pôr do sol é a estrela principal — e sim, ele é aplaudido! Todos os dias, cariocas e turistas se reúnem nas pedras para assistir ao espetáculo do sol mergulhando no oceano, uma raridade na costa brasileira voltada para o leste.",
+                "Image": {
+                    "Url": "/th?id=OHR.ArpoadorRJ_PT-BR5341950627_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ArpoadorRJ_PT-BR5341950627_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Surf, história e pôr do sol",
+                "Title": "Praia do Arpoador, Rio de Janeiro",
+                "Copyright": "© marchello74/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250917_ArpoadorRJ\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Arpoador&form=hpcapt&filters=HpDate:\"20250917_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250917_ArpoadorRJ"
+            },
+            "Ssd": "20250917",
+            "Name": "ArpoadorRJ",
+            "Market": "PT-BR",
+            "Hash": "5341950627",
+            "FullDateString": "17 set. 2025"
+        }
+    },
+    {
         "startdate": "20250916",
         "fullstartdate": "202509160300",
         "enddate": "20250917",
@@ -38,7 +87,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250916_OzoneEarth\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Dia+Internacional+para+a+Preserva%c3%a7%c3%a3o+da+Camada+de+Oz%c3%b4nio&form=hpcapt&filters=HpDate:\"20250916_0300\"",
+                "BackstageUrl": "/search?q=Dia+Internacional+para+a+Preserva%c3%a7%c3%a3o+da+Camada+de+Oz%c3%b4nio&form=hpcapt&filters=HpDate:\"20250916_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250916_OzoneEarth"
             },
             "Ssd": "20250916",
@@ -87,7 +136,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250915_Echasse\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=ave+pernilongo&form=hpcapt&filters=HpDate:\"20250915_0300\"",
+                "BackstageUrl": "/search?q=ave+pernilongo&form=hpcapt&filters=HpDate:\"20250915_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250915_Echasse"
             },
             "Ssd": "20250915",
@@ -136,7 +185,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250914_HohWaterfall\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Parque+Nacional+Olympic+nos+EUA&form=hpcapt&filters=HpDate:\"20250914_0300\"",
+                "BackstageUrl": "/search?q=Parque+Nacional+Olympic+nos+EUA&form=hpcapt&filters=HpDate:\"20250914_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250914_HohWaterfall"
             },
             "Ssd": "20250914",
@@ -185,7 +234,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250913_PointReyesSeashore\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Point+Reyes+National+Seashore+na+Calif%c3%b3rnia&form=hpcapt&filters=HpDate:\"20250913_0300\"",
+                "BackstageUrl": "/search?q=Point+Reyes+National+Seashore+na+Calif%c3%b3rnia&form=hpcapt&filters=HpDate:\"20250913_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250913_PointReyesSeashore"
             },
             "Ssd": "20250913",
@@ -234,7 +283,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250912_SpinnerDolphins\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Dia+Mundial+do+Golfinho&form=hpcapt&filters=HpDate:\"20250912_0300\"",
+                "BackstageUrl": "/search?q=Dia+Mundial+do+Golfinho&form=hpcapt&filters=HpDate:\"20250912_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250912_SpinnerDolphins"
             },
             "Ssd": "20250912",
@@ -283,7 +332,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250911_ExtremaduraJamon\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Parque+Nacional+de+Monfrag%c3%bce&form=hpcapt&filters=HpDate:\"20250911_0300\"",
+                "BackstageUrl": "/search?q=Parque+Nacional+de+Monfrag%c3%bce&form=hpcapt&filters=HpDate:\"20250911_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250911_ExtremaduraJamon"
             },
             "Ssd": "20250911",

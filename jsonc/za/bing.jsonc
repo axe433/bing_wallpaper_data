@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250917",
+        "fullstartdate": "202509170700",
+        "enddate": "20250918",
+        "url": "/th?id=OHR.YoungMoose_ROW0217187286_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.YoungMoose_ROW0217187286",
+        "copyright": "A young bull moose in Denali National Park, Alaska, United States (© Grant Ordelheide/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Alaska+moose&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250917_YoungMoose%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ec5e99db8c067807edd142745b37db71",
+        "hsh": "571cafddf2b920529ec6bc73daf7e5af",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "He may be young, but these antlers speak of future battles. In Denali National Park, in Alaska, United States, a young bull moose lifts his head above the shrubs. At this stage, his antlers are more crown than weapon—still covered in velvet. But even now, they hint at a life shaped by instinct, sparring and the quiet pull of dominance.",
+                "Image": {
+                    "Url": "/th?id=OHR.YoungMoose_ROW0217187286_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.YoungMoose_ROW0217187286_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "A young bull moose in Denali National Park, Alaska, United States",
+                "Copyright": "© Grant Ordelheide/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250917_YoungMoose\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Alaska+moose&form=hpcapt&filters=HpDate:\"20250917_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250917_YoungMoose"
+            },
+            "Ssd": "20250917",
+            "Name": "YoungMoose",
+            "Market": "ROW",
+            "Hash": "0217187286",
+            "FullDateString": "Sep 17, jjjj"
+        }
+    },
+    {
         "startdate": "20250916",
         "fullstartdate": "202509160700",
         "enddate": "20250917",
@@ -38,7 +87,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250916_OzoneEarth\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Ozone+layer&form=hpcapt&filters=HpDate:\"20250916_0700\"",
+                "BackstageUrl": "/search?q=Ozone+layer&form=hpcapt&filters=HpDate:\"20250916_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250916_OzoneEarth"
             },
             "Ssd": "20250916",
@@ -87,7 +136,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250915_Echasse\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Black-winged+stilt&form=hpcapt&filters=HpDate:\"20250915_0700\"",
+                "BackstageUrl": "/search?q=Black-winged+stilt&form=hpcapt&filters=HpDate:\"20250915_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250915_Echasse"
             },
             "Ssd": "20250915",
@@ -136,7 +185,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250914_HohWaterfall\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Olympic+National+Park+Washington&form=hpcapt&filters=HpDate:\"20250914_0700\"",
+                "BackstageUrl": "/search?q=Olympic+National+Park+Washington&form=hpcapt&filters=HpDate:\"20250914_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250914_HohWaterfall"
             },
             "Ssd": "20250914",
@@ -185,7 +234,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250913_PointReyesSeashore\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Point+Reyes+National+Seashore&form=hpcapt&filters=HpDate:\"20250913_0700\"",
+                "BackstageUrl": "/search?q=Point+Reyes+National+Seashore&form=hpcapt&filters=HpDate:\"20250913_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250913_PointReyesSeashore"
             },
             "Ssd": "20250913",
@@ -234,7 +283,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250912_SpinnerDolphins\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Spinner+dolphin&form=hpcapt&filters=HpDate:\"20250912_0700\"",
+                "BackstageUrl": "/search?q=Spinner+dolphin&form=hpcapt&filters=HpDate:\"20250912_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250912_SpinnerDolphins"
             },
             "Ssd": "20250912",
@@ -283,7 +332,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250911_ExtremaduraJamon\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Monfrague+National+Park&form=hpcapt&filters=HpDate:\"20250911_0700\"",
+                "BackstageUrl": "/search?q=Monfrague+National+Park&form=hpcapt&filters=HpDate:\"20250911_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250911_ExtremaduraJamon"
             },
             "Ssd": "20250911",

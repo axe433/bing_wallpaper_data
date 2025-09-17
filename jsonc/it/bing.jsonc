@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250917",
+        "fullstartdate": "202509172200",
+        "enddate": "20250918",
+        "url": "/th?id=OHR.GenovaPorto_IT-IT9490275029_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GenovaPorto_IT-IT9490275029",
+        "copyright": "Vista sul Porto di Genova, Genova, Liguria (© Luca Reina Mafaraci/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Citt%C3%A0+di+Genova&form=hpcapt",
+        "title": "Ve-la aspettavate?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250917_GenovaPorto%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6cc3b76d1ea13becd8c9a9cc84accb1a",
+        "hsh": "1960a8ecb0b8d64c40a08f471b303441",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dal Porto di Genova, dove il vento sa di sale e di storie, lo sguardo si apre su uno degli eventi più attesi del Mediterraneo: il Salone nautico internazionale. Da oggi, 18 settembre fino al 23 settembre 2025, la città celebra la sua vocazione marittima con la 65ª edizione di questa fiera iconica. Camminando lungo le banchine, tra yacht, barche a vela, gommoni e multiscafi, si respira innovazione e tradizione. Il Waterfront di Levante, rinnovato e scenografico, ospita oltre 200.000 m² di esposizione, dove si incontrano cantieri navali, designer, appassionati e professionisti da tutto il mondo.",
+                "Image": {
+                    "Url": "/th?id=OHR.GenovaPorto_IT-IT9490275029_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GenovaPorto_IT-IT9490275029_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ve-la aspettavate?",
+                "Title": "Vista sul Porto di Genova, Genova, Liguria",
+                "Copyright": "© Luca Reina Mafaraci/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.398308,8.95754/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=44.398308,8.95754;S9;Genova, Liguria&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&ss=ypid.YN1354x12396159607291026779&mb=44.404462~8.947421~44.392152~8.967686&description=Via%20San%20Nazaro%2011%20-%2016145%20Genova%20%28GE%29%C2%B7Centro%20espositivo%20e%20commerciale&dt=1755180000000&tt=I%20Saloni%20Nautici&tsts0=%2526ty%253D18%2526ss%253Dypid.YN1354x12396159607291026779%2526mb%253D44.404462~8.947421~44.392152~8.967686%2526description%253DVia%252520San%252520Nazaro%25252011%252520-%25252016145%252520Genova%252520%252528GE%252529%2525C2%2525B7Centro%252520espositivo%252520e%252520commerciale%2526dt%253D1755180000000&tstt0=I%20Saloni%20Nautici&cp=44.398307~8.944834&lvl=15.57&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250918_GenovaPorto\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Citt%c3%a0+di+Genova&form=hpcapt&filters=HpDate:\"20250917_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250918_GenovaPorto"
+            },
+            "Ssd": "20250918",
+            "Name": "GenovaPorto",
+            "Market": "IT-IT",
+            "Hash": "9490275029",
+            "FullDateString": "18 settembre 2025"
+        }
+    },
+    {
         "startdate": "20250916",
         "fullstartdate": "202509162200",
         "enddate": "20250917",
@@ -38,7 +87,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250917_YoungMoose\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Alce+Alaska&form=hpcapt&filters=HpDate:\"20250916_2200\"",
+                "BackstageUrl": "/search?q=Alce+Alaska&form=hpcapt&filters=HpDate:\"20250916_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250917_YoungMoose"
             },
             "Ssd": "20250917",
@@ -87,7 +136,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250916_OzoneEarth\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Giornata+internazionale+per+la+preservazione+dello+strato+di+ozono&form=hpcapt&filters=HpDate:\"20250915_2200\"",
+                "BackstageUrl": "/search?q=Giornata+internazionale+per+la+preservazione+dello+strato+di+ozono&form=hpcapt&filters=HpDate:\"20250915_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250916_OzoneEarth"
             },
             "Ssd": "20250916",
@@ -136,7 +185,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250915_Echasse\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Cavalieri+d%e2%80%99+Italia+uccello&form=hpcapt&filters=HpDate:\"20250914_2200\"",
+                "BackstageUrl": "/search?q=Cavalieri+d%e2%80%99+Italia+uccello&form=hpcapt&filters=HpDate:\"20250914_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250915_Echasse"
             },
             "Ssd": "20250915",
@@ -185,7 +234,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250914_HohWaterfall\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Parco+nazionale+Olimpico+area+protetta&form=hpcapt&filters=HpDate:\"20250913_2200\"",
+                "BackstageUrl": "/search?q=Parco+nazionale+Olimpico+area+protetta&form=hpcapt&filters=HpDate:\"20250913_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250914_HohWaterfall"
             },
             "Ssd": "20250914",
@@ -234,7 +283,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250913_PointReyesSeashore\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=california+stato&form=hpcapt&filters=HpDate:\"20250912_2200\"",
+                "BackstageUrl": "/search?q=california+stato&form=hpcapt&filters=HpDate:\"20250912_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250913_PointReyesSeashore"
             },
             "Ssd": "20250913",
@@ -283,7 +332,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250912_SpinnerDolphins\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Delfino&form=hpcapt&filters=HpDate:\"20250911_2200\"",
+                "BackstageUrl": "/search?q=Delfino&form=hpcapt&filters=HpDate:\"20250911_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250912_SpinnerDolphins"
             },
             "Ssd": "20250912",

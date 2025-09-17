@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250917",
+        "fullstartdate": "202509172200",
+        "enddate": "20250918",
+        "url": "/th?id=OHR.DunquinIreland_DE-DE4797885512_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DunquinIreland_DE-DE4797885512",
+        "copyright": "Serpentinenartiger Pfad, Dunquin Pier, County Kerry, Irland (© Hugh O'Connor/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%BAn+Chaoin&form=hpcapt&filters=HpDate%3a%2220250917_2200%22",
+        "title": "Der westlichste Punkt Irlands",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250917_DunquinIreland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e24f8f03dc7e6b2ed794a90875201d57",
+        "hsh": "ac0fe4c375890801c2aeaf985e4ee17d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Endlos lange Strände, schroffe Berglandschaften und steil abfallende Küsten – für eine solche Traumkulisse muss man nicht ans andere Ende der Welt reisen. Diese landschaftliche Vielfalt findet sich auch in Irland, besonders eindrucksvoll an der windumtosten Atlantikküste der Dingle-Halbinsel. Dort liegt das kleine Dorf Dunquin (irisch: Dún Chaoin), bekannt für seine dramatische Küste, seine lebendige Tradition und den berühmten Dunquin Pier – ein Ort, der wirkt, als sei er einem Film entsprungen. Der kleine Anleger ist nur zu Fuß erreichbar und berühmt für seinen serpentinenartigen Pfad, der sich spektakulär die Klippen hinabwindet. Heute zählt er zu den meistfotografierten Motiven Irlands. Von hier aus fahren Boote zu den abgelegenen Blasket Islands, die einst Heimat von Fischern und Schriftstellern waren. Dunquin ist die westlichste Siedlung Irlands und Teil der Gaeltacht, in der bis heute Irisch gesprochen wird.",
+                "Image": {
+                    "Url": "/th?id=OHR.DunquinIreland_DE-DE4797885512_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DunquinIreland_DE-DE4797885512_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Der westlichste Punkt Irlands",
+                "Title": "Serpentinenartiger Pfad, Dunquin Pier, County Kerry, Irland",
+                "Copyright": "© Hugh O'Connor/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.13349,-10.45452/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=52.13349,-10.45452;S9;Dunquin%2C%20County%20Kerry%2C%20Ireland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Dunquin%2C%20County%20Kerry%2C%20Ireland&satid=id.sid%3Aed169e2d-97d9-61eb-8ab1-128f48d9a46a&vdpid=5468623927200710657&mb=52.137762~-10.466259~52.129214~-10.442784&cardbg=%23F98745&dt=1753452000000&tt=Dunquin%2C%20County%20Kerry%2C%20Ireland&tsts0=%2526ty%253D30%2526q%253DDunquin%25252C%252520County%252520Kerry%25252C%252520Ireland%2526satid%253Did.sid%25253Aed169e2d-97d9-61eb-8ab1-128f48d9a46a%2526vdpid%253D5468623927200710657%2526mb%253D52.137762~-10.466259~52.129214~-10.442784%2526cardbg%253D%252523F98745%2526dt%253D1753452000000&tstt0=Dunquin%2C%20County%20Kerry%2C%20Ireland&cp=53.175959~-11.398033&lvl=6.9123583&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250918_DunquinIreland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=D%c3%ban+Chaoin&form=hpcapt&filters=HpDate:\"20250917_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250918_DunquinIreland"
+            },
+            "Ssd": "20250918",
+            "Name": "DunquinIreland",
+            "Market": "DE-DE",
+            "Hash": "4797885512",
+            "FullDateString": "18. Sept.. 2025"
+        }
+    },
+    {
         "startdate": "20250916",
         "fullstartdate": "202509162200",
         "enddate": "20250917",
@@ -38,7 +87,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250917_YoungMoose\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Elch&form=hpcapt&filters=HpDate:\"20250916_2200\"",
+                "BackstageUrl": "/search?q=Elch&form=hpcapt&filters=HpDate:\"20250916_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250917_YoungMoose"
             },
             "Ssd": "20250917",
@@ -87,7 +136,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250916_OzoneEarth\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Internationaler+Tag+zum+Schutz+der+Ozonschicht&form=hpcapt&filters=HpDate:\"20250915_2200\"",
+                "BackstageUrl": "/search?q=Internationaler+Tag+zum+Schutz+der+Ozonschicht&form=hpcapt&filters=HpDate:\"20250915_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250916_OzoneEarth"
             },
             "Ssd": "20250916",
@@ -136,7 +185,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250915_Echasse\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Stelzenl%c3%a4ufer&form=hpcapt&filters=HpDate:\"20250914_2200\"",
+                "BackstageUrl": "/search?q=Stelzenl%c3%a4ufer&form=hpcapt&filters=HpDate:\"20250914_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250915_Echasse"
             },
             "Ssd": "20250915",
@@ -185,7 +234,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250914_GeraOrangerie\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Tag+des+offenen+Denkmals&form=hpcapt&filters=HpDate:\"20250913_2200\"",
+                "BackstageUrl": "/search?q=Tag+des+offenen+Denkmals&form=hpcapt&filters=HpDate:\"20250913_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250914_GeraOrangerie"
             },
             "Ssd": "20250914",
@@ -234,7 +283,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250913_PointReyesSeashore\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Point+Reyes+National+Seashore+Kalifornien&form=hpcapt&filters=HpDate:\"20250912_2200\"",
+                "BackstageUrl": "/search?q=Point+Reyes+National+Seashore+Kalifornien&form=hpcapt&filters=HpDate:\"20250912_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250913_PointReyesSeashore"
             },
             "Ssd": "20250913",
@@ -283,7 +332,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250912_SpinnerDolphins\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=World+Dolphin+Day&form=hpcapt&filters=HpDate:\"20250911_2200\"",
+                "BackstageUrl": "/search?q=World+Dolphin+Day&form=hpcapt&filters=HpDate:\"20250911_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250912_SpinnerDolphins"
             },
             "Ssd": "20250912",

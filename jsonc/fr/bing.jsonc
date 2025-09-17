@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250917",
+        "fullstartdate": "202509172200",
+        "enddate": "20250918",
+        "url": "/th?id=OHR.DunquinIreland_FR-FR6571793587_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DunquinIreland_FR-FR6571793587",
+        "copyright": "Escalier sinueux de Dunquin Pier, comté de Kerry, Irlande (© Hugh O'Connor/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dunquin+Pier+Irlande&form=hpcapt&filters=HpDate%3a%2220250917_2200%22",
+        "title": "Un ruban de pierre vers la mer",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250917_DunquinIreland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e24f8f03dc7e6b2ed794a90875201d57",
+        "hsh": "853e6835653f9cfb66e977ea76824801",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sur la côte ouest de l’Irlande, dans le comté de Kerry, Dunquin Pier semble suspendu entre falaise et océan. Un chemin sinueux en lacets dévale la pente abrupte jusqu’à l’eau. C’est le seul accès au petit port d’embarquement pour les îles Blasket, joyaux sauvages du large.",
+                "Image": {
+                    "Url": "/th?id=OHR.DunquinIreland_FR-FR6571793587_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DunquinIreland_FR-FR6571793587_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un ruban de pierre vers la mer",
+                "Title": "Escalier sinueux de Dunquin Pier, comté de Kerry, Irlande",
+                "Copyright": "© Hugh O'Connor/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.13349,-10.45452/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=52.13349,-10.45452;S9;Dunquin Pier, Irlande&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Dunquin%2C%20County%20Kerry%2C%20Ireland&satid=id.sid%3Aed169e2d-97d9-61eb-8ab1-128f48d9a46a&vdpid=5468623927200710657&mb=52.137762~-10.466259~52.129214~-10.442784&cardbg=%23F98745&dt=1753452000000&tt=Dunquin%2C%20County%20Kerry%2C%20Ireland&tsts0=%2526ty%253D30%2526q%253DDunquin%25252C%252520County%252520Kerry%25252C%252520Ireland%2526satid%253Did.sid%25253Aed169e2d-97d9-61eb-8ab1-128f48d9a46a%2526vdpid%253D5468623927200710657%2526mb%253D52.137762~-10.466259~52.129214~-10.442784%2526cardbg%253D%252523F98745%2526dt%253D1753452000000&tstt0=Dunquin%2C%20County%20Kerry%2C%20Ireland&cp=53.175959~-11.398033&lvl=6.9123583&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250918_DunquinIreland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dunquin+Pier+Irlande&form=hpcapt&filters=HpDate:\"20250917_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250918_DunquinIreland"
+            },
+            "Ssd": "20250918",
+            "Name": "DunquinIreland",
+            "Market": "FR-FR",
+            "Hash": "6571793587",
+            "FullDateString": "18 sept. 2025"
+        }
+    },
+    {
         "startdate": "20250916",
         "fullstartdate": "202509162200",
         "enddate": "20250917",
@@ -38,7 +87,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250917_YoungMoose\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=%c3%a9lan+d%27Alaska&form=hpcapt&filters=HpDate:\"20250916_2200\"",
+                "BackstageUrl": "/search?q=%c3%a9lan+d%27Alaska&form=hpcapt&filters=HpDate:\"20250916_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250917_YoungMoose"
             },
             "Ssd": "20250917",
@@ -87,7 +136,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250916_OzoneEarth\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Protection+de+la+couche+d%27ozone&form=hpcapt&filters=HpDate:\"20250915_2200\"",
+                "BackstageUrl": "/search?q=Protection+de+la+couche+d%27ozone&form=hpcapt&filters=HpDate:\"20250915_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250916_OzoneEarth"
             },
             "Ssd": "20250916",
@@ -136,7 +185,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250915_Echasse\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=%c3%89chasse+blanche&form=hpcapt&filters=HpDate:\"20250914_2200\"",
+                "BackstageUrl": "/search?q=%c3%89chasse+blanche&form=hpcapt&filters=HpDate:\"20250914_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250915_Echasse"
             },
             "Ssd": "20250915",
@@ -185,7 +234,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250914_HohWaterfall\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Parc+national+Olympic%2c+%c3%89tat+de+Washington%2c+%c3%89tats-Unis&form=hpcapt&filters=HpDate:\"20250913_2200\"",
+                "BackstageUrl": "/search?q=Parc+national+Olympic%2c+%c3%89tat+de+Washington%2c+%c3%89tats-Unis&form=hpcapt&filters=HpDate:\"20250913_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250914_HohWaterfall"
             },
             "Ssd": "20250914",
@@ -234,7 +283,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250913_PointReyesSeashore\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Point+reyes+national+seashore+etats-unis&form=hpcapt&filters=HpDate:\"20250912_2200\"",
+                "BackstageUrl": "/search?q=Point+reyes+national+seashore+etats-unis&form=hpcapt&filters=HpDate:\"20250912_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250913_PointReyesSeashore"
             },
             "Ssd": "20250913",
@@ -283,7 +332,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250912_SpinnerDolphins\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=dauphin+%c3%a0+long+bec&form=hpcapt&filters=HpDate:\"20250911_2200\"",
+                "BackstageUrl": "/search?q=dauphin+%c3%a0+long+bec&form=hpcapt&filters=HpDate:\"20250911_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250912_SpinnerDolphins"
             },
             "Ssd": "20250912",

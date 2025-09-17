@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250917",
+        "fullstartdate": "202509172200",
+        "enddate": "20250918",
+        "url": "/th?id=OHR.DunquinIreland_ES-ES8742460168_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DunquinIreland_ES-ES8742460168",
+        "copyright": "Escaleras serpenteantes del muelle de Dunquin, condado de Kerry, Irlanda (© Hugh O'Connor/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dunquin&form=hpcapt&filters=HpDate%3a%2220250917_2200%22",
+        "title": "El borde occidental de Irlanda",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250917_DunquinIreland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e24f8f03dc7e6b2ed794a90875201d57",
+        "hsh": "ad3a67a0948425f4016563fd220bd825",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Esta impresionante vista, donde el cielo se une con las aguas abiertas del Atlántico, solo se puede alcanzar a pie. Escondido en la salvaje y hermosa península de Dingle, en Irlanda, el muelle de Dunquin es uno de los lugares más fotogénicos del condado de Kerry. Este pequeño muelle destaca por su camino sinuoso que zigzaguea dramáticamente por el acantilado como una cinta. Estas curvas empinadas no son solo por la emoción, sino que son la única forma de llegar hasta el muelle, desde donde parten los barcos hacia las remotas islas Blasket.",
+                "Image": {
+                    "Url": "/th?id=OHR.DunquinIreland_ES-ES8742460168_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DunquinIreland_ES-ES8742460168_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "El borde occidental de Irlanda",
+                "Title": "Escaleras serpenteantes del muelle de Dunquin, condado de Kerry, Irlanda",
+                "Copyright": "© Hugh O'Connor/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250918_DunquinIreland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dunquin&form=hpcapt&filters=HpDate:\"20250917_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250918_DunquinIreland"
+            },
+            "Ssd": "20250918",
+            "Name": "DunquinIreland",
+            "Market": "ES-ES",
+            "Hash": "8742460168",
+            "FullDateString": "18 de sept. de 2025"
+        }
+    },
+    {
         "startdate": "20250916",
         "fullstartdate": "202509162200",
         "enddate": "20250917",
@@ -38,7 +87,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250917_YoungMoose\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=alce&form=hpcapt&filters=HpDate:\"20250916_2200\"",
+                "BackstageUrl": "/search?q=alce&form=hpcapt&filters=HpDate:\"20250916_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250917_YoungMoose"
             },
             "Ssd": "20250917",
@@ -87,7 +136,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250916_OzoneEarth\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Capa+de+Ozono&form=hpcapt&filters=HpDate:\"20250915_2200\"",
+                "BackstageUrl": "/search?q=Capa+de+Ozono&form=hpcapt&filters=HpDate:\"20250915_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250916_OzoneEarth"
             },
             "Ssd": "20250916",
@@ -136,7 +185,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250915_Echasse\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Cig%c3%bce%c3%b1uelas+de+alas+negras&form=hpcapt&filters=HpDate:\"20250914_2200\"",
+                "BackstageUrl": "/search?q=Cig%c3%bce%c3%b1uelas+de+alas+negras&form=hpcapt&filters=HpDate:\"20250914_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250915_Echasse"
             },
             "Ssd": "20250915",
@@ -185,7 +234,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250914_HohWaterfall\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Parque+Nacional+Olympic&form=hpcapt&filters=HpDate:\"20250913_2200\"",
+                "BackstageUrl": "/search?q=Parque+Nacional+Olympic&form=hpcapt&filters=HpDate:\"20250913_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250914_HohWaterfall"
             },
             "Ssd": "20250914",
@@ -234,7 +283,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250913_PointReyesSeashore\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Costa+Nacional+de+Point+Reyes&form=hpcapt&filters=HpDate:\"20250912_2200\"",
+                "BackstageUrl": "/search?q=Costa+Nacional+de+Point+Reyes&form=hpcapt&filters=HpDate:\"20250912_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250913_PointReyesSeashore"
             },
             "Ssd": "20250913",
@@ -283,7 +332,7 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250912_SpinnerDolphins\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=delf%c3%adn+girador&form=hpcapt&filters=HpDate:\"20250911_2200\"",
+                "BackstageUrl": "/search?q=delf%c3%adn+girador&form=hpcapt&filters=HpDate:\"20250911_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20250912_SpinnerDolphins"
             },
             "Ssd": "20250912",
