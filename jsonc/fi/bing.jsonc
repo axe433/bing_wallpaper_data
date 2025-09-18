@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250918",
+        "fullstartdate": "202509180700",
+        "enddate": "20250919",
+        "url": "/th?id=OHR.DunquinIreland_ROW8248282029_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DunquinIreland_ROW8248282029",
+        "copyright": "Serpentine stairs of Dunquin Pier, County Kerry, Ireland (© Hugh O'Connor/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dunquin+Pier&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250918_DunquinIreland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e24f8f03dc7e6b2ed794a90875201d57",
+        "hsh": "e91d3cb0006e7a5d9bf0b3b873499b81",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "This stunning view—where the sky meets the open waters of the Atlantic—is accessible only by foot. Tucked away on Ireland's wild and beautiful Dingle Peninsula, Dunquin Pier is one of the most photogenic spots in County Kerry. The small pier is famous for its winding, serpentine path that zigzags dramatically down the cliffside like a ribbon. These steep curves aren't just for the thrill—they're the only way to reach the pier below, where boats depart for the remote Blasket Islands.",
+                "Image": {
+                    "Url": "/th?id=OHR.DunquinIreland_ROW8248282029_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DunquinIreland_ROW8248282029_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Serpentine stairs of Dunquin Pier, County Kerry, Ireland",
+                "Copyright": "© Hugh O'Connor/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250918_DunquinIreland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dunquin+Pier&form=hpcapt&filters=HpDate:\"20250918_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250918_DunquinIreland"
+            },
+            "Ssd": "20250918",
+            "Name": "DunquinIreland",
+            "Market": "ROW",
+            "Hash": "8248282029",
+            "FullDateString": "18. syysk. 2025"
+        }
+    },
+    {
         "startdate": "20250917",
         "fullstartdate": "202509170700",
         "enddate": "20250918",

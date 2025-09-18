@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250918",
+        "fullstartdate": "202509181600",
+        "enddate": "20250919",
+        "url": "/th?id=OHR.ThousandIslands_ZH-CN3197750437_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ThousandIslands_ZH-CN3197750437",
+        "copyright": "千岛群岛地区，圣劳伦斯河，美加边境 (© benedek/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%8D%83%E5%B2%9B%E7%BE%A4%E5%B2%9B+%E5%8C%97%E7%BE%8E%E6%B4%B2&form=hpcapt&mkt=zh-cn",
+        "title": "千般理由，邀您探索",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250918_ThousandIslands%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ef5dd2162eb8cb97011efd93a58121ea",
+        "hsh": "d89d3125a623a1ccf7f84bfce50f1a82",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "听到“千岛”这个词，你可能会想到一罐沙拉酱，但在这浓郁的酱汁背后，是北美最迷人的地区之一。千岛群岛是圣劳伦斯河上的一个群岛，横跨美国纽约州和加拿大安大略省。它由1800多个岛屿组成。有些岛屿上矗立着童话般的城堡，有些岛屿则狭小得几乎容不下一张吊床。此外，还有一座名为“刚好够住的岛”（Just Room Enough Island），岛上只有一栋房子和一棵孤树，名副其实。",
+                "Image": {
+                    "Url": "/th?id=OHR.ThousandIslands_ZH-CN3197750437_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ThousandIslands_ZH-CN3197750437_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "千般理由，邀您探索",
+                "Title": "千岛群岛地区，圣劳伦斯河，美加边境",
+                "Copyright": "© benedek/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "该地区于2002年被联合国教科文组织指定为世界生物圈保护区。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250919_ThousandIslands\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%8d%83%e5%b2%9b%e7%be%a4%e5%b2%9b+%e5%8c%97%e7%be%8e%e6%b4%b2&form=hpcapt&filters=HpDate:\"20250918_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250919_ThousandIslands"
+            },
+            "Ssd": "20250919",
+            "Name": "ThousandIslands",
+            "Market": "ZH-CN",
+            "Hash": "3197750437",
+            "FullDateString": "2025 9月 19"
+        }
+    },
+    {
         "startdate": "20250917",
         "fullstartdate": "202509171600",
         "enddate": "20250918",

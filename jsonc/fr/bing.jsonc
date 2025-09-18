@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250918",
+        "fullstartdate": "202509182200",
+        "enddate": "20250919",
+        "url": "/th?id=OHR.BolDor_FR-FR4058003205_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BolDor_FR-FR4058003205",
+        "copyright": "Vue aérienne du circuit Paul Ricard, Le Castellet (© Sami Sarkis/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Circuit+Paul-Ricard&form=hpcapt&filters=HpDate%3a%2220250918_2200%22",
+        "title": "Place à 24 heures de légende",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250918_BolDor%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b955028cfe573db9c4e65b765e8fffed",
+        "hsh": "9a3dd9aeaa46587cb78ff9d6ab22369d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sous le soleil de Provence, le rugissement des moteurs résonne dans le massif du Castellet. Le mythique Circuit Paul-Ricard s’éveille pour accueillir le Bol d’Or 2025, ultime épreuve de la saison du Championnat du monde d’endurance moto.",
+                "Image": {
+                    "Url": "/th?id=OHR.BolDor_FR-FR4058003205_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BolDor_FR-FR4058003205_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Place à 24 heures de légende",
+                "Title": "Vue aérienne du circuit Paul Ricard, Le Castellet",
+                "Copyright": "© Sami Sarkis/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.251518,5.793034/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=43.251518,5.793034;S9;Circuit Paul-Ricard, Le Castellet&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Circuit%20Paul-Ricard&ss=ypid.YN2000x17941261766179907052&mb=43.25801~5.782993~43.245023~5.803077&description=2760%20RTE%20des%20Hauts%20du%20Camp%2C%2083330%20Le%20Castellet&cardbg=%23219AB6&dt=1755770400000&tt=Circuit%20Paul%20Ricard&tsts0=%2526ty%253D18%2526q%253DCircuit%252520Paul-Ricard%2526ss%253Dypid.YN2000x17941261766179907052%2526mb%253D43.25801~5.782993~43.245023~5.803077%2526description%253D2760%252520RTE%252520des%252520Hauts%252520du%252520Camp%25252C%25252083330%252520Le%252520Castellet%2526cardbg%253D%252523219AB6%2526dt%253D1755770400000&tstt0=Circuit%20Paul%20Ricard&cp=43.251517~5.782564&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250919_BolDor\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Circuit+Paul-Ricard&form=hpcapt&filters=HpDate:\"20250918_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250919_BolDor"
+            },
+            "Ssd": "20250919",
+            "Name": "BolDor",
+            "Market": "FR-FR",
+            "Hash": "4058003205",
+            "FullDateString": "19 sept. 2025"
+        }
+    },
+    {
         "startdate": "20250917",
         "fullstartdate": "202509172200",
         "enddate": "20250918",

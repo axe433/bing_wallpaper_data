@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250918",
+        "fullstartdate": "202509180300",
+        "enddate": "20250919",
+        "url": "/th?id=OHR.DunquinIreland_PT-BR6766126699_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DunquinIreland_PT-BR6766126699",
+        "copyright": "Escadaria serpenteante do Cais de Dunquin, Condado de Kerry, Irlanda (© Hugh O'Connor/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dunquin%2c+Condado+de+Kerry%2c+Irlanda&form=hpcapt&mkt=pt-br",
+        "title": "Escadas para o horizonte",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250918_DunquinIreland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e24f8f03dc7e6b2ed794a90875201d57",
+        "hsh": "73e11afc8031115d01f8f72d47b001d2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Esta vista deslumbrante que vemos na imagem de hoje — onde o céu encontra as águas abertas do Atlântico — só pode ser acessada a pé. Escondido na selvagem e bela Península de Dingle, o Cais de Dunquin é um dos locais mais fotogênicos do Condado de Kerry, na Irlanda. O lugar é famoso por seu caminho sinuoso que desce dramaticamente pela encosta. Essas curvas íngremes não são apenas emocionantes — são o único caminho para chegar ao cais abaixo, de onde partem barcos rumo às remotas Ilhas Blasket. Com uma população de pouco mais de 100 pessoas, a vila de Dunquin, situada nas proximidades, é o assentamento mais ocidental da Irlanda.",
+                "Image": {
+                    "Url": "/th?id=OHR.DunquinIreland_PT-BR6766126699_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DunquinIreland_PT-BR6766126699_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Escadas para o horizonte",
+                "Title": "Escadaria serpenteante do Cais de Dunquin, Condado de Kerry, Irlanda",
+                "Copyright": "© Hugh O'Connor/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250918_DunquinIreland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dunquin%2c+Condado+de+Kerry%2c+Irlanda&form=hpcapt&filters=HpDate:\"20250918_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250918_DunquinIreland"
+            },
+            "Ssd": "20250918",
+            "Name": "DunquinIreland",
+            "Market": "PT-BR",
+            "Hash": "6766126699",
+            "FullDateString": "18 set. 2025"
+        }
+    },
+    {
         "startdate": "20250917",
         "fullstartdate": "202509170300",
         "enddate": "20250918",
