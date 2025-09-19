@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250919",
+        "fullstartdate": "202509192300",
+        "enddate": "20250920",
+        "url": "/th?id=OHR.OktoberfestSwing_EN-GB1846284671_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OktoberfestSwing_EN-GB1846284671",
+        "copyright": "Swing carousel at Oktoberfest, Munich, Bavaria, Germany (© LOOK-foto/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220250919_2300%22",
+        "title": "A tale of brews and views",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250919_OktoberfestSwing%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a8c4375349af2181e8298d0bf42ea0d2",
+        "hsh": "3cf1cd18cbaa88f3892bcdfcdee97b2f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Every autumn, Theresienwiese, a square in Munich, Germany, transforms into one of the world's largest festivals—Oktoberfest. First held in 1810 to celebrate a royal wedding, it has grown into a 16- to 18-day tradition attracting more than six million people from around the globe. The scale is staggering: the festival grounds span approximately 42 hectares and host 14 main tents, each seating thousands. Each year, visitors consume around seven million litres of beer, along with mountains of pretzels, sausages and gingerbread hearts. All beer served at Oktoberfest comes from Munich breweries and meets the strict standards of the Reinheitsgebot, the German Beer Purity Law.",
+                "Image": {
+                    "Url": "/th?id=OHR.OktoberfestSwing_EN-GB1846284671_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OktoberfestSwing_EN-GB1846284671_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A tale of brews and views",
+                "Title": "Swing carousel at Oktoberfest, Munich, Bavaria, Germany",
+                "Copyright": "© LOOK-foto/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.1375,11.575/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=48.1375,11.575;S9;Munich, Bavaria, Germany&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=munich&satid=id.sid%3A7f38f401-452d-d25b-059c-487e14b70a85&vdpid=7021484408976703489&mb=48.496331~10.735726~47.783054~12.415421&cardbg=%23F98745&tt=Munich%2C%20Bavaria%2C%20Germany&tsts0=%2526ty%253D30%2526q%253Dmunich%2526satid%253Did.sid%25253A7f38f401-452d-d25b-059c-487e14b70a85%2526vdpid%253D7021484408976703489%2526mb%253D48.496331~10.735726~47.783054~12.415421%2526cardbg%253D%252523F98745&tstt0=Munich%2C%20Bavaria%2C%20Germany&cp=48.143448~-8.653598&lvl=4.11&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250920_OktoberfestSwing\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Oktoberfest&form=hpcapt&filters=HpDate:\"20250919_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250920_OktoberfestSwing"
+            },
+            "Ssd": "20250920",
+            "Name": "OktoberfestSwing",
+            "Market": "EN-GB",
+            "Hash": "1846284671",
+            "FullDateString": "20 Sep 2025"
+        }
+    },
+    {
         "startdate": "20250918",
         "fullstartdate": "202509182300",
         "enddate": "20250919",

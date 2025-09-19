@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250919",
+        "fullstartdate": "202509192200",
+        "enddate": "20250920",
+        "url": "/th?id=OHR.OktoberfestSwing_FR-FR4212024061_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OktoberfestSwing_FR-FR4212024061",
+        "copyright": "Carrousel à balançoires à l’Oktoberfest de Munich, Bavière, Allemagne (© LOOK-foto/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Oktoberfest+Allemagne&form=hpcapt&filters=HpDate%3a%2220250919_2200%22",
+        "title": "À vos pintes, prêts, trinquez !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250919_OktoberfestSwing%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a8c4375349af2181e8298d0bf42ea0d2",
+        "hsh": "b5167146bdaf2a05d669285e25aeab02",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Chaque automne, la vaste esplanade de Theresienwiese, au cœur de la ville allemande de Munich, s’embrase de lumières et de musiques. L’Oktoberfest s’ouvre aujourd’hui, perpétuant une tradition née en 1810 lors d’un mariage princier. Plus de six millions de visiteurs se pressent dans les grandes tentes de bière, où les brasseries munichoises servent leur or liquide selon les règles immuables de la pureté allemande. Entre deux gorgées, on partage des montagnes de bretzels et de saucisses, avant de se laisser emporter par le vertige d’un manège.",
+                "Image": {
+                    "Url": "/th?id=OHR.OktoberfestSwing_FR-FR4212024061_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OktoberfestSwing_FR-FR4212024061_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "À vos pintes, prêts, trinquez !",
+                "Title": "Carrousel à balançoires à l’Oktoberfest de Munich, Bavière, Allemagne",
+                "Copyright": "© LOOK-foto/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.1375,11.575/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=48.1375,11.575;S9;Munich, Bavière, Allemagne&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=munich&satid=id.sid%3A7f38f401-452d-d25b-059c-487e14b70a85&vdpid=7021484408976703489&mb=48.496331~10.735726~47.783054~12.415421&cardbg=%23F98745&tt=Munich%2C%20Bavaria%2C%20Germany&tsts0=%2526ty%253D30%2526q%253Dmunich%2526satid%253Did.sid%25253A7f38f401-452d-d25b-059c-487e14b70a85%2526vdpid%253D7021484408976703489%2526mb%253D48.496331~10.735726~47.783054~12.415421%2526cardbg%253D%252523F98745&tstt0=Munich%2C%20Bavaria%2C%20Germany&cp=48.143448~-8.653598&lvl=4.11&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250920_OktoberfestSwing\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Oktoberfest+Allemagne&form=hpcapt&filters=HpDate:\"20250919_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250920_OktoberfestSwing"
+            },
+            "Ssd": "20250920",
+            "Name": "OktoberfestSwing",
+            "Market": "FR-FR",
+            "Hash": "4212024061",
+            "FullDateString": "20 sept. 2025"
+        }
+    },
+    {
         "startdate": "20250918",
         "fullstartdate": "202509182200",
         "enddate": "20250919",
@@ -18,7 +67,7 @@
         "hs": [],
         "MediaContent": {
             "ImageContent": {
-                "Description": "Sous le soleil de Provence, le rugissement des moteurs résonne dans le massif du Castellet. Le mythique Circuit Paul-Ricard s’éveille pour accueillir le Bol d’Or 2025, ultime épreuve de la saison du Championnat du monde d’endurance moto.",
+                "Description": "Sous le soleil de Provence, le rugissement des moteurs résonne dans le massif du Castellet. Le mythique circuit Paul-Ricard s’éveille pour accueillir le Bol d’Or 2025, ultime épreuve de la saison du Championnat du monde d’endurance moto.",
                 "Image": {
                     "Url": "/th?id=OHR.BolDor_FR-FR4058003205_1920x1080.webp",
                     "Wallpaper": "/th?id=OHR.BolDor_FR-FR4058003205_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",

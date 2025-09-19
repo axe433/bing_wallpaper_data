@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250919",
+        "fullstartdate": "202509192200",
+        "enddate": "20250920",
+        "url": "/th?id=OHR.OktoberfestSwing_IT-IT3600717607_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OktoberfestSwing_IT-IT3600717607",
+        "copyright": "Giostra all'Oktoberfest, Monaco di Baviera, Germania (© LOOK-foto/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt",
+        "title": "Salute",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250919_OktoberfestSwing%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a8c4375349af2181e8298d0bf42ea0d2",
+        "hsh": "1868560f97a991d8510c6074326c6561",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ogni autunno, la Theresienwiese, nel cuore della città tedesca di Monaco di Baviera, si trasforma nell’Oktoberfest, uno dei festival più iconici al mondo. Nato nel 1810 per celebrare il matrimonio tra il principe Ludwig di Baviera e la principessa Therese di Sassonia-Hildburghausen, fu ideato da Andrea Michele Dall’Armi, cittadino italiano naturalizzato bavarese. Da allora, la festa è diventata un appuntamento annuale che dura circa due settimane e richiama milioni di visitatori da ogni angolo del pianeta.",
+                "Image": {
+                    "Url": "/th?id=OHR.OktoberfestSwing_IT-IT3600717607_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OktoberfestSwing_IT-IT3600717607_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Salute",
+                "Title": "Giostra all'Oktoberfest, Monaco di Baviera, Germania",
+                "Copyright": "© LOOK-foto/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.1375,11.575/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=48.1375,11.575;S9;Monaco di Baviera, Germania&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=munich&satid=id.sid%3A7f38f401-452d-d25b-059c-487e14b70a85&vdpid=7021484408976703489&mb=48.496331~10.735726~47.783054~12.415421&cardbg=%23F98745&tt=Munich%2C%20Bavaria%2C%20Germany&tsts0=%2526ty%253D30%2526q%253Dmunich%2526satid%253Did.sid%25253A7f38f401-452d-d25b-059c-487e14b70a85%2526vdpid%253D7021484408976703489%2526mb%253D48.496331~10.735726~47.783054~12.415421%2526cardbg%253D%252523F98745&tstt0=Munich%2C%20Bavaria%2C%20Germany&cp=48.143448~-8.653598&lvl=4.11&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250920_OktoberfestSwing\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Oktoberfest&form=hpcapt&filters=HpDate:\"20250919_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250920_OktoberfestSwing"
+            },
+            "Ssd": "20250920",
+            "Name": "OktoberfestSwing",
+            "Market": "IT-IT",
+            "Hash": "3600717607",
+            "FullDateString": "20 settembre 2025"
+        }
+    },
+    {
         "startdate": "20250918",
         "fullstartdate": "202509182200",
         "enddate": "20250919",

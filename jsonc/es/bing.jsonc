@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250919",
+        "fullstartdate": "202509192200",
+        "enddate": "20250920",
+        "url": "/th?id=OHR.PaellaDay_ES-ES0490054669_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PaellaDay_ES-ES0490054669",
+        "copyright": "Campo de arroz en el parque natural de la Albufera, Valencia, España (© Pablo Escuder Cano/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Albufera+Valencia&form=hpcapt&filters=HpDate%3a%2220250919_2200%22",
+        "title": "¡No es pa’ ella, es pa’ mí!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250919_PaellaDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bfa8131601acc5bb4b2fdefabe158cc8",
+        "hsh": "239c6e40582dd171037ebde68c17b5ee",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Cada 20 de septiembre se celebra el Día Mundial de la Paella, un homenaje internacional al plato que nació en los arrozales de la Albufera de Valencia y que hoy es símbolo de cultura y convivencia. La paella fue reconocida en 2021 como Bien de Interés Cultural, y su receta, con variantes como la marinera, la mixta o la de montaña, refleja la riqueza de la gastronomía española.",
+                "Image": {
+                    "Url": "/th?id=OHR.PaellaDay_ES-ES0490054669_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PaellaDay_ES-ES0490054669_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "¡No es pa' ella, es pa' mí!",
+                "Title": "Campo de arroz en el parque natural de la Albufera, Valencia, España",
+                "Copyright": "© Pablo Escuder Cano/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250920_PaellaDay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Albufera+Valencia&form=hpcapt&filters=HpDate:\"20250919_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250920_PaellaDay"
+            },
+            "Ssd": "20250920",
+            "Name": "PaellaDay",
+            "Market": "ES-ES",
+            "Hash": "0490054669",
+            "FullDateString": "20 de sept. de 2025"
+        }
+    },
+    {
         "startdate": "20250918",
         "fullstartdate": "202509182200",
         "enddate": "20250919",

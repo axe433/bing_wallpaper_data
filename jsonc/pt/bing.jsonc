@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250919",
+        "fullstartdate": "202509190700",
+        "enddate": "20250920",
+        "url": "/th?id=OHR.ThousandIslands_ROW3854293844_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ThousandIslands_ROW3854293844",
+        "copyright": "Thousand Islands region, St. Lawrence River, USA-Canada border (© benedek/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Thousand+Islands+region&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250919_ThousandIslands%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ef5dd2162eb8cb97011efd93a58121ea",
+        "hsh": "4850d26011ec0fc927c62e040a1365ed",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "When you hear 'Thousand Islands', you might think of a jar of salad dressing, but behind that creamy condiment is one of North America's most enchanting regions. The Thousand Islands is an archipelago in the St. Lawrence River, spanning the state of New York in the United States and the province of Ontario in Canada. It is made up of more than 1,800 islands. Some of these islands have fairytale castles; others are barely big enough for a hammock. There's also Just Room Enough Island, which lives up to its name with a single house and a lone tree.",
+                "Image": {
+                    "Url": "/th?id=OHR.ThousandIslands_ROW3854293844_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ThousandIslands_ROW3854293844_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Thousand Islands region, St. Lawrence River, USA-Canada border",
+                "Copyright": "© benedek/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250919_ThousandIslands\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Thousand+Islands+region&form=hpcapt&filters=HpDate:\"20250919_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250919_ThousandIslands"
+            },
+            "Ssd": "20250919",
+            "Name": "ThousandIslands",
+            "Market": "ROW",
+            "Hash": "3854293844",
+            "FullDateString": "19 set. 2025"
+        }
+    },
+    {
         "startdate": "20250918",
         "fullstartdate": "202509180700",
         "enddate": "20250919",

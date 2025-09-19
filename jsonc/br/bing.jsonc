@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250919",
+        "fullstartdate": "202509190300",
+        "enddate": "20250920",
+        "url": "/th?id=OHR.ThousandIslands_PT-BR6464136258_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ThousandIslands_PT-BR6464136258",
+        "copyright": "Arquipélago das Mil Ilhas, Rio São Lourenço, fronteira EUA-Canadá (© benedek/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mil+Ilhas+no+Canad%C3%A1&form=hpcapt&mkt=pt-br",
+        "title": "Mil razões para visitar",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250919_ThousandIslands%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ef5dd2162eb8cb97011efd93a58121ea",
+        "hsh": "4b2c71d8c4e1021d5d0a4d9fc1e2cccd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Visto na imagem do dia, o arquipélago das Mil Ilhas se espalha pelo rio São Lourenço, entre os Estados Unidos e o Canadá, formando um universo fragmentado em mais de 1.800 ilhotes. Alguns parecem saídas de livros de história, com castelos e mansões erguidas entre os séculos XIX e XX; outros são tão pequenos que brincam de se esconder entre as ondas, como a famosa Hub Island, a menor ilha habitada do mundo, com apenas uma casa e uma árvore.",
+                "Image": {
+                    "Url": "/th?id=OHR.ThousandIslands_PT-BR6464136258_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ThousandIslands_PT-BR6464136258_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Mil razões para visitar",
+                "Title": "Arquipélago das Mil Ilhas, Rio São Lourenço, fronteira EUA-Canadá",
+                "Copyright": "© benedek/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250919_ThousandIslands\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Mil+Ilhas+no+Canad%c3%a1&form=hpcapt&filters=HpDate:\"20250919_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250919_ThousandIslands"
+            },
+            "Ssd": "20250919",
+            "Name": "ThousandIslands",
+            "Market": "PT-BR",
+            "Hash": "6464136258",
+            "FullDateString": "19 set. 2025"
+        }
+    },
+    {
         "startdate": "20250918",
         "fullstartdate": "202509180300",
         "enddate": "20250919",
