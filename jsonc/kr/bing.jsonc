@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250920",
+        "fullstartdate": "202509200700",
+        "enddate": "20250921",
+        "url": "/th?id=OHR.OktoberfestSwing_ROW4294317377_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OktoberfestSwing_ROW4294317377",
+        "copyright": "Swing carousel at Oktoberfest, Munich, Bavaria, Germany (© LOOK-foto/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250920_OktoberfestSwing%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a8c4375349af2181e8298d0bf42ea0d2",
+        "hsh": "cb02b31dd6a9d8554bc573a6a43397c5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Every year, between late September and early October, Theresienwiese, a square in Munich, Germany, transforms into one of the world's largest festivals—Oktoberfest. First held in 1810 to celebrate a royal wedding, it has grown into a 16- to 18-day tradition attracting more than six million people from around the globe. The scale is staggering: the festival grounds span about 42 hectares and host 14 main tents, each seating thousands. Each year, visitors consume around seven million litres of beer, along with mountains of pretzels, sausages and gingerbread hearts. All beer served at Oktoberfest comes from Munich breweries and meets the strict standards of the Reinheitsgebot, the German Beer Purity Law.",
+                "Image": {
+                    "Url": "/th?id=OHR.OktoberfestSwing_ROW4294317377_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OktoberfestSwing_ROW4294317377_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Swing carousel at Oktoberfest, Munich, Bavaria, Germany",
+                "Copyright": "© LOOK-foto/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250920_OktoberfestSwing\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Oktoberfest&form=hpcapt&filters=HpDate:\"20250920_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250920_OktoberfestSwing"
+            },
+            "Ssd": "20250920",
+            "Name": "OktoberfestSwing",
+            "Market": "ROW",
+            "Hash": "4294317377",
+            "FullDateString": "2025 9월 20"
+        }
+    },
+    {
         "startdate": "20250919",
         "fullstartdate": "202509190700",
         "enddate": "20250920",

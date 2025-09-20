@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250920",
+        "fullstartdate": "202509202200",
+        "enddate": "20250921",
+        "url": "/th?id=OHR.IceOtters_ES-ES0527606822_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IceOtters_ES-ES0527606822",
+        "copyright": "Nutrias marinas, Prince William Sound, Alaska, EE. UU. (© Gerald Corsi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Nutrias+marinas&form=hpcapt&filters=HpDate%3a%2220250920_2200%22",
+        "title": "¡Ya tengo mi piedra favorita!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250920_IceOtters%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "277d7b4ae924cb9fe888718f1a056c4c",
+        "hsh": "d3914ff4b22a4ac08f49bd3a8cb2b2fe",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "¿Sabías que las nutrias marinas no solo flotan plácidamente sobre el agua? Detrás de esos ojos brillantes se esconde un papel esencial para la naturaleza. Cada año, desde 2003, la Semana de Concienciación sobre la Nutria Marina, impulsada por la organización Defenders of Wildlife, recuerda la importancia de este animal en los ecosistemas costeros.",
+                "Image": {
+                    "Url": "/th?id=OHR.IceOtters_ES-ES0527606822_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.IceOtters_ES-ES0527606822_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "¡Ya tengo mi piedra favorita!",
+                "Title": "Nutrias marinas, Prince William Sound, Alaska, EE. UU.",
+                "Copyright": "© Gerald Corsi/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250921_IceOtters\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Nutrias+marinas&form=hpcapt&filters=HpDate:\"20250920_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250921_IceOtters"
+            },
+            "Ssd": "20250921",
+            "Name": "IceOtters",
+            "Market": "ES-ES",
+            "Hash": "0527606822",
+            "FullDateString": "21 de sept. de 2025"
+        }
+    },
+    {
         "startdate": "20250919",
         "fullstartdate": "202509192200",
         "enddate": "20250920",
