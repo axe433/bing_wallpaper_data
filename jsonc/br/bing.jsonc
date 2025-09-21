@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250921",
+        "fullstartdate": "202509210300",
+        "enddate": "20250922",
+        "url": "/th?id=OHR.IceOtters_PT-BR7598435461_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IceOtters_PT-BR7598435461",
+        "copyright": "Lontras-marinhas em Prince William Sound, Alasca, EUA (© Gerald Corsi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=lontra+marinha&form=hpcapt&mkt=pt-br",
+        "title": "As jardineiras do gelo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250921_IceOtters%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "277d7b4ae924cb9fe888718f1a056c4c",
+        "hsh": "2829d31b77d4e24a71eaf7f86b62117b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Engana-se quem pensa que lontras-marinhas se resumem a bigodes simpáticos e sonecas flutuantes. Por trás dos olhos curiosos, escondem-se grandes responsabilidades e desafios ainda maiores. Entre 1741 e 1911, a caça por suas peles quase as levou à extinção. A conservação lhes deu uma segunda chance, mas derramamentos de óleo, redes de pesca, doenças e oceanos cada vez mais quentes continuam a ameaçar seu futuro.",
+                "Image": {
+                    "Url": "/th?id=OHR.IceOtters_PT-BR7598435461_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.IceOtters_PT-BR7598435461_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "As jardineiras do gelo",
+                "Title": "Lontras-marinhas em Prince William Sound, Alasca, EUA",
+                "Copyright": "© Gerald Corsi/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250921_IceOtters\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=lontra+marinha&form=hpcapt&filters=HpDate:\"20250921_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250921_IceOtters"
+            },
+            "Ssd": "20250921",
+            "Name": "IceOtters",
+            "Market": "PT-BR",
+            "Hash": "7598435461",
+            "FullDateString": "21 set. 2025"
+        }
+    },
+    {
         "startdate": "20250920",
         "fullstartdate": "202509200300",
         "enddate": "20250921",

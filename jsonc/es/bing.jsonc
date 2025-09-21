@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250921",
+        "fullstartdate": "202509212200",
+        "enddate": "20250922",
+        "url": "/th?id=OHR.AspenEquinox_ES-ES0554126679_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AspenEquinox_ES-ES0554126679",
+        "copyright": "Álamos durante el otoño, Bosque Nacional Fishlake, Utah, EE. UU. (© Danita Delimont/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=equinoccio+de+oto%C3%B1o&form=hpcapt&filters=HpDate%3a%2220250921_2200%22",
+        "title": "El color del otoño",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250921_AspenEquinox%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8a2e08d47f0c3f0394c608a2dc7d32e7",
+        "hsh": "26ef92f741694c8a65426aaa91b19945",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El otoño no solo llega marcado en el calendario. Cada septiembre, el equinoccio anuncia el cambio de estación en el hemisferio norte: un día en el que la luz y la oscuridad duran casi lo mismo. Para las culturas antiguas, este momento era sagrado, y construcciones como Stonehenge, en Inglaterra, o Chichén Itzá, en México, se alinearon con el sol para celebrarlo.",
+                "Image": {
+                    "Url": "/th?id=OHR.AspenEquinox_ES-ES0554126679_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AspenEquinox_ES-ES0554126679_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "El color del otoño",
+                "Title": "Álamos durante el otoño, Bosque Nacional Fishlake, Utah, EE. UU.",
+                "Copyright": "© Danita Delimont/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250922_AspenEquinox\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=equinoccio+de+oto%c3%b1o&form=hpcapt&filters=HpDate:\"20250921_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250922_AspenEquinox"
+            },
+            "Ssd": "20250922",
+            "Name": "AspenEquinox",
+            "Market": "ES-ES",
+            "Hash": "0554126679",
+            "FullDateString": "22 de sept. de 2025"
+        }
+    },
+    {
         "startdate": "20250920",
         "fullstartdate": "202509202200",
         "enddate": "20250921",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250921",
+        "fullstartdate": "202509212200",
+        "enddate": "20250922",
+        "url": "/th?id=OHR.AspenEquinox_DE-DE0417309231_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AspenEquinox_DE-DE0417309231",
+        "copyright": "Espenbäume im Herbst, Fishlake National Forest, Utah, USA (© Danita Delimont/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%C3%84quinoktium&form=hpcapt&filters=HpDate%3a%2220250921_2200%22",
+        "title": "Zwischen Sommer und Winter",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250921_AspenEquinox%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8a2e08d47f0c3f0394c608a2dc7d32e7",
+        "hsh": "5617cf93af3f5930c0d755060ccfacce",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Die Herbsttagundnachtgleiche markiert den Moment, an dem Tag und Nacht nahezu gleich lang sind. Dieses astronomische Ereignis findet zwischen dem 22. und 24. September auf der Nordhalbkugel statt, wenn die Sonne den Himmelsäquator in Richtung Süden überquert. Es gilt als offizieller Beginn des Herbstes und wurde in vielen Kulturen als Symbol für Gleichgewicht, Ernte und Wandel gefeiert. Alte Zivilisationen wie die Maya und die Ägypter errichteten Tempel, die exakt auf Sonnenwenden und Tagundnachtgleichen ausgerichtet waren – ein beeindruckender Beweis ihres astronomischen Wissens.",
+                "Image": {
+                    "Url": "/th?id=OHR.AspenEquinox_DE-DE0417309231_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AspenEquinox_DE-DE0417309231_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Zwischen Sommer und Winter",
+                "Title": "Espenbäume im Herbst, Fishlake National Forest, Utah, USA",
+                "Copyright": "© Danita Delimont/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.766464,-112.087761/2?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=38.766464,-112.087761;S9;Fishlake National Forest, Utah, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Fishlake%20National%20Forest%2C%20Utah&ss=ypid.YN882x15286524&mb=38.771936~-112.09548~38.760994~-112.08003&description=115%20E%20900%20N%2C%20Richfield%2C%20UT%2084701&cardbg=%23219AB6&dt=1754559000000&tt=Fishlake%20National%20Forest&tsts0=%2526ty%253D18%2526q%253DFishlake%252520National%252520Forest%25252C%252520Utah%2526ss%253Dypid.YN882x15286524%2526mb%253D38.771936~-112.09548~38.760994~-112.08003%2526description%253D115%252520E%252520900%252520N%25252C%252520Richfield%25252C%252520UT%25252084701%2526cardbg%253D%252523219AB6%2526dt%253D1754559000000&tstt0=Fishlake%20National%20Forest&cp=32.590986~-123.690728&lvl=4.8301044&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250922_AspenEquinox\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%c3%84quinoktium&form=hpcapt&filters=HpDate:\"20250921_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250922_AspenEquinox"
+            },
+            "Ssd": "20250922",
+            "Name": "AspenEquinox",
+            "Market": "DE-DE",
+            "Hash": "0417309231",
+            "FullDateString": "22. Sept.. 2025"
+        }
+    },
+    {
         "startdate": "20250920",
         "fullstartdate": "202509202200",
         "enddate": "20250921",

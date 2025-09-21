@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250921",
+        "fullstartdate": "202509212200",
+        "enddate": "20250922",
+        "url": "/th?id=OHR.AspenEquinox_FR-FR4843698159_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AspenEquinox_FR-FR4843698159",
+        "copyright": "Peupliers faux-trembles en automne, forêt nationale de Fishlake, Utah, États-Unis (© Danita Delimont/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%C3%A9quinoxe+automne+2025&form=hpcapt&filters=HpDate%3a%2220250921_2200%22",
+        "title": "Peupliers faux-trembles… mais pas de peur !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250921_AspenEquinox%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8a2e08d47f0c3f0394c608a2dc7d32e7",
+        "hsh": "30c7a759d7c0878f0db5375463866dea",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dans l’Utah, aux États-Unis, la forêt nationale de Fishlake s’embrase d’or à l’équinoxe d’automne. Ses peupliers faux-trembles, reliés par un réseau invisible de racines, vibrent comme un seul organisme : l’un des plus vastes êtres vivants de la planète. Sous la lumière qui équilibre le jour et la nuit, c’est-à-dire lorsque leur durée devient presque identique, leurs troncs blancs scintillent, rappelant les anciens rites où l’équinoxe marquait un seuil sacré.",
+                "Image": {
+                    "Url": "/th?id=OHR.AspenEquinox_FR-FR4843698159_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AspenEquinox_FR-FR4843698159_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Peupliers faux-trembles… mais pas de peur !",
+                "Title": "Peupliers faux-trembles en automne, forêt nationale de Fishlake, Utah, États-Unis",
+                "Copyright": "© Danita Delimont/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.766464,-112.087761/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=38.766464,-112.087761;S9;Forêt nationale de Fishlake, Utah, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Fishlake%20National%20Forest%2C%20Utah&ss=ypid.YN882x15286524&mb=38.771936~-112.09548~38.760994~-112.08003&description=115%20E%20900%20N%2C%20Richfield%2C%20UT%2084701&cardbg=%23219AB6&dt=1754559000000&tt=Fishlake%20National%20Forest&tsts0=%2526ty%253D18%2526q%253DFishlake%252520National%252520Forest%25252C%252520Utah%2526ss%253Dypid.YN882x15286524%2526mb%253D38.771936~-112.09548~38.760994~-112.08003%2526description%253D115%252520E%252520900%252520N%25252C%252520Richfield%25252C%252520UT%25252084701%2526cardbg%253D%252523219AB6%2526dt%253D1754559000000&tstt0=Fishlake%20National%20Forest&cp=32.590986~-123.690728&lvl=4.8301044&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250922_AspenEquinox\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%c3%a9quinoxe+automne+2025&form=hpcapt&filters=HpDate:\"20250921_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250922_AspenEquinox"
+            },
+            "Ssd": "20250922",
+            "Name": "AspenEquinox",
+            "Market": "FR-FR",
+            "Hash": "4843698159",
+            "FullDateString": "22 sept. 2025"
+        }
+    },
+    {
         "startdate": "20250920",
         "fullstartdate": "202509202200",
         "enddate": "20250921",
