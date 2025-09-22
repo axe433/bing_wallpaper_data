@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250922",
+        "fullstartdate": "202509221500",
+        "enddate": "20250923",
+        "url": "/th?id=OHR.AutumnEquinox2025_JA-JP9152081751_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AutumnEquinox2025_JA-JP9152081751",
+        "copyright": "秋の七草 ハギ (© kororokerokero/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E7%A7%8B%E3%81%AE%E4%B8%83%E8%8D%89+%E3%83%8F%E3%82%AE&form=hpcapt&filters=HpDate%3a%2220250922_1500%22",
+        "title": "今日は秋分の日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250922_AutumnEquinox2025%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cc58bf1770ea198a138ebc8eae56f2ea",
+        "hsh": "1c493607ce8ba6e173ce6ff3313c4c2a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 9 月 23 日は秋分の日。昼と夜の長さがほぼ同じになる「秋分点」を迎える日であり、国民の祝日の一つでもあります。また、お彼岸の中日とも重なり、多くの人がお墓参りをし、故人を偲びます…",
+                "Image": {
+                    "Url": "/th?id=OHR.AutumnEquinox2025_JA-JP9152081751_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AutumnEquinox2025_JA-JP9152081751_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日は秋分の日",
+                "Title": "秋の七草 ハギ",
+                "Copyright": "© kororokerokero/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "ハギは、古くから日本人に親しまれ、「万葉集」で最もよく詠まれる花でもあります。",
+                    "LinkUrl": "/search?q=%e3%83%8f%e3%82%ae+%e4%b8%87%e8%91%89%e9%9b%86&form=hpvsfa",
+                    "LinkText": "万葉集ではハギを詠んだ歌はいくつある？"
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250923_AutumnEquinox2025\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e7%a7%8b%e3%81%ae%e4%b8%83%e8%8d%89+%e3%83%8f%e3%82%ae&form=hpcapt&filters=HpDate:\"20250922_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250923_AutumnEquinox2025"
+            },
+            "Ssd": "20250923",
+            "Name": "AutumnEquinox2025",
+            "Market": "JA-JP",
+            "Hash": "9152081751",
+            "FullDateString": "2025 年 9月 月 23 日"
+        }
+    },
+    {
         "startdate": "20250921",
         "fullstartdate": "202509211500",
         "enddate": "20250922",

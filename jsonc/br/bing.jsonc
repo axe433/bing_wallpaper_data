@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250922",
+        "fullstartdate": "202509220300",
+        "enddate": "20250923",
+        "url": "/th?id=OHR.Primavera25_PT-BR8233875845_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Primavera25_PT-BR8233875845",
+        "copyright": "Árvore de ipê-amarelo em floração (© Wilton mitsuo miwa/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=primavera&form=hpcapt&mkt=pt-br",
+        "title": "Seja bem-vinda, primavera!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250922_Primavera25%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "38342046c8dbc3f444b769b17b84d186",
+        "hsh": "257f28391a39bee449b82c06400c1148",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Quando setembro se despede, o clima ainda é seco e nada mais ousa crescer, eles decidem florescer em uníssono. Hoje, no primeiro dia da primavera, quem melhor que o ipê-amarelo para iluminar nossa imagem? Ele floresce nos rastros do inverno, de julho a setembro, e colore a vida brasileira com precisão e delicadeza.",
+                "Image": {
+                    "Url": "/th?id=OHR.Primavera25_PT-BR8233875845_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Primavera25_PT-BR8233875845_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Seja bem-vinda, primavera!",
+                "Title": "Árvore de ipê-amarelo em floração",
+                "Copyright": "© Wilton mitsuo miwa/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250922_Primavera25\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=primavera&form=hpcapt&filters=HpDate:\"20250922_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250922_Primavera25"
+            },
+            "Ssd": "20250922",
+            "Name": "Primavera25",
+            "Market": "PT-BR",
+            "Hash": "8233875845",
+            "FullDateString": "22 set. 2025"
+        }
+    },
+    {
         "startdate": "20250921",
         "fullstartdate": "202509210300",
         "enddate": "20250922",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250922",
+        "fullstartdate": "202509222200",
+        "enddate": "20250923",
+        "url": "/th?id=OHR.ToucanForest_IT-IT3771106703_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ToucanForest_IT-IT3771106703",
+        "copyright": "Tucano carenato, Costa Rica (© Juan Carlos Vindas/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Tucano+carenato&form=hpcapt",
+        "title": "Ritmo tropicale",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250922_ToucanForest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d5a3f79746b70fd96ab3453f8046bde5",
+        "hsh": "91724eba6898c7ebd187abef041f966b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nel cuore pulsante della foresta tropicale, dove la luce filtra come oro liquido tra le foglie, appare una creatura che sembra uscita da un sogno: il tucano dal becco carenato. Tra l’umidità che avvolge ogni cosa e il profumo dolce della frutta matura, il suo arrivo è come un lampo di meraviglia che interrompe la quiete. Con il suo piumaggio nero vellutato, il petto giallo acceso e quel becco che sfida ogni regola della discrezione, il tucano non vola: danza tra i rami, come una pennellata viva nel verde.",
+                "Image": {
+                    "Url": "/th?id=OHR.ToucanForest_IT-IT3771106703_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ToucanForest_IT-IT3771106703_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ritmo tropicale",
+                "Title": "Tucano carenato, Costa Rica",
+                "Copyright": "© Juan Carlos Vindas/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/9.979021,-84.195129/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=9.979021,-84.195129;S9;Costa Rica&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=costa%20rica&vdpid=54&mb=11.232286~-87.260425~8.009672~-81.307691&cardbg=%23F98745&dt=1754893800000&tt=Costa%20Rica&tsts0=%2526ty%253D30%2526q%253Dcosta%252520rica%2526vdpid%253D54%2526mb%253D11.232286~-87.260425~8.009672~-81.307691%2526cardbg%253D%252523F98745%2526dt%253D1754893800000&tstt0=Costa%20Rica&cp=9.626826~-85.515233&lvl=8.1471195&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250923_ToucanForest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tucano+carenato&form=hpcapt&filters=HpDate:\"20250922_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250923_ToucanForest"
+            },
+            "Ssd": "20250923",
+            "Name": "ToucanForest",
+            "Market": "IT-IT",
+            "Hash": "3771106703",
+            "FullDateString": "23 settembre 2025"
+        }
+    },
+    {
         "startdate": "20250921",
         "fullstartdate": "202509212200",
         "enddate": "20250922",
