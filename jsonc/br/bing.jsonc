@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250923",
+        "fullstartdate": "202509230300",
+        "enddate": "20250924",
+        "url": "/th?id=OHR.ToucanForest_PT-BR8747698753_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ToucanForest_PT-BR8747698753",
+        "copyright": "Tucano-de-peito-amarelo na Costa Rica (© Juan Carlos Vindas/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Tucano+de+peito+amarelo&form=hpcapt&mkt=pt-br",
+        "title": "O arco-íris que decidiu voar",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250923_ToucanForest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d5a3f79746b70fd96ab3453f8046bde5",
+        "hsh": "06e7697e629880a60100b6d689fd09ea",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Entre os galhos altos da mata, um lampejo de cor salta aos olhos. Com corpo ágil, bico multicolorido e olhar atento, esta é uma das mais de 40 espécies de tucano espalhadas pelo continente americano. Mas o protagonista da nossa imagem está entre as 22 espécies que encontramos no Brasil: trata-se do tucano-de-peito-amarelo, fotografado na Costa Rica. Seu bico, que chega a um terço do tamanho do corpo, ajuda tanto a alcançar frutas nos galhos mais altos quanto a regular a temperatura, funcionando como um radiador natural.",
+                "Image": {
+                    "Url": "/th?id=OHR.ToucanForest_PT-BR8747698753_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ToucanForest_PT-BR8747698753_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O arco-íris que decidiu voar",
+                "Title": "Tucano-de-peito-amarelo na Costa Rica",
+                "Copyright": "© Juan Carlos Vindas/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250923_ToucanForest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tucano+de+peito+amarelo&form=hpcapt&filters=HpDate:\"20250923_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250923_ToucanForest"
+            },
+            "Ssd": "20250923",
+            "Name": "ToucanForest",
+            "Market": "PT-BR",
+            "Hash": "8747698753",
+            "FullDateString": "23 set. 2025"
+        }
+    },
+    {
         "startdate": "20250922",
         "fullstartdate": "202509220300",
         "enddate": "20250923",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250923",
+        "fullstartdate": "202509231500",
+        "enddate": "20250924",
+        "url": "/th?id=OHR.BearLodge_JA-JP0426816004_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BearLodge_JA-JP0426816004",
+        "copyright": "デビルスタワー, 米国 ワイオミング州 (© Laura Hedien/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%87%E3%83%93%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%AF%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220250923_1500%22",
+        "title": "空を切り裂く稲妻と巨大な岩山",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250923_BearLodge%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "07c2c10b62a3ae0a92218ad28c9c5dae",
+        "hsh": "706dded3fa188eed5d5a1fc4b361ccf1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "雷光に照らされるデビルスタワー。米国ワイオミング州北東部に位置する標高 1,558ｍ の巨大な岩山であり、1906 年に、同国初の国定記念物に指定されています。火山活動によって地下に侵入したマグマが冷えて凝固した後、長い年月をかけて周囲を浸食し、地表に現れた岩頸と呼ばれる地形をしています…",
+                "Image": {
+                    "Url": "/th?id=OHR.BearLodge_JA-JP0426816004_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BearLodge_JA-JP0426816004_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "空を切り裂く稲妻と巨大な岩山",
+                "Title": "デビルスタワー, 米国 ワイオミング州",
+                "Copyright": "© Laura Hedien/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.590206,-104.714645/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=44.590206,-104.714645;S9;デビルスタワー, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Devils%20Tower%20National%20Monument&ss=ypid.YN873x12606429545070815035&segment=Attraction&mb=44.596052~-104.724641~44.584362~-104.704642&description=Hwy%20110%20Bldg%20170%2C%20Devils%20Tower%2C%20WY%2082714&poicount=18&cardbg=%23219AB6&dt=1754494200000&tt=Devils%20Tower%20National%20Monument&tsts0=%2526ty%253D18%2526q%253DDevils%252520Tower%252520National%252520Monument%2526ss%253Dypid.YN873x12606429545070815035%2526segment%253DAttraction%2526mb%253D44.596052~-104.724641~44.584362~-104.704642%2526description%253DHwy%252520110%252520Bldg%252520170%25252C%252520Devils%252520Tower%25252C%252520WY%25252082714%2526poicount%253D18%2526cardbg%253D%252523219AB6%2526dt%253D1754494200000&tstt0=Devils%20Tower%20National%20Monument&cp=40.490276~-114.306269&lvl=5.059649&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250924_BearLodge\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%87%e3%83%93%e3%83%ab%e3%82%b9%e3%82%bf%e3%83%af%e3%83%bc&form=hpcapt&filters=HpDate:\"20250923_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250924_BearLodge"
+            },
+            "Ssd": "20250924",
+            "Name": "BearLodge",
+            "Market": "JA-JP",
+            "Hash": "0426816004",
+            "FullDateString": "2025 年 9月 月 24 日"
+        }
+    },
+    {
         "startdate": "20250922",
         "fullstartdate": "202509221500",
         "enddate": "20250923",
