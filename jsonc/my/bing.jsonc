@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250924",
+        "fullstartdate": "202509240700",
+        "enddate": "20250925",
+        "url": "/th?id=OHR.BearLodge_ROW5124769347_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BearLodge_ROW5124769347",
+        "copyright": "Devils Tower National Monument, Wyoming, United States (© Laura Hedien/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Devils+Tower+National+Monument&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250924_BearLodge%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "07c2c10b62a3ae0a92218ad28c9c5dae",
+        "hsh": "d9d417f9253abd68286a65058274ac72",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Somewhere in the wide prairies of northeastern Wyoming in the United States, stands Devils Tower, a stone formation that rises from the open plains. Once called Bear Lodge, the butte gained its current name during an 1875 expedition led by Colonel Richard Irving Dodge, possibly after an interpreter mistranslated a Native phrase as 'Bad God's Tower.' The missing apostrophe in its official title follows standard geographic naming conventions—hence, the signs read 'Devils Tower.' In 1906, President Theodore Roosevelt proclaimed it as the nation's first national monument.",
+                "Image": {
+                    "Url": "/th?id=OHR.BearLodge_ROW5124769347_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BearLodge_ROW5124769347_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Devils Tower National Monument, Wyoming, United States",
+                "Copyright": "© Laura Hedien/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250924_BearLodge\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Devils+Tower+National+Monument&form=hpcapt&filters=HpDate:\"20250924_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250924_BearLodge"
+            },
+            "Ssd": "20250924",
+            "Name": "BearLodge",
+            "Market": "ROW",
+            "Hash": "5124769347",
+            "FullDateString": "24 Sep 2025"
+        }
+    },
+    {
         "startdate": "20250923",
         "fullstartdate": "202509230700",
         "enddate": "20250924",

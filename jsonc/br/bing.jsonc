@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250924",
+        "fullstartdate": "202509240300",
+        "enddate": "20250925",
+        "url": "/th?id=OHR.BearLodge_PT-BR9369560385_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BearLodge_PT-BR9369560385",
+        "copyright": "Monumento Nacional da Torre do Diabo, Wyoming, EUA (© Laura Hedien/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Monumento+Nacional+Torre+do+Diabo&form=hpcapt&mkt=pt-br",
+        "title": "O gigante solitário",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250924_BearLodge%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "07c2c10b62a3ae0a92218ad28c9c5dae",
+        "hsh": "fa6095d1a2f5777e3dfeca4c33a2c1ed",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Na imagem, a Torre do Diabo se ergue sobre as planícies de Wyoming. Sua origem foi cerca de 50 milhões de anos atrás, quando o magma quente ficou preso sob a terra, esfriando lentamente até solidificar. Declarada o primeiro Monumento Nacional dos Estados Unidos em 1906, ela sempre foi mais que isso para os povos nativos das Grandes Planícies. Eles a chamam de “Morada do Urso”: a lenda narra que sete meninas fugiam de ursos gigantes e foram protegidas pelo Grande Espírito, que fez a torre crescer rapidamente ao redor delas; dizem que as marcas das garras ainda são visíveis em suas paredes.",
+                "Image": {
+                    "Url": "/th?id=OHR.BearLodge_PT-BR9369560385_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BearLodge_PT-BR9369560385_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O gigante solitário",
+                "Title": "Monumento Nacional da Torre do Diabo, Wyoming, EUA",
+                "Copyright": "© Laura Hedien/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250924_BearLodge\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Monumento+Nacional+Torre+do+Diabo&form=hpcapt&filters=HpDate:\"20250924_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250924_BearLodge"
+            },
+            "Ssd": "20250924",
+            "Name": "BearLodge",
+            "Market": "PT-BR",
+            "Hash": "9369560385",
+            "FullDateString": "24 set. 2025"
+        }
+    },
+    {
         "startdate": "20250923",
         "fullstartdate": "202509230300",
         "enddate": "20250924",
