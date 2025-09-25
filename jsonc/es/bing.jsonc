@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250925",
+        "fullstartdate": "202509252200",
+        "enddate": "20250926",
+        "url": "/th?id=OHR.AutumnChipmunk_ES-ES0673938292_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AutumnChipmunk_ES-ES0673938292",
+        "copyright": "La ardilla rayada, Parque Nacional Kootenai, Montana, EE. UU. (© Donald M. Jones/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=La+ardilla+rayada&form=hpcapt&filters=HpDate%3a%2220250925_2200%22",
+        "title": "Pequeña y adorable",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250925_AutumnChipmunk%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b7efa87e279aa41958141411df645609",
+        "hsh": "af7f75b6b1b3f55e2a540e90c49d4c40",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En los bosques, la ardilla rayada puede ser la más pequeña, pero no por ello menos sorprendente. Con inteligencia y patas veloces, este diminuto roedor demuestra un gran ingenio. Pesa menos que una baraja de cartas y mide menos de 25 cm desde la nariz hasta la cola, siendo la ardilla rayada más pequeña de América del Norte.",
+                "Image": {
+                    "Url": "/th?id=OHR.AutumnChipmunk_ES-ES0673938292_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AutumnChipmunk_ES-ES0673938292_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Pequeña y adorable",
+                "Title": "La ardilla rayada, Parque Nacional Kootenai, Montana, EE. UU.",
+                "Copyright": "© Donald M. Jones/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250926_AutumnChipmunk\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=La+ardilla+rayada&form=hpcapt&filters=HpDate:\"20250925_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250926_AutumnChipmunk"
+            },
+            "Ssd": "20250926",
+            "Name": "AutumnChipmunk",
+            "Market": "ES-ES",
+            "Hash": "0673938292",
+            "FullDateString": "26 de sept. de 2025"
+        }
+    },
+    {
         "startdate": "20250924",
         "fullstartdate": "202509242200",
         "enddate": "20250925",

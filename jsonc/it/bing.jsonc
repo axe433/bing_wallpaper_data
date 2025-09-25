@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250925",
+        "fullstartdate": "202509252200",
+        "enddate": "20250926",
+        "url": "/th?id=OHR.AutumnChipmunk_IT-IT3950595643_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AutumnChipmunk_IT-IT3950595643",
+        "copyright": "Scoiattolo minore, Foresta Nazionale di Kootenai, Montana, USA (© Donald M. Jones/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Tamias+minimus&form=hpcapt",
+        "title": "Il suo tessoro?!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250925_AutumnChipmunk%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b7efa87e279aa41958141411df645609",
+        "hsh": "ccc644bbdf765b29678c6a376dbb8f81",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nel mondo silenzioso dei boschi, il tamia minore potrebbe sembrarvi lo \"scoiattolo di serie B\", ma non lasciatevi ingannare. Con astuzia da sopravvivenza e zampe fulminee, questo minuscolo roditore dimostra che essere \"il più piccolo\" non significa essere il meno capace. Pesa meno di un mazzo di carte e misura meno di 25 centimetri dalla punta del naso alla coda: è il più minuto tra i chipmunk del Nord America. Quando non sfreccia tra tronchi o si mimetizza tra le foglie, è impegnato a raccogliere provviste. Le sue guance espandibili gli permettono di trasportare semi, bacche e insetti verso nascondigli segreti.",
+                "Image": {
+                    "Url": "/th?id=OHR.AutumnChipmunk_IT-IT3950595643_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AutumnChipmunk_IT-IT3950595643_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Il suo tessoro?!",
+                "Title": "Scoiattolo minore, Foresta Nazionale di Kootenai, Montana, USA",
+                "Copyright": "© Donald M. Jones/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.554089,-115.548149/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=48.554089,-115.548149;S9;Foresta Nazionale di Kootenai, Montana, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Kootenai%20National%20Forest%20Montana&ss=ypid.YN873x15682518830766056339&mb=48.559433~-115.558147~48.548738~-115.538149&description=1101%20US%20Highway%202%20W%2C%20Libby%2C%20MT%2059923&cardbg=%23219AB6&dt=1754659800000&tt=Kootenai%20National%20Forest&tsts0=%2526ty%253D18%2526q%253DKootenai%252520National%252520Forest%252520Montana%2526ss%253Dypid.YN873x15682518830766056339%2526mb%253D48.559433~-115.558147~48.548738~-115.538149%2526description%253D1101%252520US%252520Highway%2525202%252520W%25252C%252520Libby%25252C%252520MT%25252059923%2526cardbg%253D%252523219AB6%2526dt%253D1754659800000&tstt0=Kootenai%20National%20Forest&cp=50.00175~-125.975644&lvl=5.1232553&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250926_AutumnChipmunk\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tamias+minimus&form=hpcapt&filters=HpDate:\"20250925_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250926_AutumnChipmunk"
+            },
+            "Ssd": "20250926",
+            "Name": "AutumnChipmunk",
+            "Market": "IT-IT",
+            "Hash": "3950595643",
+            "FullDateString": "26 settembre 2025"
+        }
+    },
+    {
         "startdate": "20250924",
         "fullstartdate": "202509242200",
         "enddate": "20250925",
