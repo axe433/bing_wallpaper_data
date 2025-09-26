@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250926",
+        "fullstartdate": "202509261500",
+        "enddate": "20250927",
+        "url": "/th?id=OHR.TankLakes_JA-JP1667519475_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TankLakes_JA-JP1667519475",
+        "copyright": "タンク・レイクス, 米国 ワシントン州 (© Austin Trigg/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Tanks+Lake&form=hpcapt&filters=HpDate%3a%2220250926_1500%22",
+        "title": "星降る夜の水鏡",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250926_TankLakes%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d8b61df8bf598ad4539bf88f238efa29",
+        "hsh": "f2fe625bdbb1ec62f40dc3cff37865e7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日は、「天文の日(Astronomy Day)」。1973 年に、米国カリフォルニア州で始まったイベントで、都市部の人通りの多い場所に望遠鏡を設置し、通行人に気軽に天体観測を体験してもらうという取り組みから始まりました。「天文学を人々に届ける」というこの記念日の趣旨は現在も受け継がれており、世界各地で様々な関連イベントが開催されています…",
+                "Image": {
+                    "Url": "/th?id=OHR.TankLakes_JA-JP1667519475_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TankLakes_JA-JP1667519475_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "星降る夜の水鏡",
+                "Title": "タンク・レイクス, 米国 ワシントン州",
+                "Copyright": "© Austin Trigg/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.565102,-121.159897/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=47.565102,-121.159897;S9;アルパイン・レイクス, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Alpine%20Lakes%20Wilderness%20Washington&ss=ypid.YN873x7919753465390178134&mb=47.570554~-121.175036~47.559652~-121.144738&description=Hiking%20area&cardbg=%23219AB6&dt=1754920800000&tt=Alpine%20Lakes%20Wilderness&tsts0=%2526ty%253D18%2526q%253DAlpine%252520Lakes%252520Wilderness%252520Washington%2526ss%253Dypid.YN873x7919753465390178134%2526mb%253D47.570554~-121.175036~47.559652~-121.144738%2526description%253DHiking%252520area%2526cardbg%253D%252523219AB6%2526dt%253D1754920800000&tstt0=Alpine%20Lakes%20Wilderness&cp=47.156433~-123.668752&lvl=5.3492985&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250927_TankLakes\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tanks+Lake&form=hpcapt&filters=HpDate:\"20250926_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250927_TankLakes"
+            },
+            "Ssd": "20250927",
+            "Name": "TankLakes",
+            "Market": "JA-JP",
+            "Hash": "1667519475",
+            "FullDateString": "2025 年 9月 月 27 日"
+        }
+    },
+    {
         "startdate": "20250925",
         "fullstartdate": "202509251500",
         "enddate": "20250926",
