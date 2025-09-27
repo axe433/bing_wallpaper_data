@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250927",
+        "fullstartdate": "202509270400",
+        "enddate": "20250928",
+        "url": "/th?id=OHR.RedMapleleaf_EN-CA8222399050_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RedMapleleaf_EN-CA8222399050",
+        "copyright": "Red maple in fall, Canada (© LiuSol/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Acer+rubrum&form=hpcapt&filters=HpDate%3a%2220250927_0400%22",
+        "title": "Nature's red couture",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250927_RedMapleleaf%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6f66d4bb123a6ec47914557b3dad6997",
+        "hsh": "7fb53b26cc89f2259097486f925eb990",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ever wondered what gives those fiery red leaves their vibrant colour each fall? Meet the red maple, pictured here. This tree isn't just a pretty face—its sap is a key ingredient in Canada's famous maple syrup. Most syrup, however, comes from sugar maples, though black maples and red maples also contribute. Curious how? In spring, taps collect sap when nights are still freezing and days begin to warm. Boil it down, and what's left is the sweet syrup you drizzle on pancakes. Canada produces more than 70% of global maple syrup, with Quebec leading production.",
+                "Image": {
+                    "Url": "/th?id=OHR.RedMapleleaf_EN-CA8222399050_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RedMapleleaf_EN-CA8222399050_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Nature's red couture",
+                "Title": "Red maple in fall, Canada",
+                "Copyright": "© LiuSol/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "It can take as many as 50 years for a maple tree to grow large enough to tap for maple syrup production.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250927_RedMapleleaf\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Acer+rubrum&form=hpcapt&filters=HpDate:\"20250927_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250927_RedMapleleaf"
+            },
+            "Ssd": "20250927",
+            "Name": "RedMapleleaf",
+            "Market": "EN-CA",
+            "Hash": "8222399050",
+            "FullDateString": "Sep. 27, 2025"
+        }
+    },
+    {
         "startdate": "20250926",
         "fullstartdate": "202509260400",
         "enddate": "20250927",

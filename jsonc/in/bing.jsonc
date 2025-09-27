@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250927",
+        "fullstartdate": "202509271830",
+        "enddate": "20250928",
+        "url": "/th?id=OHR.PienzaItaly_EN-IN3424027062_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PienzaItaly_EN-IN3424027062",
+        "copyright": "Town of Pienza in Tuscany, Italy (© zpagistock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Pienza&form=hpcapt&filters=HpDate%3a%2220250927_1830%22",
+        "title": "A taste of Pienza",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250927_PienzaItaly%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c436c0f4c4811b5585f11d5549a3df6a",
+        "hsh": "eb6db1840094237ff0110223e1f15f03",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Some towns evolve slowly over centuries. Pienza? It received a full rebrand in the 1400s from a pope who wanted to prove a point—and maybe show off a little. This tiny Italian town is perched above the Val d'Orcia, surrounded by rolling hills that look exactly like you think Tuscany should: cypress trees, winding dirt roads, the occasional sheep. It's peaceful. And then you step inside the town walls, and it gets clever.",
+                "Image": {
+                    "Url": "/th?id=OHR.PienzaItaly_EN-IN3424027062_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PienzaItaly_EN-IN3424027062_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A taste of Pienza",
+                "Title": "Town of Pienza in Tuscany, Italy",
+                "Copyright": "© zpagistock/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.07861,11.67889/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=43.07861,11.67889;S9;Pienza, Tuscany, Italy&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Pienza&satid=id.sid%3Ac9c3ea4e-0e53-cfb7-7311-7c74972694c0&vdpid=7215076101343674369&mb=43.137527~11.442309~42.949272~11.925331&cardbg=%23F98745&tt=Pienza%2C%20Tuscany%2C%20Italy&tsts0=%2526ty%253D30%2526q%253DPienza%2526satid%253Did.sid%25253Ac9c3ea4e-0e53-cfb7-7311-7c74972694c0%2526vdpid%253D7215076101343674369%2526mb%253D43.137527~11.442309~42.949272~11.925331%2526cardbg%253D%252523F98745&tstt0=Pienza%2C%20Tuscany%2C%20Italy&cp=42.884267~13.204464&lvl=5.4493365&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250928_PienzaItaly\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Pienza&form=hpcapt&filters=HpDate:\"20250927_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250928_PienzaItaly"
+            },
+            "Ssd": "20250928",
+            "Name": "PienzaItaly",
+            "Market": "EN-IN",
+            "Hash": "3424027062",
+            "FullDateString": "28 Sep, 2025"
+        }
+    },
+    {
         "startdate": "20250926",
         "fullstartdate": "202509261830",
         "enddate": "20250927",

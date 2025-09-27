@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250927",
+        "fullstartdate": "202509270700",
+        "enddate": "20250928",
+        "url": "/th?id=OHR.TankLakes_EN-US9278332978_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TankLakes_EN-US9278332978",
+        "copyright": "Tank Lakes, Alpine Lakes Wilderness, Washington (© Austin Trigg/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Astronomy+Day+September&form=hpcapt&filters=HpDate%3a%2220250927_0700%22",
+        "title": "Weeding and wishing",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250927_TankLakes%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d8b61df8bf598ad4539bf88f238efa29",
+        "hsh": "d322afa4d7db21b393577d2d95c54ee0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "When the calendar lines up just right, you get a rare double feature: National Public Lands Day and Astronomy Day. It's a chance to explore the landscapes that ground us and the skies that inspire us—all within 24 hours.",
+                "Image": {
+                    "Url": "/th?id=OHR.TankLakes_EN-US9278332978_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TankLakes_EN-US9278332978_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Weeding and wishing",
+                "Title": "Tank Lakes, Alpine Lakes Wilderness, Washington",
+                "Copyright": "© Austin Trigg/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.565102,-121.159897/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=47.565102,-121.159897;S9;Alpine Lakes Wilderness&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Alpine%20Lakes%20Wilderness%20Washington&ss=ypid.YN873x7919753465390178134&mb=47.570554~-121.175036~47.559652~-121.144738&description=Hiking%20area&cardbg=%23219AB6&dt=1754920800000&tt=Alpine%20Lakes%20Wilderness&tsts0=%2526ty%253D18%2526q%253DAlpine%252520Lakes%252520Wilderness%252520Washington%2526ss%253Dypid.YN873x7919753465390178134%2526mb%253D47.570554~-121.175036~47.559652~-121.144738%2526description%253DHiking%252520area%2526cardbg%253D%252523219AB6%2526dt%253D1754920800000&tstt0=Alpine%20Lakes%20Wilderness&cp=47.156433~-123.668752&lvl=5.3492985&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250927_TankLakes\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Astronomy+Day+September&form=hpcapt&filters=HpDate:\"20250927_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250927_TankLakes"
+            },
+            "Ssd": "20250927",
+            "Name": "TankLakes",
+            "Market": "EN-US",
+            "Hash": "9278332978",
+            "FullDateString": "Sep 27, 2025"
+        }
+    },
+    {
         "startdate": "20250926",
         "fullstartdate": "202509260700",
         "enddate": "20250927",

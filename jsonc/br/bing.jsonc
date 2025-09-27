@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250927",
+        "fullstartdate": "202509270300",
+        "enddate": "20250928",
+        "url": "/th?id=OHR.TankLakes_PT-BR9433679717_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TankLakes_PT-BR9433679717",
+        "copyright": "Lagos Tank, Região Selvagem dos Lagos Alpinos, Washington, EUA (© Austin Trigg/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Lagos+Alpinos%2c+Washington%2c+EUA&form=hpcapt&mkt=pt-br",
+        "title": "Olhares brilhantes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250927_TankLakes%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d8b61df8bf598ad4539bf88f238efa29",
+        "hsh": "94da1b7109cf2d3a4e79172558a545ab",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A imagem que hoje nos inspira vem da Região Selvagem dos Lagos Alpinos, em Washington, nos Estados Unidos — um exemplo de como a natureza e o cosmos se encontram em harmonia. Regiões remotas como essa nos convidam a olhar para cima e redescobrir o infinito.",
+                "Image": {
+                    "Url": "/th?id=OHR.TankLakes_PT-BR9433679717_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TankLakes_PT-BR9433679717_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Olhares brilhantes",
+                "Title": "Lagos Tank, Região Selvagem dos Lagos Alpinos, Washington, EUA",
+                "Copyright": "© Austin Trigg/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250927_TankLakes\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lagos+Alpinos%2c+Washington%2c+EUA&form=hpcapt&filters=HpDate:\"20250927_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250927_TankLakes"
+            },
+            "Ssd": "20250927",
+            "Name": "TankLakes",
+            "Market": "PT-BR",
+            "Hash": "9433679717",
+            "FullDateString": "27 set. 2025"
+        }
+    },
+    {
         "startdate": "20250926",
         "fullstartdate": "202509260300",
         "enddate": "20250927",

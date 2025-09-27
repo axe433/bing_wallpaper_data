@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250927",
+        "fullstartdate": "202509272200",
+        "enddate": "20250928",
+        "url": "/th?id=OHR.PienzaItaly_DE-DE0925604328_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PienzaItaly_DE-DE0925604328",
+        "copyright": "Die Stadt Pienza in der Toskana, Italien (© zpagistock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Pienza&form=hpcapt&filters=HpDate%3a%2220250927_2200%22",
+        "title": "Ein Juwel der Toskana",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250927_PienzaItaly%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c436c0f4c4811b5585f11d5549a3df6a",
+        "hsh": "18e64e14852d0dff65611a39bed91477",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Auf dem heutigen Bild ist die schöne Stadt Pienza im Herzen der Toskana, Italien, zu sehen. Diese charmante Renaissance-Stadt, die zum UNESCO-Weltkulturerbe gehört, ist bekannt für ihre harmonische Architektur und den atemberaubenden Blick auf das Val d’Orcia. Im 15. Jahrhundert als „ideale Stadt“ auf Wunsch von Papst Pius II. entworfen, vereint Pienza städtische Eleganz mit der Wärme des toskanischen Landlebens.",
+                "Image": {
+                    "Url": "/th?id=OHR.PienzaItaly_DE-DE0925604328_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PienzaItaly_DE-DE0925604328_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ein Juwel der Toskana",
+                "Title": "Die Stadt Pienza in der Toskana, Italien",
+                "Copyright": "© zpagistock/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.07861,11.67889/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=43.07861,11.67889;S9;Pienza, Toskana, Italien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Pienza&satid=id.sid%3Ac9c3ea4e-0e53-cfb7-7311-7c74972694c0&vdpid=7215076101343674369&mb=43.137527~11.442309~42.949272~11.925331&cardbg=%23F98745&tt=Pienza%2C%20Tuscany%2C%20Italy&tsts0=%2526ty%253D30%2526q%253DPienza%2526satid%253Did.sid%25253Ac9c3ea4e-0e53-cfb7-7311-7c74972694c0%2526vdpid%253D7215076101343674369%2526mb%253D43.137527~11.442309~42.949272~11.925331%2526cardbg%253D%252523F98745&tstt0=Pienza%2C%20Tuscany%2C%20Italy&cp=42.884267~13.204464&lvl=5.4493365&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250928_PienzaItaly\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Pienza&form=hpcapt&filters=HpDate:\"20250927_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250928_PienzaItaly"
+            },
+            "Ssd": "20250928",
+            "Name": "PienzaItaly",
+            "Market": "DE-DE",
+            "Hash": "0925604328",
+            "FullDateString": "28. Sept.. 2025"
+        }
+    },
+    {
         "startdate": "20250926",
         "fullstartdate": "202509262200",
         "enddate": "20250927",
