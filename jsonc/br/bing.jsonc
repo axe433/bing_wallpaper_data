@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250928",
+        "fullstartdate": "202509280300",
+        "enddate": "20250929",
+        "url": "/th?id=OHR.PienzaItaly_PT-BR0767999929_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PienzaItaly_PT-BR0767999929",
+        "copyright": "Cidade de Pienza, na Toscana, Itália (© zpagistock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Pienza+na+Toscana&form=hpcapt&mkt=pt-br",
+        "title": "O gostinho de Pienza",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250928_PienzaItaly%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c436c0f4c4811b5585f11d5549a3df6a",
+        "hsh": "8ef73d57b895672f4875f926ed12a75e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Algumas cidades crescem aos poucos, ao longo dos séculos. Pienza, na Toscana, nossa imagem do dia, seguiu outro caminho: foi completamente transformada no século XV por um papa que queria deixar sua marca. Essa charmosa cidade italiana fica no alto do Vale de Orcia, região cercada por colinas, ciprestes e estradas de terra — o cenário clássico da Toscana.",
+                "Image": {
+                    "Url": "/th?id=OHR.PienzaItaly_PT-BR0767999929_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PienzaItaly_PT-BR0767999929_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O gostinho de Pienza",
+                "Title": "Cidade de Pienza, na Toscana, Itália",
+                "Copyright": "© zpagistock/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250928_PienzaItaly\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Pienza+na+Toscana&form=hpcapt&filters=HpDate:\"20250928_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250928_PienzaItaly"
+            },
+            "Ssd": "20250928",
+            "Name": "PienzaItaly",
+            "Market": "PT-BR",
+            "Hash": "0767999929",
+            "FullDateString": "28 set. 2025"
+        }
+    },
+    {
         "startdate": "20250927",
         "fullstartdate": "202509270300",
         "enddate": "20250928",

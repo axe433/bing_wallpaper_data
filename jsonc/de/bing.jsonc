@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250928",
+        "fullstartdate": "202509282200",
+        "enddate": "20250929",
+        "url": "/th?id=OHR.HoutenHouses_DE-DE0958725859_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HoutenHouses_DE-DE0958725859",
+        "copyright": "Regenbogenhäuser in der Stadt Houten, Niederlande (© George Pachantouris/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Houten+Niederlande&form=hpcapt&filters=HpDate%3a%2220250928_2200%22",
+        "title": "Farben am Wasser",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250928_HoutenHouses%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b251fc97916e37ceaf49f7d1cecf28f0",
+        "hsh": "2b8d0bc3327725c56401c352e57aa72c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Auf dem heutigen Bild sind die Regenbogenhäuser in der Stadt Houten, Niederlande, zu sehen. Diese farbenfrohen Holzhäuser liegen direkt am Rietplas-See und stehen für modernes, nachhaltiges Stadtdesign. Mit ihren lebendigen Farben verschönern sie nicht nur die Umgebung, sondern spiegeln auch den ökologischen Geist von Houten wider – einer Stadt, die für Fahrräder und Fußgänger konzipiert wurde. Besonders bei Sonnenuntergang, wenn sich die Farben im Wasser spiegeln, wird dieser Ort zu einem beliebten Ziel für Fotografen und Architekturbegeisterte.",
+                "Image": {
+                    "Url": "/th?id=OHR.HoutenHouses_DE-DE0958725859_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HoutenHouses_DE-DE0958725859_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Farben am Wasser",
+                "Title": "Regenbogenhäuser in der Stadt Houten, Niederlande",
+                "Copyright": "© George Pachantouris/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.0261,5.1728/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=52.0261,5.1728;S9;Houten, Niederlande&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Houten%2C%20Utreque%2C%20Pa%C3%ADses%20Baixos&satid=id.sid%3A3c0902bb-78b1-b678-04ce-c6d2e4960ded&vdpid=-7989722467&mb=52.030502~5.159808~52.021709~5.185794&cardbg=%23F98745&tt=Houten&tsts1=%2526ty%253D30%2526q%253DHouten%25252C%252520Utreque%25252C%252520Pa%2525C3%2525ADses%252520Baixos%2526satid%253Did.sid%25253A3c0902bb-78b1-b678-04ce-c6d2e4960ded%2526vdpid%253D-7989722467%2526mb%253D52.030502~5.159808~52.021709~5.185794%2526cardbg%253D%252523F98745&tstt1=Houten&cp=52.026106~5.16748&lvl=16&pi=0&ftst=1&ftics=True&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250929_HoutenHouses\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Houten+Niederlande&form=hpcapt&filters=HpDate:\"20250928_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250929_HoutenHouses"
+            },
+            "Ssd": "20250929",
+            "Name": "HoutenHouses",
+            "Market": "DE-DE",
+            "Hash": "0958725859",
+            "FullDateString": "29. Sept.. 2025"
+        }
+    },
+    {
         "startdate": "20250927",
         "fullstartdate": "202509272200",
         "enddate": "20250928",

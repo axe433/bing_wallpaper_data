@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250928",
+        "fullstartdate": "202509280700",
+        "enddate": "20250929",
+        "url": "/th?id=OHR.PienzaItaly_ROW5557368253_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PienzaItaly_ROW5557368253",
+        "copyright": "Town of Pienza in Tuscany, Italy (© zpagistock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Pienza&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250928_PienzaItaly%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c436c0f4c4811b5585f11d5549a3df6a",
+        "hsh": "80255112d5d58ab0781830c36efa4f61",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Some towns evolve slowly over centuries. Pienza? It received a full rebrand in the 1400s from a pope who wanted to prove a point—and maybe show off a little. This tiny Italian town is perched above the Val d'Orcia, surrounded by rolling hills that look exactly like you think Tuscany should: cypress trees, winding dirt roads, the occasional sheep. It's peaceful. And then you step inside the town walls, and it gets clever.",
+                "Image": {
+                    "Url": "/th?id=OHR.PienzaItaly_ROW5557368253_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PienzaItaly_ROW5557368253_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Town of Pienza in Tuscany, Italy",
+                "Copyright": "© zpagistock/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250928_PienzaItaly\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Pienza&form=hpcapt&filters=HpDate:\"20250928_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250928_PienzaItaly"
+            },
+            "Ssd": "20250928",
+            "Name": "PienzaItaly",
+            "Market": "ROW",
+            "Hash": "5557368253",
+            "FullDateString": "Sep 28, jjjj"
+        }
+    },
+    {
         "startdate": "20250927",
         "fullstartdate": "202509270700",
         "enddate": "20250928",

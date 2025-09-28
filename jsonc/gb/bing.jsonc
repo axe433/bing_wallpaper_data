@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250928",
+        "fullstartdate": "202509282300",
+        "enddate": "20250929",
+        "url": "/th?id=OHR.HoutenHouses_EN-GB0083761278_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HoutenHouses_EN-GB0083761278",
+        "copyright": "Rainbow houses in the town of Houten, Netherlands (© George Pachantouris/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Houten+Netherlands&form=hpcapt&filters=HpDate%3a%2220250928_2300%22",
+        "title": "Rainbow rides and quiet vibes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250928_HoutenHouses%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b251fc97916e37ceaf49f7d1cecf28f0",
+        "hsh": "d83ca969e0b13e6604db27fa0aaba4c9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "You won't find souvenir shops or tourist maps pointing the way—but follow the edge of Lake Rietplas in Houten, and you'll stumble upon one of the Netherlands' most unexpectedly photogenic sights. While many flock to Amsterdam's canals or Rotterdam's cube houses, this quiet commuter town offers its own architectural twist. Lined up like a mirage, the Rainbow Houses shimmer in bold, painterly hues—a residential block turned an understated cultural landmark.",
+                "Image": {
+                    "Url": "/th?id=OHR.HoutenHouses_EN-GB0083761278_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HoutenHouses_EN-GB0083761278_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Rainbow rides and quiet vibes",
+                "Title": "Rainbow houses in the town of Houten, Netherlands",
+                "Copyright": "© George Pachantouris/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.0261,5.1728/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=52.0261,5.1728;S9;Houten, Netherlands&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Houten%2C%20Utreque%2C%20Pa%C3%ADses%20Baixos&satid=id.sid%3A3c0902bb-78b1-b678-04ce-c6d2e4960ded&vdpid=-7989722467&mb=52.030502~5.159808~52.021709~5.185794&cardbg=%23F98745&tt=Houten&tsts1=%2526ty%253D30%2526q%253DHouten%25252C%252520Utreque%25252C%252520Pa%2525C3%2525ADses%252520Baixos%2526satid%253Did.sid%25253A3c0902bb-78b1-b678-04ce-c6d2e4960ded%2526vdpid%253D-7989722467%2526mb%253D52.030502~5.159808~52.021709~5.185794%2526cardbg%253D%252523F98745&tstt1=Houten&cp=52.026106~5.16748&lvl=16&pi=0&ftst=1&ftics=True&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250929_HoutenHouses\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Houten+Netherlands&form=hpcapt&filters=HpDate:\"20250928_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250929_HoutenHouses"
+            },
+            "Ssd": "20250929",
+            "Name": "HoutenHouses",
+            "Market": "EN-GB",
+            "Hash": "0083761278",
+            "FullDateString": "29 Sep 2025"
+        }
+    },
+    {
         "startdate": "20250927",
         "fullstartdate": "202509272300",
         "enddate": "20250928",

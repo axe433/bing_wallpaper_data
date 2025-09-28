@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250928",
+        "fullstartdate": "202509281600",
+        "enddate": "20250929",
+        "url": "/th?id=OHR.HoutenHouses_ZH-CN6776452438_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HoutenHouses_ZH-CN6776452438",
+        "copyright": "豪滕镇的彩虹屋, 荷兰 (© George Pachantouris/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E8%B1%AA%E6%BB%95%E9%95%87%E8%8D%B7%E5%85%B0&form=hpcapt&mkt=zh-cn",
+        "title": "彩虹骑行与宁静氛围",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250928_HoutenHouses%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b251fc97916e37ceaf49f7d1cecf28f0",
+        "hsh": "2ba0847a55fa1d24bb9447f0bdc6f9a3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "你不会找到纪念品商店或旅游地图指引方向——但沿着豪滕的里特普拉斯湖畔，你会偶然发现荷兰最令人意想不到的上镜景点之一。虽然许多人涌向阿姆斯特丹的运河或鹿特丹的方块屋，但这座宁静的通勤小镇却拥有独特的建筑风格。彩虹屋如海市蜃楼般鳞次栉比，闪耀着大胆的绘画色彩——一个住宅区变成了一个低调的文化地标。",
+                "Image": {
+                    "Url": "/th?id=OHR.HoutenHouses_ZH-CN6776452438_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HoutenHouses_ZH-CN6776452438_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "彩虹骑行与宁静氛围",
+                "Title": "豪滕镇的彩虹屋, 荷兰",
+                "Copyright": "© George Pachantouris/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "豪滕是一座通勤城市，其居民非常重视在家乡使用自行车。继2008年荣获“自行车之城”称号后，该市去年再次荣获该称号。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250929_HoutenHouses\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e8%b1%aa%e6%bb%95%e9%95%87%e8%8d%b7%e5%85%b0&form=hpcapt&filters=HpDate:\"20250928_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250929_HoutenHouses"
+            },
+            "Ssd": "20250929",
+            "Name": "HoutenHouses",
+            "Market": "ZH-CN",
+            "Hash": "6776452438",
+            "FullDateString": "2025 9月 29"
+        }
+    },
+    {
         "startdate": "20250927",
         "fullstartdate": "202509271600",
         "enddate": "20250928",

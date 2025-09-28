@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250928",
+        "fullstartdate": "202509282200",
+        "enddate": "20250929",
+        "url": "/th?id=OHR.HoutenHouses_IT-IT9070932054_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HoutenHouses_IT-IT9070932054",
+        "copyright": "Case arcobaleno nella città di Houten, Paesi Bassi (© George Pachantouris/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Houten+provincia+di+Utrecht&form=hpcapt",
+        "title": "Arcobaleno sull’Acqua",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250928_HoutenHouses%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b251fc97916e37ceaf49f7d1cecf28f0",
+        "hsh": "4f254a06ea0acd4fdf69f0b860c08e2a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Vi piacciono le gemme nascoste? Allora preparatevi a scoprire un angolo dei Paesi Bassi che non troverete sulle guide turistiche. Seguite il bordo del lago Rietplas, a Houten, e vi ritroverete davanti a uno degli scorci più fotogenici del paese. Mentre molti si dirigono verso i canali di Amsterdam o le case cubiche di Rotterdam, questa tranquilla cittadina pendolare ha in serbo una sorpresa architettonica tutta sua. Allineate come un miraggio, le Rainbow Houses brillano in colori audaci e pittorici: un blocco residenziale diventato, quasi per caso, un piccolo simbolo culturale. Per chi vive qui, sono parte del paesaggio quotidiano, ma per chi è amante della fotografia e del design, sono un sogno di simmetria e saturazione.",
+                "Image": {
+                    "Url": "/th?id=OHR.HoutenHouses_IT-IT9070932054_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HoutenHouses_IT-IT9070932054_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Arcobaleno sull'Acqua",
+                "Title": "Case arcobaleno nella città di Houten, Paesi Bassi",
+                "Copyright": "© George Pachantouris/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.0261,5.1728/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=52.0261,5.1728;S9;Houten, Paesi Bassi&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Houten%2C%20Utreque%2C%20Pa%C3%ADses%20Baixos&satid=id.sid%3A3c0902bb-78b1-b678-04ce-c6d2e4960ded&vdpid=-7989722467&mb=52.030502~5.159808~52.021709~5.185794&cardbg=%23F98745&tt=Houten&tsts1=%2526ty%253D30%2526q%253DHouten%25252C%252520Utreque%25252C%252520Pa%2525C3%2525ADses%252520Baixos%2526satid%253Did.sid%25253A3c0902bb-78b1-b678-04ce-c6d2e4960ded%2526vdpid%253D-7989722467%2526mb%253D52.030502~5.159808~52.021709~5.185794%2526cardbg%253D%252523F98745&tstt1=Houten&cp=52.026106~5.16748&lvl=16&pi=0&ftst=1&ftics=True&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250929_HoutenHouses\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Houten+provincia+di+Utrecht&form=hpcapt&filters=HpDate:\"20250928_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250929_HoutenHouses"
+            },
+            "Ssd": "20250929",
+            "Name": "HoutenHouses",
+            "Market": "IT-IT",
+            "Hash": "9070932054",
+            "FullDateString": "29 settembre 2025"
+        }
+    },
+    {
         "startdate": "20250927",
         "fullstartdate": "202509272200",
         "enddate": "20250928",
