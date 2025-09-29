@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250929",
+        "fullstartdate": "202509292300",
+        "enddate": "20250930",
+        "url": "/th?id=OHR.EucalyptusKoala_EN-GB0256529335_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EucalyptusKoala_EN-GB0256529335",
+        "copyright": "Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=koala&form=hpcapt&filters=HpDate%3a%2220250929_2300%22",
+        "title": "Clinging to what matters",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250929_EucalyptusKoala%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f0f8ebbd7b2d596038b338134c34bf75",
+        "hsh": "7481150aed8b4ab28010b004b35e9ed3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Amid the lush eucalyptus canopy of Great Otway National Park, koalas reign as sleepy sentinels of Australia's wild soul. Often misnamed 'koala bears,' these marsupials are actually closer to wombats and tend to be instantly recognisable by their stout, tailless bodies, fluffy ears and velvety black noses.",
+                "Image": {
+                    "Url": "/th?id=OHR.EucalyptusKoala_EN-GB0256529335_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EucalyptusKoala_EN-GB0256529335_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Clinging to what matters",
+                "Title": "Koala in a eucalyptus tree, Great Otway National Park, Australia",
+                "Copyright": "© Jamie Lamb - elusive-images.co.uk/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-38.591026,143.871898/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=-38.591026,143.871898;S9;Great Otway National Park, Australia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Great%20Otway%20National%20Park&vdpid=6578644626398248961&ss=ypid.YN3724x17565122191373329265&mb=-38.320885~142.983227~-38.85836~144.446644&description=Blanket%20Bay%20Road%2C%20Cape%20Otway%20Victoria%203221&cardbg=%233DB838&dt=1754578800000&tt=Great%20Otway%20National%20Park&tsts2=%2526ty%253D30%2526q%253DGreat%252520Otway%252520National%252520Park%2526vdpid%253D6578644626398248961%2526ss%253Dypid.YN3724x17565122191373329265%2526mb%253D-38.320885~142.983227~-38.85836~144.446644%2526description%253DBlanket%252520Bay%252520Road%25252C%252520Cape%252520Otway%252520Victoria%2525203221%2526cardbg%253D%2525233DB838%2526dt%253D1754578800000&tstt2=Great%20Otway%20National%20Park&cp=-38.589968~143.419396&lvl=11.185686&pi=0&ftst=2&ftics=True&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250930_EucalyptusKoala\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=koala&form=hpcapt&filters=HpDate:\"20250929_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250930_EucalyptusKoala"
+            },
+            "Ssd": "20250930",
+            "Name": "EucalyptusKoala",
+            "Market": "EN-GB",
+            "Hash": "0256529335",
+            "FullDateString": "30 Sep 2025"
+        }
+    },
+    {
         "startdate": "20250928",
         "fullstartdate": "202509282300",
         "enddate": "20250929",

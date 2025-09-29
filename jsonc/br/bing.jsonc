@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250929",
+        "fullstartdate": "202509290300",
+        "enddate": "20250930",
+        "url": "/th?id=OHR.HoutenHouses_PT-BR1748801440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HoutenHouses_PT-BR1748801440",
+        "copyright": "Casas Arco-Íris na cidade de Houten, Países Baixos (© George Pachantouris/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=houten+pa%C3%ADses+baixos&form=hpcapt&mkt=pt-br",
+        "title": "A paleta secreta da Holanda",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250929_HoutenHouses%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b251fc97916e37ceaf49f7d1cecf28f0",
+        "hsh": "d008bfcbb03c9ca2f03beca58503e1df",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Quem disse que casas coloridas só existem em países tropicais? O Pelourinho, em Salvador, é prova viva de que o Brasil sabe celebrar a cor com personalidade. Mas a surpresa de hoje vem do norte europeu. A cidade de Houten, nossa foto do dia, esconde um conjunto residencial que parece saído de uma paleta de artista.",
+                "Image": {
+                    "Url": "/th?id=OHR.HoutenHouses_PT-BR1748801440_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HoutenHouses_PT-BR1748801440_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A paleta secreta da Holanda",
+                "Title": "Casas Arco-Íris na cidade de Houten, Países Baixos",
+                "Copyright": "© George Pachantouris/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250929_HoutenHouses\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=houten+pa%c3%adses+baixos&form=hpcapt&filters=HpDate:\"20250929_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250929_HoutenHouses"
+            },
+            "Ssd": "20250929",
+            "Name": "HoutenHouses",
+            "Market": "PT-BR",
+            "Hash": "1748801440",
+            "FullDateString": "29 set. 2025"
+        }
+    },
+    {
         "startdate": "20250928",
         "fullstartdate": "202509280300",
         "enddate": "20250929",
