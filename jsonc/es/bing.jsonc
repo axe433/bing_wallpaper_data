@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250930",
+        "fullstartdate": "202509302200",
+        "enddate": "20251001",
+        "url": "/th?id=OHR.YosemiteClark_ES-ES0823562766_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.YosemiteClark_ES-ES0823562766",
+        "copyright": "Cordillera Clark, Sierra Nevada, Parque Nacional de Yosemite, California, EE. UU. (© Robb Hirsch/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Cordillera+Clark&form=hpcapt&filters=HpDate%3a%2220250930_2200%22",
+        "title": "Ecos de la cordillera",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250930_YosemiteClark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "94514ec2abd2cacccff8a861965fe5aa",
+        "hsh": "c372b99956dea7a9dcc36b02ccab2221",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Este año marca otro hito en el legado del Parque Nacional Yosemite, en Estados Unidos, protegido desde 1864 por su valor natural y ecológico. El parque ocupa aproximadamente 3.100 kilómetros cuadrados en Sierra Nevada —y no, no confundir con la Sierra Nevada de Granada, España— y alberga más de 800 kilómetros de senderos, cascadas como Yosemite Falls y bosques de secuoyas gigantes. Entre sus áreas menos conocidas se encuentra la Cordillera Clark, una serie de picos y praderas alpinas que alcanzan hasta 3.000 metros de altitud. Debe su nombre a Galen Clark, primer guardián del parque y pionero de la conservación.",
+                "Image": {
+                    "Url": "/th?id=OHR.YosemiteClark_ES-ES0823562766_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.YosemiteClark_ES-ES0823562766_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ecos de la cordillera",
+                "Title": "Cordillera Clark, Sierra Nevada, Parque Nacional de Yosemite, California, EE. UU.",
+                "Copyright": "© Robb Hirsch/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251001_YosemiteClark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Cordillera+Clark&form=hpcapt&filters=HpDate:\"20250930_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251001_YosemiteClark"
+            },
+            "Ssd": "20251001",
+            "Name": "YosemiteClark",
+            "Market": "ES-ES",
+            "Hash": "0823562766",
+            "FullDateString": "1 de oct. de 2025"
+        }
+    },
+    {
         "startdate": "20250929",
         "fullstartdate": "202509292200",
         "enddate": "20250930",

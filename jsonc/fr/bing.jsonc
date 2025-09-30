@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250930",
+        "fullstartdate": "202509302200",
+        "enddate": "20251001",
+        "url": "/th?id=OHR.YosemiteClark_FR-FR2430625241_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.YosemiteClark_FR-FR2430625241",
+        "copyright": "Clark Range, Sierra Nevada, parc national de Yosemite, Californie, États-Unis (© Robb Hirsch/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Parc+national+de+Yosemite+%C3%89tats-Unis&form=hpcapt&filters=HpDate%3a%2220250930_2200%22",
+        "title": "Un parc Yosé-mythique !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250930_YosemiteClark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "94514ec2abd2cacccff8a861965fe5aa",
+        "hsh": "eb965077ae62ac9f5140e13f04e05252",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sous le ciel changeant de Californie, la Clark Range s’élève telle l’épine dorsale de la Sierra Nevada, gardienne silencieuse du parc national de Yosemite. Ce sanctuaire de plus de 3 000 km² abrite des géants de granit, des cascades tumultueuses et des séquoias millénaires. Ses crêtes, polies par les glaciers, portent encore l’empreinte des siècles, tandis que les pins à écorce blanche laissent siffler le vent entre leurs branches tortueuses. Ici, tout respire l’immensité et l’endurance.",
+                "Image": {
+                    "Url": "/th?id=OHR.YosemiteClark_FR-FR2430625241_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.YosemiteClark_FR-FR2430625241_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un parc Yosé-mythique !",
+                "Title": "Clark Range, Sierra Nevada, parc national de Yosemite, Californie, États-Unis",
+                "Copyright": "© Robb Hirsch/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.747524,-119.585548/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=37.747524,-119.585548;S9;Parc national de Yosemite, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Yosemite%20National%20Park%2C%20Yosemite%20National%20Park%2C%20California%2C%20United%20States&ss=ypid.YN873x119560964&mb=47.426681~-120.399459~47.417941~-120.375941&description=9039%20Village%20Dr%2C%20Yosemite%20National%20Park%2C%20CA%2095389%C2%B7Park&cardbg=rgb%2861%2C184%2C56%29&dt=1754996400000&tt=Yosemite%20National%20Park&tsts1=%2526ty%253D18%2526q%253DYosemite%252520National%252520Park%25252C%252520Yosemite%252520National%252520Park%25252C%252520California%25252C%252520United%252520States%2526ss%253Dypid.YN873x119560964%2526mb%253D47.426681~-120.399459~47.417941~-120.375941%2526description%253D9039%252520Village%252520Dr%25252C%252520Yosemite%252520National%252520Park%25252C%252520CA%25252095389%2525C2%2525B7Park%2526cardbg%253Drgb%25252861%25252C184%25252C56%252529%2526dt%253D1754996400000&tstt1=Yosemite%20National%20Park&cp=38.284159~-124.804127&lvl=6&ftst=1&ftics=True&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251001_YosemiteClark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parc+national+de+Yosemite+%c3%89tats-Unis&form=hpcapt&filters=HpDate:\"20250930_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251001_YosemiteClark"
+            },
+            "Ssd": "20251001",
+            "Name": "YosemiteClark",
+            "Market": "FR-FR",
+            "Hash": "2430625241",
+            "FullDateString": "1 oct. 2025"
+        }
+    },
+    {
         "startdate": "20250929",
         "fullstartdate": "202509292200",
         "enddate": "20250930",

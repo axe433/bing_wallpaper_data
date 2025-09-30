@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250930",
+        "fullstartdate": "202509302300",
+        "enddate": "20251001",
+        "url": "/th?id=OHR.BlackMonthUK2025_EN-GB0715842244_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BlackMonthUK2025_EN-GB0715842244",
+        "copyright": "Silhouette of former South African President Nelson Mandela, 26 Leake Street, London, 2019 (© Leon Neal/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Black+History+Month+UK&form=hpcapt&filters=HpDate%3a%2220250930_2300%22",
+        "title": "History in focus",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250930_BlackMonthUK2025%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "089894c60402a03ac85738125b57db7c",
+        "hsh": "a975a319aeec9176908caff2d0296aff",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "October in the United Kingdom isn't just about falling leaves—it's about rising voices. Black History Month highlights the achievements, struggles and contributions of Black people. First marked in 1987 by Akyaaba Addai-Sebo, a Ghanaian officer at the Greater London Council, the month was created to inspire pride and representation among young Black people. Since then, it has grown into an annual tradition of learning and celebration.",
+                "Image": {
+                    "Url": "/th?id=OHR.BlackMonthUK2025_EN-GB0715842244_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BlackMonthUK2025_EN-GB0715842244_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "History in focus",
+                "Title": "Silhouette of former South African President Nelson Mandela, 26 Leake Street, London, 2019",
+                "Copyright": "© Leon Neal/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.501273,-0.114895/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=51.501273,-0.114895;S9;26 Leake Street, London&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=26%20Leake%20Street%20London&mb=51.505129~-0.126189~51.497413~-0.103617&cardbg=%23F98745&dt=1756391400000&tt=26%20Leake%20Street%2C%20Lambeth%2C%20London%2C%20SE1%207NN&tsts0=%2526ty%253D18%2526q%253D26%252520Leake%252520Street%252520London%2526mb%253D51.505129~-0.126189~51.497413~-0.103617%2526cardbg%253D%252523F98745%2526dt%253D1756391400000&tstt0=26%20Leake%20Street%2C%20Lambeth%2C%20London%2C%20SE1%207NN&cp=52.253401~-0.498982&lvl=5.1922846&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251001_BlackMonthUK2025\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Black+History+Month+UK&form=hpcapt&filters=HpDate:\"20250930_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251001_BlackMonthUK2025"
+            },
+            "Ssd": "20251001",
+            "Name": "BlackMonthUK2025",
+            "Market": "EN-GB",
+            "Hash": "0715842244",
+            "FullDateString": "1 Oct 2025"
+        }
+    },
+    {
         "startdate": "20250929",
         "fullstartdate": "202509292300",
         "enddate": "20250930",

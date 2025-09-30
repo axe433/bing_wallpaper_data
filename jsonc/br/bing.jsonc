@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20250930",
+        "fullstartdate": "202509300300",
+        "enddate": "20251001",
+        "url": "/th?id=OHR.EucalyptusKoala_PT-BR2049021569_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EucalyptusKoala_PT-BR2049021569",
+        "copyright": "Coala em uma árvore de eucalipto, Parque Nacional Great Otway, Austrália (© Jamie Lamb - elusive-images.co.uk/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Coala&form=hpcapt&mkt=pt-br",
+        "title": "Agarrando-se ao que importa",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250930_EucalyptusKoala%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f0f8ebbd7b2d596038b338134c34bf75",
+        "hsh": "2bbcf5077b78432eff7eb2282e5d90d7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Na imagem do dia, vemos um coala repousando entre os galhos de eucalipto no Parque Nacional Great Otway, na Austrália. Os coalas, que não existem naturalmente no Brasil, são um exemplo fascinante de como a vida selvagem se adapta de forma única ao seu ambiente. Com corpos robustos, orelhas peludas e narizes pretos aveludados, esses marsupiais são parentes próximos dos vombates.",
+                "Image": {
+                    "Url": "/th?id=OHR.EucalyptusKoala_PT-BR2049021569_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EucalyptusKoala_PT-BR2049021569_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Agarrando-se ao que importa",
+                "Title": "Coala em uma árvore de eucalipto, Parque Nacional Great Otway, Austrália",
+                "Copyright": "© Jamie Lamb - elusive-images.co.uk/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250930_EucalyptusKoala\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Coala&form=hpcapt&filters=HpDate:\"20250930_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20250930_EucalyptusKoala"
+            },
+            "Ssd": "20250930",
+            "Name": "EucalyptusKoala",
+            "Market": "PT-BR",
+            "Hash": "2049021569",
+            "FullDateString": "30 set. 2025"
+        }
+    },
+    {
         "startdate": "20250929",
         "fullstartdate": "202509290300",
         "enddate": "20250930",
