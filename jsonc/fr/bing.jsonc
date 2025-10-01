@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251001",
+        "fullstartdate": "202510012200",
+        "enddate": "20251002",
+        "url": "/th?id=OHR.OxbowBend_FR-FR2570017898_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OxbowBend_FR-FR2570017898",
+        "copyright": "Site naturel de Oxbow Bend, parc national du Grand Teton, Wyoming, États-Unis (© DanitaDelimont.com/AWL Images/SuperStock)",
+        "copyrightlink": "https://www.bing.com/search?q=Parc+national+du+Grand+Teton&form=hpcapt&filters=HpDate%3a%2220251001_2200%22",
+        "title": "Grand Teton, grande émotion",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251001_OxbowBend%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "476798f0b0ee089b4a63f0098772af7a",
+        "hsh": "91c95ecd02dd649d76f85d1cee596499",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dans le Wyoming, aux États-Unis, se trouve un lieu où le temps semble suspendu : Oxbow Bend, au cœur du parc national du Grand Teton. La Snake River y dessine une large courbe dont les eaux calmes reflètent la silhouette bleutée des montagnes. Le parc doit son nom à des trappeurs francophones du XIXe siècle qui auraient trouvé à la montagne une forme évocatrice.",
+                "Image": {
+                    "Url": "/th?id=OHR.OxbowBend_FR-FR2570017898_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OxbowBend_FR-FR2570017898_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Grand Teton, grande émotion",
+                "Title": "Site naturel de Oxbow Bend, parc national du Grand Teton, Wyoming, États-Unis",
+                "Copyright": "© DanitaDelimont.com/AWL Images/SuperStock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.857995,-110.547245/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=43.857995,-110.547245;S9;Oxbow Bend, parc national du Grand Teton, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Oxbow%20Bend%2C%20Grand%20Teton%20National%20Park%2C%20Wyoming&ss=ypid.YN873x15356100490154334837&mb=43.867742~-110.555398~43.857701~-110.542223&description=E%20Highway%20287%2C%20Moran%2C%20WY%2083013&cardbg=%23219AB6&dt=1754553600000&tt=Oxbow%20Bend&tsts0=%2526ty%253D18%2526q%253DOxbow%252520Bend%25252C%252520Grand%252520Teton%252520National%252520Park%25252C%252520Wyoming%2526ss%253Dypid.YN873x15356100490154334837%2526mb%253D43.867742~-110.555398~43.857701~-110.542223%2526description%253DE%252520Highway%252520287%25252C%252520Moran%25252C%252520WY%25252083013%2526cardbg%253D%252523219AB6%2526dt%253D1754553600000&tstt0=Oxbow%20Bend&cp=43.834527~-121.420898&lvl=5&pi=0&ftst=0&ftics=True&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251002_OxbowBend\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parc+national+du+Grand+Teton&form=hpcapt&filters=HpDate:\"20251001_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251002_OxbowBend"
+            },
+            "Ssd": "20251002",
+            "Name": "OxbowBend",
+            "Market": "FR-FR",
+            "Hash": "2570017898",
+            "FullDateString": "2 oct. 2025"
+        }
+    },
+    {
         "startdate": "20250930",
         "fullstartdate": "202509302200",
         "enddate": "20251001",

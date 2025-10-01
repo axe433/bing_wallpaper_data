@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251001",
+        "fullstartdate": "202510010300",
+        "enddate": "20251002",
+        "url": "/th?id=OHR.PraiaPortoGalinhas_PT-BR2218477838_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PraiaPortoGalinhas_PT-BR2218477838",
+        "copyright": "Praia de Porto de Galinhas, Pernambuco (© Ildo Frazao/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Porto+de+Galinhas&form=hpcapt&mkt=pt-br",
+        "title": "Sol, mar e história para contar",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251001_PraiaPortoGalinhas%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a61b2048477a497b865b1e14e9f80c85",
+        "hsh": "7c0b0f934c517177aff40421aa857c99",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Porto de Galinhas, no município de Ipojuca, em Pernambuco, é conhecido por suas piscinas naturais de águas claras e mornas. Elas se formam entre os recifes de corais e podem ser visitadas em passeios de jangada durante a maré baixa. O visual impressiona: peixes coloridos nadam entre os corais, muito sol e areia branquinha, como vemos na imagem de hoje.",
+                "Image": {
+                    "Url": "/th?id=OHR.PraiaPortoGalinhas_PT-BR2218477838_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PraiaPortoGalinhas_PT-BR2218477838_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Sol, mar e história para contar",
+                "Title": "Praia de Porto de Galinhas, Pernambuco",
+                "Copyright": "© Ildo Frazao/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251001_PraiaPortoGalinhas\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Porto+de+Galinhas&form=hpcapt&filters=HpDate:\"20251001_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251001_PraiaPortoGalinhas"
+            },
+            "Ssd": "20251001",
+            "Name": "PraiaPortoGalinhas",
+            "Market": "PT-BR",
+            "Hash": "2218477838",
+            "FullDateString": "1 out. 2025"
+        }
+    },
+    {
         "startdate": "20250930",
         "fullstartdate": "202509300300",
         "enddate": "20251001",

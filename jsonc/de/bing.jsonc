@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251001",
+        "fullstartdate": "202510012200",
+        "enddate": "20251002",
+        "url": "/th?id=OHR.OxbowBend_DE-DE1318690148_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OxbowBend_DE-DE1318690148",
+        "copyright": "Oxbow Bend am Snake River, Grand-Teton-Nationalpark, Wyoming, USA (© DanitaDelimont.com/AWL Images/SuperStock)",
+        "copyrightlink": "https://www.bing.com/search?q=Grand-Teton-Nationalpark+Wyoming+USA&form=hpcapt&filters=HpDate%3a%2220251001_2200%22",
+        "title": "Die Natur in ihrer reinsten Form",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251001_OxbowBend%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "476798f0b0ee089b4a63f0098772af7a",
+        "hsh": "2eed728a0e2761a356f35bc1166b0481",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Auf dem heutigen Bild sieht man das majestätische Oxbow Bend am Snake River im Grand-Teton-Nationalpark in Wyoming, USA. Diese ikonische Flussschleife bietet eine der meistfotografierten Aussichten des Parks, besonders bei Sonnenaufgang, wenn sich die Gipfel der Teton Range im ruhigen Wasser spiegeln. Der Ort ist bekannt für seine Stille, seine Artenvielfalt und als Lebensraum für Elche, Weißkopfseeadler und Fischotter. Im Herbst färben die Espen das Landschaftsbild in ein leuchtendes Gold und schaffen ein unvergessliches Naturschauspiel. Oxbow Bend ist nicht nur ein Hotspot für Fotografen, sondern auch ein Symbol für das harmonische Zusammenspiel von Wasser, Bergen und Himmel.",
+                "Image": {
+                    "Url": "/th?id=OHR.OxbowBend_DE-DE1318690148_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OxbowBend_DE-DE1318690148_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Die Natur in ihrer reinsten Form",
+                "Title": "Oxbow Bend am Snake River, Grand-Teton-Nationalpark, Wyoming, USA",
+                "Copyright": "© DanitaDelimont.com/AWL Images/SuperStock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.857995,-110.547245/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=43.857995,-110.547245;S9;Grand-Teton-Nationalpark, Wyoming, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Oxbow%20Bend%2C%20Grand%20Teton%20National%20Park%2C%20Wyoming&ss=ypid.YN873x15356100490154334837&mb=43.867742~-110.555398~43.857701~-110.542223&description=E%20Highway%20287%2C%20Moran%2C%20WY%2083013&cardbg=%23219AB6&dt=1754553600000&tt=Oxbow%20Bend&tsts0=%2526ty%253D18%2526q%253DOxbow%252520Bend%25252C%252520Grand%252520Teton%252520National%252520Park%25252C%252520Wyoming%2526ss%253Dypid.YN873x15356100490154334837%2526mb%253D43.867742~-110.555398~43.857701~-110.542223%2526description%253DE%252520Highway%252520287%25252C%252520Moran%25252C%252520WY%25252083013%2526cardbg%253D%252523219AB6%2526dt%253D1754553600000&tstt0=Oxbow%20Bend&cp=43.834527~-121.420898&lvl=5&pi=0&ftst=0&ftics=True&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251002_OxbowBend\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Grand-Teton-Nationalpark+Wyoming+USA&form=hpcapt&filters=HpDate:\"20251001_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251002_OxbowBend"
+            },
+            "Ssd": "20251002",
+            "Name": "OxbowBend",
+            "Market": "DE-DE",
+            "Hash": "1318690148",
+            "FullDateString": "2. Okt.. 2025"
+        }
+    },
+    {
         "startdate": "20250930",
         "fullstartdate": "202509302200",
         "enddate": "20251001",

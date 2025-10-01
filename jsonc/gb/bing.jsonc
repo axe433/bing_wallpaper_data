@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251001",
+        "fullstartdate": "202510012300",
+        "enddate": "20251002",
+        "url": "/th?id=OHR.NationalPoetryDay2025_EN-GB3464467927_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NationalPoetryDay2025_EN-GB3464467927",
+        "copyright": "Waterfall in the Cairngorms National Park, Scotland (© JohnFScott/iStock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=National+Poetry+Day&form=hpcapt&filters=HpDate%3a%2220251001_2300%22",
+        "title": "Poetry in full flow",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251001_NationalPoetryDay2025%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "703a108c8eebf89cb01216efba76ee72",
+        "hsh": "d8236b605995b413a5d571bd99bdf3ad",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "If words were musical notes, poetry would be the song that never fades. Each year, National Poetry Day gives language its moment in the spotlight, inviting people to read, write and share verses that stir thought or spark a smile. Launched in 1994 by the Forward Arts Foundation, the day falls on the first Thursday of October. It isn't just for seasoned poets—it's for schoolchildren scribbling rhymes, commuters catching a poem on the Tube and anyone willing to pause and let lines linger. Every year carries a theme, steering the creativity of classrooms, libraries and festivals across the nation. This year's theme is play.",
+                "Image": {
+                    "Url": "/th?id=OHR.NationalPoetryDay2025_EN-GB3464467927_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NationalPoetryDay2025_EN-GB3464467927_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Poetry in full flow",
+                "Title": "Waterfall in the Cairngorms National Park, Scotland",
+                "Copyright": "© JohnFScott/iStock/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/55.950672,-3.215848/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=55.950672,-3.215848;S9;Cairngorms National Park, Scotland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&ss=ypid.YN1029x9778446392769827739&mb=60.472256~-13.852146~50.815666~7.443836&description=39%20Drumsheugh%20Gardens%2C%20Edinburgh%20EH3%207SW%C2%B7National%20park&dt=1756470600000&tt=Cairngorms%20National%20Park&tsts0=%2526ty%253D18%2526ss%253Dypid.YN1029x9778446392769827739%2526mb%253D60.472256~-13.852146~50.815666~7.443836%2526description%253D39%252520Drumsheugh%252520Gardens%25252C%252520Edinburgh%252520EH3%2525207SW%2525C2%2525B7National%252520park%2526dt%253D1756470600000&tstt0=Cairngorms%20National%20Park&cp=54.778723~-16.566&lvl=5.246833&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251002_NationalPoetryDay2025\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=National+Poetry+Day&form=hpcapt&filters=HpDate:\"20251001_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251002_NationalPoetryDay2025"
+            },
+            "Ssd": "20251002",
+            "Name": "NationalPoetryDay2025",
+            "Market": "EN-GB",
+            "Hash": "3464467927",
+            "FullDateString": "2 Oct 2025"
+        }
+    },
+    {
         "startdate": "20250930",
         "fullstartdate": "202509302300",
         "enddate": "20251001",
