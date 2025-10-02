@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251002",
+        "fullstartdate": "202510022200",
+        "enddate": "20251003",
+        "url": "/th?id=OHR.SkyeHeather_FR-FR0643714401_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SkyeHeather_FR-FR0643714401",
+        "copyright": "Bruyère à Glen Brittle, île de Skye, Écosse (© Adam Mowery/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=%C3%AEle+de+Skye+%C3%89cosse&form=hpcapt&filters=HpDate%3a%2220251002_2200%22",
+        "title": "L’Écosse et ses landes mystérieuses…",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251002_SkyeHeather%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "51ee1bc133b74f2a6cd9d93889628aa7",
+        "hsh": "47065e63243021bb56b979b403d89db6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dans le voile mouvant de l’île de Skye en Écosse, Glen Brittle déroule ses bruyères pourpres, ses torrents clairs et ses brumes où flottent mille légendes. Ici, les pierres portent les empreintes de dinosaures, les eaux gardent en mémoire les chasseurs mésolithiques d’il y a 8 000 ans, et les échos des clans MacLeod et MacDonald se glissent encore dans les vallées.",
+                "Image": {
+                    "Url": "/th?id=OHR.SkyeHeather_FR-FR0643714401_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SkyeHeather_FR-FR0643714401_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "L'Écosse et ses landes mystérieuses…",
+                "Title": "Bruyère à Glen Brittle, île de Skye, Écosse",
+                "Copyright": "© Adam Mowery/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/57.225,-6.3/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=57.225,-6.3;S9;Glen Brittle, île de Skye, Écosse&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Glenbrittle%2C%20Isle%20of%20Skye%2C%20Scotland&satid=id.sid%3Af65ddb0e-1d55-0ab9-61a7-39c8dc8bca84&vdpid=5456023425782906881&mb=57.228867~-6.312987~57.22113~-6.287001&cardbg=%23F98745&dt=1755698400000&tt=Glen%20Brittle%2C%20Esc%C3%B3cia%2C%20Reino%20Unido&tsts0=%2526ty%253D30%2526q%253DGlenbrittle%25252C%252520Isle%252520of%252520Skye%25252C%252520Scotland%2526satid%253Did.sid%25253Af65ddb0e-1d55-0ab9-61a7-39c8dc8bca84%2526vdpid%253D5456023425782906881%2526mb%253D57.228867~-6.312987~57.22113~-6.287001%2526cardbg%253D%252523F98745%2526dt%253D1755698400000&tstt0=Glen%20Brittle%2C%20Esc%C3%B3cia%2C%20Reino%20Unido&cp=57.220911~-6.250683&lvl=11.974663&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251003_SkyeHeather\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%c3%aele+de+Skye+%c3%89cosse&form=hpcapt&filters=HpDate:\"20251002_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251003_SkyeHeather"
+            },
+            "Ssd": "20251003",
+            "Name": "SkyeHeather",
+            "Market": "FR-FR",
+            "Hash": "0643714401",
+            "FullDateString": "3 oct. 2025"
+        }
+    },
+    {
         "startdate": "20251001",
         "fullstartdate": "202510012200",
         "enddate": "20251002",
