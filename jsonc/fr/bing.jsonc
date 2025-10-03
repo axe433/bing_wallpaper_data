@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251003",
+        "fullstartdate": "202510032200",
+        "enddate": "20251004",
+        "url": "/th?id=OHR.CamagueHorses_FR-FR8949135937_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CamagueHorses_FR-FR8949135937",
+        "copyright": "Chevaux de Camargue, Aigues-Mortes, Occitanie (© Francesco Riccardo Lacomino/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+des+animaux&form=hpcapt&filters=HpDate%3a%2220251003_2200%22",
+        "title": "Chevaux de Camargue, Aigues-Mortes, Occitanie",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251003_CamagueHorses%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b28d0e1f0d85a420e2c0781f7287d6f6",
+        "hsh": "c05e7caff090063f9c9a56f35e21f84a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sous le soleil couchant, les chevaux de Camargue avancent, libres et puissants, dans les marais salants d'Aigues-Mortes. Ici, la nature ne se montre pas, elle se révèle brute, sauvage et indomptée. Emblèmes d'une région façonnée par l'eau et le sel, ils sont les descendants d'une lignée millénaire et sont habitués aux terres mouvantes, entre mer et étangs. Leurs sabots foulent les sols tremblants où poussent salicornes et tamaris, dans un ballet silencieux troublé seulement par les flamants roses.",
+                "Image": {
+                    "Url": "/th?id=OHR.CamagueHorses_FR-FR8949135937_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CamagueHorses_FR-FR8949135937_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Chevaux de Camargue, Aigues-Mortes, Occitanie",
+                "Title": "Chevaux de Camargue, Aigues-Mortes, Occitanie",
+                "Copyright": "© Francesco Riccardo Lacomino/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.56667,4.1925/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=43.56667,4.1925;S9;Aigues-Mortes, Occitanie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Aigues-Mortes&vdpid=7206650763202789377&mb=43.592106~4.046146~43.502121~4.257694&cardbg=%23F98745&tt=Aigues-Mortes%2C%20Gard&tsts1=%2526ty%253D30%2526q%253DAigues-Mortes%2526vdpid%253D7206650763202789377%2526mb%253D43.592106~4.046146~43.502121~4.257694%2526cardbg%253D%252523F98745&tstt1=Aigues-Mortes%2C%20Gard&cp=43.481262~3.525554&lvl=9.864523&pi=0&ftst=1&ftics=True&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251004_CamagueHorses\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Journ%c3%a9e+des+animaux&form=hpcapt&filters=HpDate:\"20251003_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251004_CamagueHorses"
+            },
+            "Ssd": "20251004",
+            "Name": "CamagueHorses",
+            "Market": "FR-FR",
+            "Hash": "8949135937",
+            "FullDateString": "4 oct. 2025"
+        }
+    },
+    {
         "startdate": "20251002",
         "fullstartdate": "202510022200",
         "enddate": "20251003",

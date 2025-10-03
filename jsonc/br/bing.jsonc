@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251003",
+        "fullstartdate": "202510030300",
+        "enddate": "20251004",
+        "url": "/th?id=OHR.SkyeHeather_PT-BR7113823627_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SkyeHeather_PT-BR7113823627",
+        "copyright": "Urze crescendo em Glen Brittle, Ilha de Skye, Escócia (© Adam Mowery/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Ilha+de+Skye&form=hpcapt&mkt=pt-br",
+        "title": "Sonhos envoltos na névoa",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251003_SkyeHeather%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "51ee1bc133b74f2a6cd9d93889628aa7",
+        "hsh": "388872d2de59e306d96a49f2874d4d89",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A névoa se espalha, as águas cintilam e a história permanece — bem-vindo a Glen Brittle, nossa imagem do dia. Localizado na Ilha de Skye, a lendária \"Ilha da Névoa\" da Escócia, este vale se estende por uma vasta paisagem coberta por urze. A planta, típica das regiões montanhosas, floresce em tons suaves, criando um tapete natural que transforma o cenário. A região vibra com ecos do passado: dinossauros deixaram pegadas nesses penhascos muito antes de caçadores mesolíticos seguirem seus riachos, há mais de oito mil anos. No século IX, vikings noruegueses se estabeleceram por ali.",
+                "Image": {
+                    "Url": "/th?id=OHR.SkyeHeather_PT-BR7113823627_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SkyeHeather_PT-BR7113823627_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Sonhos envoltos na névoa",
+                "Title": "Urze crescendo em Glen Brittle, Ilha de Skye, Escócia",
+                "Copyright": "© Adam Mowery/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251003_SkyeHeather\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ilha+de+Skye&form=hpcapt&filters=HpDate:\"20251003_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251003_SkyeHeather"
+            },
+            "Ssd": "20251003",
+            "Name": "SkyeHeather",
+            "Market": "PT-BR",
+            "Hash": "7113823627",
+            "FullDateString": "3 out. 2025"
+        }
+    },
+    {
         "startdate": "20251002",
         "fullstartdate": "202510020300",
         "enddate": "20251003",

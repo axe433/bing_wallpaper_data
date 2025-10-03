@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251003",
+        "fullstartdate": "202510030400",
+        "enddate": "20251004",
+        "url": "/th?id=OHR.SkyeHeather_EN-CA6782703552_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SkyeHeather_EN-CA6782703552",
+        "copyright": "Heather growing in Glen Brittle, Isle of Skye, Scotland (© Adam Mowery/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Glen+Brittle+in+Skye&form=hpcapt&filters=HpDate%3a%2220251003_0400%22",
+        "title": "Mist-bound reveries",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251003_SkyeHeather%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "51ee1bc133b74f2a6cd9d93889628aa7",
+        "hsh": "e6e0ab2c4b39aca50bef21b673ba5e78",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Mists curl, waters glimmer and legends linger—welcome to Glen Brittle. On the Isle of Skye, Scotland's fabled 'Misty Isle,' the glen stretches in a sweep of purple heather carpeting its rugged slopes. The landscape hums with echoes of the past: dinosaurs left footprints on these cliffs long before Mesolithic hunters traced its streams over 8,000 years ago. In the 9th century, seafaring Norse Vikings settled here. Centuries later, the powerful MacLeod and MacDonald clans claimed these lands, their castles standing guard over countless battles and alliances.",
+                "Image": {
+                    "Url": "/th?id=OHR.SkyeHeather_EN-CA6782703552_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SkyeHeather_EN-CA6782703552_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Mist-bound reveries",
+                "Title": "Heather growing in Glen Brittle, Isle of Skye, Scotland",
+                "Copyright": "© Adam Mowery/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/57.225,-6.3/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=57.225,-6.3;S9;Glen Brittle, Isle of Skye, Scotland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Glenbrittle%2C%20Isle%20of%20Skye%2C%20Scotland&satid=id.sid%3Af65ddb0e-1d55-0ab9-61a7-39c8dc8bca84&vdpid=5456023425782906881&mb=57.228867~-6.312987~57.22113~-6.287001&cardbg=%23F98745&dt=1755698400000&tt=Glen%20Brittle%2C%20Esc%C3%B3cia%2C%20Reino%20Unido&tsts0=%2526ty%253D30%2526q%253DGlenbrittle%25252C%252520Isle%252520of%252520Skye%25252C%252520Scotland%2526satid%253Did.sid%25253Af65ddb0e-1d55-0ab9-61a7-39c8dc8bca84%2526vdpid%253D5456023425782906881%2526mb%253D57.228867~-6.312987~57.22113~-6.287001%2526cardbg%253D%252523F98745%2526dt%253D1755698400000&tstt0=Glen%20Brittle%2C%20Esc%C3%B3cia%2C%20Reino%20Unido&cp=57.220911~-6.250683&lvl=11.974663&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251003_SkyeHeather\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Glen+Brittle+in+Skye&form=hpcapt&filters=HpDate:\"20251003_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251003_SkyeHeather"
+            },
+            "Ssd": "20251003",
+            "Name": "SkyeHeather",
+            "Market": "EN-CA",
+            "Hash": "6782703552",
+            "FullDateString": "Oct. 3, 2025"
+        }
+    },
+    {
         "startdate": "20251002",
         "fullstartdate": "202510020400",
         "enddate": "20251003",

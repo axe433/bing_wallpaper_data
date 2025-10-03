@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251003",
+        "fullstartdate": "202510031500",
+        "enddate": "20251004",
+        "url": "/th?id=OHR.DragonEndeavour_JA-JP7626531843_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DragonEndeavour_JA-JP7626531843",
+        "copyright": "エンデバーから見た ISS のソーラーパネル (© NASA)",
+        "copyrightlink": "https://www.bing.com/search?q=+ISS%E3%81%AE%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%91%E3%83%8D%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220251003_1500%22",
+        "title": "今日から世界宇宙週間",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251003_DragonEndeavour%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "49e31caa75eb19fd620efab02c2799ca",
+        "hsh": "f52362e83515a37779723183e6b2ed35",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 10 月 4 日から 10 月 10 日までは世界宇宙週間です。1957 年の 10 月 4 日、世界初の人工衛星スプートニク 1 号が打ちあげられ、その 10 年後の 1967 年 10 月 10 日に、宇宙空間の平和的利用を定めた「宇宙条約」が発効したことを記念して、国連が制定しました…",
+                "Image": {
+                    "Url": "/th?id=OHR.DragonEndeavour_JA-JP7626531843_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DragonEndeavour_JA-JP7626531843_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日から世界宇宙週間",
+                "Title": "エンデバーから見た ISS のソーラーパネル",
+                "Copyright": "© NASA",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "ISS では、地球のように蛇口をひねれば水が出るわけではありません。水はとても貴重な資源であり、宇宙飛行士たちはある方法で水をリサイクルしています。",
+                    "LinkUrl": "/search?q=ISS%e3%81%a7%e3%81%ae%e6%b0%b4%e3%81%ae%e4%be%9b%e7%b5%a6&form=hpvsfa",
+                    "LinkText": "そのリサイクル方法とは?"
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251004_DragonEndeavour\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=+ISS%e3%81%ae%e3%82%bd%e3%83%bc%e3%83%a9%e3%83%bc%e3%83%91%e3%83%8d%e3%83%ab&form=hpcapt&filters=HpDate:\"20251003_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251004_DragonEndeavour"
+            },
+            "Ssd": "20251004",
+            "Name": "DragonEndeavour",
+            "Market": "JA-JP",
+            "Hash": "7626531843",
+            "FullDateString": "2025 年 10月 月 4 日"
+        }
+    },
+    {
         "startdate": "20251002",
         "fullstartdate": "202510021500",
         "enddate": "20251003",
