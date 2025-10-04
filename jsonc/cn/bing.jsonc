@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251004",
+        "fullstartdate": "202510041600",
+        "enddate": "20251005",
+        "url": "/th?id=OHR.TeacherOwl_ZH-CN8289875605_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TeacherOwl_ZH-CN8289875605",
+        "copyright": "中欧森林里的鬼鸮 (© Ondrej Prosicky/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%95%99%E5%B8%88%E6%97%A5&form=hpcapt&mkt=zh-cn",
+        "title": "庆祝智慧！",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251004_TeacherOwl%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3641a089ab93defdb7cbab6f13b1b5ac",
+        "hsh": "1635c1020fc76cc71cd734e32a3eab69",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "教书育人的传统在整个人类历史中根深蒂固。今天，我们向那些倾注心血传播知识、塑造思想的教育者致敬。祝所有老师世界教师节快乐，感谢你们帮助我们成为更好的自己。",
+                "Image": {
+                    "Url": "/th?id=OHR.TeacherOwl_ZH-CN8289875605_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TeacherOwl_ZH-CN8289875605_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "庆祝智慧！",
+                "Title": "中欧森林里的鬼鸮",
+                "Copyright": "© Ondrej Prosicky/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "北方鸮分布于北美洲北部和欧洲地区，它们栖息于茂密的针叶林和混交林之中。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251005_TeacherOwl\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e4%b8%96%e7%95%8c%e6%95%99%e5%b8%88%e6%97%a5&form=hpcapt&filters=HpDate:\"20251004_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251005_TeacherOwl"
+            },
+            "Ssd": "20251005",
+            "Name": "TeacherOwl",
+            "Market": "ZH-CN",
+            "Hash": "8289875605",
+            "FullDateString": "2025 10月 5"
+        }
+    },
+    {
         "startdate": "20251003",
         "fullstartdate": "202510031600",
         "enddate": "20251004",

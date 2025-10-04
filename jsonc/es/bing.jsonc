@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251004",
+        "fullstartdate": "202510042200",
+        "enddate": "20251005",
+        "url": "/th?id=OHR.ElPilarZaragoza_ES-ES2251401044_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ElPilarZaragoza_ES-ES2251401044",
+        "copyright": "Catedral basílica de Nuestra Señora del Pilar, Zaragoza, España (© Botond Horvath/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Zaragoza&form=hpcapt&filters=HpDate%3a%2220251004_2200%22",
+        "title": "El pilar más importante",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251004_ElPilarZaragoza%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "686f544ad6195202028aa23a4c104b7c",
+        "hsh": "33ef0326c60d5b41b3c54aaaadefe670",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En Zaragoza, cada octubre comienza una de las celebraciones más esperadas: las Fiestas del Pilar. Durante varios días, la ciudad se llena de música, luces, danzas y alegría. El punto central es la Basílica de Nuestra Señora del Pilar, cuyo imponente tejado y torres se han convertido en símbolo de la capital aragonesa.",
+                "Image": {
+                    "Url": "/th?id=OHR.ElPilarZaragoza_ES-ES2251401044_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ElPilarZaragoza_ES-ES2251401044_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "El pilar más importante",
+                "Title": "Catedral basílica de Nuestra Señora del Pilar, Zaragoza, España",
+                "Copyright": "© Botond Horvath/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251005_ElPilarZaragoza\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Zaragoza&form=hpcapt&filters=HpDate:\"20251004_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251005_ElPilarZaragoza"
+            },
+            "Ssd": "20251005",
+            "Name": "ElPilarZaragoza",
+            "Market": "ES-ES",
+            "Hash": "2251401044",
+            "FullDateString": "5 de oct. de 2025"
+        }
+    },
+    {
         "startdate": "20251003",
         "fullstartdate": "202510032200",
         "enddate": "20251004",

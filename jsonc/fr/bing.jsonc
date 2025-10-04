@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251004",
+        "fullstartdate": "202510042200",
+        "enddate": "20251005",
+        "url": "/th?id=OHR.TeacherOwl_FR-FR0719163215_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TeacherOwl_FR-FR0719163215",
+        "copyright": "Chouette boréale dans une forêt d’Europe centrale (© Ondrej Prosicky/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+mondiale+des+enseignants&form=hpcapt&filters=HpDate%3a%2220251004_2200%22",
+        "title": "Un hommage aux alchimistes du savoir",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251004_TeacherOwl%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3641a089ab93defdb7cbab6f13b1b5ac",
+        "hsh": "11b2d88e9599248ca12037db3146f92b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dans les sous-bois silencieux d’Europe centrale, une chouette boréale observe l’horizon d’un regard perçant. Son plumage moucheté se fond dans les feuillages d’automne, à l'image d'une pensée sage nichée au cœur de la nature. Elle incarne l’intelligence discrète, celle qui veille et éclaire sans bruit.",
+                "Image": {
+                    "Url": "/th?id=OHR.TeacherOwl_FR-FR0719163215_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TeacherOwl_FR-FR0719163215_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un hommage aux alchimistes du savoir",
+                "Title": "Chouette boréale dans une forêt d’Europe centrale",
+                "Copyright": "© Ondrej Prosicky/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "La chouette boréale vit dans les forêts de conifères et mixtes du nord de l’Amérique du Nord et de l’Eurasie.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251005_TeacherOwl\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Journ%c3%a9e+mondiale+des+enseignants&form=hpcapt&filters=HpDate:\"20251004_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251005_TeacherOwl"
+            },
+            "Ssd": "20251005",
+            "Name": "TeacherOwl",
+            "Market": "FR-FR",
+            "Hash": "0719163215",
+            "FullDateString": "5 oct. 2025"
+        }
+    },
+    {
         "startdate": "20251003",
         "fullstartdate": "202510032200",
         "enddate": "20251004",

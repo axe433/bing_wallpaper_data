@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251004",
+        "fullstartdate": "202510042300",
+        "enddate": "20251005",
+        "url": "/th?id=OHR.TeacherOwl_EN-GB4585864931_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TeacherOwl_EN-GB4585864931",
+        "copyright": "Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=World+Teachers+Day&form=hpcapt&filters=HpDate%3a%2220251004_2300%22",
+        "title": "Celebrating wisdom",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251004_TeacherOwl%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3641a089ab93defdb7cbab6f13b1b5ac",
+        "hsh": "e12749fb141c705b963de4576149e3d1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "The tradition of teaching is deeply rooted in human history. Today, we honour those who dedicate their lives to sharing knowledge and shaping minds. Happy World Teachers' Day to all the educators who have helped us become who we are.",
+                "Image": {
+                    "Url": "/th?id=OHR.TeacherOwl_EN-GB4585864931_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TeacherOwl_EN-GB4585864931_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Celebrating wisdom",
+                "Title": "Boreal owl in a forest in Central Europe",
+                "Copyright": "© Ondrej Prosicky/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Found across northern North America and Eurasia, boreal owls inhabit dense coniferous and mixed forests.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251005_TeacherOwl\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=World+Teachers+Day&form=hpcapt&filters=HpDate:\"20251004_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251005_TeacherOwl"
+            },
+            "Ssd": "20251005",
+            "Name": "TeacherOwl",
+            "Market": "EN-GB",
+            "Hash": "4585864931",
+            "FullDateString": "5 Oct 2025"
+        }
+    },
+    {
         "startdate": "20251003",
         "fullstartdate": "202510032300",
         "enddate": "20251004",
