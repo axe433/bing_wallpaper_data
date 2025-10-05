@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251005",
+        "fullstartdate": "202510050700",
+        "enddate": "20251006",
+        "url": "/th?id=OHR.TeacherOwl_ROW9041107583_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TeacherOwl_ROW9041107583",
+        "copyright": "Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Boreal+owl&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251005_TeacherOwl%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3641a089ab93defdb7cbab6f13b1b5ac",
+        "hsh": "fcd34ef9b57b6bd8dfc070b9b4ec5664",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Today's image features a boreal owl, one of the smallest and most elusive members of the owl family. This compact bird has a round head without ear tufts, striking yellow eyes framed by a pale facial disc, brown upperparts speckled with white and cream-coloured underparts streaked with russet brown. Males measure about 25 centimetres in length with a wingspan of almost 60 centimetres, while females are slightly larger, around 30 centimetres long, with a wingspan over 60 centimetres.",
+                "Image": {
+                    "Url": "/th?id=OHR.TeacherOwl_ROW9041107583_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TeacherOwl_ROW9041107583_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Boreal owl in a forest in Central Europe",
+                "Copyright": "© Ondrej Prosicky/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251005_TeacherOwl\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Boreal+owl&form=hpcapt&filters=HpDate:\"20251005_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251005_TeacherOwl"
+            },
+            "Ssd": "20251005",
+            "Name": "TeacherOwl",
+            "Market": "ROW",
+            "Hash": "9041107583",
+            "FullDateString": "5 de oct. de 2025"
+        }
+    },
+    {
         "startdate": "20251004",
         "fullstartdate": "202510040700",
         "enddate": "20251005",

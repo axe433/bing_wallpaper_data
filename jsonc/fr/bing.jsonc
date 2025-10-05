@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251005",
+        "fullstartdate": "202510052200",
+        "enddate": "20251006",
+        "url": "/th?id=OHR.AnshunBridge_FR-FR1659622087_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AnshunBridge_FR-FR1659622087",
+        "copyright": "Pont Anshun illuminé pour la fête de la mi-automne, Chengdu, Chine (© Philippe LEJEANVRE/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=F%C3%AAte+de+la+mi-automne+Chine&form=hpcapt&filters=HpDate%3a%2220251005_2200%22",
+        "title": "Un pont vers la lune",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251005_AnshunBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4c0b721f45dc76140ded2e25f1e47f8d",
+        "hsh": "f1d1c723d13d0f7671a264bd6f80716e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sous la pleine lune d’octobre, l’air se fait plus vif, annonciateur de l’hiver à venir. À Chengdu, en Chine, le pont Anshun s’illumine d’or et se reflète dans les eaux calmes du fleuve Jin. Ce soir-là, la ville célèbre la fête de la mi-automne, l'une des traditions chinoises les plus anciennes. Selon la légende, la déesse Chang'e veille depuis la lune, tandis que les familles se réunissent pour partager des mooncakes, des pâtisseries rondes comme des astres, fourrées aux graines de lotus, aux haricots rouges ou au jaune d'œuf salé.",
+                "Image": {
+                    "Url": "/th?id=OHR.AnshunBridge_FR-FR1659622087_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AnshunBridge_FR-FR1659622087_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un pont vers la lune",
+                "Title": "Pont Anshun illuminé pour la fête de la mi-automne, Chengdu, Chine",
+                "Copyright": "© Philippe LEJEANVRE/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/30.66,104.0633/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=30.66,104.0633;S9;Chengdu, Sichuan, Chine&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Chengdu%2C%20China&satid=id.sid%3Adef787c1-f7c1-82ed-743e-e5b720729a19&vdpid=7810936404829011969&mb=30.665556~104.051541~30.654444~104.075059&cardbg=rgb%28249%2C135%2C69%29&tt=Chengdu%2C%20Sichuan%2C%20China&tsts0=%2526ty%253D30%2526q%253DChengdu%25252C%252520China%2526satid%253Did.sid%25253Adef787c1-f7c1-82ed-743e-e5b720729a19%2526vdpid%253D7810936404829011969%2526mb%253D30.665556~104.051541~30.654444~104.075059%2526cardbg%253Drgb%252528249%25252C135%25252C69%252529&tstt0=Chengdu%2C%20Sichuan%2C%20China&cp=31.146235~94.273997&lvl=5&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251006_AnshunBridge\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=F%c3%aate+de+la+mi-automne+Chine&form=hpcapt&filters=HpDate:\"20251005_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251006_AnshunBridge"
+            },
+            "Ssd": "20251006",
+            "Name": "AnshunBridge",
+            "Market": "FR-FR",
+            "Hash": "1659622087",
+            "FullDateString": "6 oct. 2025"
+        }
+    },
+    {
         "startdate": "20251004",
         "fullstartdate": "202510042200",
         "enddate": "20251005",

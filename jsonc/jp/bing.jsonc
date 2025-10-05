@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251005",
+        "fullstartdate": "202510051500",
+        "enddate": "20251006",
+        "url": "/th?id=OHR.AnshunBridge_JA-JP7739273331_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AnshunBridge_JA-JP7739273331",
+        "copyright": "錦江に映える安順橋と満月, 中国 (© Philippe LEJEANVRE/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%AE%89%E9%A0%86%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220251005_1500%22",
+        "title": "今日は中秋の名月",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251005_AnshunBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4c0b721f45dc76140ded2e25f1e47f8d",
+        "hsh": "6831830d4852b47247b2a03b98f72629",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 10 月 6 日は中秋の名月。「十五夜」とも呼ばれ、お団子やススキなどをお供えし、お月見をする日です。もともとは、中国の中秋節に由来しており、平安時代に日本へと伝わり定着しました。そして、今日の画像の月は、中国・成都の安順橋の上に浮かんでいます…",
+                "Image": {
+                    "Url": "/th?id=OHR.AnshunBridge_JA-JP7739273331_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AnshunBridge_JA-JP7739273331_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日は中秋の名月",
+                "Title": "錦江に映える安順橋と満月, 中国",
+                "Copyright": "© Philippe LEJEANVRE/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/30.66,104.0633/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=30.66,104.0633;S9;成都市, 中国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Chengdu%2C%20China&satid=id.sid%3Adef787c1-f7c1-82ed-743e-e5b720729a19&vdpid=7810936404829011969&mb=30.665556~104.051541~30.654444~104.075059&cardbg=rgb%28249%2C135%2C69%29&tt=Chengdu%2C%20Sichuan%2C%20China&tsts0=%2526ty%253D30%2526q%253DChengdu%25252C%252520China%2526satid%253Did.sid%25253Adef787c1-f7c1-82ed-743e-e5b720729a19%2526vdpid%253D7810936404829011969%2526mb%253D30.665556~104.051541~30.654444~104.075059%2526cardbg%253Drgb%252528249%25252C135%25252C69%252529&tstt0=Chengdu%2C%20Sichuan%2C%20China&cp=31.146235~94.273997&lvl=5&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251006_AnshunBridge\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%ae%89%e9%a0%86%e6%a9%8b&form=hpcapt&filters=HpDate:\"20251005_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251006_AnshunBridge"
+            },
+            "Ssd": "20251006",
+            "Name": "AnshunBridge",
+            "Market": "JA-JP",
+            "Hash": "7739273331",
+            "FullDateString": "2025 年 10月 月 6 日"
+        }
+    },
+    {
         "startdate": "20251004",
         "fullstartdate": "202510041500",
         "enddate": "20251005",

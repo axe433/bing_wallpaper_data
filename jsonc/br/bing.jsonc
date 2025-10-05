@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251005",
+        "fullstartdate": "202510050300",
+        "enddate": "20251006",
+        "url": "/th?id=OHR.TeacherOwl_PT-BR6486384324_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TeacherOwl_PT-BR6486384324",
+        "copyright": "Mocho-funéreo em uma floresta na Europa Central (© Ondrej Prosicky/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=mocho-fun%C3%A9reo&form=hpcapt&mkt=pt-br",
+        "title": "Sabedoria em voo noturno",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251005_TeacherOwl%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3641a089ab93defdb7cbab6f13b1b5ac",
+        "hsh": "da90b3ead6a0ac670e228ed6f467a7dc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Discreta, silenciosa e de olhar penetrante, a coruja sempre foi símbolo de sabedoria. A imagem de hoje traz o mocho-funéreo, uma pequena espécie de hábitos noturnos e arborícolas, conhecida por sua aparência reservada. Com cabeça arredondada e olhos atentos, habita florestas boreais e subalpinas da América do Norte, Europa e Ásia, sendo rara em regiões tropicais como o Brasil.",
+                "Image": {
+                    "Url": "/th?id=OHR.TeacherOwl_PT-BR6486384324_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TeacherOwl_PT-BR6486384324_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Sabedoria em voo noturno",
+                "Title": "Mocho-funéreo em uma floresta na Europa Central",
+                "Copyright": "© Ondrej Prosicky/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251005_TeacherOwl\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=mocho-fun%c3%a9reo&form=hpcapt&filters=HpDate:\"20251005_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251005_TeacherOwl"
+            },
+            "Ssd": "20251005",
+            "Name": "TeacherOwl",
+            "Market": "PT-BR",
+            "Hash": "6486384324",
+            "FullDateString": "5 out. 2025"
+        }
+    },
+    {
         "startdate": "20251004",
         "fullstartdate": "202510040300",
         "enddate": "20251005",

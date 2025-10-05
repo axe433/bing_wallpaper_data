@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251005",
+        "fullstartdate": "202510052200",
+        "enddate": "20251006",
+        "url": "/th?id=OHR.AnshunBridge_ES-ES0720553853_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AnshunBridge_ES-ES0720553853",
+        "copyright": "Puente Anshun iluminado para el Fiesta del Medio Otoño, Chengdu, China (© Philippe LEJEANVRE/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Fiesta+del+Medio+Oto%C3%B1o&form=hpcapt&filters=HpDate%3a%2220251005_2200%22",
+        "title": "Fiesta a la luz de la luna",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251005_AnshunBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4c0b721f45dc76140ded2e25f1e47f8d",
+        "hsh": "0a4734241a682330b8c3777db49ee1bd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El Festival del Medio Otoño, también llamado Festival de la Luna, es una de las celebraciones más queridas de China. Se festeja el día 15 del octavo mes lunar, que este año coincide con el 6 de octubre. La tradición cuenta que esa noche la diosa de la luna, Chang’e, contempla el mundo desde lo alto.",
+                "Image": {
+                    "Url": "/th?id=OHR.AnshunBridge_ES-ES0720553853_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AnshunBridge_ES-ES0720553853_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Fiesta a la luz de la luna",
+                "Title": "Puente Anshun iluminado para el Fiesta del Medio Otoño, Chengdu, China",
+                "Copyright": "© Philippe LEJEANVRE/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251006_AnshunBridge\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Fiesta+del+Medio+Oto%c3%b1o&form=hpcapt&filters=HpDate:\"20251005_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251006_AnshunBridge"
+            },
+            "Ssd": "20251006",
+            "Name": "AnshunBridge",
+            "Market": "ES-ES",
+            "Hash": "0720553853",
+            "FullDateString": "6 de oct. de 2025"
+        }
+    },
+    {
         "startdate": "20251004",
         "fullstartdate": "202510042200",
         "enddate": "20251005",

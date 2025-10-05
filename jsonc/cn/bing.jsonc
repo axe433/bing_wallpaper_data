@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251005",
+        "fullstartdate": "202510051600",
+        "enddate": "20251006",
+        "url": "/th?id=OHR.AnshunBridge_ZH-CN8392458102_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AnshunBridge_ZH-CN8392458102",
+        "copyright": "安顺桥中秋灯展，成都，中国 (© Philippe LEJEANVRE/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E4%B8%AD%E7%A7%8B%E8%8A%82&form=hpcapt&mkt=zh-cn",
+        "title": "千里共婵娟",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251005_AnshunBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4c0b721f45dc76140ded2e25f1e47f8d",
+        "hsh": "e276da4ffe4dd53c3ee48f4ce4386645",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "当秋月当空，空气中已透出冬日的气息，那份战栗感总会在记忆中久久萦绕。中秋节——亦称月节——作为中国最珍视的节日之一，为丰收时节的尾声增添了又一抹神话色彩。它在农历八月十五日庆祝，今年恰逢10月6日。相传此夜，月神嫦娥正俯瞰人间。",
+                "Image": {
+                    "Url": "/th?id=OHR.AnshunBridge_ZH-CN8392458102_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AnshunBridge_ZH-CN8392458102_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "千里共婵娟",
+                "Title": "安顺桥中秋灯展，成都，中国",
+                "Copyright": "© Philippe LEJEANVRE/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "中秋节时还有一些地方特色型习俗，例如：广东等地的舞火龙、湖南湘西等地象征性的“偷南瓜”等等。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251006_AnshunBridge\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e4%b8%ad%e7%a7%8b%e8%8a%82&form=hpcapt&filters=HpDate:\"20251005_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251006_AnshunBridge"
+            },
+            "Ssd": "20251006",
+            "Name": "AnshunBridge",
+            "Market": "ZH-CN",
+            "Hash": "8392458102",
+            "FullDateString": "2025 10月 6"
+        }
+    },
+    {
         "startdate": "20251004",
         "fullstartdate": "202510041600",
         "enddate": "20251005",
