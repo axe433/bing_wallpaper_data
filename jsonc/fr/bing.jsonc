@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251006",
+        "fullstartdate": "202510062200",
+        "enddate": "20251007",
+        "url": "/th?id=OHR.CapAntibes_FR-FR2066318600_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CapAntibes_FR-FR2066318600",
+        "copyright": "Rochers dans la mer au coucher du soleil, au Cap d’Antibes, Provence-Alpes-Côte d’Azur (© Eric Rousset/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=cap+d%27Antibes&form=hpcapt&filters=HpDate%3a%2220251006_2200%22",
+        "title": "L’arrière-saison en majesté",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251006_CapAntibes%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f3c0b009f4ed8d10f0c3078ba55aa060",
+        "hsh": "751b728f5c4b88138099fd97e7d0d26c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Quand l’été s’éteint doucement, Cap d’Antibes révèle un autre visage, plus secret, presque intime. Les pins maritimes embaument l’air salin, les criques se vident de leur agitation, et les sentiers côtiers deviennent des corridors silencieux, rythmés par le ressac. Ici, l’automne n’est pas une fin, mais une respiration : la lumière se fait plus douce, les roches ocres se teintent de reflets rosés, et la Méditerranée, apaisée, prend des allures de miroir.",
+                "Image": {
+                    "Url": "/th?id=OHR.CapAntibes_FR-FR2066318600_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CapAntibes_FR-FR2066318600_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "L'arrière-saison en majesté",
+                "Title": "Rochers dans la mer au coucher du soleil, au Cap d’Antibes, Provence-Alpes-Côte d’Azur",
+                "Copyright": "© Eric Rousset/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.58,7.123055/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=43.58,7.123055;S9;Cap d’Antibes, Provence-Alpes-Côte d’Azur&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?&ty=30&q=cap%20d%27Antibes&satid=id.sid%3Ab83c901c-c919-157e-c3e9-0b97b8af6a5d&vdpid=7208246245624643585&mb=43.622784~7.009565~43.541847~7.199952&cardbg=%23F98745&tt=Antibes%2C%20Alpes-Maritimes&tsts0=%2526ty%253D30%2526q%253Dcap%252520d%252527Antibes%2526satid%253Did.sid%25253Ab83c901c-c919-157e-c3e9-0b97b8af6a5d%2526vdpid%253D7208246245624643585%2526mb%253D43.622784~7.009565~43.541847~7.199952%2526cardbg%253D%252523F98745&tstt0=Antibes%2C%20Alpes-Maritimes&cp=43.601799~6.744913&lvl=10.276847&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251007_CapAntibes\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=cap+d%27Antibes&form=hpcapt&filters=HpDate:\"20251006_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251007_CapAntibes"
+            },
+            "Ssd": "20251007",
+            "Name": "CapAntibes",
+            "Market": "FR-FR",
+            "Hash": "2066318600",
+            "FullDateString": "7 oct. 2025"
+        }
+    },
+    {
         "startdate": "20251005",
         "fullstartdate": "202510052200",
         "enddate": "20251006",

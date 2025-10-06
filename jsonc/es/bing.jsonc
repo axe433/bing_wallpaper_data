@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251006",
+        "fullstartdate": "202510062200",
+        "enddate": "20251007",
+        "url": "/th?id=OHR.SaranacLake_ES-ES0795608317_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SaranacLake_ES-ES0795608317",
+        "copyright": "Villa de Saranac Lake, Montañas Adirondack, Nueva York, EE. UU. (© DenisTangneyJr/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Saranac+Lake&form=hpcapt&filters=HpDate%3a%2220251006_2200%22",
+        "title": "El espejo del otoño",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251006_SaranacLake%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cdc1757c0ef57f795c03d4897e81f19e",
+        "hsh": "707880b97a65ebb0df51cf0e59dfa708",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Algunos lugares son solo puntos en el mapa, pero el pueblo de Saranac Lake, en las montañas Adirondack de Nueva York, Estados Unidos, es un destino que conquista en cualquier estación. Aunque su nombre pueda confundir, no se ubica en los lagos Saranac, sino en el lago Flower, una amplia sección del río Saranac.",
+                "Image": {
+                    "Url": "/th?id=OHR.SaranacLake_ES-ES0795608317_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SaranacLake_ES-ES0795608317_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "El espejo del otoño",
+                "Title": "Villa de Saranac Lake, Montañas Adirondack, Nueva York, EE. UU.",
+                "Copyright": "© DenisTangneyJr/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251007_SaranacLake\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Saranac+Lake&form=hpcapt&filters=HpDate:\"20251006_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251007_SaranacLake"
+            },
+            "Ssd": "20251007",
+            "Name": "SaranacLake",
+            "Market": "ES-ES",
+            "Hash": "0795608317",
+            "FullDateString": "7 de oct. de 2025"
+        }
+    },
+    {
         "startdate": "20251005",
         "fullstartdate": "202510052200",
         "enddate": "20251006",

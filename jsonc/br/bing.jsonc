@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251006",
+        "fullstartdate": "202510060300",
+        "enddate": "20251007",
+        "url": "/th?id=OHR.AnshunBridge_PT-BR6404226352_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AnshunBridge_PT-BR6404226352",
+        "copyright": "Anshun Bridge iluminada para o Festival da Lua em Chengdu, China (© Philippe LEJEANVRE/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Festival+da+Lua&form=hpcapt&mkt=pt-br",
+        "title": "Deixe que a luz te guie até a lua",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251006_AnshunBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4c0b721f45dc76140ded2e25f1e47f8d",
+        "hsh": "4be812f7e01bfdc50043d2f89cba3aab",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sob a lua cheia que marca o outono na China — enquanto aqui é primavera — um arrepio percorre o corpo, não pelo frio, mas pela beleza e simbolismo dessa época. Um dos feriados mais queridos do país, o Festival da Lua, ou Festival do Meio do Outono, dá um toque mágico ao fim da temporada de colheita. É celebrado no 15º dia do oitavo mês lunar do calendário chinês, que neste ano ocorre em 6 de outubro. Segundo a lenda, é esta a noite em que a deusa da lua, Chang’e, observa o mundo.",
+                "Image": {
+                    "Url": "/th?id=OHR.AnshunBridge_PT-BR6404226352_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AnshunBridge_PT-BR6404226352_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Deixe que a luz te guie até a lua",
+                "Title": "Anshun Bridge iluminada para o Festival da Lua em Chengdu, China",
+                "Copyright": "© Philippe LEJEANVRE/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251006_AnshunBridge\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Festival+da+Lua&form=hpcapt&filters=HpDate:\"20251006_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251006_AnshunBridge"
+            },
+            "Ssd": "20251006",
+            "Name": "AnshunBridge",
+            "Market": "PT-BR",
+            "Hash": "6404226352",
+            "FullDateString": "6 out. 2025"
+        }
+    },
+    {
         "startdate": "20251005",
         "fullstartdate": "202510050300",
         "enddate": "20251006",
