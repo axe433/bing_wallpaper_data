@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251007",
+        "fullstartdate": "202510070300",
+        "enddate": "20251008",
+        "url": "/th?id=OHR.SaoMiguel_PT-BR6587333283_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SaoMiguel_PT-BR6587333283",
+        "copyright": "São Miguel das Missões, Rio Grande do Sul (© DircinhaSW/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=S%C3%A3o+Miguel+das+Miss%C3%B5es&form=hpcapt&mkt=pt-br",
+        "title": "História esculpida em pedra",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251007_SaoMiguel%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "7d84c4dcfe2e2de8e0e305d8c8e1c26c",
+        "hsh": "0ff4a61042d29d2ef27787ed2da4f0c6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "No interior do Rio Grande do Sul, São Miguel das Missões é um lugar onde o passado parece respirar entre ruínas de pedra avermelhada. O que hoje encanta os visitantes são os vestígios de uma antiga aldeia construída entre os séculos XVII e XVIII, parte de um projeto de integração entre europeus e povos indígenas.",
+                "Image": {
+                    "Url": "/th?id=OHR.SaoMiguel_PT-BR6587333283_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SaoMiguel_PT-BR6587333283_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "História esculpida em pedra",
+                "Title": "São Miguel das Missões, Rio Grande do Sul",
+                "Copyright": "© DircinhaSW/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251007_SaoMiguel\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=S%c3%a3o+Miguel+das+Miss%c3%b5es&form=hpcapt&filters=HpDate:\"20251007_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251007_SaoMiguel"
+            },
+            "Ssd": "20251007",
+            "Name": "SaoMiguel",
+            "Market": "PT-BR",
+            "Hash": "6587333283",
+            "FullDateString": "7 out. 2025"
+        }
+    },
+    {
         "startdate": "20251006",
         "fullstartdate": "202510060300",
         "enddate": "20251007",

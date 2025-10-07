@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251007",
+        "fullstartdate": "202510070700",
+        "enddate": "20251008",
+        "url": "/th?id=OHR.RidgwayAspens_ROW4668132017_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RidgwayAspens_ROW4668132017",
+        "copyright": "Autumn colours below Mount Sneffels near Ridgway, Colorado, United States (© Grant Ordelheide/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Mount+Sneffels&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251007_RidgwayAspens%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "23595b53a7f8f90f10ac1c092b1f71ad",
+        "hsh": "4ec6357d67114655ed48f1dbe20fedf0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "It's that time of year in the Northern Hemisphere when the hills shed their summer greens, unveiling a blaze of colours that lights up the season. The change usually begins in September and early October, with higher slopes turning first, followed by the lower valleys. Among the stars of this display are the aspens, whose leaves shimmer like gold coins in the sunlight. The magic of aspen colours, however, isn't guaranteed year after year. Their golden glow depends on many factors—tree health, local weather shifts, soil moisture and where they grow in terms of elevation and latitude.",
+                "Image": {
+                    "Url": "/th?id=OHR.RidgwayAspens_ROW4668132017_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RidgwayAspens_ROW4668132017_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Autumn colours below Mount Sneffels near Ridgway, Colorado, United States",
+                "Copyright": "© Grant Ordelheide/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251007_RidgwayAspens\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Mount+Sneffels&form=hpcapt&filters=HpDate:\"20251007_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251007_RidgwayAspens"
+            },
+            "Ssd": "20251007",
+            "Name": "RidgwayAspens",
+            "Market": "ROW",
+            "Hash": "4668132017",
+            "FullDateString": "7. Oct rrrr"
+        }
+    },
+    {
         "startdate": "20251006",
         "fullstartdate": "202510060700",
         "enddate": "20251007",

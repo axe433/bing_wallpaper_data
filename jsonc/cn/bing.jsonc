@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251007",
+        "fullstartdate": "202510071600",
+        "enddate": "20251008",
+        "url": "/th?id=OHR.OctopusCyanea_ZH-CN8948609460_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OctopusCyanea_ZH-CN8948609460",
+        "copyright": "白日章鱼, 毛伊岛, 夏威夷, 美国 (© Dave Fleetham/plainpicture)",
+        "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E7%AB%A0%E9%B1%BC%E6%97%A5&form=hpcapt&mkt=zh-cn",
+        "title": "动态伪装",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251007_OctopusCyanea%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2f71ff3230bfac86b3f504ab4be5a763",
+        "hsh": "73707cc9c1f2e5caf9baba35316c2866",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "八只触手，魅力十足，今天的主角是章鱼！值此世界章鱼日，当我们赞叹它们的智慧时，更要意识到：即便是这些海洋天才，也无法逃避气候变化和污染威胁。守护它们的家园，就是守护海洋的未来。",
+                "Image": {
+                    "Url": "/th?id=OHR.OctopusCyanea_ZH-CN8948609460_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OctopusCyanea_ZH-CN8948609460_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "动态伪装",
+                "Title": "白日章鱼, 毛伊岛, 夏威夷, 美国",
+                "Copyright": "© Dave Fleetham/plainpicture",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "章鱼能大幅改变身体形状，从而穿过极其狭窄的缝隙。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251008_OctopusCyanea\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e4%b8%96%e7%95%8c%e7%ab%a0%e9%b1%bc%e6%97%a5&form=hpcapt&filters=HpDate:\"20251007_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251008_OctopusCyanea"
+            },
+            "Ssd": "20251008",
+            "Name": "OctopusCyanea",
+            "Market": "ZH-CN",
+            "Hash": "8948609460",
+            "FullDateString": "2025 10月 8"
+        }
+    },
+    {
         "startdate": "20251006",
         "fullstartdate": "202510061600",
         "enddate": "20251007",

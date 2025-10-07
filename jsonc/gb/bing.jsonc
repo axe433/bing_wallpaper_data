@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251007",
+        "fullstartdate": "202510072300",
+        "enddate": "20251008",
+        "url": "/th?id=OHR.OctopusCyanea_EN-GB5018105251_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OctopusCyanea_EN-GB5018105251",
+        "copyright": "Day octopus, Maui, Hawaii, United States (© Dave Fleetham/plainpicture)",
+        "copyrightlink": "https://www.bing.com/search?q=world+octopus+day&form=hpcapt&filters=HpDate%3a%2220251007_2300%22",
+        "title": "Camouflage in motion",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251007_OctopusCyanea%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2f71ff3230bfac86b3f504ab4be5a763",
+        "hsh": "f5f3715031141a23051ced2ebb91cbd1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "With eight arms and plenty of charm, the octopus takes the spotlight today. On World Octopus Day, as we reflect on their brilliance, we're reminded that even these ocean geniuses can't outsmart threats like climate change and pollution. Protecting their homes means safeguarding the future of our seas.",
+                "Image": {
+                    "Url": "/th?id=OHR.OctopusCyanea_EN-GB5018105251_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OctopusCyanea_EN-GB5018105251_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Camouflage in motion",
+                "Title": "Day octopus, Maui, Hawaii, United States",
+                "Copyright": "© Dave Fleetham/plainpicture",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "An octopus can dramatically change the shape of its body, allowing it to pass through very narrow openings.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251008_OctopusCyanea\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=world+octopus+day&form=hpcapt&filters=HpDate:\"20251007_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251008_OctopusCyanea"
+            },
+            "Ssd": "20251008",
+            "Name": "OctopusCyanea",
+            "Market": "EN-GB",
+            "Hash": "5018105251",
+            "FullDateString": "8 Oct 2025"
+        }
+    },
+    {
         "startdate": "20251006",
         "fullstartdate": "202510062300",
         "enddate": "20251007",

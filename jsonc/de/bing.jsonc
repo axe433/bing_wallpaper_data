@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251007",
+        "fullstartdate": "202510072200",
+        "enddate": "20251008",
+        "url": "/th?id=OHR.OctopusCyanea_DE-DE3244013803_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OctopusCyanea_DE-DE3244013803",
+        "copyright": "Großer Blauer Krake, Maui, Hawaii, USA (© Dave Fleetham/plainpicture)",
+        "copyrightlink": "https://www.bing.com/search?q=Welttag+des+Oktopus&form=hpcapt&filters=HpDate%3a%2220251007_2200%22",
+        "title": "Tarnung in Bewegung",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251007_OctopusCyanea%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2f71ff3230bfac86b3f504ab4be5a763",
+        "hsh": "2eb32819701263bff053f9a5fddcc941",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Am 8. Oktober wird der Welttag des Oktopus gefeiert – ein Tag, der der Intelligenz, Anpassungsfähigkeit und Schönheit dieser faszinierenden Kopffüßer gewidmet ist. Ziel ist es, das Bewusstsein für den Meeresschutz zu stärken und den Respekt gegenüber Arten wie dem Oktopus zu fördern, die mit ihren kognitiven Fähigkeiten, ihrer Tarnkunst und ihrer wichtigen Rolle in marinen Ökosystemen beeindrucken. An diesem Tag werden oft spannende Fakten, Bilder und Bildungsaktivitäten geteilt, die das Leben unter Wasser feiern.",
+                "Image": {
+                    "Url": "/th?id=OHR.OctopusCyanea_DE-DE3244013803_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OctopusCyanea_DE-DE3244013803_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Tarnung in Bewegung",
+                "Title": "Großer Blauer Krake, Maui, Hawaii, USA",
+                "Copyright": "© Dave Fleetham/plainpicture",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Ein Oktopus kann die Form seines Körpers drastisch verändern, wodurch er durch sehr enge Öffnungen schlüpfen kann.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251008_OctopusCyanea\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Welttag+des+Oktopus&form=hpcapt&filters=HpDate:\"20251007_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251008_OctopusCyanea"
+            },
+            "Ssd": "20251008",
+            "Name": "OctopusCyanea",
+            "Market": "DE-DE",
+            "Hash": "3244013803",
+            "FullDateString": "8. Okt.. 2025"
+        }
+    },
+    {
         "startdate": "20251006",
         "fullstartdate": "202510062200",
         "enddate": "20251007",
