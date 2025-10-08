@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251008",
+        "fullstartdate": "202510082200",
+        "enddate": "20251009",
+        "url": "/th?id=OHR.WebbPillars_ES-ES0926278571_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WebbPillars_ES-ES0926278571",
+        "copyright": "Los pilares de la creación vistos por el telescopio espacial James Webb (© NASA)",
+        "copyrightlink": "https://www.bing.com/search?q=Pilares+de+la+creaci%C3%B3n&form=hpcapt&filters=HpDate%3a%2220251008_2200%22",
+        "title": "La nebulosa del Águila",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251008_WebbPillars%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "51850ffe308617abf05d9fc822823444",
+        "hsh": "f200b5c0457ab20d53893f3d28d69d6a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Con el cierre de la Semana Mundial del Espacio, el universo nos recuerda lo mucho que aún guarda por mostrarnos. Imagina nubes que no viajan por nuestro cielo, sino que se extienden en el espacio, dando cobijo al nacimiento de nuevas estrellas. Eso es lo que el Telescopio Espacial James Webb ha revelado con su impresionante imagen de los Pilares de la Creación, una visión de colores y detalles nunca antes observados.",
+                "Image": {
+                    "Url": "/th?id=OHR.WebbPillars_ES-ES0926278571_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WebbPillars_ES-ES0926278571_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La nebulosa del Águila",
+                "Title": "Los pilares de la creación vistos por el telescopio espacial James Webb",
+                "Copyright": "© NASA",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251009_WebbPillars\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Pilares+de+la+creaci%c3%b3n&form=hpcapt&filters=HpDate:\"20251008_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251009_WebbPillars"
+            },
+            "Ssd": "20251009",
+            "Name": "WebbPillars",
+            "Market": "ES-ES",
+            "Hash": "0926278571",
+            "FullDateString": "9 de oct. de 2025"
+        }
+    },
+    {
         "startdate": "20251007",
         "fullstartdate": "202510072200",
         "enddate": "20251008",

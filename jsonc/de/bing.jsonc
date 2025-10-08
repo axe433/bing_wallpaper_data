@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251008",
+        "fullstartdate": "202510082200",
+        "enddate": "20251009",
+        "url": "/th?id=OHR.WebbPillars_DE-DE3382075540_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WebbPillars_DE-DE3382075540",
+        "copyright": "Die Säulen der Schöpfung, betrachtet vom James-Webb-Weltraumteleskop (© NASA)",
+        "copyrightlink": "https://www.bing.com/search?q=S%C3%A4ulen+der+Sch%C3%B6pfung&form=hpcapt&filters=HpDate%3a%2220251008_2200%22",
+        "title": "Ein Universum in voller Blüte",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251008_WebbPillars%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "51850ffe308617abf05d9fc822823444",
+        "hsh": "f7f2b43a6b7b3ab7b6e2ffdbd1f93745",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Es ist bereits der 9. Oktober und die Internationale Weltraumwoche neigt sich dem Ende zu. Die vergangenen Tage brachten eine Fülle an Erkenntnissen, eindrucksvollen Aufnahmen und neuen Perspektiven auf unsere Stellung im Universum. Zum krönenden Abschluss richten wir heute unseren Blick auf eine der ikonischsten Ansichten des Kosmos: die majestätischen Säulen der Schöpfung, die vom James-Webb-Weltraumteleskop eingefangen wurden.",
+                "Image": {
+                    "Url": "/th?id=OHR.WebbPillars_DE-DE3382075540_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WebbPillars_DE-DE3382075540_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ein Universum in voller Blüte",
+                "Title": "Die Säulen der Schöpfung, betrachtet vom James-Webb-Weltraumteleskop",
+                "Copyright": "© NASA",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Der Name „Pillars of Creation“ geht auf eine Predigt von Charles Spurgeon (1857) zurück und symbolisiert göttliche, kosmische Grundlagen.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251009_WebbPillars\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=S%c3%a4ulen+der+Sch%c3%b6pfung&form=hpcapt&filters=HpDate:\"20251008_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251009_WebbPillars"
+            },
+            "Ssd": "20251009",
+            "Name": "WebbPillars",
+            "Market": "DE-DE",
+            "Hash": "3382075540",
+            "FullDateString": "9. Okt.. 2025"
+        }
+    },
+    {
         "startdate": "20251007",
         "fullstartdate": "202510072200",
         "enddate": "20251008",

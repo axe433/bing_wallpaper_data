@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251008",
+        "fullstartdate": "202510082200",
+        "enddate": "20251009",
+        "url": "/th?id=OHR.WebbPillars_IT-IT0673029544_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WebbPillars_IT-IT0673029544",
+        "copyright": "I Pilastri della Creazione visti dal telescopio spaziale James Webb (© NASA)",
+        "copyrightlink": "https://www.bing.com/search?q=Pilastri+della+Creazione&form=hpcapt",
+        "title": "Universo in Fiore",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251008_WebbPillars%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "51850ffe308617abf05d9fc822823444",
+        "hsh": "d53abd3d3f8d640824fcec6155a748e4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "L’universo si svela lentamente, tra polveri luminose e silenzi millenari. Non sono nuvole quelle che scorrono lassù, ma veli di polvere cosmica che attraversano lo spazio, cullando la nascita di nuove stelle. È questo lo spettacolo che il telescopio spaziale James Webb della NASA ci ha regalato: una visione dei Pilastri della Creazione come mai prima d’ora, con colori e dettagli che sfiorano l’incredibile. Queste strutture maestose, simili a guglie che si innalzano dal basso a sinistra verso l’alto a destra, sono fatte quasi interamente di gas e polvere: la materia prima delle stelle.",
+                "Image": {
+                    "Url": "/th?id=OHR.WebbPillars_IT-IT0673029544_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WebbPillars_IT-IT0673029544_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Universo in Fiore",
+                "Title": "I Pilastri della Creazione visti dal telescopio spaziale James Webb",
+                "Copyright": "© NASA",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Il nome Pilastri della Creazione della NASA risale al sermone del predicatore battista inglese Charles Spurgeon del 1857, che simboleggiava le fondamenta cosmiche divine.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251009_WebbPillars\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Pilastri+della+Creazione&form=hpcapt&filters=HpDate:\"20251008_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251009_WebbPillars"
+            },
+            "Ssd": "20251009",
+            "Name": "WebbPillars",
+            "Market": "IT-IT",
+            "Hash": "0673029544",
+            "FullDateString": "9 ottobre 2025"
+        }
+    },
+    {
         "startdate": "20251007",
         "fullstartdate": "202510072200",
         "enddate": "20251008",

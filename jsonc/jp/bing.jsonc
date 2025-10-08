@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251008",
+        "fullstartdate": "202510081500",
+        "enddate": "20251009",
+        "url": "/th?id=OHR.WebbPillars_JA-JP7847589500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WebbPillars_JA-JP7847589500",
+        "copyright": "ジェームズ・ウェッブ宇宙望遠鏡が撮影した創造の柱 (© NASA)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%89%B5%E9%80%A0%E3%81%AE%E6%9F%B1&form=hpcapt&filters=HpDate%3a%2220251008_1500%22",
+        "title": "10 月 4 日から 10 日まで世界宇宙週間",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251008_WebbPillars%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "51850ffe308617abf05d9fc822823444",
+        "hsh": "b2ff55297b8031168270c7e261b2282d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日の画像は、NASA のジェームズ・ウェッブ宇宙望遠鏡が、2022 年 10 月に赤外線波長で捉えた「創造の柱」です。1995 年に、ハッブル宇宙望遠鏡が初めて撮影した「創造の柱」は、世界でもっとも有名な天体画像の一つといわれています。柱のように見えるガスと塵が新しい恒星を創造し、近隣の恒星の光に侵食されている様子から名付けられました…",
+                "Image": {
+                    "Url": "/th?id=OHR.WebbPillars_JA-JP7847589500_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WebbPillars_JA-JP7847589500_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "10 月 4 日から 10 日まで世界宇宙週間",
+                "Title": "ジェームズ・ウェッブ宇宙望遠鏡が撮影した創造の柱",
+                "Copyright": "© NASA",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "創造の柱は、星間ガスと塵から成り立っており、新しい恒星が形成される過程を示しています。ハッブル宇宙望遠鏡やジェームズ・ウェッブ宇宙望遠鏡によって撮影された高画質画像により、その詳細が知られています。",
+                    "LinkUrl": "/search?q=%e5%89%b5%e9%80%a0%e3%81%ae%e6%9f%b1%e3%81%af%e5%ae%87%e5%ae%99%e3%81%ae%e3%81%a9%e3%81%93%e3%81%ab%e3%81%82%e3%82%8b%ef%bc%9f&form=hpvsfa",
+                    "LinkText": "創造の柱は宇宙のどこにある？"
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251009_WebbPillars\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%89%b5%e9%80%a0%e3%81%ae%e6%9f%b1&form=hpcapt&filters=HpDate:\"20251008_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251009_WebbPillars"
+            },
+            "Ssd": "20251009",
+            "Name": "WebbPillars",
+            "Market": "JA-JP",
+            "Hash": "7847589500",
+            "FullDateString": "2025 年 10月 月 9 日"
+        }
+    },
+    {
         "startdate": "20251007",
         "fullstartdate": "202510071500",
         "enddate": "20251008",

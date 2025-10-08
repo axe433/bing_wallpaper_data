@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251008",
+        "fullstartdate": "202510082200",
+        "enddate": "20251009",
+        "url": "/th?id=OHR.WebbPillars_FR-FR1852034040_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WebbPillars_FR-FR1852034040",
+        "copyright": "Les Piliers de la Création vus par le télescope spatial James Webb (© NASA)",
+        "copyrightlink": "https://www.bing.com/search?q=Piliers+de+la+cr%C3%A9ation&form=hpcapt&filters=HpDate%3a%2220251008_2200%22",
+        "title": "Les cathédrales du cosmos",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251008_WebbPillars%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "51850ffe308617abf05d9fc822823444",
+        "hsh": "c66d6f3e4bc06db788b47f32c23a1c7e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Alors que la Semaine mondiale de l’espace s’achève, le ciel nous offre un dernier frisson d’émerveillement. Dans l’immensité silencieuse du cosmos, les Piliers de la Création s’élèvent comme des cathédrales de poussière et de gaz. Sculptés par les vents stellaires dans la nébuleuse de l’Aigle, à 6 500 années-lumière, ils forment un berceau où naissent les étoiles. Grâce au télescope spatial James Webb, leur silhouette apparaît avec une clarté inédite : des colonnes dorées, des ombres profondes et des éclats lumineux au bord des nuages.",
+                "Image": {
+                    "Url": "/th?id=OHR.WebbPillars_FR-FR1852034040_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WebbPillars_FR-FR1852034040_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Les cathédrales du cosmos",
+                "Title": "Les Piliers de la Création vus par le télescope spatial James Webb",
+                "Copyright": "© NASA",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Le nom biblique « Piliers de la Création » désigne les colonnes de gaz et de poussières où naissent les étoiles, dans la nébuleuse de l’Aigle.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251009_WebbPillars\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Piliers+de+la+cr%c3%a9ation&form=hpcapt&filters=HpDate:\"20251008_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251009_WebbPillars"
+            },
+            "Ssd": "20251009",
+            "Name": "WebbPillars",
+            "Market": "FR-FR",
+            "Hash": "1852034040",
+            "FullDateString": "9 oct. 2025"
+        }
+    },
+    {
         "startdate": "20251007",
         "fullstartdate": "202510072200",
         "enddate": "20251008",
