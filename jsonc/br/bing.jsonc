@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251009",
+        "fullstartdate": "202510090300",
+        "enddate": "20251010",
+        "url": "/th?id=OHR.WebbPillars_PT-BR6044828934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WebbPillars_PT-BR6044828934",
+        "copyright": "Pilares da Criação vistos pelo Telescópio Espacial James Webb (© NASA)",
+        "copyrightlink": "https://www.bing.com/search?q=Pilares+da+Cria%C3%A7%C3%A3o&form=hpcapt&mkt=pt-br",
+        "title": "As torres do espaço",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251009_WebbPillars%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "51850ffe308617abf05d9fc822823444",
+        "hsh": "787c32976b7577497edf2f3f71c4a216",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "À medida que a Semana Mundial do Espaço chega ao fim, o cosmos continua nos inspirando a olhar para cima com admiração. Imagine nuvens que não flutuam pelo céu, mas se estendem pelo próprio espaço e embalam o nascimento de novas estrelas. É exatamente isso que o Telescópio Espacial James Webb, da NASA, revelou ao fotografar os Pilares da Criação, mostrados na imagem do dia com cores e detalhes jamais vistos.",
+                "Image": {
+                    "Url": "/th?id=OHR.WebbPillars_PT-BR6044828934_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WebbPillars_PT-BR6044828934_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "As torres do espaço",
+                "Title": "Pilares da Criação vistos pelo Telescópio Espacial James Webb",
+                "Copyright": "© NASA",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251009_WebbPillars\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Pilares+da+Cria%c3%a7%c3%a3o&form=hpcapt&filters=HpDate:\"20251009_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251009_WebbPillars"
+            },
+            "Ssd": "20251009",
+            "Name": "WebbPillars",
+            "Market": "PT-BR",
+            "Hash": "6044828934",
+            "FullDateString": "9 out. 2025"
+        }
+    },
+    {
         "startdate": "20251008",
         "fullstartdate": "202510080300",
         "enddate": "20251009",

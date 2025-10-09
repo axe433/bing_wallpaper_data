@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251009",
+        "fullstartdate": "202510092200",
+        "enddate": "20251010",
+        "url": "/th?id=OHR.MonurikiFiji_ES-ES0990792283_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MonurikiFiji_ES-ES0990792283",
+        "copyright": "Arrecife de coral que rodea la isla de Monuriki, Islas Mamanuca, Fiyi (© David Wall/SuperStock)",
+        "copyrightlink": "https://www.bing.com/search?q=Monuriki&form=hpcapt&filters=HpDate%3a%2220251009_2200%22",
+        "title": "Un arrecife de reflexión",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251009_MonurikiFiji%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "545297cd85cca881842cff2fac0e88e1",
+        "hsh": "3c13375e5b49a68cebe8e45fa126d51b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Algunas fechas en la historia tienen un doble significado, y el 10 de octubre en Fiyi es una de ellas. Ese día, en 1874, las islas pasaron a ser colonia británica. Exactamente 96 años después, en 1970, la misma fecha marcó el inicio de su independencia y el izado de la bandera nacional. Desde entonces, el Día de Fiyi se celebra con un espíritu que combina reflexión y alegría.",
+                "Image": {
+                    "Url": "/th?id=OHR.MonurikiFiji_ES-ES0990792283_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MonurikiFiji_ES-ES0990792283_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un arrecife de reflexión",
+                "Title": "Arrecife de coral que rodea la isla de Monuriki, Islas Mamanuca, Fiyi",
+                "Copyright": "© David Wall/SuperStock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251010_MonurikiFiji\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Monuriki&form=hpcapt&filters=HpDate:\"20251009_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251010_MonurikiFiji"
+            },
+            "Ssd": "20251010",
+            "Name": "MonurikiFiji",
+            "Market": "ES-ES",
+            "Hash": "0990792283",
+            "FullDateString": "10 de oct. de 2025"
+        }
+    },
+    {
         "startdate": "20251008",
         "fullstartdate": "202510082200",
         "enddate": "20251009",

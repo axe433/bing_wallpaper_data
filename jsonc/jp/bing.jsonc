@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251009",
+        "fullstartdate": "202510091500",
+        "enddate": "20251010",
+        "url": "/th?id=OHR.MonurikiFiji_JA-JP7889877935_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MonurikiFiji_JA-JP7889877935",
+        "copyright": "モンリキ島, フィジー (© David Wall/SuperStock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%A2%E3%83%B3%E3%83%AA%E3%82%AD%E5%B3%B6&form=hpcapt&filters=HpDate%3a%2220251009_1500%22",
+        "title": "今日はフィジー共和国の独立記念日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251009_MonurikiFiji%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "545297cd85cca881842cff2fac0e88e1",
+        "hsh": "9c2db10160a805df054ec826cfa1f6b4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日、10 月 10 日は、フィジー共和国の独立記念日です。南太平洋に位置するこの群島国家は、1970 年の今日、イギリスから独立しました。国民は、国旗と同じ水色の服を着用して記念日を祝い、主要な街の通りではパレードが行われます。また、各地の村では民族舞踊が披露され、肉や野菜を地中で蒸し上げる伝統料理「ロボ」などが振る舞われます…",
+                "Image": {
+                    "Url": "/th?id=OHR.MonurikiFiji_JA-JP7889877935_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MonurikiFiji_JA-JP7889877935_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日はフィジー共和国の独立記念日",
+                "Title": "モンリキ島, フィジー",
+                "Copyright": "© David Wall/SuperStock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-17.608665,177.033861/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=-17.608665,177.033861;S9;モンリキ島, フィジー&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Monuriki%20island%20Fiji&satid=id.sid%3A46de7184-71cb-c811-cff3-32561cc4a4a7&vdpid=8861089689071779841&mb=-17.60644~177.029144~-17.612365~177.040802&cardbg=%23F98745&dt=1755873000000&tt=Monuriki%2C%20Western%20Division%2C%20Fiji&tsts0=%2526ty%253D30%2526q%253DMonuriki%252520island%252520Fiji%2526satid%253Did.sid%25253A46de7184-71cb-c811-cff3-32561cc4a4a7%2526vdpid%253D8861089689071779841%2526mb%253D-17.60644~177.029144~-17.612365~177.040802%2526cardbg%253D%252523F98745%2526dt%253D1755873000000&tstt0=Monuriki%2C%20Western%20Division%2C%20Fiji&cp=-16.16649~164.638495&lvl=5.599889&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251010_MonurikiFiji\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%a2%e3%83%b3%e3%83%aa%e3%82%ad%e5%b3%b6&form=hpcapt&filters=HpDate:\"20251009_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251010_MonurikiFiji"
+            },
+            "Ssd": "20251010",
+            "Name": "MonurikiFiji",
+            "Market": "JA-JP",
+            "Hash": "7889877935",
+            "FullDateString": "2025 年 10月 月 10 日"
+        }
+    },
+    {
         "startdate": "20251008",
         "fullstartdate": "202510081500",
         "enddate": "20251009",

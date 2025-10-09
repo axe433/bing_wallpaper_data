@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251009",
+        "fullstartdate": "202510090400",
+        "enddate": "20251010",
+        "url": "/th?id=OHR.WebbPillars_EN-CA8021988309_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WebbPillars_EN-CA8021988309",
+        "copyright": "The Pillars of Creation viewed by the James Webb Space Telescope (© NASA)",
+        "copyrightlink": "https://www.bing.com/search?q=Pillars+of+Creation&form=hpcapt&filters=HpDate%3a%2220251009_0400%22",
+        "title": "Universe in bloom",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251009_WebbPillars%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "51850ffe308617abf05d9fc822823444",
+        "hsh": "27acdb490f0eaa26e4c4c4a035b12697",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "As World Space Week draws to a close, the cosmos continues to give us reasons to look up in awe. Picture clouds—not drifting across our skies, but stretching across space itself, cradling the birth of new stars. That's exactly what NASA's James Webb Space Telescope has revealed in its view of the Pillars of Creation—shown here—with colours and details unlike anything seen before.",
+                "Image": {
+                    "Url": "/th?id=OHR.WebbPillars_EN-CA8021988309_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WebbPillars_EN-CA8021988309_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Universe in bloom",
+                "Title": "The Pillars of Creation viewed by the James Webb Space Telescope",
+                "Copyright": "© NASA",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "NASA's 'Pillars of Creation' name traces back to English Baptist preacher Charles Spurgeon's 1857 sermon, symbolising divine cosmic foundations.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251009_WebbPillars\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Pillars+of+Creation&form=hpcapt&filters=HpDate:\"20251009_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251009_WebbPillars"
+            },
+            "Ssd": "20251009",
+            "Name": "WebbPillars",
+            "Market": "EN-CA",
+            "Hash": "8021988309",
+            "FullDateString": "Oct. 9, 2025"
+        }
+    },
+    {
         "startdate": "20251008",
         "fullstartdate": "202510080400",
         "enddate": "20251009",
