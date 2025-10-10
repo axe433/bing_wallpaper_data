@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251010",
+        "fullstartdate": "202510100300",
+        "enddate": "20251011",
+        "url": "/th?id=OHR.MonurikiFiji_PT-BR5100753810_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MonurikiFiji_PT-BR5100753810",
+        "copyright": "Recife de coral ao redor de Monuriki, Ilhas Mamanuca, Fiji (© David Wall/SuperStock)",
+        "copyrightlink": "https://www.bing.com/search?q=Ilhas+Mamanuca&form=hpcapt&mkt=pt-br",
+        "title": "Cenários de cinema e realidade",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251010_MonurikiFiji%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "545297cd85cca881842cff2fac0e88e1",
+        "hsh": "de07aef3b8a092d8232b4e78be794068",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Na imagem, vemos a ilha de Monuriki, uma pérola escondida no arquipélago de Mamanuca, em Fiji, no Oceano Pacífico Sul. Cercada por um recife de coral vibrante, essa pequena ilha — que mede cerca de um quilômetro de comprimento por 600 metros de largura — é famosa tanto por sua paisagem intocada quanto por ter sido cenário do filme “Náufrago”. Embora não tenha moradores, está longe de ser sem vida: seus recifes funcionam como uma fortaleza natural, protegendo a ilha das tempestades e abrigando uma rica diversidade marinha.",
+                "Image": {
+                    "Url": "/th?id=OHR.MonurikiFiji_PT-BR5100753810_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MonurikiFiji_PT-BR5100753810_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Cenários de cinema e realidade",
+                "Title": "Recife de coral ao redor de Monuriki, Ilhas Mamanuca, Fiji",
+                "Copyright": "© David Wall/SuperStock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251010_MonurikiFiji\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ilhas+Mamanuca&form=hpcapt&filters=HpDate:\"20251010_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251010_MonurikiFiji"
+            },
+            "Ssd": "20251010",
+            "Name": "MonurikiFiji",
+            "Market": "PT-BR",
+            "Hash": "5100753810",
+            "FullDateString": "10 out. 2025"
+        }
+    },
+    {
         "startdate": "20251009",
         "fullstartdate": "202510090300",
         "enddate": "20251010",

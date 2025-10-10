@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251010",
+        "fullstartdate": "202510102200",
+        "enddate": "20251011",
+        "url": "/th?id=OHR.WoodDuckHen_ES-ES1058654365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WoodDuckHen_ES-ES1058654365",
+        "copyright": "El pato joyuyo, EE. UU. (© ps50ace/iStock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+Mundial+de+las+Aves+Migratorias&form=hpcapt&filters=HpDate%3a%2220251010_2200%22",
+        "title": "Próxima parada: ¡España!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251010_WoodDuckHen%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5fbe54dbe48f6c775832b55fcbf9765b",
+        "hsh": "36916a4cce694f5c91a313cfdf4b823d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Las aves no necesitan pasaportes ni maletas: solo extienden sus alas y parten. Dos veces al año, miles de millones de aves migratorias cruzan continentes en un viaje épico entre zonas de cría e invernada. Precisamente esto celebra el Día Mundial de las Aves Migratorias, que se conmemora el segundo sábado de mayo y de octubre.",
+                "Image": {
+                    "Url": "/th?id=OHR.WoodDuckHen_ES-ES1058654365_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WoodDuckHen_ES-ES1058654365_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Próxima parada: ¡España!",
+                "Title": "El pato joyuyo, EE. UU.",
+                "Copyright": "© ps50ace/iStock/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251011_WoodDuckHen\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=D%c3%ada+Mundial+de+las+Aves+Migratorias&form=hpcapt&filters=HpDate:\"20251010_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251011_WoodDuckHen"
+            },
+            "Ssd": "20251011",
+            "Name": "WoodDuckHen",
+            "Market": "ES-ES",
+            "Hash": "1058654365",
+            "FullDateString": "11 de oct. de 2025"
+        }
+    },
+    {
         "startdate": "20251009",
         "fullstartdate": "202510092200",
         "enddate": "20251010",

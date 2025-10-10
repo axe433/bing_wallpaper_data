@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251010",
+        "fullstartdate": "202510102200",
+        "enddate": "20251011",
+        "url": "/th?id=OHR.WoodDuckHen_FR-FR2128757864_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WoodDuckHen_FR-FR2128757864",
+        "copyright": "Cane branchu, États-Unis (© ps50ace/iStock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+mondiale+des+oiseaux+migrateurs+&form=hpcapt&filters=HpDate%3a%2220251010_2200%22",
+        "title": "Prochain arrêt : le Sud !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251010_WoodDuckHen%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5fbe54dbe48f6c775832b55fcbf9765b",
+        "hsh": "60ee380f49ef5ee69aa472c0e5814531",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Un matin d’automne, une cane branchu fend les eaux cuivrées d’un lac nord-américain. Ses plumes irisées rappellent les vitraux des cathédrales, éclats fragiles qui scintillent entre les roseaux. Comme tant d’autres voyageurs ailés, elle suit les chemins invisibles du ciel, fil d’Ariane reliant les forêts canadiennes aux marécages du Sud.",
+                "Image": {
+                    "Url": "/th?id=OHR.WoodDuckHen_FR-FR2128757864_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WoodDuckHen_FR-FR2128757864_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Prochain arrêt : le Sud !",
+                "Title": "Cane branchu, États-Unis",
+                "Copyright": "© ps50ace/iStock/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Seul le canard branchu peut avoir deux couvées par saison.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251011_WoodDuckHen\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Journ%c3%a9e+mondiale+des+oiseaux+migrateurs+&form=hpcapt&filters=HpDate:\"20251010_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251011_WoodDuckHen"
+            },
+            "Ssd": "20251011",
+            "Name": "WoodDuckHen",
+            "Market": "FR-FR",
+            "Hash": "2128757864",
+            "FullDateString": "11 oct. 2025"
+        }
+    },
+    {
         "startdate": "20251009",
         "fullstartdate": "202510092200",
         "enddate": "20251010",

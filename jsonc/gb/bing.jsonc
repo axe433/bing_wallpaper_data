@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251010",
+        "fullstartdate": "202510102300",
+        "enddate": "20251011",
+        "url": "/th?id=OHR.WoodDuckHen_EN-GB5445479640_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WoodDuckHen_EN-GB5445479640",
+        "copyright": "Wood duck hen, United States (© ps50ace/iStock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=World+Migratory+Bird+Day&form=hpcapt&filters=HpDate%3a%2220251010_2300%22",
+        "title": "Nest stop: Mexico!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251010_WoodDuckHen%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5fbe54dbe48f6c775832b55fcbf9765b",
+        "hsh": "eb422546d8a9c54700a1028b19eac874",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Birds don't bother with passports, visas or luggage—they just spread their wings and go. Twice a year, billions of migratory birds crisscross the globe, flying thousands of miles between breeding and wintering grounds. That epic commute is exactly what World Migratory Bird Day highlights. From the Arctic tern, which logs about 44,000 miles a year, to the tiny ruby-throated hummingbird crossing the Gulf of Mexico in a single flight, these seasonal fliers show what endurance really looks like. Observed on the second Saturday in May and October, the day also draws attention to the challenges migratory birds face: habitat loss, climate change and light pollution can all disrupt their routes.",
+                "Image": {
+                    "Url": "/th?id=OHR.WoodDuckHen_EN-GB5445479640_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WoodDuckHen_EN-GB5445479640_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Nest stop: Mexico!",
+                "Title": "Wood duck hen, United States",
+                "Copyright": "© ps50ace/iStock/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Wood ducks are the only North American duck species capable of raising two broods in a single season.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251011_WoodDuckHen\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=World+Migratory+Bird+Day&form=hpcapt&filters=HpDate:\"20251010_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251011_WoodDuckHen"
+            },
+            "Ssd": "20251011",
+            "Name": "WoodDuckHen",
+            "Market": "EN-GB",
+            "Hash": "5445479640",
+            "FullDateString": "11 Oct 2025"
+        }
+    },
+    {
         "startdate": "20251009",
         "fullstartdate": "202510092300",
         "enddate": "20251010",

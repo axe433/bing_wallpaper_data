@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251010",
+        "fullstartdate": "202510100400",
+        "enddate": "20251011",
+        "url": "/th?id=OHR.MonurikiFiji_EN-CA8167749404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MonurikiFiji_EN-CA8167749404",
+        "copyright": "Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock)",
+        "copyrightlink": "https://www.bing.com/search?q=Fiji+Day&form=hpcapt&filters=HpDate%3a%2220251010_0400%22",
+        "title": "A reef of reflection",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251010_MonurikiFiji%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "545297cd85cca881842cff2fac0e88e1",
+        "hsh": "5ce922129c11a8bd40cc88705acd66c4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Some dates mark a single milestone—Fiji's October 10 marks two. On that day in 1874, the islands officially became a British colony. Almost a century later, in 1970, the same date saw Fiji raise its own flag and declare independence. Fiji Day is a unique national holiday—part reflection, part celebration. The day begins with formal ceremonies, where the Fijian flag is hoisted and leaders deliver speeches. Schools and community groups often stage reenactments and performances. Streets fill with parades, villages host cultural dances like the meke and rugby pitches come alive with matches. Families prepare traditional dishes like lovo, where meat and root crops are cooked underground, and kokoda, a citrus-marinated fish dish.",
+                "Image": {
+                    "Url": "/th?id=OHR.MonurikiFiji_EN-CA8167749404_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MonurikiFiji_EN-CA8167749404_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A reef of reflection",
+                "Title": "Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji",
+                "Copyright": "© David Wall/SuperStock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-17.60889,177.0339/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=-17.60889,177.0339;S9;Monuriki, Western Division, Fiji&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Monuriki%20island%20Fiji&satid=id.sid%3A46de7184-71cb-c811-cff3-32561cc4a4a7&vdpid=8861089689071779841&mb=-17.60644~177.029144~-17.612365~177.040802&cardbg=%23F98745&dt=1755873000000&tt=Monuriki%2C%20Western%20Division%2C%20Fiji&tsts0=%2526ty%253D30%2526q%253DMonuriki%252520island%252520Fiji%2526satid%253Did.sid%25253A46de7184-71cb-c811-cff3-32561cc4a4a7%2526vdpid%253D8861089689071779841%2526mb%253D-17.60644~177.029144~-17.612365~177.040802%2526cardbg%253D%252523F98745%2526dt%253D1755873000000&tstt0=Monuriki%2C%20Western%20Division%2C%20Fiji&cp=-16.16649~164.638495&lvl=5.599889&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251010_MonurikiFiji\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Fiji+Day&form=hpcapt&filters=HpDate:\"20251010_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251010_MonurikiFiji"
+            },
+            "Ssd": "20251010",
+            "Name": "MonurikiFiji",
+            "Market": "EN-CA",
+            "Hash": "8167749404",
+            "FullDateString": "Oct. 10, 2025"
+        }
+    },
+    {
         "startdate": "20251009",
         "fullstartdate": "202510090400",
         "enddate": "20251010",
