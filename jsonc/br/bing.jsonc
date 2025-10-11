@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251011",
+        "fullstartdate": "202510110300",
+        "enddate": "20251012",
+        "url": "/th?id=OHR.WoodDuckHen_PT-BR4872632595_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WoodDuckHen_PT-BR4872632595",
+        "copyright": "Fêmea de pato-carolino, Estados Unidos (© ps50ace/iStock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+Mundial+das+Aves+Migrat%C3%B3rias&form=hpcapt&mkt=pt-br",
+        "title": "Voos sem fronteiras",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251011_WoodDuckHen%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5fbe54dbe48f6c775832b55fcbf9765b",
+        "hsh": "04b8050d44363d1a3b5d6a2b5d30a238",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Os pássaros não precisam de passaporte nem mala — podem simplesmente abrir as asas e partir. Duas vezes por ano, bilhões de aves migratórias cruzam o planeta, voando milhares de quilômetros entre locais de reprodução e regiões mais quentes para passar o inverno. Essa jornada impressionante é celebrada no Dia Mundial das Aves Migratórias, realizado no segundo sábado de maio e outubro.",
+                "Image": {
+                    "Url": "/th?id=OHR.WoodDuckHen_PT-BR4872632595_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WoodDuckHen_PT-BR4872632595_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Voos sem fronteiras",
+                "Title": "Fêmea de pato-carolino, Estados Unidos",
+                "Copyright": "© ps50ace/iStock/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251011_WoodDuckHen\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dia+Mundial+das+Aves+Migrat%c3%b3rias&form=hpcapt&filters=HpDate:\"20251011_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251011_WoodDuckHen"
+            },
+            "Ssd": "20251011",
+            "Name": "WoodDuckHen",
+            "Market": "PT-BR",
+            "Hash": "4872632595",
+            "FullDateString": "11 out. 2025"
+        }
+    },
+    {
         "startdate": "20251010",
         "fullstartdate": "202510100300",
         "enddate": "20251011",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251011",
+        "fullstartdate": "202510111600",
+        "enddate": "20251012",
+        "url": "/th?id=OHR.SaranacLake_ZH-CN0224689397_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SaranacLake_ZH-CN0224689397",
+        "copyright": "萨拉纳克湖村，阿迪朗达克山脉，纽约州，美国 (© DenisTangneyJr/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E8%90%A8%E6%8B%89%E7%BA%B3%E5%85%8B%E6%B9%96%E6%9D%91&form=hpcapt&mkt=zh-cn",
+        "title": "爱上萨拉纳克",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251011_SaranacLake%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cdc1757c0ef57f795c03d4897e81f19e",
+        "hsh": "dfb0df066511e0ce18f7f3d1b668a2b2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "有些地方只是地图上的一个点，但萨拉纳克湖却是一年四季都吸引游客的热门目的地。尽管名字里带“湖”，这个小镇并不直接坐落在萨拉纳克湖群边，而是位于萨拉纳克河的一段宽阔水域——弗劳尔湖畔。几个世纪以来，这片被称为“阿迪朗达克之都”的地方，一直是原住民狩猎和迁徙的要地。到19世纪末，这里因成为疗养胜地而声名鹊起，爱德华·李文斯顿·特鲁多医生在此开创了肺结核的新鲜空气疗法。那一时期的“疗养小屋”至今依然保存完好。",
+                "Image": {
+                    "Url": "/th?id=OHR.SaranacLake_ZH-CN0224689397_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SaranacLake_ZH-CN0224689397_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "爱上萨拉纳克",
+                "Title": "萨拉纳克湖村，阿迪朗达克山脉，纽约州，美国",
+                "Copyright": "© DenisTangneyJr/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "在纽约阿迪朗达克山脉附近，分布着200多个有名字的湖泊，以及超过3,000个小型湖泊、池塘和其他水域。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251012_SaranacLake\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e8%90%a8%e6%8b%89%e7%ba%b3%e5%85%8b%e6%b9%96%e6%9d%91&form=hpcapt&filters=HpDate:\"20251011_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251012_SaranacLake"
+            },
+            "Ssd": "20251012",
+            "Name": "SaranacLake",
+            "Market": "ZH-CN",
+            "Hash": "0224689397",
+            "FullDateString": "2025 10月 12"
+        }
+    },
+    {
         "startdate": "20251010",
         "fullstartdate": "202510101600",
         "enddate": "20251011",
