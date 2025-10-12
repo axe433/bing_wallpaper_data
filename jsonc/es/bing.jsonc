@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251012",
+        "fullstartdate": "202510122200",
+        "enddate": "20251013",
+        "url": "/th?id=OHR.HinterseeWaterfall_ES-ES0526830866_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HinterseeWaterfall_ES-ES0526830866",
+        "copyright": "Desfiladero Wimbachklamm en el valle Wimbachtal, Ramsau bei Berchtesgaden, Baviera, Alemania (© EyeEm Mobile GmbH/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Baviera+Alemania&form=hpcapt&filters=HpDate%3a%2220251012_2200%22",
+        "title": "¡Respira aire puro!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251012_HinterseeWaterfall%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4997f27a0e710c8ebc3f22555c21ec35",
+        "hsh": "520eca6eaa7ad16c60b745e46911ee0b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Empinadas gargantas rocosas, aguas turbulentas y un paisaje que parece un cuadro: el Wimbachklamm, cerca de Ramsau, en el Parque Nacional de Berchtesgaden, es una de las gargantas más impresionantes de Baviera, Alemania. El Wimbach recorre unos 200 metros entre estrechas formaciones rocosas, cayendo en pequeñas cascadas y creando con el tiempo patrones sorprendentes en la piedra. Las capas de roca, de vivos colores, cuentan historias geológicas de miles de años.",
+                "Image": {
+                    "Url": "/th?id=OHR.HinterseeWaterfall_ES-ES0526830866_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HinterseeWaterfall_ES-ES0526830866_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "¡Respira aire puro!",
+                "Title": "Desfiladero Wimbachklamm en el valle Wimbachtal, Ramsau bei Berchtesgaden, Baviera, Alemania",
+                "Copyright": "© EyeEm Mobile GmbH/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251013_HinterseeWaterfall\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Baviera+Alemania&form=hpcapt&filters=HpDate:\"20251012_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251013_HinterseeWaterfall"
+            },
+            "Ssd": "20251013",
+            "Name": "HinterseeWaterfall",
+            "Market": "ES-ES",
+            "Hash": "0526830866",
+            "FullDateString": "13 de oct. de 2025"
+        }
+    },
+    {
         "startdate": "20251011",
         "fullstartdate": "202510112200",
         "enddate": "20251012",

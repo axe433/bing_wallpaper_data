@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251012",
+        "fullstartdate": "202510122200",
+        "enddate": "20251013",
+        "url": "/th?id=OHR.HinterseeWaterfall_IT-IT9638907457_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HinterseeWaterfall_IT-IT9638907457",
+        "copyright": "Cascata a Hintersee, Baviera, Germania (© EyeEm Mobile GmbH/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Hintersee+Lago+tedesco&form=hpcapt",
+        "title": "L'eco dell'acqua",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251012_HinterseeWaterfall%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4997f27a0e710c8ebc3f22555c21ec35",
+        "hsh": "36e79f89b3b4a8082080144548cbc66f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Gole vertiginose, acque che sussurrano e un paesaggio degno di un dipinto: la Wimbachklamm, vicino a Ramsau, nel cuore del Parco Nazionale di Berchtesgaden, è tra le meraviglie più affascinanti della Baviera, nella Germania meridionale. Per circa 200 metri, il torrente Wimbach si insinua tra strette pareti rocciose, si tuffa in cascate scintillanti e, nel suo lento passaggio, ha scolpito forme sorprendenti nella pietra. Gli strati di roccia, dalle sfumature cangianti, raccontano storie geologiche che affondano le radici in millenni di trasformazioni. Passerelle in legno, sicure e ben integrate nel paesaggio, accompagnano il visitatore lungo la gola, offrendo scorci ravvicinati sulle pareti scolpite dall’acqua.",
+                "Image": {
+                    "Url": "/th?id=OHR.HinterseeWaterfall_IT-IT9638907457_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HinterseeWaterfall_IT-IT9638907457_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "L'eco dell'acqua",
+                "Title": "Cascata a Hintersee, Baviera, Germania",
+                "Copyright": "© EyeEm Mobile GmbH/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.603287,12.921987/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=47.603287,12.921987;S9;Hintersee, Baviera, Germania&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Wimbachklamm&ss=ypid.YN6740x3579143722688295497&mb=47.607791~12.912143~47.598777~12.93182&description=Rotheben%202%20%C2%B7%2083486%20Ramsau%20bei%20Berchtesgaden%C2%B7Aussichtspunkt&cardbg=%23219AB6&dt=1757422800000&tt=Wimbachklamm&tsts0=%2526ty%253D18%2526q%253DWimbachklamm%2526ss%253Dypid.YN6740x3579143722688295497%2526mb%253D47.607791~12.912143~47.598777~12.93182%2526description%253DRotheben%2525202%252520%2525C2%2525B7%25252083486%252520Ramsau%252520bei%252520Berchtesgaden%2525C2%2525B7Aussichtspunkt%2526cardbg%253D%252523219AB6%2526dt%253D1757422800000&tstt0=Wimbachklamm&cp=47.660708~12.440868&lvl=10.652902&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251013_HinterseeWaterfall\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hintersee+Lago+tedesco&form=hpcapt&filters=HpDate:\"20251012_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251013_HinterseeWaterfall"
+            },
+            "Ssd": "20251013",
+            "Name": "HinterseeWaterfall",
+            "Market": "IT-IT",
+            "Hash": "9638907457",
+            "FullDateString": "13 ottobre 2025"
+        }
+    },
+    {
         "startdate": "20251011",
         "fullstartdate": "202510112200",
         "enddate": "20251012",

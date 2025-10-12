@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251012",
+        "fullstartdate": "202510120300",
+        "enddate": "20251013",
+        "url": "/th?id=OHR.DiaCriancas_PT-BR4646526292_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DiaCriancas_PT-BR4646526292",
+        "copyright": "Balões artesanais de cabaça, Paraty, Rio de Janeiro (© Priscila Zambotto/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=dia+das+crian%C3%A7as&form=hpcapt&mkt=pt-br",
+        "title": "A arte que dá frutos",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251012_DiaCriancas%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "edd401c787c976588a8d64f7f6e62f40",
+        "hsh": "7db13bb2ee14f07d1a37e3a8ef102a76",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Os balões que vemos na imagem não são um brinquedo comum: começaram sua vida como parte de uma planta. São cabaças, frutos ocos de uma trepadeira conhecida como porongo, usadas há séculos como recipientes, cuias e até instrumentos musicais. Nas mãos habilidosas de artesãos, ganham um novo destino; cada fruto é limpo, lixado e pintado com tons e desenhos delicados. Nenhum desses balões é igual ao outro; cada detalhe preserva a singularidade do gesto humano que o criou.",
+                "Image": {
+                    "Url": "/th?id=OHR.DiaCriancas_PT-BR4646526292_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DiaCriancas_PT-BR4646526292_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A arte que dá frutos",
+                "Title": "Balões artesanais de cabaça, Paraty, Rio de Janeiro",
+                "Copyright": "© Priscila Zambotto/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251012_DiaCriancas\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=dia+das+crian%c3%a7as&form=hpcapt&filters=HpDate:\"20251012_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251012_DiaCriancas"
+            },
+            "Ssd": "20251012",
+            "Name": "DiaCriancas",
+            "Market": "PT-BR",
+            "Hash": "4646526292",
+            "FullDateString": "12 out. 2025"
+        }
+    },
+    {
         "startdate": "20251011",
         "fullstartdate": "202510110300",
         "enddate": "20251012",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251012",
+        "fullstartdate": "202510120700",
+        "enddate": "20251013",
+        "url": "/th?id=OHR.SaranacLake_EN-US0445660450_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SaranacLake_EN-US0445660450",
+        "copyright": "Village of Saranac Lake, Adirondack Mountains, New York (© DenisTangneyJr/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Saranac+Lake+village&form=hpcapt&filters=HpDate%3a%2220251012_0700%22",
+        "title": "Falling for Saranac",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251012_SaranacLake%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cdc1757c0ef57f795c03d4897e81f19e",
+        "hsh": "9651cb8a6d4b9c4c5f14fc6832895bdc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Some places are just stops on the map, but Saranac Lake in New York's Adirondack Mountains is a destination that keeps people hooked year-round. Despite its name, this village isn't directly on the Saranac Lakes themselves but rather on Lake Flower, a wide section of the Saranac River. For centuries, the area—nicknamed 'The Capital of the Adirondacks'—was used by Indigenous peoples for hunting and travel. By the late 19th century, it gained fame as a health retreat, where Dr. Edward Livingston Trudeau pioneered fresh-air treatment for tuberculosis. The cure cottages from that era still stand today.",
+                "Image": {
+                    "Url": "/th?id=OHR.SaranacLake_EN-US0445660450_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SaranacLake_EN-US0445660450_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Falling for Saranac",
+                "Title": "Village of Saranac Lake, Adirondack Mountains, New York",
+                "Copyright": "© DenisTangneyJr/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.341801,-74.144203/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=44.341801,-74.144203;S9;Saranac Lake&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&ss=ypid.YN873x14561517660968256969&mb=53.333606~-92.860707~33.710688~-55.395548&description=39%20Main%20St%20Ste%209%2C%20Saranac%20Lake%2C%20NY%2012983%C2%B7Town%20hall&dt=1756215000000&tt=Village%20of%20Saranac%20Lake&tsts0=%2526ty%253D18%2526ss%253Dypid.YN873x14561517660968256969%2526mb%253D53.333606~-92.860707~33.710688~-55.395548%2526description%253D39%252520Main%252520St%252520Ste%2525209%25252C%252520Saranac%252520Lake%25252C%252520NY%25252012983%2525C2%2525B7Town%252520hall%2526dt%253D1756215000000&tstt0=Village%20of%20Saranac%20Lake&cp=44.335333~-90.163798&lvl=5.27&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251012_SaranacLake\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Saranac+Lake+village&form=hpcapt&filters=HpDate:\"20251012_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251012_SaranacLake"
+            },
+            "Ssd": "20251012",
+            "Name": "SaranacLake",
+            "Market": "EN-US",
+            "Hash": "0445660450",
+            "FullDateString": "Oct 12, 2025"
+        }
+    },
+    {
         "startdate": "20251011",
         "fullstartdate": "202510110700",
         "enddate": "20251012",
