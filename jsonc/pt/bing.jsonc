@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251013",
+        "fullstartdate": "202510130700",
+        "enddate": "20251014",
+        "url": "/th?id=OHR.HinterseeWaterfall_ROW0045640204_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HinterseeWaterfall_ROW0045640204",
+        "copyright": "Waterfall at Wimbachklamm Gorge, Bavaria, Germany (© EyeEm Mobile GmbH/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Wimbachklamm&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251013_HinterseeWaterfall%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4997f27a0e710c8ebc3f22555c21ec35",
+        "hsh": "c509a1c41c3c1bd1d395c88a60c9a70e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "With its steep rocky walls, cascading streams and scenery that looks painted by nature itself, the Wimbachklamm near Ramsau, in Berchtesgaden National Park, ranks among Bavaria's most stunning gorges. In today's photo, the Wimbach carves its way through narrow rock formations over a stretch of about 200 metres, tumbling down in small waterfalls and sculpting impressive patterns into the stone over time. The colourful layers of rock reveal geological processes that date back thousands of years.",
+                "Image": {
+                    "Url": "/th?id=OHR.HinterseeWaterfall_ROW0045640204_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HinterseeWaterfall_ROW0045640204_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Waterfall at Wimbachklamm Gorge, Bavaria, Germany",
+                "Copyright": "© EyeEm Mobile GmbH/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251013_HinterseeWaterfall\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Wimbachklamm&form=hpcapt&filters=HpDate:\"20251013_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251013_HinterseeWaterfall"
+            },
+            "Ssd": "20251013",
+            "Name": "HinterseeWaterfall",
+            "Market": "ROW",
+            "Hash": "0045640204",
+            "FullDateString": "13 out. 2025"
+        }
+    },
+    {
         "startdate": "20251012",
         "fullstartdate": "202510120700",
         "enddate": "20251013",

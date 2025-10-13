@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251013",
+        "fullstartdate": "202510132200",
+        "enddate": "20251014",
+        "url": "/th?id=OHR.OiaSantorini_FR-FR2366635460_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OiaSantorini_FR-FR2366635460",
+        "copyright": "Village d’Oia, Santorin, Grèce (© f9photos/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Oia+Gr%C3%A8ce&form=hpcapt&filters=HpDate%3a%2220251013_2200%22",
+        "title": "Le blanc en héritage",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251013_OiaSantorini%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "01fbab7f8cc928727ad1af10b6297a1e",
+        "hsh": "d81a6e4b1e8dd3d48e10aa903da97189",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Accroché aux falaises volcaniques de l’île de Santorin, en Grèce, le village d’Oia semble flotter entre ciel et mer. Ses maisons cubiques blanchies à la chaux et coiffées de dômes bleus captent la lumière comme nul autre lieu. À la fin du XIXe siècle, marins et marchands y creusaient leurs demeures directement dans la roche, fraîches l’été, chaleureuses l’hiver. Le blanc des façades, pratique avant tout, guidait l’eau de pluie vers des citernes vitales.",
+                "Image": {
+                    "Url": "/th?id=OHR.OiaSantorini_FR-FR2366635460_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OiaSantorini_FR-FR2366635460_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Le blanc en héritage",
+                "Title": "Village d’Oia, Santorin, Grèce",
+                "Copyright": "© f9photos/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.46234,25.37569/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=36.46234,25.37569;S9;Oia, Santorin, Grèce&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Oia&satid=id.sid%3A2ee38e0c-7cf9-fe0a-7ecc-94387ffa83e6&vdpid=7247981842521915393&mb=36.46552~25.369489~36.459166~25.381904&cardbg=%23F98745&dt=1755700200000&tt=Oia%2C%20847%2002%2C%20South%20Aegean%2C%20Greece&tsts0=%2526ty%253D30%2526q%253DOia%2526satid%253Did.sid%25253A2ee38e0c-7cf9-fe0a-7ecc-94387ffa83e6%2526vdpid%253D7247981842521915393%2526mb%253D36.46552~25.369489~36.459166~25.381904%2526cardbg%253D%252523F98745%2526dt%253D1755700200000&tstt0=Oia%2C%20847%2002%2C%20South%20Aegean%2C%20Greece&cp=35.749944~10.236319&lvl=4.3719306&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251014_OiaSantorini\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Oia+Gr%c3%a8ce&form=hpcapt&filters=HpDate:\"20251013_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251014_OiaSantorini"
+            },
+            "Ssd": "20251014",
+            "Name": "OiaSantorini",
+            "Market": "FR-FR",
+            "Hash": "2366635460",
+            "FullDateString": "14 oct. 2025"
+        }
+    },
+    {
         "startdate": "20251012",
         "fullstartdate": "202510122200",
         "enddate": "20251013",
