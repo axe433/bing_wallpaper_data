@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251014",
+        "fullstartdate": "202510140700",
+        "enddate": "20251015",
+        "url": "/th?id=OHR.OiaSantorini_EN-US0585833457_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OiaSantorini_EN-US0585833457",
+        "copyright": "Village of Oia, Santorini, Greece (© f9photos/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Oia+Greece&form=hpcapt&filters=HpDate%3a%2220251014_0700%22",
+        "title": "Dreams painted in blue and white",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251014_OiaSantorini%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "01fbab7f8cc928727ad1af10b6297a1e",
+        "hsh": "bec6ebdecf81b66ef0c33be1af706756",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ever wondered what it's like to live on a movie set? Oia is about as close as it gets, part of Greece's Santorini archipelago. This village has appeared in films like 'The Sisterhood of the Traveling Pants' and 'Tomb Raider,' thanks to its Cycladic houses—cube-shaped homes with flat roofs—and cliffside views that feel almost unreal. Its unique architecture has roots in the late 19th century. Sailors and merchants carved houses right into the volcanic cliffs—cool in summer and warm in winter. The white-and-blue theme is also more than just for show: houses were painted with lime wash so rainwater would run off and be collected. Today, visitors wander its cobbled lanes, explore the Naval Maritime Museum, or climb to the ruins of Agios Nikolaos Castle for unforgettable sunsets.",
+                "Image": {
+                    "Url": "/th?id=OHR.OiaSantorini_EN-US0585833457_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OiaSantorini_EN-US0585833457_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Dreams painted in blue and white",
+                "Title": "Village of Oia, Santorini, Greece",
+                "Copyright": "© f9photos/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.46234,25.37569/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=36.46234,25.37569;S9;Oia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Oia&satid=id.sid%3A2ee38e0c-7cf9-fe0a-7ecc-94387ffa83e6&vdpid=7247981842521915393&mb=36.46552~25.369489~36.459166~25.381904&cardbg=%23F98745&dt=1755700200000&tt=Oia%2C%20847%2002%2C%20South%20Aegean%2C%20Greece&tsts0=%2526ty%253D30%2526q%253DOia%2526satid%253Did.sid%25253A2ee38e0c-7cf9-fe0a-7ecc-94387ffa83e6%2526vdpid%253D7247981842521915393%2526mb%253D36.46552~25.369489~36.459166~25.381904%2526cardbg%253D%252523F98745%2526dt%253D1755700200000&tstt0=Oia%2C%20847%2002%2C%20South%20Aegean%2C%20Greece&cp=35.749944~10.236319&lvl=4.3719306&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251014_OiaSantorini\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Oia+Greece&form=hpcapt&filters=HpDate:\"20251014_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251014_OiaSantorini"
+            },
+            "Ssd": "20251014",
+            "Name": "OiaSantorini",
+            "Market": "EN-US",
+            "Hash": "0585833457",
+            "FullDateString": "Oct 14, 2025"
+        }
+    },
+    {
         "startdate": "20251013",
         "fullstartdate": "202510130700",
         "enddate": "20251014",

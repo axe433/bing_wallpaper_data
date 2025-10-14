@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251014",
+        "fullstartdate": "202510142200",
+        "enddate": "20251015",
+        "url": "/th?id=OHR.AmethystLaccaria_ES-ES1228402064_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AmethystLaccaria_ES-ES1228402064",
+        "copyright": "Hongos laccaria de amatista, Seabeck, Washington, EE. UU. (© Danita Delimont/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Hongos+laccaria+de+amatista&form=hpcapt&filters=HpDate%3a%2220251014_2200%22",
+        "title": "Los sabrosos del bosque",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251014_AmethystLaccaria%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "baa5e18a85066ca55e1f14593675ca5e",
+        "hsh": "6be74a2bcc1120e08f59bdff1c41f916",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "¿Sabías que estamos en temporada de hongos? Uno de los más llamativos es la laccaria de amatista, también llamada “engaño de amatista”. Su color púrpura brillante deslumbra cuando es joven, pero se desvanece con la edad y la intemperie, lo que hace que sea difícil de identificar. A pesar de su apariencia delicada, este hongo es comestible y cumple un papel esencial en el ecosistema.",
+                "Image": {
+                    "Url": "/th?id=OHR.AmethystLaccaria_ES-ES1228402064_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AmethystLaccaria_ES-ES1228402064_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Los sabrosos del bosque",
+                "Title": "Hongos laccaria de amatista, Seabeck, Washington, EE. UU.",
+                "Copyright": "© Danita Delimont/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251015_AmethystLaccaria\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hongos+laccaria+de+amatista&form=hpcapt&filters=HpDate:\"20251014_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251015_AmethystLaccaria"
+            },
+            "Ssd": "20251015",
+            "Name": "AmethystLaccaria",
+            "Market": "ES-ES",
+            "Hash": "1228402064",
+            "FullDateString": "15 de oct. de 2025"
+        }
+    },
+    {
         "startdate": "20251013",
         "fullstartdate": "202510132200",
         "enddate": "20251014",

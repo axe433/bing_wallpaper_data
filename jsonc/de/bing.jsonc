@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251014",
+        "fullstartdate": "202510142200",
+        "enddate": "20251015",
+        "url": "/th?id=OHR.AmethystLaccaria_DE-DE4085236718_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AmethystLaccaria_DE-DE4085236718",
+        "copyright": "Violette Lacktrichterlinge, Seabeck, Washington, USA (© Danita Delimont/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Violetter+Lacktrichterling&form=hpcapt&filters=HpDate%3a%2220251014_2200%22",
+        "title": "Lila leuchtet der Wald",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251014_AmethystLaccaria%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "baa5e18a85066ca55e1f14593675ca5e",
+        "hsh": "5876447c315f6be797731dc537080672",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Haben Sie schon einmal einen Pilz gesehen, der aussieht, als käme er direkt aus einem Märchen? Der auch in Deutschland heimische Violette Lacktrichterling leuchtet im jungen Stadium in einem kräftigen Lila. Später wird er blasser und kann leicht mit anderen Pilzen verwechselt werden. Er ist zwar genießbar, wenn auch eher unauffällig im Aroma. Dank seines auffälligen Aussehens ist er jedoch ein echter Hingucker am Waldboden, besonders bei feuchtem Herbstwetter. Der Herbst ist die ideale Zeit zum Pilzesammeln. Ob Steinpilz, Maronenröhrling oder Pfifferling – sie alle tragen zur Gesundheit des Waldes bei, indem sie Nährstoffe recyceln und die Bäume über unterirdische Netzwerke unterstützen. Also: Raus in den Wald, staunen, sammeln oder ein neues Rezept ausprobieren – aber bitte nur mit ausreichenden Pilzkenntnissen oder einem Korb samt Bestimmungsbuch. Denn wer achtsam sammelt, schützt sich selbst und die Vielfalt unserer Wälder.",
+                "Image": {
+                    "Url": "/th?id=OHR.AmethystLaccaria_DE-DE4085236718_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AmethystLaccaria_DE-DE4085236718_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Lila leuchtet der Wald",
+                "Title": "Violette Lacktrichterlinge, Seabeck, Washington, USA",
+                "Copyright": "© Danita Delimont/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.637646,-122.832291/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=47.637646,-122.832291;S9;Seabeck, Washington, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=seabeck&vdpid=4860548888894898177&mb=47.660726~-122.864563~47.62439~-122.779816&cardbg=%23F98745&dt=1755862200000&tt=Seabeck%2C%20WA&tsts0=%2526ty%253D30%2526q%253Dseabeck%2526vdpid%253D4860548888894898177%2526mb%253D47.660726~-122.864563~47.62439~-122.779816%2526cardbg%253D%252523F98745%2526dt%253D1755862200000&tstt0=Seabeck%2C%20WA&cp=47.157152~-134.672784&lvl=4.42&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251015_AmethystLaccaria\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Violetter+Lacktrichterling&form=hpcapt&filters=HpDate:\"20251014_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251015_AmethystLaccaria"
+            },
+            "Ssd": "20251015",
+            "Name": "AmethystLaccaria",
+            "Market": "DE-DE",
+            "Hash": "4085236718",
+            "FullDateString": "15. Okt.. 2025"
+        }
+    },
+    {
         "startdate": "20251013",
         "fullstartdate": "202510132200",
         "enddate": "20251014",

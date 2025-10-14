@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251014",
+        "fullstartdate": "202510140300",
+        "enddate": "20251015",
+        "url": "/th?id=OHR.OiaSantorini_PT-BR4517893806_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OiaSantorini_PT-BR4517893806",
+        "copyright": "Vilarejo de Oia, Santorini, Grécia (© f9photos/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Oia+na+Gr%C3%A9cia&form=hpcapt&mkt=pt-br",
+        "title": "Das cinzas às câmeras",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251014_OiaSantorini%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "01fbab7f8cc928727ad1af10b6297a1e",
+        "hsh": "e1b35e6e346c121f7de58c135016fb78",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Já imaginou viver em um cenário de filme? Em Oia, na Grécia, você pode. Parte do arquipélago de Santorini, a vila que vemos aqui já apareceu em produções como \"Tomb Raider\" e \"Quatro Amigas e um Jeans Viajante\", graças aos penhascos dramáticos e às casas cicládicas — cubos brancos de telhado plano. Suas paredes azuis e brancas não são apenas estéticas: o cal ajuda a captar água da chuva. Frescas no verão e aquecidas no inverno, foram esculpidas nas falésias vulcânicas no final do século XIX.",
+                "Image": {
+                    "Url": "/th?id=OHR.OiaSantorini_PT-BR4517893806_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OiaSantorini_PT-BR4517893806_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Das cinzas às câmeras",
+                "Title": "Vilarejo de Oia, Santorini, Grécia",
+                "Copyright": "© f9photos/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251014_OiaSantorini\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Oia+na+Gr%c3%a9cia&form=hpcapt&filters=HpDate:\"20251014_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251014_OiaSantorini"
+            },
+            "Ssd": "20251014",
+            "Name": "OiaSantorini",
+            "Market": "PT-BR",
+            "Hash": "4517893806",
+            "FullDateString": "14 out. 2025"
+        }
+    },
+    {
         "startdate": "20251013",
         "fullstartdate": "202510130300",
         "enddate": "20251014",

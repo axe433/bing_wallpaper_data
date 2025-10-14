@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251014",
+        "fullstartdate": "202510142200",
+        "enddate": "20251015",
+        "url": "/th?id=OHR.AmethystLaccaria_FR-FR2437866835_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AmethystLaccaria_FR-FR2437866835",
+        "copyright": "Champignon laccaria amethystina, Seabeck, Washington, États-Unis (© Danita Delimont/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Laccaria+amethystina&form=hpcapt&filters=HpDate%3a%2220251014_2200%22",
+        "title": "Fongique mais fantastique !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251014_AmethystLaccaria%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "baa5e18a85066ca55e1f14593675ca5e",
+        "hsh": "9ac92de7a5d81bfc2e81f3d05ec3d3d6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "À l’automne, la forêt se transforme en un théâtre d’ombres mystérieuses. Sous le craquement des feuilles aux tons chauds, un monde invisible prend vie : celui des champignons. Ni plante, ni animal, ils surgissent de la terre pour décomposer le bois mort, nourrir les arbres et tisser des liens invisibles sous nos pas.",
+                "Image": {
+                    "Url": "/th?id=OHR.AmethystLaccaria_FR-FR2437866835_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AmethystLaccaria_FR-FR2437866835_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Fongique mais fantastique !",
+                "Title": "Champignon laccaria amethystina, Seabeck, Washington, États-Unis",
+                "Copyright": "© Danita Delimont/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.637646,-122.832291/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=47.637646,-122.832291;S9;Seabeck, Washington, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=seabeck&vdpid=4860548888894898177&mb=47.660726~-122.864563~47.62439~-122.779816&cardbg=%23F98745&dt=1755862200000&tt=Seabeck%2C%20WA&tsts0=%2526ty%253D30%2526q%253Dseabeck%2526vdpid%253D4860548888894898177%2526mb%253D47.660726~-122.864563~47.62439~-122.779816%2526cardbg%253D%252523F98745%2526dt%253D1755862200000&tstt0=Seabeck%2C%20WA&cp=47.157152~-134.672784&lvl=4.42&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251015_AmethystLaccaria\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Laccaria+amethystina&form=hpcapt&filters=HpDate:\"20251014_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251015_AmethystLaccaria"
+            },
+            "Ssd": "20251015",
+            "Name": "AmethystLaccaria",
+            "Market": "FR-FR",
+            "Hash": "2437866835",
+            "FullDateString": "15 oct. 2025"
+        }
+    },
+    {
         "startdate": "20251013",
         "fullstartdate": "202510132200",
         "enddate": "20251014",
