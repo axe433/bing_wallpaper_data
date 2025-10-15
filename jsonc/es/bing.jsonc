@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251015",
+        "fullstartdate": "202510152200",
+        "enddate": "20251016",
+        "url": "/th?id=OHR.SiberianLynx_ES-ES1284959959_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SiberianLynx_ES-ES1284959959",
+        "copyright": "Lince euroasiático, Siberia (© Mario Plechaty Photograph/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Lince+euroasi%C3%A1tico&form=hpcapt&filters=HpDate%3a%2220251015_2200%22",
+        "title": "El gato fantasma",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251015_SiberianLynx%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c98b131f99b78567ee68021095cf7366",
+        "hsh": "56e84b8c374ced84df71c47317ea2e6b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Piense en un gato que puede desaparecer en el bosque sin hacer ruido: ese es el lince euroasiático. Con sus orejas copetudas y mirada penetrante, es el más grande de las cuatro especies de lince. Sus patas acolchadas no solo le permiten escabullirse; actúan como raquetas de nieve, distribuyendo su peso para perseguir presas en profundas derivas invernales. Principalmente nocturno, pasa el día escondido en matorrales o guaridas rocosas, saliendo de noche a acechar ciervos, liebres o ardillas.",
+                "Image": {
+                    "Url": "/th?id=OHR.SiberianLynx_ES-ES1284959959_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SiberianLynx_ES-ES1284959959_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "El gato fantasma",
+                "Title": "Lince euroasiático, Siberia",
+                "Copyright": "© Mario Plechaty Photograph/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251016_SiberianLynx\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lince+euroasi%c3%a1tico&form=hpcapt&filters=HpDate:\"20251015_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251016_SiberianLynx"
+            },
+            "Ssd": "20251016",
+            "Name": "SiberianLynx",
+            "Market": "ES-ES",
+            "Hash": "1284959959",
+            "FullDateString": "16 de oct. de 2025"
+        }
+    },
+    {
         "startdate": "20251014",
         "fullstartdate": "202510142200",
         "enddate": "20251015",
