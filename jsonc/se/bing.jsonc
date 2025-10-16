@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251016",
+        "fullstartdate": "202510160700",
+        "enddate": "20251017",
+        "url": "/th?id=OHR.SiberianLynx_ROW0430935564_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SiberianLynx_ROW0430935564",
+        "copyright": "Eurasian lynx, Siberia (© Mario Plechaty Photograph/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Eurasian+lynx&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251016_SiberianLynx%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c98b131f99b78567ee68021095cf7366",
+        "hsh": "3c9ef93e5f6e79d71a669e453de79f6b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Think of a cat that can vanish into the forest without a sound—that's the Eurasian lynx, pictured here in Siberia. With its tufted ears and a piercing gaze, this feline is the largest of the four lynx species. Stretching more than 100 centimetres in length and standing over 70 centimetres tall at the shoulder, it is built for power and precision. Its padded paws aren't just for sneaking; they act like snowshoes, spreading its weight so it can chase down prey in deep winter drifts. Mostly a nocturnal hunter, it spends its days tucked away in thickets or rocky dens, venturing out under the cover of darkness to stalk deer, hares and squirrels.",
+                "Image": {
+                    "Url": "/th?id=OHR.SiberianLynx_ROW0430935564_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SiberianLynx_ROW0430935564_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Eurasian lynx, Siberia",
+                "Copyright": "© Mario Plechaty Photograph/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251016_SiberianLynx\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Eurasian+lynx&form=hpcapt&filters=HpDate:\"20251016_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251016_SiberianLynx"
+            },
+            "Ssd": "20251016",
+            "Name": "SiberianLynx",
+            "Market": "ROW",
+            "Hash": "0430935564",
+            "FullDateString": "16 okt. 2025"
+        }
+    },
+    {
         "startdate": "20251015",
         "fullstartdate": "202510150700",
         "enddate": "20251016",
