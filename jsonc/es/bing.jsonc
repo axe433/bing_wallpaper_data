@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251017",
+        "fullstartdate": "202510172200",
+        "enddate": "20251018",
+        "url": "/th?id=OHR.SilburyHill_ES-ES9628182073_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SilburyHill_ES-ES9628182073",
+        "copyright": "Colina de Silbury, Avebury, Wiltshire, Inglaterra (© dbstockphoto/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Colina+de+Silbury&form=hpcapt&filters=HpDate%3a%2220251017_2200%22",
+        "title": "Una colina protectora",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251017_SilburyHill%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "322636e9ad1d2e35d7b4e1bf6a3741c3",
+        "hsh": "bc512ffe45c9b3bc7dabde86c0727bc2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Este paisaje nos invita a mirar más allá de lo visible. A primera vista, Silbury Hill, en Wiltshire, Inglaterra, parece una simple colina en el campo. Sin embargo, esconde un enigma neolítico de 4.500 años de antigüedad. Desde alrededor del 2400 a.C., la tiza se extrajo, transportó y compactó a mano, capa por capa, durante generaciones. El resultado es el montículo prehistórico más alto de Europa construido completamente por esfuerzo humano, que alcanza unos 39 metros de altura.",
+                "Image": {
+                    "Url": "/th?id=OHR.SilburyHill_ES-ES9628182073_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SilburyHill_ES-ES9628182073_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Una colina protectora",
+                "Title": "Colina de Silbury, Avebury, Wiltshire, Inglaterra",
+                "Copyright": "© dbstockphoto/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251018_SilburyHill\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Colina+de+Silbury&form=hpcapt&filters=HpDate:\"20251017_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251018_SilburyHill"
+            },
+            "Ssd": "20251018",
+            "Name": "SilburyHill",
+            "Market": "ES-ES",
+            "Hash": "9628182073",
+            "FullDateString": "18 de oct. de 2025"
+        }
+    },
+    {
         "startdate": "20251016",
         "fullstartdate": "202510162200",
         "enddate": "20251017",

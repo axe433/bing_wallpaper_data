@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251017",
+        "fullstartdate": "202510170300",
+        "enddate": "20251018",
+        "url": "/th?id=OHR.RockRiverFalls_PT-BR6243828889_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RockRiverFalls_PT-BR6243828889",
+        "copyright": "Rock River Falls, Península Superior, Michigan, EUA (© Matt Anderson Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Michigan&form=hpcapt&mkt=pt-br",
+        "title": "Trilhas moderadas, beleza profunda",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251017_RockRiverFalls%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1433f69256c032fce739f4e9ce08de34",
+        "hsh": "f0618e598c665319a9af80a2593b0d47",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Aninhada na Rock River Canyon Wilderness, nos Estados Unidos, a cachoeira Rock River Falls, nossa imagem de hoje, é cercada por geleiras, florestas densas e história. Na Península Superior, no norte do estado de Michigan, exploradores europeus que chegaram no início do século XVII foram seguidos por imigrantes finlandeses, suecos e franco-canadenses no auge da mineração e da madeira no século XIX. Hoje, essa região abriga apenas 3% da população de Michigan, preservando sua natureza quase intacta.",
+                "Image": {
+                    "Url": "/th?id=OHR.RockRiverFalls_PT-BR6243828889_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RockRiverFalls_PT-BR6243828889_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Trilhas moderadas, beleza profunda",
+                "Title": "Rock River Falls, Península Superior, Michigan, EUA",
+                "Copyright": "© Matt Anderson Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251017_RockRiverFalls\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Michigan&form=hpcapt&filters=HpDate:\"20251017_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251017_RockRiverFalls"
+            },
+            "Ssd": "20251017",
+            "Name": "RockRiverFalls",
+            "Market": "PT-BR",
+            "Hash": "6243828889",
+            "FullDateString": "17 out. 2025"
+        }
+    },
+    {
         "startdate": "20251016",
         "fullstartdate": "202510160300",
         "enddate": "20251017",
