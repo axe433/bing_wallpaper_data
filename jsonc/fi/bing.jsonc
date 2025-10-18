@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251018",
+        "fullstartdate": "202510180700",
+        "enddate": "20251019",
+        "url": "/th?id=OHR.SilburyHill_ROW9508999634_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SilburyHill_ROW9508999634",
+        "copyright": "Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Silbury+Hill&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251018_SilburyHill%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "322636e9ad1d2e35d7b4e1bf6a3741c3",
+        "hsh": "f87f46fbd9eb70c8322dc4c9f17c3870",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Some ancient sites, like the one shown here, blend seamlessly into their surroundings: at first glance, Silbury Hill in Wiltshire, England, may seem like a simple slope in the countryside. However, it conceals a 4,500-year-old Neolithic enigma. Starting around 2400 BCE, chalk was locally quarried, transported and compacted by hand, layer by layer, over generations. The result is the tallest prehistoric mound in Europe, built entirely by human effort, rising to almost 40 metres.",
+                "Image": {
+                    "Url": "/th?id=OHR.SilburyHill_ROW9508999634_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SilburyHill_ROW9508999634_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Neolithic site of Silbury Hill, Tilshead, Wiltshire, England",
+                "Copyright": "© dbstockphoto/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251018_SilburyHill\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Silbury+Hill&form=hpcapt&filters=HpDate:\"20251018_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251018_SilburyHill"
+            },
+            "Ssd": "20251018",
+            "Name": "SilburyHill",
+            "Market": "ROW",
+            "Hash": "9508999634",
+            "FullDateString": "18. lokak. 2025"
+        }
+    },
+    {
         "startdate": "20251017",
         "fullstartdate": "202510170700",
         "enddate": "20251018",

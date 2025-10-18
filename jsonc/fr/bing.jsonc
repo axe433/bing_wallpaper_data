@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251018",
+        "fullstartdate": "202510182200",
+        "enddate": "20251019",
+        "url": "/th?id=OHR.AppleHarvest_FR-FR3383399730_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AppleHarvest_FR-FR3383399730",
+        "copyright": "Pommes prêtes à être récoltées, Minnesota, États-Unis (© Tammi Mild/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=saison+des+pommes&form=hpcapt&filters=HpDate%3a%2220251018_2200%22",
+        "title": "Une cueillette à croquer !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251018_AppleHarvest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "985cd8e897a2bfb7375a8bf071fcdd30",
+        "hsh": "ae1c9eb1db038a7836337ee233d90b32",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Au Minnesota, aux États-Unis, l’automne est une fête des sens : les vergers ploient sous le poids des fruits et les branches offrent des grappes de Honeycrisp ou de Haralson, prêtes à être cueillies à la main. L’air vif embaume déjà de notes de cidre et de feuilles sèches tandis que les familles et les touristes se dispersent dans les allées à la recherche de la pomme parfaite, croquante et juteuse.",
+                "Image": {
+                    "Url": "/th?id=OHR.AppleHarvest_FR-FR3383399730_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AppleHarvest_FR-FR3383399730_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Une cueillette à croquer !",
+                "Title": "Pommes prêtes à être récoltées, Minnesota, États-Unis",
+                "Copyright": "© Tammi Mild/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "La malusdomesticaphobie désigne la peur des pommes.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251019_AppleHarvest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=saison+des+pommes&form=hpcapt&filters=HpDate:\"20251018_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251019_AppleHarvest"
+            },
+            "Ssd": "20251019",
+            "Name": "AppleHarvest",
+            "Market": "FR-FR",
+            "Hash": "3383399730",
+            "FullDateString": "19 oct. 2025"
+        }
+    },
+    {
         "startdate": "20251017",
         "fullstartdate": "202510172200",
         "enddate": "20251018",

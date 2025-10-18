@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251018",
+        "fullstartdate": "202510180300",
+        "enddate": "20251019",
+        "url": "/th?id=OHR.SilburyHill_PT-BR5871845476_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SilburyHill_PT-BR5871845476",
+        "copyright": "Sítio neolítico de Silbury Hill em Tilshead, Wiltshire, Inglaterra (© dbstockphoto/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Arqueologia&form=hpcapt&mkt=pt-br",
+        "title": "A colina que guarda memórias",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251018_SilburyHill%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "322636e9ad1d2e35d7b4e1bf6a3741c3",
+        "hsh": "75ed88d4d3234460041fd9a2eb24dd7a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nossa imagem do dia é Silbury Hill, na Inglaterra — uma colina que guarda um mistério de 4.500 anos. À primeira vista, parece apenas parte da paisagem rural, mas trata-se do maior monte pré-histórico da Europa, construído manualmente por gerações. Seria um local cerimonial, um marcador astronômico ou um símbolo de comunidade? A arqueologia nos mostra que, muitas vezes, as perguntas são tão valiosas quanto as respostas.",
+                "Image": {
+                    "Url": "/th?id=OHR.SilburyHill_PT-BR5871845476_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SilburyHill_PT-BR5871845476_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A colina que guarda memórias",
+                "Title": "Sítio neolítico de Silbury Hill em Tilshead, Wiltshire, Inglaterra",
+                "Copyright": "© dbstockphoto/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251018_SilburyHill\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Arqueologia&form=hpcapt&filters=HpDate:\"20251018_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251018_SilburyHill"
+            },
+            "Ssd": "20251018",
+            "Name": "SilburyHill",
+            "Market": "PT-BR",
+            "Hash": "5871845476",
+            "FullDateString": "18 out. 2025"
+        }
+    },
+    {
         "startdate": "20251017",
         "fullstartdate": "202510170300",
         "enddate": "20251018",

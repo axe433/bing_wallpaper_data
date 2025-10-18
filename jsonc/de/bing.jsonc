@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251018",
+        "fullstartdate": "202510182200",
+        "enddate": "20251019",
+        "url": "/th?id=OHR.AppleHarvest_DE-DE2705439483_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AppleHarvest_DE-DE2705439483",
+        "copyright": "Erntereife Äpfel, Minnesota, USA (© Tammi Mild/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Apfelernte&form=hpcapt&filters=HpDate%3a%2220251018_2200%22",
+        "title": "Erntegenuss pur",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251018_AppleHarvest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "985cd8e897a2bfb7375a8bf071fcdd30",
+        "hsh": "9871f0f8b2ebe6977ce9d097552d53b4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Herbstzeit ist Apfelzeit – und vielerorts in Deutschland stehen die Zeichen auf Ernte! Im Oktober sind die Plantagen noch voller reifer Früchte, besonders bei den späten Sorten wie Boskoop und Jonagold. Die Apfelernte bringt nicht nur frischen Geschmack, sondern auch ein Stück gelebte Tradition in die Küchen und auf die Märkte. Deutschland zählt zu den größten Apfelproduzenten Europas: Jährlich werden auf etwa 32.700 Hektar – das entspricht mehr als 45.000 Fußballfeldern – rund 1 Million Tonnen Äpfel geerntet.",
+                "Image": {
+                    "Url": "/th?id=OHR.AppleHarvest_DE-DE2705439483_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AppleHarvest_DE-DE2705439483_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Erntegenuss pur",
+                "Title": "Erntereife Äpfel, Minnesota, USA",
+                "Copyright": "© Tammi Mild/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Die Angst vor Äpfeln wird Malusdomesticaphobie genannt.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251019_AppleHarvest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Apfelernte&form=hpcapt&filters=HpDate:\"20251018_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251019_AppleHarvest"
+            },
+            "Ssd": "20251019",
+            "Name": "AppleHarvest",
+            "Market": "DE-DE",
+            "Hash": "2705439483",
+            "FullDateString": "19. Okt.. 2025"
+        }
+    },
+    {
         "startdate": "20251017",
         "fullstartdate": "202510172200",
         "enddate": "20251018",

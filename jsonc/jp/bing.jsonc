@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251018",
+        "fullstartdate": "202510181500",
+        "enddate": "20251019",
+        "url": "/th?id=OHR.AppleHarvest_JA-JP0862857490_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AppleHarvest_JA-JP0862857490",
+        "copyright": "収穫時期を迎えたリンゴ, 米国 ミネソタ州 (© Tammi Mild/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%8F%8E%E7%A9%AB%E6%99%82%E6%9C%9F%E3%82%92%E8%BF%8E%E3%81%88%E3%81%9F%E3%83%AA%E3%83%B3%E3%82%B4&form=hpcapt&filters=HpDate%3a%2220251018_1500%22",
+        "title": "たわわに実るリンゴ",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251018_AppleHarvest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "985cd8e897a2bfb7375a8bf071fcdd30",
+        "hsh": "0c83c71e3271f5ad088c619927e9349d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日の画像は、米国ミネソタ州の果樹園でたわわに実るリンゴ。リンゴは、紀元前から栽培されており、ヨーロッパで栽培方法が確立されると、様々な品種改良を経ながら、世界中へと広まりました。全世界での生産量は、2023 年時点で約 9700 万トンであり、その半分が中国で栽培されています…",
+                "Image": {
+                    "Url": "/th?id=OHR.AppleHarvest_JA-JP0862857490_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AppleHarvest_JA-JP0862857490_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "たわわに実るリンゴ",
+                "Title": "収穫時期を迎えたリンゴ, 米国 ミネソタ州",
+                "Copyright": "© Tammi Mild/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "リンゴの果実温度を制御することで、成熟の進行や糖度、酸度、色素の蓄積に大きな違いが生じることが実験で確認されています。特に「ふじ」では、低温（ 10℃ ）でアントシアニンの蓄積が最大となり、高温（ 24℃ ）では、その蓄積が抑えられる傾向が見られました。",
+                    "LinkUrl": "/search?q=%e3%83%aa%e3%83%b3%e3%82%b4%e3%81%ae%e7%94%98%e3%81%95%e3%82%92%e5%bc%95%e3%81%8d%e7%ab%8b%e3%81%a6%e3%82%8b%e6%96%b9%e6%b3%95&form=hpvsfa",
+                    "LinkText": "リンゴの甘さを引き立てる方法は？"
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251019_AppleHarvest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%8f%8e%e7%a9%ab%e6%99%82%e6%9c%9f%e3%82%92%e8%bf%8e%e3%81%88%e3%81%9f%e3%83%aa%e3%83%b3%e3%82%b4&form=hpcapt&filters=HpDate:\"20251018_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251019_AppleHarvest"
+            },
+            "Ssd": "20251019",
+            "Name": "AppleHarvest",
+            "Market": "JA-JP",
+            "Hash": "0862857490",
+            "FullDateString": "2025 年 10月 月 19 日"
+        }
+    },
+    {
         "startdate": "20251017",
         "fullstartdate": "202510171500",
         "enddate": "20251018",
