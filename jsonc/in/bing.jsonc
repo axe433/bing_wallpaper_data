@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251019",
+        "fullstartdate": "202510191830",
+        "enddate": "20251020",
+        "url": "/th?id=OHR.HoffmansSloth_EN-IN5791944610_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HoffmansSloth_EN-IN5791944610",
+        "copyright": "Hoffmann's two-toed sloth, Ecuador (© Murray Cooper/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Hoffmanns+two-toed+sloth&form=hpcapt&filters=HpDate%3a%2220251019_1830%22",
+        "title": "Life in the slow lane",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251019_HoffmansSloth%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3ebd2abb3bf8a6c9ebfc2730be86e0ed",
+        "hsh": "268f1d68b0b8aca9965ccac2beb15e11",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "How good would it feel if you could just hang out and do absolutely nothing all day? That's exactly what sloths do. The Hoffmann's two-toed sloth, featured in today's image, is a prime example of this slow-paced lifestyle. Their deliberate movements conserve energy, avoid predators and even allow algae to grow on their fur, creating green camouflage among the canopy.",
+                "Image": {
+                    "Url": "/th?id=OHR.HoffmansSloth_EN-IN5791944610_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HoffmansSloth_EN-IN5791944610_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Life in the slow lane",
+                "Title": "Hoffmann's two-toed sloth, Ecuador",
+                "Copyright": "© Murray Cooper/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Sloths are around three times stronger than humans and can hang on tight enough to fend off a jaguar.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251020_HoffmansSloth\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hoffmanns+two-toed+sloth&form=hpcapt&filters=HpDate:\"20251019_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251020_HoffmansSloth"
+            },
+            "Ssd": "20251020",
+            "Name": "HoffmansSloth",
+            "Market": "EN-IN",
+            "Hash": "5791944610",
+            "FullDateString": "20 Oct, 2025"
+        }
+    },
+    {
         "startdate": "20251018",
         "fullstartdate": "202510181830",
         "enddate": "20251019",

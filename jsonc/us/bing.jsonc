@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251019",
+        "fullstartdate": "202510190700",
+        "enddate": "20251020",
+        "url": "/th?id=OHR.AppleHarvest_EN-US2977882687_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AppleHarvest_EN-US2977882687",
+        "copyright": "Apples ready for harvest, Minnesota (© Tammi Mild/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=harvesting+apples&form=hpcapt&filters=HpDate%3a%2220251019_0700%22",
+        "title": "Sweet on science",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251019_AppleHarvest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "985cd8e897a2bfb7375a8bf071fcdd30",
+        "hsh": "2879932489c47487311fe37366b8e736",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "In Minnesota, autumn carries more than crimson leaves—it brings the crisp promise of apple season. From mid-August through late October, orchards across the state open their rows of Honeycrisp, Haralson, and dozens of other cultivars, each bred for flavor, resilience, and charm. Today's image captures that moment: branches heavy with ripe fruit, ready for harvest.",
+                "Image": {
+                    "Url": "/th?id=OHR.AppleHarvest_EN-US2977882687_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AppleHarvest_EN-US2977882687_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Sweet on science",
+                "Title": "Apples ready for harvest, Minnesota",
+                "Copyright": "© Tammi Mild/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "The fear of apples is called malusdomesticaphobia.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251019_AppleHarvest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=harvesting+apples&form=hpcapt&filters=HpDate:\"20251019_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251019_AppleHarvest"
+            },
+            "Ssd": "20251019",
+            "Name": "AppleHarvest",
+            "Market": "EN-US",
+            "Hash": "2977882687",
+            "FullDateString": "Oct 19, 2025"
+        }
+    },
+    {
         "startdate": "20251018",
         "fullstartdate": "202510180700",
         "enddate": "20251019",
