@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251020",
+        "fullstartdate": "202510200300",
+        "enddate": "20251021",
+        "url": "/th?id=OHR.HoffmansSloth_PT-BR5106074004_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HoffmansSloth_PT-BR5106074004",
+        "copyright": "Preguiça-de-hoffmann, Equador (© Murray Cooper/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=dia+internacional+do+bicho+pregui%C3%A7a&form=hpcapt&mkt=pt-br",
+        "title": "Uma vida tranquila",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251020_HoffmansSloth%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3ebd2abb3bf8a6c9ebfc2730be86e0ed",
+        "hsh": "d1bb19750a1a8ba524fead744116e1c9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Como seria bom passar o dia inteiro relaxando, sem fazer absolutamente nada, não é mesmo? É exatamente isso que os bichos-preguiça fazem, e hoje celebramos esse estilo de vida no seu Dia Internacional.",
+                "Image": {
+                    "Url": "/th?id=OHR.HoffmansSloth_PT-BR5106074004_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HoffmansSloth_PT-BR5106074004_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Uma vida tranquila",
+                "Title": "Preguiça-de-hoffmann, Equador",
+                "Copyright": "© Murray Cooper/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251020_HoffmansSloth\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=dia+internacional+do+bicho+pregui%c3%a7a&form=hpcapt&filters=HpDate:\"20251020_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251020_HoffmansSloth"
+            },
+            "Ssd": "20251020",
+            "Name": "HoffmansSloth",
+            "Market": "PT-BR",
+            "Hash": "5106074004",
+            "FullDateString": "20 out. 2025"
+        }
+    },
+    {
         "startdate": "20251019",
         "fullstartdate": "202510190300",
         "enddate": "20251020",

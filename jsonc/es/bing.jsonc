@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251020",
+        "fullstartdate": "202510202200",
+        "enddate": "20251021",
+        "url": "/th?id=OHR.DiyaDiwali_ES-ES9858455543_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DiyaDiwali_ES-ES9858455543",
+        "copyright": "Una diya en el Templo Dorado durante el Diwali, Amritsar, India (© EyeEm Mobile GmbH/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220251020_2200%22",
+        "title": "Tradiciones brillantes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251020_DiyaDiwali%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e16b2556d3ed19aeba8f64713a561d2c",
+        "hsh": "80bc987888eab41b09350007127e6d94",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Diwali es un festival hindú que celebra la esperanza, la prosperidad y el triunfo del bien sobre el mal. Conmemora el regreso victorioso del príncipe Rama al reino de Ayodhya tras derrotar al rey demonio Ravana y también honra a la diosa Lakshmi, que trae riqueza y bienestar, mientras que algunas comunidades rinden culto a Kali.",
+                "Image": {
+                    "Url": "/th?id=OHR.DiyaDiwali_ES-ES9858455543_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DiyaDiwali_ES-ES9858455543_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Tradiciones brillantes",
+                "Title": "Una diya en el Templo Dorado durante el Diwali, Amritsar, India",
+                "Copyright": "© EyeEm Mobile GmbH/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251021_DiyaDiwali\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Diwali&form=hpcapt&filters=HpDate:\"20251020_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251021_DiyaDiwali"
+            },
+            "Ssd": "20251021",
+            "Name": "DiyaDiwali",
+            "Market": "ES-ES",
+            "Hash": "9858455543",
+            "FullDateString": "21 de oct. de 2025"
+        }
+    },
+    {
         "startdate": "20251019",
         "fullstartdate": "202510192200",
         "enddate": "20251020",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251020",
+        "fullstartdate": "202510201500",
+        "enddate": "20251021",
+        "url": "/th?id=OHR.DiyaDiwali_JA-JP1552911829_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DiyaDiwali_JA-JP1552911829",
+        "copyright": "ハリマンディル・サーヒブ, インド (© EyeEm Mobile GmbH/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%8F%E3%83%AA%E3%83%9E%E3%83%B3%E3%83%87%E3%82%A3%E3%83%AB%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%92%E3%83%96&form=hpcapt&filters=HpDate%3a%2220251020_1500%22",
+        "title": "今日はディワリ",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251020_DiyaDiwali%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e16b2556d3ed19aeba8f64713a561d2c",
+        "hsh": "46c14fffaf098f77c5a18cc69f5e0ae4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日はディワリ。インドのヒンドゥー教のお祝いです。毎年 10 ～ 11 月の間の 5 日間にわたって行われており、今年は 10 月 18 日 〜 10 月 22 日にかけて開催されています。インドの様々な神話が関係したお祭りであり、そのうちの一つが、叙事詩「ラーマーヤナ」。主人公ラーマが魔王ラーヴァナを倒し、故郷に戻ったことを祝う日であり、善が悪に勝利したということをお祝いします…",
+                "Image": {
+                    "Url": "/th?id=OHR.DiyaDiwali_JA-JP1552911829_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DiyaDiwali_JA-JP1552911829_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日はディワリ",
+                "Title": "ハリマンディル・サーヒブ, インド",
+                "Copyright": "© EyeEm Mobile GmbH/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/31.619967,74.87648/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=31.619967,74.87648;S9;ハリマンディル・サーヒブ, インド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=golden+temple&ss=ypid.YN4070x249298751&mb=31.623805%7E74.869401%7E31.61613%7E74.883564&description=Golden+Temple+Road%2C+Atta+Mandi%2C+Amritsar%2C+Punjab+143006%C2%B7Temple&cardbg=%23219AB6&dt=1756985400000&tt=Sri+Harmandir+Sahib&tsts0=%2526ty%253D18%2526q%253Dgolden%252520temple%2526ss%253Dypid.YN4070x249298751%2526mb%253D31.623805%7E74.869401%7E31.61613%7E74.883564%2526description%253DGolden%252520Temple%252520Road%25252C%252520Atta%252520Mandi%25252C%252520Amritsar%25252C%252520Punjab%252520143006%2525C2%2525B7Temple%2526cardbg%253D%252523219AB6%2526dt%253D1756985400000&tstt0=Sri+Harmandir+Sahib&cp=31.578535%7E74.882813&lvl=4.0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251021_DiyaDiwali\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%8f%e3%83%aa%e3%83%9e%e3%83%b3%e3%83%87%e3%82%a3%e3%83%ab%e3%83%bb%e3%82%b5%e3%83%bc%e3%83%92%e3%83%96&form=hpcapt&filters=HpDate:\"20251020_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251021_DiyaDiwali"
+            },
+            "Ssd": "20251021",
+            "Name": "DiyaDiwali",
+            "Market": "JA-JP",
+            "Hash": "1552911829",
+            "FullDateString": "2025 年 10月 月 21 日"
+        }
+    },
+    {
         "startdate": "20251019",
         "fullstartdate": "202510191500",
         "enddate": "20251020",
