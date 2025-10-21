@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251021",
+        "fullstartdate": "202510212200",
+        "enddate": "20251022",
+        "url": "/th?id=OHR.BulgariaRocks_ES-ES9951900468_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BulgariaRocks_ES-ES9951900468",
+        "copyright": "Rocas de Belogradchik, Bulgaria (© EvaL Miko/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Fortaleza+Belogradchik&form=hpcapt&filters=HpDate%3a%2220251021_2200%22",
+        "title": "Grabado en piedra",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251021_BulgariaRocks%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8854855d1b3ed44b31fd1528144b8418",
+        "hsh": "8c62a87fa917ed5558e8733109d7dc8e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En Bulgaria, en las laderas occidentales de los Balcanes, las rocas de Belogradchik se elevan como una galería natural donde cada formación cuenta una historia. Moldeadas durante millones de años por la erosión, estas columnas de arenisca y piedra caliza adoptan formas que los lugareños aseguran que recuerdan personas, animales o escenas completas, con nombres como \"El Jinete\", \"La Escolta\" o \"Los Monjes\". Explorar este paisaje es como descubrir un museo de formas naturales.",
+                "Image": {
+                    "Url": "/th?id=OHR.BulgariaRocks_ES-ES9951900468_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BulgariaRocks_ES-ES9951900468_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Grabado en piedra",
+                "Title": "Rocas de Belogradchik, Bulgaria",
+                "Copyright": "© EvaL Miko/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251022_BulgariaRocks\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Fortaleza+Belogradchik&form=hpcapt&filters=HpDate:\"20251021_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251022_BulgariaRocks"
+            },
+            "Ssd": "20251022",
+            "Name": "BulgariaRocks",
+            "Market": "ES-ES",
+            "Hash": "9951900468",
+            "FullDateString": "22 de oct. de 2025"
+        }
+    },
+    {
         "startdate": "20251020",
         "fullstartdate": "202510202200",
         "enddate": "20251021",

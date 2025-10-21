@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251021",
+        "fullstartdate": "202510211600",
+        "enddate": "20251022",
+        "url": "/th?id=OHR.BulgariaRocks_ZH-CN0234903972_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BulgariaRocks_ZH-CN0234903972",
+        "copyright": "贝洛格拉齐克石林，保加利亚 (© EvaL Miko/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E8%B4%9D%E6%B4%9B%E6%A0%BC%E6%8B%89%E9%BD%90%E5%85%8B%E7%9F%B3%E6%9E%97&form=hpcapt&mkt=zh-cn",
+        "title": "刻在石头上",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251021_BulgariaRocks%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8854855d1b3ed44b31fd1528144b8418",
+        "hsh": "a9029622376fd4bb6acd67e696f17fe5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "在保加利亚巴尔干山脉西麓，贝洛格拉奇克石林如同一座天然画廊，每一块岩石都诉说着独特的故事。这些砂岩与石灰岩柱经过数百万年的风化与侵蚀，形成了千姿百态的奇特造型，当地人坚信其中有些轮廓酷似人物、动物，甚至完整的场景。因此，这些岩石也被赋予了富有想象力的名字，如\"骑手岩\"、\"女学生岩\"、\"僧侣岩\"等。在这片土地上，辨认岩石形状就像在玩一场大自然版的猜谜游戏，既有趣又充满惊喜。",
+                "Image": {
+                    "Url": "/th?id=OHR.BulgariaRocks_ZH-CN0234903972_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BulgariaRocks_ZH-CN0234903972_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "刻在石头上",
+                "Title": "贝洛格拉齐克石林，保加利亚",
+                "Copyright": "© EvaL Miko/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "2009年1月，贝洛格拉奇克石林被提名为保加利亚参与\"新七大自然奇观\"评选活动的候选地。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251022_BulgariaRocks\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e8%b4%9d%e6%b4%9b%e6%a0%bc%e6%8b%89%e9%bd%90%e5%85%8b%e7%9f%b3%e6%9e%97&form=hpcapt&filters=HpDate:\"20251021_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251022_BulgariaRocks"
+            },
+            "Ssd": "20251022",
+            "Name": "BulgariaRocks",
+            "Market": "ZH-CN",
+            "Hash": "0234903972",
+            "FullDateString": "2025 10月 22"
+        }
+    },
+    {
         "startdate": "20251020",
         "fullstartdate": "202510201600",
         "enddate": "20251021",
