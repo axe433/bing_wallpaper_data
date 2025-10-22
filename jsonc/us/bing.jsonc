@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251022",
+        "fullstartdate": "202510220700",
+        "enddate": "20251023",
+        "url": "/th?id=OHR.BulgariaRocks_EN-US3184562282_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BulgariaRocks_EN-US3184562282",
+        "copyright": "Belogradchik Rocks, Bulgaria (© EvaL Miko/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Belogradchik+Rocks&form=hpcapt&filters=HpDate%3a%2220251022_0700%22",
+        "title": "Set in stone",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251022_BulgariaRocks%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8854855d1b3ed44b31fd1528144b8418",
+        "hsh": "92d470b541aa27f56d6526fb4452ca6e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "In Bulgaria, on the western slopes of the Balkan Mountains, the Belogradchik Rocks stand like a natural gallery where every formation tells a tale. Shaped over millions of years by erosion, these sandstone and limestone pillars twist and tower into outlines that locals swear resemble people, animals, and even entire scenes. That's why names like 'The Horseman,' 'The Schoolgirl,' and 'The Monks' have stuck—it's a landscape where spotting shapes feels a bit like playing nature's version of charades.",
+                "Image": {
+                    "Url": "/th?id=OHR.BulgariaRocks_EN-US3184562282_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BulgariaRocks_EN-US3184562282_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Set in stone",
+                "Title": "Belogradchik Rocks, Bulgaria",
+                "Copyright": "© EvaL Miko/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.62468,22.69277/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=43.62468,22.69277;S9;Bulgaria&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Belogradchik%20Rocks&ss=ypid.YN8019x16802349372634234600&mb=43.630523~22.682776~43.618827~22.702775&description=Vidin%203900%20Belogradchik&cardbg=%233DB838&dt=1757086200000&tt=Belogradchik%20Rocks&tsts0=%2526ty%253D18%2526q%253DBelogradchik%252520Rocks%2526ss%253Dypid.YN8019x16802349372634234600%2526mb%253D43.630523~22.682776~43.618827~22.702775%2526description%253DVidin%2525203900%252520Belogradchik%2526cardbg%253D%2525233DB838%2526dt%253D1757086200000&tstt0=Belogradchik%20Rocks&cp=43.7946~12.000807&lvl=5.618121&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251022_BulgariaRocks\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Belogradchik+Rocks&form=hpcapt&filters=HpDate:\"20251022_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251022_BulgariaRocks"
+            },
+            "Ssd": "20251022",
+            "Name": "BulgariaRocks",
+            "Market": "EN-US",
+            "Hash": "3184562282",
+            "FullDateString": "Oct 22, 2025"
+        }
+    },
+    {
         "startdate": "20251021",
         "fullstartdate": "202510210700",
         "enddate": "20251022",

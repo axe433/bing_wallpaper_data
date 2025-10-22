@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251022",
+        "fullstartdate": "202510222300",
+        "enddate": "20251023",
+        "url": "/th?id=OHR.SnowLeopard_EN-GB3426907402_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SnowLeopard_EN-GB3426907402",
+        "copyright": "Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India (© Oriol Alamany/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=International+Day+of+the+Snow+Leopard&form=hpcapt&filters=HpDate%3a%2220251022_2300%22",
+        "title": "Snow much love",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251022_SnowLeopard%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c9c10e5cbace613502c88102bbb3b4f9",
+        "hsh": "894d3fdc8ecce5cabcc2204c95ecf865",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ever tried spotting a snow leopard in the wild? It's called the 'ghost of the mountains' for a reason—you're more likely to see its pawprints than the big cat itself. But every October 23, the species steps into the spotlight on International Day of the Snow Leopard, a day set aside to protect this elusive predator and its rugged home.",
+                "Image": {
+                    "Url": "/th?id=OHR.SnowLeopard_EN-GB3426907402_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SnowLeopard_EN-GB3426907402_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Snow much love",
+                "Title": "Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India",
+                "Copyright": "© Oriol Alamany/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/32.24694,78.05222/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=32.24694,78.05222;S9;Spiti Valley, Himachal Pradesh, India&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Cold%20Desert%20Spiti%20Valley&satid=id.sid%3Aa2ddf9bd-92b8-9a49-7237-399f30acb0c7&vdpid=7407166632579039233&mb=32.253776~78.037069~32.240111~78.067367&cardbg=%23F98745&dt=1757417400000&tt=Spiti%2C%20India&tsts0=%2526ty%253D30%2526q%253DCold%252520Desert%252520Spiti%252520Valley%2526satid%253Did.sid%25253Aa2ddf9bd-92b8-9a49-7237-399f30acb0c7%2526vdpid%253D7407166632579039233%2526mb%253D32.253776~78.037069~32.240111~78.067367%2526cardbg%253D%252523F98745%2526dt%253D1757417400000&tstt0=Spiti%2C%20India&cp=27.23385~72.325886&lvl=5.8973575&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251023_SnowLeopard\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=International+Day+of+the+Snow+Leopard&form=hpcapt&filters=HpDate:\"20251022_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251023_SnowLeopard"
+            },
+            "Ssd": "20251023",
+            "Name": "SnowLeopard",
+            "Market": "EN-GB",
+            "Hash": "3426907402",
+            "FullDateString": "23 Oct 2025"
+        }
+    },
+    {
         "startdate": "20251021",
         "fullstartdate": "202510212300",
         "enddate": "20251022",
@@ -69,8 +118,8 @@
             "ImageContent": {
                 "Description": "Diwali is a vibrant Hindu festival celebrating hope, prosperity and the triumph of good over evil. It commemorates Prince Rama's victorious return to the kingdom of Ayodhya after defeating the demon king Ravana. The festival also honours the goddess Lakshmi, who is believed to bring wealth and well-being into homes, while some communities worship the goddess Kali. During Diwali, families clean and decorate their homes, exchange sweets and gather for prayers, creating an atmosphere of joy. Central to the celebration are diyas, small oil lamps whose glowing flames symbolise light overcoming darkness and the promise of new beginnings.",
                 "Image": {
-                    "Url": "/th?id=OHR.DiyaDiwali_EN-GB3120748109_1920x1080.webp",
-                    "Wallpaper": "/th?id=OHR.DiyaDiwali_EN-GB3120748109_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Url": "/th?id=OHR.DiyaDiwali_EN-GB8694229403_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DiyaDiwali_EN-GB8694229403_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
                     "Downloadable": true
                 },
                 "Headline": "Glowing traditions",
@@ -87,13 +136,13 @@
                     "LinkText": ""
                 },
                 "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251021_DiyaDiwali\"&FORM=HPQUIZ",
-                "BackstageUrl": "/search?q=Diwali&form=hpcapt&filters=HpDate:\"20251020_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "BackstageUrl": "/search?q=Golden+Temple&form=hpcapt&filters=HpDate:\"20251020_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
                 "TriviaId": "HPQuiz_20251021_DiyaDiwali"
             },
             "Ssd": "20251021",
             "Name": "DiyaDiwali",
             "Market": "EN-GB",
-            "Hash": "3120748109",
+            "Hash": "8694229403",
             "FullDateString": "21 Oct 2025"
         }
     },
