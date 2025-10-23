@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251023",
+        "fullstartdate": "202510230300",
+        "enddate": "20251024",
+        "url": "/th?id=OHR.PondCave_PT-BR4920189612_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PondCave_PT-BR4920189612",
+        "copyright": "Parque Nacional da Chapada Diamantina, Bahia (© Marcio Dufranc/Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+da+Chapada+Diamantina&form=hpcapt&mkt=pt-br",
+        "title": "Celebrando a preservação e beleza",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251023_PondCave%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "292d06c36db653e756c6b9440010af5f",
+        "hsh": "5b71408853487b40bc3c22c4018eff82",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Belezas naturais que parecem saídas de um sonho: assim é a Chapada Diamantina. Criado em 1985, o Parque Nacional da Chapada Diamantina completa 40 anos de preservação este ano. Localizado no coração da Bahia, o parque é um dos destinos mais impressionantes do ecoturismo brasileiro, com cerca de 152 mil hectares de paisagens inspiradoras.",
+                "Image": {
+                    "Url": "/th?id=OHR.PondCave_PT-BR4920189612_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PondCave_PT-BR4920189612_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Celebrando a preservação e beleza",
+                "Title": "Parque Nacional da Chapada Diamantina, Bahia",
+                "Copyright": "© Marcio Dufranc/Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251023_PondCave\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parque+Nacional+da+Chapada+Diamantina&form=hpcapt&filters=HpDate:\"20251023_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251023_PondCave"
+            },
+            "Ssd": "20251023",
+            "Name": "PondCave",
+            "Market": "PT-BR",
+            "Hash": "4920189612",
+            "FullDateString": "23 out. 2025"
+        }
+    },
+    {
         "startdate": "20251022",
         "fullstartdate": "202510220300",
         "enddate": "20251023",

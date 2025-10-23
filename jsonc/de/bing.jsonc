@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251023",
+        "fullstartdate": "202510232200",
+        "enddate": "20251024",
+        "url": "/th?id=OHR.StMangLibrary_DE-DE0881251342_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.StMangLibrary_DE-DE0881251342",
+        "copyright": "Alte Bibliothek, Kloster Sankt Mang, Füssen, Bayern (© marcobriviophoto/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Abtei+Sankt+Mang&form=hpcapt&filters=HpDate%3a%2220251023_2200%22",
+        "title": "Orte der Begegnung und Inspiration",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251023_StMangLibrary%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "9747e771b6ed68c6e32fb24b9d0598ed",
+        "hsh": "75d2198c2672ae36ebdbf38883345058",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Heute ist der Tag der Bibliotheken. Seit 1995 wird er am 24. Oktober deutschlandweit begangen, um auf die kulturelle und gesellschaftliche Bedeutung der mehr als 9.000 Bibliotheken aufmerksam zu machen. Initiator war der damalige Bundespräsident Richard von Weizsäcker. Bibliotheken sind Orte des freien Zugangs zu Bildung, Information und Kultur. Lesungen, Ausstellungen und Führungen geben an diesem Tag besondere Einblicke und laden dazu ein, die Vielfalt der Bücherwelt neu zu entdecken. Sie fördern lebenslanges Lernen, soziale Teilhabe und kulturellen Austausch. Offen für alle – unabhängig von Alter, Herkunft oder Bildungshintergrund – sind sie gerade für Schülerinnen, Schüler, Studierende und Familien wichtige Anlaufpunkte im Alltag.",
+                "Image": {
+                    "Url": "/th?id=OHR.StMangLibrary_DE-DE0881251342_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.StMangLibrary_DE-DE0881251342_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Orte der Begegnung und Inspiration",
+                "Title": "Alte Bibliothek, Kloster Sankt Mang, Füssen, Bayern",
+                "Copyright": "© marcobriviophoto/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.566345,10.698916/12?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=47.566345,10.698916;S9;Abtei Sankt Mang, Füssen, Bayern&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&ss=ypid.YN6740x17560213936628156290&mb=47.572277~10.68812~47.560419~10.709728&description=Magnusplatz%201%20%C2%B7%2087629%20F%C3%BCssen%C2%B7Konvente%20und%20Kl%C3%B6ster&dt=1758268800000&tt=Kloster%20Sankt%20Mang&tsts0=%2526ty%253D18%2526ss%253Dypid.YN6740x17560213936628156290%2526mb%253D47.572277~10.68812~47.560419~10.709728%2526description%253DMagnusplatz%2525201%252520%2525C2%2525B7%25252087629%252520F%2525C3%2525BCssen%2525C2%2525B7Konvente%252520und%252520Kl%2525C3%2525B6ster%2526dt%253D1758268800000&tstt0=Kloster%20Sankt%20Mang&cp=47.566348~10.689483&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251024_StMangLibrary\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Abtei+Sankt+Mang&form=hpcapt&filters=HpDate:\"20251023_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251024_StMangLibrary"
+            },
+            "Ssd": "20251024",
+            "Name": "StMangLibrary",
+            "Market": "DE-DE",
+            "Hash": "0881251342",
+            "FullDateString": "24. Okt.. 2025"
+        }
+    },
+    {
         "startdate": "20251022",
         "fullstartdate": "202510222200",
         "enddate": "20251023",

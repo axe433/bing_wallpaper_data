@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251023",
+        "fullstartdate": "202510231500",
+        "enddate": "20251024",
+        "url": "/th?id=OHR.QueenMary_JA-JP3893109028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.QueenMary_JA-JP3893109028",
+        "copyright": "クイーン・メリー, 米国 カリフォルニア州 (© Kit Leong/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%A1%E3%83%AA%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220251023_1500%22",
+        "title": "ライトアップされた元豪華客船",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251023_QueenMary%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cfffaf6f344d92d4fc66db69214cc785",
+        "hsh": "7a606783323927d62b7acce803cd8606",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日の画像は、元豪華客船「クイーン・メリー」。北大西洋を渡る定期便として 1936 年に竣工し、第二次世界大戦での兵士輸送船を経て、1967 年に引退しました。現在は、米国カリフォルニア州南部のロングビーチのランドマークとなっており、記念館兼ホテルとして使用されています…",
+                "Image": {
+                    "Url": "/th?id=OHR.QueenMary_JA-JP3893109028_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.QueenMary_JA-JP3893109028_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "ライトアップされた元豪華客船",
+                "Title": "クイーン・メリー, 米国 カリフォルニア州",
+                "Copyright": "© Kit Leong/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/33.76805,-118.1956/11?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=33.76805,-118.1956;S9;ロングビーチ, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Long+Beach%2C+California&satid=id.sid%3A0b412653-c6c4-4e41-b59c-e1214435431f&vdpid=5059794131925073922&mb=33.885475%7E-118.300506%7E33.732738%7E-118.011643&cardbg=%23F98745&tt=Long+Beach%2C+CA&tsts0=%2526ty%253D30%2526q%253DLong%252520Beach%25252C%252520California%2526satid%253Did.sid%25253A0b412653-c6c4-4e41-b59c-e1214435431f%2526vdpid%253D5059794131925073922%2526mb%253D33.885475%7E-118.300506%7E33.732738%7E-118.011643%2526cardbg%253D%252523F98745&tstt0=Long+Beach%2C+CA&cp=33.809141%7E-118.156075&lvl=11.9&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251024_QueenMary\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%af%e3%82%a4%e3%83%bc%e3%83%b3%e3%83%bb%e3%83%a1%e3%83%aa%e3%83%bc&form=hpcapt&filters=HpDate:\"20251023_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251024_QueenMary"
+            },
+            "Ssd": "20251024",
+            "Name": "QueenMary",
+            "Market": "JA-JP",
+            "Hash": "3893109028",
+            "FullDateString": "2025 年 10月 月 24 日"
+        }
+    },
+    {
         "startdate": "20251022",
         "fullstartdate": "202510221500",
         "enddate": "20251023",

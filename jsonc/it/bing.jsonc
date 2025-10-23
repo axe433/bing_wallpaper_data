@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251023",
+        "fullstartdate": "202510232200",
+        "enddate": "20251024",
+        "url": "/th?id=OHR.PumpkinFarm_IT-IT9478392413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PumpkinFarm_IT-IT9478392413",
+        "copyright": "Zucche in azienda agricola, Carolina del Nord, USA (© Matthew H Irvin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Zucca&form=hpcapt",
+        "title": "Intagli e ricette",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251023_PumpkinFarm%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "50610f0ecafab35369fb17bbc3b03f03",
+        "hsh": "81f3fd540b47b9a8b2de409b99950621",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "L’arancione è il colore dell’autunno, e la zucca ne è il cuore pulsante. Nel North Carolina i campi di zucche si estendono a perdita d’occhio e formano distese dorate, punteggiate da frutti rotondi che maturano sotto il cielo limpido di settembre. Il profumo di terra e di foglie secche pervade l’aria, mentre le fattorie si preparano alla raccolta. Ma la zucca non è solo americana. In Italia è protagonista di una tradizione culinaria ricca e variegata. Dalla vellutata cremosa alle lasagne, dal risotto mantovano ai tortelli emiliani, la zucca si trasforma in comfort food per eccellenza. Dolce o salata, la sua polpa si presta a mille interpretazioni: fritta, al forno, in purea o come ripieno. Anche la pasticceria la celebra, con torte soffici e biscotti speziati.",
+                "Image": {
+                    "Url": "/th?id=OHR.PumpkinFarm_IT-IT9478392413_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PumpkinFarm_IT-IT9478392413_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Intagli e ricette",
+                "Title": "Zucche in azienda agricola, Carolina del Nord, USA",
+                "Copyright": "© Matthew H Irvin/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Nel 2020, il consumo pro capite annuo di zucca negli Stati Uniti è stato di quasi 3 kg a persona.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251024_PumpkinFarm\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Zucca&form=hpcapt&filters=HpDate:\"20251023_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251024_PumpkinFarm"
+            },
+            "Ssd": "20251024",
+            "Name": "PumpkinFarm",
+            "Market": "IT-IT",
+            "Hash": "9478392413",
+            "FullDateString": "24 ottobre 2025"
+        }
+    },
+    {
         "startdate": "20251022",
         "fullstartdate": "202510222200",
         "enddate": "20251023",

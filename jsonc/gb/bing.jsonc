@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251023",
+        "fullstartdate": "202510232300",
+        "enddate": "20251024",
+        "url": "/th?id=OHR.QueenMary_EN-GB3607133063_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.QueenMary_EN-GB3607133063",
+        "copyright": "Night view of the RMS Queen Mary, Long Beach, California, United States (© Kit Leong/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=RMS+Queen+Mary&form=hpcapt&filters=HpDate%3a%2220251023_2300%22",
+        "title": "From 'Grey Ghost' to ghost stories",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251023_QueenMary%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cfffaf6f344d92d4fc66db69214cc785",
+        "hsh": "39bab65c542200451699f89e5f499fbf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "She was never meant to fade away. When the RMS Queen Mary sailed in 1936, she stole the spotlight across the Atlantic—an Art Deco liner that broke speed records and carried celebrities, royalty and dignitaries. War transformed her from a floating palace into the 'Grey Ghost,' stripped of luxury and loaded with Allied troops. In 1967, after 30 years at sea, she retired to Long Beach, in California, United States, where her decks now serve as hotel corridors, guided exhibits and a living monument to maritime history.",
+                "Image": {
+                    "Url": "/th?id=OHR.QueenMary_EN-GB3607133063_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.QueenMary_EN-GB3607133063_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "From 'Grey Ghost' to ghost stories",
+                "Title": "Night view of the RMS Queen Mary, Long Beach, California, United States",
+                "Copyright": "© Kit Leong/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/33.76696,118.18923/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=33.76696,118.18923;S9;Long Beach, California, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Long%20Beach%2C%20California&satid=id.sid%3A0b412653-c6c4-4e41-b59c-e1214435431f&vdpid=5059794131925073922&mb=33.885475~-118.300506~33.732738~-118.011643&cardbg=%23F98745&tt=Long%20Beach%2C%20CA&tsts0=%2526ty%253D30%2526q%253DLong%252520Beach%25252C%252520California%2526satid%253Did.sid%25253A0b412653-c6c4-4e41-b59c-e1214435431f%2526vdpid%253D5059794131925073922%2526mb%253D33.885475~-118.300506~33.732738~-118.011643%2526cardbg%253D%252523F98745&tstt0=Long%20Beach%2C%20CA&cp=33.809012~-118.264784&lvl=11.649719&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251024_QueenMary\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=RMS+Queen+Mary&form=hpcapt&filters=HpDate:\"20251023_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251024_QueenMary"
+            },
+            "Ssd": "20251024",
+            "Name": "QueenMary",
+            "Market": "EN-GB",
+            "Hash": "3607133063",
+            "FullDateString": "24 Oct 2025"
+        }
+    },
+    {
         "startdate": "20251022",
         "fullstartdate": "202510222300",
         "enddate": "20251023",

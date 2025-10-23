@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251023",
+        "fullstartdate": "202510230700",
+        "enddate": "20251024",
+        "url": "/th?id=OHR.SnowLeopard_ROW0153710664_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SnowLeopard_ROW0153710664",
+        "copyright": "Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India (© Oriol Alamany/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Snow+Leopard&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251023_SnowLeopard%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c9c10e5cbace613502c88102bbb3b4f9",
+        "hsh": "7f4ebfa0724a67602de8a64b7f915624",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ever tried spotting a snow leopard in the wild? It's called the 'ghost of the mountains' for a reason—you're more likely to see its pawprints than the big cat itself. It is sturdy and short-legged compared to other big cats, standing over 55 centimetres at the shoulder and measuring 75 to 150 centimetres from head to body.",
+                "Image": {
+                    "Url": "/th?id=OHR.SnowLeopard_ROW0153710664_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SnowLeopard_ROW0153710664_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India",
+                "Copyright": "© Oriol Alamany/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251023_SnowLeopard\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Snow+Leopard&form=hpcapt&filters=HpDate:\"20251023_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251023_SnowLeopard"
+            },
+            "Ssd": "20251023",
+            "Name": "SnowLeopard",
+            "Market": "ROW",
+            "Hash": "0153710664",
+            "FullDateString": "23 okt. 2025"
+        }
+    },
+    {
         "startdate": "20251022",
         "fullstartdate": "202510220700",
         "enddate": "20251023",
