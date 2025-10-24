@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251024",
+        "fullstartdate": "202510242200",
+        "enddate": "20251025",
+        "url": "/th?id=OHR.PaisVascoDay_ES-ES6776223688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PaisVascoDay_ES-ES6776223688",
+        "copyright": "Río Oca, Mundaka, Vizcaya, País Vasco, España (© Tuul and Bruno Morandi/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+del+Pa%C3%ADs+Vasco&form=hpcapt&filters=HpDate%3a%2220251024_2200%22",
+        "title": "Kaixo! ¡Qué día tan bonito!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251024_PaisVascoDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "71e90e357873df30b216bde48bf31f63",
+        "hsh": "8f8c3c9422992e902a8ce66412cada97",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Hoy celebramos el Día del País Vasco, una jornada simbólica que recuerda aquel 25 de octubre de 1979, cuando el Estatuto de Autonomía vasco fue aprobado en referéndum, otorgando nuevas competencias y reconocimiento a Euskadi.",
+                "Image": {
+                    "Url": "/th?id=OHR.PaisVascoDay_ES-ES6776223688_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PaisVascoDay_ES-ES6776223688_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Kaixo! ¡Qué día tan bonito!",
+                "Title": "Río Oca, Mundaka, Vizcaya, País Vasco, España",
+                "Copyright": "© Tuul and Bruno Morandi/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251025_PaisVascoDay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=D%c3%ada+del+Pa%c3%ads+Vasco&form=hpcapt&filters=HpDate:\"20251024_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251025_PaisVascoDay"
+            },
+            "Ssd": "20251025",
+            "Name": "PaisVascoDay",
+            "Market": "ES-ES",
+            "Hash": "6776223688",
+            "FullDateString": "25 de oct. de 2025"
+        }
+    },
+    {
         "startdate": "20251023",
         "fullstartdate": "202510232200",
         "enddate": "20251024",
