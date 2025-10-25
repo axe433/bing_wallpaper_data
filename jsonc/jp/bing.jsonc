@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251025",
+        "fullstartdate": "202510251500",
+        "enddate": "20251026",
+        "url": "/th?id=OHR.PumpkinFarm_JA-JP4335474767_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PumpkinFarm_JA-JP4335474767",
+        "copyright": "カボチャ農園, 米国 ノースカロライナ州 (© Matthew H Irvin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%BB%E3%83%91%E3%83%B3%E3%83%97%E3%82%AD%E3%83%B3%E3%83%BB%E3%83%87%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220251025_1500%22",
+        "title": "今日はナショナル・パンプキン・デー",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251025_PumpkinFarm%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "50610f0ecafab35369fb17bbc3b03f03",
+        "hsh": "2b968e6e87d9a965a62577bd2d6a830f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日、10 月 26 日は米国の「ナショナル・パンプキン・デー」。秋の風物詩ともいえるカボチャを称える日です。カボチャは、米国の人々にとって非常に馴染み深い存在であり、イリノイ州のモートンは、缶詰用カボチャの生産量が非常に高く「世界のカボチャの首都」として知られています。また、ニューハンプシャー州では、カボチャが州の公式果物に指定されています…",
+                "Image": {
+                    "Url": "/th?id=OHR.PumpkinFarm_JA-JP4335474767_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PumpkinFarm_JA-JP4335474767_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日はナショナル・パンプキン・デー",
+                "Title": "カボチャ農園, 米国 ノースカロライナ州",
+                "Copyright": "© Matthew H Irvin/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.5,-80/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=35.5,-80;S9;ノースカロライナ州, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=%E3%83%8E%E3%83%BC%E3%82%B9%E3%82%AB%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%8A%E5%B7%9E&mb=37.24846~-84.321655~33.154452~-75.452675&tt=%E3%83%8E%E3%83%BC%E3%82%B9%E3%82%AB%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%8A%2C%20%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD&cp=33.699433~-83.802346&lvl=5.0663147&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251026_PumpkinFarm\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%8a%e3%82%b7%e3%83%a7%e3%83%8a%e3%83%ab%e3%83%bb%e3%83%91%e3%83%b3%e3%83%97%e3%82%ad%e3%83%b3%e3%83%bb%e3%83%87%e3%83%bc&form=hpcapt&filters=HpDate:\"20251025_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251026_PumpkinFarm"
+            },
+            "Ssd": "20251026",
+            "Name": "PumpkinFarm",
+            "Market": "JA-JP",
+            "Hash": "4335474767",
+            "FullDateString": "2025 年 10月 月 26 日"
+        }
+    },
+    {
         "startdate": "20251024",
         "fullstartdate": "202510241500",
         "enddate": "20251025",

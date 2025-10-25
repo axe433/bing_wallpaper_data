@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251025",
+        "fullstartdate": "202510251600",
+        "enddate": "20251026",
+        "url": "/th?id=OHR.PumpkinFarm_ZH-CN1232784365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PumpkinFarm_ZH-CN1232784365",
+        "copyright": "北卡罗来纳州的南瓜农场, 美国 (© Matthew H Irvin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%8D%97%E7%93%9C&form=hpcapt&mkt=zh-cn",
+        "title": "南瓜日，今日登场！",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251025_PumpkinFarm%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "50610f0ecafab35369fb17bbc3b03f03",
+        "hsh": "845ef42d1a3f4601409939438eb6fdbc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "没有什么比一片等待采摘的南瓜田更能代表秋天了。这些圆滚滚的南瓜出现在南瓜派、门廊装饰、拿铁和游行中。美国一些地方更是把对南瓜的喜爱推向极致——伊利诺伊州莫顿镇自称为“世界南瓜之都”，因为其产量高且与罐装南瓜产业联系紧密。新罕布什尔州则紧随其后，将南瓜定为州水果。",
+                "Image": {
+                    "Url": "/th?id=OHR.PumpkinFarm_ZH-CN1232784365_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PumpkinFarm_ZH-CN1232784365_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "南瓜日，今日登场！",
+                "Title": "北卡罗来纳州的南瓜农场, 美国",
+                "Copyright": "© Matthew H Irvin/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "2020 年，美国人均南瓜消费量为 6.44 磅。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251026_PumpkinFarm\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%8d%97%e7%93%9c&form=hpcapt&filters=HpDate:\"20251025_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251026_PumpkinFarm"
+            },
+            "Ssd": "20251026",
+            "Name": "PumpkinFarm",
+            "Market": "ZH-CN",
+            "Hash": "1232784365",
+            "FullDateString": "2025 10月 26"
+        }
+    },
+    {
         "startdate": "20251024",
         "fullstartdate": "202510241600",
         "enddate": "20251025",

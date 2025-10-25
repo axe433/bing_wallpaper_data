@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251025",
+        "fullstartdate": "202510252300",
+        "enddate": "20251027",
+        "url": "/th?id=OHR.DSTEnds2025_EN-GB3762675856_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DSTEnds2025_EN-GB3762675856",
+        "copyright": "Clock tower of Emmanuel College, University of Cambridge, England (© Geography Photos/Universal Images Group/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Daylight+Saving+Time+UK&form=hpcapt&filters=HpDate%3a%2220251025_2300%22",
+        "title": "Clocking off",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251025_DSTEnds2025%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "09db6bf9267dd2c785d78309cf56e8c2",
+        "hsh": "b1c262a2d3d7352262eeef8101f402be",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "In the quadrangle of Emmanuel College, Cambridge, the clock tower stands as a silent witness to the passing hours. But on the last Sunday in October, it is given a peculiar job: striking time twice. At 2 a.m., British Summer Time (BST) officially ends, and the United Kingdom reverts to Greenwich Mean Time. One moment it's 2 a.m., the next it's 1 a.m. again.",
+                "Image": {
+                    "Url": "/th?id=OHR.DSTEnds2025_EN-GB3762675856_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DSTEnds2025_EN-GB3762675856_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Clocking off",
+                "Title": "Clock tower of Emmanuel College, University of Cambridge, England",
+                "Copyright": "© Geography Photos/Universal Images Group/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.203625,0.123776/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=52.203625,0.123776;S9;Emmanuel College, Cambridge, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Emmanuel%20College%20Cambridge&ss=ypid.YN599F321A2496224C&mb=52.207955~0.110893~52.199289~0.136642&description=Andrew%27s%20St%2C%20Cambridge%20CB2%203AP%C2%B7College%2Funiversity&cardbg=%2388979C&dt=1758814200000&tt=Emmanuel%20College%2C%20University%20of%20Cambridge&tsts0=%2526ty%253D18%2526q%253DEmmanuel%252520College%252520Cambridge%2526ss%253Dypid.YN599F321A2496224C%2526mb%253D52.207955~0.110893~52.199289~0.136642%2526description%253DAndrew%252527s%252520St%25252C%252520Cambridge%252520CB2%2525203AP%2525C2%2525B7College%25252Funiversity%2526cardbg%253D%25252388979C%2526dt%253D1758814200000&tstt0=Emmanuel%20College%2C%20University%20of%20Cambridge&cp=52.367488~-5.91178&lvl=5.0190034&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251026_DSTEnds2025\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Daylight+Saving+Time+UK&form=hpcapt&filters=HpDate:\"20251025_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251026_DSTEnds2025"
+            },
+            "Ssd": "20251026",
+            "Name": "DSTEnds2025",
+            "Market": "EN-GB",
+            "Hash": "3762675856",
+            "FullDateString": "26 Oct 2025"
+        }
+    },
+    {
         "startdate": "20251024",
         "fullstartdate": "202510242300",
         "enddate": "20251025",

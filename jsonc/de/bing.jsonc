@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251025",
+        "fullstartdate": "202510252200",
+        "enddate": "20251026",
+        "url": "/th?id=OHR.PumpkinFarm_DE-DE1674202755_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PumpkinFarm_DE-DE1674202755",
+        "copyright": "Kürbisfarm in North Carolina, USA (© Matthew H Irvin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=K%C3%BCrbisse&form=hpcapt&filters=HpDate%3a%2220251025_2200%22",
+        "title": "Herbstzauber in Orange",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251025_PumpkinFarm%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "50610f0ecafab35369fb17bbc3b03f03",
+        "hsh": "fd67e3365782d3557dce6082c9bdb927",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Kürbiszeit ist Wohlfühlzeit – und der Herbst zeigt sich von seiner schönsten Seite. Von September bis November erstrahlen die Felder in warmen Orangetönen, aber auch in Weiß und Grün, je nach Sorte. Allein in Deutschland gibt es rund 200 essbare Kürbissorten. Besonders beliebt sind der Hokkaido mit seiner essbaren Schale und nussigen Note, der cremige Butternut und der aromatisch-würzige Muskatkürbis. In dieser Zeit laden viele Bauernhöfe zu Ernteaktionen, Kürbisshows und kreativen Workshops ein. Aus Tausenden von Kürbissen entstehen dort fantasievolle Figuren, die Groß und Klein begeistern – von Märchenwesen bis hin zu Piratenschiffen.",
+                "Image": {
+                    "Url": "/th?id=OHR.PumpkinFarm_DE-DE1674202755_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PumpkinFarm_DE-DE1674202755_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Herbstzauber in Orange",
+                "Title": "Kürbisfarm in North Carolina, USA",
+                "Copyright": "© Matthew H Irvin/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Ein mittelgroßer Hokkaido-Kürbis enthält etwa dreimal so viel Beta-Carotin wie eine Karotte – ideal für die Stärkung des Immunsystems im Herbst!",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251026_PumpkinFarm\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=K%c3%bcrbisse&form=hpcapt&filters=HpDate:\"20251025_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251026_PumpkinFarm"
+            },
+            "Ssd": "20251026",
+            "Name": "PumpkinFarm",
+            "Market": "DE-DE",
+            "Hash": "1674202755",
+            "FullDateString": "26. Okt.. 2025"
+        }
+    },
+    {
         "startdate": "20251024",
         "fullstartdate": "202510242200",
         "enddate": "20251025",
