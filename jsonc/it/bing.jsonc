@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251026",
+        "fullstartdate": "202510262300",
+        "enddate": "20251027",
+        "url": "/th?id=OHR.AfricanRaven_IT-IT9701842647_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AfricanRaven_IT-IT9701842647",
+        "copyright": "Corvus crassirostris, Monti Simien, Etiopia (© Ignacio Yufera/FLPA/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Corvo+abissino&form=hpcapt",
+        "title": "Ali sopra l’Africa",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251026_AfricanRaven%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e2b1fc92f99d0e86192ed7bbde94b908",
+        "hsh": "338256f3f5fb189176b4cca2c488472f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Con il suo piumaggio nero dai riflessi violacei al sole e il becco imponente, arcuato e pallido alla base, Corvus crassirostris, conosciuto anche come corvo abissino, è una figura maestosa degli altopiani africani. Raggiunge circa i 70 centimetri di lunghezza e poco meno di 1,5 chilogrammi di peso, rendendolo circa un quarto più pesante del corvo comune. Il suo becco, lungo circa 9 centimetri, è il più grande tra tutti gli uccelli posatori, uno strumento sorprendentemente versatile.",
+                "Image": {
+                    "Url": "/th?id=OHR.AfricanRaven_IT-IT9701842647_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AfricanRaven_IT-IT9701842647_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ali sopra l'Africa",
+                "Title": "Corvus crassirostris, Monti Simien, Etiopia",
+                "Copyright": "© Ignacio Yufera/FLPA/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Il corvus crassirostris è originario dell'Africa nord-orientale e si trova principalmente in Eritrea, Somalia ed Etiopia.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251027_AfricanRaven\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Corvo+abissino&form=hpcapt&filters=HpDate:\"20251026_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251027_AfricanRaven"
+            },
+            "Ssd": "20251027",
+            "Name": "AfricanRaven",
+            "Market": "IT-IT",
+            "Hash": "9701842647",
+            "FullDateString": "27 ottobre 2025"
+        }
+    },
+    {
         "startdate": "20251025",
         "fullstartdate": "202510252200",
         "enddate": "20251026",

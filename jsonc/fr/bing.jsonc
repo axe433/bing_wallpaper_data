@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251026",
+        "fullstartdate": "202510262300",
+        "enddate": "20251027",
+        "url": "/th?id=OHR.ChampagneDay_FR-FR1389141387_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ChampagneDay_FR-FR1389141387",
+        "copyright": "Grappe de raisins noirs, vignoble de Champagne (© Daniele SCHNEIDER/Photononstop/Alamy Stock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+du+champagne&form=hpcapt&filters=HpDate%3a%2220251026_2300%22",
+        "title": "Champagne !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251026_ChampagneDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "049a70a0c578c5acec8d56174a1c72a0",
+        "hsh": "06c46079f7897db634df0616363fdd4d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sous le ciel d'automne, les coteaux de Champagne se parent de mille couleurs. Les feuilles de vigne rougissent et s'embrasent, encadrant les grappes de pinot noir charnues et bleutées, prêtes à livrer leur secret. On entend encore le pas des vendangeurs qui, depuis des siècles, récoltent ce fruit fragile avec patience et respect. Chaque baie porte ici la mémoire des sols crayeux, de la lumière filtrée par les brumes matinales et du souffle constant des vents venus de la Marne.",
+                "Image": {
+                    "Url": "/th?id=OHR.ChampagneDay_FR-FR1389141387_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ChampagneDay_FR-FR1389141387_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Champagne !",
+                "Title": "Grappe de raisins noirs, vignoble de Champagne",
+                "Copyright": "© Daniele SCHNEIDER/Photononstop/Alamy Stock Photo",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Les caves de Champagne s’étendent sur des centaines de kilomètres et renferment plus d’un milliard de bouteilles, soit près de quatre années d’expéditions.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251027_ChampagneDay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Journ%c3%a9e+du+champagne&form=hpcapt&filters=HpDate:\"20251026_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251027_ChampagneDay"
+            },
+            "Ssd": "20251027",
+            "Name": "ChampagneDay",
+            "Market": "FR-FR",
+            "Hash": "1389141387",
+            "FullDateString": "27 oct. 2025"
+        }
+    },
+    {
         "startdate": "20251025",
         "fullstartdate": "202510252200",
         "enddate": "20251026",

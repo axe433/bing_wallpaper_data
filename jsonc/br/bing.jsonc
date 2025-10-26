@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251026",
+        "fullstartdate": "202510260300",
+        "enddate": "20251027",
+        "url": "/th?id=OHR.PumpkinFarm_PT-BR8901400722_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PumpkinFarm_PT-BR8901400722",
+        "copyright": "Fazenda de abóboras na Carolina do Norte, EUA (© Matthew H Irvin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=planta%C3%A7%C3%A3o+de+ab%C3%B3boras&form=hpcapt&mkt=pt-br",
+        "title": "Abóboras que contam histórias",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251026_PumpkinFarm%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "50610f0ecafab35369fb17bbc3b03f03",
+        "hsh": "e27603216b397971b9031ffcf069a2a9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nada como um campo cheio de abóboras esperando para serem colhidas, como vemos na imagem de hoje. Esses frutos conquistaram espaço em diversas tradições e têm grande presença na cultura brasileira, tanto na culinária quanto na agricultura. Aqui, variedades como a cabotiá (abóbora japonesa) são amplamente cultivadas e consumidas em pratos típicos como doces, purês, sopas e refogados. Além disso, com a popularização do Halloween, o uso decorativo da abóbora também tem crescido em algumas regiões do país.",
+                "Image": {
+                    "Url": "/th?id=OHR.PumpkinFarm_PT-BR8901400722_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PumpkinFarm_PT-BR8901400722_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Abóboras que contam histórias",
+                "Title": "Fazenda de abóboras na Carolina do Norte, EUA",
+                "Copyright": "© Matthew H Irvin/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251026_PumpkinFarm\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=planta%c3%a7%c3%a3o+de+ab%c3%b3boras&form=hpcapt&filters=HpDate:\"20251026_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251026_PumpkinFarm"
+            },
+            "Ssd": "20251026",
+            "Name": "PumpkinFarm",
+            "Market": "PT-BR",
+            "Hash": "8901400722",
+            "FullDateString": "26 out. 2025"
+        }
+    },
+    {
         "startdate": "20251025",
         "fullstartdate": "202510250300",
         "enddate": "20251026",
