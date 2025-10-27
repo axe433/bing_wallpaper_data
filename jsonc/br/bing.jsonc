@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251027",
+        "fullstartdate": "202510270300",
+        "enddate": "20251028",
+        "url": "/th?id=OHR.AfricanRaven_PT-BR7550569316_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AfricanRaven_PT-BR7550569316",
+        "copyright": "Corvo-de-bico-grosso, Montanhas Simien, Etiópia (© Ignacio Yufera/FLPA/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Corvo+de+bico+grosso+no+Brasil&form=hpcapt&mkt=pt-br",
+        "title": "O maior corvo do mundo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251027_AfricanRaven%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e2b1fc92f99d0e86192ed7bbde94b908",
+        "hsh": "5dfb6ed4f3e8ff3e3189741259aac7e6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "O corvo-de-bico-grosso é o maior corvo do mundo e ilustra nossa imagem de hoje. É encontrado nas montanhas da Etiópia, Eritreia e Somália, entre 1.500 e 3.400 metros de altitude. Mede cerca de 70 centímetros e pesa mais de um quilo, sendo 25% mais pesado que o corvo-comum. Seu bico arqueado, claro na base e com cerca de nove centímetros, é o maior entre as aves que pousam em galhos.",
+                "Image": {
+                    "Url": "/th?id=OHR.AfricanRaven_PT-BR7550569316_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AfricanRaven_PT-BR7550569316_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O maior corvo do mundo",
+                "Title": "Corvo-de-bico-grosso, Montanhas Simien, Etiópia",
+                "Copyright": "© Ignacio Yufera/FLPA/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251027_AfricanRaven\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Corvo+de+bico+grosso+no+Brasil&form=hpcapt&filters=HpDate:\"20251027_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251027_AfricanRaven"
+            },
+            "Ssd": "20251027",
+            "Name": "AfricanRaven",
+            "Market": "PT-BR",
+            "Hash": "7550569316",
+            "FullDateString": "27 out. 2025"
+        }
+    },
+    {
         "startdate": "20251026",
         "fullstartdate": "202510260300",
         "enddate": "20251027",

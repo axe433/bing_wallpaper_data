@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251027",
+        "fullstartdate": "202510270700",
+        "enddate": "20251028",
+        "url": "/th?id=OHR.AfricanRaven_EN-US4057369898_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AfricanRaven_EN-US4057369898",
+        "copyright": "Thick-billed raven, Simien Mountains, Ethiopia (© Ignacio Yufera/FLPA/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=thick+billed+raven&form=hpcapt&filters=HpDate%3a%2220251027_0700%22",
+        "title": "Bigger, bolder, beakier",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251027_AfricanRaven%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e2b1fc92f99d0e86192ed7bbde94b908",
+        "hsh": "b53144c848e1f094b0492790f6da3e8b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Perched high in the mountains of Ethiopia, Eritrea, and Somalia, the thick-billed raven holds the title of the world's largest raven. At nearly 28 inches in length and weighing more than 3 pounds, it is about a quarter heavier than the common raven. Its enormous, arched bill—pale at the base and close to 3.5 inches long—is the largest among perching birds. These ravens live mostly between 5,000 and 11,200 feet above sea level, found across farmland, rocky cliffs, and even rooftops in mountain towns.",
+                "Image": {
+                    "Url": "/th?id=OHR.AfricanRaven_EN-US4057369898_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AfricanRaven_EN-US4057369898_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Bigger, bolder, beakier",
+                "Title": "Thick-billed raven, Simien Mountains, Ethiopia",
+                "Copyright": "© Ignacio Yufera/FLPA/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Thick-billed ravens are native to northeastern Africa, found mainly in Eritrea, Somalia, and Ethiopia.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251027_AfricanRaven\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=thick+billed+raven&form=hpcapt&filters=HpDate:\"20251027_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251027_AfricanRaven"
+            },
+            "Ssd": "20251027",
+            "Name": "AfricanRaven",
+            "Market": "EN-US",
+            "Hash": "4057369898",
+            "FullDateString": "Oct 27, 2025"
+        }
+    },
+    {
         "startdate": "20251026",
         "fullstartdate": "202510260700",
         "enddate": "20251027",

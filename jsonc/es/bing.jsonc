@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251027",
+        "fullstartdate": "202510272300",
+        "enddate": "20251028",
+        "url": "/th?id=OHR.TepliceRocks_ES-ES0482796188_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TepliceRocks_ES-ES0482796188",
+        "copyright": "Puerta gótica en las rocas de Adršpach-Teplice, Bohemia, República Checa (© Kseniya_Milner/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Rocas+Adr%C5%A1pach+Teplice&form=hpcapt&filters=HpDate%3a%2220251027_2300%22",
+        "title": "Entrada al paraíso rocoso",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251027_TepliceRocks%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "edc999668e8917be41e603ca83fa5d3f",
+        "hsh": "086b648255368d67a2a4672bb0be7c9a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Desde visitantes del siglo XVIII hasta senderos tallados en roca, esta ciudad rocosa narra una historia de supervivencia. En la región checa de Hradec Králové, las rocas de Adršpach-Teplice forman el laberinto de arenisca más grande de Europa Central. Durante siglos, los acantilados y pasadizos permanecieron cubiertos por bosque, hasta que un gran incendio despejó la zona. Arcos, torres y pasillos sinuosos surgieron de las cenizas, y las primeras rutas de senderismo fueron talladas en la roca. Exploradores y poetas dejaron sus huellas con inscripciones que capturaron la belleza salvaje y encantadora del lugar.",
+                "Image": {
+                    "Url": "/th?id=OHR.TepliceRocks_ES-ES0482796188_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TepliceRocks_ES-ES0482796188_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Entrada al paraíso rocoso",
+                "Title": "Puerta gótica en las rocas de Adršpach-Teplice, Bohemia, República Checa",
+                "Copyright": "© Kseniya_Milner/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251028_TepliceRocks\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Rocas+Adr%c5%a1pach+Teplice&form=hpcapt&filters=HpDate:\"20251027_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251028_TepliceRocks"
+            },
+            "Ssd": "20251028",
+            "Name": "TepliceRocks",
+            "Market": "ES-ES",
+            "Hash": "0482796188",
+            "FullDateString": "28 de oct. de 2025"
+        }
+    },
+    {
         "startdate": "20251026",
         "fullstartdate": "202510262300",
         "enddate": "20251027",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251027",
+        "fullstartdate": "202510272300",
+        "enddate": "20251028",
+        "url": "/th?id=OHR.TepliceRocks_FR-FR0275962088_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TepliceRocks_FR-FR0275962088",
+        "copyright": "Porte gothique, rochers d'Adršpach-Teplice, Tchéquie (© Kseniya_Milner/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=rochers+d%27Adr%C5%A1pach-Teplice%2c+Tch%C3%A9quie&form=hpcapt&filters=HpDate%3a%2220251027_2300%22",
+        "title": "Un monde au-delà de l’arche",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251027_TepliceRocks%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "edc999668e8917be41e603ca83fa5d3f",
+        "hsh": "e7699f89859e9972b90c926089f1d987",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sous une voûte de pierre, une porte gothique s’élève comme une promesse d’évasion. Dans la région de Hradec Králové, au nord-est de la République tchèque, les rochers d'Adršpach-Teplice forment le plus vaste labyrinthe de grès d'Europe centrale. Pendant des siècles, falaises et passages sont restés enfouis sous la forêt jusqu’à ce qu’un grand incendie dénude le paysage. Des arches, des tours et des couloirs sinueux émergent alors des cendres, révélant une cité minérale façonnée par le feu.",
+                "Image": {
+                    "Url": "/th?id=OHR.TepliceRocks_FR-FR0275962088_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TepliceRocks_FR-FR0275962088_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un monde au-delà de l'arche",
+                "Title": "Porte gothique, rochers d'Adršpach-Teplice, Tchéquie",
+                "Copyright": "© Kseniya_Milner/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.61139,16.115/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=50.61139,16.115;S9;Adršpach-Teplice, Tchéquie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Adr%C5%A1pach-Teplice%20Rocks&satid=id.sid%3A0daafcd1-5f56-eaf0-37b2-208a7bb618b6&vdpid=7427257042152194049&mb=50.616823~16.099842~50.605957~16.13014&cardbg=%23F98745&dt=1756902600000&tt=Adr%C5%A1pach-Teplice%20Rocks&tsts0=%2526ty%253D30%2526q%253DAdr%2525C5%2525A1pach-Teplice%252520Rocks%2526satid%253Did.sid%25253A0daafcd1-5f56-eaf0-37b2-208a7bb618b6%2526vdpid%253D7427257042152194049%2526mb%253D50.616823~16.099842~50.605957~16.13014%2526cardbg%253D%252523F98745%2526dt%253D1756902600000&tstt0=Adr%C5%A1pach-Teplice%20Rocks&cp=47.854934~9.955265&lvl=5.3065815&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251028_TepliceRocks\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=rochers+d%27Adr%c5%a1pach-Teplice%2c+Tch%c3%a9quie&form=hpcapt&filters=HpDate:\"20251027_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251028_TepliceRocks"
+            },
+            "Ssd": "20251028",
+            "Name": "TepliceRocks",
+            "Market": "FR-FR",
+            "Hash": "0275962088",
+            "FullDateString": "28 oct. 2025"
+        }
+    },
+    {
         "startdate": "20251026",
         "fullstartdate": "202510262300",
         "enddate": "20251027",
