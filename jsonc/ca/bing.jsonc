@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251028",
+        "fullstartdate": "202510280400",
+        "enddate": "20251029",
+        "url": "/th?id=OHR.TepliceRocks_EN-CA8722965195_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TepliceRocks_EN-CA8722965195",
+        "copyright": "The Gothic Gate in the Adršpach-Teplice Rocks, Czechia (© Kseniya_Milner/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Adrspach+Teplice+Rocks+Czechia&form=hpcapt&filters=HpDate%3a%2220251028_0400%22",
+        "title": "A gateway to stone wonders",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251028_TepliceRocks%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "edc999668e8917be41e603ca83fa5d3f",
+        "hsh": "eb6a085e57c5fc5ecb05a5231a1dc25d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "From 18th-century visitors to fire-carved trails, this rock city tells a story of survival. Hidden in Czechia's Hradec Králové Region, the Adršpach–Teplice Rocks form Central Europe's largest sandstone labyrinth. For centuries, the cliffs and passages lay cloaked in forest, until a great fire stripped the land bare. Arches, towers and winding corridors emerged out of the ashes, and the first hiking paths were carved into the rock. Soon after, explorers and poets left their marks with stone inscriptions that captured a destination both wild and enchanting.",
+                "Image": {
+                    "Url": "/th?id=OHR.TepliceRocks_EN-CA8722965195_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TepliceRocks_EN-CA8722965195_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A gateway to stone wonders",
+                "Title": "The Gothic Gate in the Adršpach-Teplice Rocks, Czechia",
+                "Copyright": "© Kseniya_Milner/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.61139,16.115/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=50.61139,16.115;S9;Adršpach-Teplice Rocks, Czechia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Adr%C5%A1pach-Teplice%20Rocks&satid=id.sid%3A0daafcd1-5f56-eaf0-37b2-208a7bb618b6&vdpid=7427257042152194049&mb=50.616823~16.099842~50.605957~16.13014&cardbg=%23F98745&dt=1756902600000&tt=Adr%C5%A1pach-Teplice%20Rocks&tsts0=%2526ty%253D30%2526q%253DAdr%2525C5%2525A1pach-Teplice%252520Rocks%2526satid%253Did.sid%25253A0daafcd1-5f56-eaf0-37b2-208a7bb618b6%2526vdpid%253D7427257042152194049%2526mb%253D50.616823~16.099842~50.605957~16.13014%2526cardbg%253D%252523F98745%2526dt%253D1756902600000&tstt0=Adr%C5%A1pach-Teplice%20Rocks&cp=47.854934~9.955265&lvl=5.3065815&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251028_TepliceRocks\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Adrspach+Teplice+Rocks+Czechia&form=hpcapt&filters=HpDate:\"20251028_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251028_TepliceRocks"
+            },
+            "Ssd": "20251028",
+            "Name": "TepliceRocks",
+            "Market": "EN-CA",
+            "Hash": "8722965195",
+            "FullDateString": "Oct. 28, 2025"
+        }
+    },
+    {
         "startdate": "20251027",
         "fullstartdate": "202510270400",
         "enddate": "20251028",

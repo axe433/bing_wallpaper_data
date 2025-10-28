@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251028",
+        "fullstartdate": "202510280300",
+        "enddate": "20251029",
+        "url": "/th?id=OHR.PublicServ_PT-BR4483210857_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PublicServ_PT-BR4483210857",
+        "copyright": "Congresso Nacional ao pôr do sol, Brasília, Distrito Federal (© Diego Grandi/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=dia+do+servidor+p%C3%BAblico&form=hpcapt&mkt=pt-br",
+        "title": "O Brasil dos bastidores",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251028_PublicServ%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3622fa8ff8d3c984306f28127b26bbb9",
+        "hsh": "9e54aab6928229524cda13141532e35f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Imagine um país em que escolas não abrem, estradas se desgastam sem reparo, certidões deixam de ser emitidas, vacinas não chegam aos postos e tribunais permanecem silenciosos. Esse seria o vazio sem servidores públicos — mais de 12 milhões de homens e mulheres que mantêm a vida coletiva em andamento, quase sempre longe dos holofotes.",
+                "Image": {
+                    "Url": "/th?id=OHR.PublicServ_PT-BR4483210857_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PublicServ_PT-BR4483210857_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O Brasil dos bastidores",
+                "Title": "Congresso Nacional ao pôr do sol, Brasília, Distrito Federal",
+                "Copyright": "© Diego Grandi/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251028_PublicServ\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=dia+do+servidor+p%c3%bablico&form=hpcapt&filters=HpDate:\"20251028_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251028_PublicServ"
+            },
+            "Ssd": "20251028",
+            "Name": "PublicServ",
+            "Market": "PT-BR",
+            "Hash": "4483210857",
+            "FullDateString": "28 out. 2025"
+        }
+    },
+    {
         "startdate": "20251027",
         "fullstartdate": "202510270300",
         "enddate": "20251028",

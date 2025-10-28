@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251028",
+        "fullstartdate": "202510282300",
+        "enddate": "20251029",
+        "url": "/th?id=OHR.FanalForest_DE-DE4508530249_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FanalForest_DE-DE4508530249",
+        "copyright": "Uralte Stinklorbeerbäume im Fanal-Wald auf der Insel Madeira, Portugal (© Lukas Jonaitis/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Laurisilva+von+Madeira&form=hpcapt&filters=HpDate%3a%2220251028_2300%22",
+        "title": "In der Zeit verwurzelt",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251028_FanalForest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ca663fa0d488faa279a595a5ec473b92",
+        "hsh": "d8f04eb3c1dc8857d94481cba13d9ef9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Entdecken Sie heute den faszinierenden Nebelwald Madeiras – ein märchenhaftes Naturerlebnis, das Sie in eine andere Welt entführt. Die zu Portugal gehörende Insel Madeira liegt etwa 965 Kilometer südwestlich des portugiesischen Festlands und ist ein wahres Paradies für Naturliebhaber. Im Fanal-Wald, auch bekannt als „Feenwald“, wandern Sie durch geheimnisvollen Nebel und uralte Stinklorbeerbäume (Ocotea foetens), die zum größten erhaltenen Lorbeerwald Europas, der sogenannten Laurisilva, gehören. Rund 90 % davon sind noch naturbelassen.",
+                "Image": {
+                    "Url": "/th?id=OHR.FanalForest_DE-DE4508530249_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FanalForest_DE-DE4508530249_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "In der Zeit verwurzelt",
+                "Title": "Uralte Stinklorbeerbäume im Fanal-Wald auf der Insel Madeira, Portugal",
+                "Copyright": "© Lukas Jonaitis/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/32.371666,-16.274998/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=32.371666,-16.274998;S9;Madeira, Portugal&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Madeira&satid=id.sid%3Afd1c338d-a716-e095-102a-5ac3106ddd68&vdpid=161481742&mb=33.107903~-19.620631~30.0271~-13.502359&cardbg=%23F98745&tt=Madeira%20Island%2C%20Portugal&tsts0=%2526ty%253D30%2526q%253DMadeira%2526satid%253Did.sid%25253Afd1c338d-a716-e095-102a-5ac3106ddd68%2526vdpid%253D161481742%2526mb%253D33.107903~-19.620631~30.0271~-13.502359%2526cardbg%253D%252523F98745&tstt0=Madeira%20Island%2C%20Portugal&cp=39.790702~-51.683346&lvl=3.2297554&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251029_FanalForest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Laurisilva+von+Madeira&form=hpcapt&filters=HpDate:\"20251028_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251029_FanalForest"
+            },
+            "Ssd": "20251029",
+            "Name": "FanalForest",
+            "Market": "DE-DE",
+            "Hash": "4508530249",
+            "FullDateString": "29. Okt.. 2025"
+        }
+    },
+    {
         "startdate": "20251027",
         "fullstartdate": "202510272300",
         "enddate": "20251028",

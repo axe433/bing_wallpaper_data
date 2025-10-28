@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251028",
+        "fullstartdate": "202510282300",
+        "enddate": "20251029",
+        "url": "/th?id=OHR.FanalForest_FR-FR0588492140_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FanalForest_FR-FR0588492140",
+        "copyright": "Lauriers centenaires de la forêt de Fanal, île de Madère, Portugal (© Lukas Jonaitis/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=for%C3%AAt+de+Fanal+Portugal&form=hpcapt&filters=HpDate%3a%2220251028_2300%22",
+        "title": "Forêt en clair-obscur",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251028_FanalForest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ca663fa0d488faa279a595a5ec473b92",
+        "hsh": "3fb876b8f20b617426b84afcf2a98315",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Au nord de l'île portugaise de Madère, la forêt de Fanal s'ouvre comme un théâtre de brume. Les lauriers centenaires, recouverts de mousse, y dessinent des formes étranges dans une lumière diffuse. Elle appartient à la Laurissilva, la plus vaste forêt de lauriers subtropicaux encore intacte au monde, dont plus de 90 % de la couverture végétale est restée primaire. C'est un véritable musée vivant qui abrite des espèces uniques, comme le pigeon trocaz, endémique de l'île.",
+                "Image": {
+                    "Url": "/th?id=OHR.FanalForest_FR-FR0588492140_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FanalForest_FR-FR0588492140_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Forêt en clair-obscur",
+                "Title": "Lauriers centenaires de la forêt de Fanal, île de Madère, Portugal",
+                "Copyright": "© Lukas Jonaitis/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/32.371666,-16.274998/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=32.371666,-16.274998;S9;Île de Madère, Portugal&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Madeira&satid=id.sid%3Afd1c338d-a716-e095-102a-5ac3106ddd68&vdpid=161481742&mb=33.107903~-19.620631~30.0271~-13.502359&cardbg=%23F98745&tt=Madeira%20Island%2C%20Portugal&tsts0=%2526ty%253D30%2526q%253DMadeira%2526satid%253Did.sid%25253Afd1c338d-a716-e095-102a-5ac3106ddd68%2526vdpid%253D161481742%2526mb%253D33.107903~-19.620631~30.0271~-13.502359%2526cardbg%253D%252523F98745&tstt0=Madeira%20Island%2C%20Portugal&cp=39.790702~-51.683346&lvl=3.2297554&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251029_FanalForest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=for%c3%aat+de+Fanal+Portugal&form=hpcapt&filters=HpDate:\"20251028_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251029_FanalForest"
+            },
+            "Ssd": "20251029",
+            "Name": "FanalForest",
+            "Market": "FR-FR",
+            "Hash": "0588492140",
+            "FullDateString": "29 oct. 2025"
+        }
+    },
+    {
         "startdate": "20251027",
         "fullstartdate": "202510272300",
         "enddate": "20251028",

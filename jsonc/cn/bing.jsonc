@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251028",
+        "fullstartdate": "202510281600",
+        "enddate": "20251029",
+        "url": "/th?id=OHR.FanalForest_ZH-CN2203572101_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FanalForest_ZH-CN2203572101",
+        "copyright": "法纳尔森林里的古老月桂树，马德拉群岛，葡萄牙 (© Lukas Jonaitis/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E8%91%A1%E8%90%84%E7%89%99%E9%A9%AC%E5%BE%B7%E6%8B%89%E7%BE%A4%E5%B2%9B&form=hpcapt&mkt=zh-cn",
+        "title": "时光扎根",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251028_FanalForest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ca663fa0d488faa279a595a5ec473b92",
+        "hsh": "1dea4a6283f26038d069dede5aeb5695",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "葡萄牙的马德拉岛位于本土西南约600英里处，这里隐藏着一片与众不同的森林。在岛的北坡上坐落着法纳尔森林，薄雾在古老的月桂树间飘荡。这些树是马德拉岛亚热带常绿林的一部分，亚热带常绿林是曾经广泛分布的月桂树林的杰出遗迹。它是现存规模最大的同类森林，其中约90%被认定为原始林。这里孕育着独特的动植物群，包括马德拉长趾鸽等特有物种，堪称一座活着的自然历史博物馆。",
+                "Image": {
+                    "Url": "/th?id=OHR.FanalForest_ZH-CN2203572101_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FanalForest_ZH-CN2203572101_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "时光扎根",
+                "Title": "法纳尔森林里的古老月桂树，马德拉群岛，葡萄牙",
+                "Copyright": "© Lukas Jonaitis/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "这是马德拉岛和加那利群岛月桂林中的常见树种，富含精油，刚砍伐时木材会散发出刺鼻气味。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251029_FanalForest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e8%91%a1%e8%90%84%e7%89%99%e9%a9%ac%e5%be%b7%e6%8b%89%e7%be%a4%e5%b2%9b&form=hpcapt&filters=HpDate:\"20251028_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251029_FanalForest"
+            },
+            "Ssd": "20251029",
+            "Name": "FanalForest",
+            "Market": "ZH-CN",
+            "Hash": "2203572101",
+            "FullDateString": "2025 10月 29"
+        }
+    },
+    {
         "startdate": "20251027",
         "fullstartdate": "202510271600",
         "enddate": "20251028",
