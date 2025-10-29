@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251029",
+        "fullstartdate": "202510292300",
+        "enddate": "20251030",
+        "url": "/th?id=OHR.PushkarFair_DE-DE2030410858_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PushkarFair_DE-DE2030410858",
+        "copyright": "Kamele in Jaisalmer, Rajasthan, Indien (© f9photos/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Kamele&form=hpcapt&filters=HpDate%3a%2220251029_2300%22",
+        "title": "Zwischen Dünen und Zeit",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251029_PushkarFair%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4fe56b3645906efed9a56d7154bffb6e",
+        "hsh": "85b1ddc3ce39c181094822d6fd7fc871",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Die Pushkarer Kamelmesse ist weit mehr als nur ein Viehmarkt – sie ist ein kulturelles Spektakel, das das ruhige Städtchen Pushkar in Rajasthan, Indien, in ein buntes, lebendiges Fest verwandelt. Jedes Jahr versammeln sich Tausende von Händlern, Pilgern und Neugierigen, um Kamele, Pferde und Rinder zu tauschen, während sie traditionelle Tänze, Wettbewerbe und religiöse Rituale am heiligen See erleben. Es ist, als würde sich die Wüste in Festlaune kleiden und ihre Geschichten durch jeden Schritt, jeden Blick und jeden Höcker erzählen.",
+                "Image": {
+                    "Url": "/th?id=OHR.PushkarFair_DE-DE2030410858_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PushkarFair_DE-DE2030410858_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Zwischen Dünen und Zeit",
+                "Title": "Kamele in Jaisalmer, Rajasthan, Indien",
+                "Copyright": "© f9photos/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/26.49028,74.55417/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=26.49028,74.55417;S9;Pushkar, Rajasthan, Indien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Pushkar%2C%20Rajasthan%2C%20India&satid=id.sid%3Acd14d4fa-ce4b-5053-4acf-86cba4e8d60c&vdpid=7411100137893658625&mb=26.629597~74.329467~26.445932~74.693276&cardbg=%23F98745&tt=Pushkar%2C%20Rajasthan%2C%20India&tsts0=%2526ty%253D30%2526q%253DPushkar%25252C%252520Rajasthan%25252C%252520India%2526satid%253Did.sid%25253Acd14d4fa-ce4b-5053-4acf-86cba4e8d60c%2526vdpid%253D7411100137893658625%2526mb%253D26.629597~74.329467~26.445932~74.693276%2526cardbg%253D%252523F98745&tstt0=Pushkar%2C%20Rajasthan%2C%20India&cp=31.474595~63.913224&lvl=4.233612&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251030_PushkarFair\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Kamele&form=hpcapt&filters=HpDate:\"20251029_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251030_PushkarFair"
+            },
+            "Ssd": "20251030",
+            "Name": "PushkarFair",
+            "Market": "DE-DE",
+            "Hash": "2030410858",
+            "FullDateString": "30. Okt.. 2025"
+        }
+    },
+    {
         "startdate": "20251028",
         "fullstartdate": "202510282300",
         "enddate": "20251029",

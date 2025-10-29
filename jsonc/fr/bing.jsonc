@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251029",
+        "fullstartdate": "202510292300",
+        "enddate": "20251030",
+        "url": "/th?id=OHR.PushkarFair_FR-FR0781642371_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PushkarFair_FR-FR0781642371",
+        "copyright": "Chameaux d’Arabie à Jaisalmer, Rajasthan, Inde (© f9photos/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Foire+aux+chameaux+de+Pushkar&form=hpcapt&filters=HpDate%3a%2220251029_2300%22",
+        "title": "Le « bosse » du sable",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251029_PushkarFair%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4fe56b3645906efed9a56d7154bffb6e",
+        "hsh": "5709ecd6e6cefb21f36ff20fcd548d33",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sous le ciel pourpre du Rajasthan, les dunes de Jaisalmer se parent de reflets dorés tandis que les silhouettes des chameaux avancent lentement dans la lumière du soir. Plus à l'est, la petite ville de Pushkar s'anime chaque automne à l'occasion de l'une des fêtes les plus vibrantes du pays : la foire aux chameaux.",
+                "Image": {
+                    "Url": "/th?id=OHR.PushkarFair_FR-FR0781642371_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PushkarFair_FR-FR0781642371_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Le « bosse » du sable",
+                "Title": "Chameaux d’Arabie à Jaisalmer, Rajasthan, Inde",
+                "Copyright": "© f9photos/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/26.49028,74.55417/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=26.49028,74.55417;S9;Pushkar, Rajasthan, Inde&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251030_PushkarFair\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Foire+aux+chameaux+de+Pushkar&form=hpcapt&filters=HpDate:\"20251029_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251030_PushkarFair"
+            },
+            "Ssd": "20251030",
+            "Name": "PushkarFair",
+            "Market": "FR-FR",
+            "Hash": "0781642371",
+            "FullDateString": "30 oct. 2025"
+        }
+    },
+    {
         "startdate": "20251028",
         "fullstartdate": "202510282300",
         "enddate": "20251029",

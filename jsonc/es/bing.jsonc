@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251029",
+        "fullstartdate": "202510292300",
+        "enddate": "20251030",
+        "url": "/th?id=OHR.PushkarFair_ES-ES0743477785_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PushkarFair_ES-ES0743477785",
+        "copyright": "Dromedarios en Jaisalmer, Rajasthan, India (© f9photos/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Feria+de+Pushkar&form=hpcapt&filters=HpDate%3a%2220251029_2300%22",
+        "title": "Bello cual camello",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251029_PushkarFair%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4fe56b3645906efed9a56d7154bffb6e",
+        "hsh": "df2c08b4565a40eb25c3534a56e6ce74",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Cada otoño, la ciudad desértica de Pushkar, en Rajasthan (India), cobra vida con una de las celebraciones más singulares del mundo: la Feria del Camello de Pushkar. Coincide con el mes lunar hindú de Kartik y suele celebrarse entre finales de octubre y principios de noviembre. Este año, las festividades se prolongan hasta el 5 de noviembre, marcando la temporada más esperada de la región.",
+                "Image": {
+                    "Url": "/th?id=OHR.PushkarFair_ES-ES0743477785_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PushkarFair_ES-ES0743477785_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Bello cual camello",
+                "Title": "Dromedarios en Jaisalmer, Rajasthan, India",
+                "Copyright": "© f9photos/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251030_PushkarFair\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Feria+de+Pushkar&form=hpcapt&filters=HpDate:\"20251029_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251030_PushkarFair"
+            },
+            "Ssd": "20251030",
+            "Name": "PushkarFair",
+            "Market": "ES-ES",
+            "Hash": "0743477785",
+            "FullDateString": "30 de oct. de 2025"
+        }
+    },
+    {
         "startdate": "20251028",
         "fullstartdate": "202510282300",
         "enddate": "20251029",
