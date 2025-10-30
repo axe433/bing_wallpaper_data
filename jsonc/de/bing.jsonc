@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251030",
+        "fullstartdate": "202510302300",
+        "enddate": "20251031",
+        "url": "/th?id=OHR.BranCastle_DE-DE1129139069_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BranCastle_DE-DE1129139069",
+        "copyright": "Eingang zum Schloss Bran, Brașov, Rumänien (© blue sky in my pocket/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Schloss+Bran+Bra%C8%99ov&form=hpcapt&filters=HpDate%3a%2220251030_2300%22",
+        "title": "Unter dem Zauber von Halloween",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251030_BranCastle%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1260648bc8eed41ff060a0e0d954c358",
+        "hsh": "5cde5c5a899062d8459ca53755ad0b9d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Das ist der Eingang zum Schloss Bran in Brașov in Rumänien – und dies ist keineswegs ein gewöhnlicher Eingang: Es ist das Tor zum Geheimnis, zum Mythos … und zum Schrecken! Dieses Schloss, berühmt für seine Verbindung zur Legende des Grafen Dracula, erhebt sich majestätisch in den Karpaten und scheint die dunklen Geheimnisse Transsilvaniens zu bewachen. Zu Halloween verwandelt sich das Schloss: gedämpftes Licht, unheimliche Geräusche und nächtliche Führungen, die selbst die Mutigsten erschaudern lassen. Wussten Sie, dass es unter dem Schloss geheime Tunnel gibt? Ideal für eine Flucht … oder um für immer zu verschwinden.",
+                "Image": {
+                    "Url": "/th?id=OHR.BranCastle_DE-DE1129139069_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BranCastle_DE-DE1129139069_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Unter dem Zauber von Halloween",
+                "Title": "Eingang zum Schloss Bran, Brașov, Rumänien",
+                "Copyright": "© blue sky in my pocket/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Während des Zweiten Weltkriegs wurde das Schloss Bran von Prinzessin Ileana, die zur Krankenschwester ausgebildet wurde, in ein Krankenhaus für verwundete Soldaten umgewandelt.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251031_BranCastle\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Schloss+Bran+Bra%c8%99ov&form=hpcapt&filters=HpDate:\"20251030_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251031_BranCastle"
+            },
+            "Ssd": "20251031",
+            "Name": "BranCastle",
+            "Market": "DE-DE",
+            "Hash": "1129139069",
+            "FullDateString": "31. Okt.. 2025"
+        }
+    },
+    {
         "startdate": "20251029",
         "fullstartdate": "202510292300",
         "enddate": "20251030",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251030",
+        "fullstartdate": "202510302300",
+        "enddate": "20251031",
+        "url": "/th?id=OHR.BranCastle_FR-FR2815069618_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BranCastle_FR-FR2815069618",
+        "copyright": "Entrée du château de Bran, Brașov, Roumanie (© blue sky in my pocket/Getty Images) Caption URL:",
+        "copyrightlink": "https://www.bing.com/search?q=Bran%2c+Bra%C8%99ov%2c+Roumanie&form=hpcapt&filters=HpDate%3a%2220251030_2300%22",
+        "title": "Sortez vos gousses d’ail, vos pieux et vos cols roulés !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251030_BranCastle%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1260648bc8eed41ff060a0e0d954c358",
+        "hsh": "48d6900c00a3c205db67771c46bcac70",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sous un ciel chargé de nuages en cette soirée d'octobre, les murs du château de Bran, en Roumanie, se dressent comme une silhouette hors du temps. Construit au XIVe siècle, il a résisté aux guerres et aux empires, mais c’est dans le souffle des légendes qu’il puise sa véritable force. Aux confins de la Transylvanie et de la Valachie, jadis marquée par le règne impitoyable de Vlad III, celui qui inspira le Dracula de Bram Stoker, l’ombre du château se confond avec le mythe.",
+                "Image": {
+                    "Url": "/th?id=OHR.BranCastle_FR-FR2815069618_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BranCastle_FR-FR2815069618_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Sortez vos gousses d'ail, vos pieux et vos cols roulés !",
+                "Title": "Entrée du château de Bran, Brașov, Roumanie",
+                "Copyright": "© blue sky in my pocket/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Pendant la guerre, le château fut un hôpital dirigé par la princesse Ileana, infirmière de formation.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251031_BranCastle\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Bran%2c+Bra%c8%99ov%2c+Roumanie&form=hpcapt&filters=HpDate:\"20251030_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251031_BranCastle"
+            },
+            "Ssd": "20251031",
+            "Name": "BranCastle",
+            "Market": "FR-FR",
+            "Hash": "2815069618",
+            "FullDateString": "31 oct. 2025"
+        }
+    },
+    {
         "startdate": "20251029",
         "fullstartdate": "202510292300",
         "enddate": "20251030",

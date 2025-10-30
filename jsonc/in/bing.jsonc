@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251030",
+        "fullstartdate": "202510301830",
+        "enddate": "20251031",
+        "url": "/th?id=OHR.BranCastle_EN-IN0933024345_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BranCastle_EN-IN0933024345",
+        "copyright": "Entrance of Bran Castle in Bran, Brașov, Romania (© blue sky in my pocket/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=bran+castle&form=hpcapt&filters=HpDate%3a%2220251030_1830%22",
+        "title": "Legends in the mist",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251030_BranCastle%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1260648bc8eed41ff060a0e0d954c358",
+        "hsh": "66a1a1c32197e39a7d86b973de47ac11",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Centuries ago, in parts of ancient Europe, the night marking the end of the harvest and beginning of winter was feared as a time when the worlds of the living and the dead overlapped. Communities lit fires to keep wandering spirits at bay, believing that on this night the boundary between the two faded. These rituals gave rise to Halloween, echoing in legends around Bran Castle.",
+                "Image": {
+                    "Url": "/th?id=OHR.BranCastle_EN-IN0933024345_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BranCastle_EN-IN0933024345_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Legends in the mist",
+                "Title": "Entrance of Bran Castle in Bran, Brașov, Romania",
+                "Copyright": "© blue sky in my pocket/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "During World War II, Bran Castle was turned into a hospital for wounded soldiers by Princess Ileana, who was trained as a nurse.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251031_BranCastle\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=bran+castle&form=hpcapt&filters=HpDate:\"20251030_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251031_BranCastle"
+            },
+            "Ssd": "20251031",
+            "Name": "BranCastle",
+            "Market": "EN-IN",
+            "Hash": "0933024345",
+            "FullDateString": "31 Oct, 2025"
+        }
+    },
+    {
         "startdate": "20251029",
         "fullstartdate": "202510291830",
         "enddate": "20251030",

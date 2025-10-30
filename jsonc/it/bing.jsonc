@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251030",
+        "fullstartdate": "202510302300",
+        "enddate": "20251031",
+        "url": "/th?id=OHR.BranCastle_IT-IT5114720491_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BranCastle_IT-IT5114720491",
+        "copyright": "Ingresso del Castello di Bran a Bran, Brașov, Romania (© blue sky in my pocket/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Il+castello+di+Bran&form=hpcapt",
+        "title": "Sotto il segno di Halloween",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251030_BranCastle%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1260648bc8eed41ff060a0e0d954c358",
+        "hsh": "52bdbb2ff805b8dc201bd348959a2a4c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Stanotte, Halloween sussurra tra le ombre, e pochi luoghi al mondo rispondono con un’eco così profonda come il Castello di Bran, in Romania. Costruito nel XIV secolo, ha sfidato guerre e imperi, ma ciò che lo rende immortale è la leggenda. Avvolto dalle nebbie della Transilvania e dalle ombre della Valacchia, il castello porta con sé l’ombra di Vlad III, il principe che ispirò il \"Dracula\" di Bram Stoker.",
+                "Image": {
+                    "Url": "/th?id=OHR.BranCastle_IT-IT5114720491_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BranCastle_IT-IT5114720491_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Sotto il segno di Halloween",
+                "Title": "Ingresso del Castello di Bran a Bran, Brașov, Romania",
+                "Copyright": "© blue sky in my pocket/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Durante la Seconda guerra mondiale, il castello di Bran fu trasformato in un ospedale per soldati feriti dalla principessa Ileana, che aveva una formazione da infermiera.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251031_BranCastle\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Il+castello+di+Bran&form=hpcapt&filters=HpDate:\"20251030_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251031_BranCastle"
+            },
+            "Ssd": "20251031",
+            "Name": "BranCastle",
+            "Market": "IT-IT",
+            "Hash": "5114720491",
+            "FullDateString": "31 ottobre 2025"
+        }
+    },
+    {
         "startdate": "20251029",
         "fullstartdate": "202510292300",
         "enddate": "20251030",

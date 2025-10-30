@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251030",
+        "fullstartdate": "202510301600",
+        "enddate": "20251031",
+        "url": "/th?id=OHR.BranCastle_ZH-CN3879660917_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BranCastle_ZH-CN3879660917",
+        "copyright": "布兰城堡入口, 布拉索夫, 罗马尼亚 (© blue sky in my pocket/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%B8%83%E5%85%B0%E5%9F%8E%E5%A0%A1&form=hpcapt&mkt=zh-cn",
+        "title": "在万圣节的魔咒之下",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251030_BranCastle%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1260648bc8eed41ff060a0e0d954c358",
+        "hsh": "df0c3b8e252a6307a80c12327ce8a3d2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今夜，万圣节的魔咒笼罩大地——而地球上仅有少数地方能与罗马尼亚的布兰城堡比肩，承载着如此深邃的谜团。这座建于14世纪的堡垒历经战火洗礼，见证君王更迭与帝国兴衰。但在此地，传说比历史更响亮。这座城堡坐落于以阴森传说闻名的特兰西瓦尼亚与昔日由弗拉德三世·德古拉统治的瓦拉几亚之间，散发着令人心悸的遗迹气息。弗拉德的残暴名声启发了布拉姆·斯托克1897年创作的小说《德古拉》。尽管故事背景并非布兰城堡，但它巍峨的轮廓与关于弗拉德幽灵出没的传闻，让真实与传说交织模糊，永远将这座城堡与人类最持久的传说之一紧密相连。",
+                "Image": {
+                    "Url": "/th?id=OHR.BranCastle_ZH-CN3879660917_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BranCastle_ZH-CN3879660917_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "在万圣节的魔咒之下",
+                "Title": "布兰城堡入口, 布拉索夫, 罗马尼亚",
+                "Copyright": "© blue sky in my pocket/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "第二次世界大战期间，伊莱安娜公主将布兰城堡改造成了伤兵医院，她本人曾接受过护士培训。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251031_BranCastle\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%b8%83%e5%85%b0%e5%9f%8e%e5%a0%a1&form=hpcapt&filters=HpDate:\"20251030_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251031_BranCastle"
+            },
+            "Ssd": "20251031",
+            "Name": "BranCastle",
+            "Market": "ZH-CN",
+            "Hash": "3879660917",
+            "FullDateString": "2025 10月 31"
+        }
+    },
+    {
         "startdate": "20251029",
         "fullstartdate": "202510291600",
         "enddate": "20251030",
