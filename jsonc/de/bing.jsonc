@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251031",
+        "fullstartdate": "202510312300",
+        "enddate": "20251101",
+        "url": "/th?id=OHR.BisonSprings_DE-DE1694080486_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BisonSprings_DE-DE1694080486",
+        "copyright": "Bisons grasen an heißen Quellen im Yellowstone-Nationalpark, Wyoming, USA (© Cheryl Ramalho/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Yellowstone-Nationalpark&form=hpcapt&filters=HpDate%3a%2220251031_2300%22",
+        "title": "Zeugen der Wildnis",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251031_BisonSprings%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f2d2204d9f9c1d40cde63b9d1d75050e",
+        "hsh": "aade466f9f7f16d802067061e3656e1d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dampf steigt aus der Erde, die Luft riecht nach Schwefel – und mitten in dieser mystischen Landschaft grasen Bisons. Der Yellowstone-Nationalpark im Nordwesten der USA liegt größtenteils im Bundesstaat Wyoming und ist berühmt für seine heißen Quellen, Geysire und dampfenden Schlammbecken. Diese geothermischen Wunder entstehen durch vulkanische Aktivität unter der Erdoberfläche – ähnlich wie in der Vulkaneifel in Rheinland-Pfalz, wo über 350 ehemalige Vulkane und Maarkrater bis heute von der bewegten Erdgeschichte zeugen.",
+                "Image": {
+                    "Url": "/th?id=OHR.BisonSprings_DE-DE1694080486_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BisonSprings_DE-DE1694080486_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Zeugen der Wildnis",
+                "Title": "Bisons grasen an heißen Quellen im Yellowstone-Nationalpark, Wyoming, USA",
+                "Copyright": "© Cheryl Ramalho/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.516228,-110.491905/2?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=44.516228,-110.491905;S9;Yellowstone-Nationalpark, Wyoming, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Grand%20Loop%20Rd%2C%20Yellowstone%20National%20Park%2C%20WY%2082190&ss=ypid.YN873x121224248&mb=44.929798~-110.976837~44.099783~-110.007225&description=Grand%20Loop%20Rd%2C%20Yellowstone%20National%20Park%2C%20WY%2082190&cardbg=%233DB838&dt=1758272400000&tt=Yellowstone%20National%20Park&tsts0=%2526ty%253D18%2526q%253DGrand%252520Loop%252520Rd%25252C%252520Yellowstone%252520National%252520Park%25252C%252520WY%25252082190%2526ss%253Dypid.YN873x121224248%2526mb%253D44.929798~-110.976837~44.099783~-110.007225%2526description%253DGrand%252520Loop%252520Rd%25252C%252520Yellowstone%252520National%252520Park%25252C%252520WY%25252082190%2526cardbg%253D%2525233DB838%2526dt%253D1758272400000&tstt0=Yellowstone%20National%20Park&cp=44.516269~-111.333275&lvl=10.14&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251101_BisonSprings\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Yellowstone-Nationalpark&form=hpcapt&filters=HpDate:\"20251031_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251101_BisonSprings"
+            },
+            "Ssd": "20251101",
+            "Name": "BisonSprings",
+            "Market": "DE-DE",
+            "Hash": "1694080486",
+            "FullDateString": "1. Nov.. 2025"
+        }
+    },
+    {
         "startdate": "20251030",
         "fullstartdate": "202510302300",
         "enddate": "20251031",

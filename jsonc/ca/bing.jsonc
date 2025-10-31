@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251031",
+        "fullstartdate": "202510310400",
+        "enddate": "20251101",
+        "url": "/th?id=OHR.PumpkinHalloween_EN-CA7800115096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PumpkinHalloween_EN-CA7800115096",
+        "copyright": "Different kinds of pumpkins and gourds (© davidfillion/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220251031_0400%22",
+        "title": "Under the Halloween spell",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251031_PumpkinHalloween%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5428a23b3838bbc01485523399276786",
+        "hsh": "a40a8dc87393d649106c87df0070dbe6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Knock, knock! Trick-or-treat? Halloween is here, bringing a whirl of costumes, candies and carved pumpkins to porches across Canada. What began over 1,000 years ago as Samhain, a Gaelic harvest festival where people disguised themselves to scare off spirits, has become a night of playful scares. Tonight, streets come alive with people in costumes of every kind, from eerie classics to hilarious pop culture twists.",
+                "Image": {
+                    "Url": "/th?id=OHR.PumpkinHalloween_EN-CA7800115096_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PumpkinHalloween_EN-CA7800115096_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Under the Halloween spell",
+                "Title": "Different kinds of pumpkins and gourds",
+                "Copyright": "© davidfillion/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "The fear of Halloween is called Samhainophobia.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251031_PumpkinHalloween\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Halloween&form=hpcapt&filters=HpDate:\"20251031_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251031_PumpkinHalloween"
+            },
+            "Ssd": "20251031",
+            "Name": "PumpkinHalloween",
+            "Market": "EN-CA",
+            "Hash": "7800115096",
+            "FullDateString": "Oct. 31, 2025"
+        }
+    },
+    {
         "startdate": "20251030",
         "fullstartdate": "202510300400",
         "enddate": "20251031",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251031",
+        "fullstartdate": "202510312300",
+        "enddate": "20251101",
+        "url": "/th?id=OHR.AutumSaints_ES-ES0641147491_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AutumSaints_ES-ES0641147491",
+        "copyright": "Foz de Arbaiun, Navarra, España (© Martín Zalba/500px/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+de+Todos+los+Santos&form=hpcapt&filters=HpDate%3a%2220251031_2300%22",
+        "title": "Vivir es ser recordado",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251031_AutumSaints%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d556eb2ec10ddcb7d7e68ee8083356ba",
+        "hsh": "8cfdf77d21f486497161676d3d28f1d6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El 1 de noviembre, España celebra el Día de Todos los Santos, una jornada para honrar a quienes ya no están y recordar con cariño sus vidas. En muchas ciudades y pueblos, las familias acuden a los cementerios con flores, comparten dulces típicos como los buñuelos de viento o los huesos de santo, y disfrutan de un ambiente sereno que invita a la reflexión.",
+                "Image": {
+                    "Url": "/th?id=OHR.AutumSaints_ES-ES0641147491_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AutumSaints_ES-ES0641147491_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Vivir es ser recordado",
+                "Title": "Foz de Arbaiun, Navarra, España",
+                "Copyright": "© Martín Zalba/500px/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251101_AutumSaints\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=D%c3%ada+de+Todos+los+Santos&form=hpcapt&filters=HpDate:\"20251031_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251101_AutumSaints"
+            },
+            "Ssd": "20251101",
+            "Name": "AutumSaints",
+            "Market": "ES-ES",
+            "Hash": "0641147491",
+            "FullDateString": "1 de nov. de 2025"
+        }
+    },
+    {
         "startdate": "20251030",
         "fullstartdate": "202510302300",
         "enddate": "20251031",
