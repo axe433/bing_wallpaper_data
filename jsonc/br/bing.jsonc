@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251101",
+        "fullstartdate": "202511010300",
+        "enddate": "20251102",
+        "url": "/th?id=OHR.BisonSprings_PT-BR7966374292_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BisonSprings_PT-BR7966374292",
+        "copyright": "Bisões-americanos pastando em fontes termais, Parque Nacional  de Yellowstone, Wyoming, EUA (© Cheryl Ramalho/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Bis%C3%A3o&form=hpcapt&mkt=pt-br",
+        "title": "Os herdeiros das planícies",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251101_BisonSprings%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f2d2204d9f9c1d40cde63b9d1d75050e",
+        "hsh": "25164047550e865f46f629d67479ec4d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "No Parque Nacional de Yellowstone, em Wyoming, Estados Unidos, bisões-americanos pastam envoltos pelo vapor das fontes termais. Símbolos de força, esses gigantes de quase uma tonelada já dominaram as planícies norte-americanas em imensas manadas, mas foram caçados quase até a extinção no século XIX. Hoje, seu retorno às pradarias não é apenas um triunfo ecológico — com manadas em Yellowstone chegando a cerca de 6 mil animais — mas também uma reparação cultural conduzida pelas comunidades indígenas, que se unem a conservacionistas para restaurar os bisões às terras ancestrais.",
+                "Image": {
+                    "Url": "/th?id=OHR.BisonSprings_PT-BR7966374292_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BisonSprings_PT-BR7966374292_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Os herdeiros das planícies",
+                "Title": "Bisões-americanos pastando em fontes termais, Parque Nacional  de Yellowstone, Wyoming, EUA",
+                "Copyright": "© Cheryl Ramalho/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251101_BisonSprings\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Bis%c3%a3o&form=hpcapt&filters=HpDate:\"20251101_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251101_BisonSprings"
+            },
+            "Ssd": "20251101",
+            "Name": "BisonSprings",
+            "Market": "PT-BR",
+            "Hash": "7966374292",
+            "FullDateString": "1 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251031",
         "fullstartdate": "202510310300",
         "enddate": "20251101",

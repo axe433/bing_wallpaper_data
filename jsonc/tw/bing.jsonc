@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251101",
+        "fullstartdate": "202511010700",
+        "enddate": "20251102",
+        "url": "/th?id=OHR.BisonSprings_ROW0056517784_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BisonSprings_ROW0056517784",
+        "copyright": "Bison grazing at thermal hot springs, Yellowstone National Park, Wyoming, United States (© Cheryl Ramalho/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Bison&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251101_BisonSprings%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f2d2204d9f9c1d40cde63b9d1d75050e",
+        "hsh": "55a0dbfc75d40f1c1d48ceb7799f7fb1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "The bison embodies a paradox: immense strength paired with quiet calm. Weighing more than 900 kilograms and standing around 2 metres tall, these giants roam North America's grasslands and river valleys in mobile herds. Photographed here in Yellowstone National Park, in Wyoming, United States, they once numbered in the tens of millions but were nearly eradicated in the 19th century—a loss that reshaped ecosystems and disrupted lifeways.",
+                "Image": {
+                    "Url": "/th?id=OHR.BisonSprings_ROW0056517784_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BisonSprings_ROW0056517784_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Bison grazing at thermal hot springs, Yellowstone National Park, Wyoming, United States",
+                "Copyright": "© Cheryl Ramalho/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251101_BisonSprings\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Bison&form=hpcapt&filters=HpDate:\"20251101_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251101_BisonSprings"
+            },
+            "Ssd": "20251101",
+            "Name": "BisonSprings",
+            "Market": "ROW",
+            "Hash": "0056517784",
+            "FullDateString": "2025 年 11月 月 1 日"
+        }
+    },
+    {
         "startdate": "20251031",
         "fullstartdate": "202510310700",
         "enddate": "20251101",

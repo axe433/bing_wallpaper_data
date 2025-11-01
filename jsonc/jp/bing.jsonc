@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251101",
+        "fullstartdate": "202511011500",
+        "enddate": "20251102",
+        "url": "/th?id=OHR.KyotoMaple_JA-JP9092721776_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KyotoMaple_JA-JP9092721776",
+        "copyright": "嵐山の竹林, 京都府 京都市 (© DoctorEgg/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%B5%90%E5%B1%B1%E3%81%AE%E7%AB%B9%E6%9E%97&form=hpcapt&filters=HpDate%3a%2220251101_1500%22",
+        "title": "竹と紅葉が奏でる秋の風景",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251101_KyotoMaple%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6d19708bfa8f7cbd18ba0674186970e2",
+        "hsh": "35b22622a1cba49f48d9b4a307622cdb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日の画像は京都市西部にある嵐山。山麓には多数の寺社が存在し、桜や紅葉の名所としても知られる観光名所です。例年 11 月中旬から 12 月上旬ごろに紅葉が見ごろを迎えます。また、映画やドラマにもたびたび登場する竹が生い茂った「竹林の小径」も有名です…",
+                "Image": {
+                    "Url": "/th?id=OHR.KyotoMaple_JA-JP9092721776_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KyotoMaple_JA-JP9092721776_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "竹と紅葉が奏でる秋の風景",
+                "Title": "嵐山の竹林, 京都府 京都市",
+                "Copyright": "© DoctorEgg/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.009583,135.666382/13?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=35.009583,135.666382;S9;嵐山&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=%E5%B5%90%E5%B1%B1&satid=id.sid%3A73a852be-2e82-b9ea-d27c-485a2d61d315&mb=35.016027~135.655231~35.003126~135.677547&cardbg=%23F98745&dt=1760331600000&tt=%E5%B5%90%E5%B1%B1&tsts0=%2526ty%253D18%2526q%253D%2525E5%2525B5%252590%2525E5%2525B1%2525B1%2526satid%253Did.sid%25253A73a852be-2e82-b9ea-d27c-485a2d61d315%2526mb%253D35.016027~135.655231~35.003126~135.677547%2526cardbg%253D%252523F98745%2526dt%253D1760331600000&tstt0=%E5%B5%90%E5%B1%B1&cp=35.009471~135.623817&lvl=13&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1V"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251102_KyotoMaple\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%b5%90%e5%b1%b1%e3%81%ae%e7%ab%b9%e6%9e%97&form=hpcapt&filters=HpDate:\"20251101_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251102_KyotoMaple"
+            },
+            "Ssd": "20251102",
+            "Name": "KyotoMaple",
+            "Market": "JA-JP",
+            "Hash": "9092721776",
+            "FullDateString": "2025 年 11月 月 2 日"
+        }
+    },
+    {
         "startdate": "20251031",
         "fullstartdate": "202510311500",
         "enddate": "20251101",

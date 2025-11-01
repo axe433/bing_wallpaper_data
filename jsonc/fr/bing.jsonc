@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251101",
+        "fullstartdate": "202511012300",
+        "enddate": "20251102",
+        "url": "/th?id=OHR.KyotoMaple_FR-FR3189675625_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KyotoMaple_FR-FR3189675625",
+        "copyright": "Feuilles d’érable et forêt de bambous à Arashiyama, Kyoto, Japon (© DoctorEgg/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Kyoto+Japon&form=hpcapt&filters=HpDate%3a%2220251101_2300%22",
+        "title": "Quand la nature peint Kyoto de rouge et de vert",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251101_KyotoMaple%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6d19708bfa8f7cbd18ba0674186970e2",
+        "hsh": "8715c06f08e3ee39b7b934675a9f1484",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dans la ville japonaise d’Arashiyama, près de Kyoto, l’automne se déploie comme une peinture vivante. Les érables s’embrasent de rouge, d’or et de cuivre, tandis que les forêts de bambou s’élancent vers le ciel dans un bruissement apaisant. Ces érables japonais aux feuilles finement découpées rappellent que la beauté est fragile, comme une flamme vouée à s'éteindre avec la saison.",
+                "Image": {
+                    "Url": "/th?id=OHR.KyotoMaple_FR-FR3189675625_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KyotoMaple_FR-FR3189675625_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Quand la nature peint Kyoto de rouge et de vert",
+                "Title": "Feuilles d’érable et forêt de bambous à Arashiyama, Kyoto, Japon",
+                "Copyright": "© DoctorEgg/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.015213,135.677689/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=35.015213,135.677689;S9;Arashiyama, Kyoto, Japon&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Arashiyama%2C%20Kyoto&vdpid=8211586383383363594&mb=35.020921~135.66596~35.009515~135.689435&cardbg=%23F98745&dt=1758272400000&tt=Arashiyama%2C%20Kyoto%2C%20Japan&tsts1=%2526ty%253D30%2526q%253DArashiyama%25252C%252520Kyoto%2526vdpid%253D8211586383383363594%2526mb%253D35.020921~135.66596~35.009515~135.689435%2526cardbg%253D%252523F98745%2526dt%253D1758272400000&tstt1=Arashiyama%2C%20Kyoto%2C%20Japan&cp=37.405074~120.893555&lvl=5&pi=0&ftst=1&ftics=True&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251102_KyotoMaple\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Kyoto+Japon&form=hpcapt&filters=HpDate:\"20251101_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251102_KyotoMaple"
+            },
+            "Ssd": "20251102",
+            "Name": "KyotoMaple",
+            "Market": "FR-FR",
+            "Hash": "3189675625",
+            "FullDateString": "2 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251031",
         "fullstartdate": "202510312300",
         "enddate": "20251101",

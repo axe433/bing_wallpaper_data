@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251101",
+        "fullstartdate": "202511011600",
+        "enddate": "20251102",
+        "url": "/th?id=OHR.KyotoMaple_ZH-CN4730358356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KyotoMaple_ZH-CN4730358356",
+        "copyright": "岚山缤纷的枫叶与竹林, 京都, 日本 (© DoctorEgg/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E4%BA%AC%E9%83%BD%E5%B2%9A%E5%B1%B1&form=hpcapt&mkt=zh-cn",
+        "title": "竹林吐纳清气，枫叶绚烂如火",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251101_KyotoMaple%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6d19708bfa8f7cbd18ba0674186970e2",
+        "hsh": "9576b0d0a623ff267df1390e059dafa4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日，我们前往京都岚山地区，这里以迷人的四季风光闻名于世。此处，鲜艳的日本红枫与静谧的竹林交织出色彩与宁静的和谐画卷。这些以纤细深裂叶片著称的枫树，每逢秋日便幻化成炽烈的红、橙、金三色，吸引着全球游客纷至沓来。它们不仅因绝美姿态备受推崇，更承载着象征优雅、平和与生命无常的文化意蕴。",
+                "Image": {
+                    "Url": "/th?id=OHR.KyotoMaple_ZH-CN4730358356_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KyotoMaple_ZH-CN4730358356_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "竹林吐纳清气，枫叶绚烂如火",
+                "Title": "岚山缤纷的枫叶与竹林, 京都, 日本",
+                "Copyright": "© DoctorEgg/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "岚山在四月初和十一月下半月最有吸引力（也最繁忙），此时樱花和秋色通常达到顶峰。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251102_KyotoMaple\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e4%ba%ac%e9%83%bd%e5%b2%9a%e5%b1%b1&form=hpcapt&filters=HpDate:\"20251101_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251102_KyotoMaple"
+            },
+            "Ssd": "20251102",
+            "Name": "KyotoMaple",
+            "Market": "ZH-CN",
+            "Hash": "4730358356",
+            "FullDateString": "2025 11月 2"
+        }
+    },
+    {
         "startdate": "20251031",
         "fullstartdate": "202510311600",
         "enddate": "20251101",

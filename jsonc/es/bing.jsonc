@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251101",
+        "fullstartdate": "202511012300",
+        "enddate": "20251102",
+        "url": "/th?id=OHR.BisonSprings_ES-ES3027945894_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BisonSprings_ES-ES3027945894",
+        "copyright": "Bisontes pastando en aguas termales, Parque Nacional de Yellowstone, Wyoming, EE. UU. (© Cheryl Ramalho/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=bis%C3%B3n+animal&form=hpcapt&filters=HpDate%3a%2220251101_2300%22",
+        "title": "Rebaños de herencia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251101_BisonSprings%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f2d2204d9f9c1d40cde63b9d1d75050e",
+        "hsh": "ea35ddf168fad7bfc7642cbb7bfcb305",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El bisonte encarna una paradoja fascinante: una fuerza inmensa unida a una calma serena. Con hasta 900 kilos de peso y casi dos metros de altura, estos gigantes recorren en grupo las praderas y los valles fluviales de América del Norte. En el Parque Nacional de Yellowstone, en Estados Unidos, aún pueden verse manadas descendientes de los millones que antaño poblaron el continente. Su casi extinción en el siglo XIX transformó los ecosistemas y las formas de vida tradicionales.",
+                "Image": {
+                    "Url": "/th?id=OHR.BisonSprings_ES-ES3027945894_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BisonSprings_ES-ES3027945894_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Rebaños de herencia",
+                "Title": "Bisontes pastando en aguas termales, Parque Nacional de Yellowstone, Wyoming, EE. UU.",
+                "Copyright": "© Cheryl Ramalho/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251102_BisonSprings\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=bis%c3%b3n+animal&form=hpcapt&filters=HpDate:\"20251101_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251102_BisonSprings"
+            },
+            "Ssd": "20251102",
+            "Name": "BisonSprings",
+            "Market": "ES-ES",
+            "Hash": "3027945894",
+            "FullDateString": "2 de nov. de 2025"
+        }
+    },
+    {
         "startdate": "20251031",
         "fullstartdate": "202510312300",
         "enddate": "20251101",

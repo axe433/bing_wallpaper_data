@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251101",
+        "fullstartdate": "202511010700",
+        "enddate": "20251102",
+        "url": "/th?id=OHR.BisonSprings_EN-US6080228013_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BisonSprings_EN-US6080228013",
+        "copyright": "Bison grazing at thermal hot springs, Yellowstone National Park, Wyoming (© Cheryl Ramalho/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=National+Bison+Day&form=hpcapt&filters=HpDate%3a%2220251101_0700%22",
+        "title": "Herds of heritage",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251101_BisonSprings%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f2d2204d9f9c1d40cde63b9d1d75050e",
+        "hsh": "3aca14ec983c6a090b5df5f7b02303ec",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "The bison embodies a paradox: immense strength paired with quiet calm. Weighing up to 2,000 pounds and standing 6 feet tall, these giants roam North America's grasslands and river valleys in mobile herds. Photographed here in Yellowstone National Park, Wyoming, they once numbered in the tens of millions but were nearly eradicated in the 19th century—a loss that reshaped ecosystems and disrupted lifeways.",
+                "Image": {
+                    "Url": "/th?id=OHR.BisonSprings_EN-US6080228013_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BisonSprings_EN-US6080228013_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Herds of heritage",
+                "Title": "Bison grazing at thermal hot springs, Yellowstone National Park, Wyoming",
+                "Copyright": "© Cheryl Ramalho/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.516228,-110.491905/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=44.516228,-110.491905;S9;Yellowstone National Park&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Grand%20Loop%20Rd%2C%20Yellowstone%20National%20Park%2C%20WY%2082190&ss=ypid.YN873x121224248&mb=44.929798~-110.976837~44.099783~-110.007225&description=Grand%20Loop%20Rd%2C%20Yellowstone%20National%20Park%2C%20WY%2082190&cardbg=%233DB838&dt=1758272400000&tt=Yellowstone%20National%20Park&tsts0=%2526ty%253D18%2526q%253DGrand%252520Loop%252520Rd%25252C%252520Yellowstone%252520National%252520Park%25252C%252520WY%25252082190%2526ss%253Dypid.YN873x121224248%2526mb%253D44.929798~-110.976837~44.099783~-110.007225%2526description%253DGrand%252520Loop%252520Rd%25252C%252520Yellowstone%252520National%252520Park%25252C%252520WY%25252082190%2526cardbg%253D%2525233DB838%2526dt%253D1758272400000&tstt0=Yellowstone%20National%20Park&cp=44.516269~-111.333275&lvl=10.14&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251101_BisonSprings\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=National+Bison+Day&form=hpcapt&filters=HpDate:\"20251101_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251101_BisonSprings"
+            },
+            "Ssd": "20251101",
+            "Name": "BisonSprings",
+            "Market": "EN-US",
+            "Hash": "6080228013",
+            "FullDateString": "Nov 1, 2025"
+        }
+    },
+    {
         "startdate": "20251031",
         "fullstartdate": "202510310700",
         "enddate": "20251101",
