@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251102",
+        "fullstartdate": "202511020800",
+        "enddate": "20251103",
+        "url": "/th?id=OHR.KyotoMaple_EN-US6732403492_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KyotoMaple_EN-US6732403492",
+        "copyright": "Colorful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan (© DoctorEgg/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Arashiyama+Kyoto&form=hpcapt&filters=HpDate%3a%2220251102_0800%22",
+        "title": "Where bamboo breathes and maples blaze",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251102_KyotoMaple%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6d19708bfa8f7cbd18ba0674186970e2",
+        "hsh": "32fdf7a0c863992485296abebb2ac0f3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Today, we travel to the Arashiyama district in Kyoto, renowned for its captivating seasonal landscapes. Here, vibrant Japanese maple trees and serene bamboo forests create a harmonious blend of color and tranquility. These maples, known for their delicate, deeply lobed leaves, turn fiery shades of red, orange, and gold during fall, attracting visitors from around the world. They are celebrated not only for their beauty but also for their cultural symbolism—representing elegance, peace, and the fleeting nature of life.",
+                "Image": {
+                    "Url": "/th?id=OHR.KyotoMaple_EN-US6732403492_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KyotoMaple_EN-US6732403492_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Where bamboo breathes and maples blaze",
+                "Title": "Colorful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan",
+                "Copyright": "© DoctorEgg/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.015213,135.677689/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=35.015213,135.677689;S9;Kyoto&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Arashiyama%2C%20Kyoto&vdpid=8211586383383363594&mb=35.020921~135.66596~35.009515~135.689435&cardbg=%23F98745&dt=1758272400000&tt=Arashiyama%2C%20Kyoto%2C%20Japan&tsts1=%2526ty%253D30%2526q%253DArashiyama%25252C%252520Kyoto%2526vdpid%253D8211586383383363594%2526mb%253D35.020921~135.66596~35.009515~135.689435%2526cardbg%253D%252523F98745%2526dt%253D1758272400000&tstt1=Arashiyama%2C%20Kyoto%2C%20Japan&cp=37.405074~120.893555&lvl=5&pi=0&ftst=1&ftics=True&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251102_KyotoMaple\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Arashiyama+Kyoto&form=hpcapt&filters=HpDate:\"20251102_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251102_KyotoMaple"
+            },
+            "Ssd": "20251102",
+            "Name": "KyotoMaple",
+            "Market": "EN-US",
+            "Hash": "6732403492",
+            "FullDateString": "Nov 2, 2025"
+        }
+    },
+    {
         "startdate": "20251101",
         "fullstartdate": "202511010700",
         "enddate": "20251102",

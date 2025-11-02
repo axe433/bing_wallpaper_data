@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251102",
+        "fullstartdate": "202511020700",
+        "enddate": "20251103",
+        "url": "/th?id=OHR.KyotoMaple_ROW2819580230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KyotoMaple_ROW2819580230",
+        "copyright": "Colourful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan (© DoctorEgg/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Arashiyama+Kyoto&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251102_KyotoMaple%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6d19708bfa8f7cbd18ba0674186970e2",
+        "hsh": "0aa1409b22b384b47b915dda5f92bab4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Today, we travel to the Arashiyama district in Kyoto, Japan, renowned for its captivating seasonal landscapes. Here, vibrant Japanese maple trees and serene bamboo forests create a harmonious blend of colour and tranquillity. These maples, known for their delicate, deeply lobed leaves, turn fiery shades of red, orange and gold during autumn, attracting visitors from around the world. They are celebrated not only for their beauty but also for their cultural symbolism—representing elegance, peace and the fleeting nature of life.",
+                "Image": {
+                    "Url": "/th?id=OHR.KyotoMaple_ROW2819580230_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KyotoMaple_ROW2819580230_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Colourful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan",
+                "Copyright": "© DoctorEgg/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251102_KyotoMaple\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Arashiyama+Kyoto&form=hpcapt&filters=HpDate:\"20251102_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251102_KyotoMaple"
+            },
+            "Ssd": "20251102",
+            "Name": "KyotoMaple",
+            "Market": "ROW",
+            "Hash": "2819580230",
+            "FullDateString": "2 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251101",
         "fullstartdate": "202511010700",
         "enddate": "20251102",

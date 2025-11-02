@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251102",
+        "fullstartdate": "202511022300",
+        "enddate": "20251103",
+        "url": "/th?id=OHR.MexicoJelly_FR-FR3982419293_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MexicoJelly_FR-FR3982419293",
+        "copyright": "Méduses dans le Pacifique, Guerrero, Mexique (© Christian Vizl/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=m%C3%A9duse&form=hpcapt&filters=HpDate%3a%2220251102_2300%22",
+        "title": "Médusés devant tant de beauté",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251102_MexicoJelly%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "73a6452b952056001abed9519f1a194f",
+        "hsh": "4d2dca63b1cf8f6b76cbe1307a55e5ca",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sous la surface sombre du Pacifique, au large de Guerrero au Mexique, une méduse flotte, semblable à une lanterne vivante. Son ombrelle translucide pulse doucement et ses longs filaments dansent au gré des courants. Apparemment fragile, elle est pourtant l’une des plus anciennes créatures marines, présente sur Terre depuis plus de 500 millions d’années, bien avant les dinosaures.",
+                "Image": {
+                    "Url": "/th?id=OHR.MexicoJelly_FR-FR3982419293_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MexicoJelly_FR-FR3982419293_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Médusés devant tant de beauté",
+                "Title": "Méduses dans le Pacifique, Guerrero, Mexique",
+                "Copyright": "© Christian Vizl/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/17.61306,-99.95/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=17.61306,-99.95;S9;Guerrero, Mexique&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Guerrero%20Mexico&satid=id.sid%3A86638283-e8d0-0d69-1241-dc688f82149b&vdpid=13062&mb=18.953466~-102.763619~16.239569~-97.424202&cardbg=%23F98745&tt=Guerrero%2C%20Mexico&tsts0=%2526ty%253D30%2526q%253DGuerrero%252520Mexico%2526satid%253Did.sid%25253A86638283-e8d0-0d69-1241-dc688f82149b%2526vdpid%253D13062%2526mb%253D18.953466~-102.763619~16.239569~-97.424202%2526cardbg%253D%252523F98745&tstt0=Guerrero%2C%20Mexico&cp=26.063558~-102.423938&lvl=5.2607555&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251103_MexicoJelly\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=m%c3%a9duse&form=hpcapt&filters=HpDate:\"20251102_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251103_MexicoJelly"
+            },
+            "Ssd": "20251103",
+            "Name": "MexicoJelly",
+            "Market": "FR-FR",
+            "Hash": "3982419293",
+            "FullDateString": "3 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251101",
         "fullstartdate": "202511012300",
         "enddate": "20251102",

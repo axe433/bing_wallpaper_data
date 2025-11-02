@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251102",
+        "fullstartdate": "202511020300",
+        "enddate": "20251103",
+        "url": "/th?id=OHR.KyotoMaple_PT-BR7332494643_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KyotoMaple_PT-BR7332494643",
+        "copyright": "Folhas coloridas de bordo e floresta de bambu em Arashiyama, Quioto, Japão (© DoctorEgg/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Quioto%2c+Jap%C3%A3o&form=hpcapt&mkt=pt-br",
+        "title": "A harmonia silenciosa de Quioto",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251102_KyotoMaple%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6d19708bfa8f7cbd18ba0674186970e2",
+        "hsh": "0e733943b4a4bce87df9735f4776afc0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Hoje, viajamos para o distrito de Arashiyama, em Quioto, no Japão, famoso por suas paisagens naturais que encantam em qualquer época do ano. Lá, as árvores de bordo japonesas, com suas folhas delicadas, se misturam à tranquilidade das florestas de bambu, criando um cenário de pura harmonia entre cor e serenidade, como vemos na imagem de hoje. Admiradas não apenas pela beleza, mas também por seu simbolismo cultural, representam elegância, paz e a natureza efêmera da vida.",
+                "Image": {
+                    "Url": "/th?id=OHR.KyotoMaple_PT-BR7332494643_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KyotoMaple_PT-BR7332494643_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A harmonia silenciosa de Quioto",
+                "Title": "Folhas coloridas de bordo e floresta de bambu em Arashiyama, Quioto, Japão",
+                "Copyright": "© DoctorEgg/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251102_KyotoMaple\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Quioto%2c+Jap%c3%a3o&form=hpcapt&filters=HpDate:\"20251102_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251102_KyotoMaple"
+            },
+            "Ssd": "20251102",
+            "Name": "KyotoMaple",
+            "Market": "PT-BR",
+            "Hash": "7332494643",
+            "FullDateString": "2 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251101",
         "fullstartdate": "202511010300",
         "enddate": "20251102",
