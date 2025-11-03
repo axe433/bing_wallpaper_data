@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251103",
+        "fullstartdate": "202511032300",
+        "enddate": "20251104",
+        "url": "/th?id=OHR.ForzeArmate_IT-IT4457176272_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ForzeArmate_IT-IT4457176272",
+        "copyright": "Esibizione Frecce Tricolori a Palermo, Sicilia (© ph.antonio pulizzi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Giornata+dell+Unit%C3%A0+nazionale+delle+Forze+Armate&form=hpcapt",
+        "title": "Forza Tricolore",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251103_ForzeArmate%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e7ecc8a0ac9ee403a21f57e949e8abfb",
+        "hsh": "c204f2f6f47e46288b24d75d7c2b4957",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Oggi, 4 novembre, festeggiamo la Festa dell’Unità Nazionale e delle Forze Armate, istituita nel 1922 per ricordare la fine della Prima Guerra Mondiale. Il 4 novembre 1918 entrò in vigore l’armistizio di Villa Giusti, che sancì la vittoria italiana contro l’Impero austro-ungarico e l’annessione di Trento e Trieste, completando simbolicamente il processo risorgimentale.",
+                "Image": {
+                    "Url": "/th?id=OHR.ForzeArmate_IT-IT4457176272_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ForzeArmate_IT-IT4457176272_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Forza Tricolore",
+                "Title": "Esibizione Frecce Tricolori a Palermo, Sicilia",
+                "Copyright": "© ph.antonio pulizzi/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Nel 1921, in occasione della festa del 4 novembre, fu tumulato il Milite Ignoto all’Altare della Patria a Roma.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251104_ForzeArmate\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Giornata+dell+Unit%c3%a0+nazionale+delle+Forze+Armate&form=hpcapt&filters=HpDate:\"20251103_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251104_ForzeArmate"
+            },
+            "Ssd": "20251104",
+            "Name": "ForzeArmate",
+            "Market": "IT-IT",
+            "Hash": "4457176272",
+            "FullDateString": "4 novembre 2025"
+        }
+    },
+    {
         "startdate": "20251102",
         "fullstartdate": "202511022300",
         "enddate": "20251103",
@@ -20,8 +69,8 @@
             "ImageContent": {
                 "Description": "Non hanno cervello, ossa né cuore, eppure le meduse pulsano negli oceani della Terra da mezzo miliardo di anni. Oggi, nella “Giornata Mondiale delle Meduse”, queste meraviglie fluttuanti si prendono il loro momento di gloria. La Giornata promuove la tutela dei loro habitat, minacciati da inquinamento, scarichi agricoli e urbani che alterano l’equilibrio delle acque e acidificazione degli oceani. Appartengono al gruppo degli invertebrati chiamato Cnidaria e sono composte per circa il 95% da acqua. Con i loro corpi a campana e i tentacoli fluttuanti, somigliano più a vagabondi marini che ad atleti degli abissi. Alcune brillano, come quella fotografata nell’Oceano Pacifico al largo di Guerrero, in Messico; altre pungono, e poche, come la “medusa immortale”, riescono persino a riavviare il proprio ciclo vitale.",
                 "Image": {
-                    "Url": "/th?id=OHR.MexicoJelly_IT-IT5297889908_1920x1080.webp",
-                    "Wallpaper": "/th?id=OHR.MexicoJelly_IT-IT5297889908_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Url": "/th?id=OHR.MexicoJelly_IT-IT9520443495_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MexicoJelly_IT-IT9520443495_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
                     "Downloadable": true
                 },
                 "Headline": "Fluttuano, brillano, resistono",
@@ -44,7 +93,7 @@
             "Ssd": "20251103",
             "Name": "MexicoJelly",
             "Market": "IT-IT",
-            "Hash": "5297889908",
+            "Hash": "9520443495",
             "FullDateString": "3 novembre 2025"
         }
     },

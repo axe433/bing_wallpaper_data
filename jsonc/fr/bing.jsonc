@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251103",
+        "fullstartdate": "202511032300",
+        "enddate": "20251104",
+        "url": "/th?id=OHR.TowerBridgeUK_FR-FR4381465243_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TowerBridgeUK_FR-FR4381465243",
+        "copyright": "Tower Bridge, Londres, Angleterre (© Nick Brundle Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Tower+Bridge+Londres&form=hpcapt&filters=HpDate%3a%2220251103_2300%22",
+        "title": "Pont-pourri d’histoire et d’ingéniosité",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251103_TowerBridgeUK%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "11198a45c9728d7625f29a0ed752c7b7",
+        "hsh": "055b1221f31334aadb235360f2e13b36",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sous le ciel changeant de Londres, le Tower Bridge se dresse tel un géant d'acier et de pierre, tendant ses bras au-dessus de la Tamise. Chaque levée de son tablier est un geste théâtral qui rappelle que l’ingénierie peut aussi avoir une âme. Depuis 1894, ce pont aux deux tours gothiques ne relie pas seulement deux rives, mais aussi des époques, des rêves et des passages.",
+                "Image": {
+                    "Url": "/th?id=OHR.TowerBridgeUK_FR-FR4381465243_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TowerBridgeUK_FR-FR4381465243_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Pont-pourri d'histoire et d'ingéniosité",
+                "Title": "Tower Bridge, Londres, Angleterre",
+                "Copyright": "© Nick Brundle Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.505447,-0.075324/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=51.505447,-0.075324;S9;Tower Bridge, Londres, Angleterre&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Tower%20Bridge%20London&ss=ypid.YND687407D847C4CC0&mb=51.510472~-0.090466~51.500415~-0.060167&description=Tower%20Bridge%20Rd%2C%20London%20SE1%202UP%C2%B7Bridge&cardbg=%23219AB6&dt=1758295800000&tt=Tower%20Bridge&tsts0=%2526ty%253D18%2526q%253DTower%252520Bridge%252520London%2526ss%253Dypid.YND687407D847C4CC0%2526mb%253D51.510472~-0.090466~51.500415~-0.060167%2526description%253DTower%252520Bridge%252520Rd%25252C%252520London%252520SE1%2525202UP%2525C2%2525B7Bridge%2526cardbg%253D%252523219AB6%2526dt%253D1758295800000&tstt0=Tower%20Bridge&cp=53.512214~-0.482395&lvl=5.618121&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251104_TowerBridgeUK\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tower+Bridge+Londres&form=hpcapt&filters=HpDate:\"20251103_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251104_TowerBridgeUK"
+            },
+            "Ssd": "20251104",
+            "Name": "TowerBridgeUK",
+            "Market": "FR-FR",
+            "Hash": "4381465243",
+            "FullDateString": "4 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251102",
         "fullstartdate": "202511022300",
         "enddate": "20251103",

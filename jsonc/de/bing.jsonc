@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251103",
+        "fullstartdate": "202511032300",
+        "enddate": "20251104",
+        "url": "/th?id=OHR.TowerBridgeUK_DE-DE5591169923_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TowerBridgeUK_DE-DE5591169923",
+        "copyright": "Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Tower+Bridge+London&form=hpcapt&filters=HpDate%3a%2220251103_2300%22",
+        "title": "Mehr als nur Verbindung",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251103_TowerBridgeUK%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "11198a45c9728d7625f29a0ed752c7b7",
+        "hsh": "7522c1b514d9a45278b3d54c01427968",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Haben Sie Lust auf ein Brückenerlebnis der besonderen Art? Die Tower Bridge in London ist mehr als nur eine Brücke: Sie ist eines der bekanntesten Wahrzeichen der englischen Hauptstadt und ein beliebtes Fotomotiv für Besucher aus aller Welt. Seit über 130 Jahren öffnet sie sich wie ein riesiges Tor für Schiffe und begeistert mit ihrem Design und ihrer Geschichte. Ihre Türme im neugotischen Stil, die blau-weiße Farbgebung und die beweglichen Brückenteile machen sie einzigartig. Früher wurde sie mit Dampf betrieben, heute übernehmen diese Aufgabe moderne Systeme. Wer mutig ist, kann über die Glaswege in 42 Metern Höhe laufen und die Themse von oben sehen!",
+                "Image": {
+                    "Url": "/th?id=OHR.TowerBridgeUK_DE-DE5591169923_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TowerBridgeUK_DE-DE5591169923_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Mehr als nur Verbindung",
+                "Title": "Tower Bridge, London, England",
+                "Copyright": "© Nick Brundle Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.505447,-0.075324/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=51.505447,-0.075324;S9;Tower Bridge, London, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Tower%20Bridge%20London&ss=ypid.YND687407D847C4CC0&mb=51.510472~-0.090466~51.500415~-0.060167&description=Tower%20Bridge%20Rd%2C%20London%20SE1%202UP%C2%B7Bridge&cardbg=%23219AB6&dt=1758295800000&tt=Tower%20Bridge&tsts0=%2526ty%253D18%2526q%253DTower%252520Bridge%252520London%2526ss%253Dypid.YND687407D847C4CC0%2526mb%253D51.510472~-0.090466~51.500415~-0.060167%2526description%253DTower%252520Bridge%252520Rd%25252C%252520London%252520SE1%2525202UP%2525C2%2525B7Bridge%2526cardbg%253D%252523219AB6%2526dt%253D1758295800000&tstt0=Tower%20Bridge&cp=53.512214~-0.482395&lvl=5.618121&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251104_TowerBridgeUK\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tower+Bridge+London&form=hpcapt&filters=HpDate:\"20251103_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251104_TowerBridgeUK"
+            },
+            "Ssd": "20251104",
+            "Name": "TowerBridgeUK",
+            "Market": "DE-DE",
+            "Hash": "5591169923",
+            "FullDateString": "4. Nov.. 2025"
+        }
+    },
+    {
         "startdate": "20251102",
         "fullstartdate": "202511022300",
         "enddate": "20251103",

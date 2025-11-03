@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251103",
+        "fullstartdate": "202511030000",
+        "enddate": "20251104",
+        "url": "/th?id=OHR.MexicoJelly_EN-GB3540800984_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MexicoJelly_EN-GB3540800984",
+        "copyright": "Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=World+Jellyfish+Day&form=hpcapt&filters=HpDate%3a%2220251103_0000%22",
+        "title": "Just jellin'",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251103_MexicoJelly%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "73a6452b952056001abed9519f1a194f",
+        "hsh": "f99e43075b1ad650643b28eb874674fb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "They don't have brains, bones or even hearts, yet jellyfish have pulsed through Earth's oceans for half a billion years. Today, on World Jellyfish Day, these wobbly wonders get their moment in the sun—or at least under the sea. The day promotes efforts to protect jellyfish habitats from threats like pollution, nutrient-rich runoff and ocean acidification.",
+                "Image": {
+                    "Url": "/th?id=OHR.MexicoJelly_EN-GB3540800984_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MexicoJelly_EN-GB3540800984_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Just jellin'",
+                "Title": "Jellyfish swimming in the Pacific, Guerrero, Mexico",
+                "Copyright": "© Christian Vizl/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/17.61306,-99.95/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=17.61306,-99.95;S9;Guerrero, Mexico&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Guerrero%20Mexico&satid=id.sid%3A86638283-e8d0-0d69-1241-dc688f82149b&vdpid=13062&mb=18.953466~-102.763619~16.239569~-97.424202&cardbg=%23F98745&tt=Guerrero%2C%20Mexico&tsts0=%2526ty%253D30%2526q%253DGuerrero%252520Mexico%2526satid%253Did.sid%25253A86638283-e8d0-0d69-1241-dc688f82149b%2526vdpid%253D13062%2526mb%253D18.953466~-102.763619~16.239569~-97.424202%2526cardbg%253D%252523F98745&tstt0=Guerrero%2C%20Mexico&cp=26.063558~-102.423938&lvl=5.2607555&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251103_MexicoJelly\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=World+Jellyfish+Day&form=hpcapt&filters=HpDate:\"20251103_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251103_MexicoJelly"
+            },
+            "Ssd": "20251103",
+            "Name": "MexicoJelly",
+            "Market": "EN-GB",
+            "Hash": "3540800984",
+            "FullDateString": "3 Nov 2025"
+        }
+    },
+    {
         "startdate": "20251102",
         "fullstartdate": "202511020000",
         "enddate": "20251103",

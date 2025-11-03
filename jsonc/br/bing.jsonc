@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251103",
+        "fullstartdate": "202511030300",
+        "enddate": "20251104",
+        "url": "/th?id=OHR.MexicoJelly_PT-BR1868095241_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MexicoJelly_PT-BR1868095241",
+        "copyright": "Água-viva nadando no Pacífico, Guerrero, México (© Christian  Vizl/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=%C3%A1gua+viva&form=hpcapt&mkt=pt-br",
+        "title": "Flutuando por aí",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251103_MexicoJelly%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "73a6452b952056001abed9519f1a194f",
+        "hsh": "eeeb4f59ba26f961ea369c27bf66bd22",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Elas não têm cérebro, ossos nem coração — e, mesmo assim, as águas-vivas vêm pulsando pelos oceanos há mais de meio bilhão de anos. Com seus corpos gelatinosos e tentáculos flutuantes, são viajantes das correntes, deslizando silenciosamente pelos mares.",
+                "Image": {
+                    "Url": "/th?id=OHR.MexicoJelly_PT-BR1868095241_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MexicoJelly_PT-BR1868095241_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Flutuando por aí",
+                "Title": "Água-viva nadando no Pacífico, Guerrero, México",
+                "Copyright": "© Christian  Vizl/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251103_MexicoJelly\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%c3%a1gua+viva&form=hpcapt&filters=HpDate:\"20251103_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251103_MexicoJelly"
+            },
+            "Ssd": "20251103",
+            "Name": "MexicoJelly",
+            "Market": "PT-BR",
+            "Hash": "1868095241",
+            "FullDateString": "3 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251102",
         "fullstartdate": "202511020300",
         "enddate": "20251103",
