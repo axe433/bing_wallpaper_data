@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251104",
+        "fullstartdate": "202511040800",
+        "enddate": "20251105",
+        "url": "/th?id=OHR.TowerBridgeUK_ROW2871124404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TowerBridgeUK_ROW2871124404",
+        "copyright": "Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Tower+Bridge+London&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251104_TowerBridgeUK%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "11198a45c9728d7625f29a0ed752c7b7",
+        "hsh": "499d4b2484db64daf8dea4b63d0e69ea",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Some bridges connect two sides. Tower Bridge connects history, engineering and a flair for drama. Standing next to the Tower of London and rising over the River Thames since 1894, this London icon literally knows how to lift spirits—and traffic. With its twin towers, blue-and-white paintwork and bascules that open like a giant's drawbridge, Tower Bridge is less a traffic solution and more a stage performer.",
+                "Image": {
+                    "Url": "/th?id=OHR.TowerBridgeUK_ROW2871124404_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TowerBridgeUK_ROW2871124404_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Tower Bridge, London, England",
+                "Copyright": "© Nick Brundle Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251104_TowerBridgeUK\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tower+Bridge+London&form=hpcapt&filters=HpDate:\"20251104_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251104_TowerBridgeUK"
+            },
+            "Ssd": "20251104",
+            "Name": "TowerBridgeUK",
+            "Market": "ROW",
+            "Hash": "2871124404",
+            "FullDateString": "2025 年 11月 月 4 日"
+        }
+    },
+    {
         "startdate": "20251103",
         "fullstartdate": "202511030800",
         "enddate": "20251104",

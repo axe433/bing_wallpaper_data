@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251104",
+        "fullstartdate": "202511041500",
+        "enddate": "20251105",
+        "url": "/th?id=OHR.MoncayoAutumn_JA-JP0004840781_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MoncayoAutumn_JA-JP0004840781",
+        "copyright": "ペーニャ・ロヤのブナ林, スペイン (© David Santiago Garcia/DEEPOL by plainpicture)",
+        "copyrightlink": "https://www.bing.com/search?q=Pe%C3%B1a+Roya+beech+forest&form=hpcapt&filters=HpDate%3a%2220251104_1500%22",
+        "title": "モンカヨ自然公園の秋景色",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251104_MoncayoAutumn%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "665dd244742d62b15b85d8a820523b84",
+        "hsh": "24a112a43d9b3bb10453c0b33ac16d54",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "モンカヨ自然公園は、スペインのアラゴン州サラゴサ県に位置する広大な自然保護区です。標高差により植生が段階的に変化しており、標高の 900m まではセイヨウヒイラギガシ、900 ～ 1200m にはピレネーオーク、1200 ～ 1650m まではブナ林、山頂には牧草地が広がっています…",
+                "Image": {
+                    "Url": "/th?id=OHR.MoncayoAutumn_JA-JP0004840781_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MoncayoAutumn_JA-JP0004840781_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "モンカヨ自然公園の秋景色",
+                "Title": "ペーニャ・ロヤのブナ林, スペイン",
+                "Copyright": "© David Santiago Garcia/DEEPOL by plainpicture",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.65,-0.883333/12?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=41.65,-0.883333;S9;サラゴサ県, スペイン&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Zaragoza%2C+Spain&satid=id.sid%3A07ccf583-50e6-3e8b-0da7-3ed83ce7b190&vdpid=5669635856441278465&mb=41.706059%7E-1.022034%7E41.59618%7E-0.746286&cardbg=%23F98745&tt=Zaragoza%2C+Aragon%2C+Spain&tsts0=%2526ty%253D30%2526q%253DZaragoza%25252C%252520Spain%2526satid%253Did.sid%25253A07ccf583-50e6-3e8b-0da7-3ed83ce7b190%2526vdpid%253D5669635856441278465%2526mb%253D41.706059%7E-1.022034%7E41.59618%7E-0.746286%2526cardbg%253D%252523F98745&tstt0=Zaragoza%2C+Aragon%2C+Spain&cp=41.651143%7E-0.88416&lvl=12.4&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251105_MoncayoAutumn\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Pe%c3%b1a+Roya+beech+forest&form=hpcapt&filters=HpDate:\"20251104_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251105_MoncayoAutumn"
+            },
+            "Ssd": "20251105",
+            "Name": "MoncayoAutumn",
+            "Market": "JA-JP",
+            "Hash": "0004840781",
+            "FullDateString": "2025 年 11月 月 5 日"
+        }
+    },
+    {
         "startdate": "20251103",
         "fullstartdate": "202511031500",
         "enddate": "20251104",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251104",
+        "fullstartdate": "202511042300",
+        "enddate": "20251105",
+        "url": "/th?id=OHR.MoncayoAutumn_IT-IT4548812597_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MoncayoAutumn_IT-IT4548812597",
+        "copyright": "Foresta di faggi di Peña Roya, Parco Naturale del Moncayo, Saragozza, Aragona, Spagna (© David Santiago Garcia/DEEPOL by plainpicture)",
+        "copyrightlink": "https://www.bing.com/search?q=Parco+Naturale+del+Moncayo+Saragozza&form=hpcapt",
+        "title": "Red carpet naturale?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251104_MoncayoAutumn%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "665dd244742d62b15b85d8a820523b84",
+        "hsh": "d9a4f98e6ec14ebcd25c445718ee09cd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La regione spagnola dell’Aragona non è certo nota per i suoi boschi: qui dominano il sole, la terra arida e la macchia mediterranea. Eppure, basta salire lungo i pendii del Moncayo per ritrovarsi in un finale inaspettato: una fitta faggeta che sussurra tra le fronde. Il Moncayo è una montagna dalle quattro stagioni. Alla base crescono cespugli mediterranei; più su compaiono querce e pini, e ancora più in alto, ecco Peña Roya: un regno di faggi che sembra spuntare dal nulla.",
+                "Image": {
+                    "Url": "/th?id=OHR.MoncayoAutumn_IT-IT4548812597_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MoncayoAutumn_IT-IT4548812597_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Red carpet naturale?",
+                "Title": "Foresta di faggi di Peña Roya, Parco Naturale del Moncayo, Saragozza, Aragona, Spagna",
+                "Copyright": "© David Santiago Garcia/DEEPOL by plainpicture",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.65,-0.883333/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=41.65,-0.883333;S9;Saragozza, Aragona, Spagna&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Zaragoza%2C%20Spain&satid=id.sid%3A07ccf583-50e6-3e8b-0da7-3ed83ce7b190&vdpid=5669635856441278465&mb=41.706059~-1.022034~41.59618~-0.746286&cardbg=%23F98745&tt=Zaragoza%2C%20Aragon%2C%20Spain&tsts0=%2526ty%253D30%2526q%253DZaragoza%25252C%252520Spain%2526satid%253Did.sid%25253A07ccf583-50e6-3e8b-0da7-3ed83ce7b190%2526vdpid%253D5669635856441278465%2526mb%253D41.706059~-1.022034~41.59618~-0.746286%2526cardbg%253D%252523F98745&tstt0=Zaragoza%2C%20Aragon%2C%20Spain&cp=40.633367~-9.444767&lvl=5.87623&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251105_MoncayoAutumn\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parco+Naturale+del+Moncayo+Saragozza&form=hpcapt&filters=HpDate:\"20251104_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251105_MoncayoAutumn"
+            },
+            "Ssd": "20251105",
+            "Name": "MoncayoAutumn",
+            "Market": "IT-IT",
+            "Hash": "4548812597",
+            "FullDateString": "5 novembre 2025"
+        }
+    },
+    {
         "startdate": "20251103",
         "fullstartdate": "202511032300",
         "enddate": "20251104",

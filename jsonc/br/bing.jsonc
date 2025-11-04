@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251104",
+        "fullstartdate": "202511040300",
+        "enddate": "20251105",
+        "url": "/th?id=OHR.TowerBridgeUK_PT-BR2443250615_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TowerBridgeUK_PT-BR2443250615",
+        "copyright": "Tower Bridge, Londres, Inglaterra (© Nick Brundle  Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ponte+Tower+Bridge+em+Londres&form=hpcapt&mkt=pt-br",
+        "title": "Quando o vão vira passagem",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251104_TowerBridgeUK%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "11198a45c9728d7625f29a0ed752c7b7",
+        "hsh": "d0da9d9a095e14b079a111d52dba1b5f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Algumas pontes ligam margens. A Tower Bridge vai além — ela une história, engenharia e um toque de espetáculo. Desde 1894, esse ícone londrino se ergue ao lado da Torre de Londres e atravessa o Rio Tâmisa, encantando quem passa por ali. Com suas torres gêmeas, a Tower Bridge é mais que uma solução para o trânsito — é uma verdadeira atração em movimento.",
+                "Image": {
+                    "Url": "/th?id=OHR.TowerBridgeUK_PT-BR2443250615_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TowerBridgeUK_PT-BR2443250615_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Quando o vão vira passagem",
+                "Title": "Tower Bridge, Londres, Inglaterra",
+                "Copyright": "© Nick Brundle  Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251104_TowerBridgeUK\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ponte+Tower+Bridge+em+Londres&form=hpcapt&filters=HpDate:\"20251104_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251104_TowerBridgeUK"
+            },
+            "Ssd": "20251104",
+            "Name": "TowerBridgeUK",
+            "Market": "PT-BR",
+            "Hash": "2443250615",
+            "FullDateString": "4 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251103",
         "fullstartdate": "202511030300",
         "enddate": "20251104",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251104",
+        "fullstartdate": "202511040800",
+        "enddate": "20251105",
+        "url": "/th?id=OHR.TowerBridgeUK_EN-US6871236865_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TowerBridgeUK_EN-US6871236865",
+        "copyright": "Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Tower+Bridge+London&form=hpcapt&filters=HpDate%3a%2220251104_0800%22",
+        "title": "Mind the gap—this one opens",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251104_TowerBridgeUK%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "11198a45c9728d7625f29a0ed752c7b7",
+        "hsh": "9642086c2112e7cbac7047ba254ff693",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Some bridges connect two sides. Tower Bridge connects history, engineering, and a flair for drama. Standing next to the Tower of London and rising over the River Thames since 1894, this London icon literally knows how to lift spirits—and traffic. With its twin towers, blue-and-white paintwork, and bascules that open like a giant's drawbridge, Tower Bridge is less a traffic solution and more a stage performer.",
+                "Image": {
+                    "Url": "/th?id=OHR.TowerBridgeUK_EN-US6871236865_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TowerBridgeUK_EN-US6871236865_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Mind the gap—this one opens",
+                "Title": "Tower Bridge, London, England",
+                "Copyright": "© Nick Brundle Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.505447,-0.075324/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=51.505447,-0.075324;S9;London&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Tower%20Bridge%20London&ss=ypid.YND687407D847C4CC0&mb=51.510472~-0.090466~51.500415~-0.060167&description=Tower%20Bridge%20Rd%2C%20London%20SE1%202UP%C2%B7Bridge&cardbg=%23219AB6&dt=1758295800000&tt=Tower%20Bridge&tsts0=%2526ty%253D18%2526q%253DTower%252520Bridge%252520London%2526ss%253Dypid.YND687407D847C4CC0%2526mb%253D51.510472~-0.090466~51.500415~-0.060167%2526description%253DTower%252520Bridge%252520Rd%25252C%252520London%252520SE1%2525202UP%2525C2%2525B7Bridge%2526cardbg%253D%252523219AB6%2526dt%253D1758295800000&tstt0=Tower%20Bridge&cp=53.512214~-0.482395&lvl=5.618121&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251104_TowerBridgeUK\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tower+Bridge+London&form=hpcapt&filters=HpDate:\"20251104_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251104_TowerBridgeUK"
+            },
+            "Ssd": "20251104",
+            "Name": "TowerBridgeUK",
+            "Market": "EN-US",
+            "Hash": "6871236865",
+            "FullDateString": "Nov 4, 2025"
+        }
+    },
+    {
         "startdate": "20251103",
         "fullstartdate": "202511030800",
         "enddate": "20251104",

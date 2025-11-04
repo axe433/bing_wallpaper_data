@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251104",
+        "fullstartdate": "202511042300",
+        "enddate": "20251105",
+        "url": "/th?id=OHR.MoncayoAutumn_ES-ES3658220911_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MoncayoAutumn_ES-ES3658220911",
+        "copyright": "Hayedo de Peña Roya, Parque Natural del Moncayo, Zaragoza, Aragón, España (© David Santiago Garcia/DEEPOL by plainpicture)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Natural+del+Moncayo+Zaragoza&form=hpcapt&filters=HpDate%3a%2220251104_2300%22",
+        "title": "El color de la temporada",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251104_MoncayoAutumn%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "665dd244742d62b15b85d8a820523b84",
+        "hsh": "c79a6f8d1a7002072c4402a9b3318407",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Aragón no es precisamente famosa por sus bosques: más bien es “sol y matorrales” que “sombra y frescor”. Sin embargo, al subir las laderas del Moncayo, encontrarás un final inesperado: un denso y susurrante bosque de hayas. La montaña ofrece un espectáculo climático único. En la base, arbustos mediterráneos; a mitad de camino, robles y pinos; y más arriba, Peña Roya, un auténtico país de las maravillas de hayas que parece decir: “¡Sorpresa!”",
+                "Image": {
+                    "Url": "/th?id=OHR.MoncayoAutumn_ES-ES3658220911_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MoncayoAutumn_ES-ES3658220911_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "El color de la temporada",
+                "Title": "Hayedo de Peña Roya, Parque Natural del Moncayo, Zaragoza, Aragón, España",
+                "Copyright": "© David Santiago Garcia/DEEPOL by plainpicture",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251105_MoncayoAutumn\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parque+Natural+del+Moncayo+Zaragoza&form=hpcapt&filters=HpDate:\"20251104_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251105_MoncayoAutumn"
+            },
+            "Ssd": "20251105",
+            "Name": "MoncayoAutumn",
+            "Market": "ES-ES",
+            "Hash": "3658220911",
+            "FullDateString": "5 de nov. de 2025"
+        }
+    },
+    {
         "startdate": "20251103",
         "fullstartdate": "202511032300",
         "enddate": "20251104",
