@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251105",
+        "fullstartdate": "202511051500",
+        "enddate": "20251106",
+        "url": "/th?id=OHR.LanternsThailand_JA-JP0402404581_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LanternsThailand_JA-JP0402404581",
+        "copyright": "ワット・プラタートハリプンチャイ寺院, タイ (© MR. ANUJAK JAIMOOK/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%AF%E3%83%83%E3%83%88%E3%83%BB%E3%83%97%E3%83%A9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%8F%E3%83%AA%E3%83%97%E3%83%B3%E3%83%81%E3%83%A3%E3%82%A4%E5%AF%BA%E9%99%A2&form=hpcapt&filters=HpDate%3a%2220251105_1500%22",
+        "title": "今日はロイクラトン",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251105_LanternsThailand%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "875ab3cc3dd16feeaec66165c8496833",
+        "hsh": "5dc7642b9a44f0381b6e8989d0f6a3c0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日は、タイ全土でロイクラトンというお祭りが開催されます。「ロイ」は流す、「クラトン」は灯籠を意味し、川に紙やバナナの葉で作った灯籠を流して水の女神コンカーに祈りを捧げるお祭りです。旧暦 12 月の満月の日を中心に行われており、現在は 11 月中旬ごろに開催されることが多くなっています…",
+                "Image": {
+                    "Url": "/th?id=OHR.LanternsThailand_JA-JP0402404581_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LanternsThailand_JA-JP0402404581_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日はロイクラトン",
+                "Title": "ワット・プラタートハリプンチャイ寺院, タイ",
+                "Copyright": "© MR. ANUJAK JAIMOOK/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/18.577391,99.00782/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=18.577391,99.00782;S9;ワット・プラタートハリプンチャイ寺院, タイ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Wat+Phra+That+Hariphunchai+temple+Thailand&ss=ypid.YN8178x5999485783110565553&mb=18.583613%7E98.996086%7E18.571165%7E99.019561&description=335+Inthayongyot+Rd%2C+Nai+Mueang%2C+Lamphun+Province+51000%C2%B7Buddhist+temple&cardbg=%23219AB6&dt=1758123000000&tt=Wat+Phra+That+Hariphunchai&tsts0=%2526ty%253D18%2526q%253DWat%252520Phra%252520That%252520Hariphunchai%252520temple%252520Thailand%2526ss%253Dypid.YN8178x5999485783110565553%2526mb%253D18.583613%7E98.996086%7E18.571165%7E99.019561%2526description%253D335%252520Inthayongyot%252520Rd%25252C%252520Nai%252520Mueang%25252C%252520Lamphun%252520Province%25252051000%2525C2%2525B7Buddhist%252520temple%2526cardbg%253D%252523219AB6%2526dt%253D1758123000000&tstt0=Wat+Phra+That+Hariphunchai&cp=10.849828%7E99.749031&lvl=4.5&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251106_LanternsThailand\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%af%e3%83%83%e3%83%88%e3%83%bb%e3%83%97%e3%83%a9%e3%82%bf%e3%83%bc%e3%83%88%e3%83%8f%e3%83%aa%e3%83%97%e3%83%b3%e3%83%81%e3%83%a3%e3%82%a4%e5%af%ba%e9%99%a2&form=hpcapt&filters=HpDate:\"20251105_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251106_LanternsThailand"
+            },
+            "Ssd": "20251106",
+            "Name": "LanternsThailand",
+            "Market": "JA-JP",
+            "Hash": "0402404581",
+            "FullDateString": "2025 年 11月 月 6 日"
+        }
+    },
+    {
         "startdate": "20251104",
         "fullstartdate": "202511041500",
         "enddate": "20251105",
