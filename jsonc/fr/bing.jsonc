@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251106",
+        "fullstartdate": "202511062300",
+        "enddate": "20251107",
+        "url": "/th?id=OHR.WillowBear_FR-FR5230824319_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WillowBear_FR-FR5230824319",
+        "copyright": "Ours polaire à Churchill, Manitoba, Canada (© karen crewe/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Semaine+ours+polaire+Churchill&form=hpcapt&filters=HpDate%3a%2220251106_2300%22",
+        "title": "Un ours pas mal léché !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251106_WillowBear%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "84eb0dfda4dece3d59ee2b8674b6e353",
+        "hsh": "2edd3607c52ae859fc343fe1e2f4b467",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "À Churchill, au nord du Manitoba au Canada, le vent souffle déjà l’hiver. Sur la toundra ocre, une silhouette blanche se détache : un ours polaire, patient, immense, guettant le retour de la glace sur la baie d’Hudson. C’est ici, chaque automne, que se déroule la Semaine de l’ours polaire, moment unique où la science et l’émerveillement se rencontrent.",
+                "Image": {
+                    "Url": "/th?id=OHR.WillowBear_FR-FR5230824319_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WillowBear_FR-FR5230824319_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un ours pas mal léché !",
+                "Title": "Ours polaire à Churchill, Manitoba, Canada",
+                "Copyright": "© karen crewe/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/58.7692,-94.1692/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=58.7692,-94.1692;S9;Churchill, Manitoba, Canada&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=churchill%20manitoba&satid=id.sid%3Ae6c9f8aa-cb7b-f745-3f26-f4382c639a55&vdpid=4880922566442614785&mb=58.78957~-94.268881~58.701363~-93.959306&cardbg=%23F98745&tt=Churchill%2C%20Manitoba%2C%20Canada&tsts0=%2526ty%253D30%2526q%253Dchurchill%252520manitoba%2526satid%253Did.sid%25253Ae6c9f8aa-cb7b-f745-3f26-f4382c639a55%2526vdpid%253D4880922566442614785%2526mb%253D58.78957~-94.268881~58.701363~-93.959306%2526cardbg%253D%252523F98745&tstt0=Churchill%2C%20Manitoba%2C%20Canada&cp=54.283689~-106.539776&lvl=4.8882194&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251107_WillowBear\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Semaine+ours+polaire+Churchill&form=hpcapt&filters=HpDate:\"20251106_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251107_WillowBear"
+            },
+            "Ssd": "20251107",
+            "Name": "WillowBear",
+            "Market": "FR-FR",
+            "Hash": "5230824319",
+            "FullDateString": "7 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251105",
         "fullstartdate": "202511052300",
         "enddate": "20251106",

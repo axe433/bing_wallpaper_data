@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251106",
+        "fullstartdate": "202511060800",
+        "enddate": "20251107",
+        "url": "/th?id=OHR.LanternsThailand_ROW2932853802_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LanternsThailand_ROW2932853802",
+        "copyright": "Colourful lanterns at the temple of Wat Phra That Hariphunchai, Lamphun, Thailand (© MR. ANUJAK JAIMOOK/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Wat+Phra+That+Hariphunchai&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251106_LanternsThailand%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "875ab3cc3dd16feeaec66165c8496833",
+        "hsh": "cbf81c2b6881fc28b0bd9ac6a4a5659c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Blending over a thousand years of history, art and devotion, Wat Phra That Hariphunchai, featured in today's image, offers a glimpse into the spiritual heart of northern Thailand. Its origins date back to 897, when the Hariphunchai king built a stupa to enshrine a strand of the Buddha's hair.",
+                "Image": {
+                    "Url": "/th?id=OHR.LanternsThailand_ROW2932853802_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LanternsThailand_ROW2932853802_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Colourful lanterns at the temple of Wat Phra That Hariphunchai, Lamphun, Thailand",
+                "Copyright": "© MR. ANUJAK JAIMOOK/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251106_LanternsThailand\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Wat+Phra+That+Hariphunchai&form=hpcapt&filters=HpDate:\"20251106_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251106_LanternsThailand"
+            },
+            "Ssd": "20251106",
+            "Name": "LanternsThailand",
+            "Market": "ROW",
+            "Hash": "2932853802",
+            "FullDateString": "6 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251105",
         "fullstartdate": "202511050800",
         "enddate": "20251106",

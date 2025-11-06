@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251106",
+        "fullstartdate": "202511061500",
+        "enddate": "20251107",
+        "url": "/th?id=OHR.Lidong2025_JA-JP0788996940_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Lidong2025_JA-JP0788996940",
+        "copyright": "エナガ, 日本 (© feathercollector/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%A8%E3%83%8A%E3%82%AC&form=hpcapt&filters=HpDate%3a%2220251106_1500%22",
+        "title": "今日は立冬",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251106_Lidong2025%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "db9d561e533013dbabee7fa3c54bd766",
+        "hsh": "202ebba7a6726e188110f60c398bffe8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 11 月 7 日は二十四節気の「立冬」。文字通り冬の始まりとされ、地域によって気候差がありますが、朝晩の冷え込みが強まり、冬の気配が強くなる時期です。この日を境に徐々に日照時間が短くなり、冬至に最も昼が短くなります。また、この時期は寒暖差により風邪を引きやすくなるため、注意が必要です…",
+                "Image": {
+                    "Url": "/th?id=OHR.Lidong2025_JA-JP0788996940_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Lidong2025_JA-JP0788996940_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日は立冬",
+                "Title": "エナガ, 日本",
+                "Copyright": "© feathercollector/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "エナガは、春から夏にかけては主に昆虫やクモを捕食し、秋になると樹皮の隙間に潜む幼虫や卵を探しながら、果実や種子も取り入れます。",
+                    "LinkUrl": "/search?q=%e3%82%a8%e3%83%8a%e3%82%ac%e3%81%ae%e9%a3%9f%e6%80%a7%e3%81%8c%e5%a4%89%e5%8c%96%e3%81%99%e3%82%8b%e7%90%86%e7%94%b1&form=hpvsfa",
+                    "LinkText": "エナガの食性が変化する理由は？"
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251107_Lidong2025\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%a8%e3%83%8a%e3%82%ac&form=hpcapt&filters=HpDate:\"20251106_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251107_Lidong2025"
+            },
+            "Ssd": "20251107",
+            "Name": "Lidong2025",
+            "Market": "JA-JP",
+            "Hash": "0788996940",
+            "FullDateString": "2025 年 11月 月 7 日"
+        }
+    },
+    {
         "startdate": "20251105",
         "fullstartdate": "202511051500",
         "enddate": "20251106",
