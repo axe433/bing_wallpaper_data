@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251107",
+        "fullstartdate": "202511070000",
+        "enddate": "20251108",
+        "url": "/th?id=OHR.WillowBear_EN-GB7735486202_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WillowBear_EN-GB7735486202",
+        "copyright": "Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Polar+bear+animal&form=hpcapt&filters=HpDate%3a%2220251107_0000%22",
+        "title": "Bear-ly blending in",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251107_WillowBear%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "84eb0dfda4dece3d59ee2b8674b6e353",
+        "hsh": "f1235b20f095401b3483e4e4cc3feab6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "What's drawing scientists, travellers and cameras to Manitoba, Canada, this week? Polar Bear Week is here, and it's more than a date on the calendar. The town of Churchill takes centre stage. Each autumn, hundreds of polar bears gather near here, waiting for the bay to freeze so they can hunt seals again—their primary food source. Ever wondered how they stay warm? A thick layer of fat and a dense undercoat trap heat. Their tangle-resistant hairs shake dry after swimming, and natural oils stop the coat from freezing. Sadly, warmer temperatures delay that freeze, forcing the bears to fast for longer. To cope with the delay, they rest, conserve energy and sometimes wander the area. Scientists track their movements to learn how migration patterns shift each year. Polar Bear Week celebrates these mammals while reminding us that their future depends on what we do about a warming planet.",
+                "Image": {
+                    "Url": "/th?id=OHR.WillowBear_EN-GB7735486202_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WillowBear_EN-GB7735486202_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Bear-ly blending in",
+                "Title": "Polar bear in Churchill, Manitoba, Canada",
+                "Copyright": "© karen crewe/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/58.7692,-94.1692/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=58.7692,-94.1692;S9;Churchill, Manitoba, Canada&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=churchill%20manitoba&satid=id.sid%3Ae6c9f8aa-cb7b-f745-3f26-f4382c639a55&vdpid=4880922566442614785&mb=58.78957~-94.268881~58.701363~-93.959306&cardbg=%23F98745&tt=Churchill%2C%20Manitoba%2C%20Canada&tsts0=%2526ty%253D30%2526q%253Dchurchill%252520manitoba%2526satid%253Did.sid%25253Ae6c9f8aa-cb7b-f745-3f26-f4382c639a55%2526vdpid%253D4880922566442614785%2526mb%253D58.78957~-94.268881~58.701363~-93.959306%2526cardbg%253D%252523F98745&tstt0=Churchill%2C%20Manitoba%2C%20Canada&cp=54.283689~-106.539776&lvl=4.8882194&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251107_WillowBear\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Polar+bear+animal&form=hpcapt&filters=HpDate:\"20251107_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251107_WillowBear"
+            },
+            "Ssd": "20251107",
+            "Name": "WillowBear",
+            "Market": "EN-GB",
+            "Hash": "7735486202",
+            "FullDateString": "7 Nov 2025"
+        }
+    },
+    {
         "startdate": "20251106",
         "fullstartdate": "202511060000",
         "enddate": "20251107",

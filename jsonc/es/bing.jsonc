@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251107",
+        "fullstartdate": "202511072300",
+        "enddate": "20251108",
+        "url": "/th?id=OHR.ExternsteineSunset_ES-ES1694019342_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ExternsteineSunset_ES-ES1694019342",
+        "copyright": "Complejo megalítico: Externsteine en el Bosque de Teutoburgo, Alemania (© Michael Sroka/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Externsteine&form=hpcapt&filters=HpDate%3a%2220251107_2300%22",
+        "title": "Rocas que cuentan leyendas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251107_ExternsteineSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cfb1e08bf76d6599f2fe4967b06dd9ff",
+        "hsh": "b9cbd0a50af2d51c4d2d385846be9c61",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En el corazón del bosque alemán de Teutoburgo, cerca de la ciudad de Horn-Bad Meinberg, en Renania del Norte-Westfalia, se alzan las impresionantes formaciones rocosas de Externsteine, uno de los monumentos naturales y culturales más singulares de Alemania. Estos pilares de arenisca, formados hace unos 70 millones de años, alcanzan los 40 metros de altura y cautivan a miles de visitantes cada año por su belleza y misterio.",
+                "Image": {
+                    "Url": "/th?id=OHR.ExternsteineSunset_ES-ES1694019342_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ExternsteineSunset_ES-ES1694019342_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Rocas que cuentan leyendas",
+                "Title": "Complejo megalítico: Externsteine en el Bosque de Teutoburgo, Alemania",
+                "Copyright": "© Michael Sroka/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251108_ExternsteineSunset\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Externsteine&form=hpcapt&filters=HpDate:\"20251107_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251108_ExternsteineSunset"
+            },
+            "Ssd": "20251108",
+            "Name": "ExternsteineSunset",
+            "Market": "ES-ES",
+            "Hash": "1694019342",
+            "FullDateString": "8 de nov. de 2025"
+        }
+    },
+    {
         "startdate": "20251106",
         "fullstartdate": "202511062300",
         "enddate": "20251107",

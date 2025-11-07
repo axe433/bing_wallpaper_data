@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251107",
+        "fullstartdate": "202511070800",
+        "enddate": "20251108",
+        "url": "/th?id=OHR.WillowBear_ROW2961602107_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WillowBear_ROW2961602107",
+        "copyright": "Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Polar+Bear&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251107_WillowBear%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "84eb0dfda4dece3d59ee2b8674b6e353",
+        "hsh": "d01029c67282320f6f8f348f4e7be3c2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Featured in today's image—the polar bear—is the largest living species of bear, often weighing over 180 kilograms. Closely related to brown bears, polar bears have evolved to survive in the planet's harshest, coldest environments, perfectly adapted to life on snow and ice.",
+                "Image": {
+                    "Url": "/th?id=OHR.WillowBear_ROW2961602107_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WillowBear_ROW2961602107_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Polar bear in Churchill, Manitoba, Canada",
+                "Copyright": "© karen crewe/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251107_WillowBear\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Polar+Bear&form=hpcapt&filters=HpDate:\"20251107_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251107_WillowBear"
+            },
+            "Ssd": "20251107",
+            "Name": "WillowBear",
+            "Market": "ROW",
+            "Hash": "2961602107",
+            "FullDateString": "7 lis 2025"
+        }
+    },
+    {
         "startdate": "20251106",
         "fullstartdate": "202511060800",
         "enddate": "20251107",
