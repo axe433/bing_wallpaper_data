@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251108",
+        "fullstartdate": "202511082300",
+        "enddate": "20251109",
+        "url": "/th?id=OHR.LagoonNebula_FR-FR5468322424_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LagoonNebula_FR-FR5468322424",
+        "copyright": "Nuages interstellaires dans la nébuleuse de la Lagune, capturés par le télescope spatial Hubble (© ESA/NASA)",
+        "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+Carl+Sagan&form=hpcapt&filters=HpDate%3a%2220251108_2300%22",
+        "title": "Un peu plus près des étoiles",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251108_LagoonNebula%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1245a51896eff0fc5c595ed3031228cf",
+        "hsh": "eb15227e15551590824d5fe88642f31e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Au cœur de la nébuleuse de la Lagune, à plus de 4 000 années-lumière d'ici, des nuages de gaz et de poussière s'embrasent. La lumière des étoiles naissantes y sculpte des formes mouvantes, semblables aux brumes dorées qui se lèvent le matin sur le mont Ventoux. Ce berceau stellaire, nommé NGC 6530, abrite des géantes bleues dont le destin est fulgurant : elles vivent vite, meurent jeunes et sèment la matière qui nourrira d’autres étoiles.",
+                "Image": {
+                    "Url": "/th?id=OHR.LagoonNebula_FR-FR5468322424_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LagoonNebula_FR-FR5468322424_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un peu plus près des étoiles",
+                "Title": "Nuages interstellaires dans la nébuleuse de la Lagune, capturés par le télescope spatial Hubble",
+                "Copyright": "© ESA/NASA",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Fort Lauderdale (Floride) a lancé la Journée Carl Sagan en 2009, aujourd’hui célébrée par les passionnés d’astronomie du monde entier.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251109_LagoonNebula\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Journ%c3%a9e+Carl+Sagan&form=hpcapt&filters=HpDate:\"20251108_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251109_LagoonNebula"
+            },
+            "Ssd": "20251109",
+            "Name": "LagoonNebula",
+            "Market": "FR-FR",
+            "Hash": "5468322424",
+            "FullDateString": "9 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251107",
         "fullstartdate": "202511072300",
         "enddate": "20251108",

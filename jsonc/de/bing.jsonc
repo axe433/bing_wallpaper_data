@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251108",
+        "fullstartdate": "202511082300",
+        "enddate": "20251109",
+        "url": "/th?id=OHR.BerlinOberbaumbruecke_DE-DE8698967118_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BerlinOberbaumbruecke_DE-DE8698967118",
+        "copyright": "Herzen auf den Türmen der Oberbaumbrücke, Berlin (© fhm/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Oberbaumbr%C3%BCcke+Berlin&form=hpcapt&filters=HpDate%3a%2220251108_2300%22",
+        "title": "Symbol der Einheit",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251108_BerlinOberbaumbruecke%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "7ff093cd26e6bdc63536d1abdcd54691",
+        "hsh": "47e6135e41cb7b0a787cc1e814eddf21",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Der 9. November gilt als Schicksalstag für Deutschland, denn er ist mit bedeutenden historischen Ereignissen verbunden – wie dem Fall der Berliner Mauer im Jahr 1989. Auch wenn dieser Tag kein offizieller Feiertag ist, so steht er doch als Tag des Gedenkens und der Erinnerung an einen Moment, der Deutschland für immer veränderte. Dieser Tag symbolisiert Freiheit, Einheit und das Ende der Teilung. In Berlin erinnern viele Orte an diese Zeit, doch kaum ein Bauwerk steht so sinnbildlich für das Zusammenwachsen der Stadt wie die Oberbaumbrücke, die auf unserem heutigen Bild zu sehen ist. Die markante Doppeldeckerbrücke über die Spree verbindet die Stadtteile Friedrichshain und Kreuzberg, die einst durch die Mauer getrennt waren. Bis zur Wiedervereinigung verlief die Grenze direkt über die Brücke. Einst ein streng bewachter Grenzübergang, ist sie heute ein lebendiges Wahrzeichen des vereinten Berlins.",
+                "Image": {
+                    "Url": "/th?id=OHR.BerlinOberbaumbruecke_DE-DE8698967118_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BerlinOberbaumbruecke_DE-DE8698967118_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Symbol der Einheit",
+                "Title": "Herzen auf den Türmen der Oberbaumbrücke, Berlin",
+                "Copyright": "© fhm/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.502235,13.445595/12?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=52.502235,13.445595;S9;Oberbaumbrücke, Berlin&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=oberbaumbruecke%20Berlin&satid=id.sid%3A0249da07-bddf-54f4-26d0-10bea2d31b56&mb=52.506838~13.433833~52.497054~13.457308&cardbg=%23F98745&dt=1759496400000&tt=Oberbaumbr%C3%BCcke%2C%20Berlin&tsts0=%2526ty%253D18%2526q%253Doberbaumbruecke%252520Berlin%2526satid%253Did.sid%25253A0249da07-bddf-54f4-26d0-10bea2d31b56%2526mb%253D52.506838~13.433833~52.497054~13.457308%2526cardbg%253D%252523F98745%2526dt%253D1759496400000&tstt0=Oberbaumbr%C3%BCcke%2C%20Berlin&cp=52.514297~13.460083&lvl=12.581782&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251109_BerlinOberbaumbruecke\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Oberbaumbr%c3%bccke+Berlin&form=hpcapt&filters=HpDate:\"20251108_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251109_BerlinOberbaumbruecke"
+            },
+            "Ssd": "20251109",
+            "Name": "BerlinOberbaumbruecke",
+            "Market": "DE-DE",
+            "Hash": "8698967118",
+            "FullDateString": "9. Nov.. 2025"
+        }
+    },
+    {
         "startdate": "20251107",
         "fullstartdate": "202511072300",
         "enddate": "20251108",

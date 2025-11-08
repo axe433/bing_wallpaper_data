@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251108",
+        "fullstartdate": "202511082300",
+        "enddate": "20251109",
+        "url": "/th?id=OHR.LagoonNebula_ES-ES1874240487_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LagoonNebula_ES-ES1874240487",
+        "copyright": "Nubes interestelares en la Nebulosa de la Laguna, capturadas por el Telescopio Espacial Hubble (© ESA/NASA)",
+        "copyrightlink": "https://www.bing.com/search?q=Nebulosa+de+la+Laguna&form=hpcapt&filters=HpDate%3a%2220251108_2300%22",
+        "title": "Érase una estrella",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251108_LagoonNebula%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1245a51896eff0fc5c595ed3031228cf",
+        "hsh": "a9149c7e67c876dd933c9872e3f50118",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El universo vibra con la creación. En la Nebulosa de la Laguna, un cúmulo llamado NGC 6530 está dando luz a estrellas recién nacidas, recordándonos que los comienzos están tejidos en el cosmos. Situado a unos 4.350 años luz y con apenas unos millones de años, este vivero estelar aún se encuentra en su primer capítulo.",
+                "Image": {
+                    "Url": "/th?id=OHR.LagoonNebula_ES-ES1874240487_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LagoonNebula_ES-ES1874240487_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Érase una estrella",
+                "Title": "Nubes interestelares en la Nebulosa de la Laguna, capturadas por el Telescopio Espacial Hubble",
+                "Copyright": "© ESA/NASA",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251109_LagoonNebula\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Nebulosa+de+la+Laguna&form=hpcapt&filters=HpDate:\"20251108_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251109_LagoonNebula"
+            },
+            "Ssd": "20251109",
+            "Name": "LagoonNebula",
+            "Market": "ES-ES",
+            "Hash": "1874240487",
+            "FullDateString": "9 de nov. de 2025"
+        }
+    },
+    {
         "startdate": "20251107",
         "fullstartdate": "202511072300",
         "enddate": "20251108",

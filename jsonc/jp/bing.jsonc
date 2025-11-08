@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251108",
+        "fullstartdate": "202511081500",
+        "enddate": "20251109",
+        "url": "/th?id=OHR.LagoonNebula_JA-JP1393658321_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LagoonNebula_JA-JP1393658321",
+        "copyright": "ハッブル宇宙望遠鏡が撮影したラグーン星雲の星間雲 (© ESA/NASA)",
+        "copyrightlink": "https://www.bing.com/search?q=%E6%98%9F%E9%96%93%E9%9B%B2&form=hpcapt&filters=HpDate%3a%2220251108_1500%22",
+        "title": "今日はカール・セーガン・デー",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251108_LagoonNebula%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1245a51896eff0fc5c595ed3031228cf",
+        "hsh": "9a57de8af67f862e2e46d80d12b2ba84",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日の画像は、約 4350 光年先にある干潟星雲（ Lagoon Nebula ）。内部に位置する散開星団 NGC6530 では生まれたばかりの星々が輝いています。1654 年ごろから 観測されていたとされており、星雲内の NGC6530 は 1680 年ごろに発見されました…",
+                "Image": {
+                    "Url": "/th?id=OHR.LagoonNebula_JA-JP1393658321_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LagoonNebula_JA-JP1393658321_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日はカール・セーガン・デー",
+                "Title": "ハッブル宇宙望遠鏡が撮影したラグーン星雲の星間雲",
+                "Copyright": "© ESA/NASA",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "ハッブル宇宙望遠鏡は 1990 年に打ち上げられ、宇宙膨張の発見で知られる天文学者エドウィン・ハッブルにちなんで名付けられました。主鏡の直径は 2.4m と高精度で、地球の低軌道を周回しながら観測を続けています。",
+                    "LinkUrl": "/search?q=%e3%83%8f%e3%83%83%e3%83%96%e3%83%ab%e5%ae%87%e5%ae%99%e6%9c%9b%e9%81%a0%e9%8f%a1%e3%81%8c%e5%9c%b0%e7%90%83%e3%82%92+1+%e5%91%a8%e3%81%99%e3%82%8b%e3%81%ae%e3%81%ab%e3%81%8b%e3%81%8b%e3%82%8b%e6%99%82%e9%96%93%e3%81%af%ef%bc%9f&form=hpvsfa",
+                    "LinkText": "ハッブル宇宙望遠鏡が地球を 1 周するのにかかる時間は？"
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251109_LagoonNebula\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e6%98%9f%e9%96%93%e9%9b%b2&form=hpcapt&filters=HpDate:\"20251108_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251109_LagoonNebula"
+            },
+            "Ssd": "20251109",
+            "Name": "LagoonNebula",
+            "Market": "JA-JP",
+            "Hash": "1393658321",
+            "FullDateString": "2025 年 11月 月 9 日"
+        }
+    },
+    {
         "startdate": "20251107",
         "fullstartdate": "202511071500",
         "enddate": "20251108",

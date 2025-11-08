@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251108",
+        "fullstartdate": "202511082300",
+        "enddate": "20251109",
+        "url": "/th?id=OHR.LagoonNebula_IT-IT3250116323_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LagoonNebula_IT-IT3250116323",
+        "copyright": "Nubi interstellari nella Nebulosa Laguna, catturate dal telescopio spaziale Hubble (© ESA/NASA)",
+        "copyrightlink": "https://www.bing.com/search?q=Carl+Sagan&form=hpcapt",
+        "title": "Figli delle Stelle",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251108_LagoonNebula%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1245a51896eff0fc5c595ed3031228cf",
+        "hsh": "5e9bc2dba07bfb732ec58ae721a2a399",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "L’universo vibra in un canto di creazione, un’armonia silenziosa che corre attraverso galassie lontane. Nella Nebulosa Laguna, il giovane ammasso stellare NGC 6530 accende nuove stelle, scintille di luce che germogliano nel buio immenso, ricordandoci che ogni nascita è intrecciata nel tessuto stesso del cosmo. A circa 4350 anni luce da noi, questa fioritura di stelle, giovane ma già luminosa, racconta la storia primordiale di mondi ancora da sognare. Oggi celebriamo il Carl Sagan Day, il giorno in cui si rende omaggio all’astronomo che seppe trasformare i misteri più remoti dell’universo in parole che tutti potevano ascoltare , come se fossero una poesia.",
+                "Image": {
+                    "Url": "/th?id=OHR.LagoonNebula_IT-IT3250116323_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LagoonNebula_IT-IT3250116323_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Figli delle Stelle",
+                "Title": "Nubi interstellari nella Nebulosa Laguna, catturate dal telescopio spaziale Hubble",
+                "Copyright": "© ESA/NASA",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Fort Lauderdale, in Florida, ha ospitato il primo Carl Sagan Day nel 2009, una tradizione che ora ispira gli appassionati di astronomia di tutto il mondo.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251109_LagoonNebula\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Carl+Sagan&form=hpcapt&filters=HpDate:\"20251108_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251109_LagoonNebula"
+            },
+            "Ssd": "20251109",
+            "Name": "LagoonNebula",
+            "Market": "IT-IT",
+            "Hash": "3250116323",
+            "FullDateString": "9 novembre 2025"
+        }
+    },
+    {
         "startdate": "20251107",
         "fullstartdate": "202511072300",
         "enddate": "20251108",
