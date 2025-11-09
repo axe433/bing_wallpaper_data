@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251109",
+        "fullstartdate": "202511092300",
+        "enddate": "20251110",
+        "url": "/th?id=OHR.CastleAbruzzo_IT-IT5062952309_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CastleAbruzzo_IT-IT5062952309",
+        "copyright": "Castello di Rocca Calascio, Parco Nazionale del Gran Sasso e dei Monti della Laga, Abruzzo (© carlo alberto conti/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Castello+di+Rocca+Calascio&form=hpcapt",
+        "title": "Nel vento la memoria",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251109_CastleAbruzzo%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3c482e6c488dac9eba08d4201f382064",
+        "hsh": "8eeee481672b6258fa308a8476cd1826",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Tra le creste silenziose dell’Appennino abruzzese, quando l’autunno comincia a sfiorare le pietre con dita d’ambra, Rocca Calascio si lascia intravedere come un miraggio di pietra e vento. A oltre 1.400 metri di altitudine, il castello veglia da secoli su vallate che si tingono di rame e oro, sospeso tra cielo e terra come un pensiero antico.",
+                "Image": {
+                    "Url": "/th?id=OHR.CastleAbruzzo_IT-IT5062952309_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CastleAbruzzo_IT-IT5062952309_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Nel vento la memoria",
+                "Title": "Castello di Rocca Calascio, Parco Nazionale del Gran Sasso e dei Monti della Laga, Abruzzo",
+                "Copyright": "© carlo alberto conti/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/42.328934,13.688903/9?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=42.328934,13.688903;S9;Castello di Rocca Calascio, L’Aquila, Abruzzo&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Castello%20di%20Rocca%20Calascio&ss=ypid.YN1354x6008235852586515895&mb=42.334002~13.677056~42.323865~13.700745&description=Via%20della%20Torre%2C%20Calascio%20%28AQ%29%20L%27aquila%C2%B7Castello&cardbg=%23219AB6&dt=1760101200000&tt=Rocca%20Calascio&tsts0=%2526ty%253D18%2526q%253DCastello%252520di%252520Rocca%252520Calascio%2526ss%253Dypid.YN1354x6008235852586515895%2526mb%253D42.334002~13.677056~42.323865~13.700745%2526description%253DVia%252520della%252520Torre%25252C%252520Calascio%252520%252528AQ%252529%252520L%252527aquila%2525C2%2525B7Castello%2526cardbg%253D%252523219AB6%2526dt%253D1760101200000&tstt0=Rocca%20Calascio&cp=42.324848~13.681932&lvl=15.57429&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251110_CastleAbruzzo\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Castello+di+Rocca+Calascio&form=hpcapt&filters=HpDate:\"20251109_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251110_CastleAbruzzo"
+            },
+            "Ssd": "20251110",
+            "Name": "CastleAbruzzo",
+            "Market": "IT-IT",
+            "Hash": "5062952309",
+            "FullDateString": "10 novembre 2025"
+        }
+    },
+    {
         "startdate": "20251108",
         "fullstartdate": "202511082300",
         "enddate": "20251109",
