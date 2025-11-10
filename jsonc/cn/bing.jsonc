@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251110",
+        "fullstartdate": "202511101600",
+        "enddate": "20251111",
+        "url": "/th?id=OHR.ExternsteineSunset_ZH-CN4190155102_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ExternsteineSunset_ZH-CN4190155102",
+        "copyright": "条顿堡森林的伊克斯坦岩石层，德国 (© Michael Sroka/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E6%9D%A1%E9%A1%BF%E5%A0%A1%E6%9E%97%E5%B1%B1&form=hpcapt&mkt=zh-cn",
+        "title": "传奇之地",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251110_ExternsteineSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cfb1e08bf76d6599f2fe4967b06dd9ff",
+        "hsh": "a9b43e40979ded3153848a0e901b2602",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "在德国北莱茵-威斯特法伦州的霍恩-巴特迈因贝格附近，条顿堡森林的腹地矗立着壮丽的埃克斯特恩岩石群。这些砂岩石柱形成于约7,000万年前，是德国最重要的自然与文化地标之一。高达35米的岩柱以其独特的形态与深厚的历史底蕴吸引着无数游客。早在中世纪，这里就被用作宗教祭祀之地，这一点从12世纪刻在岩石上的下十字架像浮雕中可见一斑，这是阿尔卑斯山以北最古老的此类浮雕。",
+                "Image": {
+                    "Url": "/th?id=OHR.ExternsteineSunset_ZH-CN4190155102_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ExternsteineSunset_ZH-CN4190155102_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "传奇之地",
+                "Title": "条顿堡森林的伊克斯坦岩石层，德国",
+                "Copyright": "© Michael Sroka/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "直到17世纪，这座山脊的官方名称仍是奥斯宁。1616 年，人们为了纪念公元9年的条顿堡森林战役，将其改名为“条顿堡森林”。不过，学者普遍认为这场战役很可能实际发生在卡尔克里泽。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251111_ExternsteineSunset\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e6%9d%a1%e9%a1%bf%e5%a0%a1%e6%9e%97%e5%b1%b1&form=hpcapt&filters=HpDate:\"20251110_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251111_ExternsteineSunset"
+            },
+            "Ssd": "20251111",
+            "Name": "ExternsteineSunset",
+            "Market": "ZH-CN",
+            "Hash": "4190155102",
+            "FullDateString": "2025 11月 11"
+        }
+    },
+    {
         "startdate": "20251109",
         "fullstartdate": "202511091600",
         "enddate": "20251110",

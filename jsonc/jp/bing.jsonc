@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251110",
+        "fullstartdate": "202511101500",
+        "enddate": "20251111",
+        "url": "/th?id=OHR.BulgariaRocks_JA-JP2963566999_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BulgariaRocks_JA-JP2963566999",
+        "copyright": "ベログラトチク岩, ブルガリア (© EvaL Miko/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%99%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%88%E3%83%81%E3%82%AF%E5%B2%A9&form=hpcapt&filters=HpDate%3a%2220251110_1500%22",
+        "title": "浸食で形成された砂岩",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251110_BulgariaRocks%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8854855d1b3ed44b31fd1528144b8418",
+        "hsh": "1476b2f7aba05ce067f6fd6f910dc44b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ブルガリア国内に位置し、隣国セルビアの国境にまでつながるバルカン山脈。バルカン半島の名前の由来ともなった山脈で、スターラ山脈とも呼ばれています。ブルガリアという国の歴史と密接に関わる山脈であり、天然の要塞として、あるいは戦士たちの隠れ家として機能してきました…",
+                "Image": {
+                    "Url": "/th?id=OHR.BulgariaRocks_JA-JP2963566999_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BulgariaRocks_JA-JP2963566999_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "浸食で形成された砂岩",
+                "Title": "ベログラトチク岩, ブルガリア",
+                "Copyright": "© EvaL Miko/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.62468,22.69277/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=43.62468,22.69277;S9;ベログラトチク岩, ブルガリア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Belogradchik+Rocks&ss=ypid.YN8019x16802349372634234600&mb=43.630523%7E22.682776%7E43.618827%7E22.702775&description=Vidin+3900+Belogradchik&cardbg=%233DB838&dt=1757086200000&tt=Belogradchik+Rocks&tsts0=%2526ty%253D18%2526q%253DBelogradchik%252520Rocks%2526ss%253Dypid.YN8019x16802349372634234600%2526mb%253D43.630523%7E22.682776%7E43.618827%7E22.702775%2526description%253DVidin%2525203900%252520Belogradchik%2526cardbg%253D%2525233DB838%2526dt%253D1757086200000&tstt0=Belogradchik+Rocks&cp=43.793994%7E19.070991&lvl=5.6&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251111_BulgariaRocks\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%99%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%88%e3%83%81%e3%82%af%e5%b2%a9&form=hpcapt&filters=HpDate:\"20251110_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251111_BulgariaRocks"
+            },
+            "Ssd": "20251111",
+            "Name": "BulgariaRocks",
+            "Market": "JA-JP",
+            "Hash": "2963566999",
+            "FullDateString": "2025 年 11月 月 11 日"
+        }
+    },
+    {
         "startdate": "20251109",
         "fullstartdate": "202511091500",
         "enddate": "20251110",

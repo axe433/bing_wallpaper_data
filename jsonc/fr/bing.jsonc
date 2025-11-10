@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251110",
+        "fullstartdate": "202511102300",
+        "enddate": "20251111",
+        "url": "/th?id=OHR.Armistice_FR-FR5922039911_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Armistice_FR-FR5922039911",
+        "copyright": "Tombe du soldat inconnu sous l’Arc de Triomphe à Paris lors des commémorations du 11 novembre (© Ludovic Marin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Tombe+du+soldat+inconnu&form=hpcapt&filters=HpDate%3a%2220251110_2300%22",
+        "title": "Un symbole plus que jamais d’actualité",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251110_Armistice%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "d77b1d59be2356693be6cb9f7340dc14",
+        "hsh": "ee815bd2d75a597648c7299f8c27ab22",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sous l’Arc de triomphe, à l’extrémité des Champs-Élysées, la flamme éternelle vacille dans le vent d’automne. Chaque 11 novembre, son reflet danse sur la pierre froide de la tombe du soldat inconnu, rappelant la mémoire de ceux qui sont tombés pour notre pays. Autour, les drapeaux se dressent, les pas s’apaisent malgré le tumulte de la ville.",
+                "Image": {
+                    "Url": "/th?id=OHR.Armistice_FR-FR5922039911_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Armistice_FR-FR5922039911_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Un symbole plus que jamais d'actualité",
+                "Title": "Tombe du soldat inconnu sous l’Arc de Triomphe à Paris lors des commémorations du 11 novembre",
+                "Copyright": "© Ludovic Marin/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.874196,2.294966/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=48.874196,2.294966;S9;Tombe du soldat inconnu, Arc de Triomphe, Paris&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=La%20Tombe%20Du%20Soldat%20Inconnu%2C%2011%20PL%20Charles%20de%20Gaulle%2C%20Paris%2C%20France&ss=ypid.YN2000x12963498311817054572&mb=48.879047~2.286894~48.868505~2.303245&description=11%20PL%20Charles%20de%20Gaulle%2C%2075008%20Paris&cardbg=%23219AB6&dt=1759845600000&tt=La%20Tombe%20Du%20Soldat%20inconnu&tsts0=%2526ty%253D18%2526q%253DLa%252520Tombe%252520Du%252520Soldat%252520Inconnu%25252C%25252011%252520PL%252520Charles%252520de%252520Gaulle%25252C%252520Paris%25252C%252520France%2526ss%253Dypid.YN2000x12963498311817054572%2526mb%253D48.879047~2.286894~48.868505~2.303245%2526description%253D11%252520PL%252520Charles%252520de%252520Gaulle%25252C%25252075008%252520Paris%2526cardbg%253D%252523219AB6%2526dt%253D1759845600000&tstt0=La%20Tombe%20Du%20Soldat%20Inconnu&cp=48.873776~2.284598&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251111_Armistice\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tombe+du+soldat+inconnu&form=hpcapt&filters=HpDate:\"20251110_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251111_Armistice"
+            },
+            "Ssd": "20251111",
+            "Name": "Armistice",
+            "Market": "FR-FR",
+            "Hash": "5922039911",
+            "FullDateString": "11 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251109",
         "fullstartdate": "202511092300",
         "enddate": "20251110",
