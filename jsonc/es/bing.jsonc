@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251111",
+        "fullstartdate": "202511112300",
+        "enddate": "20251112",
+        "url": "/th?id=OHR.ColosseumRome_ES-ES3360998875_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ColosseumRome_ES-ES3360998875",
+        "copyright": "Vista aérea del Coliseo, Roma, Italia (© Nico De Pasquale Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=El+Coliseo&form=hpcapt&filters=HpDate%3a%2220251111_2300%22",
+        "title": "Todos los caminos llevan a Roma",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251111_ColosseumRome%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8a53e0610cc2891c2c36a1f8cef2b1be",
+        "hsh": "38df421e5bbc467a10b7c5d2b6d68158",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "¿Crees que los deportes modernos son emocionantes? Los antiguos romanos disfrutaban de espectáculos todavía más intensos en el Coliseo. Encargado por el emperador Flavio Vespasiano en el año 72 d.C. y terminado por su hijo Tito en el 80 d.C., este anfiteatro rompió la tradición de construirse en laderas: era un coloso arquitectónico independiente. Con piedra y hormigón, sus arcos y bóvedas sostenían una arena capaz de albergar hasta 50.000 espectadores. Gladiadores, animales exóticos e incluso batallas navales escenificadas fascinaban al público, mientras ascensores y trampillas ocultas creaban apariciones sorprendentes.",
+                "Image": {
+                    "Url": "/th?id=OHR.ColosseumRome_ES-ES3360998875_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ColosseumRome_ES-ES3360998875_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Todos los caminos llevan a Roma",
+                "Title": "Vista aérea del Coliseo, Roma, Italia",
+                "Copyright": "© Nico De Pasquale Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251112_ColosseumRome\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=El+Coliseo&form=hpcapt&filters=HpDate:\"20251111_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251112_ColosseumRome"
+            },
+            "Ssd": "20251112",
+            "Name": "ColosseumRome",
+            "Market": "ES-ES",
+            "Hash": "3360998875",
+            "FullDateString": "12 de nov. de 2025"
+        }
+    },
+    {
         "startdate": "20251110",
         "fullstartdate": "202511102300",
         "enddate": "20251111",

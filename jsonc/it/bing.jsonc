@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251111",
+        "fullstartdate": "202511112300",
+        "enddate": "20251112",
+        "url": "/th?id=OHR.ColosseumRome_IT-IT5258156974_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ColosseumRome_IT-IT5258156974",
+        "copyright": "Colosseo, Roma, Lazio (© Nico De Pasquale Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Colosseo+Roma&form=hpcapt",
+        "title": "Roma Caput Mundi",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251111_ColosseumRome%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8a53e0610cc2891c2c36a1f8cef2b1be",
+        "hsh": "f43e34d5684a2e7e8a40c386059b63bf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nel cuore della Città Eterna, dove il tempo sembra respirare pietra, sorge il Colosseo: un gigante silenzioso che ha attraversato secoli. Voluto dall’imperatore Vespasiano tra il 70 e il 72 d.C. e inaugurato da suo figlio, Tito, nell’80, l’Anfiteatro Flavio fu costruito sopra il lago artificiale della Domus Aurea, come gesto di restituzione al popolo romano. Con una capienza di oltre 50.000 spettatori, fu teatro di giochi, battaglie e meraviglie, dove i gladiatori combattevano per la gloria, il favore del pubblico e, talvolta, la libertà.",
+                "Image": {
+                    "Url": "/th?id=OHR.ColosseumRome_IT-IT5258156974_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ColosseumRome_IT-IT5258156974_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Roma Caput Mundi",
+                "Title": "Colosseo, Roma, Lazio",
+                "Copyright": "© Nico De Pasquale Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.89028,12.49222/14?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=41.89028,12.49222;S9;Colosseo, Roma, Lazio&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=colosseum%20rome&satid=id.sid%3A8decf6d1-fdf8-4358-9807-ef1bc8ec8df0&vdpid=7215944276671201284&mb=41.891385~12.489878~41.889172~12.494549&cardbg=%23219AB6&dt=1758195000000&tt=Colosseum%2C%20Rome%2C%20Rome%2C%20Latium%2C%20Italy&tsts0=%2526ty%253D30%2526q%253Dcolosseum%252520rome%2526satid%253Did.sid%25253A8decf6d1-fdf8-4358-9807-ef1bc8ec8df0%2526vdpid%253D7215944276671201284%2526mb%253D41.891385~12.489878~41.889172~12.494549%2526cardbg%253D%252523219AB6%2526dt%253D1758195000000&tstt0=Colosseum%2C%20Rome%2C%20Rome%2C%20Latium%2C%20Italy&cp=41.855676~-16.247007&lvl=3.6&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251112_ColosseumRome\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Colosseo+Roma&form=hpcapt&filters=HpDate:\"20251111_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251112_ColosseumRome"
+            },
+            "Ssd": "20251112",
+            "Name": "ColosseumRome",
+            "Market": "IT-IT",
+            "Hash": "5258156974",
+            "FullDateString": "12 novembre 2025"
+        }
+    },
+    {
         "startdate": "20251110",
         "fullstartdate": "202511102300",
         "enddate": "20251111",

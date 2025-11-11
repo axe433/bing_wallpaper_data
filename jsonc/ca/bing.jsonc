@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251111",
+        "fullstartdate": "202511110500",
+        "enddate": "20251112",
+        "url": "/th?id=OHR.AloeDichotoma_EN-CA9316195338_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AloeDichotoma_EN-CA9316195338",
+        "copyright": "Quiver trees at night with the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Quiver+tree&form=hpcapt&filters=HpDate%3a%2220251111_0500%22",
+        "title": "Quivering under starlight",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251111_AloeDichotoma%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a113cefcfc644877da903ae50ee67500",
+        "hsh": "5d55e7a97f46cd9ba27e7d381ee9ba4d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Of all the plants on Earth, the quiver tree looks the most like a vision from the future. Found in Southern Africa, including parts of Namibia, these striking giants are not true trees but a species of aloe adapted to life under the desert's scorching sun. Their thick trunks store water, while their branches reflect heat, helping them endure harsh conditions. Reaching up to 7 metres in height, with some living for more than 100 years, quiver trees are also vital to their ecosystem. They offer rare perches and nesting sites for birds in landscapes where few other trees exist.",
+                "Image": {
+                    "Url": "/th?id=OHR.AloeDichotoma_EN-CA9316195338_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AloeDichotoma_EN-CA9316195338_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Quivering under starlight",
+                "Title": "Quiver trees at night with the Milky Way, Keetmanshoop, Namibia",
+                "Copyright": "© Wim van den Heever/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-26.58333,18.13333/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=-26.58333,18.13333;S9;Keetmanshoop, Karas, Namibia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Keetmanshoop&satid=id.sid%3Ae1735fb9-a05e-9964-2b81-07a3246275ec&vdpid=8155031629962674177&mb=-26.55888~18.101398~-26.602304~18.177701&cardbg=%23F98745&tt=Keetmanshoop%2C%20Karas%2C%20Namibia&tsts0=%2526ty%253D30%2526q%253DKeetmanshoop%2526satid%253Did.sid%25253Ae1735fb9-a05e-9964-2b81-07a3246275ec%2526vdpid%253D8155031629962674177%2526mb%253D-26.55888~18.101398~-26.602304~18.177701%2526cardbg%253D%252523F98745&tstt0=Keetmanshoop%2C%20Karas%2C%20Namibia&cp=-24.319753~-5.10961&lvl=3.57&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251111_AloeDichotoma\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Quiver+tree&form=hpcapt&filters=HpDate:\"20251111_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251111_AloeDichotoma"
+            },
+            "Ssd": "20251111",
+            "Name": "AloeDichotoma",
+            "Market": "EN-CA",
+            "Hash": "9316195338",
+            "FullDateString": "Nov. 11, 2025"
+        }
+    },
+    {
         "startdate": "20251110",
         "fullstartdate": "202511100500",
         "enddate": "20251111",

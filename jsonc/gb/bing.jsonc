@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251111",
+        "fullstartdate": "202511110000",
+        "enddate": "20251112",
+        "url": "/th?id=OHR.ExternsteineSunset_EN-GB9984773372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ExternsteineSunset_EN-GB9984773372",
+        "copyright": "The Externsteine rock formation in the Teutoburg Forest, North Rhine-Westphalia, Germany (© Michael Sroka/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=The+Externsteine+Teutoburg+Forest&form=hpcapt&filters=HpDate%3a%2220251111_0000%22",
+        "title": "Where legends rise",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251111_ExternsteineSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cfb1e08bf76d6599f2fe4967b06dd9ff",
+        "hsh": "5db04308265c515dc11e0aab7607fa88",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nestled in the heart of Germany's Teutoburg Forest, near the town of Horn-Bad Meinberg in North Rhine-Westphalia, the dramatic rock formations known as the Externsteine rise majestically into the sky. These sandstone pillars, formed around 70 million years ago, are among Germany's most significant natural and cultural landmarks. They captivate visitors with their unique shapes and rich historical significance, attracting thousands each year. The rocks reach heights of up to 35 metres. As early as the Middle Ages, the site was used as a place of worship, as evidenced by a remarkable 12th-century relief carved into the stone depicting the Descent from the Cross. It is the oldest of its kind north of the Alps.",
+                "Image": {
+                    "Url": "/th?id=OHR.ExternsteineSunset_EN-GB9984773372_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ExternsteineSunset_EN-GB9984773372_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Where legends rise",
+                "Title": "The Externsteine rock formation in the Teutoburg Forest, North Rhine-Westphalia, Germany",
+                "Copyright": "© Michael Sroka/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.870319,8.927017/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=51.870319,8.927017;S9;Externsteine,Teutoburg Forest, North Rhine-Westphalia, Germany&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&ss=ypid.YN6740x6052833378597566757&mb=51.873676~8.91724~51.86574~8.932539&description=Externsteiner%20Str.%2033%20%C2%B7%2032805%20Horn-Bad%20Meinberg%C2%B7Wahrzeichen%20und%20historisches%20Geb%C3%A4ude&dt=1759410000000&tt=Haus%20Externsteine&tsts1=%2526ty%253D18%2526ss%253Dypid.YN6740x6052833378597566757%2526mb%253D51.873676~8.91724~51.86574~8.932539%2526description%253DExternsteiner%252520Str.%25252033%252520%2525C2%2525B7%25252032805%252520Horn-Bad%252520Meinberg%2525C2%2525B7Wahrzeichen%252520und%252520historisches%252520Geb%2525C3%2525A4ude%2526dt%253D1759410000000&tstt1=Haus%20Externsteine&cp=51.838518~8.808373&lvl=12.306381&pi=0&ftst=1&ftics=True&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251111_ExternsteineSunset\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=The+Externsteine+Teutoburg+Forest&form=hpcapt&filters=HpDate:\"20251111_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251111_ExternsteineSunset"
+            },
+            "Ssd": "20251111",
+            "Name": "ExternsteineSunset",
+            "Market": "EN-GB",
+            "Hash": "9984773372",
+            "FullDateString": "11 Nov 2025"
+        }
+    },
+    {
         "startdate": "20251110",
         "fullstartdate": "202511100000",
         "enddate": "20251111",

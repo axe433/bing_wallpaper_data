@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251111",
+        "fullstartdate": "202511111830",
+        "enddate": "20251112",
+        "url": "/th?id=OHR.ColosseumRome_EN-IN3858080583_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ColosseumRome_EN-IN3858080583",
+        "copyright": "Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Colosseum+Rome&form=hpcapt&filters=HpDate%3a%2220251111_1830%22",
+        "title": "All roads lead to Rome",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251111_ColosseumRome%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8a53e0610cc2891c2c36a1f8cef2b1be",
+        "hsh": "d56f743f4ad67c6aafbfdf9962a875ae",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Think modern sports are dramatic? Ancient Romans had front-row seats to spectacles far more intense inside the Colosseum. Commissioned by the Flavian emperor Vespasian in 72 CE and finished by his son Titus in 80 CE, this amphitheatre broke tradition with its predecessors that were built into hillsides for natural support. Instead, the Colosseum was a fully free-standing architectural giant, crafted from stone and concrete. Its arches and vaults supported an arena that could host up to 50,000 spectators. Gladiators, exotic animals and even staged sea battles thrilled the crowds, while hidden elevators and trapdoors created sudden, dramatic appearances.",
+                "Image": {
+                    "Url": "/th?id=OHR.ColosseumRome_EN-IN3858080583_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ColosseumRome_EN-IN3858080583_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "All roads lead to Rome",
+                "Title": "Aerial view of the Colosseum, Rome, Italy",
+                "Copyright": "© Nico De Pasquale Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.89028,12.49222/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=41.89028,12.49222;S9;Colosseum, Rome, Italy&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=colosseum%20rome&satid=id.sid%3A8decf6d1-fdf8-4358-9807-ef1bc8ec8df0&vdpid=7215944276671201284&mb=41.891385~12.489878~41.889172~12.494549&cardbg=%23219AB6&dt=1758195000000&tt=Colosseum%2C%20Rome%2C%20Rome%2C%20Latium%2C%20Italy&tsts0=%2526ty%253D30%2526q%253Dcolosseum%252520rome%2526satid%253Did.sid%25253A8decf6d1-fdf8-4358-9807-ef1bc8ec8df0%2526vdpid%253D7215944276671201284%2526mb%253D41.891385~12.489878~41.889172~12.494549%2526cardbg%253D%252523219AB6%2526dt%253D1758195000000&tstt0=Colosseum%2C%20Rome%2C%20Rome%2C%20Latium%2C%20Italy&cp=41.855676~-16.247007&lvl=3.6&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251112_ColosseumRome\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Colosseum+Rome&form=hpcapt&filters=HpDate:\"20251111_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251112_ColosseumRome"
+            },
+            "Ssd": "20251112",
+            "Name": "ColosseumRome",
+            "Market": "EN-IN",
+            "Hash": "3858080583",
+            "FullDateString": "12 Nov, 2025"
+        }
+    },
+    {
         "startdate": "20251110",
         "fullstartdate": "202511101830",
         "enddate": "20251111",
