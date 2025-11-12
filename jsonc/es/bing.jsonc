@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251112",
+        "fullstartdate": "202511122300",
+        "enddate": "20251113",
+        "url": "/th?id=OHR.AloeDichotoma_ES-ES2317019212_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AloeDichotoma_ES-ES2317019212",
+        "copyright": "Árboles Quiver por la noche con la Vía Láctea, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Keetmanshoop&form=hpcapt&filters=HpDate%3a%2220251112_2300%22",
+        "title": "¡Un nido de tejedores!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251112_AloeDichotoma%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a113cefcfc644877da903ae50ee67500",
+        "hsh": "a3c6da2b10668a5e94e68481cc8ddaf3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "De todas las plantas del mundo, el árbol quiver parece sacado del futuro. Originarios del sur de África, especialmente de Namibia, estos impresionantes gigantes no son árboles reales, sino una especie de aloe adaptada al sol abrasador del desierto. Sus gruesos troncos almacenan agua y sus ramas reflejan el calor, ayudándoles a sobrevivir en condiciones extremas. Pueden alcanzar hasta 7 metros de altura y algunos viven más de 100 años. Además, son esenciales para su ecosistema, ofreciendo perchas y sitios de anidación para aves, como los tejedores, muy común en sus ramas.",
+                "Image": {
+                    "Url": "/th?id=OHR.AloeDichotoma_ES-ES2317019212_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AloeDichotoma_ES-ES2317019212_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "¡Un nido de tejedores!",
+                "Title": "Árboles Quiver por la noche con la Vía Láctea, Keetmanshoop, Namibia",
+                "Copyright": "© Wim van den Heever/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251113_AloeDichotoma\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Keetmanshoop&form=hpcapt&filters=HpDate:\"20251112_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251113_AloeDichotoma"
+            },
+            "Ssd": "20251113",
+            "Name": "AloeDichotoma",
+            "Market": "ES-ES",
+            "Hash": "2317019212",
+            "FullDateString": "13 de nov. de 2025"
+        }
+    },
+    {
         "startdate": "20251111",
         "fullstartdate": "202511112300",
         "enddate": "20251112",

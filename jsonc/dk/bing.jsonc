@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251112",
+        "fullstartdate": "202511120800",
+        "enddate": "20251113",
+        "url": "/th?id=OHR.ColosseumRome_ROW3105960195_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ColosseumRome_ROW3105960195",
+        "copyright": "Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Colosseum+Rome&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251112_ColosseumRome%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8a53e0610cc2891c2c36a1f8cef2b1be",
+        "hsh": "623cb6211cd7f7fbad6ca7be3cec65e4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Think modern sports are dramatic? Ancient Romans had front-row seats to spectacles far more intense inside the Colosseum. Commissioned by the Flavian emperor Vespasian in 72 CE and finished by his son Titus in 80 CE, this amphitheatre broke tradition with its predecessors that were built into hillsides for natural support. Instead, the Colosseum was a fully free-standing architectural giant. Crafted from stone and concrete, its arches and vaults supported an arena that could host up to 50,000 spectators. Gladiators, exotic animals and even staged sea battles thrilled the crowds, while hidden lifts and trapdoors created sudden, dramatic appearances.",
+                "Image": {
+                    "Url": "/th?id=OHR.ColosseumRome_ROW3105960195_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ColosseumRome_ROW3105960195_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Aerial view of the Colosseum, Rome, Italy",
+                "Copyright": "© Nico De Pasquale Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251112_ColosseumRome\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Colosseum+Rome&form=hpcapt&filters=HpDate:\"20251112_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251112_ColosseumRome"
+            },
+            "Ssd": "20251112",
+            "Name": "ColosseumRome",
+            "Market": "ROW",
+            "Hash": "3105960195",
+            "FullDateString": "12. nov. 2025"
+        }
+    },
+    {
         "startdate": "20251111",
         "fullstartdate": "202511110800",
         "enddate": "20251112",

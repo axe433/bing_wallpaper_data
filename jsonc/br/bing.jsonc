@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251112",
+        "fullstartdate": "202511120300",
+        "enddate": "20251113",
+        "url": "/th?id=OHR.DiaPantanal_PT-BR4333976346_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DiaPantanal_PT-BR4333976346",
+        "copyright": "Jacaré-do-pantanal com uma borboleta pousada em  seu focinho, Pantanal (© Angelo Gandolfi/NPL)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+do+Pantanal&form=hpcapt&mkt=pt-br",
+        "title": "No coração do Pantanal",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251112_DiaPantanal%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "09745fd2287fed430b7ea869fdea9d1a",
+        "hsh": "9a22012f36e276f46761f9871b5f70ed",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Com olhos atentos, o jacaré é o símbolo da tranquilidade selvagem do Pantanal. No dia 12 de novembro, celebramos o Dia do Pantanal, uma data dedicada à maior planície alagável do mundo e à sua impressionante biodiversidade. Entre seus habitantes mais icônicos está o jacaré-do-pantanal, retratado na imagem com uma borboleta repousando suavemente sobre seu focinho — uma cena que revela o equilíbrio e a beleza da vida selvagem.",
+                "Image": {
+                    "Url": "/th?id=OHR.DiaPantanal_PT-BR4333976346_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DiaPantanal_PT-BR4333976346_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "No coração do Pantanal",
+                "Title": "Jacaré-do-pantanal com uma borboleta pousada em  seu focinho, Pantanal",
+                "Copyright": "© Angelo Gandolfi/NPL",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251112_DiaPantanal\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dia+do+Pantanal&form=hpcapt&filters=HpDate:\"20251112_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251112_DiaPantanal"
+            },
+            "Ssd": "20251112",
+            "Name": "DiaPantanal",
+            "Market": "PT-BR",
+            "Hash": "4333976346",
+            "FullDateString": "12 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251111",
         "fullstartdate": "202511110300",
         "enddate": "20251112",
