@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251113",
+        "fullstartdate": "202511130800",
+        "enddate": "20251114",
+        "url": "/th?id=OHR.AloeDichotoma_ROW2671936766_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AloeDichotoma_ROW2671936766",
+        "copyright": "Quiver trees at night with the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Quiver+tree&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251113_AloeDichotoma%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a113cefcfc644877da903ae50ee67500",
+        "hsh": "522f9a7b56b8b79443efe1ccf72f6399",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Of all the plants on Earth, the quiver tree looks the most like a vision from the future. Found in Southern Africa, including parts of Namibia, these striking giants are not true trees but a species of aloe adapted to life under the desert's scorching sun. Their thick trunks store water, while their branches reflect heat, helping them endure harsh conditions. Reaching up to 7 metres in height, with some living for more than 100 years, quiver trees are also vital to their ecosystem. They offer rare perches and nesting sites for birds in landscapes where few other trees exist.",
+                "Image": {
+                    "Url": "/th?id=OHR.AloeDichotoma_ROW2671936766_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AloeDichotoma_ROW2671936766_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Quiver trees at night with the Milky Way, Keetmanshoop, Namibia",
+                "Copyright": "© Wim van den Heever/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251113_AloeDichotoma\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Quiver+tree&form=hpcapt&filters=HpDate:\"20251113_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251113_AloeDichotoma"
+            },
+            "Ssd": "20251113",
+            "Name": "AloeDichotoma",
+            "Market": "ROW",
+            "Hash": "2671936766",
+            "FullDateString": "13 nov., 2025"
+        }
+    },
+    {
         "startdate": "20251112",
         "fullstartdate": "202511120800",
         "enddate": "20251113",

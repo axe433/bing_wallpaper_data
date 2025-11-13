@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251113",
+        "fullstartdate": "202511130500",
+        "enddate": "20251114",
+        "url": "/th?id=OHR.TntChrisMkt_EN-CA8094529209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TntChrisMkt_EN-CA8094529209",
+        "copyright": "The 2020 Distillery Winter Village, Toronto (© Steve Russell/Toronto Star via Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Distillery+District&form=hpcapt&filters=HpDate%3a%2220251113_0500%22",
+        "title": "Shop till you drop",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251113_TntChrisMkt%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "156b9fd7ddd9b60d33627fc85139e2a1",
+        "hsh": "ee1c428fcda5be085171bb57cb80047e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Long before LED lights and Instagram shots, Christmas markets were places for neighbours to gather—steaming mugs in hand, carols in the air and crafts laid out on wooden stalls. Originating in Germany in 1434, these open-air fairs brought warmth to cold winters. Canada soon embraced that same spirit, turning snowy evenings into celebrations that felt both old-world and wonderfully local. Today, cities from Montreal to Vancouver—with stops in Quebec City, Edmonton, Banff and Toronto—keep the tradition glowing with their own festive markets.",
+                "Image": {
+                    "Url": "/th?id=OHR.TntChrisMkt_EN-CA8094529209_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TntChrisMkt_EN-CA8094529209_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Shop till you drop",
+                "Title": "The 2020 Distillery Winter Village, Toronto",
+                "Copyright": "© Steve Russell/Toronto Star via Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.650387,-79.358917/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=43.650387,-79.358917;S9;Distillery Historic District, Toronto&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=distillery%20district&ss=ypid.YN1226x777168612&mb=43.655934~-79.368732~43.644849~-79.34912&description=55%20Mill%20St%2C%20Toronto%20ON%20M5A%203C4&cardbg=%23219AB6&dt=1760081400000&tt=The%20Distillery%20Winter%20Village&tsts0=%2526ty%253D18%2526q%253Ddistillery%252520district%2526ss%253Dypid.YN1226x777168612%2526mb%253D43.655934~-79.368732~43.644849~-79.34912%2526description%253D55%252520Mill%252520St%25252C%252520Toronto%252520ON%252520M5A%2525203C4%2526cardbg%253D%252523219AB6%2526dt%253D1760081400000&tstt0=The%20Distillery%20Winter%20Village&cp=43.04909~-81.522691&lvl=6.983062&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251113_TntChrisMkt\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Distillery+District&form=hpcapt&filters=HpDate:\"20251113_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251113_TntChrisMkt"
+            },
+            "Ssd": "20251113",
+            "Name": "TntChrisMkt",
+            "Market": "EN-CA",
+            "Hash": "8094529209",
+            "FullDateString": "Nov. 13, 2025"
+        }
+    },
+    {
         "startdate": "20251112",
         "fullstartdate": "202511120500",
         "enddate": "20251113",
