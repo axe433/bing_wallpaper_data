@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251114",
+        "fullstartdate": "202511140300",
+        "enddate": "20251115",
+        "url": "/th?id=OHR.ManateeBaby_PT-BR6922634130_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ManateeBaby_PT-BR6922634130",
+        "copyright": "Peixe-boi-marinho e filhote, Crystal River, Flórida, EUA (© Gregory Sweeney/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=peixe+boi&form=hpcapt&mkt=pt-br",
+        "title": "Sossego submerso",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251114_ManateeBaby%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ab779118d8569241fe105023f8103a7a",
+        "hsh": "92e695cce03ed256dac595d6d69be428",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Um peixe-boi-marinho, registrado aqui em Crystal River, na Flórida, Estados Unidos, desliza pelas águas mornas com uma calma que parece desafiar o ritmo frenético do mundo. Durante o inverno, centenas desses gigantes — que podem passar dos 500 quilos — se reúnem nas águas cristalinas da região, buscando refúgio nas fontes termais que mantêm uma temperatura constante em torno de 22 graus.",
+                "Image": {
+                    "Url": "/th?id=OHR.ManateeBaby_PT-BR6922634130_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ManateeBaby_PT-BR6922634130_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Sossego submerso",
+                "Title": "Peixe-boi-marinho e filhote, Crystal River, Flórida, EUA",
+                "Copyright": "© Gregory Sweeney/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251114_ManateeBaby\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=peixe+boi&form=hpcapt&filters=HpDate:\"20251114_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251114_ManateeBaby"
+            },
+            "Ssd": "20251114",
+            "Name": "ManateeBaby",
+            "Market": "PT-BR",
+            "Hash": "6922634130",
+            "FullDateString": "14 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251113",
         "fullstartdate": "202511130300",
         "enddate": "20251114",
