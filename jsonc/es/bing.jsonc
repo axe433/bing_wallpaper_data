@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251115",
+        "fullstartdate": "202511152300",
+        "enddate": "20251116",
+        "url": "/th?id=OHR.FlamencoDay_ES-ES7190621326_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FlamencoDay_ES-ES7190621326",
+        "copyright": "Bailaoras de Flamenco, España (© pepitoko/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Flamenco&form=hpcapt&filters=HpDate%3a%2220251115_2300%22",
+        "title": "¡Ole, ole! ¡Alza!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251115_FlamencoDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "fac8eb2660506fc06b1b58271100b4d0",
+        "hsh": "e0355ec6c3e2bb6911683378d5fa67d7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Cada 16 de noviembre, España celebra el Día del Flamenco, en recuerdo de su reconocimiento por la UNESCO como Patrimonio Cultural Inmaterial de la Humanidad. Nacido en Andalucía, este arte es una de las expresiones más profundas y auténticas de la cultura española, y hoy es admirado en los cinco continentes como símbolo internacional de España.",
+                "Image": {
+                    "Url": "/th?id=OHR.FlamencoDay_ES-ES7190621326_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FlamencoDay_ES-ES7190621326_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "¡Ole, ole! ¡Alza!",
+                "Title": "Bailaoras de Flamenco, España",
+                "Copyright": "© pepitoko/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251116_FlamencoDay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Flamenco&form=hpcapt&filters=HpDate:\"20251115_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251116_FlamencoDay"
+            },
+            "Ssd": "20251116",
+            "Name": "FlamencoDay",
+            "Market": "ES-ES",
+            "Hash": "7190621326",
+            "FullDateString": "16 de nov. de 2025"
+        }
+    },
+    {
         "startdate": "20251114",
         "fullstartdate": "202511142300",
         "enddate": "20251115",

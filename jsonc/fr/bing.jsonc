@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251115",
+        "fullstartdate": "202511152300",
+        "enddate": "20251116",
+        "url": "/th?id=OHR.LyonTraboules_FR-FR4995518705_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LyonTraboules_FR-FR4995518705",
+        "copyright": "Traboules du Vieux Lyon, Auvergne-Rhône-Alpes (© TPopova/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Traboules+Lyon&form=hpcapt&filters=HpDate%3a%2220251115_2300%22",
+        "title": "Lyon, mode traboule activé !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251115_LyonTraboules%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f5e605692bbccf77d7286fd190282f49",
+        "hsh": "1368e18d5005317d187bc7710fd3d432",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dans les ruelles pavées du quartier du Vieux Lyon et de la Croix-Rousse, on ne se contente pas de marcher, on voyage dans le temps. Derrière une porte en bois, un mur fendu ou une arche discrète, se cachent les traboules, ces passages secrets qui serpentent entre cours intérieures et façades Renaissance. Sous leurs voûtes de pierre, le murmure du passé accompagne chacun de nos pas.",
+                "Image": {
+                    "Url": "/th?id=OHR.LyonTraboules_FR-FR4995518705_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LyonTraboules_FR-FR4995518705_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Lyon, mode traboule activé !",
+                "Title": "Traboules du Vieux Lyon, Auvergne-Rhône-Alpes",
+                "Copyright": "© TPopova/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.75889,4.841389/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=45.75889,4.841389;S9;Lyon, Auvergne-Rhône-Alpes, France&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Lyon%20France&satid=id.sid%3Af152adba-40b2-9268-e39b-1c4e4e7e4666&vdpid=7014249592032067585&mb=46.085548~3.903153~45.392784~5.764486&cardbg=%23F98745&tt=Lyon%2C%20Auvergne-Rh%C3%B4ne-Alpes%2C%20France&tsts0=%2526ty%253D30%2526q%253DLyon%252520France%2526satid%253Did.sid%25253Af152adba-40b2-9268-e39b-1c4e4e7e4666%2526vdpid%253D7014249592032067585%2526mb%253D46.085548~3.903153~45.392784~5.764486%2526cardbg%253D%252523F98745&tstt0=Lyon%2C%20Auvergne-Rh%C3%B4ne-Alpes%2C%20France&cp=44.455146~0.14492&lvl=5.126511&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251116_LyonTraboules\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Traboules+Lyon&form=hpcapt&filters=HpDate:\"20251115_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251116_LyonTraboules"
+            },
+            "Ssd": "20251116",
+            "Name": "LyonTraboules",
+            "Market": "FR-FR",
+            "Hash": "4995518705",
+            "FullDateString": "16 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251114",
         "fullstartdate": "202511142300",
         "enddate": "20251115",

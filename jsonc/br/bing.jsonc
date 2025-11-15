@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251115",
+        "fullstartdate": "202511150300",
+        "enddate": "20251116",
+        "url": "/th?id=OHR.ProcRep_PT-BR2106067461_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ProcRep_PT-BR2106067461",
+        "copyright": "Museu Nacional da República projetado por Oscar Niemeyer, Brasília (© Cavan Images/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Proclama%C3%A7%C3%A3o+da+Rep%C3%BAblica&form=hpcapt&mkt=pt-br",
+        "title": "Horizonte coletivo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251115_ProcRep%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "342ac0f09002ec8902ad9b1b0326db10",
+        "hsh": "9cc6069f42bb1a2eceb0fc08d63fe74a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Em 15 de novembro de 1889, o Brasil acordou República. Nas primeiras horas da manhã, tropas lideradas pelo Marechal Deodoro da Fonseca depuseram Dom Pedro II, encerrando o Império sem resistência armada. No ano seguinte, o novo regime transformou a data em feriado nacional. A promessa era simples: um governo do povo, pelo povo. O caminho, nem tanto.",
+                "Image": {
+                    "Url": "/th?id=OHR.ProcRep_PT-BR2106067461_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ProcRep_PT-BR2106067461_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Horizonte coletivo",
+                "Title": "Museu Nacional da República projetado por Oscar Niemeyer, Brasília",
+                "Copyright": "© Cavan Images/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251115_ProcRep\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Proclama%c3%a7%c3%a3o+da+Rep%c3%bablica&form=hpcapt&filters=HpDate:\"20251115_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251115_ProcRep"
+            },
+            "Ssd": "20251115",
+            "Name": "ProcRep",
+            "Market": "PT-BR",
+            "Hash": "2106067461",
+            "FullDateString": "15 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251114",
         "fullstartdate": "202511140300",
         "enddate": "20251115",
