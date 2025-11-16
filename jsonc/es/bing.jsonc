@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251116",
+        "fullstartdate": "202511162300",
+        "enddate": "20251117",
+        "url": "/th?id=OHR.ShenandoahTrail_ES-ES5113798571_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ShenandoahTrail_ES-ES5113798571",
+        "copyright": "Colores otoñales en el Parque Nacional Shenandoah, Virginia, EE. UU. (© Michael Ver Sprill/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+Shenandoah&form=hpcapt&filters=HpDate%3a%2220251116_2300%22",
+        "title": "Senderos otoñales",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251116_ShenandoahTrail%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6175326c41461959d76aad0db1b2f1cd",
+        "hsh": "596641849fe16d9f3ac486df14227497",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El Parque Nacional Shenandoah, en Virginia (Estados Unidos), es una joya natural que enamora a quien lo visita. Las montañas Blue Ridge se visten con los colores del otoño: nogales dorados, arces rojos y robles con tonos de bronce. En noviembre, el aire fresco llena el valle y las últimas hojas parecen aferrarse a las laderas como si guardaran un secreto.",
+                "Image": {
+                    "Url": "/th?id=OHR.ShenandoahTrail_ES-ES5113798571_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ShenandoahTrail_ES-ES5113798571_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Senderos otoñales",
+                "Title": "Colores otoñales en el Parque Nacional Shenandoah, Virginia, EE. UU.",
+                "Copyright": "© Michael Ver Sprill/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251117_ShenandoahTrail\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parque+Nacional+Shenandoah&form=hpcapt&filters=HpDate:\"20251116_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251117_ShenandoahTrail"
+            },
+            "Ssd": "20251117",
+            "Name": "ShenandoahTrail",
+            "Market": "ES-ES",
+            "Hash": "5113798571",
+            "FullDateString": "17 de nov. de 2025"
+        }
+    },
+    {
         "startdate": "20251115",
         "fullstartdate": "202511152300",
         "enddate": "20251116",

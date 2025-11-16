@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251116",
+        "fullstartdate": "202511162300",
+        "enddate": "20251117",
+        "url": "/th?id=OHR.AlpesAutumn_FR-FR0334744208_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlpesAutumn_FR-FR0334744208",
+        "copyright": "Forêt de mélèzes dorés, Alpes (© Jose Manuel Perez/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=m%C3%A9l%C3%A8ze&form=hpcapt&filters=HpDate%3a%2220251116_2300%22",
+        "title": "Un dernier élan de couleur avant l’hiver",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251116_AlpesAutumn%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "de0db3c2f3194c660cf1547daabd8194",
+        "hsh": "a2407608f3a804c0a718bff62df10107",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "À l'automne, les montagnes se métamorphosent en cathédrales de lumière. Dans les Alpes du Sud, notamment dans la vallée de la Clarée, le Queyras ou sur le plateau d’Emparis, le mélèze offre un spectacle rare : en été, ses aiguilles sont d’un vert tendre, puis elles virent au jaune éclatant avant de tomber, laissant les branches nues face à l’hiver. Contrairement aux autres conifères, cet arbre se dénude chaque année, comme pour renaître plus fort au printemps. Cette singularité en fait le maître des paysages alpins, où ses ramures dorées embrasent les vallées.",
+                "Image": {
+                    "Url": "/th?id=OHR.AlpesAutumn_FR-FR0334744208_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AlpesAutumn_FR-FR0334744208_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un dernier élan de couleur avant l'hiver",
+                "Title": "Forêt de mélèzes dorés, Alpes",
+                "Copyright": "© Jose Manuel Perez/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Les aiguilles de mélèze servent à produire la térébenthine de Venise, utilisée en médecine douce et dans la fabrication des vernis fins.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251117_AlpesAutumn\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=m%c3%a9l%c3%a8ze&form=hpcapt&filters=HpDate:\"20251116_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251117_AlpesAutumn"
+            },
+            "Ssd": "20251117",
+            "Name": "AlpesAutumn",
+            "Market": "FR-FR",
+            "Hash": "0334744208",
+            "FullDateString": "17 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251115",
         "fullstartdate": "202511152300",
         "enddate": "20251116",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251116",
+        "fullstartdate": "202511160300",
+        "enddate": "20251117",
+        "url": "/th?id=OHR.LyonTraboules_PT-BR0512740637_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LyonTraboules_PT-BR0512740637",
+        "copyright": "Passagens secretas em Lyon, França (© TPopova/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lyon+Fran%C3%A7a&form=hpcapt&mkt=pt-br",
+        "title": "Passagens com história",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251116_LyonTraboules%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f5e605692bbccf77d7286fd190282f49",
+        "hsh": "4b880257daa5404d6a8d6401a4b3a2cc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Lyon, na França, não é uma cidade para caminhar — mas para se perder. As “traboules”, redes de passagens escondidas que atravessam pátios e edifícios, como a que vemos na imagem de hoje, transformam qualquer passeio em uma caça ao tesouro. Criadas no século IV, tornaram-se essenciais no Renascimento, quando comerciantes de seda usavam seus corredores cobertos para transportar tecidos dos ateliês ao rio, protegidos do mau tempo. Durante a Segunda Guerra Mundial, os combatentes as utilizaram como rotas de fuga.",
+                "Image": {
+                    "Url": "/th?id=OHR.LyonTraboules_PT-BR0512740637_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LyonTraboules_PT-BR0512740637_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Passagens com história",
+                "Title": "Passagens secretas em Lyon, França",
+                "Copyright": "© TPopova/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251116_LyonTraboules\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lyon+Fran%c3%a7a&form=hpcapt&filters=HpDate:\"20251116_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251116_LyonTraboules"
+            },
+            "Ssd": "20251116",
+            "Name": "LyonTraboules",
+            "Market": "PT-BR",
+            "Hash": "0512740637",
+            "FullDateString": "16 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251115",
         "fullstartdate": "202511150300",
         "enddate": "20251116",

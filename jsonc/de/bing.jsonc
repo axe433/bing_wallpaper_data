@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251116",
+        "fullstartdate": "202511162300",
+        "enddate": "20251117",
+        "url": "/th?id=OHR.GermanyOwl_DE-DE5134865756_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GermanyOwl_DE-DE5134865756",
+        "copyright": "Europäischer Uhu auf einem herbstlichen Baumstamm, Deutschland (© Ondrej Prosicky/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Uhus+Eulen&form=hpcapt&filters=HpDate%3a%2220251116_2300%22",
+        "title": "Majestätische Jäger der Nacht",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251116_GermanyOwl%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8081cadffdc9b3b4da533292d89819dd",
+        "hsh": "c8b8533cd9103f860055000cc70c032c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Die Tage sind bereits deutlich kürzer geworden, die Luft ist frisch, und das bunte Laub taucht die Landschaft in warmes Licht. Für viele Wildtiere beginnt jetzt eine besondere Zeit – so auch für den Uhu. Mit bis zu 70 Zentimetern Körpergröße und einer Flügelspannweite von bis zu 1,80 Metern ist er die größte Eule Europas. Auffällig sind seine Federohren, die er je nach Stimmung hoch aufstellen oder anlegen kann. Als nachtaktiver Jäger ernährt er sich überwiegend von Mäusen, Ratten, Vögeln, Kaninchen und gelegentlich auch von Fischen. Lange Zeit war der Uhu in Deutschland jedoch fast verschwunden. Er wurde verfolgt und seine Nester geplündert – im Mittelalter galt er sogar als schlechtes Omen für Hunger und Tod. Heute ist er dank intensiver Schutzmaßnahmen wieder in vielen Regionen heimisch. Besonders in felsigen Mittelgebirgen wie der Eifel oder im Harz lässt er sich mit etwas Glück beobachten.",
+                "Image": {
+                    "Url": "/th?id=OHR.GermanyOwl_DE-DE5134865756_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GermanyOwl_DE-DE5134865756_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Majestätische Jäger der Nacht",
+                "Title": "Europäischer Uhu auf einem herbstlichen Baumstamm, Deutschland",
+                "Copyright": "© Ondrej Prosicky/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Uhus können ihren Kopf um bis zu 270 Grad drehen – das hilft ihnen, ihre Umgebung trotz unbeweglicher Augen genau im Blick zu behalten.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251117_GermanyOwl\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Uhus+Eulen&form=hpcapt&filters=HpDate:\"20251116_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251117_GermanyOwl"
+            },
+            "Ssd": "20251117",
+            "Name": "GermanyOwl",
+            "Market": "DE-DE",
+            "Hash": "5134865756",
+            "FullDateString": "17. Nov.. 2025"
+        }
+    },
+    {
         "startdate": "20251115",
         "fullstartdate": "202511152300",
         "enddate": "20251116",
