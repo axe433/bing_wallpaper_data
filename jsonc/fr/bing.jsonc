@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251117",
+        "fullstartdate": "202511172300",
+        "enddate": "20251118",
+        "url": "/th?id=OHR.AutumnMerganser_FR-FR0461657893_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AutumnMerganser_FR-FR0461657893",
+        "copyright": "Harle couronné mâle, Oregon, États-Unis (© Eric Vogt/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Harle+couronn%C3%A9&form=hpcapt&filters=HpDate%3a%2220251117_2300%22",
+        "title": "« Huppe », « Huppe », « Huppe » ! Qui va là !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251117_AutumnMerganser%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "788f6cfcde5f9adbfe6ac4d29cf6c03e",
+        "hsh": "4650fa8e3013d571dfa64d3d24ccc2a4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dans les reflets dorés des rivières de l’Oregon, aux États-Unis, le harle couronné apparaît comme un bijou vivant. Le mâle arbore une huppe blanche et circulaire qu’il redresse en éventail, tandis que la femelle, brune et fine, l’accompagne d’un vol léger. Ces canards plongeurs, parmi les plus petits de leur famille, chassent sous l’eau, bondissant comme des éclats d’ombre dans la lumière du matin.",
+                "Image": {
+                    "Url": "/th?id=OHR.AutumnMerganser_FR-FR0461657893_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AutumnMerganser_FR-FR0461657893_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "« Huppe », « Huppe », « Huppe » ! Qui va là !",
+                "Title": "Harle couronné mâle, Oregon, États-Unis",
+                "Copyright": "© Eric Vogt/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Les harles couronnés nichent souvent dans des cavités d’arbres, parfois dans d’anciens trous de pics.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251118_AutumnMerganser\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Harle+couronn%c3%a9&form=hpcapt&filters=HpDate:\"20251117_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251118_AutumnMerganser"
+            },
+            "Ssd": "20251118",
+            "Name": "AutumnMerganser",
+            "Market": "FR-FR",
+            "Hash": "0461657893",
+            "FullDateString": "18 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251116",
         "fullstartdate": "202511162300",
         "enddate": "20251117",

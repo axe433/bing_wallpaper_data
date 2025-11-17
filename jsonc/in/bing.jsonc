@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251117",
+        "fullstartdate": "202511171830",
+        "enddate": "20251118",
+        "url": "/th?id=OHR.AutumnMerganser_EN-IN3826172336_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AutumnMerganser_EN-IN3826172336",
+        "copyright": "Male hooded merganser, Oregon, United States (© Eric Vogt/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Hooded+merganser&form=hpcapt&filters=HpDate%3a%2220251117_1830%22",
+        "title": "Autumn's feathered headliner",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251117_AutumnMerganser%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "788f6cfcde5f9adbfe6ac4d29cf6c03e",
+        "hsh": "6bc01c56622e854190139998b1af26c3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Each autumn, the quiet waterways of Oregon, United States, become seasonal waypoints for hooded mergansers—small diving ducks native to North America. They are agile divers, plunging beneath the surface to catch fish and other prey. Males, known as drakes, stand out with their fan-shaped white crests, dark heads and chestnut-brown sides, while females, called hens, are brownish grey with smaller crests. Oregon's lakes and wetlands provide sheltered feeding grounds as these birds migrate or winter across the continent.",
+                "Image": {
+                    "Url": "/th?id=OHR.AutumnMerganser_EN-IN3826172336_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AutumnMerganser_EN-IN3826172336_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Autumn's feathered headliner",
+                "Title": "Male hooded merganser, Oregon, United States",
+                "Copyright": "© Eric Vogt/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Hooded mergansers often choose tree cavities for nesting, sometimes moving into old woodpecker holes.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251118_AutumnMerganser\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hooded+merganser&form=hpcapt&filters=HpDate:\"20251117_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251118_AutumnMerganser"
+            },
+            "Ssd": "20251118",
+            "Name": "AutumnMerganser",
+            "Market": "EN-IN",
+            "Hash": "3826172336",
+            "FullDateString": "18 Nov, 2025"
+        }
+    },
+    {
         "startdate": "20251116",
         "fullstartdate": "202511161830",
         "enddate": "20251117",

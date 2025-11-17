@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251117",
+        "fullstartdate": "202511172300",
+        "enddate": "20251118",
+        "url": "/th?id=OHR.AutumnMerganser_DE-DE5996938724_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AutumnMerganser_DE-DE5996938724",
+        "copyright": "Männlicher Kappensäger, Oregon, USA (© Eric Vogt/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Kappens%C3%A4ger&form=hpcapt&filters=HpDate%3a%2220251117_2300%22",
+        "title": "Herbststar mit Haube",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251117_AutumnMerganser%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "788f6cfcde5f9adbfe6ac4d29cf6c03e",
+        "hsh": "ee5970fc4fac3d06ab22da522a014662",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Der Kappensäger ist eine Tauchente aus Nordamerika, bekannt für ihren auffälligen, fächerförmigen Schopf, den das Männchen während der Balz präsentiert. Sie bewohnt Seen, Flüsse und bewaldete Feuchtgebiete und zeichnet sich durch ihre Wendigkeit unter Wasser sowie ihre Vorliebe für Baumhöhlen als Nistplätze aus. Heute bewundern wir einen männlichen Kappensäger in Oregon, USA – mit seinem kontrastreichen Gefieder in Weiß, Schwarz und Kastanienbraun sowie der charakteristischen „Kapuze“, die ihm seinen Namen verleiht. Sein neugieriges Verhalten und sein elegantes Erscheinungsbild machen ihn zu einem Favoriten unter Vogelbeobachtern in Nordamerika.",
+                "Image": {
+                    "Url": "/th?id=OHR.AutumnMerganser_DE-DE5996938724_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AutumnMerganser_DE-DE5996938724_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Herbststar mit Haube",
+                "Title": "Männlicher Kappensäger, Oregon, USA",
+                "Copyright": "© Eric Vogt/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Kappensäger wählen oft Baumhöhlen als Nistplätze und ziehen manchmal in alte Spechthöhlen ein.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251118_AutumnMerganser\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Kappens%c3%a4ger&form=hpcapt&filters=HpDate:\"20251117_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251118_AutumnMerganser"
+            },
+            "Ssd": "20251118",
+            "Name": "AutumnMerganser",
+            "Market": "DE-DE",
+            "Hash": "5996938724",
+            "FullDateString": "18. Nov.. 2025"
+        }
+    },
+    {
         "startdate": "20251116",
         "fullstartdate": "202511162300",
         "enddate": "20251117",

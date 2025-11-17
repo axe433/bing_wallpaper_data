@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251117",
+        "fullstartdate": "202511172300",
+        "enddate": "20251118",
+        "url": "/th?id=OHR.AutumnMerganser_IT-IT0039919280_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AutumnMerganser_IT-IT0039919280",
+        "copyright": "Lophodytes cucullatus, Oregon, USA (© Eric Vogt/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Lophodytes+cucullatus+smergo+dal+ciuffo&form=hpcapt",
+        "title": "Sulla cresta dell'onda?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251117_AutumnMerganser%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "788f6cfcde5f9adbfe6ac4d29cf6c03e",
+        "hsh": "ba56de67d6da932cf03164005d451a99",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ogni autunno, le acque silenziose dell’Oregon si trasformano in sentieri liquidi per i smerghi dal cappuccio, piccoli acrobati del profondo, nativi del Nord America. Con un tuffo deciso, inseguono pesci e creature acquatiche con la grazia di chi conosce il segreto del fondale. I maschi, detti “drakes”, portano sul capo una cresta bianca a ventaglio che si apre come un sipario, incorniciando teste scure e fianchi color castagna. Le femmine, più discrete, indossano toni grigio-brunastri e creste più modeste. I laghi e le paludi dell’Oregon offrono loro rifugio e nutrimento, mentre migrano o svernano lungo il continente, seguendo rotte invisibili tracciate dal vento e dall’istinto.",
+                "Image": {
+                    "Url": "/th?id=OHR.AutumnMerganser_IT-IT0039919280_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AutumnMerganser_IT-IT0039919280_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Sulla cresta dell'onda?",
+                "Title": "Lophodytes cucullatus, Oregon, USA",
+                "Copyright": "© Eric Vogt/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Gli smerghi dal ciuffo spesso scelgono le cavità degli alberi per nidificare, talvolta trasferendosi nei vecchi fori dei picchi.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251118_AutumnMerganser\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lophodytes+cucullatus+smergo+dal+ciuffo&form=hpcapt&filters=HpDate:\"20251117_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251118_AutumnMerganser"
+            },
+            "Ssd": "20251118",
+            "Name": "AutumnMerganser",
+            "Market": "IT-IT",
+            "Hash": "0039919280",
+            "FullDateString": "18 novembre 2025"
+        }
+    },
+    {
         "startdate": "20251116",
         "fullstartdate": "202511162300",
         "enddate": "20251117",

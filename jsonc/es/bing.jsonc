@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251117",
+        "fullstartdate": "202511172300",
+        "enddate": "20251118",
+        "url": "/th?id=OHR.AutumnMerganser_ES-ES5196368512_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AutumnMerganser_ES-ES5196368512",
+        "copyright": "La serreta capuchona, Oregón, EE. UU. (© Eric Vogt/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=La+serreta+capuchona&form=hpcapt&filters=HpDate%3a%2220251117_2300%22",
+        "title": "El techo emplumado del otoño",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251117_AutumnMerganser%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "788f6cfcde5f9adbfe6ac4d29cf6c03e",
+        "hsh": "e8cd0e38ae20ac274cf50ba2bd92fb8c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Cada otoño, las tranquilas vías fluviales de Oregón se llenan de vida con la presencia de la serreta capuchona, un pequeño pato buceador nativo de América del Norte. Ágil bajo el agua, se sumerge para atrapar peces y otros alimentos. Los machos destacan por sus crestas blancas en forma de abanico, cabezas oscuras y lados castaños, mientras que las hembras presentan un plumaje gris parduzco y crestas más discretas.",
+                "Image": {
+                    "Url": "/th?id=OHR.AutumnMerganser_ES-ES5196368512_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AutumnMerganser_ES-ES5196368512_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "El techo emplumado del otoño",
+                "Title": "La serreta capuchona, Oregón, EE. UU.",
+                "Copyright": "© Eric Vogt/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251118_AutumnMerganser\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=La+serreta+capuchona&form=hpcapt&filters=HpDate:\"20251117_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251118_AutumnMerganser"
+            },
+            "Ssd": "20251118",
+            "Name": "AutumnMerganser",
+            "Market": "ES-ES",
+            "Hash": "5196368512",
+            "FullDateString": "18 de nov. de 2025"
+        }
+    },
+    {
         "startdate": "20251116",
         "fullstartdate": "202511162300",
         "enddate": "20251117",

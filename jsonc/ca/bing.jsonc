@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251117",
+        "fullstartdate": "202511170500",
+        "enddate": "20251118",
+        "url": "/th?id=OHR.RedFoxVulpes_EN-CA4196112827_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RedFoxVulpes_EN-CA4196112827",
+        "copyright": "Red fox, Canada (© RT-Images/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Red+Fox&form=hpcapt&filters=HpDate%3a%2220251117_0500%22",
+        "title": "Fox in focus",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251117_RedFoxVulpes%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0c8f661420ff8117e1a47d561b9e7318",
+        "hsh": "c765a0ec964ef02171e0360c5e819852",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Some animals rely on strength, others on speed. Foxes? They rely on brains. And the red fox, seen in today's image, has mastered the art. Found across nearly every type of landscape on Earth, foxes have adapted over time to deserts, forests and suburbs alike. The red fox's story began in Eurasia about 400,000 years ago, and around 130,000 years ago, these creatures crossed into North America and found a permanent home.",
+                "Image": {
+                    "Url": "/th?id=OHR.RedFoxVulpes_EN-CA4196112827_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RedFoxVulpes_EN-CA4196112827_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Fox in focus",
+                "Title": "Red fox, Canada",
+                "Copyright": "© RT-Images/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Red foxes are the largest of the 12 foxes in the Vulpes genus.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251117_RedFoxVulpes\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Red+Fox&form=hpcapt&filters=HpDate:\"20251117_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251117_RedFoxVulpes"
+            },
+            "Ssd": "20251117",
+            "Name": "RedFoxVulpes",
+            "Market": "EN-CA",
+            "Hash": "4196112827",
+            "FullDateString": "Nov. 17, 2025"
+        }
+    },
+    {
         "startdate": "20251116",
         "fullstartdate": "202511160500",
         "enddate": "20251117",
