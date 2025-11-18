@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251118",
+        "fullstartdate": "202511182300",
+        "enddate": "20251119",
+        "url": "/th?id=OHR.BudapestParliament_DE-DE4449281060_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BudapestParliament_DE-DE4449281060",
+        "copyright": "Ungarisches Parlamentsgebäude, Budapest, Ungarn (© Alexander Spatari/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ungarisches+Parlamentsgeb%C3%A4ude&form=hpcapt&filters=HpDate%3a%2220251118_2300%22",
+        "title": "Stein, Symbol und die Geschichte einer Nation",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251118_BudapestParliament%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "949cb09d9e8bc81309c8105a0202454e",
+        "hsh": "f30b94000b2a8c878a2e3e88ed0c34dd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Manche Bauwerke sprechen nicht, sie erzählen: Das ungarische Parlamentsgebäude, entworfen vom Architekten Imre Steindl im späten 19. Jahrhundert, vereint neugotische Eleganz mit typisch ungarischen Motiven. Mehr als 1.000 Handwerker arbeiteten über zwei Jahrzehnte hinweg an seiner Vollendung – ein Symbol für handwerkliche Meisterschaft und kulturelle Identität. Die zentrale Kuppel erhebt sich 96 Meter hoch und verweist damit auf das Jahr 1896, in dem Ungarn sein tausendjähriges Bestehen feierte. Seit seiner Fertigstellung im Jahr 1904 prägt das Gebäude die Skyline von Budapest und zählt heute zum UNESCO-Weltkulturerbe. Im Inneren beeindrucken vergoldete Treppenaufgänge, kunstvolle Glasfenster sowie Statuen historischer Persönlichkeiten, die die Geschichte lebendig werden lassen.",
+                "Image": {
+                    "Url": "/th?id=OHR.BudapestParliament_DE-DE4449281060_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BudapestParliament_DE-DE4449281060_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Stein, Symbol und die Geschichte einer Nation",
+                "Title": "Ungarisches Parlamentsgebäude, Budapest, Ungarn",
+                "Copyright": "© Alexander Spatari/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.507156,19.045685/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=47.507156,19.045685;S9;Ungarisches Parlamentsgebäude, Budapest, Ungarn&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Hungarian%20Parliament%20Building%2C%20Kossuth%20Lajos%20t%C3%A9r%201%2C%20Budapest%2C%20Hungary&ss=ypid.YN8081x10484065245246433483&mb=47.513259~19.030509~47.501054~19.06085&description=Budapest%20Kossuth%20Lajos%20t%C3%A9r%201%201055&cardbg=%2388979C&dt=1759314600000&tt=Hungarian%20Parliament%20Building&tsts0=%2526ty%253D18%2526q%253DHungarian%252520Parliament%252520Building%25252C%252520Kossuth%252520Lajos%252520t%2525C3%2525A9r%2525201%25252C%252520Budapest%25252C%252520Hungary%2526ss%253Dypid.YN8081x10484065245246433483%2526mb%253D47.513259~19.030509~47.501054~19.06085%2526description%253DBudapest%252520Kossuth%252520Lajos%252520t%2525C3%2525A9r%2525201%2525201055%2526cardbg%253D%25252388979C%2526dt%253D1759314600000&tstt0=Hungarian%20Parliament%20Building&cp=47.229525~12.600681&lvl=6.975103&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251119_BudapestParliament\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ungarisches+Parlamentsgeb%c3%a4ude&form=hpcapt&filters=HpDate:\"20251118_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251119_BudapestParliament"
+            },
+            "Ssd": "20251119",
+            "Name": "BudapestParliament",
+            "Market": "DE-DE",
+            "Hash": "4449281060",
+            "FullDateString": "19. Nov.. 2025"
+        }
+    },
+    {
         "startdate": "20251117",
         "fullstartdate": "202511172300",
         "enddate": "20251118",

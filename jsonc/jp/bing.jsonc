@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251118",
+        "fullstartdate": "202511181500",
+        "enddate": "20251119",
+        "url": "/th?id=OHR.BudapestParliament_JA-JP4965401234_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BudapestParliament_JA-JP4965401234",
+        "copyright": "国会議事堂, ハンガリー (© Alexander Spatari/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC%E3%81%AE%E5%9B%BD%E4%BC%9A%E8%AD%B0%E4%BA%8B%E5%A0%82&form=hpcapt&filters=HpDate%3a%2220251118_1500%22",
+        "title": "ライトアップされたブダペストの心臓",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251118_BudapestParliament%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "949cb09d9e8bc81309c8105a0202454e",
+        "hsh": "a79c82a46d0281fc3f1289b4bb0d6397",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日の画像はハンガリーの国会議事堂。首都ブダペストのドナウ川沿いに位置する壮麗な建築物で、1885 年に着工され、1904 年に完成しました。現在も立法府として使用されており、議会が開催されていない日は内部見学ツアーが実施されています。また、夜にはライトアップも行われており、人気の観光スポットとして多くの人に親しまれています…",
+                "Image": {
+                    "Url": "/th?id=OHR.BudapestParliament_JA-JP4965401234_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BudapestParliament_JA-JP4965401234_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "ライトアップされたブダペストの心臓",
+                "Title": "国会議事堂, ハンガリー",
+                "Copyright": "© Alexander Spatari/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.507502,19.045613/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=47.507502,19.045613;S9;国会議事堂, ハンガリー&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Hungarian%20Parliament%20Building%2C%20Kossuth%20Lajos%20t%C3%A9r%201%2C%20Budapest%2C%20Hungary&ss=ypid.YN8081x10484065245246433483&mb=47.513259~19.030509~47.501054~19.06085&description=Budapest%20Kossuth%20Lajos%20t%C3%A9r%201%201055&cardbg=%2388979C&dt=1759314600000&tt=Hungarian%20Parliament%20Building&tsts0=%2526ty%253D18%2526q%253DHungarian%252520Parliament%252520Building%25252C%252520Kossuth%252520Lajos%252520t%2525C3%2525A9r%2525201%25252C%252520Budapest%25252C%252520Hungary%2526ss%253Dypid.YN8081x10484065245246433483%2526mb%253D47.513259~19.030509~47.501054~19.06085%2526description%253DBudapest%252520Kossuth%252520Lajos%252520t%2525C3%2525A9r%2525201%2525201055%2526cardbg%253D%25252388979C%2526dt%253D1759314600000&tstt0=Hungarian%20Parliament%20Building&cp=47.229525~12.600681&lvl=6.975103&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251119_BudapestParliament\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%8f%e3%83%b3%e3%82%ac%e3%83%aa%e3%83%bc%e3%81%ae%e5%9b%bd%e4%bc%9a%e8%ad%b0%e4%ba%8b%e5%a0%82&form=hpcapt&filters=HpDate:\"20251118_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251119_BudapestParliament"
+            },
+            "Ssd": "20251119",
+            "Name": "BudapestParliament",
+            "Market": "JA-JP",
+            "Hash": "4965401234",
+            "FullDateString": "2025 年 11月 月 19 日"
+        }
+    },
+    {
         "startdate": "20251117",
         "fullstartdate": "202511171500",
         "enddate": "20251118",
