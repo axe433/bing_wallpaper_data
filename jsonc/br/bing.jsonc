@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251119",
+        "fullstartdate": "202511190300",
+        "enddate": "20251120",
+        "url": "/th?id=OHR.BudapestParliament_PT-BR5218931767_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BudapestParliament_PT-BR5218931767",
+        "copyright": "Parlamento de Budapeste, Hungria (© Alexander Spatari/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parlamento+de+Budapeste&form=hpcapt&mkt=pt-br",
+        "title": "Símbolos nacionais",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251119_BudapestParliament%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "949cb09d9e8bc81309c8105a0202454e",
+        "hsh": "b2be6c58b9aeacec1a915ba2bae140d4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ao se aproximar, os detalhes começam a falar mais alto — cada pedra, torre e estátua do Parlamento de Budapeste, nossa imagem de hoje, parece contar uma parte de sua história. Construído no final do século XIX, o edifício foi projetado pelo arquiteto Imre Steindl para representar a ambição e orgulho da Hungria. Com estilo neogótico e elementos típicos húngaros, sua construção envolveu mais de mil artesãos ao longo de duas décadas. Finalizado em 1904, o prédio ainda domina o horizonte da cidade como símbolo nacional. Além de ser a sede do poder político, o Parlamento também é um importante símbolo cultural, inscrito na lista de Patrimônios Mundiais da UNESCO em 1987 por sua relevância histórica e arquitetônica.",
+                "Image": {
+                    "Url": "/th?id=OHR.BudapestParliament_PT-BR5218931767_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BudapestParliament_PT-BR5218931767_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Símbolos nacionais",
+                "Title": "Parlamento de Budapeste, Hungria",
+                "Copyright": "© Alexander Spatari/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251119_BudapestParliament\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parlamento+de+Budapeste&form=hpcapt&filters=HpDate:\"20251119_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251119_BudapestParliament"
+            },
+            "Ssd": "20251119",
+            "Name": "BudapestParliament",
+            "Market": "PT-BR",
+            "Hash": "5218931767",
+            "FullDateString": "19 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251118",
         "fullstartdate": "202511180300",
         "enddate": "20251119",

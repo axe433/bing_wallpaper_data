@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251119",
+        "fullstartdate": "202511190800",
+        "enddate": "20251120",
+        "url": "/th?id=OHR.BudapestParliament_EN-US5929195878_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BudapestParliament_EN-US5929195878",
+        "copyright": "Hungarian Parliament Building, Budapest, Hungary (© Alexander Spatari/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Hungarian+Parliament+Building&form=hpcapt&filters=HpDate%3a%2220251119_0800%22",
+        "title": "Stone, symbol, and a nation's story",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251119_BudapestParliament%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "949cb09d9e8bc81309c8105a0202454e",
+        "hsh": "2ff8d59d3de2098d6314da700dc8fa5d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Step closer, and the details begin to speak—every stone, spire, and statue seems to hold a story of its own. Conceived in the late 19th century, the Hungarian Parliament Building was designed to reflect a nation's ambition, blending Gothic Revival elegance with distinctly Hungarian motifs. Architect Imre Steindl's vision took shape over two decades through the work of more than 1,000 craftsmen. Even the central dome, rising 315 feet (96 meters) high, carries meaning: the height honors the year of Hungary's millennium anniversary in 1896. Completed in 1904, the building still dominates Budapest's skyline as a powerful national symbol.",
+                "Image": {
+                    "Url": "/th?id=OHR.BudapestParliament_EN-US5929195878_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BudapestParliament_EN-US5929195878_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Stone, symbol, and a nation's story",
+                "Title": "Hungarian Parliament Building, Budapest, Hungary",
+                "Copyright": "© Alexander Spatari/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.507156,19.045685/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=47.507156,19.045685;S9;Budapest&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Hungarian%20Parliament%20Building%2C%20Kossuth%20Lajos%20t%C3%A9r%201%2C%20Budapest%2C%20Hungary&ss=ypid.YN8081x10484065245246433483&mb=47.513259~19.030509~47.501054~19.06085&description=Budapest%20Kossuth%20Lajos%20t%C3%A9r%201%201055&cardbg=%2388979C&dt=1759314600000&tt=Hungarian%20Parliament%20Building&tsts0=%2526ty%253D18%2526q%253DHungarian%252520Parliament%252520Building%25252C%252520Kossuth%252520Lajos%252520t%2525C3%2525A9r%2525201%25252C%252520Budapest%25252C%252520Hungary%2526ss%253Dypid.YN8081x10484065245246433483%2526mb%253D47.513259~19.030509~47.501054~19.06085%2526description%253DBudapest%252520Kossuth%252520Lajos%252520t%2525C3%2525A9r%2525201%2525201055%2526cardbg%253D%25252388979C%2526dt%253D1759314600000&tstt0=Hungarian%20Parliament%20Building&cp=47.229525~12.600681&lvl=6.975103&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251119_BudapestParliament\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hungarian+Parliament+Building&form=hpcapt&filters=HpDate:\"20251119_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251119_BudapestParliament"
+            },
+            "Ssd": "20251119",
+            "Name": "BudapestParliament",
+            "Market": "EN-US",
+            "Hash": "5929195878",
+            "FullDateString": "Nov 19, 2025"
+        }
+    },
+    {
         "startdate": "20251118",
         "fullstartdate": "202511180800",
         "enddate": "20251119",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251119",
+        "fullstartdate": "202511190800",
+        "enddate": "20251120",
+        "url": "/th?id=OHR.BudapestParliament_ROW8632595503_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BudapestParliament_ROW8632595503",
+        "copyright": "Hungarian Parliament Building, Budapest, Hungary (© Alexander Spatari/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Hungarian+Parliament+building&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251119_BudapestParliament%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "949cb09d9e8bc81309c8105a0202454e",
+        "hsh": "94b4a1e41af2257fc9e9428ea7c5a42c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Step closer and the details begin to speak—every stone, spire and statue seems to hold a story of its own. Conceived in the late 19th century, the Hungarian Parliament Building was designed to reflect a nation's ambition, blending Gothic Revival elegance with distinctly Hungarian motifs. Architect Imre Steindl's vision took shape over two decades through the work of more than 1,000 craftsmen. Even the central dome, rising 96 metres high, carries meaning: the height honours the year of Hungary's millennium anniversary in 1896. Completed in 1904, the building still dominates Budapest's skyline as a powerful national symbol.",
+                "Image": {
+                    "Url": "/th?id=OHR.BudapestParliament_ROW8632595503_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BudapestParliament_ROW8632595503_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Hungarian Parliament Building, Budapest, Hungary",
+                "Copyright": "© Alexander Spatari/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251119_BudapestParliament\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hungarian+Parliament+building&form=hpcapt&filters=HpDate:\"20251119_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251119_BudapestParliament"
+            },
+            "Ssd": "20251119",
+            "Name": "BudapestParliament",
+            "Market": "ROW",
+            "Hash": "8632595503",
+            "FullDateString": "19 Kas, 2025"
+        }
+    },
+    {
         "startdate": "20251118",
         "fullstartdate": "202511180800",
         "enddate": "20251119",

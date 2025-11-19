@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251119",
+        "fullstartdate": "202511191500",
+        "enddate": "20251120",
+        "url": "/th?id=OHR.SaypeGeneva_JA-JP5293768953_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SaypeGeneva_JA-JP5293768953",
+        "copyright": "Saype によるランドアート「World in progress」, スイス (© Valentin Flauraud/EPA-EFE/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E5%AD%90%E3%81%A9%E3%82%82%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220251119_1500%22",
+        "title": "今日は「世界子どもの日」",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251119_SaypeGeneva%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "2c37428291f03f78e69986467c628724",
+        "hsh": "fba3d11746b0c325ddac8cb9e19f761f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 11 月 20 日は「世界子どもの日」。世界の子どもたちの相互理解と福祉の向上を目的として、1954 年に国連によって制定されました。｢児童の権利に関する宣言｣及び｢子どもの権利条約｣が、それぞれ 1959 年と 1989 年の 11 月 20 日に発効されたことに由来しています…",
+                "Image": {
+                    "Url": "/th?id=OHR.SaypeGeneva_JA-JP5293768953_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SaypeGeneva_JA-JP5293768953_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "今日は「世界子どもの日」",
+                "Title": "Saype によるランドアート「World in progress」, スイス",
+                "Copyright": "© Valentin Flauraud/EPA-EFE/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.224713,6.139714/12?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=46.224713,6.139714;S9;国連事務局, スイス&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=United%20Nations%20Office%20at%20Geneva%2C%20Switzerland&ss=ypid.YN9003x17244043997592348195&mb=46.230515~6.124599~46.218015~6.15494&description=Palais%20Des%20Nations%20%C2%B7%201202%20Genf%C2%B7Beh%C3%B6rdendienstleistungen&cardbg=%2388979C&dt=1759494600000&tt=United%20Nations%20Office%20At%20Geneva&tsts0=%2526ty%253D18%2526q%253DUnited%252520Nations%252520Office%252520at%252520Geneva%25252C%252520Switzerland%2526ss%253Dypid.YN9003x17244043997592348195%2526mb%253D46.230515~6.124599~46.218015~6.15494%2526description%253DPalais%252520Des%252520Nations%252520%2525C2%2525B7%2525201202%252520Genf%2525C2%2525B7Beh%2525C3%2525B6rdendienstleistungen%2526cardbg%253D%25252388979C%2526dt%253D1759494600000&tstt0=United%20Nations%20Office%20At%20Geneva&cp=46.216067~6.065545&lvl=12.165174&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251120_SaypeGeneva\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e4%b8%96%e7%95%8c%e5%ad%90%e3%81%a9%e3%82%82%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate:\"20251119_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251120_SaypeGeneva"
+            },
+            "Ssd": "20251120",
+            "Name": "SaypeGeneva",
+            "Market": "JA-JP",
+            "Hash": "5293768953",
+            "FullDateString": "2025 年 11月 月 20 日"
+        }
+    },
+    {
         "startdate": "20251118",
         "fullstartdate": "202511181500",
         "enddate": "20251119",

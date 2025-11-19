@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251119",
+        "fullstartdate": "202511192300",
+        "enddate": "20251120",
+        "url": "/th?id=OHR.SaypeGeneva_DE-DE4230006358_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SaypeGeneva_DE-DE4230006358",
+        "copyright": "Land-Art-Gemälde von Saype, Hauptsitz der Vereinten Nationen in Genf, Schweiz (© Valentin Flauraud/EPA-EFE/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+der+Kinderrechte&form=hpcapt&filters=HpDate%3a%2220251119_2300%22",
+        "title": "Jedes Kind zählt!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251119_SaypeGeneva%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "2c37428291f03f78e69986467c628724",
+        "hsh": "c21ba21f198e061ccff40b54c0d0c6c8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ein Bild, das bewegt: Zwei Kinder zeichnen ihre Vision einer besseren Welt – und zwar mitten auf dem Rasen des UN-Hauptquartiers in Genf, Schweiz. Das monumentale Land-Art-Werk „World in Progress“ des schweizerisch-französischen Künstlers Saype entstand 2020 mit biologisch abbaubarer Farbe. Es steht symbolisch für den Internationalen Tag der Kinderrechte am 20. November – ein Tag, der seit 1954 weltweit die Rechte von Kindern in den Mittelpunkt rückt. Zwei historische Meilensteine prägen diesen Tag: die UN-Kinderrechtsdeklaration von 1959 und die Kinderrechtskonvention von 1989, die das Fundament für das Recht auf Bildung, Schutz, Gleichheit und das Recht, gehört zu werden, bilden.",
+                "Image": {
+                    "Url": "/th?id=OHR.SaypeGeneva_DE-DE4230006358_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SaypeGeneva_DE-DE4230006358_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Jedes Kind zählt!",
+                "Title": "Land-Art-Gemälde von Saype, Hauptsitz der Vereinten Nationen in Genf, Schweiz",
+                "Copyright": "© Valentin Flauraud/EPA-EFE/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.22427,6.139764/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=46.22427,6.139764;S9;UN-Hauptquartier in Genf, Schweiz&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=United%20Nations%20Office%20at%20Geneva%2C%20Switzerland&ss=ypid.YN9003x17244043997592348195&mb=46.230515~6.124599~46.218015~6.15494&description=Palais%20Des%20Nations%20%C2%B7%201202%20Genf%C2%B7Beh%C3%B6rdendienstleistungen&cardbg=%2388979C&dt=1759494600000&tt=United%20Nations%20Office%20At%20Geneva&tsts0=%2526ty%253D18%2526q%253DUnited%252520Nations%252520Office%252520at%252520Geneva%25252C%252520Switzerland%2526ss%253Dypid.YN9003x17244043997592348195%2526mb%253D46.230515~6.124599~46.218015~6.15494%2526description%253DPalais%252520Des%252520Nations%252520%2525C2%2525B7%2525201202%252520Genf%2525C2%2525B7Beh%2525C3%2525B6rdendienstleistungen%2526cardbg%253D%25252388979C%2526dt%253D1759494600000&tstt0=United%20Nations%20Office%20At%20Geneva&cp=46.216067~6.065545&lvl=12.165174&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251120_SaypeGeneva\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Internationaler+Tag+der+Kinderrechte&form=hpcapt&filters=HpDate:\"20251119_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251120_SaypeGeneva"
+            },
+            "Ssd": "20251120",
+            "Name": "SaypeGeneva",
+            "Market": "DE-DE",
+            "Hash": "4230006358",
+            "FullDateString": "20. Nov.. 2025"
+        }
+    },
+    {
         "startdate": "20251118",
         "fullstartdate": "202511182300",
         "enddate": "20251119",

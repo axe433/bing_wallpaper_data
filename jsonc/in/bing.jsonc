@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251119",
+        "fullstartdate": "202511191830",
+        "enddate": "20251120",
+        "url": "/th?id=OHR.ManateeBaby_EN-IN4061513303_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ManateeBaby_EN-IN4061513303",
+        "copyright": "Mother manatee and calf, Crystal River, Florida, United States (© Gregory Sweeney/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=manatee&form=hpcapt&filters=HpDate%3a%2220251119_1830%22",
+        "title": "A slow reminder for a fast world",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251119_ManateeBaby%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ab779118d8569241fe105023f8103a7a",
+        "hsh": "68a36317a9f4cddbe590ce657bf6417f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Today's image features a gentle manatee mother and calf gliding through the clear waters of Crystal River, in Florida, United States. With whiskered snouts and round bodies, manatees are calm marine mammals that spend their days grazing on seagrass, a surprisingly delicate existence for such large creatures.",
+                "Image": {
+                    "Url": "/th?id=OHR.ManateeBaby_EN-IN4061513303_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ManateeBaby_EN-IN4061513303_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A slow reminder for a fast world",
+                "Title": "Mother manatee and calf, Crystal River, Florida, United States",
+                "Copyright": "© Gregory Sweeney/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/28.90055,-82.59361/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=28.90055,-82.59361;S9;Crystal River, Florida, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=crystal%20river%20florida&satid=id.sid%3A806df007-cc2a-7eb5-885a-275af60e0442&vdpid=5498223398729285633&mb=28.925877~-82.687263~28.854931~-82.535317&cardbg=%23F98745&tt=Crystal%20River%2C%20Florida%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253Dcrystal%252520river%252520florida%2526satid%253Did.sid%25253A806df007-cc2a-7eb5-885a-275af60e0442%2526vdpid%253D5498223398729285633%2526mb%253D28.925877~-82.687263~28.854931~-82.535317%2526cardbg%253D%252523F98745&tstt0=Crystal%20River%2C%20Florida%2C%20United%20States&cp=24.99799~-97.998574&lvl=5.48411&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251120_ManateeBaby\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=manatee&form=hpcapt&filters=HpDate:\"20251119_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251120_ManateeBaby"
+            },
+            "Ssd": "20251120",
+            "Name": "ManateeBaby",
+            "Market": "EN-IN",
+            "Hash": "4061513303",
+            "FullDateString": "20 Nov, 2025"
+        }
+    },
+    {
         "startdate": "20251118",
         "fullstartdate": "202511181830",
         "enddate": "20251119",
