@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251120",
+        "fullstartdate": "202511202300",
+        "enddate": "20251121",
+        "url": "/th?id=OHR.SealWaving_ES-ES5901823197_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SealWaving_ES-ES5901823197",
+        "copyright": "Focas comunes en el Parque Estatal Robert Moses, Long Island, Nueva York, EE. UU. (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Long+Island&form=hpcapt&filters=HpDate%3a%2220251120_2300%22",
+        "title": "El día de la cortesía",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251120_SealWaving%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5a7e512f6aa6239f3c2830afe1ee997c",
+        "hsh": "028e42a09d8229bb6fb5a1a0e73baab9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Esta foca común, fotografiada en el Parque Estatal Robert Moses, en Long Island, Nueva York (Estados Unidos), parece transmitir buenas vibraciones. Y es que su gesto encaja a la perfección con el espíritu del Día Mundial del Saludo, que se celebra cada 21 de noviembre. Esta alegre iniciativa comenzó en 1973 cuando los hermanos estadounidenses Brian y Michael McCormack enviaron 1.360 cartas en siete idiomas a líderes mundiales, invitándolos a participar en la primera celebración. Su mensaje era sencillo pero poderoso: la comunicación personal puede ayudar a preservar la paz. Hoy, personas de más de 180 países se suman a esta tradición.",
+                "Image": {
+                    "Url": "/th?id=OHR.SealWaving_ES-ES5901823197_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SealWaving_ES-ES5901823197_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "El día de la cortesía",
+                "Title": "Focas comunes en el Parque Estatal Robert Moses, Long Island, Nueva York, EE. UU.",
+                "Copyright": "© Vicki Jauron, Babylon and Beyond Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251121_SealWaving\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Long+Island&form=hpcapt&filters=HpDate:\"20251120_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251121_SealWaving"
+            },
+            "Ssd": "20251121",
+            "Name": "SealWaving",
+            "Market": "ES-ES",
+            "Hash": "5901823197",
+            "FullDateString": "21 de nov. de 2025"
+        }
+    },
+    {
         "startdate": "20251119",
         "fullstartdate": "202511192300",
         "enddate": "20251120",

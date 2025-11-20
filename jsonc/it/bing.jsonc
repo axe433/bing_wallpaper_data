@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251120",
+        "fullstartdate": "202511202300",
+        "enddate": "20251121",
+        "url": "/th?id=OHR.FestaAlbero_IT-IT0339248009_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FestaAlbero_IT-IT0339248009",
+        "copyright": "Pino Loricato Fossilizzato del Pollino sulla Serra di Crispo, Calabria e Basilicata (© Renzi Tommaso tommyre00@hotmail.it/Moment)",
+        "copyrightlink": "https://www.bing.com/search?q=Giornata+nazionale+degli+alberi&form=hpcapt",
+        "title": "Natura e Dialogo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251120_FestaAlbero%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b96992951cf2842ee553a33b7ac188b8",
+        "hsh": "844c1eade0f1f2b33a766d08b862aef3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Il 21 novembre celebriamo la “Giornata Nazionale degli Alberi”, un invito a riconoscere il valore profondo di queste creature silenziose che abitano il nostro pianeta. Non sono solo ombra e ossigeno, ma memoria del tempo, rifugio di biodiversità, guardiani del suolo e alleati invisibili contro il cambiamento climatico.",
+                "Image": {
+                    "Url": "/th?id=OHR.FestaAlbero_IT-IT0339248009_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FestaAlbero_IT-IT0339248009_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Natura e Dialogo",
+                "Title": "Pino Loricato Fossilizzato del Pollino sulla Serra di Crispo, Calabria e Basilicata",
+                "Copyright": "© Renzi Tommaso tommyre00@hotmail.it/Moment",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Secondo la regola “3-30-300”, ogni persona dovrebbe vedere almeno 3 alberi da casa, vivere in quartieri con il 30% di copertura arborea e avere un parco a meno di 300 metri.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251121_FestaAlbero\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Giornata+nazionale+degli+alberi&form=hpcapt&filters=HpDate:\"20251120_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251121_FestaAlbero"
+            },
+            "Ssd": "20251121",
+            "Name": "FestaAlbero",
+            "Market": "IT-IT",
+            "Hash": "0339248009",
+            "FullDateString": "21 novembre 2025"
+        }
+    },
+    {
         "startdate": "20251119",
         "fullstartdate": "202511192300",
         "enddate": "20251120",

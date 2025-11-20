@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251120",
+        "fullstartdate": "202511201830",
+        "enddate": "20251121",
+        "url": "/th?id=OHR.KeralaEzhikara2025_EN-IN4420432928_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KeralaEzhikara2025_EN-IN4420432928",
+        "copyright": "Small island with a building near Ezhikkara, Kerala (© gulfu photography/Moment/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ezhikkara&form=hpcapt&filters=HpDate%3a%2220251120_1830%22",
+        "title": "Going with the flow",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251120_KeralaEzhikara2025%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0ec4b8faf0548fa956e31559d21cd2ee",
+        "hsh": "0c17061c603e7debf8cdb3d46eaff7c6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "In Ezhikkara, water decides how life unfolds. The village lies north of Kochi in Kerala's Ernakulam district, within the backwaters of the Periyar basin. Canals cut through low-lying land, linking its fields and neighbourhoods to wider waterways. Boats often serve where roads stop and many homes stand close to the water, their walls stained by years of monsoon rain and salt.",
+                "Image": {
+                    "Url": "/th?id=OHR.KeralaEzhikara2025_EN-IN4420432928_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KeralaEzhikara2025_EN-IN4420432928_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Going with the flow",
+                "Title": "Small island with a building near Ezhikkara, Kerala",
+                "Copyright": "© gulfu photography/Moment/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/10.099452,76.233727/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=10.099452,76.233727;S9;Ezhikkara, Kerala&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Ezhikkara%20kerala&mb=10.127894~76.181155~10.071038~76.286316&cardbg=%23F98745&dt=1761316200000&tt=Ezhikkara%2C%20Paravur%2C%20Kerala%2C%20India&tsts0=%2526ty%253D18%2526q%253DEzhikkara%252520kerala%2526mb%253D10.127894~76.181155~10.071038~76.286316%2526cardbg%253D%252523F98745%2526dt%253D1761316200000&tstt0=Ezhikkara%2C%20Paravur%2C%20Kerala%2C%20India&cp=8.202748~72.821222&lvl=5.8950677&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251121_KeralaEzhikara2025\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ezhikkara&form=hpcapt&filters=HpDate:\"20251120_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251121_KeralaEzhikara2025"
+            },
+            "Ssd": "20251121",
+            "Name": "KeralaEzhikara2025",
+            "Market": "EN-IN",
+            "Hash": "4420432928",
+            "FullDateString": "21 Nov, 2025"
+        }
+    },
+    {
         "startdate": "20251119",
         "fullstartdate": "202511191830",
         "enddate": "20251120",

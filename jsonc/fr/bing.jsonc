@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251120",
+        "fullstartdate": "202511202300",
+        "enddate": "20251121",
+        "url": "/th?id=OHR.SealWaving_FR-FR2764783394_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SealWaving_FR-FR2764783394",
+        "copyright": "Phoques gris, parc d'État Robert Moses, Long Island, New York, États-Unis (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+mondiale+du+bonjour&form=hpcapt&filters=HpDate%3a%2220251120_2300%22",
+        "title": "Le pouvoir d’un bonjour",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251120_SealWaving%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5a7e512f6aa6239f3c2830afe1ee997c",
+        "hsh": "aa03c61c86041a35f101e5455a7f532c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sur les rochers baignés par l’Atlantique, à Long Island aux États-Unis, un phoque gris lève sa nageoire comme un salut discret. Ce geste, pure stratégie pour réguler sa température, nous semble pourtant un signe universel : dire « bonjour ». Chaque 21 novembre, la Journée mondiale du bonjour nous rappelle qu’un mot simple peut apaiser les tensions, comme l’avaient imaginé deux frères américains en 1973, en envoyant 1 360 lettres aux dirigeants du monde.",
+                "Image": {
+                    "Url": "/th?id=OHR.SealWaving_FR-FR2764783394_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SealWaving_FR-FR2764783394_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Le pouvoir d'un bonjour",
+                "Title": "Phoques gris, parc d'État Robert Moses, Long Island, New York, États-Unis",
+                "Copyright": "© Vicki Jauron, Babylon and Beyond Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.001358,-74.850845/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=45.001358,-74.850845;S9;Parc d'État Robert Moses, Long Island, New York, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Robert%20Moses%20State%20Park&ss=ypid.YN30E23B1112AC18CE&mb=45.004546~-74.857922~44.998174~-74.84376&description=32%20Beach%20Marina%20Rd%2C%20Massena%2C%20NY%2013662&cardbg=%233DB838&dt=1759739400000&tt=Robert%20Moses%20State%20Park%20-%20Thousand%20Islands&tsts0=%2526ty%253D18%2526q%253DRobert%252520Moses%252520State%252520Park%2526ss%253Dypid.YN30E23B1112AC18CE%2526mb%253D45.004546~-74.857922~44.998174~-74.84376%2526description%253D32%252520Beach%252520Marina%252520Rd%25252C%252520Massena%25252C%252520NY%25252013662%2526cardbg%253D%2525233DB838%2526dt%253D1759739400000&tstt0=Robert%20Moses%20State%20Park%20-%20Thousand%20Islands&cp=44.964798~-85.693359&lvl=5&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251121_SealWaving\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Journ%c3%a9e+mondiale+du+bonjour&form=hpcapt&filters=HpDate:\"20251120_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251121_SealWaving"
+            },
+            "Ssd": "20251121",
+            "Name": "SealWaving",
+            "Market": "FR-FR",
+            "Hash": "2764783394",
+            "FullDateString": "21 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251119",
         "fullstartdate": "202511192300",
         "enddate": "20251120",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251120",
+        "fullstartdate": "202511200300",
+        "enddate": "20251121",
+        "url": "/th?id=OHR.SaypeGeneva_PT-BR1234031890_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SaypeGeneva_PT-BR1234031890",
+        "copyright": "Arte de Saype na sede da ONU, Genebra, Suíça (© Valentin Flauraud/EPA-EFE/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=land+art&form=hpcapt&mkt=pt-br",
+        "title": "Quando a terra fala",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251120_SaypeGeneva%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "2c37428291f03f78e69986467c628724",
+        "hsh": "e93f304ed9e82a2b6f5274fa7df49d5b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Na imagem, o gramado da sede da ONU, em Genebra, Suíça, se transforma em uma tela viva. Nessa criação do artista franco-suíço Saype, chamada \"Mundo em Progresso”, duas crianças desenham, lembrando que o futuro está nas mãos das próximas gerações. Suas obras de \"land art\" — que usam o próprio terreno como suporte e material, dialogando com o ambiente — ocupam o espaço de modo que a terra se torna parte da mensagem. A tinta é sempre biodegradável, feita de carvão, giz e leite, e se dissolve com chuva e vento.",
+                "Image": {
+                    "Url": "/th?id=OHR.SaypeGeneva_PT-BR1234031890_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SaypeGeneva_PT-BR1234031890_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Quando a terra fala",
+                "Title": "Arte de Saype na sede da ONU, Genebra, Suíça",
+                "Copyright": "© Valentin Flauraud/EPA-EFE/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251120_SaypeGeneva\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=land+art&form=hpcapt&filters=HpDate:\"20251120_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251120_SaypeGeneva"
+            },
+            "Ssd": "20251120",
+            "Name": "SaypeGeneva",
+            "Market": "PT-BR",
+            "Hash": "1234031890",
+            "FullDateString": "20 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251119",
         "fullstartdate": "202511190300",
         "enddate": "20251120",
