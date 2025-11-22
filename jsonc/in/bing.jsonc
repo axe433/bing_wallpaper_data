@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251122",
+        "fullstartdate": "202511221830",
+        "enddate": "20251123",
+        "url": "/th?id=OHR.MadgascarAmmonite_EN-IN4893365399_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MadgascarAmmonite_EN-IN4893365399",
+        "copyright": "Ammonite fossil from Madagascar (© ThomasLENNE/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Fibonacci+sequence&form=hpcapt&filters=HpDate%3a%2220251122_1830%22",
+        "title": "Nature's secret code",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251122_MadgascarAmmonite%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "06916cbec3aa2c7b3f8117c0d9e01dce",
+        "hsh": "796b2fd36928c4c098b723e1fa38f4d3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Look closely at this ammonite fossil. Its swirling shell, once home to a prehistoric sea creature, holds a mathematical secret—a spiral pattern. Each new chamber is proportionally larger than the previous one, maintaining a consistent growth ratio, often associated with the Fibonacci sequence.",
+                "Image": {
+                    "Url": "/th?id=OHR.MadgascarAmmonite_EN-IN4893365399_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MadgascarAmmonite_EN-IN4893365399_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Nature's secret code",
+                "Title": "Ammonite fossil from Madagascar",
+                "Copyright": "© ThomasLENNE/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Leonardo Bonacci (Fibonacci) first introduced the concept of Fibonacci numbers to Western Europe in 1202, in his book 'Liber Abaci.'",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251123_MadgascarAmmonite\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Fibonacci+sequence&form=hpcapt&filters=HpDate:\"20251122_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251123_MadgascarAmmonite"
+            },
+            "Ssd": "20251123",
+            "Name": "MadgascarAmmonite",
+            "Market": "EN-IN",
+            "Hash": "4893365399",
+            "FullDateString": "23 Nov, 2025"
+        }
+    },
+    {
         "startdate": "20251121",
         "fullstartdate": "202511211830",
         "enddate": "20251122",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251122",
+        "fullstartdate": "202511220300",
+        "enddate": "20251123",
+        "url": "/th?id=OHR.LeshanBuddha_PT-BR1954445961_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LeshanBuddha_PT-BR1954445961",
+        "copyright": "Grande Buda de Leshan, Sujuão, China (© www.anotherdayattheoffice.org/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=o+Grande+Buda+de+Leshan&form=hpcapt&mkt=pt-br",
+        "title": "O guardião das águas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251122_LeshanBuddha%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d45857502d6a8f388623f532cf5ecc8a",
+        "hsh": "c231f67635e4ea6fd1369c26106faa6d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Existem estátuas imensas espalhadas pelo mundo — e uma das mais impressionantes é a do Grande Buda de Leshan, que vemos na foto. Essa enorme escultura foi talhada há mais de 1.200 anos em um penhasco na China, onde três rios se encontram. Ela foi construída com o objetivo de proteger os barcos das fortes correntezas do rio, que colocavam em risco os navegantes da região.",
+                "Image": {
+                    "Url": "/th?id=OHR.LeshanBuddha_PT-BR1954445961_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LeshanBuddha_PT-BR1954445961_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O guardião das águas",
+                "Title": "Grande Buda de Leshan, Sujuão, China",
+                "Copyright": "© www.anotherdayattheoffice.org/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251122_LeshanBuddha\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=o+Grande+Buda+de+Leshan&form=hpcapt&filters=HpDate:\"20251122_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251122_LeshanBuddha"
+            },
+            "Ssd": "20251122",
+            "Name": "LeshanBuddha",
+            "Market": "PT-BR",
+            "Hash": "1954445961",
+            "FullDateString": "22 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251121",
         "fullstartdate": "202511210300",
         "enddate": "20251122",

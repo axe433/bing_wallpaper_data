@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251122",
+        "fullstartdate": "202511221600",
+        "enddate": "20251123",
+        "url": "/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091",
+        "copyright": "马达加斯加菊石化石 (© ThomasLENNE/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97&form=hpcapt&mkt=zh-cn",
+        "title": "大自然的秘密代码",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251122_MadgascarAmmonite%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "06916cbec3aa2c7b3f8117c0d9e01dce",
+        "hsh": "d34f4440180b71821b622b227a7183a3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "仔细观察这块菊石化石。它那优雅盘旋的螺壳，曾是史前海洋生物的家，如今却蕴藏着一个数学的秘密：螺旋结构。每一个新的壳室都比前一个按比例增大，保持着恒定的生长比，这种规律常被认为与斐波那契数列密切相关。",
+                "Image": {
+                    "Url": "/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "大自然的秘密代码",
+                "Title": "马达加斯加菊石化石",
+                "Copyright": "© ThomasLENNE/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "意大利数学家莱昂纳多·波纳奇，即人们熟知的斐波那契，于1202年在著作《算盘书》中首次将斐波那契数列的概念引入西欧。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251123_MadgascarAmmonite\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e6%96%90%e6%b3%a2%e9%82%a3%e5%a5%91%e6%95%b0%e5%88%97&form=hpcapt&filters=HpDate:\"20251122_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251123_MadgascarAmmonite"
+            },
+            "Ssd": "20251123",
+            "Name": "MadgascarAmmonite",
+            "Market": "ZH-CN",
+            "Hash": "6497276091",
+            "FullDateString": "2025 11月 23"
+        }
+    },
+    {
         "startdate": "20251121",
         "fullstartdate": "202511211600",
         "enddate": "20251122",

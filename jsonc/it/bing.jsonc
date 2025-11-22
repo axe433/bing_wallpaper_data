@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251122",
+        "fullstartdate": "202511222300",
+        "enddate": "20251123",
+        "url": "/th?id=OHR.MadgascarAmmonite_IT-IT0517415518_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MadgascarAmmonite_IT-IT0517415518",
+        "copyright": "Fossile di ammonite del Madagascar (© ThomasLENNE/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Successione+di+Fibonacci&form=hpcapt",
+        "title": "Riuscite a decifrare il codice?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251122_MadgascarAmmonite%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "06916cbec3aa2c7b3f8117c0d9e01dce",
+        "hsh": "cba63891264081821b0dd9213f919d4e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ogni 23 novembre si celebra il “Fibonacci Day”, dedicato a Leonardo Bonacci, detto Fibonacci, matematico pisano del XIII secolo. Fu lui a introdurre in Europa la celebre sequenza: 1, 1, 2, 3, 5, 8… dove ogni numero è la somma dei due precedenti. Sebbene il concetto fosse già noto in India nel III secolo a.C., è grazie a Fibonacci che oggi riconosciamo il suo ritmo nella natura: nei girasoli, nelle pigne, nei carciofi e persino nelle spirali marine.",
+                "Image": {
+                    "Url": "/th?id=OHR.MadgascarAmmonite_IT-IT0517415518_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MadgascarAmmonite_IT-IT0517415518_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Riuscite a decifrare il codice?",
+                "Title": "Fossile di ammonite del Madagascar",
+                "Copyright": "© ThomasLENNE/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Leonardo Bonacci introdusse per la prima volta il concetto dei numeri di Fibonacci nell'Europa occidentale nel 1202, nel suo libro “Liber Abaci”.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251123_MadgascarAmmonite\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Successione+di+Fibonacci&form=hpcapt&filters=HpDate:\"20251122_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251123_MadgascarAmmonite"
+            },
+            "Ssd": "20251123",
+            "Name": "MadgascarAmmonite",
+            "Market": "IT-IT",
+            "Hash": "0517415518",
+            "FullDateString": "23 novembre 2025"
+        }
+    },
+    {
         "startdate": "20251121",
         "fullstartdate": "202511212300",
         "enddate": "20251122",

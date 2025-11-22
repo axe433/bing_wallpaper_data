@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251122",
+        "fullstartdate": "202511221500",
+        "enddate": "20251123",
+        "url": "/th?id=OHR.MadgascarAmmonite_JA-JP9626898982_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MadgascarAmmonite_JA-JP9626898982",
+        "copyright": "アンモナイトの化石, マダガスカル (© ThomasLENNE/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%95%E3%82%A3%E3%83%9C%E3%83%8A%E3%83%83%E3%83%81%E6%95%B0&form=hpcapt&filters=HpDate%3a%2220251122_1500%22",
+        "title": "今日はフィボナッチ数の日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251122_MadgascarAmmonite%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "06916cbec3aa2c7b3f8117c0d9e01dce",
+        "hsh": "f64ef51dc37b1de2ff78c7108c532172",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 11 月 23 日はフィボナッチ数の日。フィボナッチ数とは、イタリアの数学者レオナルド・フィボナッチにちなんで名付けられた数列で、0、1、1、2、3…と始まることから 11 月 23 日が記念日となりました。画像のようなアンモナイトの化石を始め、黄金比やさまざまな自然の形態の比率の中で見ることができます…",
+                "Image": {
+                    "Url": "/th?id=OHR.MadgascarAmmonite_JA-JP9626898982_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MadgascarAmmonite_JA-JP9626898982_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日はフィボナッチ数の日",
+                "Title": "アンモナイトの化石, マダガスカル",
+                "Copyright": "© ThomasLENNE/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "アンモナイトは約 4 億年前から 6600 万年前まで海に生息しており、恐竜と同じく、白亜紀末の大量絶滅で姿を消しました。",
+                    "LinkUrl": "/search?q=%e3%82%a2%e3%83%b3%e3%83%a2%e3%83%8a%e3%82%a4%e3%83%88+%e7%b5%b6%e6%bb%85%e3%81%ae%e7%90%86%e7%94%b1&form=hpvsfa",
+                    "LinkText": "アンモナイトが絶滅した理由は？"
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251123_MadgascarAmmonite\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%95%e3%82%a3%e3%83%9c%e3%83%8a%e3%83%83%e3%83%81%e6%95%b0&form=hpcapt&filters=HpDate:\"20251122_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251123_MadgascarAmmonite"
+            },
+            "Ssd": "20251123",
+            "Name": "MadgascarAmmonite",
+            "Market": "JA-JP",
+            "Hash": "9626898982",
+            "FullDateString": "2025 年 11月 月 23 日"
+        }
+    },
+    {
         "startdate": "20251121",
         "fullstartdate": "202511211500",
         "enddate": "20251122",
