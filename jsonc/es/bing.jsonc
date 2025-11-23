@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251123",
+        "fullstartdate": "202511232300",
+        "enddate": "20251124",
+        "url": "/th?id=OHR.GwailorFort_ES-ES8433830967_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GwailorFort_ES-ES8433830967",
+        "copyright": "Fortaleza de Gwalior, Madhya Pradesh, India (© ImagesofIndia/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=India&form=hpcapt&filters=HpDate%3a%2220251123_2300%22",
+        "title": "Secretos tallados en piedra",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251123_GwailorFort%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e6769ede964bbba2dbe2618298260425",
+        "hsh": "0fb62382a525c68c348c40853a0ee7ff",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Gwalior, en Madhya Pradesh, no es solo una ciudad; es un capítulo vivo de la historia de la India. Dominando el horizonte, el Fuerte de Gwalior, construido en el siglo VI, creció bajo distintas dinastías y está rodeado de leyendas. Apodado \"el Gibraltar de la India\", fue elogiado por el emperador mogol Babur como la \"perla entre las fortalezas de Hind\" por su grandeza y solidez. A lo largo de los siglos, el fuerte vio gobernantes desde los Tomars hasta los mogoles y fue escenario de batallas, intrigas reales y tesoros escondidos.",
+                "Image": {
+                    "Url": "/th?id=OHR.GwailorFort_ES-ES8433830967_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GwailorFort_ES-ES8433830967_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Secretos tallados en piedra",
+                "Title": "Fortaleza de Gwalior, Madhya Pradesh, India",
+                "Copyright": "© ImagesofIndia/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251124_GwailorFort\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=India&form=hpcapt&filters=HpDate:\"20251123_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251124_GwailorFort"
+            },
+            "Ssd": "20251124",
+            "Name": "GwailorFort",
+            "Market": "ES-ES",
+            "Hash": "8433830967",
+            "FullDateString": "24 de nov. de 2025"
+        }
+    },
+    {
         "startdate": "20251122",
         "fullstartdate": "202511222300",
         "enddate": "20251123",

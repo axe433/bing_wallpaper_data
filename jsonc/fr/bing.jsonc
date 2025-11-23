@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251123",
+        "fullstartdate": "202511232300",
+        "enddate": "20251124",
+        "url": "/th?id=OHR.GwailorFort_FR-FR3152904130_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GwailorFort_FR-FR3152904130",
+        "copyright": "Fort de Gwalior, Madhya Pradesh, Inde (© ImagesofIndia/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Fort+de+Gwalior+Inde&form=hpcapt&filters=HpDate%3a%2220251123_2300%22",
+        "title": "La perle des forteresses",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251123_GwailorFort%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e6769ede964bbba2dbe2618298260425",
+        "hsh": "3c45d55718b6b7d99e17f697eb30ccfc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Surplombant la plaine indienne du Madhya Pradesh, le fort de Gwalior domine la ville comme une promesse d'éternité. Taillé dans le grès ocre, ce géant du XVIe siècle a vu défiler les rois, les batailles et les empires. Les Mughals l’appelaient la « perle des forteresses de l’Inde » et Babur, son conquérant, le comparait à un joyau posé sur une mer de collines.",
+                "Image": {
+                    "Url": "/th?id=OHR.GwailorFort_FR-FR3152904130_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GwailorFort_FR-FR3152904130_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La perle des forteresses",
+                "Title": "Fort de Gwalior, Madhya Pradesh, Inde",
+                "Copyright": "© ImagesofIndia/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/26.231039,78.169487/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=26.231039,78.169487;S9;Fort de Gwalior, Madhya Pradesh, Inde&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=gwalior%20fort&ss=ypid.YN4070x500973771&mb=26.237372~78.161759~26.224688~78.177209&description=Kila%20Gate%20Road%2C%20Gwalior%2C%20Madhya%20Pradesh%20474008&cardbg=%23219AB6&dt=1759480200000&tt=Gwalior%20Fort&tsts0=%2526ty%253D18%2526q%253Dgwalior%252520fort%2526ss%253Dypid.YN4070x500973771%2526mb%253D26.237372~78.161759~26.224688~78.177209%2526description%253DKila%252520Gate%252520Road%25252C%252520Gwalior%25252C%252520Madhya%252520Pradesh%252520474008%2526cardbg%253D%252523219AB6%2526dt%253D1759480200000&tstt0=Gwalior%20Fort&cp=18.448731~59.066013&lvl=4.3074074&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251124_GwailorFort\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Fort+de+Gwalior+Inde&form=hpcapt&filters=HpDate:\"20251123_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251124_GwailorFort"
+            },
+            "Ssd": "20251124",
+            "Name": "GwailorFort",
+            "Market": "FR-FR",
+            "Hash": "3152904130",
+            "FullDateString": "24 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251122",
         "fullstartdate": "202511222300",
         "enddate": "20251123",
