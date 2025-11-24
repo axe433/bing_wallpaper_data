@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251124",
+        "fullstartdate": "202511242300",
+        "enddate": "20251125",
+        "url": "/th?id=OHR.ErfurtChristmas_DE-DE4066993799_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ErfurtChristmas_DE-DE4066993799",
+        "copyright": "Weihnachtsmarkt Erfurt, Thüringen (© Jareck/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Erfurter+Weihnachtsmarkt&form=hpcapt&filters=HpDate%3a%2220251124_2300%22",
+        "title": "Ein Fest der Düfte",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251124_ErfurtChristmas%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e0b1201dbc083a3d19b5bf5bf45addde",
+        "hsh": "8301758a2ddb9e254bfc8de12f05d22e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "In der Adventszeit verwandeln sich Städte und Gemeinden in Deutschland in festlich beleuchtete Orte voller Düfte, Klänge und Begegnungen. Für viele Menschen gehört der Besuch eines Weihnachtsmarktes fest zur Vorweihnachtszeit. Diese Tradition reicht weit zurück: Der älteste dokumentierte Markt fand bereits 1434 in Dresden statt. Heute gibt es im ganzen Land mehrere tausend Märkte – von großen Städten bis hin zu kleinen Dörfern. Zu den ältesten und stimmungsvollsten zählt der Erfurter Weihnachtsmarkt, der auf unserem heutigen Bild zu sehen ist. Heute öffnet er wieder seine Tore und verwandelt den Domplatz in eine festliche Kulisse.",
+                "Image": {
+                    "Url": "/th?id=OHR.ErfurtChristmas_DE-DE4066993799_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ErfurtChristmas_DE-DE4066993799_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ein Fest der Düfte",
+                "Title": "Weihnachtsmarkt Erfurt, Thüringen",
+                "Copyright": "© Jareck/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.977979,11.023671/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=50.977979,11.023671;S9;Erfurter Weihnachtsmarkt&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=erfurt%20domplatz&ss=ypid.YN4070x000000000&mb=50.983~11.016~50.974~11.026&description=Domplatz%2C%20Erfurt%2C%20Germany&cardbg=%23219AB6&dt=1759480200000&tt=Erfurt%20Domplatz&tsts0=%2526ty%253D18%2526q%253Derfurt%252520domplatz%2526ss%253Dypid.YN4070x000000000%2526mb%253D50.983~11.016~50.974~11.026%2526description%253DDomplatz%25252C%252520Erfurt%25252C%252520Germany%2526cardbg%253D%252523219AB6%2526dt%253D1759480200000&tstt0=Erfurt%20Domplatz&cp=50.978571~11.021288&lvl=14.2&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251125_ErfurtChristmas\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Erfurter+Weihnachtsmarkt&form=hpcapt&filters=HpDate:\"20251124_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251125_ErfurtChristmas"
+            },
+            "Ssd": "20251125",
+            "Name": "ErfurtChristmas",
+            "Market": "DE-DE",
+            "Hash": "4066993799",
+            "FullDateString": "25. Nov.. 2025"
+        }
+    },
+    {
         "startdate": "20251123",
         "fullstartdate": "202511232300",
         "enddate": "20251124",

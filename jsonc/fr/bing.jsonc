@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251124",
+        "fullstartdate": "202511242300",
+        "enddate": "20251125",
+        "url": "/th?id=OHR.TreviFountain_FR-FR3611871379_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TreviFountain_FR-FR3611871379",
+        "copyright": "La fontaine de Trevi, Rome, Italie (© Nico De Pasquale Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Fontaine+de+Trevi&form=hpcapt&filters=HpDate%3a%2220251124_2300%22",
+        "title": "Rome-antisme éternel",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251124_TreviFountain%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "39b30022167d063dc23f76f83191a803",
+        "hsh": "6c6953dcc15c1400ac98ab77fcfae212",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Au cœur de Rome, en Italie, là où trois ruelles convergent, appelées les Tre Vie, jaillit la fontaine la plus célèbre : la fontaine de Trevi. Achevée en 1762, elle marque la fin de l’antique aqueduc de l'Aqua Virgo qui alimente encore aujourd'hui ses eaux cristallines. Sous la lumière dorée, le dieu Océan surgit du marbre, entouré de tritons et de chevaux marins, dans un ballet figé d'écume et de pierre.",
+                "Image": {
+                    "Url": "/th?id=OHR.TreviFountain_FR-FR3611871379_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TreviFountain_FR-FR3611871379_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Rome-antisme éternel",
+                "Title": "La fontaine de Trevi, Rome, Italie",
+                "Copyright": "© Nico De Pasquale Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.900883,12.48334/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=41.900883,12.48334;S9;Fontaine de Trevi, Rome, Italie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=trevi%20fountain&ss=ypid.YN1354x12895695298171326804&mb=41.90615~12.475619~41.895625~12.491069&description=Trevi%20Square%20-%2000187%20Rome%20%28Rome%29&cardbg=%23219AB6&dt=1759735800000&tt=Trevi%20Fountain&tsts0=%2526ty%253D18%2526q%253Dtrevi%252520fountain%2526ss%253Dypid.YN1354x12895695298171326804%2526mb%253D41.90615~12.475619~41.895625~12.491069%2526description%253DTrevi%252520Square%252520-%25252000187%252520Rome%252520%252528Rome%252529%2526cardbg%253D%252523219AB6%2526dt%253D1759735800000&tstt0=Trevi%20Fountain&cp=40.79143~7.169371&lvl=5.6531672&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251125_TreviFountain\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Fontaine+de+Trevi&form=hpcapt&filters=HpDate:\"20251124_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251125_TreviFountain"
+            },
+            "Ssd": "20251125",
+            "Name": "TreviFountain",
+            "Market": "FR-FR",
+            "Hash": "3611871379",
+            "FullDateString": "25 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251123",
         "fullstartdate": "202511232300",
         "enddate": "20251124",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251124",
+        "fullstartdate": "202511242300",
+        "enddate": "20251125",
+        "url": "/th?id=OHR.TreviFountain_ES-ES1601085402_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TreviFountain_ES-ES1601085402",
+        "copyright": "Fontana di Trevi en Roma, Italia (© Nico De Pasquale Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Roma&form=hpcapt&filters=HpDate%3a%2220251124_2300%22",
+        "title": "Salud, monedas sueltas y amor",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251124_TreviFountain%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "39b30022167d063dc23f76f83191a803",
+        "hsh": "506cfa7f381eb5a1dc64bd76495add31",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "¿Alguna vez has oído el tintineo de las monedas más fuerte que los aplausos? Esa es la Fontana de Trevi en Roma, Italia, un lugar donde se mezclan historia, sueños y selfies. Terminada en 1762, marca el final del acueducto Aqua Virgo, uno de los primeros de la antigua Roma, que todavía suministra agua hoy. Su nombre, “Trevi”, proviene de Tre Vie (“tres caminos”), el cruce donde se encuentra. Diseñada por el arquitecto Nicola Salvi y concluida por Giuseppe Pannini, esta fuente barroca de 26 metros es la más grande de la ciudad y una de las más famosas del mundo. Sus esculturas muestran a Océano (o Neptuno), dios del mar, sobre un carro de concha tirado por caballos marinos y tritones, que simbolizan la calma y la tempestad del agua.",
+                "Image": {
+                    "Url": "/th?id=OHR.TreviFountain_ES-ES1601085402_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TreviFountain_ES-ES1601085402_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Salud, monedas sueltas y amor",
+                "Title": "Fontana di Trevi en Roma, Italia",
+                "Copyright": "© Nico De Pasquale Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251125_TreviFountain\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Roma&form=hpcapt&filters=HpDate:\"20251124_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251125_TreviFountain"
+            },
+            "Ssd": "20251125",
+            "Name": "TreviFountain",
+            "Market": "ES-ES",
+            "Hash": "1601085402",
+            "FullDateString": "25 de nov. de 2025"
+        }
+    },
+    {
         "startdate": "20251123",
         "fullstartdate": "202511232300",
         "enddate": "20251124",
