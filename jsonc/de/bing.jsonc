@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251125",
+        "fullstartdate": "202511252300",
+        "enddate": "20251126",
+        "url": "/th?id=OHR.OliveGrove_DE-DE7106057287_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OliveGrove_DE-DE7106057287",
+        "copyright": "Olivenhain in der Serra de Tramuntana, Mallorca, Balearische Inseln, Spanien (© cinoby/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Welttag+des+Olivenbaums&form=hpcapt&filters=HpDate%3a%2220251125_2300%22",
+        "title": "Wurzeln der Vergangenheit",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251125_OliveGrove%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8738b9c227a9fb5bef516039a2804111",
+        "hsh": "94257c56d27c7199d3ba25b177b1f749",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Olivenbäume sind echte Überlebenskünstler: uralt, knorrig und doch voller Leben. Selbst nach Feuer oder Trockenheit treiben sie neue Blätter. Die UNESCO hat ihnen mit dem Welttag des Olivenbaums am 26. November einen eigenen Tag gewidmet. Seit über 8.000 Jahren begleiten Oliven die Menschheit als Nahrung, Heilmittel und Friedenssymbol. Ihre Zweige krönten Sieger, ihr Öl nährte Generationen.",
+                "Image": {
+                    "Url": "/th?id=OHR.OliveGrove_DE-DE7106057287_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OliveGrove_DE-DE7106057287_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Wurzeln der Vergangenheit",
+                "Title": "Olivenhain in der Serra de Tramuntana, Mallorca, Balearische Inseln, Spanien",
+                "Copyright": "© cinoby/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.820061,2.884566/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=39.820061,2.884566;S9;Serra de Tramuntana, Mallorca, Spanien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=serra%20de%20tramuntana&ss=ypid.YN6306x17964902271857298146&mb=39.827753~2.87226~39.81236~2.896893&description=Ca%20s%27Amitger%2C%20Es%20el%20lugar%20donde%20se%20encuentra%20el%20Centro%20de%20interpretacion%20de%20la%20Serra%20de%20Tramuntana%2C%2007315%2C%20Balearic%20Islands&cardbg=%233DB838&dt=1759330800000&tt=Serra%20de%20Tramuntana&tsts0=%2526ty%253D18%2526q%253Dserra%252520de%252520tramuntana%2526ss%253Dypid.YN6306x17964902271857298146%2526mb%253D39.827753~2.87226~39.81236~2.896893%2526description%253DCa%252520s%252527Amitger%25252C%252520Es%252520el%252520lugar%252520donde%252520se%252520encuentra%252520el%252520Centro%252520de%252520interpretacion%252520de%252520la%252520Serra%252520de%252520Tramuntana%25252C%25252007315%25252C%252520Balearic%252520Islands%2526cardbg%253D%2525233DB838%2526dt%253D1759330800000&tstt0=Serra%20de%20Tramuntana&cp=39.820057~2.874105&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251126_OliveGrove\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Welttag+des+Olivenbaums&form=hpcapt&filters=HpDate:\"20251125_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251126_OliveGrove"
+            },
+            "Ssd": "20251126",
+            "Name": "OliveGrove",
+            "Market": "DE-DE",
+            "Hash": "7106057287",
+            "FullDateString": "26. Nov.. 2025"
+        }
+    },
+    {
         "startdate": "20251124",
         "fullstartdate": "202511242300",
         "enddate": "20251125",

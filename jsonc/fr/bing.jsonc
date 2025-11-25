@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251125",
+        "fullstartdate": "202511252300",
+        "enddate": "20251126",
+        "url": "/th?id=OHR.HandmadeMarket_FR-FR3762412272_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HandmadeMarket_FR-FR3762412272",
+        "copyright": "Décorations artisanales d’un marché de Noël (© 31etc/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=march%C3%A9+de+no%C3%ABl&form=hpcapt&filters=HpDate%3a%2220251125_2300%22",
+        "title": "La saison la plus attendue de l’année est lancée !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251125_HandmadeMarket%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "90029bdb6f37e92d8748e77c8b3ba4f6",
+        "hsh": "fb982d79e26f94b89bab1adcf4e45244",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La saison des pulls moches, du vin chaud et des téléfilms sucrés est lancée ! Plus près de nous, le marché de Noël de Strasbourg s'ouvre entre chalets parfumés à la cannelle et guirlandes scintillantes. Les décorations artisanales racontent la patience des gestes ancestraux : bois sculpté, feutrine cousue, pigments naturels. Chaque figurine semble être sortie d'un conte, comme ce bonhomme de neige au chapeau noir, gardien des souvenirs d'hiver.",
+                "Image": {
+                    "Url": "/th?id=OHR.HandmadeMarket_FR-FR3762412272_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HandmadeMarket_FR-FR3762412272_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La saison la plus attendue de l'année est lancée !",
+                "Title": "Décorations artisanales d’un marché de Noël",
+                "Copyright": "© 31etc/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.584939,7.749438/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=48.584939,7.749438;S9;Marché Noël, Strasbourg, Alsace&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps/directions?rtp=~pos.48.58456802368164_7.749547958374023_21-20+PL+Broglie+Strasbourg_March%c3%a9+de+No%c3%abl_&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251126_HandmadeMarket\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=march%c3%a9+de+no%c3%abl&form=hpcapt&filters=HpDate:\"20251125_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251126_HandmadeMarket"
+            },
+            "Ssd": "20251126",
+            "Name": "HandmadeMarket",
+            "Market": "FR-FR",
+            "Hash": "3762412272",
+            "FullDateString": "26 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251124",
         "fullstartdate": "202511242300",
         "enddate": "20251125",

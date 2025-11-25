@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251125",
+        "fullstartdate": "202511252300",
+        "enddate": "20251126",
+        "url": "/th?id=OHR.OliveGrove_ES-ES8682630168_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OliveGrove_ES-ES8682630168",
+        "copyright": "Olivos en la Sierra de Tramontana, Mallorca, Islas Baleares, España (© cinoby/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+mundial+del+Olivo&form=hpcapt&filters=HpDate%3a%2220251125_2300%22",
+        "title": "La cuna del oro líquido",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251125_OliveGrove%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8738b9c227a9fb5bef516039a2804111",
+        "hsh": "e1ac83ca5bf62b70905a8e3e3f54607f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Los olivos pueden vivir más de mil años. Incluso cuando sus troncos están cicatrizados o ahuecados, siguen produciendo hojas cada temporada, un verdadero testigo de supervivencia frente a la sequía, el viento y el fuego. En 2019, la UNESCO declaró el 26 de noviembre como Día Mundial del Olivo, reconociendo árboles cultivados por humanos desde aproximadamente el año 6.000 a. C. Sus frutos y su aceite han sido muy valiosos: se usaban para ungir, para medicina y para la cocina; las hojas coronaban a los vencedores olímpicos; y sus ramas simbolizan la paz.",
+                "Image": {
+                    "Url": "/th?id=OHR.OliveGrove_ES-ES8682630168_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OliveGrove_ES-ES8682630168_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La cuna del oro líquido",
+                "Title": "Olivos en la Sierra de Tramontana, Mallorca, Islas Baleares, España",
+                "Copyright": "© cinoby/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251126_OliveGrove\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=D%c3%ada+mundial+del+Olivo&form=hpcapt&filters=HpDate:\"20251125_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251126_OliveGrove"
+            },
+            "Ssd": "20251126",
+            "Name": "OliveGrove",
+            "Market": "ES-ES",
+            "Hash": "8682630168",
+            "FullDateString": "26 de nov. de 2025"
+        }
+    },
+    {
         "startdate": "20251124",
         "fullstartdate": "202511242300",
         "enddate": "20251125",

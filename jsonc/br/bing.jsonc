@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251125",
+        "fullstartdate": "202511250300",
+        "enddate": "20251126",
+        "url": "/th?id=OHR.TreviFountain_PT-BR3096421017_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TreviFountain_PT-BR3096421017",
+        "copyright": "Fontana di Trevi, Roma, Itália (© Nico De Pasquale Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Fontana+di+Trevi%2c+It%C3%A1lia&form=hpcapt&mkt=pt-br",
+        "title": "Amor, sorte e moedas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251125_TreviFountain%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "39b30022167d063dc23f76f83191a803",
+        "hsh": "3b4ceed4b658ecfe27ac7620f8dcc357",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Em Roma, na Itália, existe uma fonte onde moedas viram desejos: a famosa Fontana di Trevi, nossa imagem de hoje. Finalizada em 1762, ela marca o fim de um antigo caminho por onde a água era levada até a cidade — um canal construído pelos romanos que funciona até hoje. O nome “Trevi” vem de “Tre Vie” — três vias — indicando o cruzamento onde está localizada.",
+                "Image": {
+                    "Url": "/th?id=OHR.TreviFountain_PT-BR3096421017_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TreviFountain_PT-BR3096421017_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Amor, sorte e moedas",
+                "Title": "Fontana di Trevi, Roma, Itália",
+                "Copyright": "© Nico De Pasquale Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251125_TreviFountain\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Fontana+di+Trevi%2c+It%c3%a1lia&form=hpcapt&filters=HpDate:\"20251125_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251125_TreviFountain"
+            },
+            "Ssd": "20251125",
+            "Name": "TreviFountain",
+            "Market": "PT-BR",
+            "Hash": "3096421017",
+            "FullDateString": "25 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251124",
         "fullstartdate": "202511240300",
         "enddate": "20251125",
