@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251126",
+        "fullstartdate": "202511262300",
+        "enddate": "20251127",
+        "url": "/th?id=OHR.PierOfEastbourne2025_FR-FR3918245967_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PierOfEastbourne2025_FR-FR3918245967",
+        "copyright": "Jetée d’Eastbourne, East Sussex, Angleterre (© Tolga_TEZCAN/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Jet%C3%A9e+d%E2%80%99Eastbourne+Angleterre&form=hpcapt&filters=HpDate%3a%2220251126_2300%22",
+        "title": "Une jetée très british",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251126_PierOfEastbourne2025%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a9743649ae0d3a88e9f36e1df6d7021c",
+        "hsh": "9446e92563cd63a0dcc49d3a9d4c170a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dans le East Sussex, sur la côte sud de l’Angleterre, la jetée d’Eastbourne s’avance dans la mer comme un rêve suspendu. Sous le ciel du soir, ses dômes dorés reflètent les dernières lueurs du jour, tandis que la Manche, calme et bleutée, caresse les piliers de fer forgé. Inaugurée en 1870 comme point d’amarrage pour les bateaux à vapeur, elle devint vite le symbole de l’élégance victorienne. Malgré les tempêtes, les incendies et même la guerre, elle a su renaître, conservant son charme et son allure.",
+                "Image": {
+                    "Url": "/th?id=OHR.PierOfEastbourne2025_FR-FR3918245967_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PierOfEastbourne2025_FR-FR3918245967_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Une jetée très british",
+                "Title": "Jetée d’Eastbourne, East Sussex, Angleterre",
+                "Copyright": "© Tolga_TEZCAN/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.765854,0.295458/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=50.765854,0.295458;S9;Jetée d’Eastbourne, East Sussex, Angleterre&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Eastbourne%20Pier%20East%20Sussex%20England&ss=ypid.YNF9FA01B294500EB3&mb=50.770957~0.285451~50.760737~0.30545&description=Eastbourne%20Pier%20Grand%20Parade%2C%20Eastbourne%20BN21%203EL&cardbg=%23219AB6&dt=1761147000000&tt=Eastbourne%20Pier&tsts0=%2526ty%253D18%2526q%253DEastbourne%252520Pier%252520East%252520Sussex%252520England%2526ss%253Dypid.YNF9FA01B294500EB3%2526mb%253D50.770957~0.285451~50.760737~0.30545%2526description%253DEastbourne%252520Pier%252520Grand%252520Parade%25252C%252520Eastbourne%252520BN21%2525203EL%2526cardbg%253D%252523219AB6%2526dt%253D1761147000000&tstt0=Eastbourne%20Pier&cp=51.297567~-16.557385&lvl=5.338885&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251127_PierOfEastbourne2025\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Jet%c3%a9e+d%e2%80%99Eastbourne+Angleterre&form=hpcapt&filters=HpDate:\"20251126_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251127_PierOfEastbourne2025"
+            },
+            "Ssd": "20251127",
+            "Name": "PierOfEastbourne2025",
+            "Market": "FR-FR",
+            "Hash": "3918245967",
+            "FullDateString": "27 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251125",
         "fullstartdate": "202511252300",
         "enddate": "20251126",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251126",
+        "fullstartdate": "202511260000",
+        "enddate": "20251127",
+        "url": "/th?id=OHR.OliveGrove_EN-GB4643116459_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OliveGrove_EN-GB4643116459",
+        "copyright": "Olive orchard in the Serra de Tramuntana, Mallorca, Balearic Islands, Spain (© cinoby/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=World+Olive+Tree+Day&form=hpcapt&filters=HpDate%3a%2220251126_0000%22",
+        "title": "'Leaf' it to history",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251126_OliveGrove%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8738b9c227a9fb5bef516039a2804111",
+        "hsh": "dd003d7ff39a127ab0e7d199bed9314f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ancient yet vibrant, twisted yet resilient, olive trees can live for over a thousand years. Even when scarred or hollowed, their trunks still send out fresh leaves each season—a living record of survival through drought, wind and fire. In 2019, UNESCO established November 26 as World Olive Tree Day, recognising these trees that have been cultivated by humans since about 6,000 BCE. Olives have carried both practical and symbolic weight through the ages: their oil was pressed for anointing, medicine and daily sustenance; crowns of their leaves graced Olympic victors; and their branches became a lasting emblem of peace.",
+                "Image": {
+                    "Url": "/th?id=OHR.OliveGrove_EN-GB4643116459_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OliveGrove_EN-GB4643116459_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "'Leaf' it to history",
+                "Title": "Olive orchard in the Serra de Tramuntana, Mallorca, Balearic Islands, Spain",
+                "Copyright": "© cinoby/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.820061,2.884566/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=39.820061,2.884566;S9;Serra de Tramuntana, Mallorca, Spain&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=serra%20de%20tramuntana&ss=ypid.YN6306x17964902271857298146&mb=39.827753~2.87226~39.81236~2.896893&description=Ca%20s%27Amitger%2C%20Es%20el%20lugar%20donde%20se%20encuentra%20el%20Centro%20de%20interpretacion%20de%20la%20Serra%20de%20Tramuntana%2C%2007315%2C%20Balearic%20Islands&cardbg=%233DB838&dt=1759330800000&tt=Serra%20de%20Tramuntana&tsts0=%2526ty%253D18%2526q%253Dserra%252520de%252520tramuntana%2526ss%253Dypid.YN6306x17964902271857298146%2526mb%253D39.827753~2.87226~39.81236~2.896893%2526description%253DCa%252520s%252527Amitger%25252C%252520Es%252520el%252520lugar%252520donde%252520se%252520encuentra%252520el%252520Centro%252520de%252520interpretacion%252520de%252520la%252520Serra%252520de%252520Tramuntana%25252C%25252007315%25252C%252520Balearic%252520Islands%2526cardbg%253D%2525233DB838%2526dt%253D1759330800000&tstt0=Serra%20de%20Tramuntana&cp=39.820057~2.874105&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251126_OliveGrove\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=World+Olive+Tree+Day&form=hpcapt&filters=HpDate:\"20251126_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251126_OliveGrove"
+            },
+            "Ssd": "20251126",
+            "Name": "OliveGrove",
+            "Market": "EN-GB",
+            "Hash": "4643116459",
+            "FullDateString": "26 Nov 2025"
+        }
+    },
+    {
         "startdate": "20251125",
         "fullstartdate": "202511250000",
         "enddate": "20251126",
