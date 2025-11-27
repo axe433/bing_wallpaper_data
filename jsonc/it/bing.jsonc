@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251127",
+        "fullstartdate": "202511272300",
+        "enddate": "20251128",
+        "url": "/th?id=OHR.InvernoItalia_IT-IT2625376488_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.InvernoItalia_IT-IT2625376488",
+        "copyright": "Val Brandet, Córteno Golgi, Brescia, Lombardia (© ClickAlps/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=C%C3%B3rteno+Golgi&form=hpcapt",
+        "title": "Pace che scorre",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251127_InvernoItalia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "593abf50ad162edbb1516b5d2d37f8e9",
+        "hsh": "742059bb7fe6bece8b8e531365f07c88",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nel cuore della Val Brandet, nel Parco dell’Adamello, in Lombardia, il silenzio dell’inverno si fa voce. Siamo nel comune di Corteno Golgi, che prende il nome dal medico e premio Nobel Camillo Golgi, celebre per aver identificato l’apparato di Golgi, fondamentale per il funzionamento delle cellule, e nato proprio qui. È un luogo che conserva memoria e bellezza, scienza e natura.",
+                "Image": {
+                    "Url": "/th?id=OHR.InvernoItalia_IT-IT2625376488_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.InvernoItalia_IT-IT2625376488_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Pace che scorre",
+                "Title": "Val Brandet, Córteno Golgi, Brescia, Lombardia",
+                "Copyright": "© ClickAlps/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Camillo Golgi fu il primo italiano a vincere il Nobel per la Medicina nel 1906, grazie alle sue scoperte sul sistema nervoso.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251128_InvernoItalia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=C%c3%b3rteno+Golgi&form=hpcapt&filters=HpDate:\"20251127_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251128_InvernoItalia"
+            },
+            "Ssd": "20251128",
+            "Name": "InvernoItalia",
+            "Market": "IT-IT",
+            "Hash": "2625376488",
+            "FullDateString": "28 novembre 2025"
+        }
+    },
+    {
         "startdate": "20251126",
         "fullstartdate": "202511262300",
         "enddate": "20251127",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251127",
+        "fullstartdate": "202511272300",
+        "enddate": "20251128",
+        "url": "/th?id=OHR.InvernoItalia_ES-ES0870485112_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.InvernoItalia_ES-ES0870485112",
+        "copyright": "Val Brandet, Brescia, Lombardía, Italia (© ClickAlps/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Brescia+Lombard%C3%ADa&form=hpcapt&filters=HpDate%3a%2220251127_2300%22",
+        "title": "Ruido blanco",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251127_InvernoItalia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "593abf50ad162edbb1516b5d2d37f8e9",
+        "hsh": "a8adb2247a21f856d9456ea90fd55748",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En el corazón de Val Brandet, dentro del Parque Adamello (Lombardía, Italia), el invierno encuentra su voz. Nos hallamos en Corteno Golgi, un pequeño municipio que lleva el nombre del médico y premio Nobel Camillo Golgi, nacido aquí; un lugar donde la memoria, la ciencia y la naturaleza conviven.",
+                "Image": {
+                    "Url": "/th?id=OHR.InvernoItalia_ES-ES0870485112_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.InvernoItalia_ES-ES0870485112_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ruido blanco",
+                "Title": "Val Brandet, Brescia, Lombardía, Italia",
+                "Copyright": "© ClickAlps/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251128_InvernoItalia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Brescia+Lombard%c3%ada&form=hpcapt&filters=HpDate:\"20251127_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251128_InvernoItalia"
+            },
+            "Ssd": "20251128",
+            "Name": "InvernoItalia",
+            "Market": "ES-ES",
+            "Hash": "0870485112",
+            "FullDateString": "28 de nov. de 2025"
+        }
+    },
+    {
         "startdate": "20251126",
         "fullstartdate": "202511262300",
         "enddate": "20251127",

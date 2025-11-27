@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251127",
+        "fullstartdate": "202511272300",
+        "enddate": "20251128",
+        "url": "/th?id=OHR.InvernoItalia_FR-FR6593189563_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.InvernoItalia_FR-FR6593189563",
+        "copyright": "Val Brandet, Brescia, Lombardie, Italie (© ClickAlps/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Val+Brandet+Lombardie&form=hpcapt&filters=HpDate%3a%2220251127_2300%22",
+        "title": "Un paysage de glace à l’italienne",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251127_InvernoItalia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "593abf50ad162edbb1516b5d2d37f8e9",
+        "hsh": "a7a7806723b72a58d27cf5789bee9671",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Au cœur du parc naturel italien de l’Adamello, en Lombardie, Val Brandet s’étire comme une prière silencieuse. Non loin de Corteno Golgi, le village natal du médecin et prix Nobel Camillo Golgi, la montagne s’endort sous la neige. Les sapins ploient, les rochers scintillent et, au centre du vallon, une fine cascade résiste au gel. L’eau, obstinée, poursuit son cours entre les cristaux de glace, telle une voix qui refuse de s’éteindre.",
+                "Image": {
+                    "Url": "/th?id=OHR.InvernoItalia_FR-FR6593189563_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.InvernoItalia_FR-FR6593189563_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un paysage de glace à l'italienne",
+                "Title": "Val Brandet, Brescia, Lombardie, Italie",
+                "Copyright": "© ClickAlps/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Camillo Golgi, premier Italien lauréat du Nobel de médecine (1906), a découvert l’appareil de Golgi, clé du fonctionnement cellulaire.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251128_InvernoItalia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Val+Brandet+Lombardie&form=hpcapt&filters=HpDate:\"20251127_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251128_InvernoItalia"
+            },
+            "Ssd": "20251128",
+            "Name": "InvernoItalia",
+            "Market": "FR-FR",
+            "Hash": "6593189563",
+            "FullDateString": "28 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251126",
         "fullstartdate": "202511262300",
         "enddate": "20251127",

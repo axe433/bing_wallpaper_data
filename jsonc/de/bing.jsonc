@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251127",
+        "fullstartdate": "202511272300",
+        "enddate": "20251128",
+        "url": "/th?id=OHR.InvernoItalia_DE-DE4758348051_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.InvernoItalia_DE-DE4758348051",
+        "copyright": "Val Brandet, Brescia, Lombardei, Italien (© ClickAlps/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Val+Brandet+Lombardei&form=hpcapt&filters=HpDate%3a%2220251127_2300%22",
+        "title": "Flüstern in Weiß",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251127_InvernoItalia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "593abf50ad162edbb1516b5d2d37f8e9",
+        "hsh": "0a0f3122b78b20eee6a3fe42096c0fa7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Zwischen den verschneiten Höhen des Val Brandet im Adamello-Park in der Lombardei, Italien, entfaltet der Winter seine leise Magie. In Corteno Golgi – benannt nach dem berühmten Arzt und Nobelpreisträger Camillo Golgi – treffen Natur und Geschichte aufeinander.",
+                "Image": {
+                    "Url": "/th?id=OHR.InvernoItalia_DE-DE4758348051_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.InvernoItalia_DE-DE4758348051_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Flüstern in Weiß",
+                "Title": "Val Brandet, Brescia, Lombardei, Italien",
+                "Copyright": "© ClickAlps/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Camillo Golgi war der erste Italiener, der 1906 den Nobelpreis für Medizin erhielt – dank seiner bahnbrechenden Entdeckungen zum Nervensystem.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251128_InvernoItalia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Val+Brandet+Lombardei&form=hpcapt&filters=HpDate:\"20251127_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251128_InvernoItalia"
+            },
+            "Ssd": "20251128",
+            "Name": "InvernoItalia",
+            "Market": "DE-DE",
+            "Hash": "4758348051",
+            "FullDateString": "28. Nov.. 2025"
+        }
+    },
+    {
         "startdate": "20251126",
         "fullstartdate": "202511262300",
         "enddate": "20251127",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251127",
+        "fullstartdate": "202511270800",
+        "enddate": "20251128",
+        "url": "/th?id=OHR.TurkeyDetail_EN-US7401521602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TurkeyDetail_EN-US7401521602",
+        "copyright": "Male wild turkey plumage, Aransas Natural Wildlife Refuge, Texas (© George McCarthy/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Thanksgiving&form=hpcapt&filters=HpDate%3a%2220251127_0800%22",
+        "title": "The echoes of Plymouth",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251127_TurkeyDetail%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cb750968941152fe4cdadeb5e678a561",
+        "hsh": "7ef51b9779df1d9d11138836244ccc81",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "The wild turkey's iridescent plumage, seen here at Aransas National Wildlife Refuge in Texas, isn't just striking—it carries the shimmer of history. Today is Thanksgiving, when many Americans gather around the table, enjoying roast turkey stuffed with savory bread dressing, mashed potatoes, cranberry sauce, and pumpkin pie. Football games hum in the background, parades march down city streets, and kitchens buzz with the familiar aromas of holiday cooking.",
+                "Image": {
+                    "Url": "/th?id=OHR.TurkeyDetail_EN-US7401521602_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TurkeyDetail_EN-US7401521602_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "The echoes of Plymouth",
+                "Title": "Male wild turkey plumage, Aransas Natural Wildlife Refuge, Texas",
+                "Copyright": "© George McCarthy/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/28.308653,-96.804306/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=28.308653,-96.804306;S9;Aransas Natural Wildlife Refuge&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Aransas%20Wildlife%20Refuge&ss=ypid.YN873x7292486974822671558&mb=28.317472~-96.81663~28.299828~-96.791997&description=1%20Wildlife%20Cir%2C%20Austwell%2C%20TX%2077950&cardbg=%233DB838&dt=1759485600000&tt=National%20Wildlife%20Refuge%20Aransas&tsts0=%2526ty%253D18%2526q%253DAransas%252520Wildlife%252520Refuge%2526ss%253Dypid.YN873x7292486974822671558%2526mb%253D28.317472~-96.81663~28.299828~-96.791997%2526description%253D1%252520Wildlife%252520Cir%25252C%252520Austwell%25252C%252520TX%25252077950%2526cardbg%253D%2525233DB838%2526dt%253D1759485600000&tstt0=National%20Wildlife%20Refuge%20Aransas&cp=28.30865~-96.814785&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251127_TurkeyDetail\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Thanksgiving&form=hpcapt&filters=HpDate:\"20251127_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251127_TurkeyDetail"
+            },
+            "Ssd": "20251127",
+            "Name": "TurkeyDetail",
+            "Market": "EN-US",
+            "Hash": "7401521602",
+            "FullDateString": "Nov 27, 2025"
+        }
+    },
+    {
         "startdate": "20251126",
         "fullstartdate": "202511260800",
         "enddate": "20251127",
