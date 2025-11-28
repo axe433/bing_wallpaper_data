@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251128",
+        "fullstartdate": "202511280500",
+        "enddate": "20251129",
+        "url": "/th?id=OHR.InvernoItalia_EN-CA2895961852_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.InvernoItalia_EN-CA2895961852",
+        "copyright": "Val Brandet, Brescia, Lombardy, Italy (© ClickAlps/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Lombardy+Italy&form=hpcapt&filters=HpDate%3a%2220251128_0500%22",
+        "title": "Echoes in white",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251128_InvernoItalia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "593abf50ad162edbb1516b5d2d37f8e9",
+        "hsh": "b18b23342f61aa0a0afeee41cc908856",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Some valleys ask to be explored; Val Brandet in Lombardy, Italy, invites you to slow down and listen. Tucked inside Adamello Park and part of the municipality of Corteno Golgi—named after Nobel Prize–winning physician Camillo Golgi—this valley balances science and scenery, memory and movement.",
+                "Image": {
+                    "Url": "/th?id=OHR.InvernoItalia_EN-CA2895961852_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.InvernoItalia_EN-CA2895961852_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Echoes in white",
+                "Title": "Val Brandet, Brescia, Lombardy, Italy",
+                "Copyright": "© ClickAlps/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Camillo Golgi was the first Italian to win the Nobel Prize for Medicine in 1906, thanks to his discoveries on the nervous system.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251128_InvernoItalia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lombardy+Italy&form=hpcapt&filters=HpDate:\"20251128_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251128_InvernoItalia"
+            },
+            "Ssd": "20251128",
+            "Name": "InvernoItalia",
+            "Market": "EN-CA",
+            "Hash": "2895961852",
+            "FullDateString": "Nov. 28, 2025"
+        }
+    },
+    {
         "startdate": "20251127",
         "fullstartdate": "202511270500",
         "enddate": "20251128",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251128",
+        "fullstartdate": "202511280800",
+        "enddate": "20251129",
+        "url": "/th?id=OHR.InvernoItalia_ROW5410859519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.InvernoItalia_ROW5410859519",
+        "copyright": "Val Brandet, Brescia, Lombardy, Italy (© ClickAlps/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Val+Brandet+Lombardy&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251128_InvernoItalia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "593abf50ad162edbb1516b5d2d37f8e9",
+        "hsh": "212d1ea98e38b7428b3131842124c6b7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Some valleys ask to be explored; Val Brandet in Lombardy, Italy, invites you to slow down and listen. Tucked inside Adamello Park and part of the municipality of Corteno Golgi—named after Nobel Prize–winning physician Camillo Golgi—this valley balances science and scenery, memory and movement.",
+                "Image": {
+                    "Url": "/th?id=OHR.InvernoItalia_ROW5410859519_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.InvernoItalia_ROW5410859519_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Val Brandet, Brescia, Lombardy, Italy",
+                "Copyright": "© ClickAlps/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251128_InvernoItalia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Val+Brandet+Lombardy&form=hpcapt&filters=HpDate:\"20251128_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251128_InvernoItalia"
+            },
+            "Ssd": "20251128",
+            "Name": "InvernoItalia",
+            "Market": "ROW",
+            "Hash": "5410859519",
+            "FullDateString": "28. Nov rrrr"
+        }
+    },
+    {
         "startdate": "20251127",
         "fullstartdate": "202511270800",
         "enddate": "20251128",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251128",
+        "fullstartdate": "202511282300",
+        "enddate": "20251129",
+        "url": "/th?id=OHR.DeerVeluwe_DE-DE5044539873_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DeerVeluwe_DE-DE5044539873",
+        "copyright": "Rothirsch im Nationalpark De Hoge Veluwe, Niederlande (© CreativeNature_nl/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Nationalpark+De+Hoge+Veluwe&form=hpcapt&filters=HpDate%3a%2220251128_2300%22",
+        "title": "Ganz schön frostig",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251128_DeerVeluwe%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f922460457bc637efd8e071e9ba69f8a",
+        "hsh": "f948d82c0b48560b3a04ab70309e0ae4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ein Rothirsch mit mächtigem Geweih, wanderndes Wild und 54 Quadratkilometer abwechslungsreiche Landschaft – das ist der Nationalpark De Hoge Veluwe in der Provinz Gelderland im Osten der Niederlande. Der Park wurde 1909 von dem Ehepaar Kröller-Müller gegründet, das Kunst und Natur vereinen wollte. Heute begegnet man dort nicht nur Skulpturen wie „Three Upright Motives” des englischen Bildhauers Henry Moore oder der „Steyn-Bank” des belgischen Architekten Henry van de Velde, sondern auch Wildschweinen, Mufflons und Wölfen.",
+                "Image": {
+                    "Url": "/th?id=OHR.DeerVeluwe_DE-DE5044539873_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DeerVeluwe_DE-DE5044539873_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ganz schön frostig",
+                "Title": "Rothirsch im Nationalpark De Hoge Veluwe, Niederlande",
+                "Copyright": "© CreativeNature_nl/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.102749,5.787268/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=52.102749,5.787268;S9;Nationalpark De Hoge Veluwe, Gelderland, Niederlande&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=De%20Hoge%20Veluwe%20National%20Park&ss=ypid.YN8000x15656035176455008411&mb=52.107092~5.779538~52.098406~5.794988&description=6731%20Ede&cardbg=%233DB838&dt=1760682600000&tt=De%20Hoge%20Veluwe%20National%20Park&tsts0=%2526ty%253D18%2526q%253DDe%252520Hoge%252520Veluwe%252520National%252520Park%2526ss%253Dypid.YN8000x15656035176455008411%2526mb%253D52.107092~5.779538~52.098406~5.794988%2526description%253D6731%252520Ede%2526cardbg%253D%2525233DB838%2526dt%253D1760682600000&tstt0=De%20Hoge%20Veluwe%20National%20Park&cp=43.412751~-9.325404&lvl=4.2659554&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251129_DeerVeluwe\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Nationalpark+De+Hoge+Veluwe&form=hpcapt&filters=HpDate:\"20251128_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251129_DeerVeluwe"
+            },
+            "Ssd": "20251129",
+            "Name": "DeerVeluwe",
+            "Market": "DE-DE",
+            "Hash": "5044539873",
+            "FullDateString": "29. Nov.. 2025"
+        }
+    },
+    {
         "startdate": "20251127",
         "fullstartdate": "202511272300",
         "enddate": "20251128",

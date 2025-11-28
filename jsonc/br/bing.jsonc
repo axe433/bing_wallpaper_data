@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251128",
+        "fullstartdate": "202511280300",
+        "enddate": "20251129",
+        "url": "/th?id=OHR.PraiaFloripa_PT-BR9500409157_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PraiaFloripa_PT-BR9500409157",
+        "copyright": "Praia da Armação, Florianópolis, Santa Catarina (© André Damasco/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=praia+da+arma%C3%A7%C3%A3o+florian%C3%B3polis&form=hpcapt&mkt=pt-br",
+        "title": "O som das ondas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251128_PraiaFloripa%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b87e8640547058470144713b5777b489",
+        "hsh": "4d9c89322c0e884090c3d29b8cf40cfb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A Praia da Armação, localizada no sul da Ilha de Santa Catarina, é um verdadeiro refúgio natural em Florianópolis. Com aproximadamente 3 quilômetros de extensão, ela encanta pela mistura de mar aberto, pedras e uma paisagem que parece pintada à mão, como vemos na imagem de hoje. No verão, a vila de pescadores se transforma: turistas de todo o Brasil chegam em busca de tranquilidade e beleza.",
+                "Image": {
+                    "Url": "/th?id=OHR.PraiaFloripa_PT-BR9500409157_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PraiaFloripa_PT-BR9500409157_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O som das ondas",
+                "Title": "Praia da Armação, Florianópolis, Santa Catarina",
+                "Copyright": "© André Damasco/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251128_PraiaFloripa\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=praia+da+arma%c3%a7%c3%a3o+florian%c3%b3polis&form=hpcapt&filters=HpDate:\"20251128_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251128_PraiaFloripa"
+            },
+            "Ssd": "20251128",
+            "Name": "PraiaFloripa",
+            "Market": "PT-BR",
+            "Hash": "9500409157",
+            "FullDateString": "28 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251127",
         "fullstartdate": "202511270300",
         "enddate": "20251128",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251128",
+        "fullstartdate": "202511282300",
+        "enddate": "20251129",
+        "url": "/th?id=OHR.DeerVeluwe_ES-ES0975453330_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DeerVeluwe_ES-ES0975453330",
+        "copyright": "Ciervo rojo en el Parque Nacional De Hoge Veluwe, Países Bajos (© CreativeNature_nl/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+De+Hoge+Veluwe&form=hpcapt&filters=HpDate%3a%2220251128_2300%22",
+        "title": "¡Oh ciervo, hace frío!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251128_DeerVeluwe%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f922460457bc637efd8e071e9ba69f8a",
+        "hsh": "d12f9205f5199fc94328e2aeec9b38d2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Imagine 55 kilómetros cuadrados de naturaleza abierta, con vida salvaje en movimiento y un ciervo mostrando con orgullo su corona de astas. En 1909, el matrimonio formado por Anton Kröller y Helene Kröller-Müller comenzó a crear una finca privada en Gelderland, Países Bajos. Su sueño era unir arte y naturaleza. Así nació el Parque Nacional De Hoge Veluwe, donde esculturas y paisajes se funden en perfecta armonía. Entre sus obras destacan “Three Upright Motives”, del británico Henry Moore, y el banco de piedra “President Steyn”, del arquitecto belga Henry van de Velde.",
+                "Image": {
+                    "Url": "/th?id=OHR.DeerVeluwe_ES-ES0975453330_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DeerVeluwe_ES-ES0975453330_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "¡Oh ciervo, hace frío!",
+                "Title": "Ciervo rojo en el Parque Nacional De Hoge Veluwe, Países Bajos",
+                "Copyright": "© CreativeNature_nl/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251129_DeerVeluwe\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parque+Nacional+De+Hoge+Veluwe&form=hpcapt&filters=HpDate:\"20251128_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251129_DeerVeluwe"
+            },
+            "Ssd": "20251129",
+            "Name": "DeerVeluwe",
+            "Market": "ES-ES",
+            "Hash": "0975453330",
+            "FullDateString": "29 de nov. de 2025"
+        }
+    },
+    {
         "startdate": "20251127",
         "fullstartdate": "202511272300",
         "enddate": "20251128",

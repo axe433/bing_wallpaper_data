@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251128",
+        "fullstartdate": "202511281830",
+        "enddate": "20251129",
+        "url": "/th?id=OHR.DeerVeluwe_EN-IN0058666460_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DeerVeluwe_EN-IN0058666460",
+        "copyright": "Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=De+Hoge+Veluwe+National+Park&form=hpcapt&filters=HpDate%3a%2220251128_1830%22",
+        "title": "Oh deer, it's cold!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251128_DeerVeluwe%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f922460457bc637efd8e071e9ba69f8a",
+        "hsh": "a52e2112d3f9d8034a531e1fb920601e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Picture 54 square kilometres of open land, wildlife on the move, and a stag flaunting its crown of antlers. In 1909, husband and wife Anton Kröller and Helene Kröller-Müller began building a private estate in Gelderland, Netherlands—what we now know as De Hoge Veluwe National Park. Their vision? To merge art and nature. They brought it to life by placing artwork within the landscape, like 'Three Upright Motives' by English sculptor Henry Moore in the Pampelse Zand and the President Steyn stone bench by Belgian architect Henry van de Velde, among others.",
+                "Image": {
+                    "Url": "/th?id=OHR.DeerVeluwe_EN-IN0058666460_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DeerVeluwe_EN-IN0058666460_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Oh deer, it's cold!",
+                "Title": "Red deer stag in De Hoge Veluwe National Park, Netherlands",
+                "Copyright": "© CreativeNature_nl/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.102749,5.787268/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=52.102749,5.787268;S9;De Hoge Veluwe National Park, Gelderland, Netherlands&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=De%20Hoge%20Veluwe%20National%20Park&ss=ypid.YN8000x15656035176455008411&mb=52.107092~5.779538~52.098406~5.794988&description=6731%20Ede&cardbg=%233DB838&dt=1760682600000&tt=De%20Hoge%20Veluwe%20National%20Park&tsts0=%2526ty%253D18%2526q%253DDe%252520Hoge%252520Veluwe%252520National%252520Park%2526ss%253Dypid.YN8000x15656035176455008411%2526mb%253D52.107092~5.779538~52.098406~5.794988%2526description%253D6731%252520Ede%2526cardbg%253D%2525233DB838%2526dt%253D1760682600000&tstt0=De%20Hoge%20Veluwe%20National%20Park&cp=43.412751~-9.325404&lvl=4.2659554&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251129_DeerVeluwe\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=De+Hoge+Veluwe+National+Park&form=hpcapt&filters=HpDate:\"20251128_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251129_DeerVeluwe"
+            },
+            "Ssd": "20251129",
+            "Name": "DeerVeluwe",
+            "Market": "EN-IN",
+            "Hash": "0058666460",
+            "FullDateString": "29 Nov, 2025"
+        }
+    },
+    {
         "startdate": "20251127",
         "fullstartdate": "202511271830",
         "enddate": "20251128",
