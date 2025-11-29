@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251129",
+        "fullstartdate": "202511292300",
+        "enddate": "20251130",
+        "url": "/th?id=OHR.LeipzigMarket_FR-FR6920337470_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LeipzigMarket_FR-FR6920337470",
+        "copyright": "Marché de Noël à Leipzig, Allemagne (© Krzysztof Baranowski/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Leipzig&form=hpcapt&filters=HpDate%3a%2220251129_2300%22",
+        "title": "Un Noël venu d’ailleurs",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251129_LeipzigMarket%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2c7fa12a6ba8f2c0b03d0ce656aa7f4d",
+        "hsh": "39d419f2e5f3bbe231700d5e942dee8d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sous les lumières dorées de la vieille ville de Leipzig, en Allemagne, l’air embaume le miel chaud, les épices et la neige fondue. Depuis 1458, habitants et voyageurs s'y rassemblent pour célébrer l'hiver autour de chandelles, de jouets en bois et de pains d'épices appelés Lebkuchen. Autrefois, les marchands venus de toute l’Europe y échangeaient des tissus, des fruits secs et des récits du monde. Aujourd'hui, près de 300 chalets colorés animent la place du marché, mêlant musique, vin chaud et artisanat.",
+                "Image": {
+                    "Url": "/th?id=OHR.LeipzigMarket_FR-FR6920337470_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LeipzigMarket_FR-FR6920337470_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un Noël venu d'ailleurs",
+                "Title": "Marché de Noël à Leipzig, Allemagne",
+                "Copyright": "© Krzysztof Baranowski/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.34063,12.37473/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=51.34063,12.37473;S9;Leipzig, Allemagne&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Leipzig&satid=id.sid%3Aff50f94c-10e8-9487-0ea8-49b8334c589c&vdpid=7018132236914393089&mb=51.448078~12.083753~51.238144~12.695736&cardbg=%23F98745&tt=Leipzig%2C%20Saxony%2C%20Germany&tsts0=%2526ty%253D30%2526q%253DLeipzig%2526satid%253Did.sid%25253Aff50f94c-10e8-9487-0ea8-49b8334c589c%2526vdpid%253D7018132236914393089%2526mb%253D51.448078~12.083753~51.238144~12.695736%2526cardbg%253D%252523F98745&tstt0=Leipzig%2C%20Saxony%2C%20Germany&cp=39.509133~-17.702983&lvl=3.568267&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251130_LeipzigMarket\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Leipzig&form=hpcapt&filters=HpDate:\"20251129_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251130_LeipzigMarket"
+            },
+            "Ssd": "20251130",
+            "Name": "LeipzigMarket",
+            "Market": "FR-FR",
+            "Hash": "6920337470",
+            "FullDateString": "30 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251128",
         "fullstartdate": "202511282300",
         "enddate": "20251129",

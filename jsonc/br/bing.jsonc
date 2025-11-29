@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251129",
+        "fullstartdate": "202511290300",
+        "enddate": "20251130",
+        "url": "/th?id=OHR.DeerVeluwe_PT-BR9808049674_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DeerVeluwe_PT-BR9808049674",
+        "copyright": "Veado-vermelho no Parque Nacional De Hoge Veluwe, Países Baixos (© CreativeNature_nl/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+De+Hoge+Veluwe%2c+Pa%C3%ADses+Baixos&form=hpcapt&mkt=pt-br",
+        "title": "Coroas na floresta",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251129_DeerVeluwe%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f922460457bc637efd8e071e9ba69f8a",
+        "hsh": "5ec0d3175f8f9495624acaa20ee55ac5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Imagine uma vasta área de aproximadamente 55 km², onde a natureza se movimenta livremente e um veado-vermelho desfila com sua imponente coroa de galhadas — como o que vemos na imagem. No início do século XX, um casal visionário transformou essa região de Gelderland, nos Países Baixos, em uma propriedade privada com o propósito de unir arte e natureza. Assim nasceu o Parque Nacional De Hoge Veluwe, onde esculturas e instalações artísticas se integram à paisagem.",
+                "Image": {
+                    "Url": "/th?id=OHR.DeerVeluwe_PT-BR9808049674_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DeerVeluwe_PT-BR9808049674_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Coroas na floresta",
+                "Title": "Veado-vermelho no Parque Nacional De Hoge Veluwe, Países Baixos",
+                "Copyright": "© CreativeNature_nl/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251129_DeerVeluwe\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parque+Nacional+De+Hoge+Veluwe%2c+Pa%c3%adses+Baixos&form=hpcapt&filters=HpDate:\"20251129_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251129_DeerVeluwe"
+            },
+            "Ssd": "20251129",
+            "Name": "DeerVeluwe",
+            "Market": "PT-BR",
+            "Hash": "9808049674",
+            "FullDateString": "29 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251128",
         "fullstartdate": "202511280300",
         "enddate": "20251129",
