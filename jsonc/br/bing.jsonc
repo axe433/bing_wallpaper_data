@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251130",
+        "fullstartdate": "202511300300",
+        "enddate": "20251201",
+        "url": "/th?id=OHR.LeipzigMarket_PT-BR0321672309_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LeipzigMarket_PT-BR0321672309",
+        "copyright": "Mercado de Natal em Leipzig, Alemanha (© Krzysztof Baranowski/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Leipzig%2c+Alemanha&form=hpcapt&mkt=pt-br",
+        "title": "Brilho por todo o caminho",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251130_LeipzigMarket%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2c7fa12a6ba8f2c0b03d0ce656aa7f4d",
+        "hsh": "cf09b32f1f55e21aa5af9898570820c3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Mais do que compras, os mercados de Natal são espaços de encontro, tradição e encantamento. Tanto na Europa quanto no Brasil, essas celebrações transformam cidades em cenários especiais, onde o passado e o presente se misturam em experiências marcantes e cheias de significado.",
+                "Image": {
+                    "Url": "/th?id=OHR.LeipzigMarket_PT-BR0321672309_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LeipzigMarket_PT-BR0321672309_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Brilho por todo o caminho",
+                "Title": "Mercado de Natal em Leipzig, Alemanha",
+                "Copyright": "© Krzysztof Baranowski/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251130_LeipzigMarket\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Leipzig%2c+Alemanha&form=hpcapt&filters=HpDate:\"20251130_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251130_LeipzigMarket"
+            },
+            "Ssd": "20251130",
+            "Name": "LeipzigMarket",
+            "Market": "PT-BR",
+            "Hash": "0321672309",
+            "FullDateString": "30 nov. 2025"
+        }
+    },
+    {
         "startdate": "20251129",
         "fullstartdate": "202511290300",
         "enddate": "20251130",

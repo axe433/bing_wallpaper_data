@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251130",
+        "fullstartdate": "202511302300",
+        "enddate": "20251201",
+        "url": "/th?id=OHR.AdventcalendarGermany_DE-DE4536925565_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AdventcalendarGermany_DE-DE4536925565",
+        "copyright": "Adventskalendersäckchen mit süßen Überraschungen (© wideonet/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Adventszeit&form=hpcapt&filters=HpDate%3a%2220251130_2300%22",
+        "title": "Säckchen voller Vorfreude",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251130_AdventcalendarGermany%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6d2f181dcb5dbab8981367019ceac8d1",
+        "hsh": "85074a96feebb5c036fdbd14eb63851c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Die Adventszeit ist in Deutschland eine ganz besondere Zeit. Sie steht für Vorfreude und Besinnung – und für die Vorbereitung auf das Weihnachtsfest. Wenn die Straßen in festlichem Licht erstrahlen, Häuser liebevoll geschmückt sind, Plätzchenduft aus den Küchen steigt und die erste Kerze am Adventskranz brennt, spüren viele, dass Weihnachten näher rückt. Woche für Woche kommt ein weiteres Licht hinzu, bis schließlich alle vier Kerzen leuchten. Dieser Brauch hat seinen Ursprung im 19. Jahrhundert in Hamburg und begleitet uns bis heute durch die stille Zeit des Jahres.",
+                "Image": {
+                    "Url": "/th?id=OHR.AdventcalendarGermany_DE-DE4536925565_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AdventcalendarGermany_DE-DE4536925565_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Säckchen voller Vorfreude",
+                "Title": "Adventskalendersäckchen mit süßen Überraschungen",
+                "Copyright": "© wideonet/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "1839 entwickelte Johann Hinrich Wichern in Hamburg aus einem Wagenrad mit 24 Kerzen den ersten Adventskranz – Vorläufer des Adventskalenders und des heutigen Kranzes.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251201_AdventcalendarGermany\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Adventszeit&form=hpcapt&filters=HpDate:\"20251130_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251201_AdventcalendarGermany"
+            },
+            "Ssd": "20251201",
+            "Name": "AdventcalendarGermany",
+            "Market": "DE-DE",
+            "Hash": "4536925565",
+            "FullDateString": "1. Dez.. 2025"
+        }
+    },
+    {
         "startdate": "20251129",
         "fullstartdate": "202511292300",
         "enddate": "20251130",

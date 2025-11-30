@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251130",
+        "fullstartdate": "202511301830",
+        "enddate": "20251201",
+        "url": "/th?id=OHR.AntarcticArch_EN-IN0373340419_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AntarcticArch_EN-IN0373340419",
+        "copyright": "Natural arch carved in an iceberg, Antarctica (© Gabrielle/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Antarctica+Day&form=hpcapt&filters=HpDate%3a%2220251130_1830%22",
+        "title": "Where ice holds its breath",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251130_AntarcticArch%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f5f662d988bc564ccb609aa0c69ed785",
+        "hsh": "d0d85413113c5061adf4fd2e3b8e3610",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Some photos capture nature's grand acts. Great photos reveal even more in a single frame: the delicate balance between immense power and fragile beauty that surrounds us on Earth. Today's image of a natural arch carved into an Antarctic iceberg does exactly that—a conversation starter about grandeur, vulnerability, our environment and its present and future.",
+                "Image": {
+                    "Url": "/th?id=OHR.AntarcticArch_EN-IN0373340419_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AntarcticArch_EN-IN0373340419_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Where ice holds its breath",
+                "Title": "Natural arch carved in an iceberg, Antarctica",
+                "Copyright": "© Gabrielle/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "India established its first Antarctic base, Dakshin Gangotri, in 1983 as part of its Antarctic research programme.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251201_AntarcticArch\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Antarctica+Day&form=hpcapt&filters=HpDate:\"20251130_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251201_AntarcticArch"
+            },
+            "Ssd": "20251201",
+            "Name": "AntarcticArch",
+            "Market": "EN-IN",
+            "Hash": "0373340419",
+            "FullDateString": "1 Dec, 2025"
+        }
+    },
+    {
         "startdate": "20251129",
         "fullstartdate": "202511291830",
         "enddate": "20251130",

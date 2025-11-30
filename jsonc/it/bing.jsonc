@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251130",
+        "fullstartdate": "202511302300",
+        "enddate": "20251201",
+        "url": "/th?id=OHR.AntarcticArch_IT-IT2245369400_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AntarcticArch_IT-IT2245369400",
+        "copyright": "Arco naturale scolpito in un iceberg, Antartide (© Gabrielle/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Giornata+dell%E2%80%99+Antartide&form=hpcapt",
+        "title": "Cerchi triangolari?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251130_AntarcticArch%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f5f662d988bc564ccb609aa0c69ed785",
+        "hsh": "58d39213265fdc871e6e7fa5e26ac3ac",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Alcune immagini raccontano più di quanto sembri. Non solo mostrano la natura in azione, ma rivelano il fragile equilibrio tra potenza e bellezza che caratterizza il nostro pianeta. Ammirate questo arco naturale scolpito in un iceberg antartico. È uno di quei rari scatti che aprono conversazioni esistenziali sull’ambiente, sulla sua vulnerabilità, sul nostro ruolo.",
+                "Image": {
+                    "Url": "/th?id=OHR.AntarcticArch_IT-IT2245369400_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AntarcticArch_IT-IT2245369400_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Cerchi triangolari?",
+                "Title": "Arco naturale scolpito in un iceberg, Antartide",
+                "Copyright": "© Gabrielle/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "L'Antartide è circa 1,4-1,5 volte più grande degli Stati Uniti in termini di superficie terrestre.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251201_AntarcticArch\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Giornata+dell%e2%80%99+Antartide&form=hpcapt&filters=HpDate:\"20251130_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251201_AntarcticArch"
+            },
+            "Ssd": "20251201",
+            "Name": "AntarcticArch",
+            "Market": "IT-IT",
+            "Hash": "2245369400",
+            "FullDateString": "1 dicembre 2025"
+        }
+    },
+    {
         "startdate": "20251129",
         "fullstartdate": "202511292300",
         "enddate": "20251130",

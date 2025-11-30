@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251130",
+        "fullstartdate": "202511301500",
+        "enddate": "20251201",
+        "url": "/th?id=OHR.AntarcticArch_JA-JP4876185328_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AntarcticArch_JA-JP4876185328",
+        "copyright": "南極の氷山に刻まれた天然のアーチ, 南極大陸 (© Gabrielle/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%8D%97%E6%A5%B5%E3%81%AE%E6%B0%B7%E5%B1%B1%E3%81%AB%E5%88%BB%E3%81%BE%E3%82%8C%E3%81%9F%E5%A4%A9%E7%84%B6%E3%81%AE%E3%82%A2%E3%83%BC%E3%83%81&form=hpcapt&filters=HpDate%3a%2220251130_1500%22",
+        "title": "今日は南極の日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251130_AntarcticArch%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f5f662d988bc564ccb609aa0c69ed785",
+        "hsh": "f9f143806050e34bc3db315d08dd2db3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "地球の最南端に位置する南極大陸は、約 1,400 万 km² の面積を誇り、地球全体の陸地の約 8％ を占めています。平均気温は -30℃ にも達し、世界で最も寒冷かつ乾燥した地域です。また、ほとんどの部分は氷に覆われており、その氷床には地球上の淡水の約 70% が蓄えられ、海面上昇や気候変動に大きな影響を与えています…",
+                "Image": {
+                    "Url": "/th?id=OHR.AntarcticArch_JA-JP4876185328_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AntarcticArch_JA-JP4876185328_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日は南極の日",
+                "Title": "南極の氷山に刻まれた天然のアーチ, 南極大陸",
+                "Copyright": "© Gabrielle/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "南極の夏至の前後には太陽が沈まず 24 時間明るい状態が続く「白夜」が発生します。逆に冬至の前後には太陽が昇らず、24 時間暗闇が続く「極夜」が訪れます。",
+                    "LinkUrl": "/search?q=%e7%99%bd%e5%a4%9c%e3%81%a8%e6%a5%b5%e5%a4%9c%e3%81%8c%e8%b5%b7%e3%81%93%e3%82%8b%e7%90%86%e7%94%b1&form=hpvsfa",
+                    "LinkText": "白夜と極夜が起こる理由は？"
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251201_AntarcticArch\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%8d%97%e6%a5%b5%e3%81%ae%e6%b0%b7%e5%b1%b1%e3%81%ab%e5%88%bb%e3%81%be%e3%82%8c%e3%81%9f%e5%a4%a9%e7%84%b6%e3%81%ae%e3%82%a2%e3%83%bc%e3%83%81&form=hpcapt&filters=HpDate:\"20251130_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251201_AntarcticArch"
+            },
+            "Ssd": "20251201",
+            "Name": "AntarcticArch",
+            "Market": "JA-JP",
+            "Hash": "4876185328",
+            "FullDateString": "2025 年 12月 月 1 日"
+        }
+    },
+    {
         "startdate": "20251129",
         "fullstartdate": "202511291500",
         "enddate": "20251130",
