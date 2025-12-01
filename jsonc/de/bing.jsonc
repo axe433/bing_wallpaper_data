@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251201",
+        "fullstartdate": "202512012300",
+        "enddate": "20251202",
+        "url": "/th?id=OHR.WillowLake_DE-DE5594196403_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WillowLake_DE-DE5594196403",
+        "copyright": "Willow Lake und Mount Blackburn, Wrangell-St.-Elias-Nationalpark und Schutzgebiet, Alaska, USA (© Patrick J. Endres/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Wrangell-St.-Elias-Nationalpark&form=hpcapt&filters=HpDate%3a%2220251201_2300%22",
+        "title": "Ein Ausblick, der Bände spricht",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251201_WillowLake%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b2245f9429e7cacef96aec6868e8e0ee",
+        "hsh": "b07c33f26710d83f3e1d00054e76e268",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Was für ein Ausblick! Wer am Willow Lake in Alaska steht, blickt nicht nur auf Berge, sondern auch in die Geschichte des Naturschutzes. Vor ihm liegt der Wrangell-St.-Elias-Nationalpark, das flächenmäßig größte Schutzgebiet der USA. Mit rund 53.000 km² ist er sogar größer als Niedersachsen (47.709 km²) und zählt zu den größten Wildnislandschaften der Erde. Seit 1980 steht dieses Gebiet unter strengem Schutz, um seine Gletscher, Vulkane und die vielfältige Tierwelt zu bewahren.",
+                "Image": {
+                    "Url": "/th?id=OHR.WillowLake_DE-DE5594196403_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WillowLake_DE-DE5594196403_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ein Ausblick, der Bände spricht",
+                "Title": "Willow Lake und Mount Blackburn, Wrangell-St.-Elias-Nationalpark und Schutzgebiet, Alaska, USA",
+                "Copyright": "© Patrick J. Endres/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/61.435,-142.9536/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=61.435,-142.9536;S9;Wrangell-St.-Elias-Nationalpark und Schutzgebiet, Alaska, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251202_WillowLake\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Wrangell-St.-Elias-Nationalpark&form=hpcapt&filters=HpDate:\"20251201_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251202_WillowLake"
+            },
+            "Ssd": "20251202",
+            "Name": "WillowLake",
+            "Market": "DE-DE",
+            "Hash": "5594196403",
+            "FullDateString": "2. Dez.. 2025"
+        }
+    },
+    {
         "startdate": "20251130",
         "fullstartdate": "202511302300",
         "enddate": "20251201",

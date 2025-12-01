@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251201",
+        "fullstartdate": "202512010300",
+        "enddate": "20251202",
+        "url": "/th?id=OHR.AntarcticArch_PT-BR0722727107_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AntarcticArch_PT-BR0722727107",
+        "copyright": "Arco natural esculpido em um iceberg, Antártida (© Gabrielle/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+da+Ant%C3%A1rtica&form=hpcapt&mkt=pt-br",
+        "title": "Beleza, ciência e responsabilidade",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251201_AntarcticArch%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f5f662d988bc564ccb609aa0c69ed785",
+        "hsh": "2ce33c9639cc63b6091b3033b2a90608",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "O Dia da Antártica, celebrado em 1º de dezembro, é uma oportunidade para refletir sobre um dos lugares mais fascinantes e únicos do planeta. A data marca a assinatura do Tratado da Antártica, em 1959, que transformou esse continente gelado —quase 10% da superfície terrestre — em um espaço dedicado à paz e à ciência.",
+                "Image": {
+                    "Url": "/th?id=OHR.AntarcticArch_PT-BR0722727107_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AntarcticArch_PT-BR0722727107_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Beleza, ciência e responsabilidade",
+                "Title": "Arco natural esculpido em um iceberg, Antártida",
+                "Copyright": "© Gabrielle/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251201_AntarcticArch\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dia+da+Ant%c3%a1rtica&form=hpcapt&filters=HpDate:\"20251201_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251201_AntarcticArch"
+            },
+            "Ssd": "20251201",
+            "Name": "AntarcticArch",
+            "Market": "PT-BR",
+            "Hash": "0722727107",
+            "FullDateString": "1 dez. 2025"
+        }
+    },
+    {
         "startdate": "20251130",
         "fullstartdate": "202511300300",
         "enddate": "20251201",

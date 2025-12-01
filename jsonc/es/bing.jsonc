@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251201",
+        "fullstartdate": "202512012300",
+        "enddate": "20251202",
+        "url": "/th?id=OHR.BosqueCranes_ES-ES1308288145_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BosqueCranes_ES-ES1308288145",
+        "copyright": "Grullas canadienses, Refugio Nacional de Vida Silvestre Bosque del Apache, Nuevo México, EE. UU. (© Jack Dykinga/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Antigone+canadensis&form=hpcapt&filters=HpDate%3a%2220251201_2300%22",
+        "title": "Las modelos de la papiroflexia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251201_BosqueCranes%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "520898f523a074eeb9a2612e38f61dfd",
+        "hsh": "a8fe1c134f42bc9decff9bad0b54ce3d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Cada diciembre, al amanecer, un coro de llamadas resonantes llena los humedales del Refugio Nacional de Vida Silvestre Bosque del Apache, en el corazón de Nuevo México, Estados Unidos. Este santuario de más de 23 mil hectáreas se prepara para acoger uno de los espectáculos más emocionantes de la naturaleza: el regreso de las grullas canadienses tras su largo viaje estacional. Pronto, decenas de miles de gansos nivales y otras aves migratorias se unen al espectáculo, llenando el cielo de vida y movimiento.",
+                "Image": {
+                    "Url": "/th?id=OHR.BosqueCranes_ES-ES1308288145_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BosqueCranes_ES-ES1308288145_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Las modelos de la papiroflexia",
+                "Title": "Grullas canadienses, Refugio Nacional de Vida Silvestre Bosque del Apache, Nuevo México, EE. UU.",
+                "Copyright": "© Jack Dykinga/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251202_BosqueCranes\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Antigone+canadensis&form=hpcapt&filters=HpDate:\"20251201_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251202_BosqueCranes"
+            },
+            "Ssd": "20251202",
+            "Name": "BosqueCranes",
+            "Market": "ES-ES",
+            "Hash": "1308288145",
+            "FullDateString": "2 de dic. de 2025"
+        }
+    },
+    {
         "startdate": "20251130",
         "fullstartdate": "202511302300",
         "enddate": "20251201",
