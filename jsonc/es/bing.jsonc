@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251202",
+        "fullstartdate": "202512022300",
+        "enddate": "20251203",
+        "url": "/th?id=OHR.CastildetierraNavarra_ES-ES0561192005_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CastildetierraNavarra_ES-ES0561192005",
+        "copyright": "Pico Castildetierra cubierto de nieve en el Parque Natural de las Bardenas Reales, Valtierra, Navarra, España (© Martin Zalba/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Navarra&form=hpcapt&filters=HpDate%3a%2220251202_2300%22",
+        "title": "Unas tierras con historia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251202_CastildetierraNavarra%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9ef89bee5c2761aec6eaf8b2d7c8caca",
+        "hsh": "68c97d9c0e068a4fc2a428a23272dc75",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Cada 3 de diciembre, Navarra celebra su día grande: el Día de Navarra, una jornada que une tradición, cultura y orgullo por una tierra de contrastes. La fecha rinde homenaje a San Francisco Javier, patrón de la comunidad, cuya figura simboliza la entrega y la esperanza. Durante este día, pueblos y ciudades se llenan de música, danzas y actividades para todas las edades, desde ferias artesanales hasta conciertos y exposiciones que muestran la riqueza del patrimonio navarro.",
+                "Image": {
+                    "Url": "/th?id=OHR.CastildetierraNavarra_ES-ES0561192005_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CastildetierraNavarra_ES-ES0561192005_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Unas tierras con historia",
+                "Title": "Pico Castildetierra cubierto de nieve en el Parque Natural de las Bardenas Reales, Valtierra, Navarra, España",
+                "Copyright": "© Martin Zalba/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251203_CastildetierraNavarra\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Navarra&form=hpcapt&filters=HpDate:\"20251202_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251203_CastildetierraNavarra"
+            },
+            "Ssd": "20251203",
+            "Name": "CastildetierraNavarra",
+            "Market": "ES-ES",
+            "Hash": "0561192005",
+            "FullDateString": "3 de dic. de 2025"
+        }
+    },
+    {
         "startdate": "20251201",
         "fullstartdate": "202512012300",
         "enddate": "20251202",

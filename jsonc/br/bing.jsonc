@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251202",
+        "fullstartdate": "202512020300",
+        "enddate": "20251203",
+        "url": "/th?id=OHR.SambaDay_PT-BR0875547071_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SambaDay_PT-BR0875547071",
+        "copyright": "Carnaval no Rio de Janeiro, RJ (© Richard I'Anson/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+do+samba+no+Brasil&form=hpcapt&mkt=pt-br",
+        "title": "Ritmo e identidade brasileira",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251202_SambaDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8ea0a2da7d4a4b8da7555da5631b9311",
+        "hsh": "36ba261505d6bb79879026ce65a0e298",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "O Dia Nacional do Samba, comemorado hoje, é uma homenagem à riqueza cultural e histórica de um dos gêneros musicais mais emblemáticos do Brasil. Mais do que um estilo musical, ele é uma expressão viva da identidade brasileira. Originado nos terreiros e comunidades afro-brasileiras, ganhou força no início do século XX, especialmente nos morros e subúrbios do Rio de Janeiro. Foi lá que surgiram as primeiras escolas de samba — agremiações culturais que reúnem músicos, dançarinos, artesãos e foliões para celebrar o Carnaval, a maior festa popular do país.",
+                "Image": {
+                    "Url": "/th?id=OHR.SambaDay_PT-BR0875547071_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SambaDay_PT-BR0875547071_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ritmo e identidade brasileira",
+                "Title": "Carnaval no Rio de Janeiro, RJ",
+                "Copyright": "© Richard I'Anson/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251202_SambaDay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dia+do+samba+no+Brasil&form=hpcapt&filters=HpDate:\"20251202_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251202_SambaDay"
+            },
+            "Ssd": "20251202",
+            "Name": "SambaDay",
+            "Market": "PT-BR",
+            "Hash": "0875547071",
+            "FullDateString": "2 dez. 2025"
+        }
+    },
+    {
         "startdate": "20251201",
         "fullstartdate": "202512010300",
         "enddate": "20251202",

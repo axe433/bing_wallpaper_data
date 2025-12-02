@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251202",
+        "fullstartdate": "202512020500",
+        "enddate": "20251203",
+        "url": "/th?id=OHR.WhistlerVillage_EN-CA2405537581_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WhistlerVillage_EN-CA2405537581",
+        "copyright": "Whistler, British Columbia (© VisualCommunications/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Whistler+British+Columbia&form=hpcapt&filters=HpDate%3a%2220251202_0500%22",
+        "title": "Winter at Whistler",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251202_WhistlerVillage%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "06013faf6219defe016d00cb6ec5be0d",
+        "hsh": "992087b20da4c8554cec2676b2818ffd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "What's your winter personality: cosy wanderer or slope-chaser? Whistler, in British Columbia, lets you try both in the same day. This resort municipality sits about 125 kilometres north of Vancouver in the Coast Mountains, with two main ski peaks: Whistler and Blackcomb. These are linked by the PEAK 2 PEAK Gondola, famous for giving a suspended, panoramic valley view in just a few minutes of travel. The area gained fame when it co-hosted the 2010 Winter Olympics, and some of those venues are still open to the public today. The name 'Whistler' comes from the high-pitched call of the local hoary marmots that were once common around the slopes.",
+                "Image": {
+                    "Url": "/th?id=OHR.WhistlerVillage_EN-CA2405537581_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WhistlerVillage_EN-CA2405537581_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Winter at Whistler",
+                "Title": "Whistler, British Columbia",
+                "Copyright": "© VisualCommunications/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.12083,-122.9544/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=50.12083,-122.9544;S9;Whistler, British Columbia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Whistler%2C%20British%20Columbia%2C%20Canada&satid=id.sid%3A3a868b08-25ed-b4da-aa57-ba391ce47551&vdpid=4859438550577315841&mb=50.175385~-123.229843~50.025909~-122.78527&cardbg=%23F98745&tt=Whistler%2C%20British%20Columbia%2C%20Canada&tsts0=%2526ty%253D30%2526q%253DWhistler%25252C%252520British%252520Columbia%25252C%252520Canada%2526satid%253Did.sid%25253A3a868b08-25ed-b4da-aa57-ba391ce47551%2526vdpid%253D4859438550577315841%2526mb%253D50.175385~-123.229843~50.025909~-122.78527%2526cardbg%253D%252523F98745&tstt0=Whistler%2C%20British%20Columbia%2C%20Canada&cp=49.671277~-122.175949&lvl=5.8336277&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251202_WhistlerVillage\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Whistler+British+Columbia&form=hpcapt&filters=HpDate:\"20251202_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251202_WhistlerVillage"
+            },
+            "Ssd": "20251202",
+            "Name": "WhistlerVillage",
+            "Market": "EN-CA",
+            "Hash": "2405537581",
+            "FullDateString": "Dec. 2, 2025"
+        }
+    },
+    {
         "startdate": "20251201",
         "fullstartdate": "202512010500",
         "enddate": "20251202",
