@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251203",
+        "fullstartdate": "202512030800",
+        "enddate": "20251204",
+        "url": "/th?id=OHR.BosqueCranes_ROW6233736547_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BosqueCranes_ROW6233736547",
+        "copyright": "Sandhill cranes at sunrise, Bosque del Apache National Wildlife Refuge, New Mexico, United States (© Jack Dykinga/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=crane+bird&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251203_BosqueCranes%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "520898f523a074eeb9a2612e38f61dfd",
+        "hsh": "e39eff5cc5c736dc443cf856ff6cfd1b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Every December, as morning unfolds, a chorus of rattling calls fills the marshes of the Bosque del Apache National Wildlife Refuge. This 23,000-hectare sanctuary in central New Mexico, United States, prepares to stage one of nature's most stirring performances as sandhill cranes return from their seasonal journey. Soon, tens of thousands of snow geese and other migratory birds join the scene, filling the sky with movement and sound.",
+                "Image": {
+                    "Url": "/th?id=OHR.BosqueCranes_ROW6233736547_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BosqueCranes_ROW6233736547_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Sandhill cranes at sunrise, Bosque del Apache National Wildlife Refuge, New Mexico, United States",
+                "Copyright": "© Jack Dykinga/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251203_BosqueCranes\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=crane+bird&form=hpcapt&filters=HpDate:\"20251203_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251203_BosqueCranes"
+            },
+            "Ssd": "20251203",
+            "Name": "BosqueCranes",
+            "Market": "ROW",
+            "Hash": "6233736547",
+            "FullDateString": "3. dec. 2025"
+        }
+    },
+    {
         "startdate": "20251202",
         "fullstartdate": "202512020800",
         "enddate": "20251203",

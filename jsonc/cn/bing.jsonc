@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251203",
+        "fullstartdate": "202512031600",
+        "enddate": "20251204",
+        "url": "/th?id=OHR.CheetahMound_ZH-CN1970221812_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CheetahMound_ZH-CN1970221812",
+        "copyright": "马赛马拉国家保护区的猎豹, 纳罗克, 肯尼亚 (© Andy Rouse/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=%E7%8C%8E%E8%B1%B9&form=hpcapt&mkt=zh-cn",
+        "title": "为生存而疾驰",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251203_CheetahMound%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c49714524ab5d32e6c668cc55e3efbcb",
+        "hsh": "27df66ab3cdf254857cf9c7861c05044",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "在肯尼亚西南部的马赛马拉国家保护区，一只猎豹立于高高的白蚁丘上，凝视辽阔草原。它的身形流畅，疾驰时可达每小时70英里，堪称陆地速度之王。修长的四肢与柔韧的脊柱让它爆发出惊人的力量，尾巴则在追猎中稳住身形。今天是“国际猎豹日”，这个节日的到来再合适不过。如今，野外猎豹数量已不足7100只，它们是非洲最脆弱的大型猫科动物之一。",
+                "Image": {
+                    "Url": "/th?id=OHR.CheetahMound_ZH-CN1970221812_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CheetahMound_ZH-CN1970221812_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "为生存而疾驰",
+                "Title": "马赛马拉国家保护区的猎豹, 纳罗克, 肯尼亚",
+                "Copyright": "© Andy Rouse/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "目前，猎豹的分布范围仅剩下历史栖息地的约10%。虽然它们仍在多个地区出现，但数量极为稀少，且栖息地呈高度碎片化。非洲南部和东部是猎豹种群的重要据点。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251204_CheetahMound\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e7%8c%8e%e8%b1%b9&form=hpcapt&filters=HpDate:\"20251203_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251204_CheetahMound"
+            },
+            "Ssd": "20251204",
+            "Name": "CheetahMound",
+            "Market": "ZH-CN",
+            "Hash": "1970221812",
+            "FullDateString": "2025 12月 4"
+        }
+    },
+    {
         "startdate": "20251202",
         "fullstartdate": "202512021600",
         "enddate": "20251203",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251203",
+        "fullstartdate": "202512030300",
+        "enddate": "20251204",
+        "url": "/th?id=OHR.BosqueCranes_PT-BR1405246976_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BosqueCranes_PT-BR1405246976",
+        "copyright": "Grous-canadenses ao nascer do sol no Bosque del Apache National Wildlife Refuge, Novo México, EUA (© Jack Dykinga/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Grou-canadiano+ave&form=hpcapt&mkt=pt-br",
+        "title": "O amanhecer dos Grous",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251203_BosqueCranes%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "520898f523a074eeb9a2612e38f61dfd",
+        "hsh": "a7e22c53dd35cb9ccace73633e9b63a3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Todo mês de dezembro, à medida que a manhã se revela, um coro de chamados estridentes ecoa pelos pântanos do Bosque del Apache National Wildlife Refuge. Este santuário de aproximadamente 23 mil hectares, localizado no centro do Novo México, nos Estados Unidos, prepara-se para encenar uma das performances mais emocionantes da natureza: o retorno dos grous-canadenses após sua jornada sazonal, como podemos ver na imagem.",
+                "Image": {
+                    "Url": "/th?id=OHR.BosqueCranes_PT-BR1405246976_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BosqueCranes_PT-BR1405246976_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O amanhecer dos Grous",
+                "Title": "Grous-canadenses ao nascer do sol no Bosque del Apache National Wildlife Refuge, Novo México, EUA",
+                "Copyright": "© Jack Dykinga/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251203_BosqueCranes\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Grou-canadiano+ave&form=hpcapt&filters=HpDate:\"20251203_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251203_BosqueCranes"
+            },
+            "Ssd": "20251203",
+            "Name": "BosqueCranes",
+            "Market": "PT-BR",
+            "Hash": "1405246976",
+            "FullDateString": "3 dez. 2025"
+        }
+    },
+    {
         "startdate": "20251202",
         "fullstartdate": "202512020300",
         "enddate": "20251203",
