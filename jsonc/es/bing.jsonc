@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251204",
+        "fullstartdate": "202512042300",
+        "enddate": "20251205",
+        "url": "/th?id=OHR.CopanRuins_ES-ES1717432720_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CopanRuins_ES-ES1717432720",
+        "copyright": "Sitio arqueológico Maya de Copán, Honduras (© diegograndi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Cop%C3%A1n&form=hpcapt&filters=HpDate%3a%2220251204_2300%22",
+        "title": "Cartógrafos de estrellas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251204_CopanRuins%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "45b71785dd5894b9587b924325b01006",
+        "hsh": "7ac34ce1524d270000ae7c35dca576c5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En un tranquilo valle del oeste de Honduras se alzan las ruinas de Copán, una de las joyas de la antigua civilización maya. Su cielo servía como brújula y calendario, guiando templos, rituales y el ritmo de la vida. Hacia el año 426 d. C., K’inich Yax K’uk’ Mo’, un guerrero del corazón maya, fundó la ciudad y estableció una dinastía que convirtió a Copán en un centro de arte, astronomía y poder.",
+                "Image": {
+                    "Url": "/th?id=OHR.CopanRuins_ES-ES1717432720_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CopanRuins_ES-ES1717432720_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Cartógrafos de estrellas",
+                "Title": "Sitio arqueológico Maya de Copán, Honduras",
+                "Copyright": "© diegograndi/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251205_CopanRuins\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Cop%c3%a1n&form=hpcapt&filters=HpDate:\"20251204_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251205_CopanRuins"
+            },
+            "Ssd": "20251205",
+            "Name": "CopanRuins",
+            "Market": "ES-ES",
+            "Hash": "1717432720",
+            "FullDateString": "5 de dic. de 2025"
+        }
+    },
+    {
         "startdate": "20251203",
         "fullstartdate": "202512032300",
         "enddate": "20251204",

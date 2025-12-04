@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251204",
+        "fullstartdate": "202512040300",
+        "enddate": "20251205",
+        "url": "/th?id=OHR.CheetahMound_PT-BR1635774221_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CheetahMound_PT-BR1635774221",
+        "copyright": "Guepardo na Reserva Nacional Maasai Mara, Narok, Quênia (© Andy Rouse/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Guepardo+na+%C3%81frica&form=hpcapt&mkt=pt-br",
+        "title": "Corrida pela sobrevivência",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251204_CheetahMound%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c49714524ab5d32e6c668cc55e3efbcb",
+        "hsh": "bcc40edc2c1f508d139d5898d5ec3e07",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "No alto de uma planície na Reserva Nacional Maasai Mara — uma savana protegida no sudoeste do Quênia — um guepardo observa atentamente, capturado em toda sua imponência na imagem. Seu corpo esguio pode atingir uma velocidade superior a 100 quilômetros por hora, tornando-o o mamífero terrestre mais rápido do mundo. Pernas longas, coluna flexível e cauda forte garantem aceleração e equilíbrio durante perseguições em alta velocidade.",
+                "Image": {
+                    "Url": "/th?id=OHR.CheetahMound_PT-BR1635774221_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CheetahMound_PT-BR1635774221_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Corrida pela sobrevivência",
+                "Title": "Guepardo na Reserva Nacional Maasai Mara, Narok, Quênia",
+                "Copyright": "© Andy Rouse/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251204_CheetahMound\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Guepardo+na+%c3%81frica&form=hpcapt&filters=HpDate:\"20251204_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251204_CheetahMound"
+            },
+            "Ssd": "20251204",
+            "Name": "CheetahMound",
+            "Market": "PT-BR",
+            "Hash": "1635774221",
+            "FullDateString": "4 dez. 2025"
+        }
+    },
+    {
         "startdate": "20251203",
         "fullstartdate": "202512030300",
         "enddate": "20251204",
