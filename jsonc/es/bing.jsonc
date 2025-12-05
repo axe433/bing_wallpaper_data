@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251205",
+        "fullstartdate": "202512052300",
+        "enddate": "20251206",
+        "url": "/th?id=OHR.ConstitutionSpainDay_ES-ES1916135600_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ConstitutionSpainDay_ES-ES1916135600",
+        "copyright": "Palacio de las Cortes, Madrid, España (© marcp_dmoz on Flickr/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+de+la+Constitucion+Espa%C3%B1ola&form=hpcapt&filters=HpDate%3a%2220251205_2300%22",
+        "title": "Honrando mis derechos y libertades",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251205_ConstitutionSpainDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bbb86feebc55fc15e8ce4ca610c2fcf9",
+        "hsh": "7339debff0896a7e4f0c0d11668b3561",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Cada 6 de diciembre, España celebra el Día de la Constitución, una jornada que conmemora la aprobación en referéndum de la Constitución de 1978, la norma que marcó el inicio de la democracia moderna en el país. Ese día, los ciudadanos recuerdan los valores de libertad, justicia e igualdad que sustentan nuestra convivencia.",
+                "Image": {
+                    "Url": "/th?id=OHR.ConstitutionSpainDay_ES-ES1916135600_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ConstitutionSpainDay_ES-ES1916135600_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Honrando mis derechos y libertades",
+                "Title": "Palacio de las Cortes, Madrid, España",
+                "Copyright": "© marcp_dmoz on Flickr/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251206_ConstitutionSpainDay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dia+de+la+Constitucion+Espa%c3%b1ola&form=hpcapt&filters=HpDate:\"20251205_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251206_ConstitutionSpainDay"
+            },
+            "Ssd": "20251206",
+            "Name": "ConstitutionSpainDay",
+            "Market": "ES-ES",
+            "Hash": "1916135600",
+            "FullDateString": "6 de dic. de 2025"
+        }
+    },
+    {
         "startdate": "20251204",
         "fullstartdate": "202512042300",
         "enddate": "20251205",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251205",
+        "fullstartdate": "202512052300",
+        "enddate": "20251206",
+        "url": "/th?id=OHR.EvergladesSunrise_IT-IT0190194789_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EvergladesSunrise_IT-IT0190194789",
+        "copyright": "Parco Nazionale delle Everglades, Florida, USA (© Troy Harrison/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parco+nazionale+delle+Everglades&form=hpcapt",
+        "title": "Brina e Brughiere",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251205_EvergladesSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bbab182d2840a4c51b976b31a84996f5",
+        "hsh": "6a5840ee2fcabcf5861155e6e57eb782",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nel silenzio del mattino, le Everglades si svegliano sotto un velo di brina che sfiora le canne come un respiro. L’aria è fresca, quasi immobile, e le ragnatele tese tra i giunchi brillano come fili d’argento, catturando la luce in riflessi delicati. Questo paesaggio, all’estremità meridionale della Florida, negli USA, non è una palude qualunque né un fiume convenzionale: è un lento e ampio foglio d’acqua che scivola verso sud, attraversando praterie piatte e collegando foreste, paludi, mangrovie e zone costiere. Un mosaico di vita subtropicale pulsa in questo mondo sospeso: alligatori si muovono silenziosi tra le acque, mentre i lamantini si lasciano cullare dalla corrente, e il raro puma della Florida attraversa i corridoi ombrosi della vegetazione.",
+                "Image": {
+                    "Url": "/th?id=OHR.EvergladesSunrise_IT-IT0190194789_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EvergladesSunrise_IT-IT0190194789_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Brina e Brughiere",
+                "Title": "Parco Nazionale delle Everglades, Florida, USA",
+                "Copyright": "© Troy Harrison/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/25.779844,-80.971945/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=25.779844,-80.971945;S9;Parco Nazionale delle Everglades, Florida, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Everglades%20National%20Park%20Florida&satid=id.sid%3A6a88072f-a6fc-8ba5-c5eb-91c57f792c45&mb=25.319812~-80.702648~25.305206~-80.67235&cardbg=%23219AB6&dt=1760704200000&tt=Everglades%20National%20Park%2C%20Florida%2C%20United%20States&tsts0=%2526ty%253D18%2526q%253DEverglades%252520National%252520Park%252520Florida%2526satid%253Did.sid%25253A6a88072f-a6fc-8ba5-c5eb-91c57f792c45%2526mb%253D25.319812~-80.702648~25.305206~-80.67235%2526cardbg%253D%252523219AB6%2526dt%253D1760704200000&tstt0=Everglades%20National%20Park%2C%20Florida%2C%20United%20States&cp=23.285631~-90.544759&lvl=5.3712506&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251206_EvergladesSunrise\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parco+nazionale+delle+Everglades&form=hpcapt&filters=HpDate:\"20251205_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251206_EvergladesSunrise"
+            },
+            "Ssd": "20251206",
+            "Name": "EvergladesSunrise",
+            "Market": "IT-IT",
+            "Hash": "0190194789",
+            "FullDateString": "6 dicembre 2025"
+        }
+    },
+    {
         "startdate": "20251204",
         "fullstartdate": "202512042300",
         "enddate": "20251205",

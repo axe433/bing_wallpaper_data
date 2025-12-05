@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251205",
+        "fullstartdate": "202512050300",
+        "enddate": "20251206",
+        "url": "/th?id=OHR.CopanRuins_PT-BR9370514600_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CopanRuins_PT-BR9370514600",
+        "copyright": "Sítio Maia de Copán, Honduras (© diegograndi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=civiliza%C3%A7%C3%A3o+maia%2c+cop%C3%A1n&form=hpcapt&mkt=pt-br",
+        "title": "Saberes que resistiram ao tempo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251205_CopanRuins%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "45b71785dd5894b9587b924325b01006",
+        "hsh": "f5b0d10569a07c447ba8324c0700dc5e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Em um vale tranquilo no oeste de Honduras estão as ruínas de Copán, uma antiga cidade construída pela civilização maia, que ilustra nossa imagem do dia. Esse povo também viveu em muitas outras regiões que hoje fazem parte do México, Guatemala, Belize e El Salvador. Eles criaram sistemas avançados de escrita, arquitetura, matemática e observação dos astros. O céu era como um grande mapa: servia de bússola e calendário, orientando festas, construções e o ritmo da vida.",
+                "Image": {
+                    "Url": "/th?id=OHR.CopanRuins_PT-BR9370514600_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CopanRuins_PT-BR9370514600_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Saberes que resistiram ao tempo",
+                "Title": "Sítio Maia de Copán, Honduras",
+                "Copyright": "© diegograndi/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251205_CopanRuins\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=civiliza%c3%a7%c3%a3o+maia%2c+cop%c3%a1n&form=hpcapt&filters=HpDate:\"20251205_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251205_CopanRuins"
+            },
+            "Ssd": "20251205",
+            "Name": "CopanRuins",
+            "Market": "PT-BR",
+            "Hash": "9370514600",
+            "FullDateString": "5 dez. 2025"
+        }
+    },
+    {
         "startdate": "20251204",
         "fullstartdate": "202512040300",
         "enddate": "20251205",

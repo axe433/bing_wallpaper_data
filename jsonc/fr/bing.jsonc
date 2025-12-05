@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251205",
+        "fullstartdate": "202512052300",
+        "enddate": "20251206",
+        "url": "/th?id=OHR.StrasbourgNicolas_FR-FR8648061434_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.StrasbourgNicolas_FR-FR8648061434",
+        "copyright": "Marché deNoël dans le quartier historique de la Petite France, Strasbourg, Alsace (© Alpineguide/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Saint+Nicolas+No%C3%ABl+Strasbourg&form=hpcapt&filters=HpDate%3a%2220251205_2300%22",
+        "title": "Quand la tradition éclaire la nuit",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251205_StrasbourgNicolas%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6766b761f6a0e343f1db017c00881357",
+        "hsh": "8cf18716ac23d4ce31cf3b14aaf23e49",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sous les colombages de la Petite France, Strasbourg s’éveille dans un halo doré. Les façades penchées, ornées de guirlandes, racontent une histoire vieille de cinq siècles : celle des Christkindelsmärik, les marchés de Noël nés ici au XVIᵉ siècle, à l’époque où l’on célébrait surtout la Saint Nicolas, protecteur des enfants et des voyageurs.",
+                "Image": {
+                    "Url": "/th?id=OHR.StrasbourgNicolas_FR-FR8648061434_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.StrasbourgNicolas_FR-FR8648061434_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Quand la tradition éclaire la nuit",
+                "Title": "Marché deNoël dans le quartier historique de la Petite France, Strasbourg, Alsace",
+                "Copyright": "© Alpineguide/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.581141,7.740508/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=48.581141,7.740508;S9;Petite France, Strasbourg&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=HDRSC6&style=r&q=petite+france+strasbourg&srs=sb&cp=48.580830%7E7.740560&lvl=16&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251206_StrasbourgNicolas\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Saint+Nicolas+No%c3%abl+Strasbourg&form=hpcapt&filters=HpDate:\"20251205_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251206_StrasbourgNicolas"
+            },
+            "Ssd": "20251206",
+            "Name": "StrasbourgNicolas",
+            "Market": "FR-FR",
+            "Hash": "8648061434",
+            "FullDateString": "6 déc. 2025"
+        }
+    },
+    {
         "startdate": "20251204",
         "fullstartdate": "202512042300",
         "enddate": "20251205",
