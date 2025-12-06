@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251206",
+        "fullstartdate": "202512061500",
+        "enddate": "20251207",
+        "url": "/th?id=OHR.Daxue2025_JA-JP6833558565_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Daxue2025_JA-JP6833558565",
+        "copyright": "白馬三山の雪景色 (© Thirawatana Phaisalratana/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E7%99%BD%E9%A6%AC%E4%B8%89%E5%B1%B1%E3%81%AE%E9%9B%AA%E6%99%AF%E8%89%B2&form=hpcapt&filters=HpDate%3a%2220251206_1500%22",
+        "title": "今日 は「大雪」",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251206_Daxue2025%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "dac323dd9cbb0aece7b8e30c24ee757b",
+        "hsh": "512ae4ffce28606d6fd561bda49959f2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 12 月 7 日は二十四節気の「大雪」。文字通り雪が多く降り始める時期とされ、沖縄を除くほぼ全国で降雪が観測されるようになります。各地で冬支度が進み、特に豪雪地帯では、雪吊りや雪灯篭など、地域ならではの冬の風習や行事が行われます…",
+                "Image": {
+                    "Url": "/th?id=OHR.Daxue2025_JA-JP6833558565_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Daxue2025_JA-JP6833558565_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日 は「大雪」",
+                "Title": "白馬三山の雪景色",
+                "Copyright": "© Thirawatana Phaisalratana/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "白馬岳には高山植物の固有種や希少種が多く分布しており、植物群落の規模も大きいため、特別天然記念物「白馬連山高山植物帯」に指定されています。",
+                    "LinkUrl": "/search?q=%e7%99%bd%e9%a6%ac%e5%b2%b3+%e4%b8%bb%e3%81%aa%e9%ab%98%e5%b1%b1%e6%a4%8d%e7%89%a9&form=hpvsfa",
+                    "LinkText": "白馬岳に自生する主な高山植物は？"
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251207_Daxue2025\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e7%99%bd%e9%a6%ac%e4%b8%89%e5%b1%b1%e3%81%ae%e9%9b%aa%e6%99%af%e8%89%b2&form=hpcapt&filters=HpDate:\"20251206_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251207_Daxue2025"
+            },
+            "Ssd": "20251207",
+            "Name": "Daxue2025",
+            "Market": "JA-JP",
+            "Hash": "6833558565",
+            "FullDateString": "2025 年 12月 月 7 日"
+        }
+    },
+    {
         "startdate": "20251205",
         "fullstartdate": "202512051500",
         "enddate": "20251206",

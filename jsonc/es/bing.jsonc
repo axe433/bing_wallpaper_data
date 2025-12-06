@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251206",
+        "fullstartdate": "202512062300",
+        "enddate": "20251207",
+        "url": "/th?id=OHR.MistyPineForest_ES-ES2000019678_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MistyPineForest_ES-ES2000019678",
+        "copyright": "Bosque de pinos en Alsacia, Francia (© alekseystemmer/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Alsacia&form=hpcapt&filters=HpDate%3a%2220251206_2300%22",
+        "title": "Misterios entre el musgo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251206_MistyPineForest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0591d84cf63c971c5cc0aa45c1843be6",
+        "hsh": "2ed369e4294e4102de19b86f9fc522d8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En diciembre, los bosques de Alsacia, en la región francesa del Gran Este, se envuelven en un suave velo de niebla, como si la naturaleza contuviera el aliento antes del invierno. Entre pinos silvestres y abetos plateados, el suelo cubierto de musgo amortigua cada paso, y el silencio parece casi sagrado. Estos bosques, que cubren cerca del 40 % del territorio alsaciano, albergan una rica biodiversidad: corzos, jabalíes, pájaros carpinteros negros e incluso el esquivo lince, que ha regresado tras décadas de ausencia.",
+                "Image": {
+                    "Url": "/th?id=OHR.MistyPineForest_ES-ES2000019678_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MistyPineForest_ES-ES2000019678_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Misterios entre el musgo",
+                "Title": "Bosque de pinos en Alsacia, Francia",
+                "Copyright": "© alekseystemmer/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251207_MistyPineForest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Alsacia&form=hpcapt&filters=HpDate:\"20251206_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251207_MistyPineForest"
+            },
+            "Ssd": "20251207",
+            "Name": "MistyPineForest",
+            "Market": "ES-ES",
+            "Hash": "2000019678",
+            "FullDateString": "7 de dic. de 2025"
+        }
+    },
+    {
         "startdate": "20251205",
         "fullstartdate": "202512052300",
         "enddate": "20251206",

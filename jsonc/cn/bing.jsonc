@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251206",
+        "fullstartdate": "202512061600",
+        "enddate": "20251207",
+        "url": "/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230",
+        "copyright": "雪中的故宫，中国北京 (© Ian.CuiYi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E9%9B%AA%E8%8A%82%E6%B0%94&form=hpcapt&mkt=zh-cn",
+        "title": "雪落下的声音",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251206_TheGreatSnowY25%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "64aba7ee091f87063360e219ef3be3ee",
+        "hsh": "ea1e1873a845af0499cb6d66b8e295dc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今天是中国传统二十四节气中的大雪节气。大雪的到来预示着气温将逐渐降低，冬季降水量也将增加。大雪期间，中国大部分地区已进入严冬，北方部分地区的气温甚至会降至零度以下。北方大地呈现出“万里冰封”的壮丽景象，而南方则展现出“雪花飘舞，万物银装素裹”的迷人景色。",
+                "Image": {
+                    "Url": "/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "雪落下的声音",
+                "Title": "雪中的故宫，中国北京",
+                "Copyright": "© Ian.CuiYi/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "紫禁城是世界上规模最大、保存最完好的古代木构建筑群之一。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251207_TheGreatSnowY25\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%a4%a7%e9%9b%aa%e8%8a%82%e6%b0%94&form=hpcapt&filters=HpDate:\"20251206_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251207_TheGreatSnowY25"
+            },
+            "Ssd": "20251207",
+            "Name": "TheGreatSnowY25",
+            "Market": "ZH-CN",
+            "Hash": "2448918230",
+            "FullDateString": "2025 12月 7"
+        }
+    },
+    {
         "startdate": "20251205",
         "fullstartdate": "202512051600",
         "enddate": "20251206",

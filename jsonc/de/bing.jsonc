@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251206",
+        "fullstartdate": "202512062300",
+        "enddate": "20251207",
+        "url": "/th?id=OHR.MistyPineForest_DE-DE5663948524_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MistyPineForest_DE-DE5663948524",
+        "copyright": "Ein Kiefernwald im Elsass, Frankreich (© alekseystemmer/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Elsass&form=hpcapt&filters=HpDate%3a%2220251206_2300%22",
+        "title": "Mystik zwischen Kiefern",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251206_MistyPineForest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0591d84cf63c971c5cc0aa45c1843be6",
+        "hsh": "872bd0babbd6a081fe3e25b0776fd765",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Wenn sich im Dezember Nebel über die Wälder des Elsass legt, scheint die Zeit stillzustehen. In der französischen Region Grand Est, nahe der deutschen Grenze, verwandelt sich die Landschaft dann in eine geheimnisvolle Kulisse. Fast 40 % des Elsass sind bewaldet und bieten Rehen, Wildschweinen und mit etwas Glück sogar Luchsen einen Rückzugsort. Zwischen Kiefern und Tannen dämpft der moosbedeckte Boden jeden Schritt und eine beinahe ehrfürchtige Stille legt sich über die Wälder.",
+                "Image": {
+                    "Url": "/th?id=OHR.MistyPineForest_DE-DE5663948524_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MistyPineForest_DE-DE5663948524_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Mystik zwischen Kiefern",
+                "Title": "Ein Kiefernwald im Elsass, Frankreich",
+                "Copyright": "© alekseystemmer/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Zwischen 1870 und 1945 wechselte das Elsass viermal die Staatszugehörigkeit – abwechselnd unter französischer und deutscher Herrschaft. Das erklärt die einzigartige Mischung aus Kulturen und Sprachen.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251207_MistyPineForest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Elsass&form=hpcapt&filters=HpDate:\"20251206_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251207_MistyPineForest"
+            },
+            "Ssd": "20251207",
+            "Name": "MistyPineForest",
+            "Market": "DE-DE",
+            "Hash": "5663948524",
+            "FullDateString": "7. Dez.. 2025"
+        }
+    },
+    {
         "startdate": "20251205",
         "fullstartdate": "202512052300",
         "enddate": "20251206",

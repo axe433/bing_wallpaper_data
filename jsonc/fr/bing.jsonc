@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251206",
+        "fullstartdate": "202512062300",
+        "enddate": "20251207",
+        "url": "/th?id=OHR.MistyPineForest_FR-FR8797751398_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MistyPineForest_FR-FR8797751398",
+        "copyright": "Forêt de pins, Alsace, Grand Est (© alekseystemmer/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Alsace&form=hpcapt&filters=HpDate%3a%2220251206_2300%22",
+        "title": "Une forêt qui sent le sapin !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251206_MistyPineForest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0591d84cf63c971c5cc0aa45c1843be6",
+        "hsh": "a87e484a4deb661fa44da3362bcec447",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En décembre, les forêts alsaciennes se drapent de brouillard, comme si la nature retenait son souffle avant l’hiver. Entre pins sylvestres et sapins blancs, le sol couvert de mousse absorbe chaque pas, et le silence devient presque sacré. Ces bois, qui couvrent près de 40 % du territoire, abritent chevreuils, pics noirs et parfois le discret lynx, revenu après des décennies d’absence.",
+                "Image": {
+                    "Url": "/th?id=OHR.MistyPineForest_FR-FR8797751398_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MistyPineForest_FR-FR8797751398_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Une forêt qui sent le sapin !",
+                "Title": "Forêt de pins, Alsace, Grand Est",
+                "Copyright": "© alekseystemmer/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "L’Alsace a changé de nationalité quatre fois entre 1870 et 1945, alternant entre la domination française et allemande, ce qui explique son mélange unique de cultures et de langues.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251207_MistyPineForest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Alsace&form=hpcapt&filters=HpDate:\"20251206_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251207_MistyPineForest"
+            },
+            "Ssd": "20251207",
+            "Name": "MistyPineForest",
+            "Market": "FR-FR",
+            "Hash": "8797751398",
+            "FullDateString": "7 déc. 2025"
+        }
+    },
+    {
         "startdate": "20251205",
         "fullstartdate": "202512052300",
         "enddate": "20251206",

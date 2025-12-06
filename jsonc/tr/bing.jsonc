@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251206",
+        "fullstartdate": "202512060800",
+        "enddate": "20251207",
+        "url": "/th?id=OHR.EvergladesSunrise_ROW6583902193_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EvergladesSunrise_ROW6583902193",
+        "copyright": "Spider webs in Everglades National Park, Florida, United Sates (© Troy Harrison/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Everglades+National+Park&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251206_EvergladesSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bbab182d2840a4c51b976b31a84996f5",
+        "hsh": "9af49b3ff8d0f5fe178ba44f3877b196",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "On Florida's southern tip lies one of the United States' most unusual landscapes. The Everglades is not a typical swamp or river. It is a slow, shallow sheet of water that drifts south across flat grasslands toward Florida Bay, linking forests, marshes, mangroves and coastal prairies. This subtropical wilderness supports hundreds of species, including alligators, manatees and the endangered Florida panther. On December 6, 1947, the United States established the Everglades National Park, protecting over 600,000 hectares and shifting conservation toward preserving entire ecosystems rather than isolated landmarks.",
+                "Image": {
+                    "Url": "/th?id=OHR.EvergladesSunrise_ROW6583902193_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EvergladesSunrise_ROW6583902193_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Spider webs in Everglades National Park, Florida, United Sates",
+                "Copyright": "© Troy Harrison/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251206_EvergladesSunrise\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Everglades+National+Park&form=hpcapt&filters=HpDate:\"20251206_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251206_EvergladesSunrise"
+            },
+            "Ssd": "20251206",
+            "Name": "EvergladesSunrise",
+            "Market": "ROW",
+            "Hash": "6583902193",
+            "FullDateString": "6 Ara, 2025"
+        }
+    },
+    {
         "startdate": "20251205",
         "fullstartdate": "202512050800",
         "enddate": "20251206",
