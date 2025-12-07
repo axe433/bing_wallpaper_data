@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251207",
+        "fullstartdate": "202512070500",
+        "enddate": "20251208",
+        "url": "/th?id=OHR.MistyPineForest_EN-CA3344515413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MistyPineForest_EN-CA3344515413",
+        "copyright": "A pine forest in Alsace, France (© alekseystemmer/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Alsace&form=hpcapt&filters=HpDate%3a%2220251207_0500%22",
+        "title": "Mist-ery in the pines",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251207_MistyPineForest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0591d84cf63c971c5cc0aa45c1843be6",
+        "hsh": "741fc01750106ff8fb85aace0a17e352",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "In December, the forests of Alsace, in France's Grand Est region, wrap themselves in a veil of fog, as if nature were holding its breath before winter. Amid Scots pines and silver firs, the moss-covered ground muffles every step and the silence feels almost sacred. These woodlands, which cover nearly 40% of Alsace, shelter a rich biodiversity: roe deer, wild boar, black woodpeckers and sometimes the elusive lynx, which has returned after decades of absence.",
+                "Image": {
+                    "Url": "/th?id=OHR.MistyPineForest_EN-CA3344515413_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MistyPineForest_EN-CA3344515413_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Mist-ery in the pines",
+                "Title": "A pine forest in Alsace, France",
+                "Copyright": "© alekseystemmer/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Alsace changed nationality four times between 1870 and 1945, alternating between French and German rule, which explains its unique blend of cultures and languages.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251207_MistyPineForest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Alsace&form=hpcapt&filters=HpDate:\"20251207_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251207_MistyPineForest"
+            },
+            "Ssd": "20251207",
+            "Name": "MistyPineForest",
+            "Market": "EN-CA",
+            "Hash": "3344515413",
+            "FullDateString": "Dec. 7, 2025"
+        }
+    },
+    {
         "startdate": "20251206",
         "fullstartdate": "202512060500",
         "enddate": "20251207",

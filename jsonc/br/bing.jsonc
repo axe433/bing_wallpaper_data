@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251207",
+        "fullstartdate": "202512070300",
+        "enddate": "20251208",
+        "url": "/th?id=OHR.MistyPineForest_PT-BR1153518162_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MistyPineForest_PT-BR1153518162",
+        "copyright": "Floresta de pinheiros na Alsácia, França (© alekseystemmer/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Als%C3%A1cia&form=hpcapt&mkt=pt-br",
+        "title": "Mistério na floresta",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251207_MistyPineForest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0591d84cf63c971c5cc0aa45c1843be6",
+        "hsh": "35abcebca905dcbfa50508367a2b5db3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Em dezembro, as florestas da Alsácia, na França, envolvem-se num véu de neblina, como vemos na imagem. Entre pinheiros silvestres, o chão coberto de musgo abafa cada passo, e o silêncio parece quase sagrado. Essas florestas, que cobrem cerca de 40% da região, abrigam uma rica biodiversidade: javalis, pica-paus-pretos e, às vezes, o lince.",
+                "Image": {
+                    "Url": "/th?id=OHR.MistyPineForest_PT-BR1153518162_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MistyPineForest_PT-BR1153518162_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Mistério na floresta",
+                "Title": "Floresta de pinheiros na Alsácia, França",
+                "Copyright": "© alekseystemmer/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251207_MistyPineForest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Als%c3%a1cia&form=hpcapt&filters=HpDate:\"20251207_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251207_MistyPineForest"
+            },
+            "Ssd": "20251207",
+            "Name": "MistyPineForest",
+            "Market": "PT-BR",
+            "Hash": "1153518162",
+            "FullDateString": "7 dez. 2025"
+        }
+    },
+    {
         "startdate": "20251206",
         "fullstartdate": "202512060300",
         "enddate": "20251207",
