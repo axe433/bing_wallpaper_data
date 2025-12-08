@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251208",
+        "fullstartdate": "202512082300",
+        "enddate": "20251209",
+        "url": "/th?id=OHR.LlamaDay_DE-DE8597548065_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LlamaDay_DE-DE8597548065",
+        "copyright": "Guanako, Punta Norte, Halbinsel Valdés, Argentinien (© Sylvain Cordier/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Guanako&form=hpcapt&filters=HpDate%3a%2220251208_2300%22",
+        "title": "Im Blick des Guanako",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251208_LlamaDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a236c3a6a9d12717541cf0d0ddc92366",
+        "hsh": "4da6e8a9a4a95f79ab1931973a50a9d2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Heute bewundern wir das Bild eines Guanakos in Punta Norte auf der Halbinsel Valdés, wo die patagonische Steppe auf den Atlantik trifft. Dieses Tier, ein wilder Verwandter des Lamas, gehört zu den charakteristischsten Symbolen der Region. Sein dichtes Fell schützt es vor extremen Temperaturen und seine Beweglichkeit macht es zu einem außergewöhnlichen Läufer. Außerdem verfügt es über einen hervorragenden Sehsinn, mit dem es Gefahren schon aus großer Entfernung erkennt – ein entscheidender Vorteil in den weiten offenen Landschaften, die es unermüdlich durchstreift.",
+                "Image": {
+                    "Url": "/th?id=OHR.LlamaDay_DE-DE8597548065_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LlamaDay_DE-DE8597548065_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Im Blick des Guanako",
+                "Title": "Guanako, Punta Norte, Halbinsel Valdés, Argentinien",
+                "Copyright": "© Sylvain Cordier/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-42.5,-63.93333/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=-42.5,-63.93333;S9;Punta Norte, Halbinsel Valdés, Argentinien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Valdes%20Peninsula%2C%20Departamento%20Biedma%2C%20Argentina&satid=id.sid%3Aed4d3bcf-e751-d1f5-7efd-95c2cd0f02aa&vdpid=6796466666474569729&mb=-42.096718~-64.822701~-42.901649~-63.042838&cardbg=%23F98745&dt=1762858800000&tt=Valdes%20Peninsula%2C%20Chubut%20Province%2C%20Argentina&tsts0=%2526ty%253D30%2526q%253DValdes%252520Peninsula%25252C%252520Departamento%252520Biedma%25252C%252520Argentina%2526satid%253Did.sid%25253Aed4d3bcf-e751-d1f5-7efd-95c2cd0f02aa%2526vdpid%253D6796466666474569729%2526mb%253D-42.096718~-64.822701~-42.901649~-63.042838%2526cardbg%253D%252523F98745%2526dt%253D1762858800000&tstt0=Valdes%20Peninsula%2C%20Chubut%20Province%2C%20Argentina&cp=-40.783151~-80.034104&lvl=4.26&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251209_LlamaDay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Guanako&form=hpcapt&filters=HpDate:\"20251208_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251209_LlamaDay"
+            },
+            "Ssd": "20251209",
+            "Name": "LlamaDay",
+            "Market": "DE-DE",
+            "Hash": "8597548065",
+            "FullDateString": "9. Dez.. 2025"
+        }
+    },
+    {
         "startdate": "20251207",
         "fullstartdate": "202512072300",
         "enddate": "20251208",
