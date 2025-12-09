@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251209",
+        "fullstartdate": "202512090800",
+        "enddate": "20251210",
+        "url": "/th?id=OHR.LlamaDay_EN-US5971354659_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LlamaDay_EN-US5971354659",
+        "copyright": "Guanaco in Punta Norte, Argentina (© Sylvain Cordier/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=National+Llama+Day&form=hpcapt&filters=HpDate%3a%2220251209_0800%22",
+        "title": "Say 'cheese'… or grass",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251209_LlamaDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a236c3a6a9d12717541cf0d0ddc92366",
+        "hsh": "055601a1cd80efaca63c67325e5c4cf1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "If llamas are the laid-back stars of the Andes, their cousins, the guanacos, are the free spirits of Patagonia. And what better day to give them the spotlight than National Llama Day? Guanacos are part of the same camelid family as llamas, alpacas, and vicuñas. But unlike their domesticated relatives, they keep things wild. Found mainly in Argentina, Chile, Peru, and Bolivia, they're built for life at high altitude. Their thick coats help them handle chilly winds, while their padded feet give them the grip to trek across rocky terrain that would make even mountain goats nervous.",
+                "Image": {
+                    "Url": "/th?id=OHR.LlamaDay_EN-US5971354659_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LlamaDay_EN-US5971354659_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Say 'cheese'… or grass",
+                "Title": "Guanaco in Punta Norte, Argentina",
+                "Copyright": "© Sylvain Cordier/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-42.096718,-64.822701/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=-42.096718,-64.822701;S9;Valdes Peninsula&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Valdes%20Peninsula%2C%20Departamento%20Biedma%2C%20Argentina&satid=id.sid%3Aed4d3bcf-e751-d1f5-7efd-95c2cd0f02aa&vdpid=6796466666474569729&mb=-42.096718~-64.822701~-42.901649~-63.042838&cardbg=%23F98745&dt=1762858800000&tt=Valdes%20Peninsula%2C%20Chubut%20Province%2C%20Argentina&tsts0=%2526ty%253D30%2526q%253DValdes%252520Peninsula%25252C%252520Departamento%252520Biedma%25252C%252520Argentina%2526satid%253Did.sid%25253Aed4d3bcf-e751-d1f5-7efd-95c2cd0f02aa%2526vdpid%253D6796466666474569729%2526mb%253D-42.096718~-64.822701~-42.901649~-63.042838%2526cardbg%253D%252523F98745%2526dt%253D1762858800000&tstt0=Valdes%20Peninsula%2C%20Chubut%20Province%2C%20Argentina&cp=-40.783151~-80.034104&lvl=4.26&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251209_LlamaDay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=National+Llama+Day&form=hpcapt&filters=HpDate:\"20251209_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251209_LlamaDay"
+            },
+            "Ssd": "20251209",
+            "Name": "LlamaDay",
+            "Market": "EN-US",
+            "Hash": "5971354659",
+            "FullDateString": "Dec 9, 2025"
+        }
+    },
+    {
         "startdate": "20251208",
         "fullstartdate": "202512080800",
         "enddate": "20251209",

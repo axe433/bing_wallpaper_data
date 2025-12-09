@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251209",
+        "fullstartdate": "202512090300",
+        "enddate": "20251210",
+        "url": "/th?id=OHR.LlamaDay_PT-BR1735380490_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LlamaDay_PT-BR1735380490",
+        "copyright": "Guanaco na Punta Norte, Peninsula Valdés, Argentina (© Sylvain Cordier/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Guanaco+animal&form=hpcapt&mkt=pt-br",
+        "title": "O espírito livre da Patagônia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251209_LlamaDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a236c3a6a9d12717541cf0d0ddc92366",
+        "hsh": "453879a1a2bb15ec306d90fe9de21420",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Se as lhamas são as estrelas tranquilas dos Andes, seus primos, os guanacos, são os espíritos livres da Patagônia. O que vemos na imagem é justamente um guanaco —que habita as regiões áridas e montanhosas da América do Sul, especialmente na Argentina, Chile, Peru e Bolívia. Adaptado à vida em grandes altitudes, ele possui pelagem espessa que o protege dos ventos frios e pés almofadados que garantem firmeza em terrenos rochosos, desafiadores até para cabras montesas.",
+                "Image": {
+                    "Url": "/th?id=OHR.LlamaDay_PT-BR1735380490_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LlamaDay_PT-BR1735380490_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O espírito livre da Patagônia",
+                "Title": "Guanaco na Punta Norte, Peninsula Valdés, Argentina",
+                "Copyright": "© Sylvain Cordier/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251209_LlamaDay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Guanaco+animal&form=hpcapt&filters=HpDate:\"20251209_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251209_LlamaDay"
+            },
+            "Ssd": "20251209",
+            "Name": "LlamaDay",
+            "Market": "PT-BR",
+            "Hash": "1735380490",
+            "FullDateString": "9 dez. 2025"
+        }
+    },
+    {
         "startdate": "20251208",
         "fullstartdate": "202512080300",
         "enddate": "20251209",

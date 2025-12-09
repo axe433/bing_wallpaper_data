@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251209",
+        "fullstartdate": "202512092300",
+        "enddate": "20251210",
+        "url": "/th?id=OHR.CordobaCathedral_ES-ES0926965367_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CordobaCathedral_ES-ES0926965367",
+        "copyright": "Interior de la Mezquita-Catedral de Córdoba, Andalucía, España (© Elena Zolotova/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=C%C3%B3rdoba&form=hpcapt&filters=HpDate%3a%2220251209_2300%22",
+        "title": "Donde convergen las culturas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251209_CordobaCathedral%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "05f0ac081d350766271e8ef721a5be5a",
+        "hsh": "d0d6e1158bfee23e6b976ae2e679f5d7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La Mezquita-Catedral de Córdoba es una de las grandes maravillas de España y un símbolo de la historia y la cultura andaluza. Su origen se remonta a una iglesia visigoda que, en el año 784, fue transformada por Abd al-Rahman I, fundador del Emirato Omeya de Córdoba, en una espléndida mezquita. Su impresionante sala hipóstila, con más de 850 columnas y arcos rojos y blancos, crea un bosque de piedra que asombra a quienes la visitan.",
+                "Image": {
+                    "Url": "/th?id=OHR.CordobaCathedral_ES-ES0926965367_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CordobaCathedral_ES-ES0926965367_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Donde convergen las culturas",
+                "Title": "Interior de la Mezquita-Catedral de Córdoba, Andalucía, España",
+                "Copyright": "© Elena Zolotova/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251210_CordobaCathedral\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=C%c3%b3rdoba&form=hpcapt&filters=HpDate:\"20251209_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251210_CordobaCathedral"
+            },
+            "Ssd": "20251210",
+            "Name": "CordobaCathedral",
+            "Market": "ES-ES",
+            "Hash": "0926965367",
+            "FullDateString": "10 de dic. de 2025"
+        }
+    },
+    {
         "startdate": "20251208",
         "fullstartdate": "202512082300",
         "enddate": "20251209",

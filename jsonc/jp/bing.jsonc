@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251209",
+        "fullstartdate": "202512091500",
+        "enddate": "20251210",
+        "url": "/th?id=OHR.CordobaCathedral_JA-JP3405653486_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CordobaCathedral_JA-JP3405653486",
+        "copyright": "メスキータ, スペイン アンダルシア州 (© Elena Zolotova/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%A1%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%BF&form=hpcapt&filters=HpDate%3a%2220251209_1500%22",
+        "title": "イスラムとキリスト教が交差する奇跡の空間",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251209_CordobaCathedral%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "05f0ac081d350766271e8ef721a5be5a",
+        "hsh": "89047e64d90c7e081046e9f3695e5446",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日の画像はメスキータ。スペイン・アンダルシア州コルドバにあるキリスト教の大聖堂で、ユネスコの世界遺産にも登録されている宗教建築の傑作です。メスキータの特徴は、「円柱の森」と呼ばれる壮大な空間です。約 850 本の円柱が支える紅白のアーチが続く「円柱の森」は、幻想的な空間を生み出しています…",
+                "Image": {
+                    "Url": "/th?id=OHR.CordobaCathedral_JA-JP3405653486_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CordobaCathedral_JA-JP3405653486_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "イスラムとキリスト教が交差する奇跡の空間",
+                "Title": "メスキータ, スペイン アンダルシア州",
+                "Copyright": "© Elena Zolotova/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.031304,-4.721843/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=39.031304,-4.721843;S9;メスキータ, スペイン&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Mosque-Cathedral%20of%20Cordoba&ss=ypid.YN6306x521600288&mb=37.884567~-4.792206~37.873405~-4.766457&description=Cardenal%20Herrero%20st.%201%2C%2014003%2C%20Cordoba%20%28Cordoba%29%C2%B7Iglesia%2FCatedral&cardbg=%2388979C&dt=1760617800000&tt=Mosque%E2%80%93Cathedral%20of%20Cordoba&tsts0=%2526ty%253D18%2526q%253DMosque-Cathedral%252520of%252520Cordoba%2526ss%253Dypid.YN6306x521600288%2526mb%253D37.884567~-4.792206~37.873405~-4.766457%2526description%253DCardenal%252520Herrero%252520st.%2525201%25252C%25252014003%25252C%252520Cordoba%252520%252528Cordoba%252529%2525C2%2525B7Iglesia%25252FCatedral%2526cardbg%253D%25252388979C%2526dt%253D1760617800000&tstt0=Mosque%E2%80%93Cathedral%20of%20Cordoba&cp=31.557679~-17.322803&lvl=4.095082&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251210_CordobaCathedral\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%a1%e3%82%b9%e3%82%ad%e3%83%bc%e3%82%bf&form=hpcapt&filters=HpDate:\"20251209_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251210_CordobaCathedral"
+            },
+            "Ssd": "20251210",
+            "Name": "CordobaCathedral",
+            "Market": "JA-JP",
+            "Hash": "3405653486",
+            "FullDateString": "2025 年 12月 月 10 日"
+        }
+    },
+    {
         "startdate": "20251208",
         "fullstartdate": "202512081500",
         "enddate": "20251209",

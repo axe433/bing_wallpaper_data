@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251209",
+        "fullstartdate": "202512091830",
+        "enddate": "20251210",
+        "url": "/th?id=OHR.CordobaCathedral_EN-IN2305166633_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CordobaCathedral_EN-IN2305166633",
+        "copyright": "Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mosque+Cathedral+of+Cordoba&form=hpcapt&filters=HpDate%3a%2220251209_1830%22",
+        "title": "Where cultures converge",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251209_CordobaCathedral%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "05f0ac081d350766271e8ef721a5be5a",
+        "hsh": "1d21450bd9746ed1b8420570ffe7fdd8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "The Mosque-Cathedral of Córdoba is a chronicle of Spain's layered history. It began as a church built by the Germanic Visigoths, before being transformed into a mosque in 784 CE by Abd al-Rahman I, founder of the Umayyad Emirate of Córdoba. Its vast hypostyle hall, a space supported by rows of columns, features the famous red-and-white arches shown here. Today, it contains more than 850 columns, many reused from Roman and earlier Visigothic structures.",
+                "Image": {
+                    "Url": "/th?id=OHR.CordobaCathedral_EN-IN2305166633_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CordobaCathedral_EN-IN2305166633_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Where cultures converge",
+                "Title": "Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain",
+                "Copyright": "© Elena Zolotova/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.878994,-4.779337/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=37.878994,-4.779337;S9;Mosque-Cathedral of Córdoba, Andalusia, Spain&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Mosque-Cathedral%20of%20Cordoba&ss=ypid.YN6306x521600288&mb=37.884567~-4.792206~37.873405~-4.766457&description=Cardenal%20Herrero%20st.%201%2C%2014003%2C%20Cordoba%20%28Cordoba%29%C2%B7Iglesia%2FCatedral&cardbg=%2388979C&dt=1760617800000&tt=Mosque%E2%80%93Cathedral%20of%20Cordoba&tsts0=%2526ty%253D18%2526q%253DMosque-Cathedral%252520of%252520Cordoba%2526ss%253Dypid.YN6306x521600288%2526mb%253D37.884567~-4.792206~37.873405~-4.766457%2526description%253DCardenal%252520Herrero%252520st.%2525201%25252C%25252014003%25252C%252520Cordoba%252520%252528Cordoba%252529%2525C2%2525B7Iglesia%25252FCatedral%2526cardbg%253D%25252388979C%2526dt%253D1760617800000&tstt0=Mosque%E2%80%93Cathedral%20of%20Cordoba&cp=31.557679~-17.322803&lvl=4.095082&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251210_CordobaCathedral\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Mosque+Cathedral+of+Cordoba&form=hpcapt&filters=HpDate:\"20251209_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251210_CordobaCathedral"
+            },
+            "Ssd": "20251210",
+            "Name": "CordobaCathedral",
+            "Market": "EN-IN",
+            "Hash": "2305166633",
+            "FullDateString": "10 Dec, 2025"
+        }
+    },
+    {
         "startdate": "20251208",
         "fullstartdate": "202512081830",
         "enddate": "20251209",
