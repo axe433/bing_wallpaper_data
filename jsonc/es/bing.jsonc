@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251210",
+        "fullstartdate": "202512102300",
+        "enddate": "20251211",
+        "url": "/th?id=OHR.EverestGlow_ES-ES2074158502_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EverestGlow_ES-ES2074158502",
+        "copyright": "La cima del Monte Everest al atardecer, vista desde el paso Renjo La, Nepal (© shoults/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+internacional+de+las+monta%C3%B1as&form=hpcapt&filters=HpDate%3a%2220251210_2300%22",
+        "title": "Donde el cielo se encuentra con la Tierra",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251210_EverestGlow%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b2804625d3e14eb8325fcaff3cd0e075",
+        "hsh": "c59aa6e9ba38b280d7493ec1d1b79a13",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Cada 11 de diciembre se celebra el Día Internacional de las Montañas, una jornada para reconocer la grandeza de los picos que dan forma a nuestro planeta y los glaciares que sustentan la vida. Desde los Alpes hasta el Himalaya, las montañas cubren casi una cuarta parte de la superficie terrestre, albergan al 15 % de la población mundial y concentran casi la mitad de los puntos clave de biodiversidad. El Monte Everest, con más de 8.800 metros de altura, simboliza la aspiración humana y la belleza natural.",
+                "Image": {
+                    "Url": "/th?id=OHR.EverestGlow_ES-ES2074158502_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EverestGlow_ES-ES2074158502_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Donde el cielo se encuentra con la Tierra",
+                "Title": "La cima del Monte Everest al atardecer, vista desde el paso Renjo La, Nepal",
+                "Copyright": "© shoults/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251211_EverestGlow\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=D%c3%ada+internacional+de+las+monta%c3%b1as&form=hpcapt&filters=HpDate:\"20251210_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251211_EverestGlow"
+            },
+            "Ssd": "20251211",
+            "Name": "EverestGlow",
+            "Market": "ES-ES",
+            "Hash": "2074158502",
+            "FullDateString": "11 de dic. de 2025"
+        }
+    },
+    {
         "startdate": "20251209",
         "fullstartdate": "202512092300",
         "enddate": "20251210",

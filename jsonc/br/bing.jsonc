@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251210",
+        "fullstartdate": "202512100300",
+        "enddate": "20251211",
+        "url": "/th?id=OHR.CordobaCathedral_PT-BR2100403879_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CordobaCathedral_PT-BR2100403879",
+        "copyright": "Interior da Mesquita-Catedral de Córdova, Andaluzia, Espanha (© Elena Zolotova/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mesquita-Catedral+de+C%C3%B3rdova&form=hpcapt&mkt=pt-br",
+        "title": "Onde as culturas convergem",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251210_CordobaCathedral%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "05f0ac081d350766271e8ef721a5be5a",
+        "hsh": "f024b003cdba5deb07e5fe067b490769",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A Mesquita-Catedral de Córdova, na Espanha, é um dos monumentos que contam a história dos diferentes povos que passaram pela Península Ibérica. Um dos destaques da construção é o grande salão com mais de 850 colunas, muitas delas reaproveitadas de antigas edificações romanas. Os famosos arcos vermelhos e brancos são um dos símbolos mais conhecidos do local e ilustram a imagem de hoje.",
+                "Image": {
+                    "Url": "/th?id=OHR.CordobaCathedral_PT-BR2100403879_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CordobaCathedral_PT-BR2100403879_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Onde as culturas convergem",
+                "Title": "Interior da Mesquita-Catedral de Córdova, Andaluzia, Espanha",
+                "Copyright": "© Elena Zolotova/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251210_CordobaCathedral\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Mesquita-Catedral+de+C%c3%b3rdova&form=hpcapt&filters=HpDate:\"20251210_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251210_CordobaCathedral"
+            },
+            "Ssd": "20251210",
+            "Name": "CordobaCathedral",
+            "Market": "PT-BR",
+            "Hash": "2100403879",
+            "FullDateString": "10 dez. 2025"
+        }
+    },
+    {
         "startdate": "20251209",
         "fullstartdate": "202512090300",
         "enddate": "20251210",

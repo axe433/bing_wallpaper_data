@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251210",
+        "fullstartdate": "202512101600",
+        "enddate": "20251211",
+        "url": "/th?id=OHR.EverestGlow_ZH-CN4985720231_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EverestGlow_ZH-CN4985720231",
+        "copyright": "从伦佐拉山口眺望珠穆朗玛峰日落时分的峰顶，尼泊尔 (© shoults/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=%E7%8F%A0%E7%A9%86%E6%9C%97%E7%8E%9B%E5%B3%B0&form=hpcapt&mkt=zh-cn",
+        "title": "天地相接之处",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251210_EverestGlow%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b2804625d3e14eb8325fcaff3cd0e075",
+        "hsh": "02871b4748395b2f98ef155f1df3c0d4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "每年12月11日，我们庆祝“国际山岳日”， 以此致敬塑造地球的雄伟山脉与哺育生命的冰川。从起伏的阿尔卑斯山到巍峨的喜马拉雅，山地覆盖了地球陆地面积的近四分之一，栖息着全球约 15% 的人口与近一半的生物多样性热点地区。世界最高峰珠穆朗玛峰，海拔逾29,000英尺，象征着人类的追求与自然的壮丽。其冰川滋养着无数河流，维系着数以百万计的生命，证明了山脉不仅是风景，更是地球的生命线。",
+                "Image": {
+                    "Url": "/th?id=OHR.EverestGlow_ZH-CN4985720231_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EverestGlow_ZH-CN4985720231_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "天地相接之处",
+                "Title": "从伦佐拉山口眺望珠穆朗玛峰日落时分的峰顶，尼泊尔",
+                "Copyright": "© shoults/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "位于珠穆朗玛峰北坡脚下的绒布河由冰川融水汇成。近年随着冰川加速融化，径流量明显增加，为下游地区提供了更多水资源。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251211_EverestGlow\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e7%8f%a0%e7%a9%86%e6%9c%97%e7%8e%9b%e5%b3%b0&form=hpcapt&filters=HpDate:\"20251210_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251211_EverestGlow"
+            },
+            "Ssd": "20251211",
+            "Name": "EverestGlow",
+            "Market": "ZH-CN",
+            "Hash": "4985720231",
+            "FullDateString": "2025 12月 11"
+        }
+    },
+    {
         "startdate": "20251209",
         "fullstartdate": "202512091600",
         "enddate": "20251210",

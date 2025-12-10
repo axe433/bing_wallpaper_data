@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251210",
+        "fullstartdate": "202512102300",
+        "enddate": "20251211",
+        "url": "/th?id=OHR.EverestGlow_DE-DE5000653393_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EverestGlow_DE-DE5000653393",
+        "copyright": "Der Gipfel des Mount Everest bei Sonnenuntergang, gesehen vom Renjo La, Nepal (© shoults/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+der+Berge&form=hpcapt&filters=HpDate%3a%2220251210_2300%22",
+        "title": "Wo Himmel und Erde sich treffen",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251210_EverestGlow%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b2804625d3e14eb8325fcaff3cd0e075",
+        "hsh": "6938549eb4f230c6bc4be31658083abb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Jedes Jahr am 11. Dezember wird der Internationale Tag der Berge gefeiert – ein Gedenktag, den die Vereinten Nationen 2003 ins Leben gerufen haben, um auf die ökologische, kulturelle und wirtschaftliche Bedeutung der Gebirgsregionen aufmerksam zu machen. Berge bedecken rund 22 % der Erdoberfläche und sind Heimat für etwa 15 % der Weltbevölkerung. Sie sind Quelle von Wasser, Biodiversität und spiritueller Kraft. Auf dem heutigen beeindruckenden Bild sehen wir den Gipfel des Mount Everest bei Sonnenuntergang, gesehen vom Renjo-La-Pass in Nepal. Mit seinen 8.848 Metern ist der Everest der höchste Punkt der Erde – ein weltweites Symbol für Herausforderung und natürliche Schönheit. Dieser Tag lädt dazu ein, über die Verletzlichkeit dieser Ökosysteme angesichts des Klimawandels nachzudenken und ihren Schutz zu stärken.",
+                "Image": {
+                    "Url": "/th?id=OHR.EverestGlow_DE-DE5000653393_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EverestGlow_DE-DE5000653393_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Wo Himmel und Erde sich treffen",
+                "Title": "Der Gipfel des Mount Everest bei Sonnenuntergang, gesehen vom Renjo La, Nepal",
+                "Copyright": "© shoults/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/27.98806,86.925/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=27.98806,86.925;S9;Mount Everest&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Mount%20Everest&satid=id.sid%3Aeef2b814-77a2-459f-b274-6d13a491b0d4&vdpid=7419866682933379073&mb=27.994654~86.911614~27.981712~86.938303&cardbg=%23F98745&dt=1760617800000&tt=Mount%20Everest&tsts0=%2526ty%253D30%2526q%253DMount%252520Everest%2526satid%253Did.sid%25253Aeef2b814-77a2-459f-b274-6d13a491b0d4%2526vdpid%253D7419866682933379073%2526mb%253D27.994654~86.911614~27.981712~86.938303%2526cardbg%253D%252523F98745%2526dt%253D1760617800000&tstt0=Mount%20Everest&cp=27.735959~70.875763&lvl=4.552725&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251211_EverestGlow\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Internationaler+Tag+der+Berge&form=hpcapt&filters=HpDate:\"20251210_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251211_EverestGlow"
+            },
+            "Ssd": "20251211",
+            "Name": "EverestGlow",
+            "Market": "DE-DE",
+            "Hash": "5000653393",
+            "FullDateString": "11. Dez.. 2025"
+        }
+    },
+    {
         "startdate": "20251209",
         "fullstartdate": "202512092300",
         "enddate": "20251210",
