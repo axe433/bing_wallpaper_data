@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251211",
+        "fullstartdate": "202512112300",
+        "enddate": "20251212",
+        "url": "/th?id=OHR.SpeckledPoinsettia_DE-DE7616872771_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpeckledPoinsettia_DE-DE7616872771",
+        "copyright": "Gefleckter Weihnachtsstern (© DigiPub/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Weihnachtsstern+Pflanze&form=hpcapt&filters=HpDate%3a%2220251211_2300%22",
+        "title": "Ein Stern, der Weihnachten leuchten lässt",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251211_SpeckledPoinsettia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "befd7d65282b63be61268d693ff93a5d",
+        "hsh": "1cd6c0bfac6ab1eb3286ed0ba66f9a3f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Wenn eine Pflanze im Dezember die Bühne betritt, dann ist es der Weihnachtsstern – auch Adventsstern oder Poinsettie genannt. Mit seinen leuchtend roten Hochblättern bringt er Wärme in die kalte Jahreszeit – und das nicht nur in den USA, wo am 12. Dezember sogar der „National Poinsettia Day“ gefeiert wird. Auch hierzulande gehört er zu den beliebtesten Dekorationen rund um Weihnachten und ist aus vielen deutschen Wohnzimmern nicht mehr wegzudenken.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpeckledPoinsettia_DE-DE7616872771_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpeckledPoinsettia_DE-DE7616872771_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ein Stern, der Weihnachten leuchten lässt",
+                "Title": "Gefleckter Weihnachtsstern",
+                "Copyright": "© DigiPub/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "In Mexiko nennt man Weihnachtssterne „Flores de Noche Buena“ (Blumen der Heiligen Nacht) und sie werden bereits seit dem 17. Jahrhundert in Weihnachtsfeiern verwendet.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251212_SpeckledPoinsettia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Weihnachtsstern+Pflanze&form=hpcapt&filters=HpDate:\"20251211_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251212_SpeckledPoinsettia"
+            },
+            "Ssd": "20251212",
+            "Name": "SpeckledPoinsettia",
+            "Market": "DE-DE",
+            "Hash": "7616872771",
+            "FullDateString": "12. Dez.. 2025"
+        }
+    },
+    {
         "startdate": "20251210",
         "fullstartdate": "202512102300",
         "enddate": "20251211",

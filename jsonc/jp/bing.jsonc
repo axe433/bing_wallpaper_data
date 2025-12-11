@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251211",
+        "fullstartdate": "202512111500",
+        "enddate": "20251212",
+        "url": "/th?id=OHR.SpeckledPoinsettia_JA-JP0214216812_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpeckledPoinsettia_JA-JP0214216812",
+        "copyright": "雪のような白い斑点模様のポインセチア (© DigiPub/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BB%E3%83%81%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220251211_1500%22",
+        "title": "今日はポインセチアの日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251211_SpeckledPoinsettia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "befd7d65282b63be61268d693ff93a5d",
+        "hsh": "814bcd644f354631cc1a094d6ecba138",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 12 月 12 日は米国の「ポインセチアの日」。ポインセチアはメキシコ原産で、現地では「ノーチェ・ブエナ」と呼ばれています。1820 年代に、米国の初代メキシコ公使ジョエル・ロバーツ・ポインセットがこの植物を米国に持ち帰ったことから、彼の名前にちなんで「ポインセチア」と名付けられました。そして彼の命日である 12 月 12 日を記念して、「ポインセチアの日」と制定されました…",
+                "Image": {
+                    "Url": "/th?id=OHR.SpeckledPoinsettia_JA-JP0214216812_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpeckledPoinsettia_JA-JP0214216812_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日はポインセチアの日",
+                "Title": "雪のような白い斑点模様のポインセチア",
+                "Copyright": "© DigiPub/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "クリスマスシーズンに街で見かけるポインセチアは、高さ約 60 〜 90cm の鉢植えですが、メキシコ原産のポインセチアは、人の背丈をはるかに超え、数 m に成長することもあります。",
+                    "LinkUrl": "/search?q=%e3%83%9d%e3%82%a4%e3%83%b3%e3%82%bb%e3%83%81%e3%82%a2%e3%81%ae%e9%ab%98%e3%81%95&form=hpvsfa",
+                    "LinkText": "ポインセチアはどのくらいの高さまで成長する？"
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251212_SpeckledPoinsettia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%9d%e3%82%a4%e3%83%b3%e3%82%bb%e3%83%81%e3%82%a2&form=hpcapt&filters=HpDate:\"20251211_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251212_SpeckledPoinsettia"
+            },
+            "Ssd": "20251212",
+            "Name": "SpeckledPoinsettia",
+            "Market": "JA-JP",
+            "Hash": "0214216812",
+            "FullDateString": "2025 年 12月 月 12 日"
+        }
+    },
+    {
         "startdate": "20251210",
         "fullstartdate": "202512101500",
         "enddate": "20251211",

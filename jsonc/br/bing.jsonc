@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251211",
+        "fullstartdate": "202512110300",
+        "enddate": "20251212",
+        "url": "/th?id=OHR.EverestGlow_PT-BR2321595835_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EverestGlow_PT-BR2321595835",
+        "copyright": "Monte Everest ao pôr do sol, visto de Renjo La Pass, no Nepal (© shoults/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+Internacional+das+Montanhas&form=hpcapt&mkt=pt-br",
+        "title": "Onde o céu encontra a Terra",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251211_EverestGlow%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b2804625d3e14eb8325fcaff3cd0e075",
+        "hsh": "1319cfdb54325f1de5af38eb32207d02",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Hoje celebramos o Dia Internacional das Montanhas, uma data dedicada a reconhecer sua importância para o nosso planeta. Elas não são apenas paisagens bonitas — são verdadeiras fontes de vida. As montanhas cobrem quase um quarto da superfície terrestre, abrigam 15% da população mundial e são refúgio para uma rica diversidade biológica, incluindo plantas, animais e microrganismos.",
+                "Image": {
+                    "Url": "/th?id=OHR.EverestGlow_PT-BR2321595835_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EverestGlow_PT-BR2321595835_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Onde o céu encontra a Terra",
+                "Title": "Monte Everest ao pôr do sol, visto de Renjo La Pass, no Nepal",
+                "Copyright": "© shoults/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251211_EverestGlow\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dia+Internacional+das+Montanhas&form=hpcapt&filters=HpDate:\"20251211_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251211_EverestGlow"
+            },
+            "Ssd": "20251211",
+            "Name": "EverestGlow",
+            "Market": "PT-BR",
+            "Hash": "2321595835",
+            "FullDateString": "11 dez. 2025"
+        }
+    },
+    {
         "startdate": "20251210",
         "fullstartdate": "202512100300",
         "enddate": "20251211",

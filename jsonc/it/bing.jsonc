@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251211",
+        "fullstartdate": "202512112300",
+        "enddate": "20251212",
+        "url": "/th?id=OHR.SpeckledPoinsettia_IT-IT0030863548_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpeckledPoinsettia_IT-IT0030863548",
+        "copyright": "Stella di Natale (© DigiPub/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Giornata+della+Poinsettia&form=hpcapt",
+        "title": "Rossa, esotica e natalizia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251211_SpeckledPoinsettia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "befd7d65282b63be61268d693ff93a5d",
+        "hsh": "6e76660e3e316e3c529d20fef4fb0af4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Alcune piante si accontentano di restare silenziose sui davanzali. Ma lei è la stella del Natale e pretende la scena. Questa diva possiede negli USA persino una sua festa: il Giorno Nazionale della Stella di Natale, celebrato il 12 dicembre. Prima di diventare la regina delle decorazioni natalizie, ha percorso un lungo viaggio. Molto tempo prima di illuminare i salotti, cresceva libera nelle terre del Messico, dove gli Aztechi la usavano per tingere e curare. Poi, negli anni Venti dell’Ottocento, il diplomatico statunitense Joel Roberts Poinsett la scoprì, se ne innamorò e la portò con sé. Da lì, il resto è storia e botanica.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpeckledPoinsettia_IT-IT0030863548_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpeckledPoinsettia_IT-IT0030863548_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Rossa, esotica e natalizia",
+                "Title": "Stella di Natale",
+                "Copyright": "© DigiPub/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "In Messico, le stelle di Natale sono conosciute come “Flores de Noche Buena” (Fiori della Notte Santa) e vengono utilizzate nelle celebrazioni natalizie sin dal XVII secolo.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251212_SpeckledPoinsettia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Giornata+della+Poinsettia&form=hpcapt&filters=HpDate:\"20251211_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251212_SpeckledPoinsettia"
+            },
+            "Ssd": "20251212",
+            "Name": "SpeckledPoinsettia",
+            "Market": "IT-IT",
+            "Hash": "0030863548",
+            "FullDateString": "12 dicembre 2025"
+        }
+    },
+    {
         "startdate": "20251210",
         "fullstartdate": "202512102300",
         "enddate": "20251211",

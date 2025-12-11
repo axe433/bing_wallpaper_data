@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251211",
+        "fullstartdate": "202512110000",
+        "enddate": "20251212",
+        "url": "/th?id=OHR.EverestGlow_EN-GB7184566187_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EverestGlow_EN-GB7184566187",
+        "copyright": "The summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=International+Mountain+Day&form=hpcapt&filters=HpDate%3a%2220251211_0000%22",
+        "title": "Where the sky meets Earth",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251211_EverestGlow%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b2804625d3e14eb8325fcaff3cd0e075",
+        "hsh": "24693660f0f2c36f666a6488855e619d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Every 11 December, we celebrate International Mountain Day, honouring the majestic peaks that shape our planet and the glaciers that support life. From the rolling Alps to the towering Himalayas, mountains cover nearly a quarter of Earth's land and host 15% of the world's population and nearly half of its biodiversity hotspots. Mount Everest, the world's highest peak at over 8,800 metres, stands as a symbol of human aspiration and natural beauty. Its glaciers feed rivers sustaining millions, showing that mountains are more than scenery—they are lifelines.",
+                "Image": {
+                    "Url": "/th?id=OHR.EverestGlow_EN-GB7184566187_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EverestGlow_EN-GB7184566187_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Where the sky meets Earth",
+                "Title": "The summit of Mount Everest at sunset, seen from Renjo La, Nepal",
+                "Copyright": "© shoults/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/27.98806,86.925/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=27.98806,86.925;S9;Mount Everest&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Mount%20Everest&satid=id.sid%3Aeef2b814-77a2-459f-b274-6d13a491b0d4&vdpid=7419866682933379073&mb=27.994654~86.911614~27.981712~86.938303&cardbg=%23F98745&dt=1760617800000&tt=Mount%20Everest&tsts0=%2526ty%253D30%2526q%253DMount%252520Everest%2526satid%253Did.sid%25253Aeef2b814-77a2-459f-b274-6d13a491b0d4%2526vdpid%253D7419866682933379073%2526mb%253D27.994654~86.911614~27.981712~86.938303%2526cardbg%253D%252523F98745%2526dt%253D1760617800000&tstt0=Mount%20Everest&cp=27.735959~70.875763&lvl=4.552725&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251211_EverestGlow\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=International+Mountain+Day&form=hpcapt&filters=HpDate:\"20251211_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251211_EverestGlow"
+            },
+            "Ssd": "20251211",
+            "Name": "EverestGlow",
+            "Market": "EN-GB",
+            "Hash": "7184566187",
+            "FullDateString": "11 Dec 2025"
+        }
+    },
+    {
         "startdate": "20251210",
         "fullstartdate": "202512100000",
         "enddate": "20251211",
