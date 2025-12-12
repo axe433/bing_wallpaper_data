@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251212",
+        "fullstartdate": "202512120300",
+        "enddate": "20251213",
+        "url": "/th?id=OHR.SpeckledPoinsettia_PT-BR8754988281_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpeckledPoinsettia_PT-BR8754988281",
+        "copyright": "Poinsétia, a planta que colore o Natal (© DigiPub/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Poins%C3%A9tia&form=hpcapt&mkt=pt-br",
+        "title": "A planta que decora as festas de vermelho",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251212_SpeckledPoinsettia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "befd7d65282b63be61268d693ff93a5d",
+        "hsh": "a299db173c0df15bba2d750f803c8410",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Algumas plantas ficam discretas nas janelas. A poinsétia? Ela pede os holofotes. Vibrante, marcante e vermelha, essa estrela de dezembro tem uma história curiosa. Antes de virar símbolo natalino, percorreu um longo caminho. Muito antes de enfeitar salas, crescia livre no México, onde os astecas a usavam para tinturas e remédios. No século XIX, o diplomata norte-americano Joel Roberts Poinsett se encantou com a planta e levou mudas para os Estados Unidos. O resto virou história — e botânica.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpeckledPoinsettia_PT-BR8754988281_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpeckledPoinsettia_PT-BR8754988281_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A planta que decora as festas de vermelho",
+                "Title": "Poinsétia, a planta que colore o Natal",
+                "Copyright": "© DigiPub/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251212_SpeckledPoinsettia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Poins%c3%a9tia&form=hpcapt&filters=HpDate:\"20251212_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251212_SpeckledPoinsettia"
+            },
+            "Ssd": "20251212",
+            "Name": "SpeckledPoinsettia",
+            "Market": "PT-BR",
+            "Hash": "8754988281",
+            "FullDateString": "12 dez. 2025"
+        }
+    },
+    {
         "startdate": "20251211",
         "fullstartdate": "202512110300",
         "enddate": "20251212",

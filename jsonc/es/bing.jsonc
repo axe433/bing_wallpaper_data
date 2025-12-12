@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251212",
+        "fullstartdate": "202512122300",
+        "enddate": "20251213",
+        "url": "/th?id=OHR.YosemiteWinter_ES-ES3697194370_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.YosemiteWinter_ES-ES3697194370",
+        "copyright": "Río Merced, Parque Nacional de Yosemite, California, EE. UU. (© Ron and Patty Thomas/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+nacional+de+Yosemite&form=hpcapt&filters=HpDate%3a%2220251212_2300%22",
+        "title": "Reflejos congelados",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251212_YosemiteWinter%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8619c8c0f0f86ae10fa555bf9ca84fc8",
+        "hsh": "3511512ed38127faa3143e8fdd17ba7f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Toda obra maestra necesita un trazo que la una. En el Parque Nacional de Yosemite, en Estados Unidos, ese trazo es el río Merced, que refleja acantilados de granito, bosques de pinos y cascadas en su superficie. Considerado un río salvaje y escénico, nace en lo alto de la Sierra Nevada y desciende unos 230 km hacia el valle de Yosemite antes de llegar al Valle Central de California.",
+                "Image": {
+                    "Url": "/th?id=OHR.YosemiteWinter_ES-ES3697194370_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.YosemiteWinter_ES-ES3697194370_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Reflejos congelados",
+                "Title": "Río Merced, Parque Nacional de Yosemite, California, EE. UU.",
+                "Copyright": "© Ron and Patty Thomas/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251213_YosemiteWinter\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parque+nacional+de+Yosemite&form=hpcapt&filters=HpDate:\"20251212_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251213_YosemiteWinter"
+            },
+            "Ssd": "20251213",
+            "Name": "YosemiteWinter",
+            "Market": "ES-ES",
+            "Hash": "3697194370",
+            "FullDateString": "13 de dic. de 2025"
+        }
+    },
+    {
         "startdate": "20251211",
         "fullstartdate": "202512112300",
         "enddate": "20251212",

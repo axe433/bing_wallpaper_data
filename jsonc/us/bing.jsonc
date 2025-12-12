@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251212",
+        "fullstartdate": "202512120800",
+        "enddate": "20251213",
+        "url": "/th?id=OHR.SpeckledPoinsettia_EN-US4098165068_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpeckledPoinsettia_EN-US4098165068",
+        "copyright": "Spotted poinsettia (© DigiPub/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=National+Poinsettia+Day&form=hpcapt&filters=HpDate%3a%2220251212_0800%22",
+        "title": "The plant that paints the holidays red",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251212_SpeckledPoinsettia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "befd7d65282b63be61268d693ff93a5d",
+        "hsh": "05b767f291111377431ab94fd92e7eb0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Some plants simply sit quietly on windowsills. The poinsettia? It demands the spotlight. Bright, bold, and as red as Rudolph's nose, this December diva even has its own holiday—National Poinsettia Day, celebrated on December 12. Prior to becoming a popular Christmas decoration, this shrub had quite a journey. Long before it appeared in living rooms, it grew wild in Mexico, where the Aztecs used it for dyes and medicine. Then, in the 1820s, US diplomat Joel Roberts Poinsett spotted the plant, fell for its charm, and sent it home. The rest, as they say, is history—and botany.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpeckledPoinsettia_EN-US4098165068_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpeckledPoinsettia_EN-US4098165068_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "The plant that paints the holidays red",
+                "Title": "Spotted poinsettia",
+                "Copyright": "© DigiPub/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "In Mexico, poinsettias are known as the 'Flores de Noche Buena' (Flowers of the Holy Night) and have been used in Christmas celebrations since the 17th century.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251212_SpeckledPoinsettia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=National+Poinsettia+Day&form=hpcapt&filters=HpDate:\"20251212_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251212_SpeckledPoinsettia"
+            },
+            "Ssd": "20251212",
+            "Name": "SpeckledPoinsettia",
+            "Market": "EN-US",
+            "Hash": "4098165068",
+            "FullDateString": "Dec 12, 2025"
+        }
+    },
+    {
         "startdate": "20251211",
         "fullstartdate": "202512110800",
         "enddate": "20251212",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251212",
+        "fullstartdate": "202512120500",
+        "enddate": "20251213",
+        "url": "/th?id=OHR.SuspensionLights_EN-CA1736218976_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SuspensionLights_EN-CA1736218976",
+        "copyright": "Illuminated Capilano Suspension Bridge Park, Vancouver, British Columbia (© Brian Caissie/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Capilano+Suspension+Bridge+Park&form=hpcapt&filters=HpDate%3a%2220251212_0500%22",
+        "title": "Bridging the gap",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251212_SuspensionLights%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "04c1a772eba2f0457d734a64d844e039",
+        "hsh": "e9dbfabe7fd47023b7babc87d3662570",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Some bridges are feats of engineering; others feel more like an adventure. Vancouver's Capilano Suspension Bridge Park leans into both. The bridge spans almost 140 metres across the Capilano River and sits 70 metres above it, held by strong cables that give a gentle sway as you walk. The idea took shape in 1889, when Scottish civil engineer George Grant Mackay built the first version using hemp rope and cedar planks. Wire cables replaced the original materials in 1903, and the site slowly expanded into a popular outdoor spot cherished by many.",
+                "Image": {
+                    "Url": "/th?id=OHR.SuspensionLights_EN-CA1736218976_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SuspensionLights_EN-CA1736218976_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Bridging the gap",
+                "Title": "Illuminated Capilano Suspension Bridge Park, Vancouver, British Columbia",
+                "Copyright": "© Brian Caissie/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/49.342865,-123.114899/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=49.342865,-123.114899;S9;Capilano Suspension Bridge Park, Vancouver, British Columbia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Capilano%20Suspension%20Bridge%2C%203735%20Capilano%20Rd%2C%20North%20Vancouver%2C%20BC%2C%20Canada&ss=ypid.YN1226x6515991768993275057&mb=49.349906~-123.137161~49.335825~-123.09263&description=3735%20Capilano%20Rd%2C%20North%20Vancouver%20BC%20V7R%204J1%C2%B7Bridge&cardbg=%23219AB6&dt=1763713800000&tt=Capilano%20Suspension%20Bridge%20Park&tsts0=%2526ty%253D18%2526q%253DCapilano%252520Suspension%252520Bridge%25252C%2525203735%252520Capilano%252520Rd%25252C%252520North%252520Vancouver%25252C%252520BC%25252C%252520Canada%2526ss%253Dypid.YN1226x6515991768993275057%2526mb%253D49.349906~-123.137161~49.335825~-123.09263%2526description%253D3735%252520Capilano%252520Rd%25252C%252520North%252520Vancouver%252520BC%252520V7R%2525204J1%2525C2%2525B7Bridge%2526cardbg%253D%252523219AB6%2526dt%253D1763713800000&tstt0=Capilano%20Suspension%20Bridge%20Park&cp=49.14202~-123.623353&lvl=9.40922&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251212_SuspensionLights\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Capilano+Suspension+Bridge+Park&form=hpcapt&filters=HpDate:\"20251212_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251212_SuspensionLights"
+            },
+            "Ssd": "20251212",
+            "Name": "SuspensionLights",
+            "Market": "EN-CA",
+            "Hash": "1736218976",
+            "FullDateString": "Dec. 12, 2025"
+        }
+    },
+    {
         "startdate": "20251211",
         "fullstartdate": "202512110500",
         "enddate": "20251212",
