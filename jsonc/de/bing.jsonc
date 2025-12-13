@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251213",
+        "fullstartdate": "202512132300",
+        "enddate": "20251214",
+        "url": "/th?id=OHR.TuftedTitmouse_DE-DE8240500684_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TuftedTitmouse_DE-DE8240500684",
+        "copyright": "Grauhäubchenmeise auf einem Kiefernast, Massachusetts, USA (© Tim Laman/NPL/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Grauh%C3%A4ubchenmeise&form=hpcapt&filters=HpDate%3a%2220251213_2300%22",
+        "title": "Der kleine Wächter",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251213_TuftedTitmouse%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "7591016a6770083c781a51cbe7ed68e1",
+        "hsh": "d8127210b031104cef0105858c8dbd8e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Auf dem heutigen Bild ist eine Grauhäubchenmeise auf einem Kiefernast in Massachusetts, USA, zu sehen – ein kleiner nordamerikanischer Vogel, der für seine graue Haube und sein neugieriges Verhalten bekannt ist. Diese Art gehört zur Familie der Meisen und zeichnet sich durch ihre bemerkenswerte Intelligenz aus. Im Herbst verstecken Grauhäubchenmeisen Hunderte von Samen an verschiedenen Orten und können sich monatelang daran erinnern, selbst unter Schnee. Ihr Gehirn vergrößert sich in dieser Zeit, um das räumliche Gedächtnis zu verbessern – ein einzigartiges Merkmal unter den Vögeln ihrer Gruppe. Ihre Nahrung besteht aus Insekten, Samen und Eicheln, und im Winter sind sie häufig an Futterstellen zu beobachten. Außerdem verfügen sie über mehr als zwanzig verschiedene Rufe und bilden bei Kälte kleine soziale Gruppen.",
+                "Image": {
+                    "Url": "/th?id=OHR.TuftedTitmouse_DE-DE8240500684_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TuftedTitmouse_DE-DE8240500684_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Der kleine Wächter",
+                "Title": "Grauhäubchenmeise auf einem Kiefernast, Massachusetts, USA",
+                "Copyright": "© Tim Laman/NPL/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Die Grauhäubchenmeisen legen Hunderte von Samenverstecken an und erinnern sich monatelang an ihre Vorräte.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251214_TuftedTitmouse\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Grauh%c3%a4ubchenmeise&form=hpcapt&filters=HpDate:\"20251213_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251214_TuftedTitmouse"
+            },
+            "Ssd": "20251214",
+            "Name": "TuftedTitmouse",
+            "Market": "DE-DE",
+            "Hash": "8240500684",
+            "FullDateString": "14. Dez.. 2025"
+        }
+    },
+    {
         "startdate": "20251212",
         "fullstartdate": "202512122300",
         "enddate": "20251213",
