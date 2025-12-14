@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251214",
+        "fullstartdate": "202512141600",
+        "enddate": "20251215",
+        "url": "/th?id=OHR.AmsterdamLights_ZH-CN4288146509_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AmsterdamLights_ZH-CN4288146509",
+        "copyright": "斯皮格尔运河上的灯光装饰, 阿姆斯特丹, 荷兰 (© Amith Nag Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E4%B8%B9%E8%BF%90%E6%B2%B3&form=hpcapt&mkt=zh-cn",
+        "title": "静谧水波，闪耀灯影",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251214_AmsterdamLights%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0051cdf1072bd32e11c6b74a538f22ac",
+        "hsh": "ec7fc925c378d52a13a48f50b0ae5d91",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "你有没有想过，运河如何影响城市的演变？几千年来，人们修筑运河，用于运输、控水和连接各地。从古代美索不达米亚和埃及，到中世纪的欧洲，运河让威尼斯、布鲁日等城市成为繁荣的贸易枢纽。到了17世纪，荷兰更进一步，规划出影响城市格局的水道，阿姆斯特丹便是其中的典范。",
+                "Image": {
+                    "Url": "/th?id=OHR.AmsterdamLights_ZH-CN4288146509_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AmsterdamLights_ZH-CN4288146509_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "静谧水波，闪耀灯影",
+                "Title": "斯皮格尔运河上的灯光装饰, 阿姆斯特丹, 荷兰",
+                "Copyright": "© Amith Nag Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "阿姆斯特丹市政府计划在2030年前实现完全零排放，并致力于在2050年前成为循环利用、气候中和且具备气候适应能力的城市。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251215_AmsterdamLights\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e9%98%bf%e5%a7%86%e6%96%af%e7%89%b9%e4%b8%b9%e8%bf%90%e6%b2%b3&form=hpcapt&filters=HpDate:\"20251214_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251215_AmsterdamLights"
+            },
+            "Ssd": "20251215",
+            "Name": "AmsterdamLights",
+            "Market": "ZH-CN",
+            "Hash": "4288146509",
+            "FullDateString": "2025 12月 15"
+        }
+    },
+    {
         "startdate": "20251213",
         "fullstartdate": "202512131600",
         "enddate": "20251214",

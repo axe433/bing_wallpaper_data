@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251214",
+        "fullstartdate": "202512140300",
+        "enddate": "20251215",
+        "url": "/th?id=OHR.TuftedTitmouse_PT-BR8020048731_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TuftedTitmouse_PT-BR8020048731",
+        "copyright": "Chapim-de-penacho-cinzento pousado em ramos de pinheiro, Massachusetts, EUA (© Tim Laman/NPL/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Chapim-de-penacho-cinzento&form=hpcapt&mkt=pt-br",
+        "title": "A importância de contar aves",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251214_TuftedTitmouse%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "7591016a6770083c781a51cbe7ed68e1",
+        "hsh": "7fa7e196c6774de68cb6edba01e24d03",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Você já parou para pensar que contar aves pode mudar o futuro da natureza? Essa prática simples é uma poderosa ferramenta para compreender nosso planeta. Ao registrar espécies, descobrimos se populações estão crescendo ou diminuindo, mapeamos rotas migratórias e identificamos sinais de mudanças nos ecossistemas. Mais do que ciência, é uma forma de aproximar pessoas da conservação e gerar dados que orientam políticas ambientais. Na imagem de hoje, vemos o chapim-de-penacho-cinzento, comum na América do Norte, mas ausente no Brasil. Por aqui, temos aves igualmente encantadoras, como o caboclinho-de-chapéu-cinzento, que vive no sul do país.",
+                "Image": {
+                    "Url": "/th?id=OHR.TuftedTitmouse_PT-BR8020048731_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TuftedTitmouse_PT-BR8020048731_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A importância de contar aves",
+                "Title": "Chapim-de-penacho-cinzento pousado em ramos de pinheiro, Massachusetts, EUA",
+                "Copyright": "© Tim Laman/NPL/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251214_TuftedTitmouse\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Chapim-de-penacho-cinzento&form=hpcapt&filters=HpDate:\"20251214_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251214_TuftedTitmouse"
+            },
+            "Ssd": "20251214",
+            "Name": "TuftedTitmouse",
+            "Market": "PT-BR",
+            "Hash": "8020048731",
+            "FullDateString": "14 dez. 2025"
+        }
+    },
+    {
         "startdate": "20251213",
         "fullstartdate": "202512130300",
         "enddate": "20251214",

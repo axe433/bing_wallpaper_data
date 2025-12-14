@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251214",
+        "fullstartdate": "202512140000",
+        "enddate": "20251215",
+        "url": "/th?id=OHR.BrightonRoyalPavilion2025_EN-GB0413792609_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BrightonRoyalPavilion2025_EN-GB0413792609",
+        "copyright": "Royal Pavilion, Brighton, England (© by Andrea Pucci/Moment/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Royal+Pavilion+Brighton&form=hpcapt&filters=HpDate%3a%2220251214_0000%22",
+        "title": "A dome-inant architecture",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251214_BrightonRoyalPavilion2025%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "dc5fd79cea2846e4d3d3d862fcbb6ab7",
+        "hsh": "57b4fcae4a81701e1b5b43e5900bf3d2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "No, we're not in 'Arabian Nights'—but the Royal Pavilion in Brighton makes you wonder whether someone accidentally dropped a palace from a far-off fairy tale onto the Sussex shoreline. The Prince of Wales (later George IV) came to Brighton for sea air, but he didn't just want a quiet retreat—he wanted a statement. With architect John Nash, he turned a modest villa into a grand palace full of domes and minarets. Step inside, and you'll find dragons curling across ceilings, chandeliers blooming like lotus flowers and the wallpaper leaning heavily into the decorative style of Chinoiserie. The Banqueting Room feels like it's always ready for a performance.",
+                "Image": {
+                    "Url": "/th?id=OHR.BrightonRoyalPavilion2025_EN-GB0413792609_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BrightonRoyalPavilion2025_EN-GB0413792609_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A dome-inant architecture",
+                "Title": "Royal Pavilion, Brighton, England",
+                "Copyright": "© by Andrea Pucci/Moment/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.822342,-0.137699/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=50.822342,-0.137699;S9;Royal Pavilion, Brighton, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Royal%20Pavilion%2C%20Brighton%2C%20England&ss=ypid.YNBFF785A0E1C89D04&mb=50.827219~-0.147693~50.817459~-0.127695&description=4-5%20Pavilion%20Buildings%2C%20Brighton%20BN1%201EE&cardbg=%23219AB6&dt=1763731800000&tt=Royal%20Pavilion&tsts0=%2526ty%253D18%2526q%253DRoyal%252520Pavilion%25252C%252520Brighton%25252C%252520England%2526ss%253Dypid.YNBFF785A0E1C89D04%2526mb%253D50.827219~-0.147693~50.817459~-0.127695%2526description%253D4-5%252520Pavilion%252520Buildings%25252C%252520Brighton%252520BN1%2525201EE%2526cardbg%253D%252523219AB6%2526dt%253D1763731800000&tstt0=Royal%20Pavilion&cp=50.710279~-0.654487&lvl=8.251402&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251214_BrightonRoyalPavilion2025\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Royal+Pavilion+Brighton&form=hpcapt&filters=HpDate:\"20251214_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251214_BrightonRoyalPavilion2025"
+            },
+            "Ssd": "20251214",
+            "Name": "BrightonRoyalPavilion2025",
+            "Market": "EN-GB",
+            "Hash": "0413792609",
+            "FullDateString": "14 Dec 2025"
+        }
+    },
+    {
         "startdate": "20251213",
         "fullstartdate": "202512130000",
         "enddate": "20251214",

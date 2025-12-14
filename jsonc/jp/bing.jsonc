@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251214",
+        "fullstartdate": "202512141500",
+        "enddate": "20251215",
+        "url": "/th?id=OHR.AmsterdamLights_JA-JP0747282471_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AmsterdamLights_JA-JP0747282471",
+        "copyright": "スピーゲルグラハト, オランダ (© Amith Nag Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Spiegelgracht+canal&form=hpcapt&filters=HpDate%3a%2220251214_1500%22",
+        "title": "ライトアップされたアムステルダムの鏡の運河",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251214_AmsterdamLights%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0051cdf1072bd32e11c6b74a538f22ac",
+        "hsh": "5a85fd677a6364d3e54efc1e345d9702",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "オランダ最大の都市、首都アムステルダム。もともとは小さな漁村でしたが、16 世紀に交易の中心地として発展し、17 世紀には「黄金時代」を迎えました。この時期に整備された主要な三つの運河を含む総延長 100km 以上に及ぶ運河網と 1,500 以上の橋が織りなす美しい景観は「北のヴェネツィア」と呼ばれ、ユネスコ世界遺産に登録されています…",
+                "Image": {
+                    "Url": "/th?id=OHR.AmsterdamLights_JA-JP0747282471_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AmsterdamLights_JA-JP0747282471_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "ライトアップされたアムステルダムの鏡の運河",
+                "Title": "スピーゲルグラハト, オランダ",
+                "Copyright": "© Amith Nag Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.362021,4.886996/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=52.362021,4.886996;S9;スピーゲルグラハト, オランダ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Spiegelgracht%20canal%2C%20Amsterdam&mb=52.36588~4.874606~52.358163~4.899387&cardbg=%23F98745&dt=1762151400000&tt=Spiegelgracht%2C%201017%20JR%20Amsterdam%2C%20Nederland&tsts0=%2526ty%253D18%2526q%253DSpiegelgracht%252520canal%25252C%252520Amsterdam%2526mb%253D52.36588~4.874606~52.358163~4.899387%2526cardbg%253D%252523F98745%2526dt%253D1762151400000&tstt0=Spiegelgracht%2C%201017%20JR%20Amsterdam%2C%20Nederland&cp=51.571822~2.69561&lvl=4.543181&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251215_AmsterdamLights\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Spiegelgracht+canal&form=hpcapt&filters=HpDate:\"20251214_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251215_AmsterdamLights"
+            },
+            "Ssd": "20251215",
+            "Name": "AmsterdamLights",
+            "Market": "JA-JP",
+            "Hash": "0747282471",
+            "FullDateString": "2025 年 12月 月 15 日"
+        }
+    },
+    {
         "startdate": "20251213",
         "fullstartdate": "202512131500",
         "enddate": "20251214",

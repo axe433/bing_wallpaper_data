@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251214",
+        "fullstartdate": "202512141830",
+        "enddate": "20251215",
+        "url": "/th?id=OHR.AmsterdamLights_EN-IN6264972688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AmsterdamLights_EN-IN6264972688",
+        "copyright": "Light decorations on Spiegelgracht canal, Amsterdam, Netherlands (© Amith Nag Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Spiegelgracht+canal&form=hpcapt&filters=HpDate%3a%2220251214_1830%22",
+        "title": "Still waters, bright lights",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251214_AmsterdamLights%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0051cdf1072bd32e11c6b74a538f22ac",
+        "hsh": "a6e149c9c068e4d33ea7ac768d24a838",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Have you ever wondered how canals changed the way cities developed? For thousands of years, people have built canals to transport goods, control water flow and connect places. From ancient Mesopotamia and Egypt to medieval Europe, they transformed cities like Venice and Bruges into trade hubs. The Netherlands took this even further—by the 17th century, they were designing waterways that shaped cities such as Amsterdam.",
+                "Image": {
+                    "Url": "/th?id=OHR.AmsterdamLights_EN-IN6264972688_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AmsterdamLights_EN-IN6264972688_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Still waters, bright lights",
+                "Title": "Light decorations on Spiegelgracht canal, Amsterdam, Netherlands",
+                "Copyright": "© Amith Nag Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.362021,4.886996/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=52.362021,4.886996;S9;Spiegelgracht, Amsterdam, Netherlands&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Spiegelgracht%20canal%2C%20Amsterdam&mb=52.36588~4.874606~52.358163~4.899387&cardbg=%23F98745&dt=1762151400000&tt=Spiegelgracht%2C%201017%20JR%20Amsterdam%2C%20Nederland&tsts0=%2526ty%253D18%2526q%253DSpiegelgracht%252520canal%25252C%252520Amsterdam%2526mb%253D52.36588~4.874606~52.358163~4.899387%2526cardbg%253D%252523F98745%2526dt%253D1762151400000&tstt0=Spiegelgracht%2C%201017%20JR%20Amsterdam%2C%20Nederland&cp=51.571822~2.69561&lvl=4.543181&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251215_AmsterdamLights\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Spiegelgracht+canal&form=hpcapt&filters=HpDate:\"20251214_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251215_AmsterdamLights"
+            },
+            "Ssd": "20251215",
+            "Name": "AmsterdamLights",
+            "Market": "EN-IN",
+            "Hash": "6264972688",
+            "FullDateString": "15 Dec, 2025"
+        }
+    },
+    {
         "startdate": "20251213",
         "fullstartdate": "202512131830",
         "enddate": "20251214",

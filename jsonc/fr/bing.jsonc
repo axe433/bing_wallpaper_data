@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251214",
+        "fullstartdate": "202512142300",
+        "enddate": "20251215",
+        "url": "/th?id=OHR.AmsterdamLights_FR-FR4107666936_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AmsterdamLights_FR-FR4107666936",
+        "copyright": "Décorations lumineuses sur le canal Spiegelgracht, Amsterdam, Pays-Bas (© Amith Nag Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=canal+Spiegelgracht+Amsterdam&form=hpcapt&filters=HpDate%3a%2220251214_2300%22",
+        "title": "Quand la ville des canaux devient féerie",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251214_AmsterdamLights%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0051cdf1072bd32e11c6b74a538f22ac",
+        "hsh": "e8a2e25f53c5e7b75c2d6e399676e5d0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "À Amsterdam, aux Pays-Bas, le canal Spiegelgracht se transforme en un véritable bijou lumineux lorsque la nuit tombe. Les guirlandes lumineuses accrochées aux ponts et aux arbres se reflètent dans l'eau calme, formant une constellation venue s'ancrer sur terre. Ce canal, bordé de galeries d’art et d’antiquaires, porte bien son nom : Spiegelgracht, le « canal miroir ».",
+                "Image": {
+                    "Url": "/th?id=OHR.AmsterdamLights_FR-FR4107666936_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AmsterdamLights_FR-FR4107666936_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Quand la ville des canaux devient féerie",
+                "Title": "Décorations lumineuses sur le canal Spiegelgracht, Amsterdam, Pays-Bas",
+                "Copyright": "© Amith Nag Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.362021,4.886996/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=52.362021,4.886996;S9;Spiegelgracht, Amsterdam, Pays-Bas&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Spiegelgracht%20canal%2C%20Amsterdam&mb=52.36588~4.874606~52.358163~4.899387&cardbg=%23F98745&dt=1762151400000&tt=Spiegelgracht%2C%201017%20JR%20Amsterdam%2C%20Nederland&tsts0=%2526ty%253D18%2526q%253DSpiegelgracht%252520canal%25252C%252520Amsterdam%2526mb%253D52.36588~4.874606~52.358163~4.899387%2526cardbg%253D%252523F98745%2526dt%253D1762151400000&tstt0=Spiegelgracht%2C%201017%20JR%20Amsterdam%2C%20Nederland&cp=51.571822~2.69561&lvl=4.543181&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251215_AmsterdamLights\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=canal+Spiegelgracht+Amsterdam&form=hpcapt&filters=HpDate:\"20251214_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251215_AmsterdamLights"
+            },
+            "Ssd": "20251215",
+            "Name": "AmsterdamLights",
+            "Market": "FR-FR",
+            "Hash": "4107666936",
+            "FullDateString": "15 déc. 2025"
+        }
+    },
+    {
         "startdate": "20251213",
         "fullstartdate": "202512132300",
         "enddate": "20251214",
