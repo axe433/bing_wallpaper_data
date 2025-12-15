@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251215",
+        "fullstartdate": "202512152300",
+        "enddate": "20251216",
+        "url": "/th?id=OHR.ChristmasGnomes_DE-DE8958661114_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ChristmasGnomes_DE-DE8958661114",
+        "copyright": "Handgefertigte Wichtel auf einem Weihnachtsmarkt (© Veronika Seppanen/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Wichtel&form=hpcapt&filters=HpDate%3a%2220251215_2300%22",
+        "title": "Wichtelzauber liegt in der Luft",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251215_ChristmasGnomes%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3e6f11978cf65c656064388435d735c7",
+        "hsh": "cc441ce94f9a11bc1541c472fd492860",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Heute bewundern wir auf einem Weihnachtsmarkt handgefertigte Wichtel – jene kleinen, kunstvollen Figuren, die zu einem liebenswerten Symbol der Weihnacht in Deutschland geworden sind. Wichtel sind jedoch mehr als nur Dekorationen: Sie stehen für Schutz und Glück im Haus während der Winterzeit. Ihr Ursprung reicht zurück zu alten germanischen Legenden, in denen diese magischen Wesen bei der Hausarbeit halfen und das Heim bewachten, während alle schliefen. Heute sind sie die Stars auf den Weihnachtsmärkten, wo jedes handgefertigte Stück Hingabe und Tradition widerspiegelt.",
+                "Image": {
+                    "Url": "/th?id=OHR.ChristmasGnomes_DE-DE8958661114_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ChristmasGnomes_DE-DE8958661114_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Wichtelzauber liegt in der Luft",
+                "Title": "Handgefertigte Wichtel auf einem Weihnachtsmarkt",
+                "Copyright": "© Veronika Seppanen/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Die Weihnachtsstrümpfe gehen auf die Legende des Heiligen Nikolaus zurück, der Geschenke am Kamin hinterließ und so eine Tradition begründete.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251216_ChristmasGnomes\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Wichtel&form=hpcapt&filters=HpDate:\"20251215_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251216_ChristmasGnomes"
+            },
+            "Ssd": "20251216",
+            "Name": "ChristmasGnomes",
+            "Market": "DE-DE",
+            "Hash": "8958661114",
+            "FullDateString": "16. Dez.. 2025"
+        }
+    },
+    {
         "startdate": "20251214",
         "fullstartdate": "202512142300",
         "enddate": "20251215",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251215",
+        "fullstartdate": "202512150800",
+        "enddate": "20251216",
+        "url": "/th?id=OHR.AmsterdamLights_ROW4220094908_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AmsterdamLights_ROW4220094908",
+        "copyright": "Light decorations on Spiegelgracht canal, Amsterdam, Netherlands (© Amith Nag Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Spiegelgracht+canal&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251215_AmsterdamLights%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0051cdf1072bd32e11c6b74a538f22ac",
+        "hsh": "a7b4cf60e0b3c33bf5a6215823ea381d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Have you ever wondered how canals changed the way cities developed? For thousands of years, people have built canals to transport goods, control water flow and connect places. From ancient Mesopotamia and Egypt to medieval Europe, they transformed cities like Venice and Bruges into trade hubs. The Netherlands took this even further—by the 17th century, they were designing waterways that shaped cities such as Amsterdam.",
+                "Image": {
+                    "Url": "/th?id=OHR.AmsterdamLights_ROW4220094908_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AmsterdamLights_ROW4220094908_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Light decorations on Spiegelgracht canal, Amsterdam, Netherlands",
+                "Copyright": "© Amith Nag Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251215_AmsterdamLights\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Spiegelgracht+canal&form=hpcapt&filters=HpDate:\"20251215_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251215_AmsterdamLights"
+            },
+            "Ssd": "20251215",
+            "Name": "AmsterdamLights",
+            "Market": "ROW",
+            "Hash": "4220094908",
+            "FullDateString": "15. jouluk. 2025"
+        }
+    },
+    {
         "startdate": "20251214",
         "fullstartdate": "202512140800",
         "enddate": "20251215",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251215",
+        "fullstartdate": "202512152300",
+        "enddate": "20251216",
+        "url": "/th?id=OHR.ItalySpaceDay_IT-IT1038189118_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ItalySpaceDay_IT-IT1038189118",
+        "copyright": "Volo della Stazione Spaziale sopra la punta meridionale dell'Italia (© NG Images/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Giornata+nazionale+dello+spazio&form=hpcapt",
+        "title": "Radici spaziali?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251215_ItalySpaceDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5886b57db85ca4a568d166b4c7d44763",
+        "hsh": "d4f49957aaf68b27ea1666a2133195ba",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ogni 16 dicembre l’Italia celebra la “Giornata Nazionale dello Spazio”, un appuntamento che ci invita ad alzare lo sguardo verso il cielo e a ricordare la nostra storia tra le stelle. La data non è casuale: nel 1964, con il lancio del satellite San Marco 1, l’Italia divenne il terzo Paese al mondo, dopo Stati Uniti e Unione Sovietica, a mettere in orbita un proprio satellite. Fu un’impresa guidata dal visionario ingegnere Luigi Broglio, padre della scienza spaziale italiana.",
+                "Image": {
+                    "Url": "/th?id=OHR.ItalySpaceDay_IT-IT1038189118_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ItalySpaceDay_IT-IT1038189118_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Radici spaziali?",
+                "Title": "Volo della Stazione Spaziale sopra la punta meridionale dell'Italia",
+                "Copyright": "© NG Images/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Nel 2014 Samantha Cristoforetti è diventata la prima donna italiana nello spazio, portando l’Italia tra le stelle.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251216_ItalySpaceDay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Giornata+nazionale+dello+spazio&form=hpcapt&filters=HpDate:\"20251215_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251216_ItalySpaceDay"
+            },
+            "Ssd": "20251216",
+            "Name": "ItalySpaceDay",
+            "Market": "IT-IT",
+            "Hash": "1038189118",
+            "FullDateString": "16 dicembre 2025"
+        }
+    },
+    {
         "startdate": "20251214",
         "fullstartdate": "202512142300",
         "enddate": "20251215",

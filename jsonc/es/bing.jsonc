@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251215",
+        "fullstartdate": "202512152300",
+        "enddate": "20251216",
+        "url": "/th?id=OHR.ChristmasGnomes_ES-ES4014499424_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ChristmasGnomes_ES-ES4014499424",
+        "copyright": "Gnomos hechos a mano en un mercado navideño (© Veronika Seppanen/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Gnomos&form=hpcapt&filters=HpDate%3a%2220251215_2300%22",
+        "title": "Seres diminutos, espíritus grandes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251215_ChristmasGnomes%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3e6f11978cf65c656064388435d735c7",
+        "hsh": "60c8e874ca35f57d6b3092d1a21f71cd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Tienen barbas largas, sombreros rojos y un encanto especial para robar algo de protagonismo a Papá Noel cada Navidad. Son los gnomos, guardianes del folclore escandinavo que protegen hogares y granjas durante los largos inviernos. Agradecen un cuenco de avena en Nochebuena y, si no se les trata bien, pueden gastar alguna travesura. Hoy llenan los mercados españoles, como los de Madrid o Barcelona, con figuras únicas hechas de lana, fieltro y piel sintética.",
+                "Image": {
+                    "Url": "/th?id=OHR.ChristmasGnomes_ES-ES4014499424_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ChristmasGnomes_ES-ES4014499424_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Seres diminutos, espíritus grandes",
+                "Title": "Gnomos hechos a mano en un mercado navideño",
+                "Copyright": "© Veronika Seppanen/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251216_ChristmasGnomes\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Gnomos&form=hpcapt&filters=HpDate:\"20251215_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251216_ChristmasGnomes"
+            },
+            "Ssd": "20251216",
+            "Name": "ChristmasGnomes",
+            "Market": "ES-ES",
+            "Hash": "4014499424",
+            "FullDateString": "16 de dic. de 2025"
+        }
+    },
+    {
         "startdate": "20251214",
         "fullstartdate": "202512142300",
         "enddate": "20251215",
