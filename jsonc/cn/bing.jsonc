@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251216",
+        "fullstartdate": "202512161600",
+        "enddate": "20251217",
+        "url": "/th?id=OHR.FrostySquirrel_ZH-CN4613360783_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FrostySquirrel_ZH-CN4613360783",
+        "copyright": "在诺森伯兰郡的欧亚红松鼠, 英格兰 (© Michael_Conrad/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E6%AC%A7%E4%BA%9A%E7%BA%A2%E6%9D%BE%E9%BC%A0&form=hpcapt&mkt=zh-cn",
+        "title": "皮毛、霜冻和盛宴",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251216_FrostySquirrel%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b8e9e79793e8d9d9e994bd438cbaf8fc",
+        "hsh": "8e0b8fb2ff9bd2ad9b5be34f1ef879ad",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "谁能抗拒这张软乎乎的小脸？一只欧亚红松鼠栖息在积雪覆盖的松枝上，前爪紧紧抓着松果，仿佛那是世上最后的美食。这些灵巧的小家伙全年忙碌：夏季采集坚果、种子和菌类，冬季则靠储存的松果维持生活。",
+                "Image": {
+                    "Url": "/th?id=OHR.FrostySquirrel_ZH-CN4613360783_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FrostySquirrel_ZH-CN4613360783_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "皮毛、霜冻和盛宴",
+                "Title": "在诺森伯兰郡的欧亚红松鼠, 英格兰",
+                "Copyright": "© Michael_Conrad/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "红松鼠只要挺过第一个寒冬，通常能活3年左右。有的能活到7岁，而在圈养状态下，其寿命可延长至10年。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251217_FrostySquirrel\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e6%ac%a7%e4%ba%9a%e7%ba%a2%e6%9d%be%e9%bc%a0&form=hpcapt&filters=HpDate:\"20251216_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251217_FrostySquirrel"
+            },
+            "Ssd": "20251217",
+            "Name": "FrostySquirrel",
+            "Market": "ZH-CN",
+            "Hash": "4613360783",
+            "FullDateString": "2025 12月 17"
+        }
+    },
+    {
         "startdate": "20251215",
         "fullstartdate": "202512151600",
         "enddate": "20251216",

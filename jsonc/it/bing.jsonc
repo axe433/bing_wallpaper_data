@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251216",
+        "fullstartdate": "202512162300",
+        "enddate": "20251217",
+        "url": "/th?id=OHR.FrostySquirrel_IT-IT9640811523_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FrostySquirrel_IT-IT9640811523",
+        "copyright": "Scoiattolo rosso nel Northumberland, Inghilterra (© Michael_Conrad/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Scoiattolo+eurasiatico&form=hpcapt",
+        "title": "Furia rossa",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251216_FrostySquirrel%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b8e9e79793e8d9d9e994bd438cbaf8fc",
+        "hsh": "fa6dc358c1438a59b5f18290ac3c05a4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Chi riesce davvero a resistere a quello sguardo curioso? Sul ramo innevato di un pino, lo scoiattolo rosso eurasiatico stringe una pigna come fosse un tesoro segreto. Piccolo acrobata dell’inverno, si muove leggero tra i rami, raccogliendo semi, noci e funghi. D’estate banchetta con nuove scoperte, mentre d’inverno si affida alle provviste nascoste con pazienza.",
+                "Image": {
+                    "Url": "/th?id=OHR.FrostySquirrel_IT-IT9640811523_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FrostySquirrel_IT-IT9640811523_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Furia rossa",
+                "Title": "Scoiattolo rosso nel Northumberland, Inghilterra",
+                "Copyright": "© Michael_Conrad/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/55.16667,-2/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=55.16667,-2;S9;Northumberland, Inghilterra&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Northumberland%2C%20England&satid=id.sid%3A86a3fee3-ba4c-f565-1ce4-449912831e53&vdpid=7395596&mb=55.811676~-3.847908~54.78236~-0.302037&cardbg=%23F98745&dt=1761921000000&tt=Northumberland%2C%20England%2C%20United%20Kingdom&tsts0=%2526ty%253D30%2526q%253DNorthumberland%25252C%252520England%2526satid%253Did.sid%25253A86a3fee3-ba4c-f565-1ce4-449912831e53%2526vdpid%253D7395596%2526mb%253D55.811676~-3.847908~54.78236~-0.302037%2526cardbg%253D%252523F98745%2526dt%253D1761921000000&tstt0=Northumberland%2C%20England%2C%20United%20Kingdom&cp=52.621799~-8.967948&lvl=4.8168817&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251217_FrostySquirrel\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Scoiattolo+eurasiatico&form=hpcapt&filters=HpDate:\"20251216_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251217_FrostySquirrel"
+            },
+            "Ssd": "20251217",
+            "Name": "FrostySquirrel",
+            "Market": "IT-IT",
+            "Hash": "9640811523",
+            "FullDateString": "17 dicembre 2025"
+        }
+    },
+    {
         "startdate": "20251215",
         "fullstartdate": "202512152300",
         "enddate": "20251216",
