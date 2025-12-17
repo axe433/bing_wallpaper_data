@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251217",
+        "fullstartdate": "202512172300",
+        "enddate": "20251218",
+        "url": "/th?id=OHR.OstfrieslandWinter_DE-DE7440932341_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OstfrieslandWinter_DE-DE7440932341",
+        "copyright": "Schneebedecktes Feld bei Sonnenuntergang, Ostfriesland, Niedersachsen (© photo art/500px/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ostfriesland&form=hpcapt&filters=HpDate%3a%2220251217_2300%22",
+        "title": "Eisige Schönheit",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251217_OstfrieslandWinter%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "30c640616702fd37216f1e1c18ac7bd2",
+        "hsh": "ce181f61a6980048cd8494dfe8ad5e87",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Wenn die Tage kürzer werden und kühle Temperaturen die Landschaft in eine weiße Winterwelt verwandeln, breitet sich eine besondere Ruhe aus. Auch Ostfriesland, wie auf unserem heutigen Bild zu sehen, zeigt sich dann von seiner stillen Seite. Klare Nordseeluft, vereiste Deiche und verschneite Moore machen die Region im Nordwesten Niedersachsens zu einem reizvollen Ziel in der kalten Jahreszeit. In Orten wie Greetsiel, Norden oder Leer laden historische Altstädte zu winterlichen Spaziergängen und zu einem Besuch auf den stimmungsvollen Weihnachtsmärkten ein. Wer sich nach einem Bummel aufwärmen möchte, genießt in einem der gemütlichen Cafés traditionellen Ostfriesentee mit Kluntje und Sahne – ein Brauch, der zum immateriellen Kulturerbe der UNESCO gehört.",
+                "Image": {
+                    "Url": "/th?id=OHR.OstfrieslandWinter_DE-DE7440932341_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OstfrieslandWinter_DE-DE7440932341_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Eisige Schönheit",
+                "Title": "Schneebedecktes Feld bei Sonnenuntergang, Ostfriesland, Niedersachsen",
+                "Copyright": "© photo art/500px/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/53.47,7.49/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=53.47,7.49;S9;Ostfriesland, Niedersachsen&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Ostfriesland&satid=id.sid%3Afb4b7427-8f62-5431-3099-29b6fdf1d2a0&vdpid=7010378131848560659&mb=53.474363~7.478256~53.46564~7.501731&cardbg=%23F98745&dt=1763982000000&tt=Ostfriesland%2C%20Niedersachsen&tsts0=%2526ty%253D30%2526q%253DOstfriesland%2526satid%253Did.sid%25253Afb4b7427-8f62-5431-3099-29b6fdf1d2a0%2526vdpid%253D7010378131848560659%2526mb%253D53.474363~7.478256~53.46564~7.501731%2526cardbg%253D%252523F98745%2526dt%253D1763982000000&tstt0=Ostfriesland%2C%20Niedersachsen&cp=53.463869~7.125691&lvl=9.850704&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251218_OstfrieslandWinter\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ostfriesland&form=hpcapt&filters=HpDate:\"20251217_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251218_OstfrieslandWinter"
+            },
+            "Ssd": "20251218",
+            "Name": "OstfrieslandWinter",
+            "Market": "DE-DE",
+            "Hash": "7440932341",
+            "FullDateString": "18. Dez.. 2025"
+        }
+    },
+    {
         "startdate": "20251216",
         "fullstartdate": "202512162300",
         "enddate": "20251217",
