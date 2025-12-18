@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251218",
+        "fullstartdate": "202512180800",
+        "enddate": "20251219",
+        "url": "/th?id=OHR.CathedralValley_ROW4669841552_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CathedralValley_ROW4669841552",
+        "copyright": "Temple of the Sun, Capitol Reef National Park, Utah, United States (© Austin Cronnelly/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Temple+of+the+Sun+Utah&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251218_CathedralValley%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "27f69594b69ef28f44cf493a4bb160b3",
+        "hsh": "9bdd08ae5aaa636fc0d826498f7d3d0e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Rock layers formed over millions of years and a massive bend in the Earth's crust give this desert a rare window into geologic history. This is Capitol Reef National Park in Utah, where sandstone cliffs and canyons preserve a striking record of the planet's past. It was designated as a national park in 1971. Today's featured image highlights the sandstone monoliths of Cathedral Valley, including the Temple of the Sun, part of this extraordinary, protected landscape.",
+                "Image": {
+                    "Url": "/th?id=OHR.CathedralValley_ROW4669841552_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CathedralValley_ROW4669841552_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Temple of the Sun, Capitol Reef National Park, Utah, United States",
+                "Copyright": "© Austin Cronnelly/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251218_CathedralValley\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Temple+of+the+Sun+Utah&form=hpcapt&filters=HpDate:\"20251218_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251218_CathedralValley"
+            },
+            "Ssd": "20251218",
+            "Name": "CathedralValley",
+            "Market": "ROW",
+            "Hash": "4669841552",
+            "FullDateString": "18 de dic. de 2025"
+        }
+    },
+    {
         "startdate": "20251217",
         "fullstartdate": "202512170800",
         "enddate": "20251218",

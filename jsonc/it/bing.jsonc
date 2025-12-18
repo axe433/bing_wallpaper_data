@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251218",
+        "fullstartdate": "202512182300",
+        "enddate": "20251219",
+        "url": "/th?id=OHR.BormioItaly_IT-IT9940500837_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BormioItaly_IT-IT9940500837",
+        "copyright": "Paesaggio innevato a Bormio, Sondrio, Lombardia (© Roberto Moiola/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Bormio&form=hpcapt",
+        "title": "Il Comune nella Roccia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251218_BormioItaly%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "dbba2ab83209ded7878787d8fb91d3b0",
+        "hsh": "561c4a9c9cc91b0439287ea10eafa649",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Bormio non è soltanto un comune di montagna: è come una conchiglia incastonata tra le Alpi, che custodisce voci di valli e passi. Qui, ai piedi del Passo dello Stelvio, da secoli si intrecciano i sentieri delle comunità, come fili che compongono un tessuto alpino. Le sue pietre e i suoi silenzi raccontano un paesaggio che non divide, ma unisce, trasformando l’asprezza dell’altitudine in un ponte di vita e di memoria.",
+                "Image": {
+                    "Url": "/th?id=OHR.BormioItaly_IT-IT9940500837_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BormioItaly_IT-IT9940500837_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Il Comune nella Roccia",
+                "Title": "Paesaggio innevato a Bormio, Sondrio, Lombardia",
+                "Copyright": "© Roberto Moiola/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.46925,10.37217/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=46.46925,10.37217;S9;Bormio, Sondrio, Lombardia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Bormio%2C%20Sondrio%2C%20Italy&satid=id.sid%3Acf694b95-a0f6-35b4-88d6-01161458a263&vdpid=7016290484909768705&mb=46.541237~10.289848~46.444244~10.54043&cardbg=%23FFFFFF&tt=Bormio%2C%20Lombardy%2C%20Italy&tsts0=%2526ty%253D30%2526q%253DBormio%25252C%252520Sondrio%25252C%252520Italy%2526satid%253Did.sid%25253Acf694b95-a0f6-35b4-88d6-01161458a263%2526vdpid%253D7016290484909768705%2526mb%253D46.541237~10.289848~46.444244~10.54043%2526cardbg%253D%252523FFFFFF&tstt0=Bormio%2C%20Lombardy%2C%20Italy&cp=46.204466~8.762886&lvl=7.410128&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251219_BormioItaly\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Bormio&form=hpcapt&filters=HpDate:\"20251218_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251219_BormioItaly"
+            },
+            "Ssd": "20251219",
+            "Name": "BormioItaly",
+            "Market": "IT-IT",
+            "Hash": "9940500837",
+            "FullDateString": "19 dicembre 2025"
+        }
+    },
+    {
         "startdate": "20251217",
         "fullstartdate": "202512172300",
         "enddate": "20251218",

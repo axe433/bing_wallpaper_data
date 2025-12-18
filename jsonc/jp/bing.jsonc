@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251218",
+        "fullstartdate": "202512181500",
+        "enddate": "20251219",
+        "url": "/th?id=OHR.BormioItaly_JA-JP1791938778_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BormioItaly_JA-JP1791938778",
+        "copyright": "ボルミオ, イタリア ロンバルディア州 (© Roberto Moiola/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2+%E3%83%9C%E3%83%AB%E3%83%9F%E3%82%AA&form=hpcapt&filters=HpDate%3a%2220251218_1500%22",
+        "title": "アルプスに抱かれた温泉の町",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251218_BormioItaly%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "dbba2ab83209ded7878787d8fb91d3b0",
+        "hsh": "e665a6fdb57ac2649e3b9a7bd7be6563",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "イタリア北部、ロンバルディア州に位置するボルミオ。雄大なアルプスの山々に囲まれたこの町は、北側がスイスとの国境線に位置しており、古くから交易の要衝として栄えてきました。ロマネスク様式の教会や石造りの家々など、中世の町並みが今も残っています…",
+                "Image": {
+                    "Url": "/th?id=OHR.BormioItaly_JA-JP1791938778_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BormioItaly_JA-JP1791938778_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "アルプスに抱かれた温泉の町",
+                "Title": "ボルミオ, イタリア ロンバルディア州",
+                "Copyright": "© Roberto Moiola/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.708012,10.393023/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=46.708012,10.393023;S9;ボルミオ, イタリア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Bormio%2C%20Sondrio%2C%20Italy&satid=id.sid%3Acf694b95-a0f6-35b4-88d6-01161458a263&vdpid=7016290484909768705&mb=46.541237~10.289848~46.444244~10.54043&cardbg=%23FFFFFF&tt=Bormio%2C%20Lombardy%2C%20Italy&tsts0=%2526ty%253D30%2526q%253DBormio%25252C%252520Sondrio%25252C%252520Italy%2526satid%253Did.sid%25253Acf694b95-a0f6-35b4-88d6-01161458a263%2526vdpid%253D7016290484909768705%2526mb%253D46.541237~10.289848~46.444244~10.54043%2526cardbg%253D%252523FFFFFF&tstt0=Bormio%2C%20Lombardy%2C%20Italy&cp=46.204466~8.762886&lvl=7.410128&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251219_BormioItaly\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2+%e3%83%9c%e3%83%ab%e3%83%9f%e3%82%aa&form=hpcapt&filters=HpDate:\"20251218_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251219_BormioItaly"
+            },
+            "Ssd": "20251219",
+            "Name": "BormioItaly",
+            "Market": "JA-JP",
+            "Hash": "1791938778",
+            "FullDateString": "2025 年 12月 月 19 日"
+        }
+    },
+    {
         "startdate": "20251217",
         "fullstartdate": "202512171500",
         "enddate": "20251218",

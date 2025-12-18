@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251218",
+        "fullstartdate": "202512180300",
+        "enddate": "20251219",
+        "url": "/th?id=OHR.CathedralValley_PT-BR4139226561_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CathedralValley_PT-BR4139226561",
+        "copyright": "Templo do Sol, Parque Nacional Capitol Reef, Utah, EUA (© Austin Cronnelly/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+de+Capitol+Reef&form=hpcapt&mkt=pt-br",
+        "title": "Camadas do tempo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251218_CathedralValley%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "27f69594b69ef28f44cf493a4bb160b3",
+        "hsh": "9e32cf812d9042bb2ea3550ef3ad2165",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Camadas de rochas acumuladas ao longo de milhões de anos oferecem a este deserto uma janela para observar a história geológica. Esse é o Parque Nacional Capitol Reef, em Utah, Estados Unidos, onde penhascos e cânions preservam registros do passado. Na imagem, destacam-se formações de pedra, incluindo o Templo do Sol, parte dessa paisagem singular e protegida.",
+                "Image": {
+                    "Url": "/th?id=OHR.CathedralValley_PT-BR4139226561_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CathedralValley_PT-BR4139226561_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Camadas do tempo",
+                "Title": "Templo do Sol, Parque Nacional Capitol Reef, Utah, EUA",
+                "Copyright": "© Austin Cronnelly/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251218_CathedralValley\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parque+Nacional+de+Capitol+Reef&form=hpcapt&filters=HpDate:\"20251218_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251218_CathedralValley"
+            },
+            "Ssd": "20251218",
+            "Name": "CathedralValley",
+            "Market": "PT-BR",
+            "Hash": "4139226561",
+            "FullDateString": "18 dez. 2025"
+        }
+    },
+    {
         "startdate": "20251217",
         "fullstartdate": "202512170300",
         "enddate": "20251218",

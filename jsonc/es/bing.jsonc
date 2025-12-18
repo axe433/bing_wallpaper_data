@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251218",
+        "fullstartdate": "202512182300",
+        "enddate": "20251219",
+        "url": "/th?id=OHR.BormioItaly_ES-ES9743879453_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BormioItaly_ES-ES9743879453",
+        "copyright": "Paisaje nevado en Bormio, Lombardía, Italia (© Roberto Moiola/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Bormio+Italia&form=hpcapt&filters=HpDate%3a%2220251218_2300%22",
+        "title": "Altas montañas, historia profunda",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251218_BormioItaly%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "dbba2ab83209ded7878787d8fb91d3b0",
+        "hsh": "fb85063cb0290e98215a1a6a4d784c11",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Bormio es una localidad de montaña situada en Lombardía, al norte de Italia, enclavada en los Alpes y muy cerca del paso de Stelvio. Esta posición ha unido durante siglos a las comunidades de los valles alpinos y ha marcado su forma de vida, sus rutas y su historia. Su paisaje invernal refleja la altitud del entorno y el estrecho vínculo de la ciudad con los picos que la rodean.",
+                "Image": {
+                    "Url": "/th?id=OHR.BormioItaly_ES-ES9743879453_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BormioItaly_ES-ES9743879453_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Altas montañas, historia profunda",
+                "Title": "Paisaje nevado en Bormio, Lombardía, Italia",
+                "Copyright": "© Roberto Moiola/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251219_BormioItaly\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Bormio+Italia&form=hpcapt&filters=HpDate:\"20251218_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251219_BormioItaly"
+            },
+            "Ssd": "20251219",
+            "Name": "BormioItaly",
+            "Market": "ES-ES",
+            "Hash": "9743879453",
+            "FullDateString": "19 de dic. de 2025"
+        }
+    },
+    {
         "startdate": "20251217",
         "fullstartdate": "202512172300",
         "enddate": "20251218",
