@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251219",
+        "fullstartdate": "202512190000",
+        "enddate": "20251220",
+        "url": "/th?id=OHR.BormioItaly_EN-GB1277241027_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BormioItaly_EN-GB1277241027",
+        "copyright": "Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Bormio+Italy&form=hpcapt&filters=HpDate%3a%2220251219_0000%22",
+        "title": "High mountains, deep history",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251219_BormioItaly%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "dbba2ab83209ded7878787d8fb91d3b0",
+        "hsh": "4f88f06378cc042ed2b79a143941cb51",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Bormio is a mountain town in northern Italy's Lombardy region, nestled in the Alps near the Stelvio Pass. This location has connected communities across mountain valleys for centuries, shaping how people live and move through the region. Today's image features Bormio's winter landscape, a reflection of its high-altitude setting and enduring bond with the surrounding peaks.",
+                "Image": {
+                    "Url": "/th?id=OHR.BormioItaly_EN-GB1277241027_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BormioItaly_EN-GB1277241027_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "High mountains, deep history",
+                "Title": "Snow-covered landscape at Bormio, Lombardy, Italy",
+                "Copyright": "© Roberto Moiola/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.46925,10.37217/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=46.46925,10.37217;S9;Bormio, Lombardy, Italy&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Bormio%2C%20Sondrio%2C%20Italy&satid=id.sid%3Acf694b95-a0f6-35b4-88d6-01161458a263&vdpid=7016290484909768705&mb=46.541237~10.289848~46.444244~10.54043&cardbg=%23FFFFFF&tt=Bormio%2C%20Lombardy%2C%20Italy&tsts0=%2526ty%253D30%2526q%253DBormio%25252C%252520Sondrio%25252C%252520Italy%2526satid%253Did.sid%25253Acf694b95-a0f6-35b4-88d6-01161458a263%2526vdpid%253D7016290484909768705%2526mb%253D46.541237~10.289848~46.444244~10.54043%2526cardbg%253D%252523FFFFFF&tstt0=Bormio%2C%20Lombardy%2C%20Italy&cp=46.204466~8.762886&lvl=7.410128&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251219_BormioItaly\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Bormio+Italy&form=hpcapt&filters=HpDate:\"20251219_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251219_BormioItaly"
+            },
+            "Ssd": "20251219",
+            "Name": "BormioItaly",
+            "Market": "EN-GB",
+            "Hash": "1277241027",
+            "FullDateString": "19 Dec 2025"
+        }
+    },
+    {
         "startdate": "20251218",
         "fullstartdate": "202512180000",
         "enddate": "20251219",

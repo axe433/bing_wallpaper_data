@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251219",
+        "fullstartdate": "202512192300",
+        "enddate": "20251220",
+        "url": "/th?id=OHR.StarLanterns_ES-ES4365009466_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.StarLanterns_ES-ES4365009466",
+        "copyright": "Lámparas de estrellas navideñas de papel, Alemania (© artas/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Estrella+de+Moravia&form=hpcapt&filters=HpDate%3a%2220251219_2300%22",
+        "title": "¡Vamos a seguir esa estrella!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251219_StarLanterns%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d23c46417dd826b632f8d81c6c044993",
+        "hsh": "fee0c378051f66bc02b7c4144005cad7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A medida que se acerca la Navidad, las lámparas en forma de estrella llenan balcones, escaparates y mercadillos navideños como en la Plaza Mayor de Madrid. Su luz atraviesa las largas noches de invierno y envuelve calles y hogares en alegría, color y una cálida sensación de unión. Detrás de estas decoraciones, sin embargo, hay una historia tan brillante como ellas.",
+                "Image": {
+                    "Url": "/th?id=OHR.StarLanterns_ES-ES4365009466_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.StarLanterns_ES-ES4365009466_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "¡Vamos a seguir esa estrella!",
+                "Title": "Lámparas de estrellas navideñas de papel, Alemania",
+                "Copyright": "© artas/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251220_StarLanterns\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Estrella+de+Moravia&form=hpcapt&filters=HpDate:\"20251219_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251220_StarLanterns"
+            },
+            "Ssd": "20251220",
+            "Name": "StarLanterns",
+            "Market": "ES-ES",
+            "Hash": "4365009466",
+            "FullDateString": "20 de dic. de 2025"
+        }
+    },
+    {
         "startdate": "20251218",
         "fullstartdate": "202512182300",
         "enddate": "20251219",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251219",
+        "fullstartdate": "202512192300",
+        "enddate": "20251220",
+        "url": "/th?id=OHR.FetNav_FR-FR1160112574_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FetNav_FR-FR1160112574",
+        "copyright": "Cirque de Mafate, Dos d'Ane, Île de la Réunion (© Gael Fontaine/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=F%C3%AAte+r%C3%A9unionnaise+de+la+libert%C3%A9&form=hpcapt&filters=HpDate%3a%2220251219_2300%22",
+        "title": "L’hiver en majesté",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251219_FetNav%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4da4f0d14ec184411e68b82bfd831a20",
+        "hsh": "33246287eb9ed02a9d0968521e7767ad",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Pour contraster avec la grisaille et le froid de la métropole, voici un peu de soleil venu de l’océan Indien ! Le 20 décembre, l’île de La Réunion célèbre la Fèt Kaf, jour de liberté et de mémoire. Ici, au cœur du cirque de Mafate, entre les montagnes sculptées par les volcans et les ravines verdoyantes, les chants, les tambours et les danses maloya résonnent jusqu’aux crêtes.",
+                "Image": {
+                    "Url": "/th?id=OHR.FetNav_FR-FR1160112574_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FetNav_FR-FR1160112574_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "L'hiver en majesté",
+                "Title": "Cirque de Mafate, Dos d'Ane, Île de la Réunion",
+                "Copyright": "© Gael Fontaine/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.448151,-120.622475/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=37.448151,-120.622475;S9;Rivière Merced, parc national de Yosemite, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Merced%20River%2C%20Yosemite%20National%20Park%2C%20California&ss=ypid.YN873x124322431&mb=37.751401~-119.590012~37.742799~-119.580635&description=Yosemite%20Park%20Way%2C%20Yosemite%20National%20Park%2C%20CA%2095389&cardbg=%233DB838&dt=1762273800000&tt=Merced%20River&tsts0=%2526ty%253D18%2526q%253DMerced%252520River%25252C%252520Yosemite%252520National%252520Park%25252C%252520California%2526ss%253Dypid.YN873x124322431%2526mb%253D37.751401~-119.590012~37.742799~-119.580635%2526description%253DYosemite%252520Park%252520Way%25252C%252520Yosemite%252520National%252520Park%25252C%252520CA%25252095389%2526cardbg%253D%2525233DB838%2526dt%253D1762273800000&tstt0=Merced%20River&cp=37.483122~-124.408724&lvl=5.38681&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251220_FetNav\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=F%c3%aate+r%c3%a9unionnaise+de+la+libert%c3%a9&form=hpcapt&filters=HpDate:\"20251219_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251220_FetNav"
+            },
+            "Ssd": "20251220",
+            "Name": "FetNav",
+            "Market": "FR-FR",
+            "Hash": "1160112574",
+            "FullDateString": "20 déc. 2025"
+        }
+    },
+    {
         "startdate": "20251218",
         "fullstartdate": "202512182300",
         "enddate": "20251219",

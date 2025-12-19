@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251219",
+        "fullstartdate": "202512191830",
+        "enddate": "20251220",
+        "url": "/th?id=OHR.StarLanterns_EN-IN7383029602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.StarLanterns_EN-IN7383029602",
+        "copyright": "Paper Christmas star lanterns, Germany (© artas/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Moravian+star&form=hpcapt&filters=HpDate%3a%2220251219_1830%22",
+        "title": "Twinkle, twinkle, paper stars",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251219_StarLanterns%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d23c46417dd826b632f8d81c6c044993",
+        "hsh": "9e41f3e2043bbf3dad5972ca2fea743e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "As Christmas draws near, star lanterns begin to appear everywhere—twinkling from balconies, shining in shop windows and lighting up market stalls. Their shimmer cuts through the long winter nights, filling streets and homes with joy, colour and a sense of togetherness. But behind these festive decorations lies a story as captivating as their glow. The first of these stars emerged in Niesky, Germany, in the early 1800s. Students at a Moravian Church boarding school crafted what we now call the Herrnhut Star or Moravian Star, during a geometry lesson. That geometric marvel, crafted from paper and cardboard, soon came to symbolise the Star of Bethlehem and the spirit of Advent. By 1897, Pieter Verbeek, a former student of that school, began producing and selling them. His son Harry later continued the tradition, founding the Herrnhut Star Factory in 1925.",
+                "Image": {
+                    "Url": "/th?id=OHR.StarLanterns_EN-IN7383029602_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.StarLanterns_EN-IN7383029602_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Twinkle, twinkle, paper stars",
+                "Title": "Paper Christmas star lanterns, Germany",
+                "Copyright": "© artas/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "The Christmas star is inspired by the star of Bethlehem, a guiding light mentioned only once in the Bible's story of Jesus's birth.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251220_StarLanterns\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Moravian+star&form=hpcapt&filters=HpDate:\"20251219_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251220_StarLanterns"
+            },
+            "Ssd": "20251220",
+            "Name": "StarLanterns",
+            "Market": "EN-IN",
+            "Hash": "7383029602",
+            "FullDateString": "20 Dec, 2025"
+        }
+    },
+    {
         "startdate": "20251218",
         "fullstartdate": "202512181830",
         "enddate": "20251219",
