@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251220",
+        "fullstartdate": "202512202300",
+        "enddate": "20251221",
+        "url": "/th?id=OHR.SwedenSolstice_IT-IT0210098439_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SwedenSolstice_IT-IT0210098439",
+        "copyright": "Luce dell'alba tra gli alberi gelati, Svezia (© Schon/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Solsitizio+d%E2%80%99+inverno&form=hpcapt",
+        "title": "Nasce un nuovo Sole",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251220_SwedenSolstice%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "dd00815c13992e5eb5cd69c5e0adc6a4",
+        "hsh": "9bcea2d277e0f0464f56fd147686cefa",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Avete mai avuto la sensazione che la notte non volesse finire? È il solstizio d’inverno che compie la sua magia nel giorno più breve e nella notte più lunga dell’anno. Nell’emisfero settentrionale cade intorno al 21 o 22 dicembre, mentre nell’emisfero meridionale si manifesta a giugno. In quel momento, uno dei poli terrestri si inclina al massimo lontano dal Sole: il buio sembra trionfare, ma proprio da lì la luce ricomincia il suo lento cammino di ritorno, allungando ogni giorno un po’ di più. Questo evento celeste ha incantato l’umanità fin dal Neolitico. Luoghi come Newgrange in Irlanda e Stonehenge in Inghilterra furono costruiti per catturare l’alba o il tramonto del solstizio; in Egitto, templi come Karnak e Luxor ne seguivano l’allineamento.",
+                "Image": {
+                    "Url": "/th?id=OHR.SwedenSolstice_IT-IT0210098439_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SwedenSolstice_IT-IT0210098439_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Nasce un nuovo Sole",
+                "Title": "Luce dell'alba tra gli alberi gelati, Svezia",
+                "Copyright": "© Schon/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Mentre oggi è il giorno più corto dell'anno nell'emisfero settentrionale, è il più lungo nell'emisfero meridionale, dove ha luogo il solstizio d'estate.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251221_SwedenSolstice\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Solsitizio+d%e2%80%99+inverno&form=hpcapt&filters=HpDate:\"20251220_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251221_SwedenSolstice"
+            },
+            "Ssd": "20251221",
+            "Name": "SwedenSolstice",
+            "Market": "IT-IT",
+            "Hash": "0210098439",
+            "FullDateString": "21 dicembre 2025"
+        }
+    },
+    {
         "startdate": "20251219",
         "fullstartdate": "202512192300",
         "enddate": "20251220",

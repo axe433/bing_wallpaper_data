@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251220",
+        "fullstartdate": "202512202300",
+        "enddate": "20251221",
+        "url": "/th?id=OHR.SwedenSolstice_DE-DE1312651216_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SwedenSolstice_DE-DE1312651216",
+        "copyright": "Morgendämmerung durch frostige Bäume, Schweden (© Schon/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Wintersonnenwende&form=hpcapt&filters=HpDate%3a%2220251220_2300%22",
+        "title": "Geburt der neuen Sonne",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251220_SwedenSolstice%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "dd00815c13992e5eb5cd69c5e0adc6a4",
+        "hsh": "e0b233f76f00ca1584a5d4a7f710e0ba",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Die Wintersonnenwende markiert den Moment, an dem die Sonne ihre tiefste Position am Himmel erreicht und somit die längste Nacht des Jahres auf der Nordhalbkugel einleitet. Dieses Phänomen wurde von alten Kulturen als Symbol für Erneuerung und Hoffnung gefeiert, denn nach der Dunkelheit beginnt die langsame Rückkehr des Lichts.",
+                "Image": {
+                    "Url": "/th?id=OHR.SwedenSolstice_DE-DE1312651216_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SwedenSolstice_DE-DE1312651216_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Geburt der neuen Sonne",
+                "Title": "Morgendämmerung durch frostige Bäume, Schweden",
+                "Copyright": "© Schon/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Heute ist auf der Nordhalbkugel der kürzeste Tag des Jahres – gleichzeitig markiert die Südhalbkugel mit der Sommersonnenwende ihren längsten Tag.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251221_SwedenSolstice\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Wintersonnenwende&form=hpcapt&filters=HpDate:\"20251220_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251221_SwedenSolstice"
+            },
+            "Ssd": "20251221",
+            "Name": "SwedenSolstice",
+            "Market": "DE-DE",
+            "Hash": "1312651216",
+            "FullDateString": "21. Dez.. 2025"
+        }
+    },
+    {
         "startdate": "20251219",
         "fullstartdate": "202512192300",
         "enddate": "20251220",

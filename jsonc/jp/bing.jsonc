@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251220",
+        "fullstartdate": "202512201500",
+        "enddate": "20251221",
+        "url": "/th?id=OHR.WinterSolstice2025_JA-JP2351386518_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WinterSolstice2025_JA-JP2351386518",
+        "copyright": "屈斜路湖のオオハクチョウ, 北海道 (© Jan Vermeer/Minden)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%B1%88%E6%96%9C%E8%B7%AF%E6%B9%96%E3%81%AE%E3%82%AA%E3%82%AA%E3%83%8F%E3%82%AF%E3%83%81%E3%83%A7%E3%82%A6&form=hpcapt&filters=HpDate%3a%2220251220_1500%22",
+        "title": "今日は冬至",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251220_WinterSolstice2025%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d3e3c7e95f61112f725b7fb49dca4c18",
+        "hsh": "b8c43ecff050d1f6d46bfe1c0ba37436",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 12 月 21 日は一年で最も昼が短く、夜が長い冬至です。この日を境に、昼の時間は少しずつ長くなっていきますが、寒さはより一層厳しくなっていきます。かつては、この冬至の日を一年の始まりとする考え方もありました。かぼちゃ食べる風習が一般的ですが、それ以外にも柚子湯に入る、小豆粥を食すなどの風習もあります…",
+                "Image": {
+                    "Url": "/th?id=OHR.WinterSolstice2025_JA-JP2351386518_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WinterSolstice2025_JA-JP2351386518_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日は冬至",
+                "Title": "屈斜路湖のオオハクチョウ, 北海道",
+                "Copyright": "© Jan Vermeer/Minden",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.579166,144.527496/9?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=43.579166,144.527496;S9;阿寒摩周国立公園, 北海道&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=%E9%98%BF%E5%AF%92%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92%20%E9%98%BF%E5%AF%92%20%E5%9B%BD%E7%AB%8B%20%E5%85%AC%E5%9C%92&ss=ypid.YN5286x8923764850321046645&cp=43.570305~144.191326&lvl=9.702529&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251221_WinterSolstice2025\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%b1%88%e6%96%9c%e8%b7%af%e6%b9%96%e3%81%ae%e3%82%aa%e3%82%aa%e3%83%8f%e3%82%af%e3%83%81%e3%83%a7%e3%82%a6&form=hpcapt&filters=HpDate:\"20251220_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251221_WinterSolstice2025"
+            },
+            "Ssd": "20251221",
+            "Name": "WinterSolstice2025",
+            "Market": "JA-JP",
+            "Hash": "2351386518",
+            "FullDateString": "2025 年 12月 月 21 日"
+        }
+    },
+    {
         "startdate": "20251219",
         "fullstartdate": "202512191500",
         "enddate": "20251220",

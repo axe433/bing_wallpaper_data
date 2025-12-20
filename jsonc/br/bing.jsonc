@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251220",
+        "fullstartdate": "202512200300",
+        "enddate": "20251221",
+        "url": "/th?id=OHR.StarLanterns_PT-BR3547621816_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.StarLanterns_PT-BR3547621816",
+        "copyright": "Lanternas de Natal em forma de estrela, Alemanha (© artas/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Estrela+de+Natal&form=hpcapt&mkt=pt-br",
+        "title": "Brilha, brilha, estrelinha",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251220_StarLanterns%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d23c46417dd826b632f8d81c6c044993",
+        "hsh": "9522a40f4a9236463ad96f9d4ba7855c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A meados de dezembro, lanternas em forma de estrela começam a aparecer por toda parte — cintilando em varandas e brilhando em vitrines. Elas enchem ruas e lares de alegria, cor e um sentimento de união. Mas, por trás dessas decorações festivas, existe uma história tão cativante quanto seu brilho.",
+                "Image": {
+                    "Url": "/th?id=OHR.StarLanterns_PT-BR3547621816_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.StarLanterns_PT-BR3547621816_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Brilha, brilha, estrelinha",
+                "Title": "Lanternas de Natal em forma de estrela, Alemanha",
+                "Copyright": "© artas/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251220_StarLanterns\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Estrela+de+Natal&form=hpcapt&filters=HpDate:\"20251220_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251220_StarLanterns"
+            },
+            "Ssd": "20251220",
+            "Name": "StarLanterns",
+            "Market": "PT-BR",
+            "Hash": "3547621816",
+            "FullDateString": "20 dez. 2025"
+        }
+    },
+    {
         "startdate": "20251219",
         "fullstartdate": "202512190300",
         "enddate": "20251220",

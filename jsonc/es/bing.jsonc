@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251220",
+        "fullstartdate": "202512202300",
+        "enddate": "20251221",
+        "url": "/th?id=OHR.WinterCovadonga_ES-ES5041137538_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WinterCovadonga_ES-ES5041137538",
+        "copyright": "Lago de Covadonga, Asturias, España (© emiliozv/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Solsticio+de+invierno&form=hpcapt&filters=HpDate%3a%2220251220_2300%22",
+        "title": "Esperando un nuevo sol",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251220_WinterCovadonga%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2e1008130f9825acfbccafee94a74165",
+        "hsh": "25aa52bc39e1aef2561eaf23a1ee693a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "¿Alguna vez has sentido que la noche no iba a terminar? Eso es porque el solsticio de invierno está haciendo su magia. Hoy es un momento muy especial: la noche más larga del año y el día más breve en el hemisferio norte. En Asturias, el día durará casi 9 horas de luz, dejando una noche de poco más de 15 horas.",
+                "Image": {
+                    "Url": "/th?id=OHR.WinterCovadonga_ES-ES5041137538_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WinterCovadonga_ES-ES5041137538_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Esperando un nuevo sol",
+                "Title": "Lago de Covadonga, Asturias, España",
+                "Copyright": "© emiliozv/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251221_WinterCovadonga\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Solsticio+de+invierno&form=hpcapt&filters=HpDate:\"20251220_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251221_WinterCovadonga"
+            },
+            "Ssd": "20251221",
+            "Name": "WinterCovadonga",
+            "Market": "ES-ES",
+            "Hash": "5041137538",
+            "FullDateString": "21 de dic. de 2025"
+        }
+    },
+    {
         "startdate": "20251219",
         "fullstartdate": "202512192300",
         "enddate": "20251220",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251220",
+        "fullstartdate": "202512200000",
+        "enddate": "20251221",
+        "url": "/th?id=OHR.StarLanterns_EN-GB1419415106_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.StarLanterns_EN-GB1419415106",
+        "copyright": "Christmas star lanterns, Germany (© artas/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Moravian+star&form=hpcapt&filters=HpDate%3a%2220251220_0000%22",
+        "title": "Twinkle, twinkle, paper stars",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251220_StarLanterns%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d23c46417dd826b632f8d81c6c044993",
+        "hsh": "21c040a0b27d3a4aecf65a2a272f87a6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "As Christmas draws near, star lanterns begin to appear everywhere—twinkling from balconies, shining in shop windows and lighting up market stalls. Their shimmer cuts through the long winter nights, filling streets and homes with joy, colour and a sense of togetherness. But behind these festive decorations lies a story as captivating as their glow.",
+                "Image": {
+                    "Url": "/th?id=OHR.StarLanterns_EN-GB1419415106_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.StarLanterns_EN-GB1419415106_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Twinkle, twinkle, paper stars",
+                "Title": "Christmas star lanterns, Germany",
+                "Copyright": "© artas/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Although the Christmas Star is one of the most beloved symbols of the season, the Star of Bethlehem, which it represents, is mentioned only once in the Bible.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251220_StarLanterns\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Moravian+star&form=hpcapt&filters=HpDate:\"20251220_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251220_StarLanterns"
+            },
+            "Ssd": "20251220",
+            "Name": "StarLanterns",
+            "Market": "EN-GB",
+            "Hash": "1419415106",
+            "FullDateString": "20 Dec 2025"
+        }
+    },
+    {
         "startdate": "20251219",
         "fullstartdate": "202512190000",
         "enddate": "20251220",
