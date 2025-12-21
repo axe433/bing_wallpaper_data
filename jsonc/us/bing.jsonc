@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251221",
+        "fullstartdate": "202512210800",
+        "enddate": "20251222",
+        "url": "/th?id=OHR.SwedenSolstice_EN-US5470044971_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SwedenSolstice_EN-US5470044971",
+        "copyright": "Dawn light through frosty trees, Sweden (© Schon/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Winter+solstice&form=hpcapt&filters=HpDate%3a%2220251221_0800%22",
+        "title": "Birth of the new sun",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251221_SwedenSolstice%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "dd00815c13992e5eb5cd69c5e0adc6a4",
+        "hsh": "482bf52290bd774bf376e3fcfbaffe0b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ever felt as if the night just wouldn't end? That's the winter solstice working its magic. It is the shortest day and longest night of the year in the Northern Hemisphere, occurring around December 21 or 22. In the Southern Hemisphere, the same happens around June 21 or 22. It marks the moment when one of Earth's poles tilts farthest from the sun. From that instant, daylight slowly begins to lengthen again.",
+                "Image": {
+                    "Url": "/th?id=OHR.SwedenSolstice_EN-US5470044971_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SwedenSolstice_EN-US5470044971_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Birth of the new sun",
+                "Title": "Dawn light through frosty trees, Sweden",
+                "Copyright": "© Schon/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "While today marks the shortest day of the year in the Northern Hemisphere, it is the longest in the Southern Hemisphere, where the summer solstice takes place.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251221_SwedenSolstice\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Winter+solstice&form=hpcapt&filters=HpDate:\"20251221_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251221_SwedenSolstice"
+            },
+            "Ssd": "20251221",
+            "Name": "SwedenSolstice",
+            "Market": "EN-US",
+            "Hash": "5470044971",
+            "FullDateString": "Dec 21, 2025"
+        }
+    },
+    {
         "startdate": "20251220",
         "fullstartdate": "202512200800",
         "enddate": "20251221",

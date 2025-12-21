@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251221",
+        "fullstartdate": "202512210800",
+        "enddate": "20251222",
+        "url": "/th?id=OHR.SwedenSolstice_ROW5093958502_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SwedenSolstice_ROW5093958502",
+        "copyright": "Dawn light through frosty trees, Sweden (© Schon/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Sweden&form=hpcapt&filters=HpDate%3a%2220251221_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251221_SwedenSolstice%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "dd00815c13992e5eb5cd69c5e0adc6a4",
+        "hsh": "27c46b07d9dda3c9dcb824e21fb6242b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ever wondered why some days feel endless while others pass in the blink of an eye? This fascinating rhythm of day and night is closely tied to a remarkable event called the solstice. Occurring twice a year, solstices mark the moments when the Sun reaches its highest or lowest point in the sky at noon, resulting the longest and shortest days of the year. There are two solstices each year: the summer solstice and the winter solstice.",
+                "Image": {
+                    "Url": "/th?id=OHR.SwedenSolstice_ROW5093958502_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SwedenSolstice_ROW5093958502_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Dawn light through frosty trees, Sweden",
+                "Copyright": "© Schon/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251221_SwedenSolstice\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Sweden&form=hpcapt&filters=HpDate:\"20251221_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251221_SwedenSolstice"
+            },
+            "Ssd": "20251221",
+            "Name": "SwedenSolstice",
+            "Market": "ROW",
+            "Hash": "5093958502",
+            "FullDateString": "21 Dec 2025"
+        }
+    },
+    {
         "startdate": "20251220",
         "fullstartdate": "202512200800",
         "enddate": "20251221",
