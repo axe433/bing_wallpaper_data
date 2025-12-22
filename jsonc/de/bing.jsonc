@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251222",
+        "fullstartdate": "202512222300",
+        "enddate": "20251223",
+        "url": "/th?id=OHR.ReindeerFinland_DE-DE2067489685_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ReindeerFinland_DE-DE2067489685",
+        "copyright": "Rentiere während des Schneefalls im Winter, Lappland, Finnland (© Roberto Moiola/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Rentier&form=hpcapt&filters=HpDate%3a%2220251222_2300%22",
+        "title": "Hüter des Schnees",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251222_ReindeerFinland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4465347ab667fa33a26ef6d9d5490a64",
+        "hsh": "2dbfc354d4bd4bbc0a1f14effafc1399",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Rentiere sind perfekt an das Leben in arktischen Regionen angepasst. So verändern sich beispielsweise ihre Hufe je nach Jahreszeit: Im Sommer sind sie weich, um auf dem Boden zu laufen, und im Winter härten sie aus, sodass sie festen Halt auf Eis und Schnee bieten. Zusammen mit ihrem dichten Fell ermöglicht ihnen diese Eigenschaft das Überleben bei extremen Temperaturen. Eine weitere erstaunliche Besonderheit ist, dass sowohl Männchen als auch Weibchen ein Geweih entwickeln, was unter Hirschen eher selten vorkommt. Die Geweihe erfüllen wichtige Funktionen, wie das Entfernen von Schnee, um Flechten zu finden, die in den kältesten Monaten ihre wichtigste Nahrung sind.",
+                "Image": {
+                    "Url": "/th?id=OHR.ReindeerFinland_DE-DE2067489685_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ReindeerFinland_DE-DE2067489685_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Hüter des Schnees",
+                "Title": "Rentiere während des Schneefalls im Winter, Lappland, Finnland",
+                "Copyright": "© Roberto Moiola/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Rentiere leben bis zu 15 Jahre in freier Wildbahn, in menschlicher Obhut sogar bis zu 20 Jahre.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251223_ReindeerFinland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Rentier&form=hpcapt&filters=HpDate:\"20251222_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251223_ReindeerFinland"
+            },
+            "Ssd": "20251223",
+            "Name": "ReindeerFinland",
+            "Market": "DE-DE",
+            "Hash": "2067489685",
+            "FullDateString": "23. Dez.. 2025"
+        }
+    },
+    {
         "startdate": "20251221",
         "fullstartdate": "202512212300",
         "enddate": "20251222",
