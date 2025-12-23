@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251223",
+        "fullstartdate": "202512232300",
+        "enddate": "20251224",
+        "url": "/th?id=OHR.ElmauChapel_FR-FR3119291708_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ElmauChapel_FR-FR3119291708",
+        "copyright": "Chapelle avec sapin de Noël dans les Alpes bavaroises, Allemagne (© mauritius images GmbH/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=r%C3%A9veillon+de+no%C3%ABl&form=hpcapt&filters=HpDate%3a%2220251223_2300%22",
+        "title": "Une nuit magique nous attend !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251223_ElmauChapel%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cb653eaeb181e43f22e80d7a7e710303",
+        "hsh": "e9696208bc8f8d7e8d2c9a39a113c522",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La nuit tombe sur les Alpes bavaroises. Une chapelle minuscule, coiffée de neige, veille au bord de la forêt. À côté, un sapin illuminé fend l’obscurité bleutée, comme un phare dans le silence glacé. En Bavière, le réveillon de Noël se vit entre montagnes et traditions : les villages s’embrasent de guirlandes, l’air embaume le pain d’épices et le vin chaud, et les cloches résonnent jusque dans les vallées.",
+                "Image": {
+                    "Url": "/th?id=OHR.ElmauChapel_FR-FR3119291708_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ElmauChapel_FR-FR3119291708_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Une nuit magique nous attend !",
+                "Title": "Chapelle avec sapin de Noël dans les Alpes bavaroises, Allemagne",
+                "Copyright": "© mauritius images GmbH/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.64,11.77/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=47.64,11.77;S9;Alpes bavaroises, Allemagne&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Bavarian%20Alps&satid=id.sid%3Ac65eff45-af15-75a5-f734-4518c12c51f7&vdpid=7016236341746728961&mb=47.643446~11.76168~47.636564~11.778331&cardbg=%23F98745&dt=1762254000000&tt=Bavarian%20Alps&tsts0=%2526ty%253D30%2526q%253DBavarian%252520Alps%2526satid%253Did.sid%25253Ac65eff45-af15-75a5-f734-4518c12c51f7%2526vdpid%253D7016236341746728961%2526mb%253D47.643446~11.76168~47.636564~11.778331%2526cardbg%253D%252523F98745%2526dt%253D1762254000000&tstt0=Bavarian%20Alps&cp=46.800059~-2.592773&lvl=5&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251224_ElmauChapel\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=r%c3%a9veillon+de+no%c3%abl&form=hpcapt&filters=HpDate:\"20251223_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251224_ElmauChapel"
+            },
+            "Ssd": "20251224",
+            "Name": "ElmauChapel",
+            "Market": "FR-FR",
+            "Hash": "3119291708",
+            "FullDateString": "24 déc. 2025"
+        }
+    },
+    {
         "startdate": "20251222",
         "fullstartdate": "202512222300",
         "enddate": "20251223",

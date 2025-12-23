@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251223",
+        "fullstartdate": "202512230500",
+        "enddate": "20251224",
+        "url": "/th?id=OHR.ReindeerFinland_EN-CA1872537703_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ReindeerFinland_EN-CA1872537703",
+        "copyright": "Reindeer during winter snowfall, Lapland, Finland (© Roberto Moiola/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Reindeer&form=hpcapt&filters=HpDate%3a%2220251223_0500%22",
+        "title": "Where holiday magic runs on hooves",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251223_ReindeerFinland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4465347ab667fa33a26ef6d9d5490a64",
+        "hsh": "676ffec71453e526a8b1765405cb9d10",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Few creatures evoke the magic of the holidays quite like the reindeer. Also known as caribou, they are the spirit animals of Christmas lovers—and they rock it. Sturdy and sure-footed, they've been pulling Santa's sleigh ever since Clement Clarke Moore cast them in the role in his 1823 poem 'A Visit from Saint Nicholas.' And they were born for it. Their hooves shrink in winter to expose a gripping rim, then expand in warmer months for better traction.",
+                "Image": {
+                    "Url": "/th?id=OHR.ReindeerFinland_EN-CA1872537703_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ReindeerFinland_EN-CA1872537703_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Where holiday magic runs on hooves",
+                "Title": "Reindeer during winter snowfall, Lapland, Finland",
+                "Copyright": "© Roberto Moiola/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Reindeer can live up to 15 years in the wild, while those cared for by humans may reach as much as 20 years.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251223_ReindeerFinland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Reindeer&form=hpcapt&filters=HpDate:\"20251223_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251223_ReindeerFinland"
+            },
+            "Ssd": "20251223",
+            "Name": "ReindeerFinland",
+            "Market": "EN-CA",
+            "Hash": "1872537703",
+            "FullDateString": "Dec. 23, 2025"
+        }
+    },
+    {
         "startdate": "20251222",
         "fullstartdate": "202512220500",
         "enddate": "20251223",

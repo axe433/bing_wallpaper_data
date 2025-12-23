@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251223",
+        "fullstartdate": "202512232300",
+        "enddate": "20251224",
+        "url": "/th?id=OHR.ElmauChapel_IT-IT0705069498_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ElmauChapel_IT-IT0705069498",
+        "copyright": "Cappella innevata con albero di Natale nelle Alpi bavaresi, Germania (© mauritius images GmbH/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Viglia+di+Natale&form=hpcapt",
+        "title": "Tradizioni che emozioni",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251223_ElmauChapel%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cb653eaeb181e43f22e80d7a7e710303",
+        "hsh": "f03b2ccaafe6f3e75725f15049ba2402",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Tra il silenzio delle notti fredde e il calore delle case, la magia prende forma. Milioni di voi abbracciano usanze che vi collegano alle vostre radici o vi introducono a culture completamente nuove. Nelle regioni innevate, come le Alpi bavaresi in Germania, le luci festive brillano contro il freddo invernale. In Germania potreste passeggiare per un mercato natalizio con in mano una fumante tazza di Glühwein (vin brulé), spostandovi da una bancarella all’altra. A Caracas, in Venezuela, vi unirete alle folle che pattinano a rotelle per andare alla Messa di Natale. In Argentina, i nostri lontani parenti celebrano con panettone e vitello tonnato, portando in tavola sapori che uniscono tradizioni europee e sudamericane. Mentre in Italia la Vigilia è tradizionalmente un momento di attesa e raccoglimento, spesso accompagnato da una cena a base di piatti di pesce.",
+                "Image": {
+                    "Url": "/th?id=OHR.ElmauChapel_IT-IT0705069498_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ElmauChapel_IT-IT0705069498_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Tradizioni che emozioni",
+                "Title": "Cappella innevata con albero di Natale nelle Alpi bavaresi, Germania",
+                "Copyright": "© mauritius images GmbH/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.64,11.77/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=47.64,11.77;S9;Alpi bavaresi, Germania&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Bavarian%20Alps&satid=id.sid%3Ac65eff45-af15-75a5-f734-4518c12c51f7&vdpid=7016236341746728961&mb=47.643446~11.76168~47.636564~11.778331&cardbg=%23F98745&dt=1762254000000&tt=Bavarian%20Alps&tsts0=%2526ty%253D30%2526q%253DBavarian%252520Alps%2526satid%253Did.sid%25253Ac65eff45-af15-75a5-f734-4518c12c51f7%2526vdpid%253D7016236341746728961%2526mb%253D47.643446~11.76168~47.636564~11.778331%2526cardbg%253D%252523F98745%2526dt%253D1762254000000&tstt0=Bavarian%20Alps&cp=46.800059~-2.592773&lvl=5&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251224_ElmauChapel\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Viglia+di+Natale&form=hpcapt&filters=HpDate:\"20251223_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251224_ElmauChapel"
+            },
+            "Ssd": "20251224",
+            "Name": "ElmauChapel",
+            "Market": "IT-IT",
+            "Hash": "0705069498",
+            "FullDateString": "24 dicembre 2025"
+        }
+    },
+    {
         "startdate": "20251222",
         "fullstartdate": "202512222300",
         "enddate": "20251223",
