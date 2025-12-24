@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251224",
+        "fullstartdate": "202512242300",
+        "enddate": "20251225",
+        "url": "/th?id=OHR.SantaGlobe_DE-DE3146908571_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SantaGlobe_DE-DE3146908571",
+        "copyright": "Schneekugeln auf einem Weihnachtsmarkt in Heidelberg, Baden-Württemberg (© George Pachantouris/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Weihnachten&form=hpcapt&filters=HpDate%3a%2220251224_2300%22",
+        "title": "Kleine Welten, großer Zauber",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251224_SantaGlobe%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f85d5878757e3a9f5dee749a5c6f37ff",
+        "hsh": "d47b60cd5d8a20755921a57439cd175c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ein sanftes Schütteln genügt – und schon tanzt Schnee um eine kleine Welt im Glas. Schneekugeln haben eine faszinierende Geschichte: Erste wassergefüllte Glaskugeln gab es bereits im 16. Jahrhundert, doch die Schneekugel, wie wir sie heute kennen, erfand Erwin Perzy um 1900 in Wien. Sein Modell der Basilika von Mariazell, gefüllt mit Wasser und feinem Grieß als Schnee, wurde zum Kultobjekt und machte die Schneekugel weltweit bekannt. Heute erstrahlen diese Miniaturwelten in unzähligen Designs und liebevollen Motiven, wie das heutige Bild vom Heidelberger Weihnachtsmarkt eindrucksvoll zeigt.",
+                "Image": {
+                    "Url": "/th?id=OHR.SantaGlobe_DE-DE3146908571_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SantaGlobe_DE-DE3146908571_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Kleine Welten, großer Zauber",
+                "Title": "Schneekugeln auf einem Weihnachtsmarkt in Heidelberg, Baden-Württemberg",
+                "Copyright": "© George Pachantouris/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/49.402892,8.679985/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=49.402892,8.679985;S9;Heidelberg, Baden-Württemberg&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Heidelberg%2C%20Germany&satid=id.sid%3A0ed4c4ac-d0e9-d557-45fe-d5248ba0c523&vdpid=7015010726708248577&mb=49.459599~8.549026~49.35215~8.818228&cardbg=%23F98745&tt=Heidelberg%2C%20Baden-W%C3%BCrttemberg%2C%20Germany&tsts0=%2526ty%253D30%2526q%253DHeidelberg%25252C%252520Germany%2526satid%253Did.sid%25253A0ed4c4ac-d0e9-d557-45fe-d5248ba0c523%2526vdpid%253D7015010726708248577%2526mb%253D49.459599~8.549026~49.35215~8.818228%2526cardbg%253D%252523F98745&tstt0=Heidelberg%2C%20Baden-W%C3%BCrttemberg%2C%20Germany&cp=49.401353~-2.288079&lvl=4.99&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251225_SantaGlobe\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Weihnachten&form=hpcapt&filters=HpDate:\"20251224_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251225_SantaGlobe"
+            },
+            "Ssd": "20251225",
+            "Name": "SantaGlobe",
+            "Market": "DE-DE",
+            "Hash": "3146908571",
+            "FullDateString": "25. Dez.. 2025"
+        }
+    },
+    {
         "startdate": "20251223",
         "fullstartdate": "202512232300",
         "enddate": "20251224",

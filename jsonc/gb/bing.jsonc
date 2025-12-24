@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251224",
+        "fullstartdate": "202512240000",
+        "enddate": "20251225",
+        "url": "/th?id=OHR.ElmauChapel_EN-GB2006634958_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ElmauChapel_EN-GB2006634958",
+        "copyright": "Snowy chapel with Christmas tree in the Bavarian Alps, Germany (© mauritius images GmbH/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Christmas+Eve&form=hpcapt&filters=HpDate%3a%2220251224_0000%22",
+        "title": "Traditions that travel",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251224_ElmauChapel%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cb653eaeb181e43f22e80d7a7e710303",
+        "hsh": "3840750a44eb5847e1fcaf4c3c641960",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "As Christmas Eve arrives, millions embrace customs that connect us to our roots—or introduce us to entirely new cultures. In snowy regions like the Bavarian Alps in Germany—a frost-kissed landscape seen in today's image—festive lights glow against winter's chill. Elsewhere, the sun blazes brightly: think of the Caribbean, Australia or Brazil, where Christmas often means golden beaches instead of frosty mornings.",
+                "Image": {
+                    "Url": "/th?id=OHR.ElmauChapel_EN-GB2006634958_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ElmauChapel_EN-GB2006634958_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Traditions that travel",
+                "Title": "Snowy chapel with Christmas tree in the Bavarian Alps, Germany",
+                "Copyright": "© mauritius images GmbH/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.64,11.77/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=47.64,11.77;S9;Bavarian Alps, Germany&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Bavarian%20Alps&satid=id.sid%3Ac65eff45-af15-75a5-f734-4518c12c51f7&vdpid=7016236341746728961&mb=47.643446~11.76168~47.636564~11.778331&cardbg=%23F98745&dt=1762254000000&tt=Bavarian%20Alps&tsts0=%2526ty%253D30%2526q%253DBavarian%252520Alps%2526satid%253Did.sid%25253Ac65eff45-af15-75a5-f734-4518c12c51f7%2526vdpid%253D7016236341746728961%2526mb%253D47.643446~11.76168~47.636564~11.778331%2526cardbg%253D%252523F98745%2526dt%253D1762254000000&tstt0=Bavarian%20Alps&cp=46.800059~-2.592773&lvl=5&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251224_ElmauChapel\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Christmas+Eve&form=hpcapt&filters=HpDate:\"20251224_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251224_ElmauChapel"
+            },
+            "Ssd": "20251224",
+            "Name": "ElmauChapel",
+            "Market": "EN-GB",
+            "Hash": "2006634958",
+            "FullDateString": "24 Dec 2025"
+        }
+    },
+    {
         "startdate": "20251223",
         "fullstartdate": "202512230000",
         "enddate": "20251224",

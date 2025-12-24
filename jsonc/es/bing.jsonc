@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251224",
+        "fullstartdate": "202512242300",
+        "enddate": "20251225",
+        "url": "/th?id=OHR.SantaGlobe_ES-ES4718622311_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SantaGlobe_ES-ES4718622311",
+        "copyright": "Bolas de nieve en un mercado navideño en Heidelberg, Alemania (© George Pachantouris/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+de+Navidad&form=hpcapt&filters=HpDate%3a%2220251224_2300%22",
+        "title": "Fantasía en miniatura",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251224_SantaGlobe%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f85d5878757e3a9f5dee749a5c6f37ff",
+        "hsh": "8a4cd743b6f5eabd5cc8fa4b5dccb647",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Bajo el cielo invernal de Heidelberg, en Alemania, los puestos brillan con bolas de nieve que capturan el espíritu de la temporada en un mundo en miniatura. La Navidad, celebración cristiana de fe, luz y unión, nos invita a dar la bienvenida a la calidez y la alegría en los días más fríos del año. En todo el mundo, las velas iluminan los alféizares y las guirnaldas adornan casas y calles. Los árboles de hoja perenne lucen sus adornos, mientras los regalos esperan en silencio debajo.",
+                "Image": {
+                    "Url": "/th?id=OHR.SantaGlobe_ES-ES4718622311_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SantaGlobe_ES-ES4718622311_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Fantasía en miniatura",
+                "Title": "Bolas de nieve en un mercado navideño en Heidelberg, Alemania",
+                "Copyright": "© George Pachantouris/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251225_SantaGlobe\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dia+de+Navidad&form=hpcapt&filters=HpDate:\"20251224_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251225_SantaGlobe"
+            },
+            "Ssd": "20251225",
+            "Name": "SantaGlobe",
+            "Market": "ES-ES",
+            "Hash": "4718622311",
+            "FullDateString": "25 de dic. de 2025"
+        }
+    },
+    {
         "startdate": "20251223",
         "fullstartdate": "202512232300",
         "enddate": "20251224",
