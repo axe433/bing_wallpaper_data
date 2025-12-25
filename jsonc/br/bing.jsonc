@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251225",
+        "fullstartdate": "202512250300",
+        "enddate": "20251226",
+        "url": "/th?id=OHR.XmasRio_PT-BR9436214235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.XmasRio_PT-BR9436214235",
+        "copyright": "Árvore de Natal na cidade do Rio de Janeiro (© Ruy Barbosa Pinto/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=o+Natal&form=hpcapt&mkt=pt-br",
+        "title": "Luz, esperança e união",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251225_XmasRio%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ab463050958e1e7d7862a3a9b9c3064f",
+        "hsh": "3cfd446bb7b1e9e345349d84bf5fead9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A foto de hoje nos leva à beira da Lagoa Rodrigo de Freitas, no coração da cidade do Rio de Janeiro. A árvore iluminada reflete no espelho d’água enquanto fogos coloridos celebram a chegada do Natal. Essa imagem não é apenas um espetáculo visual — é um convite à reflexão sobre o significado desta data: renovação, solidariedade e compromisso com o futuro.",
+                "Image": {
+                    "Url": "/th?id=OHR.XmasRio_PT-BR9436214235_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.XmasRio_PT-BR9436214235_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Luz, esperança e união",
+                "Title": "Árvore de Natal na cidade do Rio de Janeiro",
+                "Copyright": "© Ruy Barbosa Pinto/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251225_XmasRio\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=o+Natal&form=hpcapt&filters=HpDate:\"20251225_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251225_XmasRio"
+            },
+            "Ssd": "20251225",
+            "Name": "XmasRio",
+            "Market": "PT-BR",
+            "Hash": "9436214235",
+            "FullDateString": "25 dez. 2025"
+        }
+    },
+    {
         "startdate": "20251224",
         "fullstartdate": "202512240300",
         "enddate": "20251225",

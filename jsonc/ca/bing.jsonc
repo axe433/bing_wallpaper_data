@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251225",
+        "fullstartdate": "202512250500",
+        "enddate": "20251226",
+        "url": "/th?id=OHR.XmasTree_EN-CA1915827603_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.XmasTree_EN-CA1915827603",
+        "copyright": "Christmas trees in Old Quebec (© Jean Surprenant/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Christmas&form=hpcapt&filters=HpDate%3a%2220251225_0500%22",
+        "title": "Christmas couture",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251225_XmasTree%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a427239d3a5641496836030d1489912c",
+        "hsh": "ec4720cc2d471049dbb3942dbfde0a3b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Under a crisp Canadian winter sky, it's the glow of Christmas trees—on city squares, on neighbourhood lawns and in living-room windows—that sets the season alight. From Toronto's Cavalcade of Lights to Vancouver's Festival of Lights at VanDusen Garden, communities gather around these lit evergreens, sharing warmth during the year's coldest weeks. Christmas—a celebration of faith, light and togetherness—invites people to bring that brightness indoors. Garlands wind through hallways, candles cast a soft glow across familiar rooms and mistletoe hangs in doorways while wreaths greet guests at the front door.",
+                "Image": {
+                    "Url": "/th?id=OHR.XmasTree_EN-CA1915827603_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.XmasTree_EN-CA1915827603_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Christmas couture",
+                "Title": "Christmas trees in Old Quebec",
+                "Copyright": "© Jean Surprenant/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.81611,-71.22417/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=46.81611,-71.22417;S9;Quebec City, Quebec&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Quebec%20city%2C%20Quebec&satid=id.sid%3A8a8e64f6-510b-8816-6d69-6b5a37c533d8&vdpid=5295328629746565121&mb=47~-71.8228~46.565811~-70.719566&cardbg=%23F98745&tt=Qu%C3%A9bec%2C%20Quebec%2C%20Canada&tsts0=%2526ty%253D30%2526q%253DQuebec%252520city%25252C%252520Quebec%2526satid%253Did.sid%25253A8a8e64f6-510b-8816-6d69-6b5a37c533d8%2526vdpid%253D5295328629746565121%2526mb%253D47~-71.8228~46.565811~-70.719566%2526cardbg%253D%252523F98745&tstt0=Qu%C3%A9bec%2C%20Quebec%2C%20Canada&cp=45.531616~-77.289395&lvl=5.8090596&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251225_XmasTree\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Christmas&form=hpcapt&filters=HpDate:\"20251225_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251225_XmasTree"
+            },
+            "Ssd": "20251225",
+            "Name": "XmasTree",
+            "Market": "EN-CA",
+            "Hash": "1915827603",
+            "FullDateString": "Dec. 25, 2025"
+        }
+    },
+    {
         "startdate": "20251224",
         "fullstartdate": "202512240500",
         "enddate": "20251225",

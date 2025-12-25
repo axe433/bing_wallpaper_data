@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251225",
+        "fullstartdate": "202512252300",
+        "enddate": "20251226",
+        "url": "/th?id=OHR.WiltshireDawn_DE-DE2989262973_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WiltshireDawn_DE-DE2989262973",
+        "copyright": "Kathedrale von Salisbury, Wiltshire, England (© Julian Elliott Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Zweiter+Weihnachtsfeiertag&form=hpcapt&filters=HpDate%3a%2220251225_2300%22",
+        "title": "Tradition trifft Entspannung",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251225_WiltshireDawn%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d21cbfd40fc274e0ad222cabdc13dc75",
+        "hsh": "dfdd5d4bbd5a50130f1383bd6aadedb3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Wussten Sie, dass am 26. Dezember in Teilen des Commonwealth, also in Ländern, die historisch mit dem Vereinigten Königreich verbunden sind, der sogenannte Boxing Day gefeiert wird? Der Brauch stammt ursprünglich aus dem viktorianischen Zeitalter in England. Damals erhielten Bedienstete und Bedürftige „Christmas Boxes“ mit kleinen Geschenken oder Geld und die Kirchen öffneten ihre Almosenboxen für Spenden.",
+                "Image": {
+                    "Url": "/th?id=OHR.WiltshireDawn_DE-DE2989262973_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WiltshireDawn_DE-DE2989262973_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Tradition trifft Entspannung",
+                "Title": "Kathedrale von Salisbury, Wiltshire, England",
+                "Copyright": "© Julian Elliott Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.064991,-1.797319/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=51.064991,-1.797319;S9;Kathedrale von Salisbury, Salisbury, Wiltshire, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Salisbury%20Cathedral&ss=ypid.YN768605D776AE492D&mb=51.067992~-1.805642~51.061978~-1.78899&description=Salisbury%20SP1%202EJ%C2%B7Religious%20organization&cardbg=%233AABCF&dt=1763127000000&tt=Salisbury%20Cathedral&tsts0=%2526ty%253D18%2526q%253DSalisbury%252520Cathedral%2526ss%253Dypid.YN768605D776AE492D%2526mb%253D51.067992~-1.805642~51.061978~-1.78899%2526description%253DSalisbury%252520SP1%2525202EJ%2525C2%2525B7Religious%252520organization%2526cardbg%253D%2525233AABCF%2526dt%253D1763127000000&tstt0=Salisbury%20Cathedral&cp=50.211369~-2.936223&lvl=7.7789283&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251226_WiltshireDawn\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Zweiter+Weihnachtsfeiertag&form=hpcapt&filters=HpDate:\"20251225_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251226_WiltshireDawn"
+            },
+            "Ssd": "20251226",
+            "Name": "WiltshireDawn",
+            "Market": "DE-DE",
+            "Hash": "2989262973",
+            "FullDateString": "26. Dez.. 2025"
+        }
+    },
+    {
         "startdate": "20251224",
         "fullstartdate": "202512242300",
         "enddate": "20251225",
