@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251226",
+        "fullstartdate": "202512262300",
+        "enddate": "20251227",
+        "url": "/th?id=OHR.SuperiorIceMN_ES-ES4840040779_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SuperiorIceMN_ES-ES4840040779",
+        "copyright": "Placas de hielo a lo largo del Lago Superior, Grand Marais, Minnesota, EE. UU. (© wanderluster/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lago+Superior&form=hpcapt&filters=HpDate%3a%2220251226_2300%22",
+        "title": "Fragmentos de invierno",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251226_SuperiorIceMN%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "95cbd19b4466a6b9bb8ef21c4bfdd401",
+        "hsh": "41e88db93e8c44cd5737f4a76dff3dd3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El Lago Superior, el más grande de los Grandes Lagos de Norteamérica, es un océano de agua dulce que desafía el invierno con su inmensidad. En la imagen de hoy podemos admirar las láminas de hielo que se extienden a lo largo de sus aguas en Grand Marais, Minnesota (Estados Unidos), un espectáculo donde el frío convierte la superficie en fragmentos que parecen espejos rotos. Cada pieza refleja la luz como si el invierno se hubiera hecho añicos sobre el lago, creando un paisaje que mezcla silencio, viento y formas efímeras sobre la nieve.",
+                "Image": {
+                    "Url": "/th?id=OHR.SuperiorIceMN_ES-ES4840040779_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SuperiorIceMN_ES-ES4840040779_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Fragmentos de invierno",
+                "Title": "Placas de hielo a lo largo del Lago Superior, Grand Marais, Minnesota, EE. UU.",
+                "Copyright": "© wanderluster/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251227_SuperiorIceMN\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lago+Superior&form=hpcapt&filters=HpDate:\"20251226_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251227_SuperiorIceMN"
+            },
+            "Ssd": "20251227",
+            "Name": "SuperiorIceMN",
+            "Market": "ES-ES",
+            "Hash": "4840040779",
+            "FullDateString": "27 de dic. de 2025"
+        }
+    },
+    {
         "startdate": "20251225",
         "fullstartdate": "202512252300",
         "enddate": "20251226",
