@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251227",
+        "fullstartdate": "202512270800",
+        "enddate": "20251228",
+        "url": "/th?id=OHR.SuperiorIceMN_EN-US5952266924_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SuperiorIceMN_EN-US5952266924",
+        "copyright": "Plate ice along Lake Superior, Grand Marais, Minnesota (© wanderluster/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lake+Superior+Minnesota&form=hpcapt&filters=HpDate%3a%2220251227_0800%22",
+        "title": "Shards of winter",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251227_SuperiorIceMN%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "95cbd19b4466a6b9bb8ef21c4bfdd401",
+        "hsh": "4113c42d1010f7cbf1aeb1c553b3da00",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "When winter tightens its grip on Lake Superior in Minnesota, the shoreline transforms into a landscape of tilted, glass-like shards known as plate ice. Thin sheets fracture under shifting temperatures, then drift and stack as the wind presses them toward land. The result is a field of translucent blues and silvers, catching the light at sharp angles and making the water's edge appear sculpted rather than frozen.",
+                "Image": {
+                    "Url": "/th?id=OHR.SuperiorIceMN_EN-US5952266924_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SuperiorIceMN_EN-US5952266924_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Shards of winter",
+                "Title": "Plate ice along Lake Superior, Grand Marais, Minnesota",
+                "Copyright": "© wanderluster/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.786549,-92.098114/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=46.786549,-92.098114;S9;Lake%20Superior%2C%20Minnesota&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Lake%20Superior%2C%20Minnesota&vdpid=4899464787178034496&mb=46.792384~-92.11328~46.780704~-92.082939&cardbg=%23FFFFFF&dt=1763116200000&tt=Lake%20Superior%20Plaza%2C%20Minnesota%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253DLake%252520Superior%25252C%252520Minnesota%2526vdpid%253D4899464787178034496%2526mb%253D46.792384~-92.11328~46.780704~-92.082939%2526cardbg%253D%252523FFFFFF%2526dt%253D1763116200000&tstt0=Lake%20Superior%20Plaza%2C%20Minnesota%2C%20United%20States&cp=46.503772~-94.167005&lvl=7.53&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251227_SuperiorIceMN\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lake+Superior+Minnesota&form=hpcapt&filters=HpDate:\"20251227_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251227_SuperiorIceMN"
+            },
+            "Ssd": "20251227",
+            "Name": "SuperiorIceMN",
+            "Market": "EN-US",
+            "Hash": "5952266924",
+            "FullDateString": "Dec 27, 2025"
+        }
+    },
+    {
         "startdate": "20251226",
         "fullstartdate": "202512260800",
         "enddate": "20251227",

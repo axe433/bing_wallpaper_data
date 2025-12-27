@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251227",
+        "fullstartdate": "202512272300",
+        "enddate": "20251228",
+        "url": "/th?id=OHR.RuffedLemur_ES-ES4805768745_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RuffedLemur_ES-ES4805768745",
+        "copyright": "Lémur rufo blanco y negro en Madagascar (© Cyrielle Beaubois/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=L%C3%A9mures&form=hpcapt&filters=HpDate%3a%2220251227_2300%22",
+        "title": "El guardián del bosque",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251227_RuffedLemur%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "98b931f7d4cb7064828279ac36314825",
+        "hsh": "117877f27ed6cfd59a3f19d173afa812",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En el corazón de los bosques de Madagascar vive un animal extraordinario: el lémur rufo blanco y negro. Sus gritos, audibles a gran distancia, acompañan una labor vital para el ecosistema. Al alimentarse de frutos y néctar, dispersa semillas y contribuye a la regeneración del bosque. Hay incluso plantas que dependen por completo de él.",
+                "Image": {
+                    "Url": "/th?id=OHR.RuffedLemur_ES-ES4805768745_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RuffedLemur_ES-ES4805768745_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "El guardián del bosque",
+                "Title": "Lémur rufo blanco y negro en Madagascar",
+                "Copyright": "© Cyrielle Beaubois/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251228_RuffedLemur\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=L%c3%a9mures&form=hpcapt&filters=HpDate:\"20251227_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251228_RuffedLemur"
+            },
+            "Ssd": "20251228",
+            "Name": "RuffedLemur",
+            "Market": "ES-ES",
+            "Hash": "4805768745",
+            "FullDateString": "28 de dic. de 2025"
+        }
+    },
+    {
         "startdate": "20251226",
         "fullstartdate": "202512262300",
         "enddate": "20251227",

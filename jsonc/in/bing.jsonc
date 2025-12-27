@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251227",
+        "fullstartdate": "202512271830",
+        "enddate": "20251228",
+        "url": "/th?id=OHR.MangaloreBeach2025_EN-IN9427603327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MangaloreBeach2025_EN-IN9427603327",
+        "copyright": "Aerial view of a sandy beach in Mangaluru, Karnataka (© Amith Nag Photography/Moment/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mangaluru+Karnataka&form=hpcapt&filters=HpDate%3a%2220251227_1830%22",
+        "title": "A shore thing in Mangaluru",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251227_MangaloreBeach2025%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "49ceccb8bfbe3319724dde61f3c45a75",
+        "hsh": "996a9ec930214280a050114341f3a0fb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Mangaluru sits on India's western coast, facing the Arabian Sea, with a shoreline defined by long beaches, river mouths and an active maritime presence. The city's location has shaped its identity for centuries, linking it to coastal trade, fishing activity, and the wider routes of the Konkan. Its seafront is less of an attraction and more a fundamental part of how Mangaluru has grown, connecting land, water and people in a way that feels instinctive to the region.",
+                "Image": {
+                    "Url": "/th?id=OHR.MangaloreBeach2025_EN-IN9427603327_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MangaloreBeach2025_EN-IN9427603327_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A shore thing in Mangaluru",
+                "Title": "Aerial view of a sandy beach in Mangaluru, Karnataka",
+                "Copyright": "© Amith Nag Photography/Moment/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/12.87167,74.8425/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=12.87167,74.8425;S9;Mangaluru, Karnataka&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30q=Mangaluru%20Karnataka&satid=id.sid%3A36ce9c5c-ce24-86bb-67a0-aa3f9eedd143&vdpid=7466075270978469914&mb=13.130177~74.545341~12.754109~75.243065&cardbg=%23FFFFFF&tt=Mangaluru%2C%20Karnataka%2C%20India&tsts0=%2526ty%253D30%2526q%253DMangaluru%252520Karnataka%2526satid%253Did.sid%25253A36ce9c5c-ce24-86bb-67a0-aa3f9eedd143%2526vdpid%253D7466075270978469914%2526mb%253D13.130177~74.545341~12.754109~75.243065%2526cardbg%253D%252523FFFFFF&tstt0=Mangaluru%2C%20Karnataka%2C%20India&cp=13.201426~74.326737&lvl=8.320519&pi=0&ftst=0&ftics=False&v=2&sV=22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251228_MangaloreBeach2025\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Mangaluru+Karnataka&form=hpcapt&filters=HpDate:\"20251227_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251228_MangaloreBeach2025"
+            },
+            "Ssd": "20251228",
+            "Name": "MangaloreBeach2025",
+            "Market": "EN-IN",
+            "Hash": "9427603327",
+            "FullDateString": "28 Dec, 2025"
+        }
+    },
+    {
         "startdate": "20251226",
         "fullstartdate": "202512261830",
         "enddate": "20251227",

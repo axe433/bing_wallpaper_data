@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251227",
+        "fullstartdate": "202512270300",
+        "enddate": "20251228",
+        "url": "/th?id=OHR.SuperiorIceMN_PT-BR7439066938_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SuperiorIceMN_PT-BR7439066938",
+        "copyright": "Placas de gelo no Lago Superior, Grand Marais, Minnesota, EUA  (© wanderluster/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lago+superior%2c+Minnesota&form=hpcapt&mkt=pt-br",
+        "title": "Escultura gelada",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251227_SuperiorIceMN%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "95cbd19b4466a6b9bb8ef21c4bfdd401",
+        "hsh": "6ca6e1a880e53070d666376f7d3844a0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Uma cena de inverno que parece saída de um filme: placas de gelo inclinadas, brilhando como vidro, espalhadas pela margem do Lago Superior em Grand Marais, Minnesota. É isso que vemos na imagem de hoje, quando o frio intenso transforma a paisagem em uma verdadeira escultura natural. Esse fenômeno acontece quando finas lâminas se quebram com as variações de temperatura e são empurradas pelo vento até a costa. O resultado é um cenário de azuis e prateados que parece mais esculpido do que congelado. Essas formações podem aparecer de repente e desaparecer com a próxima mudança de clima, tornando cada visão única.",
+                "Image": {
+                    "Url": "/th?id=OHR.SuperiorIceMN_PT-BR7439066938_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SuperiorIceMN_PT-BR7439066938_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Escultura gelada",
+                "Title": "Placas de gelo no Lago Superior, Grand Marais, Minnesota, EUA",
+                "Copyright": "© wanderluster/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251227_SuperiorIceMN\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lago+superior%2c+Minnesota&form=hpcapt&filters=HpDate:\"20251227_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251227_SuperiorIceMN"
+            },
+            "Ssd": "20251227",
+            "Name": "SuperiorIceMN",
+            "Market": "PT-BR",
+            "Hash": "7439066938",
+            "FullDateString": "27 dez. 2025"
+        }
+    },
+    {
         "startdate": "20251226",
         "fullstartdate": "202512260300",
         "enddate": "20251227",
