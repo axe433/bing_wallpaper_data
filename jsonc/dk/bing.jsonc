@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251228",
+        "fullstartdate": "202512280800",
+        "enddate": "20251229",
+        "url": "/th?id=OHR.RuffedLemur_ROW0207681779_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RuffedLemur_ROW0207681779",
+        "copyright": "Black-and-white ruffed lemur in Madagascar (© Cyrielle Beaubois/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=lemur&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251228_RuffedLemur%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "98b931f7d4cb7064828279ac36314825",
+        "hsh": "7e5aa51668ab48d55426a35e2d5a3104",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "One moment the canopy is still, and the next a burst of black and white shoots through it like a living exclamation mark. That's the black-and-white ruffed lemur, a primate that doesn't shy away from announcing itself with raucous calls. Its coat comes in bold patches, and the thick ruff frames its face.",
+                "Image": {
+                    "Url": "/th?id=OHR.RuffedLemur_ROW0207681779_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RuffedLemur_ROW0207681779_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Black-and-white ruffed lemur in Madagascar",
+                "Copyright": "© Cyrielle Beaubois/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251228_RuffedLemur\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=lemur&form=hpcapt&filters=HpDate:\"20251228_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251228_RuffedLemur"
+            },
+            "Ssd": "20251228",
+            "Name": "RuffedLemur",
+            "Market": "ROW",
+            "Hash": "0207681779",
+            "FullDateString": "28. dec. 2025"
+        }
+    },
+    {
         "startdate": "20251227",
         "fullstartdate": "202512270800",
         "enddate": "20251228",

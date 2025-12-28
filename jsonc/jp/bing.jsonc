@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251228",
+        "fullstartdate": "202512281500",
+        "enddate": "20251229",
+        "url": "/th?id=OHR.AniTurkey_JA-JP3058730246_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AniTurkey_JA-JP3058730246",
+        "copyright": "アブガムレンツ聖グリゴル教会, トルコ (© Kenan Talas/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%83%96%E3%82%AC%E3%83%A0%E3%83%AC%E3%83%B3%E3%83%84%E8%81%96%E3%82%B0%E3%83%AA%E3%82%B4%E3%83%AB%E6%95%99%E4%BC%9A&form=hpcapt&filters=HpDate%3a%2220251228_1500%22",
+        "title": "栄枯盛衰を感じさせる美しい廃墟",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251228_AniTurkey%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9d286e3de8d9ea60a6bd59483b760e17",
+        "hsh": "7284b5dfe57a4820fb39d9cbcdd4f695",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "トルコ共和国の北東部、アルメニア共和国との国境近くに位置するアニ遺跡。バグラトゥニ朝アルメニアの首都であり、10 世紀から 11 世紀にかけては文化・経済の中心地として栄えました。地震や侵略、交易路の変化により一時は衰退しましたが、複数の文化が融合した歴史的価値が評価され、2016 年にユネスコの世界遺産に登録されました…",
+                "Image": {
+                    "Url": "/th?id=OHR.AniTurkey_JA-JP3058730246_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AniTurkey_JA-JP3058730246_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "栄枯盛衰を感じさせる美しい廃墟",
+                "Title": "アブガムレンツ聖グリゴル教会, トルコ",
+                "Copyright": "© Kenan Talas/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.3307,42.572102/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=40.3307,42.572102;S9;アニ遺跡, トルコ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=%E3%82%A2%E3%83%8B%E9%81%BA%E8%B7%A1&satid=id.sid%3A0ba4dca2-6674-7df7-ba80-c336459bea00&vdpid=7253372855792959489&mb=40.51207~43.562948~40.502934~43.582624&cardbg=%23F98745&dt=1765267200000&tt=Ani%2C%20Kars%2C%20T%C3%BCrkiye&tsts0=%2526ty%253D30%2526q%253D%2525E3%252582%2525A2%2525E3%252583%25258B%2525E9%252581%2525BA%2525E8%2525B7%2525A1%2526satid%253Did.sid%25253A0ba4dca2-6674-7df7-ba80-c336459bea00%2526vdpid%253D7253372855792959489%2526mb%253D40.51207~43.562948~40.502934~43.582624%2526cardbg%253D%252523F98745%2526dt%253D1765267200000&tstt0=Ani%2C%20Kars%2C%20T%C3%BCrkiye&cp=40.507502~43.567464&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251229_AniTurkey\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%a2%e3%83%96%e3%82%ac%e3%83%a0%e3%83%ac%e3%83%b3%e3%83%84%e8%81%96%e3%82%b0%e3%83%aa%e3%82%b4%e3%83%ab%e6%95%99%e4%bc%9a&form=hpcapt&filters=HpDate:\"20251228_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251229_AniTurkey"
+            },
+            "Ssd": "20251229",
+            "Name": "AniTurkey",
+            "Market": "JA-JP",
+            "Hash": "3058730246",
+            "FullDateString": "2025 年 12月 月 29 日"
+        }
+    },
+    {
         "startdate": "20251227",
         "fullstartdate": "202512271500",
         "enddate": "20251228",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251228",
+        "fullstartdate": "202512282300",
+        "enddate": "20251229",
+        "url": "/th?id=OHR.AniTurkey_ES-ES0462839984_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AniTurkey_ES-ES0462839984",
+        "copyright": "Iglesia de San Gregorio en las ruinas de Ani, Kars, Turquía (© Kenan Talas/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ani+en+Kars+Turqu%C3%ADa&form=hpcapt&filters=HpDate%3a%2220251228_2300%22",
+        "title": "Caminos de la historia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251228_AniTurkey%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9d286e3de8d9ea60a6bd59483b760e17",
+        "hsh": "1c3f15cb24842fcce051576706873862",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En una meseta azotada por el viento, en el este de Turquía y junto a la frontera con Armenia, las ruinas de Ani se recortan nítidas en el horizonte. La Iglesia de San Gregorio, construida en piedra volcánica oscura, aún eleva su torre cilíndrica como un faro que vela sobre el silencio de la llanura. En otro tiempo, Ani fue llamada la “Ciudad de las 1.001 Iglesias”; sus arquitectos experimentaban con arcos, cúpulas, fachadas y geometrías que inspirarían tradiciones lejanas, incluso el gótico europeo. Entre grietas y ruinas, su huella sigue viva.",
+                "Image": {
+                    "Url": "/th?id=OHR.AniTurkey_ES-ES0462839984_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AniTurkey_ES-ES0462839984_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Caminos de la historia",
+                "Title": "Iglesia de San Gregorio en las ruinas de Ani, Kars, Turquía",
+                "Copyright": "© Kenan Talas/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251229_AniTurkey\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ani+en+Kars+Turqu%c3%ada&form=hpcapt&filters=HpDate:\"20251228_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251229_AniTurkey"
+            },
+            "Ssd": "20251229",
+            "Name": "AniTurkey",
+            "Market": "ES-ES",
+            "Hash": "0462839984",
+            "FullDateString": "29 de dic. de 2025"
+        }
+    },
+    {
         "startdate": "20251227",
         "fullstartdate": "202512272300",
         "enddate": "20251228",

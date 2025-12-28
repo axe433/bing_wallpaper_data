@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251228",
+        "fullstartdate": "202512282300",
+        "enddate": "20251229",
+        "url": "/th?id=OHR.SkijumpingEisenbichler_DE-DE4421399020_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SkijumpingEisenbichler_DE-DE4421399020",
+        "copyright": "Markus Eisenbichler (GER) beim ersten Sprung am zweiten Tag der Vierschanzentournee, 30. Dezember 2016, Oberstdorf, Bayern (© Adam Pretty/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Vierschanzentournee&form=hpcapt&filters=HpDate%3a%2220251228_2300%22",
+        "title": "Lichter, Weite, Adrenalin",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251228_SkijumpingEisenbichler%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "8dd36c2f4e27d784fa6766185f93a00d",
+        "hsh": "7ff9d3df701b3a8d8d8d5e0eaa7daeaa",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Wussten Sie, dass Skispringer bis zu 140 Meter weit durch die Luft segeln – und dabei Geschwindigkeiten von über 90 km/h erreichen? Wenn nicht, dann ist heute der perfekte Moment, dieses Gefühl aus Nervenkitzel, Präzision und Leichtigkeit hautnah zu erleben. Am 29. Dezember fällt im bayerischen Oberstdorf der Startschuss zur Vierschanzentournee – jenem Wettkampfklassiker, der seit 1953 Deutschland und Österreich verbindet. Eingebettet in die winterliche Kulisse der Allgäuer Alpen liegt die Arena rund um die Schattenbergschanze (HS 137). Gestern fand hier die Qualifikation statt, heute wird der Auftakt gefeiert. Von hier aus zieht der Tross weiter nach Garmisch-Partenkirchen, Innsbruck und Bischofshofen – vier Schanzen, vier Atmosphären, ein Mythos.",
+                "Image": {
+                    "Url": "/th?id=OHR.SkijumpingEisenbichler_DE-DE4421399020_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SkijumpingEisenbichler_DE-DE4421399020_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Lichter, Weite, Adrenalin",
+                "Title": "Markus Eisenbichler (GER) beim ersten Sprung am zweiten Tag der Vierschanzentournee, 30. Dezember 2016, Oberstdorf, Bayern",
+                "Copyright": "© Adam Pretty/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.408562,10.275793/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=47.408562,10.275793;S9;Oberstdorf, Bayern&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Oberstdorf%2C%20Deutschland&satid=id.sid%3A31f448ef-80da-3def-9472-20e492dc787a&vdpid=7016212663743021057&mb=47.471565~9.997845~47.270115~10.474294&cardbg=%23219AB6&dt=1763546400000&tt=Oberstdorf%2C%2087561%2C%20Bayern&tsts0=%2526ty%253D30%2526q%253DOberstdorf%25252C%252520Deutschland%2526satid%253Did.sid%25253A31f448ef-80da-3def-9472-20e492dc787a%2526vdpid%253D7016212663743021057%2526mb%253D47.471565~9.997845~47.270115~10.474294%2526cardbg%253D%252523219AB6%2526dt%253D1763546400000&tstt0=Oberstdorf%2C%2087561%2C%20Bayern&cp=47.371015~10.127814&lvl=11.6568575&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251229_SkijumpingEisenbichler\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Vierschanzentournee&form=hpcapt&filters=HpDate:\"20251228_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251229_SkijumpingEisenbichler"
+            },
+            "Ssd": "20251229",
+            "Name": "SkijumpingEisenbichler",
+            "Market": "DE-DE",
+            "Hash": "4421399020",
+            "FullDateString": "29. Dez.. 2025"
+        }
+    },
+    {
         "startdate": "20251227",
         "fullstartdate": "202512272300",
         "enddate": "20251228",

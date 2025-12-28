@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251228",
+        "fullstartdate": "202512280300",
+        "enddate": "20251229",
+        "url": "/th?id=OHR.RuffedLemur_PT-BR6904572079_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RuffedLemur_PT-BR6904572079",
+        "copyright": "Varecia-preto-e-branco em Madagascar (© Cyrielle Beaubois/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Varecia-preto-e-branco&form=hpcapt&mkt=pt-br",
+        "title": "Um eco de vida",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251228_RuffedLemur%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "98b931f7d4cb7064828279ac36314825",
+        "hsh": "346de0b962d591ce444a0ecc00b291a9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Madagascar é uma ilha no Oceano Índico conhecida por sua biodiversidade extraordinária. Entre seus habitantes mais fascinantes está o varecia-preto-e-branco, que ilustra nossa imagem do dia. Este primata chama atenção pela pelagem marcante e comportamento singular. É um dos maiores lêmures e desempenha um papel essencial como polinizador, ajudando a manter o equilíbrio das florestas tropicais. Um fato curioso: é um dos poucos primatas que constroem ninhos para seus filhotes, utilizando folhas e galhos no alto das árvores.",
+                "Image": {
+                    "Url": "/th?id=OHR.RuffedLemur_PT-BR6904572079_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RuffedLemur_PT-BR6904572079_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Um eco de vida",
+                "Title": "Varecia-preto-e-branco em Madagascar",
+                "Copyright": "© Cyrielle Beaubois/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251228_RuffedLemur\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Varecia-preto-e-branco&form=hpcapt&filters=HpDate:\"20251228_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251228_RuffedLemur"
+            },
+            "Ssd": "20251228",
+            "Name": "RuffedLemur",
+            "Market": "PT-BR",
+            "Hash": "6904572079",
+            "FullDateString": "28 dez. 2025"
+        }
+    },
+    {
         "startdate": "20251227",
         "fullstartdate": "202512270300",
         "enddate": "20251228",
