@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251229",
+        "fullstartdate": "202512292300",
+        "enddate": "20251230",
+        "url": "/th?id=OHR.JapanSwans_FR-FR9912215229_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JapanSwans_FR-FR9912215229",
+        "copyright": "Cygnes chanteurs, Kotoku, Japon (© Martin Bailey/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Cygnes+chanteurs&form=hpcapt&filters=HpDate%3a%2220251229_2300%22",
+        "title": "Envol mélodieux vers le Japon",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251229_JapanSwans%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "10942e61584bf0102014485acc6b5568",
+        "hsh": "bb05a2adcb4b3d83eae82c29bbf5e7bd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Quand l’hiver s’installe au Japon, un frisson parcourt les lacs avant même que le vent ne souffle. Puis, un cri clair fend le silence : les cygnes chanteurs sont arrivés. Leur appel puissant glisse sur l’eau, réveillant la saison froide. Ces voyageurs venus de Sibérie et de l’Extrême-Orient russe choisissent les rives japonaises comme refuge pour leurs eaux et leur nourriture.",
+                "Image": {
+                    "Url": "/th?id=OHR.JapanSwans_FR-FR9912215229_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.JapanSwans_FR-FR9912215229_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Envol mélodieux vers le Japon",
+                "Title": "Cygnes chanteurs, Kotoku, Japon",
+                "Copyright": "© Martin Bailey/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Les cygnes chanteurs sont des oiseaux migrateurs capables de voler sans escale sur de longues distances. Certains ont été aperçus à des altitudes très élevées, dépassant les 8 000 mètres.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251230_JapanSwans\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Cygnes+chanteurs&form=hpcapt&filters=HpDate:\"20251229_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251230_JapanSwans"
+            },
+            "Ssd": "20251230",
+            "Name": "JapanSwans",
+            "Market": "FR-FR",
+            "Hash": "9912215229",
+            "FullDateString": "30 déc. 2025"
+        }
+    },
+    {
         "startdate": "20251228",
         "fullstartdate": "202512282300",
         "enddate": "20251229",

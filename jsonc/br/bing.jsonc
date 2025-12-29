@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251229",
+        "fullstartdate": "202512290300",
+        "enddate": "20251230",
+        "url": "/th?id=OHR.AniTurkey_PT-BR7063147187_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AniTurkey_PT-BR7063147187",
+        "copyright": "Igreja de São Gregório nas Ruínas de Ani, Turquia (© Kenan Talas/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ru%C3%ADnas+de+Ani&form=hpcapt&mkt=pt-br",
+        "title": "A cidade das 1.001 igrejas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251229_AniTurkey%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9d286e3de8d9ea60a6bd59483b760e17",
+        "hsh": "7e85365472b180f0e2daa0e5adc82f1b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Imagine caminhar por um lugar onde cada pedra contém séculos de história. No planalto ventoso do leste da Turquia, quase na fronteira com a Armênia, erguem-se as ruínas da antiga cidade de Ani, um cenário que parece saído de um livro épico. Há mil anos, Ani foi uma capital armênia vibrante, ponto estratégico da Rota da Seda, com muralhas imponentes e ruas que moldavam comércio e cultura.",
+                "Image": {
+                    "Url": "/th?id=OHR.AniTurkey_PT-BR7063147187_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AniTurkey_PT-BR7063147187_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A cidade das 1.001 igrejas",
+                "Title": "Igreja de São Gregório nas Ruínas de Ani, Turquia",
+                "Copyright": "© Kenan Talas/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251229_AniTurkey\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ru%c3%adnas+de+Ani&form=hpcapt&filters=HpDate:\"20251229_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251229_AniTurkey"
+            },
+            "Ssd": "20251229",
+            "Name": "AniTurkey",
+            "Market": "PT-BR",
+            "Hash": "7063147187",
+            "FullDateString": "29 dez. 2025"
+        }
+    },
+    {
         "startdate": "20251228",
         "fullstartdate": "202512280300",
         "enddate": "20251229",

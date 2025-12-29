@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251229",
+        "fullstartdate": "202512292300",
+        "enddate": "20251230",
+        "url": "/th?id=OHR.JapanSwans_IT-IT1972442165_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JapanSwans_IT-IT1972442165",
+        "copyright": "Cigni selvatici, stagno di Kotoku, Giappone (© Martin Bailey/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Cigno+Selvatico&form=hpcapt",
+        "title": "Danza del Sol Levante",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251229_JapanSwans%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "10942e61584bf0102014485acc6b5568",
+        "hsh": "718521c48d27af235f67eed378c39ed5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nei mattini d’inverno del Giappone, il silenzio si incrina all’improvviso. Non è il vento né il passo di un viandante: è un richiamo limpido e rotondo che si diffonde sull’acqua. I cigni selvatici sono giunti. Un solo grido possente, e la stagione fredda sembra destarsi dal sonno. Migrano dalle distese della Siberia e dall’Estremo Oriente russo, scegliendo i laghi giapponesi come rifugio stagionale: qui trovano ciò che ogni viaggiatore cerca, acqua libera dal ghiaccio, cibo sicuro e un luogo dove riposare. Stagni e laghi come Kotoku, Kussharo e Tofutsu restano parzialmente aperti grazie alle sorgenti naturali, diventando porti d’inverno affidabili.",
+                "Image": {
+                    "Url": "/th?id=OHR.JapanSwans_IT-IT1972442165_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.JapanSwans_IT-IT1972442165_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Danza del Sol Levante",
+                "Title": "Cigni selvatici, stagno di Kotoku, Giappone",
+                "Copyright": "© Martin Bailey/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "I cigni selvatici sono uccelli altamente migratori, in grado di volare senza sosta per lunghe distanze. Alcuni sono stati avvistati ad altitudini molto elevate, quasi 8 km di altezza.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251230_JapanSwans\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Cigno+Selvatico&form=hpcapt&filters=HpDate:\"20251229_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251230_JapanSwans"
+            },
+            "Ssd": "20251230",
+            "Name": "JapanSwans",
+            "Market": "IT-IT",
+            "Hash": "1972442165",
+            "FullDateString": "30 dicembre 2025"
+        }
+    },
+    {
         "startdate": "20251228",
         "fullstartdate": "202512282300",
         "enddate": "20251229",

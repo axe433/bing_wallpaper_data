@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251229",
+        "fullstartdate": "202512291600",
+        "enddate": "20251230",
+        "url": "/th?id=OHR.SwedenSolstice_ZH-CN8975506700_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SwedenSolstice_ZH-CN8975506700",
+        "copyright": "晨光透过结霜的树木洒下，瑞典 (© Schon/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%8C%97%E5%8D%8A%E7%90%83%E7%9A%84%E5%86%AC%E5%AD%A3&form=hpcapt&mkt=zh-cn",
+        "title": "新太阳的诞生",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251229_SwedenSolstice%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "dd00815c13992e5eb5cd69c5e0adc6a4",
+        "hsh": "d3aa55b4bdbf50f4e5c8454d76cf8c00",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "冬季也总是有一些令人流连忘返的景色，例如瑞典的这片树林，就像踏入了一个银白的童话世界。高大的树木身披厚厚的霜雪外衣，像是忠诚的卫士，静静地伫立。每阳光透过树枝的缝隙洒下，形成一道道金色的光线，与洁白的雪相互交织，营造出一种如梦似幻的氛围。雪花在阳光的照耀下闪烁着晶莹的光芒，像是无数颗细碎的钻石，镶嵌在这银白的世界里。",
+                "Image": {
+                    "Url": "/th?id=OHR.SwedenSolstice_ZH-CN8975506700_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SwedenSolstice_ZH-CN8975506700_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "新太阳的诞生",
+                "Title": "晨光透过结霜的树木洒下，瑞典",
+                "Copyright": "© Schon/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "在瑞典，从10月到次年3月你可挑战凛冽冬夜，回报将是自然界最壮观的景象之一——北极光。这些红，绿，紫色的光幕时常在天空中翩翩起舞起舞。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251230_SwedenSolstice\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%8c%97%e5%8d%8a%e7%90%83%e7%9a%84%e5%86%ac%e5%ad%a3&form=hpcapt&filters=HpDate:\"20251229_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251230_SwedenSolstice"
+            },
+            "Ssd": "20251230",
+            "Name": "SwedenSolstice",
+            "Market": "ZH-CN",
+            "Hash": "8975506700",
+            "FullDateString": "2025 12月 30"
+        }
+    },
+    {
         "startdate": "20251228",
         "fullstartdate": "202512281600",
         "enddate": "20251229",

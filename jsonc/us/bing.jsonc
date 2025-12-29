@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251229",
+        "fullstartdate": "202512290800",
+        "enddate": "20251230",
+        "url": "/th?id=OHR.AniTurkey_EN-US6168768263_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AniTurkey_EN-US6168768263",
+        "copyright": "St. Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ani+Ruins&form=hpcapt&filters=HpDate%3a%2220251229_0800%22",
+        "title": "The church that outlived a city",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251229_AniTurkey%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9d286e3de8d9ea60a6bd59483b760e17",
+        "hsh": "6901fad1f4c81e146e429f0182da5406",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "On a windswept plateau in eastern Türkiye, along the border with Armenia, the ruins of the ancient city of Ani rise from the landscape with striking clarity. A millennium ago, Ani was a thriving Armenian capital on a major Silk Road route, its fortifications and busy streets shaping trade and culture across the region. Today, the city is quiet, but its outline still carries the weight of its past.",
+                "Image": {
+                    "Url": "/th?id=OHR.AniTurkey_EN-US6168768263_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AniTurkey_EN-US6168768263_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "The church that outlived a city",
+                "Title": "St. Gregory Church in Ani Ruins, Kars, Türkiye",
+                "Copyright": "© Kenan Talas/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.3307,42.572102/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=40.3307,42.572102;S9;Ani%20Ruins%2C%20Kars%2C%20T%C3%BCrkiye&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Ani%20Ruins%2C%20Kars%2C%20T%C3%BCrkiye&ss=ypid.YN8184x17435406297047085351&mb=40.337197~42.556937~40.324193~42.587278&description=%C5%9Eehitlik%20Caddesi%20No%3A87%2036000%2FKars%C2%B7Simgesel%20yap%C4%B1%20ve%20tarihi%20bina&cardbg=%233AABCF&dt=1763469000000&tt=Ani%20Ruins&tsts0=%2526ty%253D18%2526q%253DAni%252520Ruins%25252C%252520Kars%25252C%252520T%2525C3%2525BCrkiye%2526ss%253Dypid.YN8184x17435406297047085351%2526mb%253D40.337197~42.556937~40.324193~42.587278%2526description%253D%2525C5%25259Eehitlik%252520Caddesi%252520No%25253A87%25252036000%25252FKars%2525C2%2525B7Simgesel%252520yap%2525C4%2525B1%252520ve%252520tarihi%252520bina%2526cardbg%253D%2525233AABCF%2526dt%253D1763469000000&tstt0=Ani%20Ruins&cp=40.295087~41.503095&lvl=8.183194&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251229_AniTurkey\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ani+Ruins&form=hpcapt&filters=HpDate:\"20251229_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251229_AniTurkey"
+            },
+            "Ssd": "20251229",
+            "Name": "AniTurkey",
+            "Market": "EN-US",
+            "Hash": "6168768263",
+            "FullDateString": "Dec 29, 2025"
+        }
+    },
+    {
         "startdate": "20251228",
         "fullstartdate": "202512280800",
         "enddate": "20251229",
