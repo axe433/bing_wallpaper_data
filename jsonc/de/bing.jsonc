@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251230",
+        "fullstartdate": "202512302300",
+        "enddate": "20251231",
+        "url": "/th?id=OHR.GermanyNewYear_DE-DE8479244811_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GermanyNewYear_DE-DE8479244811",
+        "copyright": "Silvester, Oberbaumbrücke, Berlin (© spreephoto.de/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Silvester&form=hpcapt&filters=HpDate%3a%2220251230_2300%22",
+        "title": "Countdown zum Jahreswechsel",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251230_GermanyNewYear%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b7085096302b0d0613f8b23d94eac1c0",
+        "hsh": "a545e92e3e5721bb0d01ce3ca9a6ed25",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Der Jahreswechsel rückt näher und Berlin bereitet sich auf eine Nacht voller Energie und Begegnungen vor. Das heutige Bild zeigt die Oberbaumbrücke, umrahmt von einem farbenprächtigen Feuerwerk – eine eindrucksvolle Mischung aus Geschichte und Gegenwart. Einst Grenzübergang, steht die Brücke heute für Offenheit und Zusammengehörigkeit und ist ein beliebter Ort, um die Lichter über der Spree zu genießen.",
+                "Image": {
+                    "Url": "/th?id=OHR.GermanyNewYear_DE-DE8479244811_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GermanyNewYear_DE-DE8479244811_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Countdown zum Jahreswechsel",
+                "Title": "Silvester, Oberbaumbrücke, Berlin",
+                "Copyright": "© spreephoto.de/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.50182,13.44573/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=52.50182,13.44573;S9;Oberbaumbrücke, Berlin&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Oberbaum%20Bridge%2C%20Berlin%2C%20Germany&ss=ypid.YN2000x4061248472173900684&mb=52.507008~13.43055~52.496623~13.460891&description=Oberbaum%20Bridge%20%C2%B7%2010243%20Berlin%C2%B7Br%C3%BCcke&cardbg=%233AABCF&dt=1763472600000&tt=Oberbaum%20Bridge&tsts0=%2526ty%253D18%2526q%253DOberbaum%252520Bridge%25252C%252520Berlin%25252C%252520Germany%2526ss%253Dypid.YN2000x4061248472173900684%2526mb%253D52.507008~13.43055~52.496623~13.460891%2526description%253DOberbaum%252520Bridge%252520%2525C2%2525B7%25252010243%252520Berlin%2525C2%2525B7Br%2525C3%2525BCcke%2526cardbg%253D%2525233AABCF%2526dt%253D1763472600000&tstt0=Oberbaum%20Bridge&cp=52.495108~13.382843&lvl=12.501362&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251231_GermanyNewYear\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Silvester&form=hpcapt&filters=HpDate:\"20251230_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251231_GermanyNewYear"
+            },
+            "Ssd": "20251231",
+            "Name": "GermanyNewYear",
+            "Market": "DE-DE",
+            "Hash": "8479244811",
+            "FullDateString": "31. Dez.. 2025"
+        }
+    },
+    {
         "startdate": "20251229",
         "fullstartdate": "202512292300",
         "enddate": "20251230",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251230",
+        "fullstartdate": "202512301500",
+        "enddate": "20251231",
+        "url": "/th?id=OHR.Omisoka2026_JA-JP3799587419_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Omisoka2026_JA-JP3799587419",
+        "copyright": "輪王寺の梵鐘, 宮城県 仙台市 (© Grandbrothers/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=%E8%BC%AA%E7%8E%8B%E5%AF%BA%E4%BB%99%E5%8F%B0%E5%B8%82&form=hpcapt&filters=HpDate%3a%2220251230_1500%22",
+        "title": "今日は大晦日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251230_Omisoka2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8b5c93275ff059c615da1437118c1c69",
+        "hsh": "504c1a22cb6bf7237b3fded6290d508a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 12 月 31 日は大晦日。除夜の鐘を撞き始める時刻は寺院によって異なり、宮城県仙台市青葉区の輪王寺では、例年 23 時 30 分から鐘の音が鳴り響きます。その後、1 月 1 日の 0 時より「元朝祈祷（がんちょうきとう）」が行われ、参拝者の新たな一年が実り多きものであるよう祈りが捧げられます…",
+                "Image": {
+                    "Url": "/th?id=OHR.Omisoka2026_JA-JP3799587419_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Omisoka2026_JA-JP3799587419_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日は大晦日",
+                "Title": "輪王寺の梵鐘, 宮城県 仙台市",
+                "Copyright": "© Grandbrothers/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.283222,140.858826/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=38.283222,140.858826;S9;輪王寺, 宮城県 仙台市&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=%E8%BC%AA%E7%8E%8B%E5%AF%BA%2C%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E4%BB%99%E5%8F%B0%E5%B8%82%20%E9%9D%92%E8%91%89%E5%8C%BA%E5%8C%97%E5%B1%B11%E4%B8%81%E7%9B%AE14-1&mb=38.287932~140.848986~38.2785~140.868663&description=%E3%80%92981-0931%E5%AE%AE%E5%9F%8E%E7%9C%8C%E4%BB%99%E5%8F%B0%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E5%8C%97%E5%B1%B11%E4%B8%81%E7%9B%AE14-1%C2%B7%E4%BB%8F%E6%95%99%E5%AF%BA%E9%99%A2&cardbg=%23219AB6&dt=1764918000000&tt=%E8%BC%AA%E7%8E%8B%E5%AF%BA&cp=38.283216~140.853503&lvl=16&pi=0&ftst=2&ftics=True&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251231_Omisoka2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e8%bc%aa%e7%8e%8b%e5%af%ba%e4%bb%99%e5%8f%b0%e5%b8%82&form=hpcapt&filters=HpDate:\"20251230_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251231_Omisoka2026"
+            },
+            "Ssd": "20251231",
+            "Name": "Omisoka2026",
+            "Market": "JA-JP",
+            "Hash": "3799587419",
+            "FullDateString": "2025 年 12月 月 31 日"
+        }
+    },
+    {
         "startdate": "20251229",
         "fullstartdate": "202512291500",
         "enddate": "20251230",
