@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251231",
+        "fullstartdate": "202512310300",
+        "enddate": "20260101",
+        "url": "/th?id=OHR.AnoNovo_PT-BR5981161158_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AnoNovo_PT-BR5981161158",
+        "copyright": "Fogos de artifício na praia de Copacabana, Rio de Janeiro (© BrasilNut1/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=v%C3%A9spera+de+Ano+Novo&form=hpcapt&mkt=pt-br",
+        "title": "A festa da virada",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251231_AnoNovo%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ae343e4e76a2c816146740909c90b02b",
+        "hsh": "c9c86f531d3cfbe761c60da851fc9d8e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A virada do ano é sinônimo de celebração, esperança e boas energias. Mas você já se perguntou de onde vem a palavra “Réveillon”? Ela tem origem francesa, derivada do verbo “réveiller”, que significa “acordar” ou “despertar”. Na França, o termo era usado para designar jantares sofisticados na véspera de grandes festas, como o Ano Novo. Com o tempo, atravessou fronteiras e passou a representar a comemoração da virada em diversos países, inclusive no Brasil.",
+                "Image": {
+                    "Url": "/th?id=OHR.AnoNovo_PT-BR5981161158_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AnoNovo_PT-BR5981161158_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A festa da virada",
+                "Title": "Fogos de artifício na praia de Copacabana, Rio de Janeiro",
+                "Copyright": "© BrasilNut1/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251231_AnoNovo\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=v%c3%a9spera+de+Ano+Novo&form=hpcapt&filters=HpDate:\"20251231_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251231_AnoNovo"
+            },
+            "Ssd": "20251231",
+            "Name": "AnoNovo",
+            "Market": "PT-BR",
+            "Hash": "5981161158",
+            "FullDateString": "31 dez. 2025"
+        }
+    },
+    {
         "startdate": "20251230",
         "fullstartdate": "202512300300",
         "enddate": "20251231",

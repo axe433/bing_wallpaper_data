@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251231",
+        "fullstartdate": "202512311600",
+        "enddate": "20260101",
+        "url": "/th?id=OHR.NewYearFox_ZH-CN9312618796_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NewYearFox_ZH-CN9312618796",
+        "copyright": "正在睡觉的北极狐 (© Chansak Joe/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%85%83%E6%97%A6&form=hpcapt&mkt=zh-cn",
+        "title": "伸个懒腰，迈向新年！",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251231_NewYearFox%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ac9a61a239a813f4bc9179a2a1e49693",
+        "hsh": "2e842de8dd2aa5496f111c5bc406d595",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "是否感觉需要补足整整一年的休息？今日图片上的这只北极狐懂你，它正窝在冰原岩石间，享受惬意时光。无论新年伴随寒风还是暖阳而来，请给自己五分钟，让身体舒展，再迎接接下来的365天。",
+                "Image": {
+                    "Url": "/th?id=OHR.NewYearFox_ZH-CN9312618796_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NewYearFox_ZH-CN9312618796_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "伸个懒腰，迈向新年！",
+                "Title": "正在睡觉的北极狐",
+                "Copyright": "© Chansak Joe/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "格里高利历在儒略历的基础上优化了闰年制度，让历法更精准，避免季节随时间逐渐错位。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260101_NewYearFox\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%85%83%e6%97%a6&form=hpcapt&filters=HpDate:\"20251231_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260101_NewYearFox"
+            },
+            "Ssd": "20260101",
+            "Name": "NewYearFox",
+            "Market": "ZH-CN",
+            "Hash": "9312618796",
+            "FullDateString": "2026 1月 1"
+        }
+    },
+    {
         "startdate": "20251230",
         "fullstartdate": "202512301600",
         "enddate": "20251231",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251231",
+        "fullstartdate": "202512310000",
+        "enddate": "20260101",
+        "url": "/th?id=OHR.Hogmanay2025_EN-GB7784153227_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Hogmanay2025_EN-GB7784153227",
+        "copyright": "National Monument of Scotland, Edinburgh (© Serge_Bertasius/iStock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Hogmanay&form=hpcapt&filters=HpDate%3a%2220251231_0000%22",
+        "title": "New year, Scottish style",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251231_Hogmanay2025%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b3b8e5318ba260b636f5e3a47443772f",
+        "hsh": "b8c75529daebe384c772287a1ff6dfbc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Three… two… one… Hold that countdown—Scotland has its own way of ending the year, and it's called Hogmanay. Today, while most places squeeze their celebrations into a single night, Scotland stretches New Year's into a marathon of fire, music and tradition that can last three days. Hogmanay grew from winter rituals and Viking influence, becoming the main year-end festival when Christmas took a quieter back seat.",
+                "Image": {
+                    "Url": "/th?id=OHR.Hogmanay2025_EN-GB7784153227_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Hogmanay2025_EN-GB7784153227_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "New year, Scottish style",
+                "Title": "National Monument of Scotland, Edinburgh",
+                "Copyright": "© Serge_Bertasius/iStock/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/55.95475,-3.1819/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=55.95475,-3.1819;S9;National Monument of Scotland, Edinburgh&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=National%20Monument%20of%20Scotland%2C%20Edinburgh%2C%20Scotland&ss=ypid.YN14787DBD66CA06CB&mb=55.959075~-3.191893~55.950425~-3.171895&description=Calton%20Hill%2C%20Edinburgh%20EH7%205AA&cardbg=%23219AB6&dt=1764966600000&tt=National%20Monument%20of%20Scotland&tsts0=%2526ty%253D18%2526q%253DNational%252520Monument%252520of%252520Scotland%25252C%252520Edinburgh%25252C%252520Scotland%2526ss%253Dypid.YN14787DBD66CA06CB%2526mb%253D55.959075~-3.191893~55.950425~-3.171895%2526description%253DCalton%252520Hill%25252C%252520Edinburgh%252520EH7%2525205AA%2526cardbg%253D%252523219AB6%2526dt%253D1764966600000&tstt0=National%20Monument%20of%20Scotland&cp=54.534927~-17.815297&lvl=5.009117&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251231_Hogmanay2025\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hogmanay&form=hpcapt&filters=HpDate:\"20251231_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20251231_Hogmanay2025"
+            },
+            "Ssd": "20251231",
+            "Name": "Hogmanay2025",
+            "Market": "EN-GB",
+            "Hash": "7784153227",
+            "FullDateString": "31 Dec 2025"
+        }
+    },
+    {
         "startdate": "20251230",
         "fullstartdate": "202512300000",
         "enddate": "20251231",

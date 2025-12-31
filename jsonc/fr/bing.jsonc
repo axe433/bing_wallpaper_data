@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251231",
+        "fullstartdate": "202512312300",
+        "enddate": "20260101",
+        "url": "/th?id=OHR.NewYearFox_FR-FR1449445493_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NewYearFox_FR-FR1449445493",
+        "copyright": "Un renard polaire endormi (© Chansak Joe/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=New+Years+Day&form=hpcapt&filters=HpDate%3a%2220251231_2300%22",
+        "title": "Étirez-vous doucement dans la nouvelle année",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251231_NewYearFox%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ac9a61a239a813f4bc9179a2a1e49693",
+        "hsh": "f646437f125e741b3af232fabc84ea54",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Vous aussi, vous avez l’impression d’avoir une année entière de sommeil à rattraper ? Alors vous comprendrez ce renard polaire, blotti entre les rochers glacés de la toundra. Enveloppé par la neige et le vent du Nord, il attend, dans le silence arctique, que le temps passe.",
+                "Image": {
+                    "Url": "/th?id=OHR.NewYearFox_FR-FR1449445493_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NewYearFox_FR-FR1449445493_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Étirez-vous doucement dans la nouvelle année",
+                "Title": "Un renard polaire endormi",
+                "Copyright": "© Chansak Joe/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Le calendrier grégorien a amélioré le calendrier julien en affinant les règles relatives aux années bissextiles, le rendant ainsi plus précis, avec un décalage saisonnier réduit.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260101_NewYearFox\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=New+Years+Day&form=hpcapt&filters=HpDate:\"20251231_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260101_NewYearFox"
+            },
+            "Ssd": "20260101",
+            "Name": "NewYearFox",
+            "Market": "FR-FR",
+            "Hash": "1449445493",
+            "FullDateString": "1 janv. 2026"
+        }
+    },
+    {
         "startdate": "20251230",
         "fullstartdate": "202512302300",
         "enddate": "20251231",

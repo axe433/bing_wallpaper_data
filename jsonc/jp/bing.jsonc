@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251231",
+        "fullstartdate": "202512311500",
+        "enddate": "20260101",
+        "url": "/th?id=OHR.NewYearSunrise2026_JA-JP4680541723_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NewYearSunrise2026_JA-JP4680541723",
+        "copyright": "えびす岩・大黒岩, 北海道 (© Ambling Images/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%81%88%E3%81%B3%E3%81%99%E5%B2%A9%E3%83%BB%E5%A4%A7%E9%BB%92%E5%B2%A9&form=hpcapt&filters=HpDate%3a%2220251231_1500%22",
+        "title": "今日は元日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251231_NewYearSunrise2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "20e36ed66f20f4f6262f616ec49ed46d",
+        "hsh": "2fe3c9d3c0ef659b509730a3de706b99",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "明けましておめでとうございます。今年も Bing をよろしくお願いします。今年最初の Bing は、北海道余市町の海上から、えびす岩と大黒岩の向こうに昇る日の出をお届けします。冬の海に朝日が反射し、岩影が静かな水面に映る幻想的な光景が広がっています…",
+                "Image": {
+                    "Url": "/th?id=OHR.NewYearSunrise2026_JA-JP4680541723_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NewYearSunrise2026_JA-JP4680541723_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日は元日",
+                "Title": "えびす岩・大黒岩, 北海道",
+                "Copyright": "© Ambling Images/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.230953,140.735443/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=43.230953,140.735443;S9;えびす岩・大黒岩&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=%E3%81%88%E3%81%B3%E3%81%99%E5%B2%A9&mb=43.240998~140.730389~43.232244~140.739766&description=%E3%80%92046-0031%E5%8C%97%E6%B5%B7%E9%81%93%E4%BD%99%E5%B8%82%E7%94%BA%E7%99%BD%E5%B2%A9%E7%94%BA&cardbg=%23219AB6&dt=1764921600000&tt=%E3%81%88%E3%81%B3%E3%81%99%E5%B2%A9%E3%83%BB%E5%A4%A7%E9%BB%92%E5%B2%A9&cp=43.236621~140.724607&lvl=16&pi=0&ftst=1&ftics=True&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260101_NewYearSunrise2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%81%88%e3%81%b3%e3%81%99%e5%b2%a9%e3%83%bb%e5%a4%a7%e9%bb%92%e5%b2%a9&form=hpcapt&filters=HpDate:\"20251231_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260101_NewYearSunrise2026"
+            },
+            "Ssd": "20260101",
+            "Name": "NewYearSunrise2026",
+            "Market": "JA-JP",
+            "Hash": "4680541723",
+            "FullDateString": "2026 年 1月 月 1 日"
+        }
+    },
+    {
         "startdate": "20251230",
         "fullstartdate": "202512301500",
         "enddate": "20251231",

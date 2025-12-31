@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20251231",
+        "fullstartdate": "202512312300",
+        "enddate": "20260101",
+        "url": "/th?id=OHR.NewYearFox_IT-IT2197998427_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NewYearFox_IT-IT2197998427",
+        "copyright": "Volpe artica che dorme (© Chansak Joe/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Primo+dell%E2%80%99+anno&form=hpcapt",
+        "title": "Già svegli?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251231_NewYearFox%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ac9a61a239a813f4bc9179a2a1e49693",
+        "hsh": "bdf5f279870986b83ba9dac095207267",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Vi sembra di avere un intero anno di riposo da recuperare? Allora potete immedesimarvi in quella volpe artica, rannicchiata tra le rocce gelate della tundra. Che il nuovo anno vi accolga con un freddo pungente o sotto un sole caldo, prendetevi cinque minuti in più per distendervi prima di tuffarvi nei trecentosessantacinque giorni che vi attendono. Nell’antica Roma l’inizio dell’anno era dedicato a Giano, il dio dai due volti che guardano al passato e al futuro. Da lui prende nome gennaio, mese di soglia e di passaggio. Era una festa di rinnovamento, in cui si offrivano doni e si invocava prosperità per i giorni a venire.",
+                "Image": {
+                    "Url": "/th?id=OHR.NewYearFox_IT-IT2197998427_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NewYearFox_IT-IT2197998427_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Già svegli?",
+                "Title": "Volpe artica che dorme",
+                "Copyright": "© Chansak Joe/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Il calendario gregoriano ha migliorato il calendario giuliano perfezionando le regole relative agli anni bisestili, rendendolo più accurato e riducendo lo scarto stagionale.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260101_NewYearFox\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Primo+dell%e2%80%99+anno&form=hpcapt&filters=HpDate:\"20251231_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260101_NewYearFox"
+            },
+            "Ssd": "20260101",
+            "Name": "NewYearFox",
+            "Market": "IT-IT",
+            "Hash": "2197998427",
+            "FullDateString": "1 gennaio 2026"
+        }
+    },
+    {
         "startdate": "20251230",
         "fullstartdate": "202512302300",
         "enddate": "20251231",
