@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260101",
+        "fullstartdate": "202601011500",
+        "enddate": "20260102",
+        "url": "/th?id=OHR.VeniceView_JA-JP5599144263_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VeniceView_JA-JP5599144263",
+        "copyright": "ヴェネツィア, イタリア (© Clement Leonard/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%B4%E3%82%A7%E3%83%8D%E3%83%84%E3%82%A3%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220260101_1500%22",
+        "title": "アドリア海に抱かれた歴史都市",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260101_VeniceView%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cad498641fa38edde76100cf9703483c",
+        "hsh": "1bd3a5ec114f3888b9bf78ba978829ce",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ここはイタリアのヴェネツィア。その歴史は古く、5 世紀頃、異民族の侵攻から逃れたイタリア本土の人々が、アドリア海のラグーナへ避難したことから始まりました。そして、中世には東西貿易の中心地として繁栄し、強力な海上帝国へと成長しました…",
+                "Image": {
+                    "Url": "/th?id=OHR.VeniceView_JA-JP5599144263_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VeniceView_JA-JP5599144263_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "アドリア海に抱かれた歴史都市",
+                "Title": "ヴェネツィア, イタリア",
+                "Copyright": "© Clement Leonard/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.4397,12.3319/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=45.4397,12.3319;S9;ヴェネツィア, イタリア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Venice%2C%20Italy&satid=id.sid%3A558e4220-5944-57d7-3d5c-ee9c55739f9d&vdpid=9867990&mb=45.444739~12.318892~45.434667~12.344899&cardbg=%23F98745&tt=metropolitan%20city%20of%20venice&tsts1=%2526ty%253D30%2526q%253DVenice%25252C%252520Italy%2526satid%253Did.sid%25253A558e4220-5944-57d7-3d5c-ee9c55739f9d%2526vdpid%253D9867990%2526mb%253D45.444739~12.318892~45.434667~12.344899%2526cardbg%253D%252523F98745&tstt1=metropolitan%20city%20of%20venice&cp=45.429299~7.03125&lvl=6&pi=0&ftst=1&ftics=True&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260102_VeniceView\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%b4%e3%82%a7%e3%83%8d%e3%83%84%e3%82%a3%e3%82%a2&form=hpcapt&filters=HpDate:\"20260101_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260102_VeniceView"
+            },
+            "Ssd": "20260102",
+            "Name": "VeniceView",
+            "Market": "JA-JP",
+            "Hash": "5599144263",
+            "FullDateString": "2026 年 1月 月 2 日"
+        }
+    },
+    {
         "startdate": "20251231",
         "fullstartdate": "202512311500",
         "enddate": "20260101",

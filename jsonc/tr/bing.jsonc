@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260101",
+        "fullstartdate": "202601010800",
+        "enddate": "20260102",
+        "url": "/th?id=OHR.NewYearFox_ROW1128491767_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NewYearFox_ROW1128491767",
+        "copyright": "Arctic fox sleeping (© Chansak Joe/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Arctic+fox&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260101_NewYearFox%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ac9a61a239a813f4bc9179a2a1e49693",
+        "hsh": "00d0f10f7815ec4f5b1e63976c8b4dff",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Today's image features an Arctic fox nestled in its winter den—a perfect picture of comfort and survival in harsh conditions. This highly adapted mammal is native to the cold Arctic and sub-Arctic regions, including parts of Alaska, Canada, Greenland, Iceland, northern Europe and Russia. Arctic foxes have evolved unique physical traits that help them thrive in some of the world's most extreme environments.",
+                "Image": {
+                    "Url": "/th?id=OHR.NewYearFox_ROW1128491767_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NewYearFox_ROW1128491767_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Arctic fox sleeping",
+                "Copyright": "© Chansak Joe/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260101_NewYearFox\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Arctic+fox&form=hpcapt&filters=HpDate:\"20260101_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260101_NewYearFox"
+            },
+            "Ssd": "20260101",
+            "Name": "NewYearFox",
+            "Market": "ROW",
+            "Hash": "1128491767",
+            "FullDateString": "1 Oca, 2026"
+        }
+    },
+    {
         "startdate": "20251231",
         "fullstartdate": "202512310800",
         "enddate": "20260101",

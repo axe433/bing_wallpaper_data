@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260101",
+        "fullstartdate": "202601010300",
+        "enddate": "20260102",
+        "url": "/th?id=OHR.NewYearFox_PT-BR5772637703_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NewYearFox_PT-BR5772637703",
+        "copyright": "Raposa-do-ártico dormindo (© Chansak Joe/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ano+Novo&form=hpcapt&mkt=pt-br",
+        "title": "Hora de recomeçar",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260101_NewYearFox%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ac9a61a239a813f4bc9179a2a1e49693",
+        "hsh": "758fbd8cc5e776618d8e5aa13585bd07",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Já pensou em começar o ano com energia renovada? Se a resposta é sim, talvez você se identifique com a raposa-do-ártico, que aparece na imagem dormindo entre rochas cobertas de neve como se quisesse recuperar um ano inteiro de descanso. Seja sob o frio intenso ou sob o sol brasileiro, vale reservar alguns minutos para alongar antes de mergulhar nos próximos 365 dias.",
+                "Image": {
+                    "Url": "/th?id=OHR.NewYearFox_PT-BR5772637703_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NewYearFox_PT-BR5772637703_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Hora de recomeçar",
+                "Title": "Raposa-do-ártico dormindo",
+                "Copyright": "© Chansak Joe/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260101_NewYearFox\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ano+Novo&form=hpcapt&filters=HpDate:\"20260101_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260101_NewYearFox"
+            },
+            "Ssd": "20260101",
+            "Name": "NewYearFox",
+            "Market": "PT-BR",
+            "Hash": "5772637703",
+            "FullDateString": "1 jan. 2026"
+        }
+    },
+    {
         "startdate": "20251231",
         "fullstartdate": "202512310300",
         "enddate": "20260101",

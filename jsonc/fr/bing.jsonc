@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260101",
+        "fullstartdate": "202601012300",
+        "enddate": "20260102",
+        "url": "/th?id=OHR.VeniceView_FR-FR1991720752_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VeniceView_FR-FR1991720752",
+        "copyright": "Vue aérienne de Venise, Italie (© Clement Leonard/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Venise+Italie&form=hpcapt&filters=HpDate%3a%2220260101_2300%22",
+        "title": "L’âme de Venise",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260101_VeniceView%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cad498641fa38edde76100cf9703483c",
+        "hsh": "3302eed6eb44fae3a3ed315c4d7b1a22",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Vue du ciel, Venise semble flotter comme un mirage, mais son âme se cache dans ses ruelles et ses canaux. Née au Ve siècle sur des îlots de la lagune, la cité a transformé des marais en empire maritime. Au Moyen Âge, elle devint le carrefour entre Orient et Occident, forgeant une richesse qui fit éclore palais gothiques, chefs-d’œuvre de la Renaissance et joyaux comme la basilique Saint-Marc, le Palais des Doges ou le Pont du Rialto.",
+                "Image": {
+                    "Url": "/th?id=OHR.VeniceView_FR-FR1991720752_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VeniceView_FR-FR1991720752_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "L'âme de Venise",
+                "Title": "Vue aérienne de Venise, Italie",
+                "Copyright": "© Clement Leonard/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.4397,12.3319/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=45.4397,12.3319;S9;Venise, Italie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Venice%2C%20Italy&satid=id.sid%3A558e4220-5944-57d7-3d5c-ee9c55739f9d&vdpid=9867990&mb=45.444739~12.318892~45.434667~12.344899&cardbg=%23F98745&tt=metropolitan%20city%20of%20venice&tsts1=%2526ty%253D30%2526q%253DVenice%25252C%252520Italy%2526satid%253Did.sid%25253A558e4220-5944-57d7-3d5c-ee9c55739f9d%2526vdpid%253D9867990%2526mb%253D45.444739~12.318892~45.434667~12.344899%2526cardbg%253D%252523F98745&tstt1=metropolitan%20city%20of%20venice&cp=45.429299~7.03125&lvl=6&pi=0&ftst=1&ftics=True&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260102_VeniceView\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Venise+Italie&form=hpcapt&filters=HpDate:\"20260101_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260102_VeniceView"
+            },
+            "Ssd": "20260102",
+            "Name": "VeniceView",
+            "Market": "FR-FR",
+            "Hash": "1991720752",
+            "FullDateString": "2 janv. 2026"
+        }
+    },
+    {
         "startdate": "20251231",
         "fullstartdate": "202512312300",
         "enddate": "20260101",

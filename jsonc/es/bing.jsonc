@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260101",
+        "fullstartdate": "202601012300",
+        "enddate": "20260102",
+        "url": "/th?id=OHR.VeniceView_ES-ES3506593808_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VeniceView_ES-ES3506593808",
+        "copyright": "Vista aérea de Venecia, Véneto, Italia (© Clement Leonard/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Venecia+Italia&form=hpcapt&filters=HpDate%3a%2220260101_2300%22",
+        "title": "Destino universal",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260101_VeniceView%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cad498641fa38edde76100cf9703483c",
+        "hsh": "88f0c6fe36b5df91947e93f917e0d14a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ver Venecia desde arriba es hipnotizante, pero la verdadera magia de esta joya italiana se encuentra dentro de sus muros y canales. Fundada en el siglo V sobre un conjunto de islas de la Laguna de Venecia, la ciudad surgió de los pantanos y se convirtió en una potencia marítima. En la Edad Media, evolucionó hasta convertirse en un importante centro de comercio entre Europa y Oriente, lo que alimentó una gran riqueza y un notable crecimiento cultural. La grandeza de la ciudad se refleja en sus palacios góticos, su arte renacentista y monumentos como la basílica de San Marcos, el Palacio Ducal y el puente de Rialto.",
+                "Image": {
+                    "Url": "/th?id=OHR.VeniceView_ES-ES3506593808_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VeniceView_ES-ES3506593808_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Destino universal",
+                "Title": "Vista aérea de Venecia, Véneto, Italia",
+                "Copyright": "© Clement Leonard/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260102_VeniceView\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Venecia+Italia&form=hpcapt&filters=HpDate:\"20260101_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260102_VeniceView"
+            },
+            "Ssd": "20260102",
+            "Name": "VeniceView",
+            "Market": "ES-ES",
+            "Hash": "3506593808",
+            "FullDateString": "2 de ene. de 2026"
+        }
+    },
+    {
         "startdate": "20251231",
         "fullstartdate": "202512312300",
         "enddate": "20260101",

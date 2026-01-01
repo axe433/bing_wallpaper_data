@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260101",
+        "fullstartdate": "202601010000",
+        "enddate": "20260102",
+        "url": "/th?id=OHR.NewYearFox_EN-GB6138913529_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NewYearFox_EN-GB6138913529",
+        "copyright": "Arctic fox sleeping (© Chansak Joe/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=New+Years+Day&form=hpcapt&filters=HpDate%3a%2220260101_0000%22",
+        "title": "Stretch into the New Year",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260101_NewYearFox%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ac9a61a239a813f4bc9179a2a1e49693",
+        "hsh": "4333d50b5d187b4a0b07cfece647d91f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Do you feel as if you have a whole year's worth of rest to catch up on? Then you can relate to this Arctic fox, cosily tucked among the rocky outcroppings of the frozen tundra. Whether the new year greets you with biting cold or under a warm sun, take five extra minutes to stretch before diving into the 365 days ahead.",
+                "Image": {
+                    "Url": "/th?id=OHR.NewYearFox_EN-GB6138913529_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NewYearFox_EN-GB6138913529_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Stretch into the New Year",
+                "Title": "Arctic fox sleeping",
+                "Copyright": "© Chansak Joe/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "The Gregorian calendar improved the Julian calendar by refining leap year rules, making it more accurate and reducing seasonal drift.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260101_NewYearFox\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=New+Years+Day&form=hpcapt&filters=HpDate:\"20260101_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260101_NewYearFox"
+            },
+            "Ssd": "20260101",
+            "Name": "NewYearFox",
+            "Market": "EN-GB",
+            "Hash": "6138913529",
+            "FullDateString": "1 Jan 2026"
+        }
+    },
+    {
         "startdate": "20251231",
         "fullstartdate": "202512310000",
         "enddate": "20260101",
