@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260102",
+        "fullstartdate": "202601020300",
+        "enddate": "20260103",
+        "url": "/th?id=OHR.VeniceView_PT-BR5561968411_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VeniceView_PT-BR5561968411",
+        "copyright": "Vista aérea de Veneza, Itália (© Clement Leonard/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=veneza&form=hpcapt&mkt=pt-br",
+        "title": "A alma de Veneza",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260102_VeniceView%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cad498641fa38edde76100cf9703483c",
+        "hsh": "6f5d10f0adc5b5262402e7cd63c959b9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Vista do alto, Veneza parece um labirinto mágico cercado por água — mas seu verdadeiro encanto está nas ruas e canais históricos. Fundada no século V sobre um conjunto de ilhas na Lagoa Veneziana, a cidade nasceu em meio a áreas pantanosas e se transformou em uma potência marítima. Na Idade Média, tornou-se um centro vital de comércio entre a Europa e o Oriente, acumulando riqueza e impulsionando um florescimento cultural sem igual.",
+                "Image": {
+                    "Url": "/th?id=OHR.VeniceView_PT-BR5561968411_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VeniceView_PT-BR5561968411_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A alma de Veneza",
+                "Title": "Vista aérea de Veneza, Itália",
+                "Copyright": "© Clement Leonard/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260102_VeniceView\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=veneza&form=hpcapt&filters=HpDate:\"20260102_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260102_VeniceView"
+            },
+            "Ssd": "20260102",
+            "Name": "VeniceView",
+            "Market": "PT-BR",
+            "Hash": "5561968411",
+            "FullDateString": "2 jan. 2026"
+        }
+    },
+    {
         "startdate": "20260101",
         "fullstartdate": "202601010300",
         "enddate": "20260102",

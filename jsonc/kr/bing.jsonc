@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260102",
+        "fullstartdate": "202601020800",
+        "enddate": "20260103",
+        "url": "/th?id=OHR.VeniceView_ROW3935417793_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VeniceView_ROW3935417793",
+        "copyright": "Aerial view of Venice, Italy (© Clement Leonard/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Venice+Italy&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260102_VeniceView%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cad498641fa38edde76100cf9703483c",
+        "hsh": "9567d7d38343674f50b4fce2ce451c88",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Seeing Venice from above is mesmerising, but this Italian gem's true magic lies within its walls and waterways. Founded in the 5th century on a cluster of islands in the Venetian Lagoon, the early settlement rose from marshland to become a maritime powerhouse. By the Middle Ages, it had evolved into a major hub for trade between Europe and the East, fuelling immense wealth and cultural growth. The city's grandeur shines through its Gothic palaces, Renaissance art and landmarks such as St. Mark's Basilica, the Doge's Palace and the Rialto Bridge.",
+                "Image": {
+                    "Url": "/th?id=OHR.VeniceView_ROW3935417793_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VeniceView_ROW3935417793_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Aerial view of Venice, Italy",
+                "Copyright": "© Clement Leonard/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260102_VeniceView\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Venice+Italy&form=hpcapt&filters=HpDate:\"20260102_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260102_VeniceView"
+            },
+            "Ssd": "20260102",
+            "Name": "VeniceView",
+            "Market": "ROW",
+            "Hash": "3935417793",
+            "FullDateString": "2026 1월 2"
+        }
+    },
+    {
         "startdate": "20260101",
         "fullstartdate": "202601010800",
         "enddate": "20260102",
