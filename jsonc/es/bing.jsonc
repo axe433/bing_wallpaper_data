@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260103",
+        "fullstartdate": "202601032300",
+        "enddate": "20260104",
+        "url": "/th?id=OHR.KingMountain_ES-ES2537706712_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KingMountain_ES-ES2537706712",
+        "copyright": "Kings Mountain, cordillera Chugach, Alaska, EE. UU. (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Cordillera+Chugach&form=hpcapt&filters=HpDate%3a%2220260103_2300%22",
+        "title": "Una vista majestuosa",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260103_KingMountain%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2151e464722ed3ed7aa3e06495771563",
+        "hsh": "b48f430e53fcbe15ae08f3416bb68ed7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Entre las vastas tierras de Alaska se extiende un paisaje que impresiona por su grandeza y pureza natural. Hoy admiramos una vista majestuosa que nos lleva hasta Kings Mountain en la cordillera Chugach (Estados Unidos). Sus picos escarpados se elevan sobre glaciares imponentes y bosques boreales que se funden con ríos cristalinos. El clima es riguroso, con inviernos largos y nevados que confieren al entorno una belleza salvaje y casi intacta. La sensación de inmensidad y aislamiento convierte este lugar en un paraíso para los amantes de la naturaleza y la aventura.",
+                "Image": {
+                    "Url": "/th?id=OHR.KingMountain_ES-ES2537706712_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KingMountain_ES-ES2537706712_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Una vista majestuosa",
+                "Title": "Kings Mountain, cordillera Chugach, Alaska, EE. UU.",
+                "Copyright": "© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260104_KingMountain\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Cordillera+Chugach&form=hpcapt&filters=HpDate:\"20260103_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260104_KingMountain"
+            },
+            "Ssd": "20260104",
+            "Name": "KingMountain",
+            "Market": "ES-ES",
+            "Hash": "2537706712",
+            "FullDateString": "4 de ene. de 2026"
+        }
+    },
+    {
         "startdate": "20260102",
         "fullstartdate": "202601022300",
         "enddate": "20260103",

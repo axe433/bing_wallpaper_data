@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260103",
+        "fullstartdate": "202601031830",
+        "enddate": "20260104",
+        "url": "/th?id=OHR.KingMountain_EN-IN1538941339_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KingMountain_EN-IN1538941339",
+        "copyright": "Kings Mountain, Chugach Mountains, Alaska, United States (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Kings+Mountain+Chugach+Mountains&form=hpcapt&filters=HpDate%3a%2220260103_1830%22",
+        "title": "A royal view",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260103_KingMountain%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2151e464722ed3ed7aa3e06495771563",
+        "hsh": "0c8a24372465da15839e49ac178ca574",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Kings Mountain in Alaska's Chugach Mountains, United States, isn't just another bump on the horizon—it's the kind of rugged beauty that makes you slow down and stare. Rising nearly 1,800 metres and sitting roughly 35 kilometres northeast of Palmer, this peak towers over mile 75 of the Glenn Highway, a route famous for its dramatic scenery. Its slopes bear the marks of ancient glaciers, etched into ridges and valleys that seem tailor-made for adventure.",
+                "Image": {
+                    "Url": "/th?id=OHR.KingMountain_EN-IN1538941339_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KingMountain_EN-IN1538941339_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A royal view",
+                "Title": "Kings Mountain, Chugach Mountains, Alaska, United States",
+                "Copyright": "© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/61.17,-145.33/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=61.17,-145.33;S9;Chugach Mountains, Alaska, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Kings%20Mountain%2C%20Chugach%20Mountains%2C%20Alaska&satid=id.sid%3A70c500d9-17d3-a40c-1c92-6e16d641d68f&vdpid=4734128961582268417&mb=61.974822~-148.362371~60.344034~-142.296681&cardbg=%23F98745&dt=1763110800000&tt=Chugach%20Mountains%2C%20AK&tsts0=%2526ty%253D30%2526q%253DKings%252520Mountain%25252C%252520Chugach%252520Mountains%25252C%252520Alaska%2526satid%253Did.sid%25253A70c500d9-17d3-a40c-1c92-6e16d641d68f%2526vdpid%253D4734128961582268417%2526mb%253D61.974822~-148.362371~60.344034~-142.296681%2526cardbg%253D%252523F98745%2526dt%253D1763110800000&tstt0=Chugach%20Mountains%2C%20AK&cp=61.167529~-147.831624&lvl=7.12&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260104_KingMountain\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Kings+Mountain+Chugach+Mountains&form=hpcapt&filters=HpDate:\"20260103_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260104_KingMountain"
+            },
+            "Ssd": "20260104",
+            "Name": "KingMountain",
+            "Market": "EN-IN",
+            "Hash": "1538941339",
+            "FullDateString": "4 Jan, 2026"
+        }
+    },
+    {
         "startdate": "20260102",
         "fullstartdate": "202601021830",
         "enddate": "20260103",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260103",
+        "fullstartdate": "202601030300",
+        "enddate": "20260104",
+        "url": "/th?id=OHR.LauterbrunnenValley_PT-BR5257129794_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LauterbrunnenValley_PT-BR5257129794",
+        "copyright": "Catarata de Staubbach em Lauterbrunnen, Cantão de Berna, Suíça (© pongnathee kluaythong/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Alpes+Berneses+na+Su%C3%AD%C3%A7a&form=hpcapt&mkt=pt-br",
+        "title": "Quando a natureza motiva a fantasia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260103_LauterbrunnenValley%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "62b37992b2f45e5e14c7df95892b0b89",
+        "hsh": "7b1946ba44c1945b0b79d592cf32fa45",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nossa imagem do dia nos leva à vila suíça de Lauterbrunnen, onde a Catarata de Staubbach despenca em meio a um vale alpino tranquilo. Foi por essa paisagem que um jovem viajante britânico chamado J.R.R. Tolkien passou durante uma caminhada em 1911. Muito antes de se tornar um dos maiores escritores da literatura fantástica, Tolkien era um estudante apaixonado por línguas e mitologia. Décadas depois, ele criaria mundos épicos como “O Senhor dos Anéis” e “O Hobbit”, obras que revolucionaram o gênero.",
+                "Image": {
+                    "Url": "/th?id=OHR.LauterbrunnenValley_PT-BR5257129794_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LauterbrunnenValley_PT-BR5257129794_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Quando a natureza motiva a fantasia",
+                "Title": "Catarata de Staubbach em Lauterbrunnen, Cantão de Berna, Suíça",
+                "Copyright": "© pongnathee kluaythong/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260103_LauterbrunnenValley\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Alpes+Berneses+na+Su%c3%ad%c3%a7a&form=hpcapt&filters=HpDate:\"20260103_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260103_LauterbrunnenValley"
+            },
+            "Ssd": "20260103",
+            "Name": "LauterbrunnenValley",
+            "Market": "PT-BR",
+            "Hash": "5257129794",
+            "FullDateString": "3 jan. 2026"
+        }
+    },
+    {
         "startdate": "20260102",
         "fullstartdate": "202601020300",
         "enddate": "20260103",

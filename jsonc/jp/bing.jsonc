@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260103",
+        "fullstartdate": "202601031500",
+        "enddate": "20260104",
+        "url": "/th?id=OHR.KingMountain_JA-JP5338011772_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KingMountain_JA-JP5338011772",
+        "copyright": "キングスマウンテン, 米国 アラスカ州 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Kings+Mountain%2c+Alaska&form=hpcapt&filters=HpDate%3a%2220260103_1500%22",
+        "title": "雪に覆われた険しい峰",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260103_KingMountain%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2151e464722ed3ed7aa3e06495771563",
+        "hsh": "d6e31257532049f5861dcf3849a38cdb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "米国アラスカ州南部に広がる雄大なチュガッチ山脈。全長約 402km、幅約 97km に及び、平均標高は約 1,221m です。山頂の多くは標高が特別に高いわけではありませんが、アラスカ湾沿いに位置するため、世界でも有数の降雪地域であり、場所によっては年間降雪量が 1,500cm を超えることもあります…",
+                "Image": {
+                    "Url": "/th?id=OHR.KingMountain_JA-JP5338011772_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KingMountain_JA-JP5338011772_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "雪に覆われた険しい峰",
+                "Title": "キングスマウンテン, 米国 アラスカ州",
+                "Copyright": "© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/61.888011,-148.473576/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=61.888011,-148.473576;S9;キングスマウンテン, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Kings%20Mountain%2C%20Chugach%20Mountains%2C%20Alaska&satid=id.sid%3A70c500d9-17d3-a40c-1c92-6e16d641d68f&vdpid=4734128961582268417&mb=61.974822~-148.362371~60.344034~-142.296681&cardbg=%23F98745&dt=1763110800000&tt=Chugach%20Mountains%2C%20AK&tsts0=%2526ty%253D30%2526q%253DKings%252520Mountain%25252C%252520Chugach%252520Mountains%25252C%252520Alaska%2526satid%253Did.sid%25253A70c500d9-17d3-a40c-1c92-6e16d641d68f%2526vdpid%253D4734128961582268417%2526mb%253D61.974822~-148.362371~60.344034~-142.296681%2526cardbg%253D%252523F98745%2526dt%253D1763110800000&tstt0=Chugach%20Mountains%2C%20AK&cp=61.167529~-147.831624&lvl=7.12&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260104_KingMountain\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Kings+Mountain%2c+Alaska&form=hpcapt&filters=HpDate:\"20260103_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260104_KingMountain"
+            },
+            "Ssd": "20260104",
+            "Name": "KingMountain",
+            "Market": "JA-JP",
+            "Hash": "5338011772",
+            "FullDateString": "2026 年 1月 月 4 日"
+        }
+    },
+    {
         "startdate": "20260102",
         "fullstartdate": "202601021500",
         "enddate": "20260103",
