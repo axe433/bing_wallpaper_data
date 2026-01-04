@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260104",
+        "fullstartdate": "202601040300",
+        "enddate": "20260105",
+        "url": "/th?id=OHR.KingMountain_PT-BR9875785873_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KingMountain_PT-BR9875785873",
+        "copyright": "Kings Mountain, Montes Chugach, Alasca, EUA  (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Montes+Chugach%2c+Alasca&form=hpcapt&mkt=pt-br",
+        "title": "Uma vista real",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260104_KingMountain%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2151e464722ed3ed7aa3e06495771563",
+        "hsh": "9326aa8b3c07d6b776e4d1feb0d65f55",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Kings Mountain, nos Montes Chugach do Alasca, nos Estados Unidos, não é apenas mais uma elevação no horizonte na imagem de hoje — é o tipo de beleza indomável que faz você parar e contemplar. Com mais de 1.700 metros de altitude, suas encostas guardam marcas de antigos glaciares, esculpidas em cristas e vales que parecem feitos para a aventura.",
+                "Image": {
+                    "Url": "/th?id=OHR.KingMountain_PT-BR9875785873_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KingMountain_PT-BR9875785873_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Uma vista real",
+                "Title": "Kings Mountain, Montes Chugach, Alasca, EUA",
+                "Copyright": "© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260104_KingMountain\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Montes+Chugach%2c+Alasca&form=hpcapt&filters=HpDate:\"20260104_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260104_KingMountain"
+            },
+            "Ssd": "20260104",
+            "Name": "KingMountain",
+            "Market": "PT-BR",
+            "Hash": "9875785873",
+            "FullDateString": "4 jan. 2026"
+        }
+    },
+    {
         "startdate": "20260103",
         "fullstartdate": "202601030300",
         "enddate": "20260104",
