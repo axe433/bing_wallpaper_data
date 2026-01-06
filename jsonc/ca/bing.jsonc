@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260106",
+        "fullstartdate": "202601060500",
+        "enddate": "20260107",
+        "url": "/th?id=OHR.NuukGreenland_EN-CA9507473966_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NuukGreenland_EN-CA9507473966",
+        "copyright": "Nuuk, Greenland (© nevereverro/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Nuuk+Greenland&form=hpcapt&filters=HpDate%3a%2220260106_0500%22",
+        "title": "Chillin' in Nuuk",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260106_NuukGreenland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3e43d01e4240039756c825daf006944e",
+        "hsh": "eb880b05c90fa5b2182f0897b49566cf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Picture a city where your daily commute offers views of fjords, drifting ice and the Northern Lights. That's everyday life in Nuuk, the capital of Greenland—a small yet spirited Arctic hub blending Inuit heritage with Nordic modernity. Founded in 1728 by Danish-Norwegian missionary Hans Egede, it began as a small settlement called Godthaab—'Good Hope.'",
+                "Image": {
+                    "Url": "/th?id=OHR.NuukGreenland_EN-CA9507473966_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NuukGreenland_EN-CA9507473966_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Chillin' in Nuuk",
+                "Title": "Nuuk, Greenland",
+                "Copyright": "© nevereverro/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/64.175,-51.73333/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=64.175,-51.73333;S9;Nuuk, Greenland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Nuuk%2C%20Greenland&satid=id.sid%3A974376cf-4fae-f619-51cb-ad2e3a800422&vdpid=5307097739195056129&mb=64.199265~-51.818743~64.161758~-51.649862&cardbg=%23F98745&tt=Nuuk%2C%20Greenland&tsts0=%2526ty%253D30%2526q%253DNuuk%25252C%252520Greenland%2526satid%253Did.sid%25253A974376cf-4fae-f619-51cb-ad2e3a800422%2526vdpid%253D5307097739195056129%2526mb%253D64.199265~-51.818743~64.161758~-51.649862%2526cardbg%253D%252523F98745&tstt0=Nuuk%2C%20Greenland&cp=51.320788~-69.970128&lvl=3.4018452&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260106_NuukGreenland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Nuuk+Greenland&form=hpcapt&filters=HpDate:\"20260106_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260106_NuukGreenland"
+            },
+            "Ssd": "20260106",
+            "Name": "NuukGreenland",
+            "Market": "EN-CA",
+            "Hash": "9507473966",
+            "FullDateString": "Jan. 6, 2026"
+        }
+    },
+    {
         "startdate": "20260105",
         "fullstartdate": "202601050500",
         "enddate": "20260106",

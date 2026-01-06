@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260106",
+        "fullstartdate": "202601060800",
+        "enddate": "20260107",
+        "url": "/th?id=OHR.NuukGreenland_ROW1680674734_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NuukGreenland_ROW1680674734",
+        "copyright": "Nuuk, Greenland (© nevereverro/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Nuuk+Greenland&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260106_NuukGreenland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3e43d01e4240039756c825daf006944e",
+        "hsh": "2b639be8e14f9a0d65d89c6291bc78b8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Picture a city where your daily commute offers views of fjords, drifting ice and the Northern Lights. That's everyday life in Nuuk, the capital of Greenland—a small yet spirited Arctic hub blending Inuit heritage with Nordic modernity. Founded in 1728 by Danish-Norwegian missionary Hans Egede, it began as a small settlement called Godthaab—'Good Hope.'",
+                "Image": {
+                    "Url": "/th?id=OHR.NuukGreenland_ROW1680674734_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NuukGreenland_ROW1680674734_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Nuuk, Greenland",
+                "Copyright": "© nevereverro/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260106_NuukGreenland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Nuuk+Greenland&form=hpcapt&filters=HpDate:\"20260106_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260106_NuukGreenland"
+            },
+            "Ssd": "20260106",
+            "Name": "NuukGreenland",
+            "Market": "ROW",
+            "Hash": "1680674734",
+            "FullDateString": "6 de ene. de 2026"
+        }
+    },
+    {
         "startdate": "20260105",
         "fullstartdate": "202601050800",
         "enddate": "20260106",

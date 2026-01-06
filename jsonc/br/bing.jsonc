@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260106",
+        "fullstartdate": "202601060300",
+        "enddate": "20260107",
+        "url": "/th?id=OHR.NuukGreenland_PT-BR9430819124_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NuukGreenland_PT-BR9430819124",
+        "copyright": "Nuuk, Groenlândia (© nevereverro/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Nuuk%2c+Groenl%C3%A2ndia&form=hpcapt&mkt=pt-br",
+        "title": "Muito além do gelo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260106_NuukGreenland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3e43d01e4240039756c825daf006944e",
+        "hsh": "079ff8c37165947c99d345a3c5c328f1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Já imaginou se o seu caminho para a escola ou trabalho revelasse fiordes, blocos de gelo à deriva e, às vezes, a aurora boreal? Essa é a rotina em Nuuk, capital da Groenlândia e nossa imagem do dia. Uma cidade pequena, mas cheia de vida, que mistura a herança inuíte — povo indígena do Ártico — com a modernidade nórdica.",
+                "Image": {
+                    "Url": "/th?id=OHR.NuukGreenland_PT-BR9430819124_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NuukGreenland_PT-BR9430819124_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Muito além do gelo",
+                "Title": "Nuuk, Groenlândia",
+                "Copyright": "© nevereverro/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260106_NuukGreenland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Nuuk%2c+Groenl%c3%a2ndia&form=hpcapt&filters=HpDate:\"20260106_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260106_NuukGreenland"
+            },
+            "Ssd": "20260106",
+            "Name": "NuukGreenland",
+            "Market": "PT-BR",
+            "Hash": "9430819124",
+            "FullDateString": "6 jan. 2026"
+        }
+    },
+    {
         "startdate": "20260105",
         "fullstartdate": "202601050300",
         "enddate": "20260106",
