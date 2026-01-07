@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260107",
+        "fullstartdate": "202601070000",
+        "enddate": "20260108",
+        "url": "/th?id=OHR.OldRockArch_EN-GB3921180413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OldRockArch_EN-GB3921180413",
+        "copyright": "Turret Arch framed by North Window in Arches National Park, Utah, United States (© Jim Patterson/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Arches+National+Park+Windows&form=hpcapt&filters=HpDate%3a%2220260107_0000%22",
+        "title": "Rock legends",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260107_OldRockArch%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "89d1d013f40db28d0a1aa32181d29e04",
+        "hsh": "3ccc56c57f9a33d99fef7db07e88d8db",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Today is a day that puts time into perspective. Old Rock Day highlights the vast geological processes that have shaped our world since its earliest eras. In Arches National Park, Utah, United States, Turret Arch—seen through North Window—offers a striking reminder: landscapes can take hundreds of millions of years to assemble. The Entrada Sandstone that forms these arches began as shifting dunes and shallow seas long before erosion carved today's shapes. Even so, these formations are relatively young. Most rocks on Earth disappear over time because plate tectonics, erosion and volcanism continually recycle the crust. Only the planet's ancient continental shields preserve truly old material. Canada's Acasta Gneiss, about 4 billion years old, is the oldest known rock still rooted where it formed.",
+                "Image": {
+                    "Url": "/th?id=OHR.OldRockArch_EN-GB3921180413_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OldRockArch_EN-GB3921180413_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Rock legends",
+                "Title": "Turret Arch framed by North Window in Arches National Park, Utah, United States",
+                "Copyright": "© Jim Patterson/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.319587,-109.759965/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=39.319587,-109.759965;S9;Turret Arch, Arches National Park, Utah, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Turret%20Arch%2C%20Moab%2C%20UT%2C%20United%20States&ss=ypid.YNFC28AB40F6C87C7E&mb=38.68762~-109.542017~38.680987~-109.527855&description=Moab%2C%20UT%2084532&cardbg=%23219AB6&dt=1763123400000&tt=Turret%20Arch&tsts0=%2526ty%253D18%2526q%253DTurret%252520Arch%25252C%252520Moab%25252C%252520UT%25252C%252520United%252520States%2526ss%253Dypid.YNFC28AB40F6C87C7E%2526mb%253D38.68762~-109.542017~38.680987~-109.527855%2526description%253DMoab%25252C%252520UT%25252084532%2526cardbg%253D%252523219AB6%2526dt%253D1763123400000&tstt0=Turret%20Arch&cp=38.431156~-117.651931&lvl=5.3719306&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260107_OldRockArch\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Arches+National+Park+Windows&form=hpcapt&filters=HpDate:\"20260107_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260107_OldRockArch"
+            },
+            "Ssd": "20260107",
+            "Name": "OldRockArch",
+            "Market": "EN-GB",
+            "Hash": "3921180413",
+            "FullDateString": "7 Jan 2026"
+        }
+    },
+    {
         "startdate": "20260106",
         "fullstartdate": "202601060000",
         "enddate": "20260107",

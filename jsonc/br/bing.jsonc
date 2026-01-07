@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260107",
+        "fullstartdate": "202601070300",
+        "enddate": "20260108",
+        "url": "/th?id=OHR.NoronhaSunset_PT-BR9160496041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NoronhaSunset_PT-BR9160496041",
+        "copyright": "Pôr do sol em Fernando de Noronha (© Stephanie Kenner/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ilha+Fernando+de+Noronha&form=hpcapt&mkt=pt-br",
+        "title": "Paraíso brasileiro",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260107_NoronhaSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a70247714ed37bcec6ab3e3878cefde2",
+        "hsh": "d16cab40aa9dba772db41358f9db8a41",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "O sol se despede lentamente no horizonte, tingindo o céu com tons dourados. Ao fundo, duas formações rochosas icônicas se erguem como guardiãs silenciosas, compondo uma das paisagens mais famosas do Brasil: estamos em Fernando de Noronha, um arquipélago localizado no estado de Pernambuco, a cerca de 360 quilômetros do continente.",
+                "Image": {
+                    "Url": "/th?id=OHR.NoronhaSunset_PT-BR9160496041_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NoronhaSunset_PT-BR9160496041_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Paraíso brasileiro",
+                "Title": "Pôr do sol em Fernando de Noronha",
+                "Copyright": "© Stephanie Kenner/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260107_NoronhaSunset\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ilha+Fernando+de+Noronha&form=hpcapt&filters=HpDate:\"20260107_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260107_NoronhaSunset"
+            },
+            "Ssd": "20260107",
+            "Name": "NoronhaSunset",
+            "Market": "PT-BR",
+            "Hash": "9160496041",
+            "FullDateString": "7 jan. 2026"
+        }
+    },
+    {
         "startdate": "20260106",
         "fullstartdate": "202601060300",
         "enddate": "20260107",

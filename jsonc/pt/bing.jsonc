@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260107",
+        "fullstartdate": "202601070800",
+        "enddate": "20260108",
+        "url": "/th?id=OHR.OldRockArch_ROW8266401569_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OldRockArch_ROW8266401569",
+        "copyright": "Turret Arch framed by North Window in Arches National Park, Utah, United States (© Jim Patterson/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Arches+National+Park+Windows&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260107_OldRockArch%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "89d1d013f40db28d0a1aa32181d29e04",
+        "hsh": "0bc1821f5fd4204d94cecdb230fb7bb4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "In Arches National Park located in Utah in the United States, Turret Arch—seen through North Window—offers a striking reminder: landscapes can take hundreds of millions of years to assemble. Standing approximately 20 metres tall and 10 metres wide, the arch is formed from Entrada Sandstone. These arches began as shifting dunes and shallow seas long before erosion carved the shapes we see today. Even so, these formations are relatively young. Arches National Park protects the highest concentration of natural stone arches on Earth—over 2,000 documented arches, along with spires, fins and balanced rocks. While here, visitors can explore through auto touring, hiking, bicycling, backpacking, canyoneering and rock climbing—permits required for the last three. It's a place where the rocks don't move, but you definitely will.",
+                "Image": {
+                    "Url": "/th?id=OHR.OldRockArch_ROW8266401569_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OldRockArch_ROW8266401569_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Turret Arch framed by North Window in Arches National Park, Utah, United States",
+                "Copyright": "© Jim Patterson/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260107_OldRockArch\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Arches+National+Park+Windows&form=hpcapt&filters=HpDate:\"20260107_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260107_OldRockArch"
+            },
+            "Ssd": "20260107",
+            "Name": "OldRockArch",
+            "Market": "ROW",
+            "Hash": "8266401569",
+            "FullDateString": "7 jan. 2026"
+        }
+    },
+    {
         "startdate": "20260106",
         "fullstartdate": "202601060800",
         "enddate": "20260107",
