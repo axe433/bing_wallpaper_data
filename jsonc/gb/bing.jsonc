@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260108",
+        "fullstartdate": "202601080000",
+        "enddate": "20260109",
+        "url": "/th?id=OHR.TuftedTitmouse_EN-GB7363670202_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TuftedTitmouse_EN-GB7363670202",
+        "copyright": "Tufted titmouse perched on pine boughs, Massachusetts, United States (© Tim Laman/NPL/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Tufted+titmouse&form=hpcapt&filters=HpDate%3a%2220260108_0000%22",
+        "title": "Crested and curious",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260108_TuftedTitmouse%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "7591016a6770083c781a51cbe7ed68e1",
+        "hsh": "e7845b2275a3b3984d6792dcc0e8175a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Peter-peter-peter! That's your first clue that a tufted titmouse is nearby. Don't be fooled by its small size—this grey little bird is the neighbourhood's feathered detective, hopping from branch to branch, eyes sharp, crest on high. Tufted titmice are part acrobat and part gourmet. They scour trees for insects, seeds and nuts, sometimes stashing their finds for later. Their signature black forehead patch and pointy crest give them a distinctive 'hoodie-and-attitude' look, making them easy to spot if you pause and watch closely.",
+                "Image": {
+                    "Url": "/th?id=OHR.TuftedTitmouse_EN-GB7363670202_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TuftedTitmouse_EN-GB7363670202_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Crested and curious",
+                "Title": "Tufted titmouse perched on pine boughs, Massachusetts, United States",
+                "Copyright": "© Tim Laman/NPL/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/42.3,-71.8/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=42.3,-71.8;S9;Massachusetts, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Massachusetts%2C%20United%20States&satid=id.sid%3A845219d5-3650-4199-b926-964ca27c863c&vdpid=20543&mb=42.888794~-73.895996~41.238979~-69.537468&cardbg=%23F98745&tt=Massachusetts%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253DMassachusetts%25252C%252520United%252520States%2526satid%253Did.sid%25253A845219d5-3650-4199-b926-964ca27c863c%2526vdpid%253D20543%2526mb%253D42.888794~-73.895996~41.238979~-69.537468%2526cardbg%253D%252523F98745&tstt0=Massachusetts%2C%20United%20States&cp=40.248334~-76.781781&lvl=5.532769&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260108_TuftedTitmouse\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tufted+titmouse&form=hpcapt&filters=HpDate:\"20260108_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260108_TuftedTitmouse"
+            },
+            "Ssd": "20260108",
+            "Name": "TuftedTitmouse",
+            "Market": "EN-GB",
+            "Hash": "7363670202",
+            "FullDateString": "8 Jan 2026"
+        }
+    },
+    {
         "startdate": "20260107",
         "fullstartdate": "202601070000",
         "enddate": "20260108",

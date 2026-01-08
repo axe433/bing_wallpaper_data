@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260108",
+        "fullstartdate": "202601082300",
+        "enddate": "20260109",
+        "url": "/th?id=OHR.LynxBavariaSnow_DE-DE0416366629_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LynxBavariaSnow_DE-DE0416366629",
+        "copyright": "Eurasische Luchse beim Spielen im Schnee im Wald, Bayern (© imagebroker/david & micha sheldon/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Eurasischer+Luchs&form=hpcapt&filters=HpDate%3a%2220260108_2300%22",
+        "title": "Vergnügen im Schnee",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260108_LynxBavariaSnow%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "338f765043a743387fa94f0dbfa0fcee",
+        "hsh": "2daa6f651fda4fedebe722b907037c3a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Zwei junge Eurasische Luchse tollen durch den frischen Schnee – ein Anblick, der selbst in den stillen Wäldern Bayerns selten geworden ist und den das heutige Bild eindrucksvoll festhält. Mit ihrem dichten, gefleckten Winterfell sind die beiden perfekt an die kalte Jahreszeit angepasst. Auffällig sind die schwarzen Pinsel an den Ohren, die vor allem der Kommunikation dienen und den Tieren ihren charakteristischen Ausdruck verleihen. Luchse gehören zu den größten Wildkatzen Europas. Ausgewachsene Tiere erreichen eine Schulterhöhe von 55 bis 70 Zentimetern und wiegen je nach Geschlecht meist 18 bis 30 Kilogramm.",
+                "Image": {
+                    "Url": "/th?id=OHR.LynxBavariaSnow_DE-DE0416366629_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LynxBavariaSnow_DE-DE0416366629_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Vergnügen im Schnee",
+                "Title": "Eurasische Luchse beim Spielen im Schnee im Wald, Bayern",
+                "Copyright": "© imagebroker/david & micha sheldon/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Der Eurasische Luchs kann aus dem Stand bis zu 4 Meter weit springen, perfekt für den Überraschungsangriff.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260109_LynxBavariaSnow\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Eurasischer+Luchs&form=hpcapt&filters=HpDate:\"20260108_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260109_LynxBavariaSnow"
+            },
+            "Ssd": "20260109",
+            "Name": "LynxBavariaSnow",
+            "Market": "DE-DE",
+            "Hash": "0416366629",
+            "FullDateString": "9. Jan.. 2026"
+        }
+    },
+    {
         "startdate": "20260107",
         "fullstartdate": "202601072300",
         "enddate": "20260108",
