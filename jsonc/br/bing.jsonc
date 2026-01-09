@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260109",
+        "fullstartdate": "202601090300",
+        "enddate": "20260110",
+        "url": "/th?id=OHR.MuirWoodsMonument_PT-BR7920486787_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MuirWoodsMonument_PT-BR7920486787",
+        "copyright": "Sequoias no Monumento Nacional de Muir Woods, Califórnia, EUA (© foto de canderson/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Monumento+Nacional+de+Muir+Woods+na+Calif%C3%B3rnia&form=hpcapt&mkt=pt-br",
+        "title": "Reino dos gigantes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260109_MuirWoodsMonument%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ca87c7a4fbcc4acad56449f784c39e1e",
+        "hsh": "06e2f8a64865d293be00fab6c251e538",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Seja bem-vindo ao reino dos gigantes! Nossa imagem de hoje nos leva ao Monumento Nacional de Muir Woods — um majestoso parque de sequoias costeiras ao norte da cidade de São Francisco, nos Estados Unidos. Essas árvores são as mais altas da Terra, podendo chegar a mais de 100 metros de altura. A maioria delas tem entre 600 e 800 anos, e algumas estão de pé há mais de um milênio. Ainda assim, são consideradas \"jovens\" para uma espécie que pode viver até 2 mil anos. Como elas resistem ao tempo? Com sua casca espessa e resistente ao fogo. Suas raízes se espalham por até 30 metros e se entrelaçam com as raízes das árvores vizinhas, oferecendo estabilidade.",
+                "Image": {
+                    "Url": "/th?id=OHR.MuirWoodsMonument_PT-BR7920486787_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MuirWoodsMonument_PT-BR7920486787_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Reino dos gigantes",
+                "Title": "Sequoias no Monumento Nacional de Muir Woods, Califórnia, EUA",
+                "Copyright": "© foto de canderson/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260109_MuirWoodsMonument\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Monumento+Nacional+de+Muir+Woods+na+Calif%c3%b3rnia&form=hpcapt&filters=HpDate:\"20260109_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260109_MuirWoodsMonument"
+            },
+            "Ssd": "20260109",
+            "Name": "MuirWoodsMonument",
+            "Market": "PT-BR",
+            "Hash": "7920486787",
+            "FullDateString": "9 jan. 2026"
+        }
+    },
+    {
         "startdate": "20260108",
         "fullstartdate": "202601080300",
         "enddate": "20260109",
