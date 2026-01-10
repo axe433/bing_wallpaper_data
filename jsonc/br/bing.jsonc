@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260110",
+        "fullstartdate": "202601100300",
+        "enddate": "20260111",
+        "url": "/th?id=OHR.MatterhornSunrise_PT-BR3935856361_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MatterhornSunrise_PT-BR3935856361",
+        "copyright": "Matterhorn refletido no Lago Stellisee ao amanhecer, Zermatt, Suíça (© Andy Trowbridge/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=pico+do+matterhorn+su%C3%AD%C3%A7a&form=hpcapt&mkt=pt-br",
+        "title": "Pura magia suíça",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260110_MatterhornSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a2f2bbc4fd9429bb0e79b9cbbc456a3a",
+        "hsh": "7ee876615e5325e8cae38909eadd848c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Poucas paisagens capturam o espírito dos Alpes como a que vemos na imagem: o Matterhorn refletido nas águas cristalinas do Lago Stellisee. Com 4.478 metros de altura, localizada na fronteira entre a Suíça e a Itália, esta montanha lendária simboliza beleza natural e aventura, atraindo alpinistas, caminhantes e sonhadores de todos os cantos do mundo.",
+                "Image": {
+                    "Url": "/th?id=OHR.MatterhornSunrise_PT-BR3935856361_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MatterhornSunrise_PT-BR3935856361_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Pura magia suíça",
+                "Title": "Matterhorn refletido no Lago Stellisee ao amanhecer, Zermatt, Suíça",
+                "Copyright": "© Andy Trowbridge/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260110_MatterhornSunrise\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=pico+do+matterhorn+su%c3%ad%c3%a7a&form=hpcapt&filters=HpDate:\"20260110_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260110_MatterhornSunrise"
+            },
+            "Ssd": "20260110",
+            "Name": "MatterhornSunrise",
+            "Market": "PT-BR",
+            "Hash": "3935856361",
+            "FullDateString": "10 jan. 2026"
+        }
+    },
+    {
         "startdate": "20260109",
         "fullstartdate": "202601090300",
         "enddate": "20260110",
