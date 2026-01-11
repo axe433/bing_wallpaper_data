@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260111",
+        "fullstartdate": "202601110500",
+        "enddate": "20260112",
+        "url": "/th?id=OHR.BlueMorocco_EN-CA0359516885_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BlueMorocco_EN-CA0359516885",
+        "copyright": "Blue walls of Chefchaouen, Morocco (© AnetteAndersen/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Chefchaouen+Morocco&form=hpcapt&filters=HpDate%3a%2220260111_0500%22",
+        "title": "From resistance to radiance",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260111_BlueMorocco%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bc08e4a90b703318690bf40bd8b56240",
+        "hsh": "07b14af22c881ae19357ac61888471b4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "On January 11, 1944, Morocco took a bold step toward freedom. Sixty-six leaders signed the Proclamation of Independence, demanding an end to French and Spanish colonial rule and affirming the country's right to sovereignty. This manifesto, backed by Sultan Mohammed V, was presented not only to colonial authorities but also to representatives of the US, UK and the former Soviet Union—a signal that Morocco's struggle was part of a global call for self-determination. Though repression followed, the movement endured, and by 1956 Morocco achieved full independence, marking a turning point in North African history.",
+                "Image": {
+                    "Url": "/th?id=OHR.BlueMorocco_EN-CA0359516885_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BlueMorocco_EN-CA0359516885_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "From resistance to radiance",
+                "Title": "Blue walls of Chefchaouen, Morocco",
+                "Copyright": "© AnetteAndersen/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.17139,-5.269722/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=35.17139,-5.269722;S9;Chefchaouen, Morocco&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Chefchaouen%2C%20Morocco&satid=id.sid%3A72a1c45b-dfd2-2936-5e1a-172b00e8840c&vdpid=5673699920675078145&mb=35.196239~-5.334048~35.147537~-5.227178&cardbg=%23F98745&tt=Chefchaouen%2C%20Tanger-Tetouan-Al%20Hoceima%2C%20Morocco&tsts0=%2526ty%253D30%2526q%253DChefchaouen%25252C%252520Morocco%2526satid%253Did.sid%25253A72a1c45b-dfd2-2936-5e1a-172b00e8840c%2526vdpid%253D5673699920675078145%2526mb%253D35.196239~-5.334048~35.147537~-5.227178%2526cardbg%253D%252523F98745&tstt0=Chefchaouen%2C%20Tanger-Tetouan-Al%20Hoceima%2C%20Morocco&cp=32.477032~-5.071569&lvl=4.95&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260111_BlueMorocco\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Chefchaouen+Morocco&form=hpcapt&filters=HpDate:\"20260111_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260111_BlueMorocco"
+            },
+            "Ssd": "20260111",
+            "Name": "BlueMorocco",
+            "Market": "EN-CA",
+            "Hash": "0359516885",
+            "FullDateString": "Jan. 11, 2026"
+        }
+    },
+    {
         "startdate": "20260110",
         "fullstartdate": "202601100500",
         "enddate": "20260111",

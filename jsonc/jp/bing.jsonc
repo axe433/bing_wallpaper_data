@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260111",
+        "fullstartdate": "202601111500",
+        "enddate": "20260112",
+        "url": "/th?id=OHR.SkiDay2026_JA-JP1055394608_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SkiDay2026_JA-JP1055394608",
+        "copyright": "ガーラ湯沢スキー場, 新潟県 (© Metta Bunkeaw/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%AC%E3%83%BC%E3%83%A9%E6%B9%AF%E6%B2%A2&form=hpcapt&filters=HpDate%3a%2220260111_1500%22",
+        "title": "今日はスキーの日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260111_SkiDay2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2efe836bb3f26a23623927e373e29bae",
+        "hsh": "b4c3f2c53e9519a3a6be02ea97e289ca",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日、1 月 12 日は「スキーの日」。1911 年（明治 44 年）の今日、当時のオーストリア・ハンガリー帝国の武官、テオドール・フォン・レルヒ少佐が日本の軍人にアルペンスキー術を指導しました。その後、スキー術が軍人から民間へと伝えられたことで、全国各地に「スキー」が普及したため、1994 年に、1 月 12 日が「スキーの日」として制定されました…",
+                "Image": {
+                    "Url": "/th?id=OHR.SkiDay2026_JA-JP1055394608_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SkiDay2026_JA-JP1055394608_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日はスキーの日",
+                "Title": "ガーラ湯沢スキー場, 新潟県",
+                "Copyright": "© Metta Bunkeaw/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.922943,138.75174/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=36.922943,138.75174;S9;ガーラ湯沢スキー場&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=%E3%82%AC%E3%83%BC%E3%83%A9%E6%B9%AF%E6%B2%A2%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4&mb=36.955516~138.794864~36.945913~138.804241&description=%E3%80%92949-6101%E6%96%B0%E6%BD%9F%E7%9C%8C%E5%8D%97%E9%AD%9A%E6%B2%BC%E9%83%A1%E6%B9%AF%E6%B2%A2%E7%94%BA%E5%A4%A7%E5%AD%97%E6%B9%AF%E6%B2%A2%E5%AD%97%E8%8C%85%E5%B9%B31039-2&cardbg=%23219AB6&dt=1766030400000&tt=GALA%E6%B9%AF%E6%B2%A2%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4&cp=36.950715~138.789082&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260112_SkiDay2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%ac%e3%83%bc%e3%83%a9%e6%b9%af%e6%b2%a2&form=hpcapt&filters=HpDate:\"20260111_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260112_SkiDay2026"
+            },
+            "Ssd": "20260112",
+            "Name": "SkiDay2026",
+            "Market": "JA-JP",
+            "Hash": "1055394608",
+            "FullDateString": "2026 年 1月 月 12 日"
+        }
+    },
+    {
         "startdate": "20260110",
         "fullstartdate": "202601101500",
         "enddate": "20260111",

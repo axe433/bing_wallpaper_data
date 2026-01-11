@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260111",
+        "fullstartdate": "202601112300",
+        "enddate": "20260112",
+        "url": "/th?id=OHR.EtnaSiciliaNeve_IT-IT1228064958_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EtnaSiciliaNeve_IT-IT1228064958",
+        "copyright": "Cratere nel Parco Nazionale dell'Etna, Catania, Sicilia (© PATMALUPHOTO/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Etna&form=hpcapt",
+        "title": "La fucina degli dèi",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260111_EtnaSiciliaNeve%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "40b4eae26d725650d314d4fbad457c81",
+        "hsh": "69e8dab56b01500dcb6a8a4837595b5e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "L’Etna domina la Sicilia orientale con i suoi 3.403 metri di altezza, innevato d’inverno e maestoso tutto l’anno. È uno stratovulcano, cioè un vulcano nato dall’accumulo di strati di lava e cenere che, eruzione dopo eruzione, hanno costruito la sua mole imponente. Non è solo il più grande vulcano attivo d’Europa, ma anche un simbolo che da millenni incute rispetto e meraviglia, capace di trasformare il paesaggio e di alimentare miti e leggende.",
+                "Image": {
+                    "Url": "/th?id=OHR.EtnaSiciliaNeve_IT-IT1228064958_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EtnaSiciliaNeve_IT-IT1228064958_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La fucina degli dèi",
+                "Title": "Cratere nel Parco Nazionale dell'Etna, Catania, Sicilia",
+                "Copyright": "© PATMALUPHOTO/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Il nome Etna deriverebbe dall’antico greco Aítnē e dal latino Aetna, legato al verbo greco àithō che significa “bruciare” o “ardere”. In origine sembrava quindi indicare “il luogo che arde”.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260112_EtnaSiciliaNeve\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Etna&form=hpcapt&filters=HpDate:\"20260111_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260112_EtnaSiciliaNeve"
+            },
+            "Ssd": "20260112",
+            "Name": "EtnaSiciliaNeve",
+            "Market": "IT-IT",
+            "Hash": "1228064958",
+            "FullDateString": "12 gennaio 2026"
+        }
+    },
+    {
         "startdate": "20260110",
         "fullstartdate": "202601102300",
         "enddate": "20260111",

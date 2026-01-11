@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260111",
+        "fullstartdate": "202601110800",
+        "enddate": "20260112",
+        "url": "/th?id=OHR.BlueMorocco_ROW0232801057_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BlueMorocco_ROW0232801057",
+        "copyright": "Blue walls of Chefchaouen, Morocco (© AnetteAndersen/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Chefchaouen+Morocco&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260111_BlueMorocco%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bc08e4a90b703318690bf40bd8b56240",
+        "hsh": "60250c664a539141b50827da780c5bbf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Chefchaouen, known as the 'Blue Pearl' of the Rif Mountains, is one of the most atmospheric cities in Morocco. Its name comes from a blend of Arabic and Berber—Chef, derived from the Arabic word meaning 'to look,' and Echaouen, a Berber term for 'horns'—together meaning 'look at the horns,' a reference to the two mountain peaks that rise above the town.",
+                "Image": {
+                    "Url": "/th?id=OHR.BlueMorocco_ROW0232801057_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BlueMorocco_ROW0232801057_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Blue walls of Chefchaouen, Morocco",
+                "Copyright": "© AnetteAndersen/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260111_BlueMorocco\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Chefchaouen+Morocco&form=hpcapt&filters=HpDate:\"20260111_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260111_BlueMorocco"
+            },
+            "Ssd": "20260111",
+            "Name": "BlueMorocco",
+            "Market": "ROW",
+            "Hash": "0232801057",
+            "FullDateString": "11 jan., 2026"
+        }
+    },
+    {
         "startdate": "20260110",
         "fullstartdate": "202601100800",
         "enddate": "20260111",

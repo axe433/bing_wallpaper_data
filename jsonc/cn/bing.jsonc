@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260111",
+        "fullstartdate": "202601111600",
+        "enddate": "20260112",
+        "url": "/th?id=OHR.SnowOtters_ZH-CN3563991803_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SnowOtters_ZH-CN3563991803",
+        "copyright": "欧亚水獭和幼崽, 爱沙尼亚 (© Sven Zacek/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=%E6%AC%A7%E4%BA%9A%E6%B0%B4%E7%8D%AD&form=hpcapt&mkt=zh-cn",
+        "title": "水獭之国爱沙尼亚",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260111_SnowOtters%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6a43b36b1e1dea6e5220072c6e10afbb",
+        "hsh": "3752e881011974706fcea4c061384433",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "真正吸引人的，并不是雪地里那串脚印，而是那些从洞口探出头来的小家伙——脸上挂着一层白白的霜，好像刚刚意识到“啊，这就是冬天啊”。在欧洲想看欧亚水獭，爱沙尼亚是再合适不过的地方：清洁的河流、开阔的湿地，还有食物充足的海岸线，都让它们在这里自在生息。这个受保护的物种也因此在2024年被选为当地的“年度动物”。尽管欧亚水獭在全球范围内仍被视为近危，但在爱沙尼亚，它们的数量却一路回升——从千禧年前后仅约300只的低谷，增长到近些年大约2000只，悄悄写下了一段复苏故事。",
+                "Image": {
+                    "Url": "/th?id=OHR.SnowOtters_ZH-CN3563991803_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SnowOtters_ZH-CN3563991803_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "水獭之国爱沙尼亚",
+                "Title": "欧亚水獭和幼崽, 爱沙尼亚",
+                "Copyright": "© Sven Zacek/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "欧亚水獭和其他鼬科动物一样，力量远比体型看上去更强，足以制服比自己大得多的猎物。它们偶尔甚至会捕猎体型庞大的水鸟，比如成年的灰雁。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260112_SnowOtters\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e6%ac%a7%e4%ba%9a%e6%b0%b4%e7%8d%ad&form=hpcapt&filters=HpDate:\"20260111_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260112_SnowOtters"
+            },
+            "Ssd": "20260112",
+            "Name": "SnowOtters",
+            "Market": "ZH-CN",
+            "Hash": "3563991803",
+            "FullDateString": "2026 1月 12"
+        }
+    },
+    {
         "startdate": "20260110",
         "fullstartdate": "202601101600",
         "enddate": "20260111",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260111",
+        "fullstartdate": "202601111830",
+        "enddate": "20260112",
+        "url": "/th?id=OHR.SnowOtters_EN-IN9025656973_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SnowOtters_EN-IN9025656973",
+        "copyright": "Eurasian otter and pup, Estonia (© Sven Zacek/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Eurasian+otter&form=hpcapt&filters=HpDate%3a%2220260111_1830%22",
+        "title": "Otter-ly Estonia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260111_SnowOtters%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6a43b36b1e1dea6e5220072c6e10afbb",
+        "hsh": "4316a7099710c6f205420ec0f61f767a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "The clue isn't the tracks in the snow—it's the frosted faces peeking out like they've just discovered winter. Estonia is one of Europe's best places to spot Eurasian otters, thanks to its clean rivers, wide wetlands and snack-filled coastline. This protected species was named Estonia's Animal of the Year in 2024. While globally considered near threatened, their population here has grown substantially, reaching an estimated 2,000 in recent years, up from a historic low of just 300 before the turn of the millennium.",
+                "Image": {
+                    "Url": "/th?id=OHR.SnowOtters_EN-IN9025656973_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SnowOtters_EN-IN9025656973_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Otter-ly Estonia",
+                "Title": "Eurasian otter and pup, Estonia",
+                "Copyright": "© Sven Zacek/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/58.752377,25.331907/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=58.752377,25.331907;S9;Estonia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Estonia&vdpid=70&mb=59.938343~20.331159~57.509323~29.261465&cardbg=%23F98745&dt=1764343800000&tt=Estonia&tsts0=%2526ty%253D30%2526q%253DEstonia%2526vdpid%253D70%2526mb%253D59.938343~20.331159~57.509323~29.261465%2526cardbg%253D%252523F98745%2526dt%253D1764343800000&tstt0=Estonia&cp=53.211717~6.354397&lvl=4.0126686&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260112_SnowOtters\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Eurasian+otter&form=hpcapt&filters=HpDate:\"20260111_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260112_SnowOtters"
+            },
+            "Ssd": "20260112",
+            "Name": "SnowOtters",
+            "Market": "EN-IN",
+            "Hash": "9025656973",
+            "FullDateString": "12 Jan, 2026"
+        }
+    },
+    {
         "startdate": "20260110",
         "fullstartdate": "202601101830",
         "enddate": "20260111",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260111",
+        "fullstartdate": "202601112300",
+        "enddate": "20260112",
+        "url": "/th?id=OHR.SnowOtters_FR-FR5221259508_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SnowOtters_FR-FR5221259508",
+        "copyright": "Une loutre d’Europe et son petit, Estonie (© Sven Zacek/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=loutre+europe&form=hpcapt&filters=HpDate%3a%2220260111_2300%22",
+        "title": "L’Estonie, le paradis de nos loutres d’Europe",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260111_SnowOtters%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6a43b36b1e1dea6e5220072c6e10afbb",
+        "hsh": "fe35f6e4e2ca197527edf8c37c832832",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ce ne sont pas les traces dans la neige qui trahissent leur présence, mais ces museaux givrés qui émergent comme s’ils découvraient l’hiver. L’Estonie est l’un des meilleurs refuges européens pour la loutre d’Europe, grâce à ses rivières limpides, ses vastes zones humides et son littoral riche en proies. Espèce protégée, elle a été désignée « Animal de l’année » en 2024. Longtemps menacée, sa population est passée de moins de 300 individus avant 2000 à près de 2 000 aujourd’hui.",
+                "Image": {
+                    "Url": "/th?id=OHR.SnowOtters_FR-FR5221259508_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SnowOtters_FR-FR5221259508_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "L'Estonie, le paradis de nos loutres d'Europe",
+                "Title": "Une loutre d’Europe et son petit, Estonie",
+                "Copyright": "© Sven Zacek/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/58.752377,25.331907/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=58.752377,25.331907;S9;Estonie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Estonia&vdpid=70&mb=59.938343~20.331159~57.509323~29.261465&cardbg=%23F98745&dt=1764343800000&tt=Estonia&tsts0=%2526ty%253D30%2526q%253DEstonia%2526vdpid%253D70%2526mb%253D59.938343~20.331159~57.509323~29.261465%2526cardbg%253D%252523F98745%2526dt%253D1764343800000&tstt0=Estonia&cp=53.211717~6.354397&lvl=4.0126686&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260112_SnowOtters\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=loutre+europe&form=hpcapt&filters=HpDate:\"20260111_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260112_SnowOtters"
+            },
+            "Ssd": "20260112",
+            "Name": "SnowOtters",
+            "Market": "FR-FR",
+            "Hash": "5221259508",
+            "FullDateString": "12 janv. 2026"
+        }
+    },
+    {
         "startdate": "20260110",
         "fullstartdate": "202601102300",
         "enddate": "20260111",
