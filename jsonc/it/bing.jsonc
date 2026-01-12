@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260112",
+        "fullstartdate": "202601122300",
+        "enddate": "20260113",
+        "url": "/th?id=OHR.WalesWinter_IT-IT9889506987_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WalesWinter_IT-IT9889506987",
+        "copyright": "Valle del Clwyd, Galles (© Valerie Blencowe/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Galles&form=hpcapt",
+        "title": "Riti nel Tempo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260112_WalesWinter%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0ab4742a432c22993f558939c26a6c9e",
+        "hsh": "2ac1e1128a85b5f2dcdca727e54c8160",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "In Galles il tempo sembra avere un passo diverso. Quando altrove i festeggiamenti di Capodanno si spengono già nei primi giorni di gennaio, qui si accende ancora una fiamma: Hen Galan, l’antico Capodanno, che ritorna il 13 gennaio soprattutto nella valle di Gwaun. È un’eredità del calendario giuliano, rimasta viva anche dopo che il resto della Gran Bretagna aveva scelto quello gregoriano. A questa celebrazione si intreccia il Calennig, parola che in gallese significa “dono di Capodanno”.",
+                "Image": {
+                    "Url": "/th?id=OHR.WalesWinter_IT-IT9889506987_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WalesWinter_IT-IT9889506987_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Riti nel Tempo",
+                "Title": "Valle del Clwyd, Galles",
+                "Copyright": "© Valerie Blencowe/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/53.114487,-3.413844/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=53.114487,-3.413844;S9;Valle der Clwyd, Galles&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Vale%20of%20Clwyd%2C%20Wales&vdpid=-7963929545&mb=53.364553~-4.336734~52.863784~-2.49042&cardbg=%23F98745&dt=1764664200000&tt=Clwyd%2C%20United%20Kingdom&tsts0=%2526ty%253D30%2526q%253DVale%252520of%252520Clwyd%25252C%252520Wales%2526vdpid%253D-7963929545%2526mb%253D53.364553~-4.336734~52.863784~-2.49042%2526cardbg%253D%252523F98745%2526dt%253D1764664200000&tstt0=Clwyd%2C%20United%20Kingdom&cp=52.701249~-6.012559&lvl=5.8679953&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260113_WalesWinter\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Galles&form=hpcapt&filters=HpDate:\"20260112_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260113_WalesWinter"
+            },
+            "Ssd": "20260113",
+            "Name": "WalesWinter",
+            "Market": "IT-IT",
+            "Hash": "9889506987",
+            "FullDateString": "13 gennaio 2026"
+        }
+    },
+    {
         "startdate": "20260111",
         "fullstartdate": "202601112300",
         "enddate": "20260112",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260112",
+        "fullstartdate": "202601120300",
+        "enddate": "20260113",
+        "url": "/th?id=OHR.SnowOtters_PT-BR2784694559_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SnowOtters_PT-BR2784694559",
+        "copyright": "Lontra-europeia e filhote, Estônia (© Sven Zacek/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Lontra+europeia&form=hpcapt&mkt=pt-br",
+        "title": "A guardiã dos rios",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260112_SnowOtters%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6a43b36b1e1dea6e5220072c6e10afbb",
+        "hsh": "30d0f2299ac59a2aaf8bbaea5d17853d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Hoje observamos a lontra-europeia, um dos mamíferos mais fascinantes da Europa. Na Estônia, onde a foto do dia foi tirada, ela encontrou refúgio graças a rios limpos, pântanos e uma costa rica em alimento, sendo eleita por lá o animal do ano em 2024. Embora globalmente seja considerada quase ameaçada, sua população local cresceu de 300 indivíduos no início dos anos 2000 para cerca de 2 mil hoje. Atualmente, elas deslizam com agilidade nas florestas alagadas e águas tranquilas do país. Seu corpo aerodinâmico, pés palmados e cauda longa facilitam a caça de peixes, rãs e crustáceos, enquanto a pelagem espessa retém ar quente, permitindo mergulhos nos gelados canais do Báltico.",
+                "Image": {
+                    "Url": "/th?id=OHR.SnowOtters_PT-BR2784694559_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SnowOtters_PT-BR2784694559_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A guardiã dos rios",
+                "Title": "Lontra-europeia e filhote, Estônia",
+                "Copyright": "© Sven Zacek/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260112_SnowOtters\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lontra+europeia&form=hpcapt&filters=HpDate:\"20260112_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260112_SnowOtters"
+            },
+            "Ssd": "20260112",
+            "Name": "SnowOtters",
+            "Market": "PT-BR",
+            "Hash": "2784694559",
+            "FullDateString": "12 jan. 2026"
+        }
+    },
+    {
         "startdate": "20260111",
         "fullstartdate": "202601110300",
         "enddate": "20260112",
