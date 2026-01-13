@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260113",
+        "fullstartdate": "202601130300",
+        "enddate": "20260114",
+        "url": "/th?id=OHR.WalesWinter_PT-BR5293630006_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WalesWinter_PT-BR5293630006",
+        "copyright": "Vale de Clwyd, País de Gales (© Valerie Blencowe/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=hen+galan+no+Pa%C3%ADs+de+Gales&form=hpcapt&mkt=pt-br",
+        "title": "Sabores e versos do passado",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260113_WalesWinter%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0ab4742a432c22993f558939c26a6c9e",
+        "hsh": "d51473010731959ba77be321ca89f24b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Enquanto a maioria das pessoas encerra os planos de Ano Novo na primeira semana de janeiro, o País de Gales tem um costume curioso: é o Hen Galan, o “Ano Novo Antigo”, celebrado em 13 de janeiro em algumas regiões. A data vem do antigo calendário juliano, mantido mesmo após o restante do Reino Unido adotar o calendário gregoriano.",
+                "Image": {
+                    "Url": "/th?id=OHR.WalesWinter_PT-BR5293630006_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WalesWinter_PT-BR5293630006_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Sabores e versos do passado",
+                "Title": "Vale de Clwyd, País de Gales",
+                "Copyright": "© Valerie Blencowe/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260113_WalesWinter\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=hen+galan+no+Pa%c3%ads+de+Gales&form=hpcapt&filters=HpDate:\"20260113_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260113_WalesWinter"
+            },
+            "Ssd": "20260113",
+            "Name": "WalesWinter",
+            "Market": "PT-BR",
+            "Hash": "5293630006",
+            "FullDateString": "13 jan. 2026"
+        }
+    },
+    {
         "startdate": "20260112",
         "fullstartdate": "202601120300",
         "enddate": "20260113",

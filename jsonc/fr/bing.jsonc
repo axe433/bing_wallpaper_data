@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260113",
+        "fullstartdate": "202601132300",
+        "enddate": "20260114",
+        "url": "/th?id=OHR.PalamidiFortress_FR-FR5605647086_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PalamidiFortress_FR-FR5605647086",
+        "copyright": "Les escaliers de la forteresse de Palamède, Nafplio, Grèce (© George Pachantouris/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=forteresse+Palam%C3%A8de&form=hpcapt&filters=HpDate%3a%2220260113_2300%22",
+        "title": "Une histoire d’escalier qui remonte le temps…",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260113_PalamidiFortress%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "747fca0a2529314edc4d8c072a9e986d",
+        "hsh": "94af021aba330b7fc882f649dfe415f9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Surplombant Nafplio à 216 mètres d’altitude, la forteresse de Palamède, située en Grèce, est un chef-d’œuvre vénitien achevé en 1714. Ses huit bastions, conçus pour résister de manière indépendante, racontent une histoire de stratégie et de courage : tombée aux mains des Ottomans un an après sa construction, elle fut reprise par les Grecs en 1822, qui baptisèrent ses bastions du nom de héros antiques comme Achille et Léonidas.",
+                "Image": {
+                    "Url": "/th?id=OHR.PalamidiFortress_FR-FR5605647086_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PalamidiFortress_FR-FR5605647086_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Une histoire d'escalier qui remonte le temps…",
+                "Title": "Les escaliers de la forteresse de Palamède, Nafplio, Grèce",
+                "Copyright": "© George Pachantouris/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.562377,22.803872/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=37.562377,22.803872;S9;Forteresse de Palamède, Nafplio, Grèce&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Palamidi%20fortress&ss=ypid.YN8072x1235116015&mb=37.565331~22.796867~37.558595~22.811029&description=Eikostis%20Pemptis%20Martiou%2021100%20Nafplio&cardbg=%23219AB6&dt=1763461800000&tt=Fortress%20Of%20Palamidi&tsts0=%2526ty%253D18%2526q%253DPalamidi%252520fortress%2526ss%253Dypid.YN8072x1235116015%2526mb%253D37.565331~22.796867~37.558595~22.811029%2526description%253DEikostis%252520Pemptis%252520Martiou%25252021100%252520Nafplio%2526cardbg%253D%252523219AB6%2526dt%253D1763461800000&tstt0=Fortress%20Of%20Palamidi&cp=39.027719~12.041016&lvl=5&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260114_PalamidiFortress\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=forteresse+Palam%c3%a8de&form=hpcapt&filters=HpDate:\"20260113_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260114_PalamidiFortress"
+            },
+            "Ssd": "20260114",
+            "Name": "PalamidiFortress",
+            "Market": "FR-FR",
+            "Hash": "5605647086",
+            "FullDateString": "14 janv. 2026"
+        }
+    },
+    {
         "startdate": "20260112",
         "fullstartdate": "202601122300",
         "enddate": "20260113",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260113",
+        "fullstartdate": "202601131830",
+        "enddate": "20260114",
+        "url": "/th?id=OHR.PalamidiFortress_EN-IN9328552930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PalamidiFortress_EN-IN9328552930",
+        "copyright": "The staircase of the Fortress of Palamidi, Nafplio, Greece (© George Pachantouris/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Palamidi+fortress&form=hpcapt&filters=HpDate%3a%2220260113_1830%22",
+        "title": "Ascending history at Palamidi",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260113_PalamidiFortress%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "747fca0a2529314edc4d8c072a9e986d",
+        "hsh": "1fe0d7c49e90e65cc4baa32c40796e51",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Perched high above the coastal town of Nafplio in Greece, the Fortress of Palamidi asserts itself before its walls even come into view. The climb is steep and unhurried, cut directly into rock, opening wide views across land and sea with every turn. This ascent was never ornamental. It was designed to slow movement, expose approach and reinforce control long before an enemy reached the gates.",
+                "Image": {
+                    "Url": "/th?id=OHR.PalamidiFortress_EN-IN9328552930_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PalamidiFortress_EN-IN9328552930_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ascending history at Palamidi",
+                "Title": "The staircase of the Fortress of Palamidi, Nafplio, Greece",
+                "Copyright": "© George Pachantouris/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.562377,22.803872/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=37.562377,22.803872;S9;Fortress of Palamidi, Nafplio, Greece&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Palamidi%20fortress&ss=ypid.YN8072x1235116015&mb=37.565331~22.796867~37.558595~22.811029&description=Eikostis%20Pemptis%20Martiou%2021100%20Nafplio&cardbg=%23219AB6&dt=1763461800000&tt=Fortress%20Of%20Palamidi&tsts0=%2526ty%253D18%2526q%253DPalamidi%252520fortress%2526ss%253Dypid.YN8072x1235116015%2526mb%253D37.565331~22.796867~37.558595~22.811029%2526description%253DEikostis%252520Pemptis%252520Martiou%25252021100%252520Nafplio%2526cardbg%253D%252523219AB6%2526dt%253D1763461800000&tstt0=Fortress%20Of%20Palamidi&cp=39.027719~12.041016&lvl=5&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260114_PalamidiFortress\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Palamidi+fortress&form=hpcapt&filters=HpDate:\"20260113_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260114_PalamidiFortress"
+            },
+            "Ssd": "20260114",
+            "Name": "PalamidiFortress",
+            "Market": "EN-IN",
+            "Hash": "9328552930",
+            "FullDateString": "14 Jan, 2026"
+        }
+    },
+    {
         "startdate": "20260112",
         "fullstartdate": "202601121830",
         "enddate": "20260113",

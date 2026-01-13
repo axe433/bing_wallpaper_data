@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260113",
+        "fullstartdate": "202601132300",
+        "enddate": "20260114",
+        "url": "/th?id=OHR.PalamidiFortress_IT-IT3360933956_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PalamidiFortress_IT-IT3360933956",
+        "copyright": "Scalinata della fortezza di Palamidi, Nauplia, Grecia (© George Pachantouris/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Palamidi+Nauplia+Grecia&form=hpcapt",
+        "title": "Ascensori ne abbiamo?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260113_PalamidiFortress%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "747fca0a2529314edc4d8c072a9e986d",
+        "hsh": "f0e9f04a5ad6cf7c80f423c33f6604a2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sulla collina che domina Nauplia, la fortezza di Palamidi, in Grecia, si innalza come un custode di pietra e memoria. A 216 metri sopra la città, questa roccaforte veneziana fu costruita nel 1714, imponente e ingegnosa, con otto bastioni concepiti come unità indipendenti, pronti a resistere anche se uno fosse caduto. La sua storia è segnata da rapide svolte. Gli Ottomani la conquistarono appena un anno dopo la sua costruzione, ma nel 1822 la Grecia la riconquistò, ribattezzando i bastioni con i nomi di eroi come Achille e Leonida, quasi a infondere nuova vita nelle sue mura.",
+                "Image": {
+                    "Url": "/th?id=OHR.PalamidiFortress_IT-IT3360933956_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PalamidiFortress_IT-IT3360933956_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ascensori ne abbiamo?",
+                "Title": "Scalinata della fortezza di Palamidi, Nauplia, Grecia",
+                "Copyright": "© George Pachantouris/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.562377,22.803872/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=37.562377,22.803872;S9;Fortezze di Palamidi, Nauplia, Grecia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Palamidi%20fortress&ss=ypid.YN8072x1235116015&mb=37.565331~22.796867~37.558595~22.811029&description=Eikostis%20Pemptis%20Martiou%2021100%20Nafplio&cardbg=%23219AB6&dt=1763461800000&tt=Fortress%20Of%20Palamidi&tsts0=%2526ty%253D18%2526q%253DPalamidi%252520fortress%2526ss%253Dypid.YN8072x1235116015%2526mb%253D37.565331~22.796867~37.558595~22.811029%2526description%253DEikostis%252520Pemptis%252520Martiou%25252021100%252520Nafplio%2526cardbg%253D%252523219AB6%2526dt%253D1763461800000&tstt0=Fortress%20Of%20Palamidi&cp=39.027719~12.041016&lvl=5&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260114_PalamidiFortress\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Palamidi+Nauplia+Grecia&form=hpcapt&filters=HpDate:\"20260113_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260114_PalamidiFortress"
+            },
+            "Ssd": "20260114",
+            "Name": "PalamidiFortress",
+            "Market": "IT-IT",
+            "Hash": "3360933956",
+            "FullDateString": "14 gennaio 2026"
+        }
+    },
+    {
         "startdate": "20260112",
         "fullstartdate": "202601122300",
         "enddate": "20260113",

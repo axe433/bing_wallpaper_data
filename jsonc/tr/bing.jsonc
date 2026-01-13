@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260113",
+        "fullstartdate": "202601130800",
+        "enddate": "20260114",
+        "url": "/th?id=OHR.WalesWinter_ROW0714081167_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WalesWinter_ROW0714081167",
+        "copyright": "Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Vale+of+Clwyd+Wales&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260113_WalesWinter%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0ab4742a432c22993f558939c26a6c9e",
+        "hsh": "33df6d87388f837cfe943da329c32880",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "The Vale of Clwyd lies between the Clwydian hills and the north Wales coast, forming a wide, fertile valley shaped by centuries of human use. Its flat valley floor and rich soils made it ideal for farming, drawing activity here from prehistoric times. Roman routes later crossed the valley, and by the medieval period, agriculture and market towns had become firmly established. Rather than being repeatedly reshaped, the landscape evolved around cultivation, leaving behind a countryside still defined by open fields, rural settlements and long-standing routes through the land.",
+                "Image": {
+                    "Url": "/th?id=OHR.WalesWinter_ROW0714081167_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WalesWinter_ROW0714081167_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Vale of Clwyd, Wales",
+                "Copyright": "© Valerie Blencowe/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260113_WalesWinter\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Vale+of+Clwyd+Wales&form=hpcapt&filters=HpDate:\"20260113_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260113_WalesWinter"
+            },
+            "Ssd": "20260113",
+            "Name": "WalesWinter",
+            "Market": "ROW",
+            "Hash": "0714081167",
+            "FullDateString": "13 Oca, 2026"
+        }
+    },
+    {
         "startdate": "20260112",
         "fullstartdate": "202601120800",
         "enddate": "20260113",
