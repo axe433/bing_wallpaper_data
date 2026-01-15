@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260115",
+        "fullstartdate": "202601152300",
+        "enddate": "20260116",
+        "url": "/th?id=OHR.BerrySquirrel_ES-ES5927701913_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BerrySquirrel_ES-ES5927701913",
+        "copyright": "Ardilla roja euroasiática (© Galina Jacyna/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ardilla+roja+euroasi%C3%A1tica&form=hpcapt&filters=HpDate%3a%2220260115_2300%22",
+        "title": "Ternura roja en el blanco invierno",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260115_BerrySquirrel%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3fa4828a83f0c117d8277853a5c054c7",
+        "hsh": "04c0fdaaaea19fbfa1a1171570d812e2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La imagen de hoy retrata a una ardilla roja euroasiática posada sobre la nieve. Su pelaje invernal, más denso, y las orejas con mechones la convierten en una de las especies más llamativas de nuestros bosques. La ardilla roja es nativa de los bosques de Europa y de amplias zonas de Asia, donde se alimenta principalmente de semillas, nueces y hongos. Para afrontar el invierno, esconde comida en distintos lugares y construye nidos en lo alto de árboles huecos, bien protegidos del frío.",
+                "Image": {
+                    "Url": "/th?id=OHR.BerrySquirrel_ES-ES5927701913_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BerrySquirrel_ES-ES5927701913_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ternura roja en el blanco invierno",
+                "Title": "Ardilla roja euroasiática",
+                "Copyright": "© Galina Jacyna/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260116_BerrySquirrel\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ardilla+roja+euroasi%c3%a1tica&form=hpcapt&filters=HpDate:\"20260115_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260116_BerrySquirrel"
+            },
+            "Ssd": "20260116",
+            "Name": "BerrySquirrel",
+            "Market": "ES-ES",
+            "Hash": "5927701913",
+            "FullDateString": "16 de ene. de 2026"
+        }
+    },
+    {
         "startdate": "20260114",
         "fullstartdate": "202601142300",
         "enddate": "20260115",

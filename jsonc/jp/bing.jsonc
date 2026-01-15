@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260115",
+        "fullstartdate": "202601151500",
+        "enddate": "20260116",
+        "url": "/th?id=OHR.SnowOtters_JA-JP0357169871_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SnowOtters_JA-JP0357169871",
+        "copyright": "ユーラシアカワウソ, エストニア (© Sven Zacek/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%A6%E3%83%BC%E3%83%A9%E3%82%B7%E3%82%A2%E3%82%AB%E3%83%AF%E3%82%A6%E3%82%BD&form=hpcapt&filters=HpDate%3a%2220260115_1500%22",
+        "title": "雪の上にたたずむ可愛い水辺の動物",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260115_SnowOtters%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6a43b36b1e1dea6e5220072c6e10afbb",
+        "hsh": "6c90f2d637678325e882f9f24dafd84f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ユーラシアカワウソは、カワウソ亜科の中で最も広く分布する種であり、アフリカ北部からユーラシア大陸全域にかけて生息しています。水辺に適した流線形の体に加え、水かきのある足と長い尾を備える中型の哺乳類です。体の色は、背面が黒や灰の褐色で、喉から頬・胸部・腹部にかけては淡黄色や灰白色。空気を含むことで冷たい水中でも体温を保つことができる厚い体毛が特徴です…",
+                "Image": {
+                    "Url": "/th?id=OHR.SnowOtters_JA-JP0357169871_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SnowOtters_JA-JP0357169871_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "雪の上にたたずむ可愛い水辺の動物",
+                "Title": "ユーラシアカワウソ, エストニア",
+                "Copyright": "© Sven Zacek/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/58.752377,25.331907/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=58.752377,25.331907;S9;エストニア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Estonia&vdpid=70&mb=59.938343~20.331159~57.509323~29.261465&cardbg=%23F98745&dt=1764343800000&tt=Estonia&tsts0=%2526ty%253D30%2526q%253DEstonia%2526vdpid%253D70%2526mb%253D59.938343~20.331159~57.509323~29.261465%2526cardbg%253D%252523F98745%2526dt%253D1764343800000&tstt0=Estonia&cp=53.211717~6.354397&lvl=4.0126686&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260116_SnowOtters\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%a6%e3%83%bc%e3%83%a9%e3%82%b7%e3%82%a2%e3%82%ab%e3%83%af%e3%82%a6%e3%82%bd&form=hpcapt&filters=HpDate:\"20260115_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260116_SnowOtters"
+            },
+            "Ssd": "20260116",
+            "Name": "SnowOtters",
+            "Market": "JA-JP",
+            "Hash": "0357169871",
+            "FullDateString": "2026 年 1月 月 16 日"
+        }
+    },
+    {
         "startdate": "20260114",
         "fullstartdate": "202601141500",
         "enddate": "20260115",
