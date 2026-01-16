@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260116",
+        "fullstartdate": "202601160800",
+        "enddate": "20260117",
+        "url": "/th?id=OHR.EtoshaLeopard_EN-US0412326524_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EtoshaLeopard_EN-US0412326524",
+        "copyright": "Leopard at Etosha National Park, Namibia (© Norbert Achtelik/Cavan Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Leopard&form=hpcapt&filters=HpDate%3a%2220260116_0800%22",
+        "title": "Eye see you",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260116_EtoshaLeopard%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6b9f91f655cf763ff43d1873471b8bff",
+        "hsh": "a8a4b3c4bfedc632bf8178cf5503fb88",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "If you've ever watched a wildlife documentary, you know the moment: the camera pans across a quiet savanna, and suddenly a leopard appears as if it has been there all along. That quiet reveal says everything about how these cats operate. They move with precision, slipping through grass and branches without making a sound. Their build, muscular but lean, helps them climb, sprint, and hide in plain sight. Their rosetted coats? No two patterns match, each serving as natural camouflage from sunrise to moonlight.",
+                "Image": {
+                    "Url": "/th?id=OHR.EtoshaLeopard_EN-US0412326524_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EtoshaLeopard_EN-US0412326524_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Eye see you",
+                "Title": "Leopard at Etosha National Park, Namibia",
+                "Copyright": "© Norbert Achtelik/Cavan Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-18.98073,15.762634/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=-18.98073,15.762634;S9;Etosha%20National%20Park&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Etosha%20National%20Park&ss=ypid.YN8131x14885133113498746641&mb=-18.973425~15.752635~-18.988035~15.772634&description=Okaukuejo%2C%20Namibia%2C%20Namibia%20Okaukuejo&cardbg=%233DB838&dt=1764084600000&tt=Etosha%20National%20Park&tsts0=%2526ty%253D18%2526q%253DEtosha%252520National%252520Park%2526ss%253Dypid.YN8131x14885133113498746641%2526mb%253D-18.973425~15.752635~-18.988035~15.772634%2526description%253DOkaukuejo%25252C%252520Namibia%25252C%252520Namibia%252520Okaukuejo%2526cardbg%253D%2525233DB838%2526dt%253D1764084600000&tstt0=Etosha%20National%20Park&cp=-23.988812~5.8849&lvl=4.2221293&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260116_EtoshaLeopard\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Leopard&form=hpcapt&filters=HpDate:\"20260116_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260116_EtoshaLeopard"
+            },
+            "Ssd": "20260116",
+            "Name": "EtoshaLeopard",
+            "Market": "EN-US",
+            "Hash": "0412326524",
+            "FullDateString": "Jan 16, 2026"
+        }
+    },
+    {
         "startdate": "20260115",
         "fullstartdate": "202601150800",
         "enddate": "20260116",

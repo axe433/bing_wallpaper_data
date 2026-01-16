@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260116",
+        "fullstartdate": "202601160800",
+        "enddate": "20260117",
+        "url": "/th?id=OHR.EtoshaLeopard_ROW5263067191_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EtoshaLeopard_ROW5263067191",
+        "copyright": "Leopard at Etosha National Park, Namibia (© Norbert Achtelik/Cavan Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Leopard&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260116_EtoshaLeopard%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6b9f91f655cf763ff43d1873471b8bff",
+        "hsh": "2cae39ad5bd659b0cb3415696c197e0f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "If you've ever watched a wildlife documentary, you know the moment: the camera pans across a quiet savannah and suddenly a leopard appears as if it has been there all along. That quiet reveal says everything about how these cats operate. They move with precision, slipping through grass and branches without making a sound. Their build, muscular but lean, helps them climb, sprint and hide in plain sight. Their rosetted coats? No two patterns match, each serving as natural camouflage from sunrise to moonlight.",
+                "Image": {
+                    "Url": "/th?id=OHR.EtoshaLeopard_ROW5263067191_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EtoshaLeopard_ROW5263067191_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Leopard at Etosha National Park, Namibia",
+                "Copyright": "© Norbert Achtelik/Cavan Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260116_EtoshaLeopard\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Leopard&form=hpcapt&filters=HpDate:\"20260116_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260116_EtoshaLeopard"
+            },
+            "Ssd": "20260116",
+            "Name": "EtoshaLeopard",
+            "Market": "ROW",
+            "Hash": "5263067191",
+            "FullDateString": "16 sty 2026"
+        }
+    },
+    {
         "startdate": "20260115",
         "fullstartdate": "202601150800",
         "enddate": "20260116",

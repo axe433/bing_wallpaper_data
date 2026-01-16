@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260116",
+        "fullstartdate": "202601160300",
+        "enddate": "20260117",
+        "url": "/th?id=OHR.EtoshaLeopard_PT-BR5495755355_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EtoshaLeopard_PT-BR5495755355",
+        "copyright": "Leopardo no Parque Nacional Etosha, Namíbia (© Norbert Achtelik/Cavan Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+Etosha&form=hpcapt&mkt=pt-br",
+        "title": "O mestre do disfarce",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260116_EtoshaLeopard%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6b9f91f655cf763ff43d1873471b8bff",
+        "hsh": "870a37970f0cbd4e41004d99d392905a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Se você já assistiu a um documentário sobre vida selvagem, conhece a cena: a câmera percorre uma savana tranquila e, de repente, surge um leopardo. Sua aparição abrupta e silenciosa revela como esses felinos caçam: eles se movem com precisão, deslizando entre a grama e os galhos sem emitir um som. Seu corpo musculoso e ágil permite correr, escalar e se esconder com facilidade. A pelagem é única em cada indivíduo e funciona como uma camuflagem perfeita, do amanhecer ao luar.",
+                "Image": {
+                    "Url": "/th?id=OHR.EtoshaLeopard_PT-BR5495755355_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EtoshaLeopard_PT-BR5495755355_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O mestre do disfarce",
+                "Title": "Leopardo no Parque Nacional Etosha, Namíbia",
+                "Copyright": "© Norbert Achtelik/Cavan Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260116_EtoshaLeopard\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parque+Nacional+Etosha&form=hpcapt&filters=HpDate:\"20260116_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260116_EtoshaLeopard"
+            },
+            "Ssd": "20260116",
+            "Name": "EtoshaLeopard",
+            "Market": "PT-BR",
+            "Hash": "5495755355",
+            "FullDateString": "16 jan. 2026"
+        }
+    },
+    {
         "startdate": "20260115",
         "fullstartdate": "202601150300",
         "enddate": "20260116",
