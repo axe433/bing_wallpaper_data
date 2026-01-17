@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260117",
+        "fullstartdate": "202601170300",
+        "enddate": "20260118",
+        "url": "/th?id=OHR.NaplesBasilica_PT-BR5152958001_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NaplesBasilica_PT-BR5152958001",
+        "copyright": "Basílica de São Francisco de Paula, Nápoles, Itália (© javarman3/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Bas%C3%ADlica+de+S%C3%A3o+Francisco+de+Paula%2c+N%C3%A1poles&form=hpcapt&mkt=pt-br",
+        "title": "Arquitetura sagrada",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260117_NaplesBasilica%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3abe466bf4d3553a4be68ed56932e007",
+        "hsh": "ff172c8d76c36d5167c4d9e1d2aa2e30",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ao caminhar por qualquer grande praça de Nápoles, na Itália, a história da cidade salta aos olhos. Galerias arqueadas, colunatas imponentes e cúpulas que remetem à arquitetura antiga disputam sua atenção. Cada rua revela um estilo diferente: fachadas barrocas compactas dão lugar a amplos pátios neoclássicos. Ao chegar a uma praça ampla com um edifício que, à primeira vista, parece romano, você está na Basílica de São Francisco de Paula, nossa imagem do dia, localizada no lado oeste da Piazza del Plebiscito.",
+                "Image": {
+                    "Url": "/th?id=OHR.NaplesBasilica_PT-BR5152958001_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NaplesBasilica_PT-BR5152958001_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Arquitetura sagrada",
+                "Title": "Basílica de São Francisco de Paula, Nápoles, Itália",
+                "Copyright": "© javarman3/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260117_NaplesBasilica\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Bas%c3%adlica+de+S%c3%a3o+Francisco+de+Paula%2c+N%c3%a1poles&form=hpcapt&filters=HpDate:\"20260117_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260117_NaplesBasilica"
+            },
+            "Ssd": "20260117",
+            "Name": "NaplesBasilica",
+            "Market": "PT-BR",
+            "Hash": "5152958001",
+            "FullDateString": "17 jan. 2026"
+        }
+    },
+    {
         "startdate": "20260116",
         "fullstartdate": "202601160300",
         "enddate": "20260117",
