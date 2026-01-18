@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260118",
+        "fullstartdate": "202601180300",
+        "enddate": "20260119",
+        "url": "/th?id=OHR.WhiteSandsNM_PT-BR0724108799_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WhiteSandsNM_PT-BR0724108799",
+        "copyright": "Parque Nacional de White Sands, Novo México, EUA (© Francesco Carucci/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+de+White+Sands&form=hpcapt&mkt=pt-br",
+        "title": "Um deserto disfarçado",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260118_WhiteSandsNM%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d1bc3f0988554e9f542b49fe30334c28",
+        "hsh": "6ceb9f74a1df970768ee398ac785abbc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Já imaginou um lugar onde a areia parece neve? Na imagem, o Parque Nacional White Sands, no Novo México, Estados Unidos, poderia ser confundido com o Ártico. Mas, em vez de gelo, essas dunas são feitas de gipsita — cristais de gesso que se fragmentaram ao longo de milhares de anos. O resultado? Mais de 700 km² de areia branca, formando o maior campo de dunas de gesso do planeta. Criado como monumento nacional em 1933, o parque protege esse fenômeno geológico raro, que permanece fresco mesmo sob o sol intenso.",
+                "Image": {
+                    "Url": "/th?id=OHR.WhiteSandsNM_PT-BR0724108799_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WhiteSandsNM_PT-BR0724108799_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Um deserto disfarçado",
+                "Title": "Parque Nacional de White Sands, Novo México, EUA",
+                "Copyright": "© Francesco Carucci/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260118_WhiteSandsNM\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parque+Nacional+de+White+Sands&form=hpcapt&filters=HpDate:\"20260118_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260118_WhiteSandsNM"
+            },
+            "Ssd": "20260118",
+            "Name": "WhiteSandsNM",
+            "Market": "PT-BR",
+            "Hash": "0724108799",
+            "FullDateString": "18 jan. 2026"
+        }
+    },
+    {
         "startdate": "20260117",
         "fullstartdate": "202601170300",
         "enddate": "20260118",

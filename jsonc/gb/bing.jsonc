@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260118",
+        "fullstartdate": "202601180000",
+        "enddate": "20260119",
+        "url": "/th?id=OHR.PoohDay2026_EN-GB2644442653_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PoohDay2026_EN-GB2644442653",
+        "copyright": "Scots pine forest, Ashdown Forest, England (© James Warwick/The Image Bank/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Winnie+the+Pooh+Day&form=hpcapt&filters=HpDate%3a%2220260118_0000%22",
+        "title": "Lost in the Hundred Acres",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260118_PoohDay2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "49cc9f54d3b017934d0e51e1249ac9e6",
+        "hsh": "08410c820eeaaa92b6c2541e856d0241",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Before motivational quotes went viral, a small bear with a very large appetite for honey quietly mastered the art of living. He forgot things, got stuck in doorways and called snack time a priority—and somehow, he was right. Today is Winnie the Pooh Day, celebrating the accidental philosopher of the Hundred Acre Wood and marking the birthday of the man who dreamed him up.",
+                "Image": {
+                    "Url": "/th?id=OHR.PoohDay2026_EN-GB2644442653_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PoohDay2026_EN-GB2644442653_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Lost in the Hundred Acres",
+                "Title": "Scots pine forest, Ashdown Forest, England",
+                "Copyright": "© James Warwick/The Image Bank/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.07233,0.049115/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=51.07233,0.049115;S9;Scots pine forest, Ashdown Forest, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Ashdown%20Forest%2C%20Wych%20Cross%2C%20England&ss=ypid.YN49BC129547DF0C33&mb=51.077187~0.039117~51.067479~0.059116&description=Wych%20Cross%20RH18%205JP&cardbg=%23219AB6&dt=1765989000000&tt=Ashdown%20Forest&tsts0=%2526ty%253D18%2526q%253DAshdown%252520Forest%25252C%252520Wych%252520Cross%25252C%252520England%2526ss%253Dypid.YN49BC129547DF0C33%2526mb%253D51.077187~0.039117~51.067479~0.059116%2526description%253DWych%252520Cross%252520RH18%2525205JP%2526cardbg%253D%252523219AB6%2526dt%253D1765989000000&tstt0=Ashdown%20Forest&cp=50.761492~-15.565419&lvl=5.070062&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260118_PoohDay2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Winnie+the+Pooh+Day&form=hpcapt&filters=HpDate:\"20260118_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260118_PoohDay2026"
+            },
+            "Ssd": "20260118",
+            "Name": "PoohDay2026",
+            "Market": "EN-GB",
+            "Hash": "2644442653",
+            "FullDateString": "18 Jan 2026"
+        }
+    },
+    {
         "startdate": "20260117",
         "fullstartdate": "202601170000",
         "enddate": "20260118",

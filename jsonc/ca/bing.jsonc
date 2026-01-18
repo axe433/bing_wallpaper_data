@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260118",
+        "fullstartdate": "202601180500",
+        "enddate": "20260119",
+        "url": "/th?id=OHR.WhiteSandsNM_EN-CA4611672923_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WhiteSandsNM_EN-CA4611672923",
+        "copyright": "White Sands National Park, New Mexico, United States (© Francesco Carucci/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=White+Sands+National+Park+New+Mexico&form=hpcapt&filters=HpDate%3a%2220260118_0500%22",
+        "title": "A desert in disguise",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260118_WhiteSandsNM%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d1bc3f0988554e9f542b49fe30334c28",
+        "hsh": "68585510936bdd926fdd5333887bad9e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "If 'Frozen' traded ice for sand, the result would look a lot like White Sands National Park in New Mexico—cool, white dunes that deceive the eye at first glance. It became a national monument on this day in 1933, established to protect a rare geological phenomenon: the world's largest gypsum dunefield. These dunes were formed from gypsum crystals that broke down over thousands of years, creating bright waves that stay cool even in summer.",
+                "Image": {
+                    "Url": "/th?id=OHR.WhiteSandsNM_EN-CA4611672923_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WhiteSandsNM_EN-CA4611672923_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A desert in disguise",
+                "Title": "White Sands National Park, New Mexico, United States",
+                "Copyright": "© Francesco Carucci/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/32.787247,-106.325661/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=32.787247,-106.325661;S9;White Sands National Park, New Mexico, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=White%20Sands%20National%20Park%20New%20Mexico&vdpid=5100433601535672321&ss=ypid.YN871852AF29252F34&mb=32.872929~-106.483716~32.655899~-106.149631&description=NM&cardbg=%233DB838&dt=1764149400000&tt=White%20Sands%20National%20Park&tsts0=%2526ty%253D30%2526q%253DWhite%252520Sands%252520National%252520Park%252520New%252520Mexico%2526vdpid%253D5100433601535672321%2526ss%253Dypid.YN871852AF29252F34%2526mb%253D32.872929~-106.483716~32.655899~-106.149631%2526description%253DNM%2526cardbg%253D%2525233DB838%2526dt%253D1764149400000&tstt0=White%20Sands%20National%20Park&cp=29.129368~-109.790273&lvl=5.6355414&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260118_WhiteSandsNM\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=White+Sands+National+Park+New+Mexico&form=hpcapt&filters=HpDate:\"20260118_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260118_WhiteSandsNM"
+            },
+            "Ssd": "20260118",
+            "Name": "WhiteSandsNM",
+            "Market": "EN-CA",
+            "Hash": "4611672923",
+            "FullDateString": "Jan. 18, 2026"
+        }
+    },
+    {
         "startdate": "20260117",
         "fullstartdate": "202601170500",
         "enddate": "20260118",
