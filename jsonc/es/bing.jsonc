@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260119",
+        "fullstartdate": "202601192300",
+        "enddate": "20260120",
+        "url": "/th?id=OHR.IciclePenguin_ES-ES6551563961_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IciclePenguin_ES-ES6551563961",
+        "copyright": "Pingüino Gentoo, Isla Petermann, Antártida (© Paul Souders/DanitaDelimont.com/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Ping%C3%BCino+Gentoo&form=hpcapt&filters=HpDate%3a%2220260119_2300%22",
+        "title": "Vida al borde del hielo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260119_IciclePenguin%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bc777a89bddde2e78727e033529d4440",
+        "hsh": "a4d966ee9e709c6fb1e3577a1dfa081a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Los pingüinos prosperan en algunas de las aguas más frías del planeta. La imagen de hoy muestra a un pingüino papúa, o gentoo, bajo una bóveda de hielo azul intenso, con su silueta recortada sobre el paisaje helado. El Día de Concienciación por los Pingüinos, que se celebra el 20 de enero, invita a conocer mejor a estas aves que llenan de vida y movimiento las costas polares.",
+                "Image": {
+                    "Url": "/th?id=OHR.IciclePenguin_ES-ES6551563961_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.IciclePenguin_ES-ES6551563961_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Vida al borde del hielo",
+                "Title": "Pingüino Gentoo, Isla Petermann, Antártida",
+                "Copyright": "© Paul Souders/DanitaDelimont.com/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260120_IciclePenguin\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ping%c3%bcino+Gentoo&form=hpcapt&filters=HpDate:\"20260119_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260120_IciclePenguin"
+            },
+            "Ssd": "20260120",
+            "Name": "IciclePenguin",
+            "Market": "ES-ES",
+            "Hash": "6551563961",
+            "FullDateString": "20 de ene. de 2026"
+        }
+    },
+    {
         "startdate": "20260118",
         "fullstartdate": "202601182300",
         "enddate": "20260119",

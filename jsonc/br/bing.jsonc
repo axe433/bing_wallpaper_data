@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260119",
+        "fullstartdate": "202601190300",
+        "enddate": "20260120",
+        "url": "/th?id=OHR.AlterPara_PT-BR8119560973_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlterPara_PT-BR8119560973",
+        "copyright": "Praia de Alter do Chão, Santarém, Pará (© Ricardo Lima/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Alter+do+Ch%C3%A3o+Santar%C3%A9m&form=hpcapt&mkt=pt-br",
+        "title": "O Caribe Amazônico",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260119_AlterPara%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e846be79fd1a4c99089b9456ff6d1e04",
+        "hsh": "8a8d46d0ba848172bf2bb4a4b6e20819",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Venha descobrir o paraíso da Amazônia! A imagem mostra Alter do Chão, uma das praias mais famosas do Brasil, localizada em Santarém, no Pará. Conhecida como o “Caribe Amazônico”, ela encanta com areia branca e águas cristalinas, formando um cenário memorável em plena floresta. A praia surge principalmente no período de seca, entre agosto e dezembro, quando o nível do rio baixa e revela extensas faixas de areia.",
+                "Image": {
+                    "Url": "/th?id=OHR.AlterPara_PT-BR8119560973_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AlterPara_PT-BR8119560973_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O Caribe Amazônico",
+                "Title": "Praia de Alter do Chão, Santarém, Pará",
+                "Copyright": "© Ricardo Lima/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260119_AlterPara\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Alter+do+Ch%c3%a3o+Santar%c3%a9m&form=hpcapt&filters=HpDate:\"20260119_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260119_AlterPara"
+            },
+            "Ssd": "20260119",
+            "Name": "AlterPara",
+            "Market": "PT-BR",
+            "Hash": "8119560973",
+            "FullDateString": "19 jan. 2026"
+        }
+    },
+    {
         "startdate": "20260118",
         "fullstartdate": "202601180300",
         "enddate": "20260119",
