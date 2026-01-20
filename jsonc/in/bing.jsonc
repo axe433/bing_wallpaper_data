@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260120",
+        "fullstartdate": "202601201830",
+        "enddate": "20260121",
+        "url": "/th?id=OHR.RajasthanSandDunes2025_EN-IN0938855919_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RajasthanSandDunes2025_EN-IN0938855919",
+        "copyright": "Sand dunes in the Thar Desert, Rajasthan (© f9photos/iStock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Thar+Desert&form=hpcapt&filters=HpDate%3a%2220260120_1830%22",
+        "title": "Sands of time in the Thar",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260120_RajasthanSandDunes2025%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "fa3839a28ca3a83bdd74ed22a9d7184d",
+        "hsh": "aab0d8bbdcd3c3c5cd98887ba1705abb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "At first glance, the Thar Desert looks like a sea paused mid-motion. Its sand dunes rise and fall in long, flowing ridges, shaped entirely by wind and time. Fine grains of sand are constantly lifted and resettled, creating slopes that shift subtly with each season. Spread across western Rajasthan, these dunes define the Thar's rolling terrain, their warm tones deepening under the desert sun and changing character by the hour.",
+                "Image": {
+                    "Url": "/th?id=OHR.RajasthanSandDunes2025_EN-IN0938855919_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RajasthanSandDunes2025_EN-IN0938855919_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Sands of time in the Thar",
+                "Title": "Sand dunes in the Thar Desert, Rajasthan",
+                "Copyright": "© f9photos/iStock/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/26.98444,71.00166/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=26.98444,71.00166;S9;Thar Desert, Rajasthan&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Thar%20Desert&satid=id.sid%3A0865382e-bfd1-2ecb-87aa-a33af745f214&vdpid=7409802082426814465&mb=32.704495~59.069264~20.953285~82.94411&cardbg=%23FFFFFF&dt=1765535400000&tt=Thar%20Desert&tsts0=%2526ty%253D30%2526q%253DThar%252520Desert%2526satid%253Did.sid%25253A0865382e-bfd1-2ecb-87aa-a33af745f214%2526vdpid%253D7409802082426814465%2526mb%253D32.704495~59.069264~20.953285~82.94411%2526cardbg%253D%252523FFFFFF%2526dt%253D1765535400000&tstt0=Thar%20Desert&cp=27.061637~68.370969&lvl=6.946879&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260121_RajasthanSandDunes2025\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Thar+Desert&form=hpcapt&filters=HpDate:\"20260120_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260121_RajasthanSandDunes2025"
+            },
+            "Ssd": "20260121",
+            "Name": "RajasthanSandDunes2025",
+            "Market": "EN-IN",
+            "Hash": "0938855919",
+            "FullDateString": "21 Jan, 2026"
+        }
+    },
+    {
         "startdate": "20260119",
         "fullstartdate": "202601191830",
         "enddate": "20260120",

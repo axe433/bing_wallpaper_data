@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260120",
+        "fullstartdate": "202601202300",
+        "enddate": "20260121",
+        "url": "/th?id=OHR.BerrySquirrel_IT-IT4115553283_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BerrySquirrel_IT-IT4115553283",
+        "copyright": "Scoiattolo rosso eurasiatico (© Galina Jacyna/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Scoiattolo&form=hpcapt",
+        "title": "Radici, semi e futuro",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260120_BerrySquirrel%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3fa4828a83f0c117d8277853a5c054c7",
+        "hsh": "4b435af1a20e7c60f286d472ef0b4224",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Oggi vi invitiamo a osservare uno scoiattolo rosso eurasiatico fermo sulla neve, con il mantello invernale e le orecchie a ciuffo che lo rendono inconfondibile. Abita le foreste d’Europa e di parte dell’Asia e la sua vita è fatta di semi, noci e funghi nascosti in mille ripari, di nidi costruiti in alto tra i tronchi cavi per affrontare il gelo. Nelle tradizioni lo scoiattolo è simbolo di vivacità e previdenza, un piccolo custode che insegna l’arte di prepararsi al futuro senza perdere la gioia del presente.",
+                "Image": {
+                    "Url": "/th?id=OHR.BerrySquirrel_IT-IT4115553283_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BerrySquirrel_IT-IT4115553283_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Radici, semi e futuro",
+                "Title": "Scoiattolo rosso eurasiatico",
+                "Copyright": "© Galina Jacyna/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Sciurus vulgaris è il nome scientifico dello scoiattolo rosso. È capace di compiere salti sorprendenti, arrivando a superare i due metri in un solo balzo.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260121_BerrySquirrel\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Scoiattolo&form=hpcapt&filters=HpDate:\"20260120_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260121_BerrySquirrel"
+            },
+            "Ssd": "20260121",
+            "Name": "BerrySquirrel",
+            "Market": "IT-IT",
+            "Hash": "4115553283",
+            "FullDateString": "21 gennaio 2026"
+        }
+    },
+    {
         "startdate": "20260119",
         "fullstartdate": "202601192300",
         "enddate": "20260120",
@@ -20,8 +69,8 @@
             "ImageContent": {
                 "Description": "I pinguini prosperano nelle acque più gelide del pianeta. Ammirate questo pinguino gentoo che nuota sotto una volta di ghiaccio blu scintillante, la sua figura scura si staglia come un tratto d’inchiostro nel silenzio glaciale che lo circonda. Tra tutti i pinguini, il gentoo è uno dei nuotatori più agili. Le sue pinne potenti e il corpo affusolato gli permettono di fendere le acque gelide con scatti rapidi e sicuri. Il becco arancione, la netta striscia bianca sulla testa e la postura fiera lo rendono inconfondibile, anche quando migliaia di esemplari si radunano lungo la riva.",
                 "Image": {
-                    "Url": "/th?id=OHR.IciclePenguin_IT-IT4498026851_1920x1080.webp",
-                    "Wallpaper": "/th?id=OHR.IciclePenguin_IT-IT4498026851_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Url": "/th?id=OHR.IciclePenguin_IT-IT4262045366_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.IciclePenguin_IT-IT4262045366_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
                     "Downloadable": true
                 },
                 "Headline": "Danza tra i ghiacchi",
@@ -44,7 +93,7 @@
             "Ssd": "20260120",
             "Name": "IciclePenguin",
             "Market": "IT-IT",
-            "Hash": "4498026851",
+            "Hash": "4262045366",
             "FullDateString": "20 gennaio 2026"
         }
     },

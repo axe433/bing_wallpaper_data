@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260120",
+        "fullstartdate": "202601200300",
+        "enddate": "20260121",
+        "url": "/th?id=OHR.IciclePenguin_PT-BR0423220256_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IciclePenguin_PT-BR0423220256",
+        "copyright": "Pinguim-gentoo, Ilha Petermann, Antártida (© Paul Souders/DanitaDelimont.com/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+da+Conscientiza%C3%A7%C3%A3o+do+Pinguim&form=hpcapt&mkt=pt-br",
+        "title": "Vida à beira do gelo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260120_IciclePenguin%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bc777a89bddde2e78727e033529d4440",
+        "hsh": "a1b79c14585adb0903cf5804cc107315",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Os pinguins prosperam em algumas das águas mais frias da Terra. Na imagem, vemos um pinguim-gentoo sob um arco de gelo azul cintilante, sua silhueta destacada contra o mundo congelado da Antártida. O Dia da Conscientização do Pinguim, celebrado em 20 de janeiro, chama atenção para essas aves que trazem vida, som e personalidade às costas mais geladas do planeta.",
+                "Image": {
+                    "Url": "/th?id=OHR.IciclePenguin_PT-BR0423220256_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.IciclePenguin_PT-BR0423220256_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Vida à beira do gelo",
+                "Title": "Pinguim-gentoo, Ilha Petermann, Antártida",
+                "Copyright": "© Paul Souders/DanitaDelimont.com/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260120_IciclePenguin\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dia+da+Conscientiza%c3%a7%c3%a3o+do+Pinguim&form=hpcapt&filters=HpDate:\"20260120_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260120_IciclePenguin"
+            },
+            "Ssd": "20260120",
+            "Name": "IciclePenguin",
+            "Market": "PT-BR",
+            "Hash": "0423220256",
+            "FullDateString": "20 jan. 2026"
+        }
+    },
+    {
         "startdate": "20260119",
         "fullstartdate": "202601190300",
         "enddate": "20260120",

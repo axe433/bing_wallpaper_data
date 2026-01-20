@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260120",
+        "fullstartdate": "202601202300",
+        "enddate": "20260121",
+        "url": "/th?id=OHR.FITUR_ES-ES6773132633_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FITUR_ES-ES6773132633",
+        "copyright": "Palacio de Cristal del Retiro, Madrid, España (© All rights reserved - Copyright/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Palacio+de+Cristal+del+Retiro&form=hpcapt&filters=HpDate%3a%2220260120_2300%22",
+        "title": "Arquitectura de cristal y hielo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260120_FITUR%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "7564b421cd3f800ed6f8191caebc3b63",
+        "hsh": "55aea8ae328cd211cc340edfc45dfbfa",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Bajo un manto de nieve, el Palacio de Cristal del Retiro en Madrid ofrece un espectáculo único. Esta joya arquitectónica de hierro y cristal, construida en 1887 para albergar exposiciones de flora, se refleja en los estanques que la rodean, creando un escenario de ensueño durante el invierno. Sus amplios ventanales y su delicada estructura permiten que la luz transforme cada visita en una experiencia inolvidable. Curiosamente, este palacio se inspira en la Gran Exposición de Londres de 1851, un dato que sorprende a muchos visitantes.",
+                "Image": {
+                    "Url": "/th?id=OHR.FITUR_ES-ES6773132633_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FITUR_ES-ES6773132633_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Arquitectura de cristal y hielo",
+                "Title": "Palacio de Cristal del Retiro, Madrid, España",
+                "Copyright": "© All rights reserved - Copyright/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260121_FITUR\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Palacio+de+Cristal+del+Retiro&form=hpcapt&filters=HpDate:\"20260120_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260121_FITUR"
+            },
+            "Ssd": "20260121",
+            "Name": "FITUR",
+            "Market": "ES-ES",
+            "Hash": "6773132633",
+            "FullDateString": "21 de ene. de 2026"
+        }
+    },
+    {
         "startdate": "20260119",
         "fullstartdate": "202601192300",
         "enddate": "20260120",

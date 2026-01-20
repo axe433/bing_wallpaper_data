@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260120",
+        "fullstartdate": "202601201600",
+        "enddate": "20260121",
+        "url": "/th?id=OHR.BerrySquirrel_ZH-CN7382553646_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BerrySquirrel_ZH-CN7382553646",
+        "copyright": "欧亚红松鼠 (© Galina Jacyna/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E6%AC%A7%E4%BA%9A%E7%BA%A2%E6%9D%BE%E9%BC%A0&form=hpcapt&mkt=zh-cn",
+        "title": "冬日白雪中的一抹红",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260120_BerrySquirrel%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3fa4828a83f0c117d8277853a5c054c7",
+        "hsh": "c387a6a3eebd9339aed28bbf00a5860d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "画面里，一只欧亚红松鼠蹲在雪地上，披着冬日特有的浓密绒毛，耳尖的小簇毛格外惹眼。它们原生于欧洲和亚洲部分地区的森林，主要以种子、坚果和真菌为食，把粮食分散藏在林中各处，并在高高的树洞里垒起巢窝，安度漫长寒冬。",
+                "Image": {
+                    "Url": "/th?id=OHR.BerrySquirrel_ZH-CN7382553646_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BerrySquirrel_ZH-CN7382553646_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "冬日白雪中的一抹红",
+                "Title": "欧亚红松鼠",
+                "Copyright": "© Galina Jacyna/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "欧亚红松鼠会在高高的树上，用树枝与树叶织出一个圆圆的“drey”巢穴，像个藏在枝丛间的小球窝。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260121_BerrySquirrel\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e6%ac%a7%e4%ba%9a%e7%ba%a2%e6%9d%be%e9%bc%a0&form=hpcapt&filters=HpDate:\"20260120_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260121_BerrySquirrel"
+            },
+            "Ssd": "20260121",
+            "Name": "BerrySquirrel",
+            "Market": "ZH-CN",
+            "Hash": "7382553646",
+            "FullDateString": "2026 1月 21"
+        }
+    },
+    {
         "startdate": "20260119",
         "fullstartdate": "202601191600",
         "enddate": "20260120",
