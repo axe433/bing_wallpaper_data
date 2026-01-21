@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260121",
+        "fullstartdate": "202601211600",
+        "enddate": "20260122",
+        "url": "/th?id=OHR.KarlovyVary_ZH-CN7585938362_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KarlovyVary_ZH-CN7585938362",
+        "copyright": "卡罗维瓦利，波西米亚，捷克共和国 (© Henryk Sadura/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%8D%A1%E7%BD%97%E7%BB%B4%E7%93%A6%E5%88%A9&form=hpcapt&mkt=zh-cn",
+        "title": "波西米亚温泉故事",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260121_KarlovyVary%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "766bf3a415d9c137c7f21d6b5a4dddf3",
+        "hsh": "747b88951e9a99f9fe98709bc11b74e3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "在今天的图片中，冬意已悄悄落在捷克的卡罗维瓦利，这座坐落于浅色山谷中的城市，因山间温泉而闻名。关于这座城市的起源，可追溯到14世纪：据说当时的波希米亚国王、后来成为神圣罗马帝国皇帝的查理四世路经此地，恰好遇见一池冒着白雾的温热泉水。正是这次邂逅，引领波希米亚这片宁静的山谷走上了温泉疗养圣地的道路。",
+                "Image": {
+                    "Url": "/th?id=OHR.KarlovyVary_ZH-CN7585938362_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KarlovyVary_ZH-CN7585938362_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "波西米亚温泉故事",
+                "Title": "卡罗维瓦利，波西米亚，捷克共和国",
+                "Copyright": "© Henryk Sadura/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "这座城市以举办卡罗维瓦利国际电影节而闻名，该电影节是世界上历史最悠久的电影节之一，也是欧洲最重要的电影盛事之一。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260122_KarlovyVary\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%8d%a1%e7%bd%97%e7%bb%b4%e7%93%a6%e5%88%a9&form=hpcapt&filters=HpDate:\"20260121_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260122_KarlovyVary"
+            },
+            "Ssd": "20260122",
+            "Name": "KarlovyVary",
+            "Market": "ZH-CN",
+            "Hash": "7585938362",
+            "FullDateString": "2026 1月 22"
+        }
+    },
+    {
         "startdate": "20260120",
         "fullstartdate": "202601201600",
         "enddate": "20260121",

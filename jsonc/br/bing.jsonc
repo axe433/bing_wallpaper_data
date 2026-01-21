@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260121",
+        "fullstartdate": "202601210300",
+        "enddate": "20260122",
+        "url": "/th?id=OHR.BerrySquirrel_PT-BR0149336681_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BerrySquirrel_PT-BR0149336681",
+        "copyright": "Esquilo-vermelho-eurasiático (© Galina Jacyna/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+Internacional+do+Esquilo&form=hpcapt&mkt=pt-br",
+        "title": "Pequenos guardiões das florestas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260121_BerrySquirrel%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3fa4828a83f0c117d8277853a5c054c7",
+        "hsh": "f87dd9b27cafc241cacdf2f651f758b4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A imagem de hoje mostra um esquilo-vermelho-euroasiático pousado na neve, exibindo a pelagem de inverno e as orelhas com tufos que tornam essa espécie tão marcante. Nativo de florestas por toda a Europa e partes da Ásia, ele sobrevive aos meses frios armazenando sementes, nozes e fungos em esconderijos, além de construir ninhos no alto de árvores ocas.",
+                "Image": {
+                    "Url": "/th?id=OHR.BerrySquirrel_PT-BR0149336681_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BerrySquirrel_PT-BR0149336681_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Pequenos guardiões das florestas",
+                "Title": "Esquilo-vermelho-eurasiático",
+                "Copyright": "© Galina Jacyna/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260121_BerrySquirrel\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dia+Internacional+do+Esquilo&form=hpcapt&filters=HpDate:\"20260121_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260121_BerrySquirrel"
+            },
+            "Ssd": "20260121",
+            "Name": "BerrySquirrel",
+            "Market": "PT-BR",
+            "Hash": "0149336681",
+            "FullDateString": "21 jan. 2026"
+        }
+    },
+    {
         "startdate": "20260120",
         "fullstartdate": "202601200300",
         "enddate": "20260121",
