@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260122",
+        "fullstartdate": "202601222300",
+        "enddate": "20260123",
+        "url": "/th?id=OHR.Toledo_ES-ES4779443125_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Toledo_ES-ES4779443125",
+        "copyright": "Luces de Toledo encendidas tras una tormenta de nieve (© Cavan Images/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Toledo+Castilla+La+Mancha&form=hpcapt&filters=HpDate%3a%2220260122_2300%22",
+        "title": "Escarcha y luces festivas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260122_Toledo%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "822b1a011e520f4e9e894be393c2a449",
+        "hsh": "c0cef436d2bc3de37edd062c75ec9e50",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Cada 23 de enero, Toledo celebra las Fiestas de San Ildefonso, una cita tradicional que forma parte de la identidad cultural de la ciudad desde hace más de cuatro siglos. En pleno invierno, cuando las luces nocturnas realzan el perfil histórico de Toledo, estas fiestas ofrecen una oportunidad única para conocer la ciudad desde un punto de vista cercano y popular.",
+                "Image": {
+                    "Url": "/th?id=OHR.Toledo_ES-ES4779443125_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Toledo_ES-ES4779443125_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Escarcha y luces festivas",
+                "Title": "Luces de Toledo encendidas tras una tormenta de nieve",
+                "Copyright": "© Cavan Images/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260123_Toledo\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Toledo+Castilla+La+Mancha&form=hpcapt&filters=HpDate:\"20260122_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260123_Toledo"
+            },
+            "Ssd": "20260123",
+            "Name": "Toledo",
+            "Market": "ES-ES",
+            "Hash": "4779443125",
+            "FullDateString": "23 de ene. de 2026"
+        }
+    },
+    {
         "startdate": "20260121",
         "fullstartdate": "202601212300",
         "enddate": "20260122",
