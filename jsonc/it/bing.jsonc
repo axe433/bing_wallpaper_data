@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260123",
+        "fullstartdate": "202601232300",
+        "enddate": "20260124",
+        "url": "/th?id=OHR.PisaTower_IT-IT3619940805_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PisaTower_IT-IT3619940805",
+        "copyright": "Torre di Pisa, Pisa, Toscana (© seng chye teo/Moment)",
+        "copyrightlink": "https://www.bing.com/search?q=Torre+di+Pisa&form=hpcapt",
+        "title": "Bellezza è imperfezione",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260123_PisaTower%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "403a7c6ab09f99505e03bbe70d0c7d01",
+        "hsh": "2633d5c5a146272f3f51aea5bdbbcf0a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A volte un monumento diventa famoso per un difetto, eppure quel difetto racconta più della perfezione. La Torre di Pisa, nata nel 1173 come semplice campanile della cattedrale, iniziò a inclinarsi già al terzo piano, nel 1178, perché poggiava su un terreno argilloso troppo morbido. Da allora, la sua storia è un continuo dialogo tra gravità e ingegno umano. La costruzione si interruppe più volte per guerre e problemi tecnici, e questo, paradossalmente, la salvò. Il terreno ebbe così il tempo di assestarsi, evitando un crollo precoce.",
+                "Image": {
+                    "Url": "/th?id=OHR.PisaTower_IT-IT3619940805_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PisaTower_IT-IT3619940805_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Bellezza è imperfezione",
+                "Title": "Torre di Pisa, Pisa, Toscana",
+                "Copyright": "© seng chye teo/Moment",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Il nome ufficiale è Piazza del Duomo, ma è Piazza dei Miracoli quello più usato, perché fu Gabriele d’Annunzio a definirla così, colpito dalla bellezza quasi \"soprannaturale\" dell’insieme.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260124_PisaTower\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Torre+di+Pisa&form=hpcapt&filters=HpDate:\"20260123_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260124_PisaTower"
+            },
+            "Ssd": "20260124",
+            "Name": "PisaTower",
+            "Market": "IT-IT",
+            "Hash": "3619940805",
+            "FullDateString": "24 gennaio 2026"
+        }
+    },
+    {
         "startdate": "20260122",
         "fullstartdate": "202601222300",
         "enddate": "20260123",

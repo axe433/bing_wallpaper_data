@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260123",
+        "fullstartdate": "202601232300",
+        "enddate": "20260124",
+        "url": "/th?id=OHR.AndermattSwiss_ES-ES1707128541_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AndermattSwiss_ES-ES1707128541",
+        "copyright": "Pueblo de Andermatt en los Alpes, Suiza (© Xantana/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Pueblo+de+Andermatt+en+los+Alpes+suizos&form=hpcapt&filters=HpDate%3a%2220260123_2300%22",
+        "title": "Un manto de belleza invernal",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260123_AndermattSwiss%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "db0e43013c8d072bb5c74253cbb06a0f",
+        "hsh": "1b05bca769715e1dd7e937ad8508bf7c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Situado en el valle de Urseren, a unos 1.440 metros de altitud, Andermatt es un pintoresco pueblo suizo rodeado por los imponentes Alpes. Durante siglos fue un cruce estratégico y hoy sigue conectado por tres pasos históricos: Gotardo, Furka y Oberalp. El paso del Gotardo ha sido clave para unir el norte y el sur de Europa, una función comparable a la que han tenido los Pirineos como eje natural de comunicación en España.",
+                "Image": {
+                    "Url": "/th?id=OHR.AndermattSwiss_ES-ES1707128541_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AndermattSwiss_ES-ES1707128541_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un manto de belleza invernal",
+                "Title": "Pueblo de Andermatt en los Alpes, Suiza",
+                "Copyright": "© Xantana/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260124_AndermattSwiss\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Pueblo+de+Andermatt+en+los+Alpes+suizos&form=hpcapt&filters=HpDate:\"20260123_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260124_AndermattSwiss"
+            },
+            "Ssd": "20260124",
+            "Name": "AndermattSwiss",
+            "Market": "ES-ES",
+            "Hash": "1707128541",
+            "FullDateString": "24 de ene. de 2026"
+        }
+    },
+    {
         "startdate": "20260122",
         "fullstartdate": "202601222300",
         "enddate": "20260123",

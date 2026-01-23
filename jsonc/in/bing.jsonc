@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260123",
+        "fullstartdate": "202601231830",
+        "enddate": "20260124",
+        "url": "/th?id=OHR.AndermattSwiss_EN-IN7912543103_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AndermattSwiss_EN-IN7912543103",
+        "copyright": "Andermatt village in the Alps, Switzerland (© Xantana/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Andermatt+Switzerland&form=hpcapt&filters=HpDate%3a%2220260123_1830%22",
+        "title": "A Swiss escape",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260123_AndermattSwiss%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "db0e43013c8d072bb5c74253cbb06a0f",
+        "hsh": "44149ada0703293ed283213b6c397d74",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nestled in the Urseren Valley at about 1,437 metres, Andermatt is a charming Swiss village embraced by the majestic Alps. Long a vital crossroads, it's linked by three iconic passes—Gotthard, Furka and Oberalp—each enhancing its allure as a gateway between regions and cultures.",
+                "Image": {
+                    "Url": "/th?id=OHR.AndermattSwiss_EN-IN7912543103_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AndermattSwiss_EN-IN7912543103_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A Swiss escape",
+                "Title": "Andermatt village in the Alps, Switzerland",
+                "Copyright": "© Xantana/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.62049,8.6314/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=46.62049,8.6314;S9;Andermatt, Uri, Switzerland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Andermatt%2C%20Uri%2C%20Switzerland&satid=id.sid%3A4039ce24-f8cb-cec8-3286-3916ff2d39e9&vdpid=7016135143777632257&mb=46.676731~8.465829~46.5644~8.762746&cardbg=%23F98745&tt=Andermatt%2C%206490%2C%20Uri%2C%20Switzerland&tsts0=%2526ty%253D30%2526q%253DAndermatt%25252C%252520Uri%25252C%252520Switzerland%2526satid%253Did.sid%25253A4039ce24-f8cb-cec8-3286-3916ff2d39e9%2526vdpid%253D7016135143777632257%2526mb%253D46.676731~8.465829~46.5644~8.762746%2526cardbg%253D%252523F98745&tstt0=Andermatt%2C%206490%2C%20Uri%2C%20Switzerland&cp=46.608512~0.74849&lvl=5.47&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260124_AndermattSwiss\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Andermatt+Switzerland&form=hpcapt&filters=HpDate:\"20260123_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260124_AndermattSwiss"
+            },
+            "Ssd": "20260124",
+            "Name": "AndermattSwiss",
+            "Market": "EN-IN",
+            "Hash": "7912543103",
+            "FullDateString": "24 Jan, 2026"
+        }
+    },
+    {
         "startdate": "20260122",
         "fullstartdate": "202601221830",
         "enddate": "20260123",
