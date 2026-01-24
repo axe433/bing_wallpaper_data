@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260124",
+        "fullstartdate": "202601242300",
+        "enddate": "20260125",
+        "url": "/th?id=OHR.BurnsPark_ES-ES4298228176_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BurnsPark_ES-ES4298228176",
+        "copyright": "Parque Nacional del Patrimonio Burns, Ayr, Ayrshire, Escocia (© Alister Firth/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Ayr+Ayrshire+Escocia&form=hpcapt&filters=HpDate%3a%2220260124_2300%22",
+        "title": "Cena de poesías",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260124_BurnsPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "09a3f0d7c47f74f561eae4528afb2fc5",
+        "hsh": "d2e450fcb01025471a9d402af9163bab",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Cada 25 de enero, Escocia y amigos de todo el mundo celebran la Burns Night en honor a Robert Burns, poeta nacional del país. La velada combina cercanía y buen humor con una cena tradicional donde el protagonista es el haggis, un pudin salado de carne picada, avena y especias, acompañado de neeps (nabos machacados) y tatties (puré de patatas). La noche se completa con lecturas de sus poemas, brindis con whisky escocés y el canto final de “Auld Lang Syne”. En España, esta canción es conocida por sonar cada Nochevieja, un curioso vínculo cultural entre ambos países.",
+                "Image": {
+                    "Url": "/th?id=OHR.BurnsPark_ES-ES4298228176_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BurnsPark_ES-ES4298228176_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Cena de poesías",
+                "Title": "Parque Nacional del Patrimonio Burns, Ayr, Ayrshire, Escocia",
+                "Copyright": "© Alister Firth/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260125_BurnsPark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ayr+Ayrshire+Escocia&form=hpcapt&filters=HpDate:\"20260124_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260125_BurnsPark"
+            },
+            "Ssd": "20260125",
+            "Name": "BurnsPark",
+            "Market": "ES-ES",
+            "Hash": "4298228176",
+            "FullDateString": "25 de ene. de 2026"
+        }
+    },
+    {
         "startdate": "20260123",
         "fullstartdate": "202601232300",
         "enddate": "20260124",
