@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260125",
+        "fullstartdate": "202601252300",
+        "enddate": "20260126",
+        "url": "/th?id=OHR.BluetitWinter_FR-FR1512662576_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BluetitWinter_FR-FR1512662576",
+        "copyright": "Une mésange bleue en hiver (© Marc Andreu/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=m%C3%A9sange+bleue&form=hpcapt&filters=HpDate%3a%2220260125_2300%22",
+        "title": "Une touche de couleurs qui ravive l’hiver",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260125_BluetitWinter%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "97aa15ac4bd8a44220f43c2ace812023",
+        "hsh": "d2c666bc9db865977ec19810fe4e43ab",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sous la lumière douce d’un matin d’hiver, une petite silhouette bleue et jaune danse entre les branches nues. C’est la mésange bleue, joyau de nos jardins européens. Son plumage éclatant, surmonté d’un bonnet azur, capte chaque rayon de soleil et illumine la grisaille. Agile et vive, elle parcourt les rameaux en quête de graines ou d’insectes cachés, offrant un ballet discret mais plein de grâce.",
+                "Image": {
+                    "Url": "/th?id=OHR.BluetitWinter_FR-FR1512662576_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BluetitWinter_FR-FR1512662576_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Une touche de couleurs qui ravive l'hiver",
+                "Title": "Une mésange bleue en hiver",
+                "Copyright": "© Marc Andreu/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Les mésanges bleues disposent parfois des plantes aromatiques à l’entrée de leur nid pour repousser les parasites.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260126_BluetitWinter\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=m%c3%a9sange+bleue&form=hpcapt&filters=HpDate:\"20260125_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260126_BluetitWinter"
+            },
+            "Ssd": "20260126",
+            "Name": "BluetitWinter",
+            "Market": "FR-FR",
+            "Hash": "1512662576",
+            "FullDateString": "26 janv. 2026"
+        }
+    },
+    {
         "startdate": "20260124",
         "fullstartdate": "202601242300",
         "enddate": "20260125",

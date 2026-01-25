@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260125",
+        "fullstartdate": "202601251500",
+        "enddate": "20260126",
+        "url": "/th?id=OHR.BubblesAbraham_JA-JP9895459899_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BubblesAbraham_JA-JP9895459899",
+        "copyright": "アブラハムレイク, カナダ (© Luis F Arevalo/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%83%96%E3%83%A9%E3%83%8F%E3%83%A0%E3%83%AC%E3%82%A4%E3%82%AF&form=hpcapt&filters=HpDate%3a%2220260125_1500%22",
+        "title": "色鮮やかな空の下に広がる凍った湖",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260125_BubblesAbraham%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "147943da809dba1d3ad520f1cf0d2f3b",
+        "hsh": "52c2fd433eb1a2559ac3f76414a02566",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ここはアブラハムレイク。カナダ・アルバータ州に造られた人工湖で、面積は約 53.7km² に及ぶ同州最大の貯水池です。ロッキー山脈特有の岩粉によって生まれる美しいターコイズブルーの湖水が広がり、周囲の山々を映し出す絶景スポットとして人気です…",
+                "Image": {
+                    "Url": "/th?id=OHR.BubblesAbraham_JA-JP9895459899_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BubblesAbraham_JA-JP9895459899_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "色鮮やかな空の下に広がる凍った湖",
+                "Title": "アブラハムレイク, カナダ",
+                "Copyright": "© Luis F Arevalo/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.22361,-116.4272/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=52.22361,-116.4272;S9;アブラハムレイク, カナダ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Abraham%20Lake%20Alberta%20Canada&satid=id.sid%3A79873f98-1b5e-c7d4-b001-b94e95c8838a&vdpid=4858490877351297025&mb=52.227353~-116.438942~52.21986~-116.415467&cardbg=%23F98745&dt=1765794600000&tt=Abraham%20Lake%2C%20Alberta&tsts0=%2526ty%253D30%2526q%253DAbraham%252520Lake%252520Alberta%252520Canada%2526satid%253Did.sid%25253A79873f98-1b5e-c7d4-b001-b94e95c8838a%2526vdpid%253D4858490877351297025%2526mb%253D52.227353~-116.438942~52.21986~-116.415467%2526cardbg%253D%252523F98745%2526dt%253D1765794600000&tstt0=Abraham%20Lake%2C%20Alberta&cp=55.479283~-132.405914&lvl=4.2297554&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260126_BubblesAbraham\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%a2%e3%83%96%e3%83%a9%e3%83%8f%e3%83%a0%e3%83%ac%e3%82%a4%e3%82%af&form=hpcapt&filters=HpDate:\"20260125_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260126_BubblesAbraham"
+            },
+            "Ssd": "20260126",
+            "Name": "BubblesAbraham",
+            "Market": "JA-JP",
+            "Hash": "9895459899",
+            "FullDateString": "2026 年 1月 月 26 日"
+        }
+    },
+    {
         "startdate": "20260124",
         "fullstartdate": "202601241500",
         "enddate": "20260125",

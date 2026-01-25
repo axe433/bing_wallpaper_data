@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260125",
+        "fullstartdate": "202601252300",
+        "enddate": "20260126",
+        "url": "/th?id=OHR.NeuschwansteinWinter_DE-DE8806606737_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NeuschwansteinWinter_DE-DE8806606737",
+        "copyright": "Schneebedecktes Schloss Neuschwanstein bei Hohenschwangau, Bayern (© www.fredconcha.com @ All Rights Reserved/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Schloss+Neuschwanstein&form=hpcapt&filters=HpDate%3a%2220260125_2300%22",
+        "title": "Wie aus dem Märchen entsprungen",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260125_NeuschwansteinWinter%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "189d053568cdfe44f55b8c1ad48a2991",
+        "hsh": "cf1fcfa7bde1271aea401ac7b0fdb164",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Kaum ein Schloss hat die Fantasie der Menschen weltweit so sehr geprägt wie Neuschwanstein – und das nicht nur in Bayern. Walt Disney ließ sich bei der Gestaltung des Dornröschen-Schlosses im kalifornischen Disneyland von diesem Anblick inspirieren. Heute ragt das Bauwerk hoch über Hohenschwangau und die verschneiten Allgäuer Wälder empor und wirkt wie ein Tor in eine andere Zeit.",
+                "Image": {
+                    "Url": "/th?id=OHR.NeuschwansteinWinter_DE-DE8806606737_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NeuschwansteinWinter_DE-DE8806606737_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Wie aus dem Märchen entsprungen",
+                "Title": "Schneebedecktes Schloss Neuschwanstein bei Hohenschwangau, Bayern",
+                "Copyright": "© www.fredconcha.com @ All Rights Reserved/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.557838,10.749735/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=47.557838,10.749735;S9;Schloss Neuschwanstein, Hohenschwangau, Bayern&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Schloss%20Neuschwanstein&ss=ypid.YN6740x8750654331679949064&mb=47.563807~10.739737~47.551861~10.759735&description=Neuschwansteinstr.%2020%20%C2%B7%2087645%20Schwangau&cardbg=%23219AB6&dt=1765890000000&tt=Neuschwanstein%20Castle&tsts0=%2526ty%253D18%2526q%253DSchloss%252520Neuschwanstein%2526ss%253Dypid.YN6740x8750654331679949064%2526mb%253D47.563807~10.739737~47.551861~10.759735%2526description%253DNeuschwansteinstr.%25252020%252520%2525C2%2525B7%25252087645%252520Schwangau%2526cardbg%253D%252523219AB6%2526dt%253D1765890000000&tstt0=Neuschwanstein%20Castle&cp=47.512779~10.172408&lvl=10.529824&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260126_NeuschwansteinWinter\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Schloss+Neuschwanstein&form=hpcapt&filters=HpDate:\"20260125_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260126_NeuschwansteinWinter"
+            },
+            "Ssd": "20260126",
+            "Name": "NeuschwansteinWinter",
+            "Market": "DE-DE",
+            "Hash": "8806606737",
+            "FullDateString": "26. Jan.. 2026"
+        }
+    },
+    {
         "startdate": "20260124",
         "fullstartdate": "202601242300",
         "enddate": "20260125",
