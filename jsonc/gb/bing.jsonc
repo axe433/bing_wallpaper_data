@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260126",
+        "fullstartdate": "202601260000",
+        "enddate": "20260127",
+        "url": "/th?id=OHR.NeuschwansteinWinter_EN-GB1190000361_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NeuschwansteinWinter_EN-GB1190000361",
+        "copyright": "Neuschwanstein Castle, Bavaria, Germany (© www.fredconcha.com @ All Rights Reserved/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Neuschwanstein+Castle&form=hpcapt&filters=HpDate%3a%2220260126_0000%22",
+        "title": "Bavaria's gem",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260126_NeuschwansteinWinter%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "189d053568cdfe44f55b8c1ad48a2991",
+        "hsh": "80ee05acc8f01785e071dc086a1415a3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "The story of Neuschwanstein Castle begins with the dreams of King Ludwig II of Bavaria, who imagined a retreat inspired by medieval legends and grand operas. Set among mountains and forests in Germany, the castle rises with delicate towers and intricate stonework that seem to float above the valley. Although construction started in the nineteenth century, the palace was never fully completed, which adds to its aura of mystery.",
+                "Image": {
+                    "Url": "/th?id=OHR.NeuschwansteinWinter_EN-GB1190000361_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NeuschwansteinWinter_EN-GB1190000361_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Bavaria's gem",
+                "Title": "Neuschwanstein Castle, Bavaria, Germany",
+                "Copyright": "© www.fredconcha.com @ All Rights Reserved/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.557838,10.749735/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=47.557838,10.749735;S9;Neuschwanstein Castle, Bavaria, Germany&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Neuschwanstein%20Castle%2C%20Bavaria&ss=ypid.YN6740x8750654331679949064&mb=47.561064~10.74656~47.554605~10.752912&description=Neuschwanstein%20street%2020%20%C2%B7%2087645%20Schwangau&cardbg=%23219AB6&dt=1767184200000&tt=Neuschwanstein%20Castle&tsts0=%2526ty%253D18%2526q%253DNeuschwanstein%252520Castle%25252C%252520Bavaria%2526ss%253Dypid.YN6740x8750654331679949064%2526mb%253D47.561064~10.74656~47.554605~10.752912%2526description%253DNeuschwanstein%252520street%25252020%252520%2525C2%2525B7%25252087645%252520Schwangau%2526cardbg%253D%252523219AB6%2526dt%253D1767184200000&tstt0=Neuschwanstein%20Castle&cp=39.166091~-2.187689&lvl=4.418521&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260126_NeuschwansteinWinter\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Neuschwanstein+Castle&form=hpcapt&filters=HpDate:\"20260126_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260126_NeuschwansteinWinter"
+            },
+            "Ssd": "20260126",
+            "Name": "NeuschwansteinWinter",
+            "Market": "EN-GB",
+            "Hash": "1190000361",
+            "FullDateString": "26 Jan 2026"
+        }
+    },
+    {
         "startdate": "20260125",
         "fullstartdate": "202601250000",
         "enddate": "20260126",

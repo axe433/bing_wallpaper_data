@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260126",
+        "fullstartdate": "202601260300",
+        "enddate": "20260127",
+        "url": "/th?id=OHR.NeuschwansteinWinter_PT-BR5083137761_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NeuschwansteinWinter_PT-BR5083137761",
+        "copyright": "Castelo de Neuschwanstein, Baviera, Alemanha (© www.fredconcha.com @ All Rights Reserved/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Castelo+de+Neuschwanstein%2c+Baviera&form=hpcapt&mkt=pt-br",
+        "title": "A joia da Baviera",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260126_NeuschwansteinWinter%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "189d053568cdfe44f55b8c1ad48a2991",
+        "hsh": "03416cac02bc7f5969512d125b1f9887",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "O Castelo de Neuschwanstein, na Baviera, Alemanha, ergue-se como um sonho arquitetônico do século XIX, concebido pelo rei Ludwig II quando lendas medievais e óperas grandiosas ecoavam em sua mente. Cercado por montanhas que se dissolvem na neblina e florestas densas, ele se destaca por suas torres elegantes e detalhes arquitetônicos minuciosos. Embora não tenha sido totalmente concluído — a sala do trono, por exemplo, ficou inacabada — o palácio que vemos na imagem transporta quem passa por seus salões a outra era. Todos os anos, milhões de visitantes exploram Neuschwanstein, percebendo como cada arco, vitral e painel majestoso misturam romantismo, teatralidade e história.",
+                "Image": {
+                    "Url": "/th?id=OHR.NeuschwansteinWinter_PT-BR5083137761_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NeuschwansteinWinter_PT-BR5083137761_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "A joia da Baviera",
+                "Title": "Castelo de Neuschwanstein, Baviera, Alemanha",
+                "Copyright": "© www.fredconcha.com @ All Rights Reserved/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260126_NeuschwansteinWinter\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Castelo+de+Neuschwanstein%2c+Baviera&form=hpcapt&filters=HpDate:\"20260126_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260126_NeuschwansteinWinter"
+            },
+            "Ssd": "20260126",
+            "Name": "NeuschwansteinWinter",
+            "Market": "PT-BR",
+            "Hash": "5083137761",
+            "FullDateString": "26 jan. 2026"
+        }
+    },
+    {
         "startdate": "20260125",
         "fullstartdate": "202601250300",
         "enddate": "20260126",
