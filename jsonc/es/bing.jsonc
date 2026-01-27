@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260127",
+        "fullstartdate": "202601272300",
+        "enddate": "20260128",
+        "url": "/th?id=OHR.WhanganuiPark_ES-ES1389152194_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WhanganuiPark_ES-ES1389152194",
+        "copyright": "Parque Nacional Whanganui, Manawatu-Whanganui, Nueva Zelanda (© Matthew Micah Wright/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+de+Whanganui+en+Nueva+Zelanda&form=hpcapt&filters=HpDate%3a%2220260127_2300%22",
+        "title": "Fluye en la naturaleza",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260127_WhanganuiPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4f23f3c8a2806c2451b4fc440d3606b4",
+        "hsh": "6d1b04d28b3f0deca4b46c88caccbac9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El Parque Nacional de Whanganui ofrece uno de los paisajes fluviales más singulares de Nueva Zelanda. Fundado en 1986, abarca unos 740 kilómetros cuadrados en el centro de la Isla Norte, con el río Whanganui dibujando largas y tranquilas curvas a través de un denso bosque. Aunque el río no está oficialmente dentro del parque, modela casi todo lo que lo rodea, incluido el Whanganui Journey, uno de los Grandes Paseos de Nueva Zelanda.",
+                "Image": {
+                    "Url": "/th?id=OHR.WhanganuiPark_ES-ES1389152194_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WhanganuiPark_ES-ES1389152194_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Fluye en la naturaleza",
+                "Title": "Parque Nacional Whanganui, Manawatu-Whanganui, Nueva Zelanda",
+                "Copyright": "© Matthew Micah Wright/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260128_WhanganuiPark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parque+Nacional+de+Whanganui+en+Nueva+Zelanda&form=hpcapt&filters=HpDate:\"20260127_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260128_WhanganuiPark"
+            },
+            "Ssd": "20260128",
+            "Name": "WhanganuiPark",
+            "Market": "ES-ES",
+            "Hash": "1389152194",
+            "FullDateString": "28 de ene. de 2026"
+        }
+    },
+    {
         "startdate": "20260126",
         "fullstartdate": "202601262300",
         "enddate": "20260127",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260127",
+        "fullstartdate": "202601270300",
+        "enddate": "20260128",
+        "url": "/th?id=OHR.DalmationPelicans_PT-BR5399288780_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DalmationPelicans_PT-BR5399288780",
+        "copyright": "Pelicanos-crespos no Lago Kerkini, Grécia (© Guy Edwardes/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Pelicanos+crespos&form=hpcapt&mkt=pt-br",
+        "title": "Asas sobre Kerkini",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260127_DalmationPelicans%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e85ce93876f8a7186502ecd1dc427a27",
+        "hsh": "4eb9958d3e03f08d64d4d427b06ef9f5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Hoje visitamos o Lago Kerkini, na Grécia, onde o inverno do hemisfério norte é dominado pelos pelicanos-crespos, que deslizam em grupos sobre águas tranquilas. Eles podem chegar a 3,5 metros de envergadura — ainda maior que o nosso tuiuiú, ou jaburu, que detém o título de maior ave voadora do Brasil com quase 3 metros de envergadura. Os pelicanos-crespos mergulham com precisão para capturar peixes e os guardam em sua bolsa laranja-avermelhada, que tem capacidade para até 13 litros de água e alimento. Cada movimento parece coreografado, refletindo-se nas águas que amplificam a grandiosidade dessas aves majestosas.",
+                "Image": {
+                    "Url": "/th?id=OHR.DalmationPelicans_PT-BR5399288780_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DalmationPelicans_PT-BR5399288780_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Asas sobre Kerkini",
+                "Title": "Pelicanos-crespos no Lago Kerkini, Grécia",
+                "Copyright": "© Guy Edwardes/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260127_DalmationPelicans\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Pelicanos+crespos&form=hpcapt&filters=HpDate:\"20260127_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260127_DalmationPelicans"
+            },
+            "Ssd": "20260127",
+            "Name": "DalmationPelicans",
+            "Market": "PT-BR",
+            "Hash": "5399288780",
+            "FullDateString": "27 jan. 2026"
+        }
+    },
+    {
         "startdate": "20260126",
         "fullstartdate": "202601260300",
         "enddate": "20260127",
