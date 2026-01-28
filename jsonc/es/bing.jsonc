@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260128",
+        "fullstartdate": "202601282300",
+        "enddate": "20260129",
+        "url": "/th?id=OHR.MilwaukeeHall_ES-ES2661368914_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MilwaukeeHall_ES-ES2661368914",
+        "copyright": "Atrio abierto de ocho plantas del Ayuntamiento de Milwaukee, Wisconsin, EE. UU. (© lavin photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Milwaukee+Wisconsin+en+Estados+Unidos&form=hpcapt&filters=HpDate%3a%2220260128_2300%22",
+        "title": "Una historia exagerada de Milwaukee",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260128_MilwaukeeHall%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "87d6d19fc9837e71cc4737292e4d52d5",
+        "hsh": "481b70f5ec1ec16729c4184fde7128bf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Si alguna vez has paseado por el centro de Milwaukee, en Estados Unidos, y has levantado la vista con asombro, lo más probable es que estuvieras admirando el icónico Ayuntamiento de Milwaukee. Terminada en 1895, esta imponente obra del Renacimiento flamenco no solo domina el horizonte, sino que lo define. Durante casi ocho décadas, fue el edificio más alto de la ciudad, título que conservó hasta 1973. Diseñado por el arquitecto Henry C. Koch, combina la arquitectura alemana con influencias históricas locales, rindiendo homenaje a la fuerte herencia alemana de Milwaukee, que también marcó el barrio circundante.",
+                "Image": {
+                    "Url": "/th?id=OHR.MilwaukeeHall_ES-ES2661368914_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MilwaukeeHall_ES-ES2661368914_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Una historia exagerada de Milwaukee",
+                "Title": "Atrio abierto de ocho plantas del Ayuntamiento de Milwaukee, Wisconsin, EE. UU.",
+                "Copyright": "© lavin photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260129_MilwaukeeHall\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Milwaukee+Wisconsin+en+Estados+Unidos&form=hpcapt&filters=HpDate:\"20260128_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260129_MilwaukeeHall"
+            },
+            "Ssd": "20260129",
+            "Name": "MilwaukeeHall",
+            "Market": "ES-ES",
+            "Hash": "2661368914",
+            "FullDateString": "29 de ene. de 2026"
+        }
+    },
+    {
         "startdate": "20260127",
         "fullstartdate": "202601272300",
         "enddate": "20260128",

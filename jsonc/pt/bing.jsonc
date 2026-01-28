@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260128",
+        "fullstartdate": "202601280800",
+        "enddate": "20260129",
+        "url": "/th?id=OHR.WhanganuiPark_ROW0563176528_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WhanganuiPark_ROW0563176528",
+        "copyright": "Whanganui National Park, Retaruke, New Zealand (© Matthew Micah Wright/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Whanganui+National+park+New+Zealand&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260128_WhanganuiPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4f23f3c8a2806c2451b4fc440d3606b4",
+        "hsh": "a2eff029ec1f462b53f78477e8eacc93",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Whanganui National Park showcases one of New Zealand's most distinctive river landscapes. Established in 1986, the park covers about 741 square kilometres across the central North Island, with the Whanganui River tracing long, quiet bends through dense forest. Although the river is not officially within the park's boundaries, it shapes nearly everything around it, including the Whanganui Journey—one of New Zealand's designated Great Walks.",
+                "Image": {
+                    "Url": "/th?id=OHR.WhanganuiPark_ROW0563176528_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WhanganuiPark_ROW0563176528_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Whanganui National Park, Retaruke, New Zealand",
+                "Copyright": "© Matthew Micah Wright/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260128_WhanganuiPark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Whanganui+National+park+New+Zealand&form=hpcapt&filters=HpDate:\"20260128_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260128_WhanganuiPark"
+            },
+            "Ssd": "20260128",
+            "Name": "WhanganuiPark",
+            "Market": "ROW",
+            "Hash": "0563176528",
+            "FullDateString": "28 jan. 2026"
+        }
+    },
+    {
         "startdate": "20260127",
         "fullstartdate": "202601270800",
         "enddate": "20260128",

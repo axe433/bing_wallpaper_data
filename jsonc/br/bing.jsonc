@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260128",
+        "fullstartdate": "202601280300",
+        "enddate": "20260129",
+        "url": "/th?id=OHR.WhanganuiPark_PT-BR6611388869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WhanganuiPark_PT-BR6611388869",
+        "copyright": "Parque Nacional Whanganui, Retaruke, Nova Zelândia (© Matthew Micah Wright/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+Whanganui+Nova+Zel%C3%A2ndia&form=hpcapt&mkt=pt-br",
+        "title": "O rio que dança com a floresta",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260128_WhanganuiPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4f23f3c8a2806c2451b4fc440d3606b4",
+        "hsh": "7ee43c8fa07703a45d3129d44cbac3f4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "O Parque Nacional Whanganui, na Nova Zelândia, visto na imagem, revela um dos cenários fluviais mais impressionantes do mundo: o rio Whanganui serpenteando por vales profundos e gargantas esculpidas. Embora o leito do rio não esteja oficialmente dentro dos limites do parque, sua presença define a paisagem e convida a uma das aventuras imperdíveis do país: a Whanganui Journey, percurso de canoagem que atravessa cânions, corredeiras e trechos de natureza selvagem.",
+                "Image": {
+                    "Url": "/th?id=OHR.WhanganuiPark_PT-BR6611388869_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WhanganuiPark_PT-BR6611388869_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O rio que dança com a floresta",
+                "Title": "Parque Nacional Whanganui, Retaruke, Nova Zelândia",
+                "Copyright": "© Matthew Micah Wright/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260128_WhanganuiPark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parque+Nacional+Whanganui+Nova+Zel%c3%a2ndia&form=hpcapt&filters=HpDate:\"20260128_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260128_WhanganuiPark"
+            },
+            "Ssd": "20260128",
+            "Name": "WhanganuiPark",
+            "Market": "PT-BR",
+            "Hash": "6611388869",
+            "FullDateString": "28 jan. 2026"
+        }
+    },
+    {
         "startdate": "20260127",
         "fullstartdate": "202601270300",
         "enddate": "20260128",
