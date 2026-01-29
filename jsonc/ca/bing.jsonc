@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260129",
+        "fullstartdate": "202601290500",
+        "enddate": "20260130",
+        "url": "/th?id=OHR.MilwaukeeHall_EN-CA4166565215_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MilwaukeeHall_EN-CA4166565215",
+        "copyright": "The eight-story open atrium of Milwaukee City Hall, Wisconsin, United States (© lavin photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Milwaukee+city&form=hpcapt&filters=HpDate%3a%2220260129_0500%22",
+        "title": "A tall story of Milwaukee",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260129_MilwaukeeHall%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "87d6d19fc9837e71cc4737292e4d52d5",
+        "hsh": "9af3f5f65a74f796abe267c75551cd9e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Milwaukee City Hall, in the state of Wisconsin, is one of the city's most recognisable landmarks. Completed in 1895, this towering Flemish Renaissance Revival masterpiece doesn't just dominate the skyline; it defines it. For nearly eight decades, it stood as the city's tallest building, a title it proudly held until 1973. Designed by architect Henry C. Koch, this hall blends German-inspired architecture with Milwaukee's own historic influences. That connection isn't accidental—its design pays tribute to the city's strong German heritage, which shaped much of the surrounding neighbourhood as well.",
+                "Image": {
+                    "Url": "/th?id=OHR.MilwaukeeHall_EN-CA4166565215_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MilwaukeeHall_EN-CA4166565215_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A tall story of Milwaukee",
+                "Title": "The eight-story open atrium of Milwaukee City Hall, Wisconsin, United States",
+                "Copyright": "© lavin photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.041759,-87.909752/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=43.041759,-87.909752;S9;Milwaukee City Hall, Wisconsin, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Milwaukee%20city%20hall&ss=ypid.YNF62592E3A2798D06&mb=43.044798~-87.916825~43.038728~-87.902663&description=200%20E%20Wells%20St%2C%20Milwaukee%2C%20WI%2053202%C2%B7Public%20service%20%26%20government&cardbg=%2388979C&dt=1765449000000&tt=Milwaukee%20City%20Hall&tsts0=%2526ty%253D18%2526q%253DMilwaukee%252520city%252520hall%2526ss%253Dypid.YNF62592E3A2798D06%2526mb%253D43.044798~-87.916825~43.038728~-87.902663%2526description%253D200%252520E%252520Wells%252520St%25252C%252520Milwaukee%25252C%252520WI%25252053202%2525C2%2525B7Public%252520service%252520%252526%252520government%2526cardbg%253D%25252388979C%2526dt%253D1765449000000&tstt0=Milwaukee%20City%20Hall&cp=42.439821~-92.563434&lvl=5.7438607&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260129_MilwaukeeHall\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Milwaukee+city&form=hpcapt&filters=HpDate:\"20260129_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260129_MilwaukeeHall"
+            },
+            "Ssd": "20260129",
+            "Name": "MilwaukeeHall",
+            "Market": "EN-CA",
+            "Hash": "4166565215",
+            "FullDateString": "Jan. 29, 2026"
+        }
+    },
+    {
         "startdate": "20260128",
         "fullstartdate": "202601280500",
         "enddate": "20260129",

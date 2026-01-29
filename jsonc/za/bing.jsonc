@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260129",
+        "fullstartdate": "202601290800",
+        "enddate": "20260130",
+        "url": "/th?id=OHR.MilwaukeeHall_ROW0871854348_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MilwaukeeHall_ROW0871854348",
+        "copyright": "The eight-story open atrium of Milwaukee City Hall, Wisconsin, United States (© lavin photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Milwaukee+city&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260129_MilwaukeeHall%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "87d6d19fc9837e71cc4737292e4d52d5",
+        "hsh": "89fc2e91a27e9b4f65ba863b248c75d1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Milwaukee City Hall, in the state of Wisconsin, United States, is one of the city's most recognisable landmarks. Completed in 1895, this towering Flemish Renaissance Revival masterpiece doesn't just dominate the skyline; it defines it. For nearly eight decades, it stood as the city's tallest building, a title it proudly held until 1973. Designed by architect Henry C. Koch, this hall blends German-inspired architecture with Milwaukee's own historic influences. That connection isn't accidental—its design pays tribute to the city's strong German heritage, which shaped much of the surrounding neighbourhood as well.",
+                "Image": {
+                    "Url": "/th?id=OHR.MilwaukeeHall_ROW0871854348_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MilwaukeeHall_ROW0871854348_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "The eight-story open atrium of Milwaukee City Hall, Wisconsin, United States",
+                "Copyright": "© lavin photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260129_MilwaukeeHall\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Milwaukee+city&form=hpcapt&filters=HpDate:\"20260129_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260129_MilwaukeeHall"
+            },
+            "Ssd": "20260129",
+            "Name": "MilwaukeeHall",
+            "Market": "ROW",
+            "Hash": "0871854348",
+            "FullDateString": "Jan 29, jjjj"
+        }
+    },
+    {
         "startdate": "20260128",
         "fullstartdate": "202601280800",
         "enddate": "20260129",
