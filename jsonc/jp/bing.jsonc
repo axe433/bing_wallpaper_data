@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260130",
+        "fullstartdate": "202601301500",
+        "enddate": "20260131",
+        "url": "/th?id=OHR.IceFestival2026_JA-JP1189462193_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IceFestival2026_JA-JP1189462193",
+        "copyright": "ライトアップされた氷像, 北海道 千歳市 (© Hide's photos/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E6%94%AF%E7%AC%8F%E6%B9%96%E6%B0%B7%E6%BF%A4%E3%81%BE%E3%81%A4%E3%82%8A&form=hpcapt&filters=HpDate%3a%2220260130_1500%22",
+        "title": "今日から千歳・支笏湖氷濤まつり",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260130_IceFestival2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a31f42cffece06fd2d486c389b8eccaa",
+        "hsh": "72686f91286dd281cf660a873d14ce06",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 1 月 31 日から、北海道千歳市の冬のイベント「千歳・支笏湖氷濤まつり 氷の美術館」が開催されます。支笏湖の湖水をスプリンクラーで吹き付けて凍らせた大小さまざまな支笏湖ブルーに輝く氷像が立ち並びます。夜には色とりどりのライトに照らされて、幻想的な世界が広がります…",
+                "Image": {
+                    "Url": "/th?id=OHR.IceFestival2026_JA-JP1189462193_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.IceFestival2026_JA-JP1189462193_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日から千歳・支笏湖氷濤まつり",
+                "Title": "ライトアップされた氷像, 北海道 千歳市",
+                "Copyright": "© Hide's photos/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/42.757034,141.32457/12?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=42.757034,141.32457;S9;支笏湖&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=%E6%94%AF%E7%AC%8F%E6%B9%96&vdpid=7928975578227539969&mb=42.803928~141.201299~42.703861~141.458598&cardbg=%23F98745&dt=1767186000000&tt=%E6%94%AF%E7%AC%8F%E6%B9%96&tsts0=%2526ty%253D30%2526q%253D%2525E6%252594%2525AF%2525E7%2525AC%25258F%2525E6%2525B9%252596%2526vdpid%253D7928975578227539969%2526mb%253D42.803928~141.201299~42.703861~141.458598%2526cardbg%253D%252523F98745%2526dt%253D1767186000000&tstt0=%E6%94%AF%E7%AC%8F%E6%B9%96&cp=42.753863~141.276629&lvl=12.675547&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260131_IceFestival2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e6%94%af%e7%ac%8f%e6%b9%96%e6%b0%b7%e6%bf%a4%e3%81%be%e3%81%a4%e3%82%8a&form=hpcapt&filters=HpDate:\"20260130_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260131_IceFestival2026"
+            },
+            "Ssd": "20260131",
+            "Name": "IceFestival2026",
+            "Market": "JA-JP",
+            "Hash": "1189462193",
+            "FullDateString": "2026 年 1月 月 31 日"
+        }
+    },
+    {
         "startdate": "20260129",
         "fullstartdate": "202601291500",
         "enddate": "20260130",

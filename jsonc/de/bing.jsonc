@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260130",
+        "fullstartdate": "202601302300",
+        "enddate": "20260131",
+        "url": "/th?id=OHR.EtoshaZebra_DE-DE4542235434_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EtoshaZebra_DE-DE4542235434",
+        "copyright": "Steppenzebras, Etosha-Nationalpark, Namibia (© Mogens Trolle/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Steppenzebras&form=hpcapt&filters=HpDate%3a%2220260130_2300%22",
+        "title": "Liebe auf den ersten Streifen",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260130_EtoshaZebra%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8c3dca1ab85439e5395c3cba4229c9ee",
+        "hsh": "652e04976881fda50937b4a5347dd4aa",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Während manche Tiere beinahe lautlos in der Landschaft verschwinden, fallen Zebras mit ihren schwarz-weißen Streifen sofort ins Auge. Das auffällige Muster erfüllt gleich mehrere Zwecke und ist bei jedem Tier einzigartig, vergleichbar mit einem Fingerabdruck. Am 31. Januar erinnert der Internationale Zebra-Tag an diese faszinierenden Huftiere. Zebras sind ausschließlich in Afrika heimisch und lassen sich in drei Arten unterscheiden. Steppenzebras, wie auf unserem Bild aus dem Etosha-Nationalpark in Namibia zu sehen, tragen breite Streifen, Bergzebras zeigen feine Linien und Grévy-Zebras fallen durch besonders schmale, elegante Muster auf.",
+                "Image": {
+                    "Url": "/th?id=OHR.EtoshaZebra_DE-DE4542235434_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EtoshaZebra_DE-DE4542235434_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Liebe auf den ersten Streifen",
+                "Title": "Steppenzebras, Etosha-Nationalpark, Namibia",
+                "Copyright": "© Mogens Trolle/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-18.980263,15.762602/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=-18.980263,15.762602;S9;Etosha-Nationalpark, Namibia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Etosha%20National%20Park%2C%20Mashare%2C%20Namibia&ss=ypid.YN8131x18018674150393858886&mb=-18.778114~16.248736~-18.792436~16.279035&description=Mashare%2C%20Oshikoto%20Region%C2%B7Reserva%20natural&cardbg=%233DB838&dt=1765459800000&tt=Etosha%20National%20Park&tsts0=%2526ty%253D18%2526q%253DEtosha%252520National%252520Park%25252C%252520Mashare%25252C%252520Namibia%2526ss%253Dypid.YN8131x18018674150393858886%2526mb%253D-18.778114~16.248736~-18.792436~16.279035%2526description%253DMashare%25252C%252520Oshikoto%252520Region%2525C2%2525B7Reserva%252520natural%2526cardbg%253D%2525233DB838%2526dt%253D1765459800000&tstt0=Etosha%20National%20Park&cp=-20.453749~3.890379&lvl=4.408982&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260131_EtoshaZebra\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Steppenzebras&form=hpcapt&filters=HpDate:\"20260130_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260131_EtoshaZebra"
+            },
+            "Ssd": "20260131",
+            "Name": "EtoshaZebra",
+            "Market": "DE-DE",
+            "Hash": "4542235434",
+            "FullDateString": "31. Jan.. 2026"
+        }
+    },
+    {
         "startdate": "20260129",
         "fullstartdate": "202601292300",
         "enddate": "20260130",

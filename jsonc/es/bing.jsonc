@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260130",
+        "fullstartdate": "202601302300",
+        "enddate": "20260131",
+        "url": "/th?id=OHR.EtoshaZebra_ES-ES3051919725_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EtoshaZebra_ES-ES3051919725",
+        "copyright": "Cebras de llanura, Parque Nacional Etosha, Namibia (© Mogens Trolle/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Cebras+de+llanura&form=hpcapt&filters=HpDate%3a%2220260130_2300%22",
+        "title": "La unión hace la fuerza",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260130_EtoshaZebra%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8c3dca1ab85439e5395c3cba4229c9ee",
+        "hsh": "bf75530808ec5760fb00e544421f7281",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Las cebras de llanura son uno de los animales más reconocibles de África gracias a su patrón único de rayas que funciona como una identidad propia para cada individuo. Se desplazan en grandes grupos y recorren largas distancias en busca de agua y pastos frescos. Su estructura social es compleja y se basa en la cooperación constante entre los miembros del grupo. A pesar de su apariencia tranquila, son animales muy resistentes, capaces de soportar cambios bruscos de temperatura y largas jornadas de movimiento por territorios abiertos.",
+                "Image": {
+                    "Url": "/th?id=OHR.EtoshaZebra_ES-ES3051919725_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EtoshaZebra_ES-ES3051919725_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La unión hace la fuerza",
+                "Title": "Cebras de llanura, Parque Nacional Etosha, Namibia",
+                "Copyright": "© Mogens Trolle/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260131_EtoshaZebra\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Cebras+de+llanura&form=hpcapt&filters=HpDate:\"20260130_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260131_EtoshaZebra"
+            },
+            "Ssd": "20260131",
+            "Name": "EtoshaZebra",
+            "Market": "ES-ES",
+            "Hash": "3051919725",
+            "FullDateString": "31 de ene. de 2026"
+        }
+    },
+    {
         "startdate": "20260129",
         "fullstartdate": "202601292300",
         "enddate": "20260130",

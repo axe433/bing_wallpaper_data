@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260130",
+        "fullstartdate": "202601300300",
+        "enddate": "20260131",
+        "url": "/th?id=OHR.StMichaelsCornwall_PT-BR8735847757_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.StMichaelsCornwall_PT-BR8735847757",
+        "copyright": "Monte St. Michael em Marazion, Cornualha, Inglaterra (© Baxter Bradford/robertharding/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Monte+de+St+Michael+na+Inglaterra&form=hpcapt&mkt=pt-br",
+        "title": "Entre o mito e a maré",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260130_StMichaelsCornwall%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "69091d40b3ceccfe0e5f3beedc199dbb",
+        "hsh": "c8b01b49e0125fd35e5071b79de67462",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Há lugares que parecem obedecer mais à maré do que ao tempo — e a ilha que vemos aqui é um deles. No mar da Cornualha, na Inglaterra, o Monte St. Michael só se conecta ao continente por algumas horas do dia, quando o oceano recua e revela um estreito caminho de granito que, por séculos, guiou pescadores, peregrinos e curiosos entre água e terra.",
+                "Image": {
+                    "Url": "/th?id=OHR.StMichaelsCornwall_PT-BR8735847757_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.StMichaelsCornwall_PT-BR8735847757_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Entre o mito e a maré",
+                "Title": "Monte St. Michael em Marazion, Cornualha, Inglaterra",
+                "Copyright": "© Baxter Bradford/robertharding/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260130_StMichaelsCornwall\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Monte+de+St+Michael+na+Inglaterra&form=hpcapt&filters=HpDate:\"20260130_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260130_StMichaelsCornwall"
+            },
+            "Ssd": "20260130",
+            "Name": "StMichaelsCornwall",
+            "Market": "PT-BR",
+            "Hash": "8735847757",
+            "FullDateString": "30 jan. 2026"
+        }
+    },
+    {
         "startdate": "20260129",
         "fullstartdate": "202601290300",
         "enddate": "20260130",
