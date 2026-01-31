@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260131",
+        "fullstartdate": "202601311500",
+        "enddate": "20260201",
+        "url": "/th?id=OHR.Echasse_JA-JP1351434706_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Echasse_JA-JP1351434706",
+        "copyright": "セイタカシギ, フランス (© Antonio Sementa/500px/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%BB%E3%82%A4%E3%82%BF%E3%82%AB%E3%82%B7%E3%82%AE&form=hpcapt&filters=HpDate%3a%2220260131_1500%22",
+        "title": "水辺の貴婦人",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260131_Echasse%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6aca731b228ff01c6129e9536c055787",
+        "hsh": "53e98e79e5b59c870c7a9aba0b2fe92a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日の画像はセイタカシギ（背高鷸）。チドリ目・セイタカシギ科に分類される水辺の鳥で、非常に長い赤い脚と、白と黒のコントラストが美しい体色が特徴です。細く真っすぐな黒いくちばしを持ち、スタイルの良い優雅な姿から「水辺の貴婦人」とも呼ばれています…",
+                "Image": {
+                    "Url": "/th?id=OHR.Echasse_JA-JP1351434706_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Echasse_JA-JP1351434706_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "水辺の貴婦人",
+                "Title": "セイタカシギ, フランス",
+                "Copyright": "© Antonio Sementa/500px/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47,2/2?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=47,2;S9;フランス&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9&satid=id.sid%3Ac7bfe2de-4f82-e23c-ae42-8544b5b5c0ea&vdpid=84&mb=51.080074~-11.537197~41.358757~15.949318&cardbg=%23F98745&tt=%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9&tsts0=%2526ty%253D30%2526q%253D%2525E3%252583%252595%2525E3%252583%2525A9%2525E3%252583%2525B3%2525E3%252582%2525B9%2526satid%253Did.sid%25253Ac7bfe2de-4f82-e23c-ae42-8544b5b5c0ea%2526vdpid%253D84%2526mb%253D51.080074~-11.537197~41.358757~15.949318%2526cardbg%253D%252523F98745&tstt0=%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9&cp=37.787797~-22.19089&lvl=2.8833034&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260201_Echasse\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%bb%e3%82%a4%e3%82%bf%e3%82%ab%e3%82%b7%e3%82%ae&form=hpcapt&filters=HpDate:\"20260131_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260201_Echasse"
+            },
+            "Ssd": "20260201",
+            "Name": "Echasse",
+            "Market": "JA-JP",
+            "Hash": "1351434706",
+            "FullDateString": "2026 年 2月 月 1 日"
+        }
+    },
+    {
         "startdate": "20260130",
         "fullstartdate": "202601301500",
         "enddate": "20260131",

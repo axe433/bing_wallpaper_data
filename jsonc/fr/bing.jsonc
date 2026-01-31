@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260131",
+        "fullstartdate": "202601312300",
+        "enddate": "20260201",
+        "url": "/th?id=OHR.AlpineMarmots_FR-FR0828345948_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlpineMarmots_FR-FR0828345948",
+        "copyright": "Des marmottes des Alpes, Parc National des Hohe Tauern, Autriche (© Raimund Linke/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=marmotte+des+Alpes&form=hpcapt&filters=HpDate%3a%2220260131_2300%22",
+        "title": "L’ombre d’une promesse",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260131_AlpineMarmots%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cb312a083600c3a7eaf8e8a5196df5be",
+        "hsh": "485812d282151026565a616fe4e236f6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sous les herbes rases des Alpes, la marmotte vit au rythme des saisons, discrète gardienne des hauteurs. Quand l’été dore les prairies, elle s’aventure hors de son terrier, museau frémissant, à l’affût des fleurs et des herbes fraîches. Sa silhouette trapue, ses cris stridents résonnent comme des éclats de vie dans le silence minéral des montagnes. Elle se nourrit avec frénésie, car chaque brin d’herbe constitue une réserve pour l’hiver.",
+                "Image": {
+                    "Url": "/th?id=OHR.AlpineMarmots_FR-FR0828345948_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AlpineMarmots_FR-FR0828345948_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "L'ombre d'une promesse",
+                "Title": "Des marmottes des Alpes, Parc National des Hohe Tauern, Autriche",
+                "Copyright": "© Raimund Linke/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.135559,12.32529/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=47.135559,12.32529;S9;Parc National des Hohe Tauern, Autriche&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Hohe%20Tauern%20National%20Park%2C%20Neukirchen%20am%20Gro%C3%9Fvenediger%2C%20Austria&vdpid=7022403568837591041&ss=ypid.YN9002x14239345296387776524&mb=47.271486~12.081861~46.863558~13.407323&description=Neukirchen%20am%20Gro%C3%9Fvenediger%C2%B7National%20Park&cardbg=%233DB838&dt=1765553400000&tt=Hohe%20Tauern%20National%20Park&tsts0=%2526ty%253D30%2526q%253DHohe%252520Tauern%252520National%252520Park%25252C%252520Neukirchen%252520am%252520Gro%2525C3%25259Fvenediger%25252C%252520Austria%2526vdpid%253D7022403568837591041%2526ss%253Dypid.YN9002x14239345296387776524%2526mb%253D47.271486~12.081861~46.863558~13.407323%2526description%253DNeukirchen%252520am%252520Gro%2525C3%25259Fvenediger%2525C2%2525B7National%252520Park%2526cardbg%253D%2525233DB838%2526dt%253D1765553400000&tstt0=Hohe%20Tauern%20National%20Park&cp=47.050931~9.022723&lvl=5.9060016&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260201_AlpineMarmots\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=marmotte+des+Alpes&form=hpcapt&filters=HpDate:\"20260131_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260201_AlpineMarmots"
+            },
+            "Ssd": "20260201",
+            "Name": "AlpineMarmots",
+            "Market": "FR-FR",
+            "Hash": "0828345948",
+            "FullDateString": "1 févr. 2026"
+        }
+    },
+    {
         "startdate": "20260130",
         "fullstartdate": "202601302300",
         "enddate": "20260131",

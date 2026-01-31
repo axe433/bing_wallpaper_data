@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260131",
+        "fullstartdate": "202601310300",
+        "enddate": "20260201",
+        "url": "/th?id=OHR.EtoshaZebra_PT-BR9612132259_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EtoshaZebra_PT-BR9612132259",
+        "copyright": "Zebras-da-planície, Parque Nacional de Etosha, Namíbia (© Mogens Trolle/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=dia+internacional+da+zebra&form=hpcapt&mkt=pt-br",
+        "title": "Amor à primeira listra",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260131_EtoshaZebra%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8c3dca1ab85439e5395c3cba4229c9ee",
+        "hsh": "1ecdfa5812be15e9b496c3a369c87685",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Alguns animais se camuflam. Outros fazem o oposto: chegam em listras ousadas, como se a natureza tivesse escolhido o contraste máximo de propósito. Em 31 de janeiro, o Dia Internacional da Zebra celebra ícones da estratégia evolutiva.",
+                "Image": {
+                    "Url": "/th?id=OHR.EtoshaZebra_PT-BR9612132259_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EtoshaZebra_PT-BR9612132259_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Amor à primeira listra",
+                "Title": "Zebras-da-planície, Parque Nacional de Etosha, Namíbia",
+                "Copyright": "© Mogens Trolle/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260131_EtoshaZebra\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=dia+internacional+da+zebra&form=hpcapt&filters=HpDate:\"20260131_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260131_EtoshaZebra"
+            },
+            "Ssd": "20260131",
+            "Name": "EtoshaZebra",
+            "Market": "PT-BR",
+            "Hash": "9612132259",
+            "FullDateString": "31 jan. 2026"
+        }
+    },
+    {
         "startdate": "20260130",
         "fullstartdate": "202601300300",
         "enddate": "20260131",
