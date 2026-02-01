@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260201",
+        "fullstartdate": "202602012300",
+        "enddate": "20260202",
+        "url": "/th?id=OHR.BretagneCrepe_FR-FR4282491151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BretagneCrepe_FR-FR4282491151",
+        "copyright": "Le phare de Kermorvan au coucher de soleil, Bretagne, France (© Fisfra/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Phare+Kermorvan&form=hpcapt&filters=HpDate%3a%2220260201_2300%22",
+        "title": "Plutôt beurre sucre ou chocolat ?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260201_BretagneCrepe%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ec81f80b74450ebb0cd5fa87c0e8e9db",
+        "hsh": "8010f647712adebd44697f9e0ff256ec",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Chaque 2 février, la Chandeleur vient éclairer l’hiver d’une promesse : celle des jours qui s’allongent et du printemps qui approche. Jadis, on allumait des cierges pour protéger les récoltes et célébrer la lumière renaissante. Aujourd’hui, ce rituel se transforme en un geste gourmand : faire sauter des crêpes, rondes et dorées comme des soleils.",
+                "Image": {
+                    "Url": "/th?id=OHR.BretagneCrepe_FR-FR4282491151_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BretagneCrepe_FR-FR4282491151_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Plutôt beurre sucre ou chocolat ?",
+                "Title": "Le phare de Kermorvan au coucher de soleil, Bretagne, France",
+                "Copyright": "© Fisfra/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.36198,-4.789906/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=48.36198,-4.789906;S9;Phare de Kermovan, Bretagne, France&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Phare%20de%20Kermorvan%2C%20Route%20de%20la%20Presqu%27%C3%8Ele%20Kermorvan%2C%20Le%20Conquet%2C%20France&ss=ypid.YNA9F760FDA460C967&mb=48.366414~-4.799749~48.357547~-4.780072&description=Route%20de%20la%20Presqu%27%C3%8Ele%20Kermorvan%2C%2029217%20Le%20Conquet%C2%B7Attractions%20et%20activit%C3%A9s&cardbg=%23219AB6&dt=1765976400000&tt=Phare%20de%20Kermorvan&tsts0=%2526ty%253D18%2526q%253DPhare%252520de%252520Kermorvan%25252C%252520Route%252520de%252520la%252520Presqu%252527%2525C3%25258Ele%252520Kermorvan%25252C%252520Le%252520Conquet%25252C%252520France%2526ss%253Dypid.YNA9F760FDA460C967%2526mb%253D48.366414~-4.799749~48.357547~-4.780072%2526description%253DRoute%252520de%252520la%252520Presqu%252527%2525C3%25258Ele%252520Kermorvan%25252C%25252029217%252520Le%252520Conquet%2525C2%2525B7Attractions%252520et%252520activit%2525C3%2525A9s%2526cardbg%253D%252523219AB6%2526dt%253D1765976400000&tstt0=Phare%20de%20Kermorvan&cp=48.360111~-4.796735&lvl=15.113023&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260202_BretagneCrepe\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Phare+Kermorvan&form=hpcapt&filters=HpDate:\"20260201_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260202_BretagneCrepe"
+            },
+            "Ssd": "20260202",
+            "Name": "BretagneCrepe",
+            "Market": "FR-FR",
+            "Hash": "4282491151",
+            "FullDateString": "2 févr. 2026"
+        }
+    },
+    {
         "startdate": "20260131",
         "fullstartdate": "202601312300",
         "enddate": "20260201",

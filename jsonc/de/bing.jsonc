@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260201",
+        "fullstartdate": "202602012300",
+        "enddate": "20260202",
+        "url": "/th?id=OHR.AlpineMarmots_DE-DE4432571270_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlpineMarmots_DE-DE4432571270",
+        "copyright": "Alpenmurmeltiere, Nationalpark Hohe Tauern, Österreich (© Raimund Linke/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Alpenmurmeltiere&form=hpcapt&filters=HpDate%3a%2220260201_2300%22",
+        "title": "Neugieriges Gemurmel",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260201_AlpineMarmots%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cb312a083600c3a7eaf8e8a5196df5be",
+        "hsh": "80399661977cfe8ec1c9c00622ebdade",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Vor der beeindruckenden Bergkulisse des Nationalparks Hohe Tauern in Österreich zeigen sich die Alpenmurmeltiere von ihrer neugierigen Seite. Die geselligen Nagetiere verbringen den Sommer auf alpinen Wiesen, wo sie Nahrung sammeln und im Familienverband leben. Den Winter über halten sie in ihren weit verzweigten Bauen eine mehrmonatige Winterruhe. Sobald die ersten warmen Tage einsetzen, erscheinen sie wieder an der Oberfläche. Dieses Naturereignis gilt vielerorts als stiller Hinweis auf den nahenden Frühling.",
+                "Image": {
+                    "Url": "/th?id=OHR.AlpineMarmots_DE-DE4432571270_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AlpineMarmots_DE-DE4432571270_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Neugieriges Gemurmel",
+                "Title": "Alpenmurmeltiere, Nationalpark Hohe Tauern, Österreich",
+                "Copyright": "© Raimund Linke/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.135559,12.32529/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=47.135559,12.32529;S9;Alpenmurmeltiere, Nationalpark Hohe Tauern, Österreich&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Hohe%20Tauern%20National%20Park%2C%20Neukirchen%20am%20Gro%C3%9Fvenediger%2C%20Austria&vdpid=7022403568837591041&ss=ypid.YN9002x14239345296387776524&mb=47.271486~12.081861~46.863558~13.407323&description=Neukirchen%20am%20Gro%C3%9Fvenediger%C2%B7National%20Park&cardbg=%233DB838&dt=1765553400000&tt=Hohe%20Tauern%20National%20Park&tsts0=%2526ty%253D30%2526q%253DHohe%252520Tauern%252520National%252520Park%25252C%252520Neukirchen%252520am%252520Gro%2525C3%25259Fvenediger%25252C%252520Austria%2526vdpid%253D7022403568837591041%2526ss%253Dypid.YN9002x14239345296387776524%2526mb%253D47.271486~12.081861~46.863558~13.407323%2526description%253DNeukirchen%252520am%252520Gro%2525C3%25259Fvenediger%2525C2%2525B7National%252520Park%2526cardbg%253D%2525233DB838%2526dt%253D1765553400000&tstt0=Hohe%20Tauern%20National%20Park&cp=47.050931~9.022723&lvl=5.9060016&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260202_AlpineMarmots\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Alpenmurmeltiere&form=hpcapt&filters=HpDate:\"20260201_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260202_AlpineMarmots"
+            },
+            "Ssd": "20260202",
+            "Name": "AlpineMarmots",
+            "Market": "DE-DE",
+            "Hash": "4432571270",
+            "FullDateString": "2. Feb.. 2026"
+        }
+    },
+    {
         "startdate": "20260131",
         "fullstartdate": "202601312300",
         "enddate": "20260201",

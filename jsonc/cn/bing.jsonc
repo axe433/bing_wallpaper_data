@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260201",
+        "fullstartdate": "202602011600",
+        "enddate": "20260202",
+        "url": "/th?id=OHR.AlpineMarmots_ZH-CN6323637910_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlpineMarmots_ZH-CN6323637910",
+        "copyright": "阿尔卑斯山土拨鼠, 霍赫陶恩国家公园, 奥地利 (© Raimund Linke/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E9%98%BF%E5%B0%94%E5%8D%91%E6%96%AF%E5%B1%B1%E5%9C%9F%E6%8B%A8%E9%BC%A0&form=hpcapt&mkt=zh-cn",
+        "title": "影子的承诺",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260201_AlpineMarmots%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cb312a083600c3a7eaf8e8a5196df5be",
+        "hsh": "038d78f6d2a259e8ca9e24a650d85895",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "每年2月2日，全世界的目光都会投向那只喜欢从洞里探出头的小毛球——土拨鼠。传说如果这位“小预报员”看见了自己的影子，冬天就会再多待六周；如果没看到，春天就快到了。这项古怪又有趣的传统，让一只小小的啮齿动物摇身一变，成了名副其实的“气象明星”。",
+                "Image": {
+                    "Url": "/th?id=OHR.AlpineMarmots_ZH-CN6323637910_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AlpineMarmots_ZH-CN6323637910_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "影子的承诺",
+                "Title": "阿尔卑斯山土拨鼠, 霍赫陶恩国家公园, 奥地利",
+                "Copyright": "© Raimund Linke/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "土拨鼠靠脸颊上的气味腺来识别同伴，雄性土拨鼠还会利用这些气味腺来标记自己的领地范围。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260202_AlpineMarmots\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e9%98%bf%e5%b0%94%e5%8d%91%e6%96%af%e5%b1%b1%e5%9c%9f%e6%8b%a8%e9%bc%a0&form=hpcapt&filters=HpDate:\"20260201_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260202_AlpineMarmots"
+            },
+            "Ssd": "20260202",
+            "Name": "AlpineMarmots",
+            "Market": "ZH-CN",
+            "Hash": "6323637910",
+            "FullDateString": "2026 2月 2"
+        }
+    },
+    {
         "startdate": "20260131",
         "fullstartdate": "202601311600",
         "enddate": "20260201",

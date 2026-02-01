@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260201",
+        "fullstartdate": "202602011500",
+        "enddate": "20260202",
+        "url": "/th?id=OHR.AlpineMarmots_JA-JP1553270450_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlpineMarmots_JA-JP1553270450",
+        "copyright": "アルプスマーモット, オーストリア (© Raimund Linke/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%9B%E3%83%83%E3%82%B0%E3%83%87%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220260201_1500%22",
+        "title": "今日はグラウンドホッグデー",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260201_AlpineMarmots%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cb312a083600c3a7eaf8e8a5196df5be",
+        "hsh": "161f2f4f0a8eae54e30edd249079fb16",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日、2 月 2 日はグラウンドホッグデー。主に北米で行われる、春の訪れを占う日です。冬眠から目覚めたグラウンドホッグが巣穴から出たとき、自分の影を見て驚いて巣穴に戻れば、その後もしばらく冬が続くとされ、影を見ずに外にとどまれば、春の到来が近いとされています…",
+                "Image": {
+                    "Url": "/th?id=OHR.AlpineMarmots_JA-JP1553270450_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AlpineMarmots_JA-JP1553270450_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日はグラウンドホッグデー",
+                "Title": "アルプスマーモット, オーストリア",
+                "Copyright": "© Raimund Linke/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.135559,12.32529/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=47.135559,12.32529;S9;ホーエ・タウエルン国立公園, オーストリア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Hohe%20Tauern%20National%20Park%2C%20Neukirchen%20am%20Gro%C3%9Fvenediger%2C%20Austria&vdpid=7022403568837591041&ss=ypid.YN9002x14239345296387776524&mb=47.271486~12.081861~46.863558~13.407323&description=Neukirchen%20am%20Gro%C3%9Fvenediger%C2%B7National%20Park&cardbg=%233DB838&dt=1765553400000&tt=Hohe%20Tauern%20National%20Park&tsts0=%2526ty%253D30%2526q%253DHohe%252520Tauern%252520National%252520Park%25252C%252520Neukirchen%252520am%252520Gro%2525C3%25259Fvenediger%25252C%252520Austria%2526vdpid%253D7022403568837591041%2526ss%253Dypid.YN9002x14239345296387776524%2526mb%253D47.271486~12.081861~46.863558~13.407323%2526description%253DNeukirchen%252520am%252520Gro%2525C3%25259Fvenediger%2525C2%2525B7National%252520Park%2526cardbg%253D%2525233DB838%2526dt%253D1765553400000&tstt0=Hohe%20Tauern%20National%20Park&cp=47.050931~9.022723&lvl=5.9060016&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260202_AlpineMarmots\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%b0%e3%83%a9%e3%82%a6%e3%83%b3%e3%83%89%e3%83%9b%e3%83%83%e3%82%b0%e3%83%87%e3%83%bc&form=hpcapt&filters=HpDate:\"20260201_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260202_AlpineMarmots"
+            },
+            "Ssd": "20260202",
+            "Name": "AlpineMarmots",
+            "Market": "JA-JP",
+            "Hash": "1553270450",
+            "FullDateString": "2026 年 2月 月 2 日"
+        }
+    },
+    {
         "startdate": "20260131",
         "fullstartdate": "202601311500",
         "enddate": "20260201",
