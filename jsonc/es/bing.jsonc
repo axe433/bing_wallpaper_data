@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260202",
+        "fullstartdate": "202602022300",
+        "enddate": "20260203",
+        "url": "/th?id=OHR.FanetteIsland_ES-ES4459822597_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FanetteIsland_ES-ES4459822597",
+        "copyright": "Bahía Esmeralda e isla Fannette, lago Tahoe, California, EE. UU. (© Bill Stevenson/Cavan Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Isla+Fannette&form=hpcapt&filters=HpDate%3a%2220260202_2300%22",
+        "title": "Donde el tiempo se detiene",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260202_FanetteIsland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cd28269de13c8d65e4288614d55b72d7",
+        "hsh": "eb4a7cebd15614cb2ba677245b36f4a1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En la imagen de hoy descubrimos la Bahía Esmeralda y la isla Fannette, en el lago Tahoe, en California (Estados Unidos). Este enclave destaca por el contraste entre el azul profundo del agua y las laderas cubiertas de pinos que descienden hasta la orilla. En lo alto de la pequeña isla se conservan las ruinas de la antigua \"Casa de té\" construida en los años veinte, un pequeño refugio de piedra que ofrecía a sus visitantes una vista privilegiada del entorno. El relieve abrupto y la claridad del agua crean una sensación de calma que invita a imaginar cómo era la vida en este rincón remoto cuando aún se llegaba a la isla en pequeñas embarcaciones a remo o motor. El ambiente alpino y el silencio que envuelve la escena transmiten una belleza que parece suspendida en el tiempo.",
+                "Image": {
+                    "Url": "/th?id=OHR.FanetteIsland_ES-ES4459822597_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FanetteIsland_ES-ES4459822597_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Donde el tiempo se detiene",
+                "Title": "Bahía Esmeralda e isla Fannette, lago Tahoe, California, EE. UU.",
+                "Copyright": "© Bill Stevenson/Cavan Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260203_FanetteIsland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Isla+Fannette&form=hpcapt&filters=HpDate:\"20260202_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260203_FanetteIsland"
+            },
+            "Ssd": "20260203",
+            "Name": "FanetteIsland",
+            "Market": "ES-ES",
+            "Hash": "4459822597",
+            "FullDateString": "3 de feb. de 2026"
+        }
+    },
+    {
         "startdate": "20260201",
         "fullstartdate": "202602012300",
         "enddate": "20260202",

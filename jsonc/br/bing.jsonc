@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260202",
+        "fullstartdate": "202602020300",
+        "enddate": "20260203",
+        "url": "/th?id=OHR.AlpineMarmots_PT-BR0573834201_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlpineMarmots_PT-BR0573834201",
+        "copyright": "Marmotas-alpinas, Parque Nacional Hohe Tauern, Áustria (© Raimund Linke/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=dia+da+marmota&form=hpcapt&mkt=pt-br",
+        "title": "O veredito da marmota",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260202_AlpineMarmots%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cb312a083600c3a7eaf8e8a5196df5be",
+        "hsh": "eb460747ff7bcfd358349638dfbb9207",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Na Pensilvânia, Estados Unidos, o 2 de fevereiro transforma uma marmota em profeta climático. No Dia da Marmota, celebrado no auge do inverno do Hemisfério Norte, Punxsutawney Phil sai da toca e, segundo a lenda, sua sombra decide se o frio vai se estender ou se a primavera está chegando. A tradição começou na Europa, onde ouriços e texugos eram os relógios naturais das estações. Imigrantes alemães se adaptaram ao animal local ao chegarem às Américas e hoje, o evento reúne até 40 mil pessoas, com milhões acompanhando as transmissões ao vivo que fazem do pequeno roedor uma estrela.",
+                "Image": {
+                    "Url": "/th?id=OHR.AlpineMarmots_PT-BR0573834201_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AlpineMarmots_PT-BR0573834201_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O veredito da marmota",
+                "Title": "Marmotas-alpinas, Parque Nacional Hohe Tauern, Áustria",
+                "Copyright": "© Raimund Linke/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260202_AlpineMarmots\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=dia+da+marmota&form=hpcapt&filters=HpDate:\"20260202_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260202_AlpineMarmots"
+            },
+            "Ssd": "20260202",
+            "Name": "AlpineMarmots",
+            "Market": "PT-BR",
+            "Hash": "0573834201",
+            "FullDateString": "2 fev. 2026"
+        }
+    },
+    {
         "startdate": "20260201",
         "fullstartdate": "202602010300",
         "enddate": "20260202",

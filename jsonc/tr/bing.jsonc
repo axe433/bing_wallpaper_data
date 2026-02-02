@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260202",
+        "fullstartdate": "202602020800",
+        "enddate": "20260203",
+        "url": "/th?id=OHR.AlpineMarmots_ROW2437915597_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlpineMarmots_ROW2437915597",
+        "copyright": "Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Alpine+marmots&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260202_AlpineMarmots%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cb312a083600c3a7eaf8e8a5196df5be",
+        "hsh": "c8c18282d26d76f3c9fb6452c09cefd9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Alpine marmots are among the most charismatic inhabitants of the central European mountains. They stand out for their social life and their ability to adapt to the harshest winters. They live in colonies that cooperate with each other and use sharp whistles to warn of predators. Their bodies are robust, and they have thick coats of fur that protect them from extreme cold. During winter, they hibernate for several months thanks to a remarkable drop in body temperature. They dig extensive underground tunnels where they take shelter and raise their young. In today's image, we see alpine marmots in Hohe Tauern National Park in Austria, a landscape where this animal has become a symbol of high mountain life. Observing them in the wild allows us to admire their social behaviour and survival skills, connecting visitors with nature in its most authentic state.",
+                "Image": {
+                    "Url": "/th?id=OHR.AlpineMarmots_ROW2437915597_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AlpineMarmots_ROW2437915597_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Alpine marmots, Hohe Tauern National Park, Austria",
+                "Copyright": "© Raimund Linke/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260202_AlpineMarmots\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Alpine+marmots&form=hpcapt&filters=HpDate:\"20260202_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260202_AlpineMarmots"
+            },
+            "Ssd": "20260202",
+            "Name": "AlpineMarmots",
+            "Market": "ROW",
+            "Hash": "2437915597",
+            "FullDateString": "2 Şub, 2026"
+        }
+    },
+    {
         "startdate": "20260201",
         "fullstartdate": "202602010800",
         "enddate": "20260202",
