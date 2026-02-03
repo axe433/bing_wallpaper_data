@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260203",
+        "fullstartdate": "202602032300",
+        "enddate": "20260204",
+        "url": "/th?id=OHR.BigGardenBirdwatch2026_FR-FR1936767123_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BigGardenBirdwatch2026_FR-FR1936767123",
+        "copyright": "Le milan royal sous la neige (© Carl Mckie/500px/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=milan+royal&form=hpcapt&filters=HpDate%3a%2220260203_2300%22",
+        "title": "La grâce incarnée",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260203_BigGardenBirdwatch2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bb6932c117a0899cff91719873c4e1f7",
+        "hsh": "8c124596307d38b81aba28118c5b20b1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dans notre ciel d’Europe, une silhouette élégante fend l’air : le milan royal. Son plumage brun roux, sa tête claire et sa queue caractéristique en forme de triangle en font un maître du vol. Avec ses larges ailes, il glisse au-dessus des champs tout en souplesse, décrivant des cercles lents, comme suspendu au vent.",
+                "Image": {
+                    "Url": "/th?id=OHR.BigGardenBirdwatch2026_FR-FR1936767123_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BigGardenBirdwatch2026_FR-FR1936767123_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La grâce incarnée",
+                "Title": "Le milan royal sous la neige",
+                "Copyright": "© Carl Mckie/500px/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Contrairement à ce qu’on pourrait croire, les milans royaux ne tuent pas les agneaux. Leurs griffes ont tout juste assez de force pour attraper un animal de la taille d’un petit lapin.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260204_BigGardenBirdwatch2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=milan+royal&form=hpcapt&filters=HpDate:\"20260203_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260204_BigGardenBirdwatch2026"
+            },
+            "Ssd": "20260204",
+            "Name": "BigGardenBirdwatch2026",
+            "Market": "FR-FR",
+            "Hash": "1936767123",
+            "FullDateString": "4 févr. 2026"
+        }
+    },
+    {
         "startdate": "20260202",
         "fullstartdate": "202602022300",
         "enddate": "20260203",

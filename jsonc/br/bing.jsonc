@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260203",
+        "fullstartdate": "202602030300",
+        "enddate": "20260204",
+        "url": "/th?id=OHR.FanetteIsland_PT-BR0814646829_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FanetteIsland_PT-BR0814646829",
+        "copyright": "Emerald Bay e Ilha Fanette, Lake Tahoe, Califórnia, Estados Unidos (© Bill Stevenson/Cavan Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lake+Tahoe+na+Calif%C3%B3rnia&form=hpcapt&mkt=pt-br",
+        "title": "Os segredos de Lake Tahoe",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260203_FanetteIsland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cd28269de13c8d65e4288614d55b72d7",
+        "hsh": "32e5332296a2c5aa1f11176687dc0fbd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Você sabe que um lugar é especial quando sua geologia, sua história e suas lendas disputam pela nossa atenção. Emerald Bay, cantinho icônico de Lake Tahoe, na divisa entre Califórnia e Nevada, hipnotiza com seu azul profundo e tons esmeralda nas áreas rasas. Formada por falhas geológicas e esculpida por geleiras na Era do Gelo, Tahoe é uma das bacias de água doce mais profundas dos Estados Unidos. Sob a superfície, restos de barcos e balsas naufragados permanecem preservados graças às águas frias e ao baixo nível de oxigênio, enquanto Ilha Fannette se ergue como ponto firme de rocha e vegetação no centro da baía.",
+                "Image": {
+                    "Url": "/th?id=OHR.FanetteIsland_PT-BR0814646829_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FanetteIsland_PT-BR0814646829_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Os segredos de Lake Tahoe",
+                "Title": "Emerald Bay e Ilha Fanette, Lake Tahoe, Califórnia, Estados Unidos",
+                "Copyright": "© Bill Stevenson/Cavan Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260203_FanetteIsland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lake+Tahoe+na+Calif%c3%b3rnia&form=hpcapt&filters=HpDate:\"20260203_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260203_FanetteIsland"
+            },
+            "Ssd": "20260203",
+            "Name": "FanetteIsland",
+            "Market": "PT-BR",
+            "Hash": "0814646829",
+            "FullDateString": "3 fev. 2026"
+        }
+    },
+    {
         "startdate": "20260202",
         "fullstartdate": "202602020300",
         "enddate": "20260203",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260203",
+        "fullstartdate": "202602032300",
+        "enddate": "20260204",
+        "url": "/th?id=OHR.NeuschwansteinWinter_ES-ES8143316489_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NeuschwansteinWinter_ES-ES8143316489",
+        "copyright": "Castillo de Neuschwanstein, Baviera, Alemania (© www.fredconcha.com @ All Rights Reserved/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Castillo+de+Neuschwanstein&form=hpcapt&filters=HpDate%3a%2220260203_2300%22",
+        "title": "La joya de Baviera",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260203_NeuschwansteinWinter%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "189d053568cdfe44f55b8c1ad48a2991",
+        "hsh": "05f72c58eb8995d2fcca503d73e3bf45",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La historia del Castillo de Neuschwanstein comienza con los sueños del rey Luis II de Baviera, quien imaginó un retiro inspirado en leyendas medievales y grandiosas óperas. Rodeado de montañas y bosques, el castillo se alza con delicadas torres y un intrincado trabajo en piedra que parece flotar sobre el valle. Aunque su construcción comenzó en el siglo XIX, el palacio nunca se completó del todo, lo que contribuye a su aura de misterio.",
+                "Image": {
+                    "Url": "/th?id=OHR.NeuschwansteinWinter_ES-ES8143316489_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NeuschwansteinWinter_ES-ES8143316489_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "La joya de Baviera",
+                "Title": "Castillo de Neuschwanstein, Baviera, Alemania",
+                "Copyright": "© www.fredconcha.com @ All Rights Reserved/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260204_NeuschwansteinWinter\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Castillo+de+Neuschwanstein&form=hpcapt&filters=HpDate:\"20260203_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260204_NeuschwansteinWinter"
+            },
+            "Ssd": "20260204",
+            "Name": "NeuschwansteinWinter",
+            "Market": "ES-ES",
+            "Hash": "8143316489",
+            "FullDateString": "4 de feb. de 2026"
+        }
+    },
+    {
         "startdate": "20260202",
         "fullstartdate": "202602022300",
         "enddate": "20260203",

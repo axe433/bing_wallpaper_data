@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260203",
+        "fullstartdate": "202602031500",
+        "enddate": "20260204",
+        "url": "/th?id=OHR.Risshun2026_JA-JP6581085415_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Risshun2026_JA-JP6581085415",
+        "copyright": "梅の枝に止まるメジロ (© naotoshinkai/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E6%A2%85%E3%81%AE%E6%9E%9D%E3%81%AB%E6%AD%A2%E3%81%BE%E3%82%8B%E3%83%A1%E3%82%B8%E3%83%AD&form=hpcapt&filters=HpDate%3a%2220260203_1500%22",
+        "title": "今日は立春",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260203_Risshun2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d744eef5dea48bd4220dd66c7d06acd0",
+        "hsh": "f36005069481b24c7866e9b42154113b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 2 月 4 日は立春。二十四節気では春の始まりとされ、1 年の節目ともいえる日です。そして画像は、梅の枝に止まるメジロです。「チー、チー」と鳴きながら、庭木や公園の梅のつぼみを軽やかに飛び回り、春の気配をいち早く知らせてくれます…",
+                "Image": {
+                    "Url": "/th?id=OHR.Risshun2026_JA-JP6581085415_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Risshun2026_JA-JP6581085415_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日は立春",
+                "Title": "梅の枝に止まるメジロ",
+                "Copyright": "© naotoshinkai/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "古来、春を告げる言葉として「梅に鶯」と言われますが、実際に梅や桜にやって来るのはウグイスではなくメジロです。",
+                    "LinkUrl": "/search?q=%e3%82%a6%e3%82%b0%e3%82%a4%e3%82%b9%e3%81%a8%e3%83%a1%e3%82%b8%e3%83%ad%e3%81%ae%e9%81%95%e3%81%84&form=hpvsfa",
+                    "LinkText": "ウグイスとメジロの違いは？"
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260204_Risshun2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e6%a2%85%e3%81%ae%e6%9e%9d%e3%81%ab%e6%ad%a2%e3%81%be%e3%82%8b%e3%83%a1%e3%82%b8%e3%83%ad&form=hpcapt&filters=HpDate:\"20260203_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260204_Risshun2026"
+            },
+            "Ssd": "20260204",
+            "Name": "Risshun2026",
+            "Market": "JA-JP",
+            "Hash": "6581085415",
+            "FullDateString": "2026 年 2月 月 4 日"
+        }
+    },
+    {
         "startdate": "20260202",
         "fullstartdate": "202602021500",
         "enddate": "20260203",
@@ -20,8 +69,8 @@
             "ImageContent": {
                 "Description": "米国で最も深い湖の一つ、タホ湖。カリフォルニア州とネバダ州の境界、シエラネバダ山脈の山中に抱かれたこの湖は、氷河期の地殻変動と浸食によって誕生しました。何世代にもわたり、先住民族ワショー族がこの地で暮らし、魚釣りや採集を行っていました。その後、開拓者や鉱山労働者が訪れるようになり、徐々に開発が進み、やがて世界屈指のリゾート地へと発展しました…",
                 "Image": {
-                    "Url": "/th?id=OHR.FanetteIsland_JA-JP1861312549_1920x1080.webp",
-                    "Wallpaper": "/th?id=OHR.FanetteIsland_JA-JP1861312549_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Url": "/th?id=OHR.FanetteIsland_JA-JP9866283970_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FanetteIsland_JA-JP9866283970_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
                     "Downloadable": true
                 },
                 "Headline": "碧き湖に浮かぶ小島",
@@ -44,7 +93,7 @@
             "Ssd": "20260203",
             "Name": "FanetteIsland",
             "Market": "JA-JP",
-            "Hash": "1861312549",
+            "Hash": "9866283970",
             "FullDateString": "2026 年 2月 月 3 日"
         }
     },
