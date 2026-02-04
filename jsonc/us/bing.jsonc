@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260204",
+        "fullstartdate": "202602040800",
+        "enddate": "20260205",
+        "url": "/th?id=OHR.ParksGlass_EN-US0280057691_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ParksGlass_EN-US0280057691",
+        "copyright": "Rosa Parks in stained glass window, Shorter Community African Methodist Episcopal Church, Denver (© Cyrus McCrimmon/The Denver Post via Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Rosa+Parks&form=hpcapt&filters=HpDate%3a%2220260204_0800%22",
+        "title": "The face of change",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260204_ParksGlass%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "ded081a9091ab29fb3f37e18b03eb86a",
+        "hsh": "8a327321f43f5d3b62cd340f594277e2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Picture this: it's 1955, a winter evening in Montgomery, Alabama. A seamstress heads home after work. The bus fills with other passengers. The driver demands she give up her seat. Rosa Parks wasn't trying to make waves, but her refusal set off a chain reaction that would propel the civil rights movement into a new phase. Raised in rural Alabama, she grew up under segregation and later worked with the NAACP as a secretary and investigator, gathering testimony of racial violence and discrimination. By the time she declined to move, she was already a committed activist.",
+                "Image": {
+                    "Url": "/th?id=OHR.ParksGlass_EN-US0280057691_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ParksGlass_EN-US0280057691_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "The face of change",
+                "Title": "Rosa Parks in stained glass window, Shorter Community African Methodist Episcopal Church, Denver",
+                "Copyright": "© Cyrus McCrimmon/The Denver Post via Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.76112,-104.942085/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=39.76112,-104.942085;S9;Shorter%20Community%20African%20Methodist%20Episcopal%20Church%2C%20Denve&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Shorter%20Community%20African%20Methodist%20Episcopal%20Church%2C%20Denve&ss=ypid.YN754A5D6B3E70E09A&mb=39.766185~-104.954967~39.756041~-104.929218&description=3100%20Richard%20Allen%20Ct%2C%20Denver%2C%20CO%2080205%C2%B7Religious%20organization&cardbg=%23219AB6&dt=1765283400000&tt=Shorter%20Church%20-%20Annual%20Conference&tsts0=%2526ty%253D18%2526q%253DShorter%252520Community%252520African%252520Methodist%252520Episcopal%252520Church%25252C%252520Denve%2526ss%253Dypid.YN754A5D6B3E70E09A%2526mb%253D39.766185~-104.954967~39.756041~-104.929218%2526description%253D3100%252520Richard%252520Allen%252520Ct%25252C%252520Denver%25252C%252520CO%25252080205%2525C2%2525B7Religious%252520organization%2526cardbg%253D%252523219AB6%2526dt%253D1765283400000&tstt0=Shorter%20Church%20-%20Annual%20Conference&cp=35.816932~-114.312941&lvl=5.328529&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260204_ParksGlass\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Rosa+Parks&form=hpcapt&filters=HpDate:\"20260204_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260204_ParksGlass"
+            },
+            "Ssd": "20260204",
+            "Name": "ParksGlass",
+            "Market": "EN-US",
+            "Hash": "0280057691",
+            "FullDateString": "Feb 4, 2026"
+        }
+    },
+    {
         "startdate": "20260203",
         "fullstartdate": "202602030800",
         "enddate": "20260204",

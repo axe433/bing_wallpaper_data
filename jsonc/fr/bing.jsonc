@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260204",
+        "fullstartdate": "202602042300",
+        "enddate": "20260205",
+        "url": "/th?id=OHR.MaltaSalt_FR-FR2211478643_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MaltaSalt_FR-FR2211478643",
+        "copyright": "Les marais salants de Gozo, Malte (© Marius Roman/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Gozo+Malte&form=hpcapt&filters=HpDate%3a%2220260204_2300%22",
+        "title": "L’art sans égal des vagues",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260204_MaltaSalt%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5d07a90a6bb087ea121c3b9ff0d0b3a5",
+        "hsh": "82763cf368f3eab5d88012f1eb34aa0d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Imaginez un rivage où l’histoire des vagues s’imprime à chaque marée. À Xwejni Bay, sur l’île de Gozo, la seconde île de l’archipel maltais, le littoral calcaire se transforme en un damier de bassins taillés à la main, vestiges d’un savoir-faire transmis depuis des siècles. À chaque marée, l’eau s’y dépose, puis le soleil méditerranéen opère sa magie : il évapore doucement l’eau, laissant derrière lui des cristaux de sel purs.",
+                "Image": {
+                    "Url": "/th?id=OHR.MaltaSalt_FR-FR2211478643_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MaltaSalt_FR-FR2211478643_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "L'art sans égal des vagues",
+                "Title": "Les marais salants de Gozo, Malte",
+                "Copyright": "© Marius Roman/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.045,14.25889/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=36.045,14.25889;S9;Gozo, Malte&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Gozo%2C%20Malta&satid=id.sid%3A15293388-5090-8d1a-3181-b9833eaa59db&vdpid=7220983366512803841&mb=36.082203~14.174616~36.011429~14.345413&cardbg=%23F98745&dt=1765283400000&tt=Gozo%2C%20Malta&tsts0=%2526ty%253D30%2526q%253DGozo%25252C%252520Malta%2526satid%253Did.sid%25253A15293388-5090-8d1a-3181-b9833eaa59db%2526vdpid%253D7220983366512803841%2526mb%253D36.082203~14.174616~36.011429~14.345413%2526cardbg%253D%252523F98745%2526dt%253D1765283400000&tstt0=Gozo%2C%20Malta&cp=36.137812~3.062394&lvl=4.6&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260205_MaltaSalt\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Gozo+Malte&form=hpcapt&filters=HpDate:\"20260204_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260205_MaltaSalt"
+            },
+            "Ssd": "20260205",
+            "Name": "MaltaSalt",
+            "Market": "FR-FR",
+            "Hash": "2211478643",
+            "FullDateString": "5 févr. 2026"
+        }
+    },
+    {
         "startdate": "20260203",
         "fullstartdate": "202602032300",
         "enddate": "20260204",

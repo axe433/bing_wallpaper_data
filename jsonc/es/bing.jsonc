@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260204",
+        "fullstartdate": "202602042300",
+        "enddate": "20260205",
+        "url": "/th?id=OHR.MaltaSalt_ES-ES5429332602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MaltaSalt_ES-ES5429332602",
+        "copyright": "Estanques de evaporación de sal en la isla de Gozo, Malta (© Marius Roman/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Gozo+Malta&form=hpcapt&filters=HpDate%3a%2220260204_2300%22",
+        "title": "Atrapados en una cuadrícula",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260204_MaltaSalt%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5d07a90a6bb087ea121c3b9ff0d0b3a5",
+        "hsh": "9acde55fd8db88777e9830149400da1d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Los estanques de evaporación de sal de Gozo conforman uno de los paisajes más singulares de Malta. Estas estructuras cuadradas, talladas en la roca costera, llevan utilizándose desde épocas remotas y aún conservan un marcado carácter artesanal. El proceso depende completamente de la combinación de sol y viento, que permite que el agua del mar se evapore lentamente y deje tras de sí una fina capa de cristales de sal. Pasear por esta zona es como recorrer un mosaico natural que cambia de tonalidad según la luz del día.",
+                "Image": {
+                    "Url": "/th?id=OHR.MaltaSalt_ES-ES5429332602_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MaltaSalt_ES-ES5429332602_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Atrapados en una cuadrícula",
+                "Title": "Estanques de evaporación de sal en la isla de Gozo, Malta",
+                "Copyright": "© Marius Roman/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260205_MaltaSalt\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Gozo+Malta&form=hpcapt&filters=HpDate:\"20260204_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260205_MaltaSalt"
+            },
+            "Ssd": "20260205",
+            "Name": "MaltaSalt",
+            "Market": "ES-ES",
+            "Hash": "5429332602",
+            "FullDateString": "5 de feb. de 2026"
+        }
+    },
+    {
         "startdate": "20260203",
         "fullstartdate": "202602032300",
         "enddate": "20260204",

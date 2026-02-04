@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260204",
+        "fullstartdate": "202602041500",
+        "enddate": "20260205",
+        "url": "/th?id=OHR.MaltaSalt_JA-JP9601510868_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MaltaSalt_JA-JP9601510868",
+        "copyright": "ゴゾ島, マルタ共和国 (© Marius Roman/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%B4%E3%82%BE%E5%B3%B6%E3%81%AE%E5%A1%A9%E7%94%B0&form=hpcapt&filters=HpDate%3a%2220260204_1500%22",
+        "title": "海岸沿いに広がる伝統的な塩田",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260204_MaltaSalt%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5d07a90a6bb087ea121c3b9ff0d0b3a5",
+        "hsh": "54a71b65b327c9df51751e12bafa22c2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "地中海の中心に浮かぶマルタ共和国。その第 2 の島であるゴゾ島は、マルタ本島からフェリーで約 25 分とアクセスが良く、素朴で自然豊かな雰囲気が魅力です。美しい海辺の村や歴史的なチタデル要塞、「奇跡の声」で人々の病を癒したといわれるタ・ピーヌ教会など、見どころが多くあります…",
+                "Image": {
+                    "Url": "/th?id=OHR.MaltaSalt_JA-JP9601510868_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MaltaSalt_JA-JP9601510868_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "海岸沿いに広がる伝統的な塩田",
+                "Title": "ゴゾ島, マルタ共和国",
+                "Copyright": "© Marius Roman/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.047119,14.252599/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=36.047119,14.252599;S9;ゴゾ島, マルタ共和国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Gozo%2C%20Malta&satid=id.sid%3A15293388-5090-8d1a-3181-b9833eaa59db&vdpid=7220983366512803841&mb=36.082203~14.174616~36.011429~14.345413&cardbg=%23F98745&dt=1765283400000&tt=Gozo%2C%20Malta&tsts0=%2526ty%253D30%2526q%253DGozo%25252C%252520Malta%2526satid%253Did.sid%25253A15293388-5090-8d1a-3181-b9833eaa59db%2526vdpid%253D7220983366512803841%2526mb%253D36.082203~14.174616~36.011429~14.345413%2526cardbg%253D%252523F98745%2526dt%253D1765283400000&tstt0=Gozo%2C%20Malta&cp=36.137812~3.062394&lvl=4.6&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260205_MaltaSalt\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%b4%e3%82%be%e5%b3%b6%e3%81%ae%e5%a1%a9%e7%94%b0&form=hpcapt&filters=HpDate:\"20260204_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260205_MaltaSalt"
+            },
+            "Ssd": "20260205",
+            "Name": "MaltaSalt",
+            "Market": "JA-JP",
+            "Hash": "9601510868",
+            "FullDateString": "2026 年 2月 月 5 日"
+        }
+    },
+    {
         "startdate": "20260203",
         "fullstartdate": "202602031500",
         "enddate": "20260204",
