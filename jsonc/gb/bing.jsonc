@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260205",
+        "fullstartdate": "202602050000",
+        "enddate": "20260206",
+        "url": "/th?id=OHR.MaltaSalt_EN-GB4895639801_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MaltaSalt_EN-GB4895639801",
+        "copyright": "Salt evaporation ponds on the island of Gozo, Malta (© Marius Roman/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Gozo+Malta&form=hpcapt&filters=HpDate%3a%2220260205_0000%22",
+        "title": "Stuck in a grid",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260205_MaltaSalt%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5d07a90a6bb087ea121c3b9ff0d0b3a5",
+        "hsh": "db7e2e500f3964927adb090944d62e6d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Xwejni Bay in Gozo, Malta, has a way of making everyday elements look like a quiet choreography between sea, stone and sun. You can't help but pause and look closer, right? Centuries back, families began carving these limestone pans, shaping hundreds of basins that trap seawater with each wave. Once the water settles in, the sun's heat does the rest, slowly evaporating it into natural Mediterranean salt. Gozo became a salt-making hub because its limestone coast is easy to shape, and its warm, dry summers keep the crystallisation process steady. The first crystals form around May, marking the beginning of the harvesting season. Workers rake the salt by hand, sweep it with brooms and brushes, gather it into small piles to dry for another day, then bag it and store it in the caves.",
+                "Image": {
+                    "Url": "/th?id=OHR.MaltaSalt_EN-GB4895639801_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MaltaSalt_EN-GB4895639801_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Stuck in a grid",
+                "Title": "Salt evaporation ponds on the island of Gozo, Malta",
+                "Copyright": "© Marius Roman/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.045,14.25889/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=36.045,14.25889;S9;Gozo, Malta&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Gozo%2C%20Malta&satid=id.sid%3A15293388-5090-8d1a-3181-b9833eaa59db&vdpid=7220983366512803841&mb=36.082203~14.174616~36.011429~14.345413&cardbg=%23F98745&dt=1765283400000&tt=Gozo%2C%20Malta&tsts0=%2526ty%253D30%2526q%253DGozo%25252C%252520Malta%2526satid%253Did.sid%25253A15293388-5090-8d1a-3181-b9833eaa59db%2526vdpid%253D7220983366512803841%2526mb%253D36.082203~14.174616~36.011429~14.345413%2526cardbg%253D%252523F98745%2526dt%253D1765283400000&tstt0=Gozo%2C%20Malta&cp=36.137812~3.062394&lvl=4.6&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260205_MaltaSalt\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Gozo+Malta&form=hpcapt&filters=HpDate:\"20260205_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260205_MaltaSalt"
+            },
+            "Ssd": "20260205",
+            "Name": "MaltaSalt",
+            "Market": "EN-GB",
+            "Hash": "4895639801",
+            "FullDateString": "5 Feb 2026"
+        }
+    },
+    {
         "startdate": "20260204",
         "fullstartdate": "202602040000",
         "enddate": "20260205",

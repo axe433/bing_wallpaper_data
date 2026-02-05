@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260205",
+        "fullstartdate": "202602050300",
+        "enddate": "20260206",
+        "url": "/th?id=OHR.MaltaSalt_PT-BR2481485521_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MaltaSalt_PT-BR2481485521",
+        "copyright": "Tanques de evaporação de sal na ilha de Gozo, Malta (© Marius Roman/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=ilha+de+Gozo+Malta&form=hpcapt&mkt=pt-br",
+        "title": "No ritmo da maré",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260205_MaltaSalt%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5d07a90a6bb087ea121c3b9ff0d0b3a5",
+        "hsh": "1c88bd3c63771218c596499fbc3b960b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Na imagem, a Baía de Xwejni, na ilha de Gozo, Malta, se revela como um mosaico de salinas esculpidas no calcário. Os tanques de sal recebem a água do mar, que evapora até que surjam cristais translúcidos, prontos para a colheita. Essa técnica existe há gerações, sustentada por verões secos e pelo conhecimento preciso de famílias locais. O trabalho é manual e ritmado: rastelos alinham os cristais, vassouras os reúnem em pequenos montes, que secam ao vento antes de seguir para cavernas cavadas na rocha, onde o sal é estocado até a distribuição. Não há pressa; o clima dita o compasso de toda a produção.",
+                "Image": {
+                    "Url": "/th?id=OHR.MaltaSalt_PT-BR2481485521_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MaltaSalt_PT-BR2481485521_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "No ritmo da maré",
+                "Title": "Tanques de evaporação de sal na ilha de Gozo, Malta",
+                "Copyright": "© Marius Roman/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260205_MaltaSalt\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=ilha+de+Gozo+Malta&form=hpcapt&filters=HpDate:\"20260205_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260205_MaltaSalt"
+            },
+            "Ssd": "20260205",
+            "Name": "MaltaSalt",
+            "Market": "PT-BR",
+            "Hash": "2481485521",
+            "FullDateString": "5 fev. 2026"
+        }
+    },
+    {
         "startdate": "20260204",
         "fullstartdate": "202602040300",
         "enddate": "20260205",

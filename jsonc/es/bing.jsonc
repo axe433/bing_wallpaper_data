@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260205",
+        "fullstartdate": "202602052300",
+        "enddate": "20260206",
+        "url": "/th?id=OHR.GiauPass_ES-ES1985178184_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GiauPass_ES-ES1985178184",
+        "copyright": "Pico Ra Gusela en el Paso Giau, cerca de Cortina d’Ampezzo, Italia (© Tomasz Podolski/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Juegos+Ol%C3%ADmpicos+de+Invierno+2026&form=hpcapt&filters=HpDate%3a%2220260205_2300%22",
+        "title": "Oro de Italia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260205_GiauPass%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0f92c8bda5c3416707f6cd05f24860d0",
+        "hsh": "ef28bf0a26da35e800857af81e4d4e1e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Los Juegos Olímpicos de Invierno de 2026 se celebrarán del 6 al 22 de febrero en Italia, con sedes repartidas entre Milán y Cortina d’Ampezzo. Muy cerca de Cortina se encuentra el Paso de Giau, uno de los collados más icónicos de los Dolomitas, desde el que emerge la inconfundible Ra Gusela, una aguja de roca que domina el horizonte.",
+                "Image": {
+                    "Url": "/th?id=OHR.GiauPass_ES-ES1985178184_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GiauPass_ES-ES1985178184_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Oro de Italia",
+                "Title": "Pico Ra Gusela en el Paso Giau, cerca de Cortina d’Ampezzo, Italia",
+                "Copyright": "© Tomasz Podolski/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260206_GiauPass\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Juegos+Ol%c3%admpicos+de+Invierno+2026&form=hpcapt&filters=HpDate:\"20260205_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260206_GiauPass"
+            },
+            "Ssd": "20260206",
+            "Name": "GiauPass",
+            "Market": "ES-ES",
+            "Hash": "1985178184",
+            "FullDateString": "6 de feb. de 2026"
+        }
+    },
+    {
         "startdate": "20260204",
         "fullstartdate": "202602042300",
         "enddate": "20260205",
