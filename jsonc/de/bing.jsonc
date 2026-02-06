@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260206",
+        "fullstartdate": "202602062300",
+        "enddate": "20260207",
+        "url": "/th?id=OHR.SalarUyuni_DE-DE1726865557_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SalarUyuni_DE-DE1726865557",
+        "copyright": "Salzebene Salar de Uyuni, Bolivien (© Abstract Aerial Art/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Salar+de+Uyuni+Bolivien&form=hpcapt&filters=HpDate%3a%2220260206_2300%22",
+        "title": "Stille zwischen Salz und Himmel",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260206_SalarUyuni%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "942983f5875edcca7b831b8a803f2970",
+        "hsh": "77a5a775bf59c4d09a64f71f78ad7475",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Wer den Salar de Uyuni in Bolivien erreicht, steht plötzlich vor einer fast unwirklich wirkenden Weite – eine Ebene, die sich bis zum Horizont ausbreitet. Mit einer Fläche von rund 10.500 Quadratkilometern ist er die größte Salzebene der Erde. Er liegt auf dem Altiplano auf über 3.600 Metern Höhe. In der Regenzeit entsteht durch eine dünne Wasserfläche ein nahezu perfekter Spiegel, in dem sich Wolken, Himmel und Boden zu einer einzigen schimmernden Fläche vereinen.",
+                "Image": {
+                    "Url": "/th?id=OHR.SalarUyuni_DE-DE1726865557_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SalarUyuni_DE-DE1726865557_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Stille zwischen Salz und Himmel",
+                "Title": "Salzebene Salar de Uyuni, Bolivien",
+                "Copyright": "© Abstract Aerial Art/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-20.33333,-67.7/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=-20.33333,-67.7;S9;Salar de Uyuni, Bolivien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Salar%20de%20Uyuni%2C%20Bolivia&satid=id.sid%3Af66c5a07-f93b-de2d-62b2-b4e8868509aa&vdpid=6376802154803363841&mb=-19.815142~-68.699852~-20.848634~-66.698921&cardbg=%23219AB6&dt=1767002400000&tt=Salar%20de%20Uyuni%2C%20Bolivia&tsts0=%2526ty%253D30%2526q%253DSalar%252520de%252520Uyuni%25252C%252520Bolivia%2526satid%253Did.sid%25253Af66c5a07-f93b-de2d-62b2-b4e8868509aa%2526vdpid%253D6376802154803363841%2526mb%253D-19.815142~-68.699852~-20.848634~-66.698921%2526cardbg%253D%252523219AB6%2526dt%253D1767002400000&tstt0=Salar%20de%20Uyuni%2C%20Bolivia&cp=-22.283768~-96.334384&lvl=3.72&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260207_SalarUyuni\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Salar+de+Uyuni+Bolivien&form=hpcapt&filters=HpDate:\"20260206_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260207_SalarUyuni"
+            },
+            "Ssd": "20260207",
+            "Name": "SalarUyuni",
+            "Market": "DE-DE",
+            "Hash": "1726865557",
+            "FullDateString": "7. Feb.. 2026"
+        }
+    },
+    {
         "startdate": "20260205",
         "fullstartdate": "202602052300",
         "enddate": "20260206",

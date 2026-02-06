@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260206",
+        "fullstartdate": "202602060300",
+        "enddate": "20260207",
+        "url": "/th?id=OHR.GiauPass_PT-BR4269836464_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GiauPass_PT-BR4269836464",
+        "copyright": "Pico Ra Gusela no Passo Giau, Itália (© Tomasz Podolski/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Jogos+Ol%C3%ADmpicos+de+Inverno+2026&form=hpcapt&mkt=pt-br",
+        "title": "Quem vai chegar ao topo?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260206_GiauPass%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0f92c8bda5c3416707f6cd05f24860d0",
+        "hsh": "5113970e0326ca6a78122b61ba7e28b5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Enquanto o Brasil vive o auge do verão, o norte da Itália se veste de branco. Hoje começam os Jogos Olímpicos de Inverno de 2026, com Milão como polo urbano e as Dolomitas como cenário natural. Na imagem, o pico Ra Gusela, com seus quase 2.600 metros, observa pistas desenhadas entre paredões de pedra, neve e vento cortante — um convite a extremos para atletas e espectadores.",
+                "Image": {
+                    "Url": "/th?id=OHR.GiauPass_PT-BR4269836464_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GiauPass_PT-BR4269836464_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Quem vai chegar ao topo?",
+                "Title": "Pico Ra Gusela no Passo Giau, Itália",
+                "Copyright": "© Tomasz Podolski/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260206_GiauPass\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Jogos+Ol%c3%admpicos+de+Inverno+2026&form=hpcapt&filters=HpDate:\"20260206_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260206_GiauPass"
+            },
+            "Ssd": "20260206",
+            "Name": "GiauPass",
+            "Market": "PT-BR",
+            "Hash": "4269836464",
+            "FullDateString": "6 fev. 2026"
+        }
+    },
+    {
         "startdate": "20260205",
         "fullstartdate": "202602050300",
         "enddate": "20260206",

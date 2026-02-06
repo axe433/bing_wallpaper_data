@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260206",
+        "fullstartdate": "202602062300",
+        "enddate": "20260207",
+        "url": "/th?id=OHR.SalarUyuni_FR-FR3839950538_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SalarUyuni_FR-FR3839950538",
+        "copyright": "Salar d'Uyuni, Bolivie  (© Abstract Aerial Art/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Salar+d%27Uyuni+Bolivie&form=hpcapt&filters=HpDate%3a%2220260206_2300%22",
+        "title": "Le désert de sel le plus vaste au monde",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260206_SalarUyuni%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "942983f5875edcca7b831b8a803f2970",
+        "hsh": "46a5f94b6a79eac391ad1b1991781d54",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Perché sur l’Altiplano bolivien, le Salar d'Uyuni ne prend pas la peine de se présenter : il surgit d’un coup, lumineux comme une frontière entre deux mondes. Plus grand désert de sel au monde, il s’étire sur des milliers de kilomètres carrés, à près de 3 600 mètres d’altitude. Lorsque la saison des pluies arrive, une fine couche d’eau se dépose sur le sol et transforme l’endroit en miroir géant. Le ciel se reflète si parfaitement qu’on perd la notion du haut et du bas, rappelant ces instants suspendus où la mer en Bretagne reflète un ciel chargé de lumière après une averse.",
+                "Image": {
+                    "Url": "/th?id=OHR.SalarUyuni_FR-FR3839950538_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SalarUyuni_FR-FR3839950538_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Le désert de sel le plus vaste au monde",
+                "Title": "Salar d'Uyuni, Bolivie",
+                "Copyright": "© Abstract Aerial Art/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-20.33333,-67.7/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=-20.33333,-67.7;S9;Salar d'Uyuni, Bolivie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Salar%20de%20Uyuni%2C%20Bolivia&satid=id.sid%3Af66c5a07-f93b-de2d-62b2-b4e8868509aa&vdpid=6376802154803363841&mb=-19.815142~-68.699852~-20.848634~-66.698921&cardbg=%23219AB6&dt=1767002400000&tt=Salar%20de%20Uyuni%2C%20Bolivia&tsts0=%2526ty%253D30%2526q%253DSalar%252520de%252520Uyuni%25252C%252520Bolivia%2526satid%253Did.sid%25253Af66c5a07-f93b-de2d-62b2-b4e8868509aa%2526vdpid%253D6376802154803363841%2526mb%253D-19.815142~-68.699852~-20.848634~-66.698921%2526cardbg%253D%252523219AB6%2526dt%253D1767002400000&tstt0=Salar%20de%20Uyuni%2C%20Bolivia&cp=-22.283768~-96.334384&lvl=3.72&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260207_SalarUyuni\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Salar+d%27Uyuni+Bolivie&form=hpcapt&filters=HpDate:\"20260206_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260207_SalarUyuni"
+            },
+            "Ssd": "20260207",
+            "Name": "SalarUyuni",
+            "Market": "FR-FR",
+            "Hash": "3839950538",
+            "FullDateString": "7 févr. 2026"
+        }
+    },
+    {
         "startdate": "20260205",
         "fullstartdate": "202602052300",
         "enddate": "20260206",

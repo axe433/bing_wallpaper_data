@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260206",
+        "fullstartdate": "202602061500",
+        "enddate": "20260207",
+        "url": "/th?id=OHR.SapporoSnowFestival2026_JA-JP9875467944_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SapporoSnowFestival2026_JA-JP9875467944",
+        "copyright": "大通公園, 札幌市 (© Reuters/Kimimasa Mayama)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E9%80%9A%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220260206_1500%22",
+        "title": "さっぽろ雪まつり開催中",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260206_SapporoSnowFestival2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5b26f846be392f5fe86ae601b4d71e26",
+        "hsh": "2ec02227545a716597727bbdfd590af8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "現在、北海道札幌市では、2 月 4 日から 11 日にかけてさっぽろ雪まつりが行われています。精巧な大雪像やライトアップが街を彩るこの祭典は、1950 年に地元の中・高校生が 6 つの雪像を大通公園に設置したことをきっかけに始まりました。今では世界中から観光客が訪れる北海道最大級の冬のイベントへと成長しました…",
+                "Image": {
+                    "Url": "/th?id=OHR.SapporoSnowFestival2026_JA-JP9875467944_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SapporoSnowFestival2026_JA-JP9875467944_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "さっぽろ雪まつり開催中",
+                "Title": "大通公園, 札幌市",
+                "Copyright": "© Reuters/Kimimasa Mayama",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.057812,141.360504/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=43.057812,141.360504;S9;札幌+大通公園&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?q=札幌+大通公園&cp=43.058704~141.338928&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260207_SapporoSnowFestival2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%a4%a7%e9%80%9a%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate:\"20260206_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260207_SapporoSnowFestival2026"
+            },
+            "Ssd": "20260207",
+            "Name": "SapporoSnowFestival2026",
+            "Market": "JA-JP",
+            "Hash": "9875467944",
+            "FullDateString": "2026 年 2月 月 7 日"
+        }
+    },
+    {
         "startdate": "20260205",
         "fullstartdate": "202602051500",
         "enddate": "20260206",
