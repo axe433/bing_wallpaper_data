@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260207",
+        "fullstartdate": "202602072300",
+        "enddate": "20260208",
+        "url": "/th?id=OHR.CorfuGreece_DE-DE1940142224_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CorfuGreece_DE-DE1940142224",
+        "copyright": "Korfu bei Nacht, Griechenland (© whitewizzard/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Korfu+Griechenland&form=hpcapt&filters=HpDate%3a%2220260207_2300%22",
+        "title": "Zwischen Stille und Meer",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260207_CorfuGreece%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "410e4e8357f2a82c61b9157968c4d513",
+        "hsh": "d7dba8a18e1c3f7119a6b4c875af76ee",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nach Einbruch der Dunkelheit verändert sich die Stimmung in der Altstadt der griechischen Insel Korfu. Lampen beleuchten die alten Steinmauern und lassen die Festungsanlagen klar hervortreten. Die schmalen Gassen wirken wie ein gewachsenes Labyrinth. Das historische Zentrum gehört seit 2007 zum UNESCO-Welterbe und besonders am Abend wird sein über Jahrhunderte geformter Charakter sichtbar. Korfus Altstadt ist geprägt von venezianischen, französischen und britischen Einflüssen, die ein unverwechselbares mediterranes Stadtbild entstehen lassen. Diese Verbindung aus historischem Stadtkern und maritimer Lage erinnert in ihrer Wirkung an Hafenstädte wie Stralsund an der deutschen Ostseeküste, dessen Altstadt ebenfalls zum UNESCO-Welterbe zählt.",
+                "Image": {
+                    "Url": "/th?id=OHR.CorfuGreece_DE-DE1940142224_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CorfuGreece_DE-DE1940142224_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Zwischen Stille und Meer",
+                "Title": "Korfu bei Nacht, Griechenland",
+                "Copyright": "© whitewizzard/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.6,19.87/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=39.6,19.87;S9;Korfu, Ionische Inseln, Griechenland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Corfu%2C%20Corfu%20Regional%20Unit%2C%20Greece&satid=id.sid%3A46ff5c15-be5d-d6fc-dc10-cab5b1e020c3&vdpid=7219064587306401793&mb=39.822247~19.331362~39.360394~20.41942&cardbg=%23F98745&dt=1767625200000&tt=Corfu%2C%20Ioanian%20Islands%2C%20Greece&tsts0=%2526ty%253D30%2526q%253DCorfu%25252C%252520Corfu%252520Regional%252520Unit%25252C%252520Greece%2526satid%253Did.sid%25253A46ff5c15-be5d-d6fc-dc10-cab5b1e020c3%2526vdpid%253D7219064587306401793%2526mb%253D39.822247~19.331362~39.360394~20.41942%2526cardbg%253D%252523F98745%2526dt%253D1767625200000&tstt0=Corfu%2C%20Ioanian%20Islands%2C%20Greece&cp=39.559337~16.152776&lvl=6.6&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260208_CorfuGreece\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Korfu+Griechenland&form=hpcapt&filters=HpDate:\"20260207_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260208_CorfuGreece"
+            },
+            "Ssd": "20260208",
+            "Name": "CorfuGreece",
+            "Market": "DE-DE",
+            "Hash": "1940142224",
+            "FullDateString": "8. Feb.. 2026"
+        }
+    },
+    {
         "startdate": "20260206",
         "fullstartdate": "202602062300",
         "enddate": "20260207",
