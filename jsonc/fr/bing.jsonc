@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260208",
+        "fullstartdate": "202602082300",
+        "enddate": "20260209",
+        "url": "/th?id=OHR.LeopardCat_FR-FR6480726195_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LeopardCat_FR-FR6480726195",
+        "copyright": "Chat-léopard de l’Amour, Russie (© Valeriy Maleev/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=chat-l%C3%A9opard&form=hpcapt&filters=HpDate%3a%2220260208_2300%22",
+        "title": "Ni léopard ni chat",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260208_LeopardCat%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "76de9e59601ddd7372ec2689aa02ccf4",
+        "hsh": "7e0cec7e649cdeed4b75b4d18972622a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Le chat-léopard est un petit félin qui vit en Asie du Sud, du Sud-Est et de l’Est. De la taille d’un chat domestique mais plus élancé, il mesure 40 à 80 cm environ, plus 20 à 30 cm de queue, avec des variations selon les régions. Au sud, son pelage prend des teintes dorées, tandis que les populations nordiques arborent un pelage gris pâle et plus dense qui les protège du froid — un contraste qui rappelle les différences entre les félins méditerranéens et ceux des montagnes françaises, marqués par leurs climats respectifs.",
+                "Image": {
+                    "Url": "/th?id=OHR.LeopardCat_FR-FR6480726195_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LeopardCat_FR-FR6480726195_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ni léopard ni chat",
+                "Title": "Chat-léopard de l’Amour, Russie",
+                "Copyright": "© Valeriy Maleev/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Les chats-léopards auraient été les premiers chats domestiqués dans la Chine néolithique il y a environ 5 000 ans.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260209_LeopardCat\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=chat-l%c3%a9opard&form=hpcapt&filters=HpDate:\"20260208_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260209_LeopardCat"
+            },
+            "Ssd": "20260209",
+            "Name": "LeopardCat",
+            "Market": "FR-FR",
+            "Hash": "6480726195",
+            "FullDateString": "9 févr. 2026"
+        }
+    },
+    {
         "startdate": "20260207",
         "fullstartdate": "202602072300",
         "enddate": "20260208",
