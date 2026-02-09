@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260209",
+        "fullstartdate": "202602090300",
+        "enddate": "20260210",
+        "url": "/th?id=OHR.LeopardCat_PT-BR7297895046_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LeopardCat_PT-BR7297895046",
+        "copyright": "Gato-leopardo na Rússia (© Valeriy Maleev/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=gato-leopardo&form=hpcapt&mkt=pt-br",
+        "title": "O silêncio que se move",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260209_LeopardCat%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "76de9e59601ddd7372ec2689aa02ccf4",
+        "hsh": "0fd0aa492207eb276a469afeba8dc75e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Este gato-leopardo desliza pelas estepes russas como se o frio fosse só um detalhe. Apesar de pouco maior que um gato doméstico — 40 a 75 centímetros do focinho à base da cauda e até 7 quilos — seu corpo compacto e pelagem espessa o tornam uma máquina de caça ágil e precisa. Perfeitamente moldado para a vida nas florestas geladas do norte da Ásia, ele domina invernos rigorosos e terrenos acidentados com elegância quase sobrenatural.",
+                "Image": {
+                    "Url": "/th?id=OHR.LeopardCat_PT-BR7297895046_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LeopardCat_PT-BR7297895046_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O silêncio que se move",
+                "Title": "Gato-leopardo na Rússia",
+                "Copyright": "© Valeriy Maleev/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260209_LeopardCat\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=gato-leopardo&form=hpcapt&filters=HpDate:\"20260209_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260209_LeopardCat"
+            },
+            "Ssd": "20260209",
+            "Name": "LeopardCat",
+            "Market": "PT-BR",
+            "Hash": "7297895046",
+            "FullDateString": "9 fev. 2026"
+        }
+    },
+    {
         "startdate": "20260208",
         "fullstartdate": "202602080300",
         "enddate": "20260209",

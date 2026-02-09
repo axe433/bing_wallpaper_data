@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260209",
+        "fullstartdate": "202602090800",
+        "enddate": "20260210",
+        "url": "/th?id=OHR.LeopardCat_ROW9470593052_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LeopardCat_ROW9470593052",
+        "copyright": "Amur leopard cat, Russia (© Valeriy Maleev/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Leopard+cat&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260209_LeopardCat%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "76de9e59601ddd7372ec2689aa02ccf4",
+        "hsh": "8d94a3000292b092b797fa0f7b67f123",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "The leopard cat is a small wild cat found across South, Southeast and East Asia. Similar in size to a house cat but longer-legged and slenderer, it generally measures 38–66 centimetres long, with a tail about 17–31 centimetres. Depending on the region, adults weigh roughly 0.55–7 kilograms. Their appearance varies widely: southern individuals tend to have warm golden coats, while those farther north often have pale grey fur that thickens for winter.",
+                "Image": {
+                    "Url": "/th?id=OHR.LeopardCat_ROW9470593052_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LeopardCat_ROW9470593052_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Amur leopard cat, Russia",
+                "Copyright": "© Valeriy Maleev/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260209_LeopardCat\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Leopard+cat&form=hpcapt&filters=HpDate:\"20260209_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260209_LeopardCat"
+            },
+            "Ssd": "20260209",
+            "Name": "LeopardCat",
+            "Market": "ROW",
+            "Hash": "9470593052",
+            "FullDateString": "9 de feb. de 2026"
+        }
+    },
+    {
         "startdate": "20260208",
         "fullstartdate": "202602080800",
         "enddate": "20260209",
