@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260210",
+        "fullstartdate": "202602102300",
+        "enddate": "20260211",
+        "url": "/th?id=OHR.ReinaCarnaval_ES-ES2850086580_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ReinaCarnaval_ES-ES2850086580",
+        "copyright": "Vista del atardecer de San Andrés y Playa de Las Teresitas, Tenerife (© EP-stock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Gala+de+la+Reina+del+Carnaval+de+Tenerife+2026&form=hpcapt&filters=HpDate%3a%2220260210_2300%22",
+        "title": "Pura fantasía",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260210_ReinaCarnaval%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1fb0edceadb0fe2a1d2601bc83576975",
+        "hsh": "21c0ffe8bdc977b7c1b73a315468529d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Hoy, 11 de febrero, se celebra la Gala de Elección de la Reina Adulta de Santa Cruz de Tenerife, una cita imprescindible del Carnaval con décadas de historia que cada año deslumbra con trajes de fantasía que pueden superar varias decenas de kilos y exigir meses de trabajo artesanal. Esta gala es símbolo de creatividad, patrimonio vivo y orgullo isleño, además de motor cultural y turístico para la capital tinerfeña. La puesta en escena combina música, coreografías y diseño con un público entregado y una audiencia fiel que sigue el certamen desde todos los rincones, atraída por la espectacularidad de cada fantasía y el carisma de las candidatas.",
+                "Image": {
+                    "Url": "/th?id=OHR.ReinaCarnaval_ES-ES2850086580_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ReinaCarnaval_ES-ES2850086580_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Pura fantasía",
+                "Title": "Vista del atardecer de San Andrés y Playa de Las Teresitas, Tenerife",
+                "Copyright": "© EP-stock/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260211_ReinaCarnaval\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Gala+de+la+Reina+del+Carnaval+de+Tenerife+2026&form=hpcapt&filters=HpDate:\"20260210_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260211_ReinaCarnaval"
+            },
+            "Ssd": "20260211",
+            "Name": "ReinaCarnaval",
+            "Market": "ES-ES",
+            "Hash": "2850086580",
+            "FullDateString": "11 de feb. de 2026"
+        }
+    },
+    {
         "startdate": "20260209",
         "fullstartdate": "202602092300",
         "enddate": "20260210",

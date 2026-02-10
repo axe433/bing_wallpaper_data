@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260210",
+        "fullstartdate": "202602101600",
+        "enddate": "20260211",
+        "url": "/th?id=OHR.BadwaterFlats_ZH-CN4713617982_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BadwaterFlats_ZH-CN4713617982",
+        "copyright": "死亡谷国家公园恶水盆地的盐滩, 加利福尼亚州, 美国 (© Jim Patterson/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=%E6%AD%BB%E8%B0%B7%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+        "title": "对比之谷",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260210_BadwaterFlats%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a736cd5809c5c02007c73278b46f11ba",
+        "hsh": "ab527e84259a14561f0cacb39ea33764",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "死亡谷国家公园颠覆人们对沙漠的想象，横跨加利福尼亚州与内华达州，总面积约340万英亩，是美国面积最大的国家公园。盐沼、火山丘陵、流动沙丘与覆雪山峰交错分布，构成极端而多变的地貌。从海拔11000英尺的望远镜峰，到低于海平面282英尺的恶水盆地，这里呈现出鲜明且震撼的对比。",
+                "Image": {
+                    "Url": "/th?id=OHR.BadwaterFlats_ZH-CN4713617982_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BadwaterFlats_ZH-CN4713617982_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "对比之谷",
+                "Title": "死亡谷国家公园恶水盆地的盐滩, 加利福尼亚州, 美国",
+                "Copyright": "© Jim Patterson/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "除了震撼人心的自然景观与拓荒年代的故事，死亡谷曾长期作为一处兴盛的采矿中心。黄金白银铜钨铅锌锑和硼砂在谷地中被大量开采，留下深刻的工业印记。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260211_BadwaterFlats\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e6%ad%bb%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&filters=HpDate:\"20260210_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260211_BadwaterFlats"
+            },
+            "Ssd": "20260211",
+            "Name": "BadwaterFlats",
+            "Market": "ZH-CN",
+            "Hash": "4713617982",
+            "FullDateString": "2026 2月 11"
+        }
+    },
+    {
         "startdate": "20260209",
         "fullstartdate": "202602091600",
         "enddate": "20260210",
