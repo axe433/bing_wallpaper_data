@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260211",
+        "fullstartdate": "202602112300",
+        "enddate": "20260212",
+        "url": "/th?id=OHR.BerlinaleHall_DE-DE3416408525_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BerlinaleHall_DE-DE3416408525",
+        "copyright": "Innenansicht des Hauptsaals des Kinos Zoo Palast in Berlin (© dpa picture alliance/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Internationale+Filmfestspiele+Berlin&form=hpcapt&filters=HpDate%3a%2220260211_2300%22",
+        "title": "Filmkunst, Vielfalt und Tradition",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260211_BerlinaleHall%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "97758645622e546c6e0ffa9f2ec7a2f8",
+        "hsh": "1e6b5d6b4dbba1c03bbd53f48ead1a1f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Heute richtet sich der Blick der Filmwelt auf Berlin, wo vom 12. bis 22. Februar 2026 die 76. Berlinale stattfindet und erneut von Tricia Tuttle geleitet wird. Das Festival zählt zu den bedeutendsten Filmereignissen des Jahres. Die feierliche Eröffnung im Berlinale Palast, dem zentralen Schauplatz für Premieren und rote Teppiche, unterstreicht den festen Platz, den die Filmkultur seit Jahrzehnten in der Stadt einnimmt.",
+                "Image": {
+                    "Url": "/th?id=OHR.BerlinaleHall_DE-DE3416408525_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BerlinaleHall_DE-DE3416408525_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Filmkunst, Vielfalt und Tradition",
+                "Title": "Innenansicht des Hauptsaals des Kinos Zoo Palast in Berlin",
+                "Copyright": "© dpa picture alliance/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.5061,13.333894/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=52.5061,13.333894;S9;Zoo Palast, Berlin&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Kino%20Zoo%20Palast%20Berlin&ss=ypid.YN6740x13598739649001655632&mb=52.511213~13.323905~52.500438~13.343904&description=Hardenbergstr.%2029a%20%C2%B7%2010623%20Berlin&cardbg=%23F98745&dt=1768222800000&tt=ZooBa&tsts1=%2526ty%253D18%2526q%253DKino%252520Zoo%252520Palast%252520Berlin%2526ss%253Dypid.YN6740x13598739649001655632%2526mb%253D52.511213~13.323905~52.500438~13.343904%2526description%253DHardenbergstr.%25252029a%252520%2525C2%2525B7%25252010623%252520Berlin%2526cardbg%253D%252523F98745%2526dt%253D1768222800000&tstt1=ZooBa&cp=52.505826~13.323433&lvl=16&pi=0&ftst=1&ftics=True&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260212_BerlinaleHall\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Internationale+Filmfestspiele+Berlin&form=hpcapt&filters=HpDate:\"20260211_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260212_BerlinaleHall"
+            },
+            "Ssd": "20260212",
+            "Name": "BerlinaleHall",
+            "Market": "DE-DE",
+            "Hash": "3416408525",
+            "FullDateString": "12. Feb.. 2026"
+        }
+    },
+    {
         "startdate": "20260210",
         "fullstartdate": "202602102300",
         "enddate": "20260211",

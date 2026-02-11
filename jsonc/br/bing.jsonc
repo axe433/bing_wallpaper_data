@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260211",
+        "fullstartdate": "202602110300",
+        "enddate": "20260212",
+        "url": "/th?id=OHR.BadwaterFlats_PT-BR0386889966_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BadwaterFlats_PT-BR0386889966",
+        "copyright": "Salinas da Bacia de Badwater, Parque Nacional do Vale da Morte, Califórnia, EUA (© Jim Patterson/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Vale+da+Morte&form=hpcapt&mkt=pt-br",
+        "title": "Um deserto vestido de branco",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260211_BadwaterFlats%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a736cd5809c5c02007c73278b46f11ba",
+        "hsh": "b25b134719b82d20d4d51ac573486568",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "O próprio nome avisa: o Parque Nacional do Vale da Morte, nos Estados Unidos, atualiza as definições de paisagem extrema. São quase 14 mil km² de deserto entre os estados de Califórnia e Nevada, reunindo dunas móveis, salinas brilhantes e campos vulcânicos sombrios. Nada ali é sutil: do alto de picos com mais de 3 mil metros, o terreno despenca até a Bacia de Badwater, mostrada na imagem, o ponto mais baixo da América do Norte, 86 metros abaixo do nível do mar. O sal forma um mosaico hipnótico de rachaduras geométricas, esculpido pelo calor intenso — que ultrapassa 50 graus no verão — e pela evaporação constante.",
+                "Image": {
+                    "Url": "/th?id=OHR.BadwaterFlats_PT-BR0386889966_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BadwaterFlats_PT-BR0386889966_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Um deserto vestido de branco",
+                "Title": "Salinas da Bacia de Badwater, Parque Nacional do Vale da Morte, Califórnia, EUA",
+                "Copyright": "© Jim Patterson/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260211_BadwaterFlats\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Vale+da+Morte&form=hpcapt&filters=HpDate:\"20260211_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260211_BadwaterFlats"
+            },
+            "Ssd": "20260211",
+            "Name": "BadwaterFlats",
+            "Market": "PT-BR",
+            "Hash": "0386889966",
+            "FullDateString": "11 fev. 2026"
+        }
+    },
+    {
         "startdate": "20260210",
         "fullstartdate": "202602100300",
         "enddate": "20260211",
