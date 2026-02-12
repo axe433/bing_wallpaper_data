@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260212",
+        "fullstartdate": "202602122300",
+        "enddate": "20260213",
+        "url": "/th?id=OHR.FriendshipBridge_ES-ES2971245764_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FriendshipBridge_ES-ES2971245764",
+        "copyright": "Tercer Puente de la Amistad entre Tailandia y Laos (© chaiyut samsuk/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Tercer+Puente+de+la+Amistad+Tailandia&form=hpcapt&filters=HpDate%3a%2220260212_2300%22",
+        "title": "Creado para conectar",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260212_FriendshipBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b6ce86c42033ec5ed7591ef1ec8b68e7",
+        "hsh": "9ac1e4e6e8ba251f9f20d577c5231ba9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El Tercer Puente de la Amistad entre Tailandia y Laos es una obra concebida para conectar y facilitar el encuentro entre dos países vecinos. La imagen de hoy muestra su perfil sobrio y funcional, tendido sobre el río Mekong como una línea continua que acorta distancias y tiempos. Es un puente de hormigón cuya vocación, sencilla y a la vez poderosa, es unir orillas. Su arquitectura discreta responde a esa utilidad primordial. No busca deslumbrar con gestos llamativos, sino ofrecer seguridad, continuidad y confianza a quienes lo cruzan cada día. Observado de cerca, el tablero se entiende como un corredor abierto que vuelve cotidianos los viajes que antes exigían desvíos o esperas.",
+                "Image": {
+                    "Url": "/th?id=OHR.FriendshipBridge_ES-ES2971245764_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FriendshipBridge_ES-ES2971245764_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Creado para conectar",
+                "Title": "Tercer Puente de la Amistad entre Tailandia y Laos",
+                "Copyright": "© chaiyut samsuk/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260213_FriendshipBridge\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tercer+Puente+de+la+Amistad+Tailandia&form=hpcapt&filters=HpDate:\"20260212_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260213_FriendshipBridge"
+            },
+            "Ssd": "20260213",
+            "Name": "FriendshipBridge",
+            "Market": "ES-ES",
+            "Hash": "2971245764",
+            "FullDateString": "13 de feb. de 2026"
+        }
+    },
+    {
         "startdate": "20260211",
         "fullstartdate": "202602112300",
         "enddate": "20260212",

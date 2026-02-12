@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260212",
+        "fullstartdate": "202602120300",
+        "enddate": "20260213",
+        "url": "/th?id=OHR.DarwinBooby_PT-BR0902787838_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DarwinBooby_PT-BR0902787838",
+        "copyright": "Atobá-de-pés-azuis, Ilhas Galápagos, Equador (© Karine Aigner/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=dia+de+Darwin&form=hpcapt&mkt=pt-br",
+        "title": "Evolução em foco",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260212_DarwinBooby%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4b25a77940cac2e9cf55cf04a31fabc5",
+        "hsh": "585ca104e1eff081e6829956a2dac9ac",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Hoje, o Dia de Darwin é mais que seu aniversário: é uma homenagem a alguém que mudou para sempre a forma como enxergamos a vida. O naturalista tinha um talento raro: onde outros viam aves parecidas, ele via estratégia; onde parecia acaso, ele encontrava lógica. Ao observar tentilhões, fósseis e criaturas improváveis, percebeu que sobreviver é uma dança contínua entre variação, adaptação e tempo.",
+                "Image": {
+                    "Url": "/th?id=OHR.DarwinBooby_PT-BR0902787838_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DarwinBooby_PT-BR0902787838_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Evolução em foco",
+                "Title": "Atobá-de-pés-azuis, Ilhas Galápagos, Equador",
+                "Copyright": "© Karine Aigner/TANDEM Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260212_DarwinBooby\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=dia+de+Darwin&form=hpcapt&filters=HpDate:\"20260212_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260212_DarwinBooby"
+            },
+            "Ssd": "20260212",
+            "Name": "DarwinBooby",
+            "Market": "PT-BR",
+            "Hash": "0902787838",
+            "FullDateString": "12 fev. 2026"
+        }
+    },
+    {
         "startdate": "20260211",
         "fullstartdate": "202602110300",
         "enddate": "20260212",
