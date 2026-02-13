@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260213",
+        "fullstartdate": "202602131500",
+        "enddate": "20260214",
+        "url": "/th?id=OHR.ValentineHearts_JA-JP1565993875_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ValentineHearts_JA-JP1565993875",
+        "copyright": "ハート型のケマンソウ, カナダ オンタリオ州 (© Dorene Hookey/Cavan Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%B1%E3%83%9E%E3%83%B3%E3%82%BD%E3%82%A6&form=hpcapt&filters=HpDate%3a%2220260213_1500%22",
+        "title": "今日はバレンタインデー",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260213_ValentineHearts%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "462a612fc5a5170a4550e83e33570753",
+        "hsh": "cab67d5d2917e7055e4fc920d036fafa",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 2 月 14 日は恋人たちの日、バレンタインデーです。日本を含め多くの国で、大切な人に感謝を示したり、贈り物をしたりする日として知られています。その正確な起源は不明ですが、古代ローマの冬至祭の一つであるルペルカーリア祭や聖バレンタイン祭といった、いくつかの古代の祭りと関連していると考えられています…",
+                "Image": {
+                    "Url": "/th?id=OHR.ValentineHearts_JA-JP1565993875_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ValentineHearts_JA-JP1565993875_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日はバレンタインデー",
+                "Title": "ハート型のケマンソウ, カナダ オンタリオ州",
+                "Copyright": "© Dorene Hookey/Cavan Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.23056,-76.48111/11?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=44.23056,-76.48111;S9;キンクストン, カナダ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=%E3%82%AA%E3%83%B3%E3%82%BF%E3%83%AA%E3%82%AA%2C%20%E3%82%AB%E3%83%8A%E3%83%80%2C%20%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%88%E3%83%B3&satid=id.sid%3A9c6f065c-5bcd-4129-90a3-1a40fd9df047&vdpid=5485632895039045633&tsts0=%2526ty%253D30%2526q%253D%2525E3%252582%2525AA%2525E3%252583%2525B3%2525BF%2525AA%2525E3%252583%252580%25252C%252520%2525E3%252582%2525AB%2525E3%252583%25258A%2525E3%252583%252580%25252C%252520%2525E3%252582%2525AD%2525E3%252583%2525B3%2525E3%252582%2525B0%2525E3%252582%2525B9%2525E3%252583%252588%2525E3%252583%2525B3%2526satid%253Did.sid%25253A9c6f065c-5bcd-4129-90a3-1a40fd9df047%2526vdpid%253D5485632895039045633%2526cardbg%253D%252523F98745&tstt0=%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%88%E3%83%B3%2C%20%E3%82%AA%E3%83%B3%E3%82%BF%E3%83%AA%E3%82%AA%2C%20%E3%82%AB%E3%83%8A%E3%83%80&cp=44.343675~-76.620314&lvl=11.216528&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260214_ValentineHearts\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%b1%e3%83%9e%e3%83%b3%e3%82%bd%e3%82%a6&form=hpcapt&filters=HpDate:\"20260213_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260214_ValentineHearts"
+            },
+            "Ssd": "20260214",
+            "Name": "ValentineHearts",
+            "Market": "JA-JP",
+            "Hash": "1565993875",
+            "FullDateString": "2026 年 2月 月 14 日"
+        }
+    },
+    {
         "startdate": "20260212",
         "fullstartdate": "202602121500",
         "enddate": "20260213",

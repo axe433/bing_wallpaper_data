@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260213",
+        "fullstartdate": "202602130800",
+        "enddate": "20260214",
+        "url": "/th?id=OHR.FriendshipBridge_ROW0019277166_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FriendshipBridge_ROW0019277166",
+        "copyright": "Third Thai-Lao Friendship Bridge connecting Laos and Thailand (© chaiyut samsuk/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Third+Thai+Lao+Friendship+Bridge&form=hpcapt&filters=HpDate%3a%2220260213_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260213_FriendshipBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b6ce86c42033ec5ed7591ef1ec8b68e7",
+        "hsh": "af5164742140a1319643e9db13392280",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Before bridges, rivers set the pace of travel. Now, with bridges, people do. That shift explains why cross-border links like the Third Thai-Lao Friendship Bridge connecting Laos and Thailand matter. Bridges come in many forms, each built to meet a specific challenge. Arch bridges manage compression, suspension bridges span long distances and concrete box-girder bridges prioritise stability and load efficiency. This bridge uses the box-girder design, making it a practical choice for crossing the wide, fast-moving Mekong River.",
+                "Image": {
+                    "Url": "/th?id=OHR.FriendshipBridge_ROW0019277166_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FriendshipBridge_ROW0019277166_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Third Thai-Lao Friendship Bridge connecting Laos and Thailand",
+                "Copyright": "© chaiyut samsuk/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260213_FriendshipBridge\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Third+Thai+Lao+Friendship+Bridge&form=hpcapt&filters=HpDate:\"20260213_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260213_FriendshipBridge"
+            },
+            "Ssd": "20260213",
+            "Name": "FriendshipBridge",
+            "Market": "ROW",
+            "Hash": "0019277166",
+            "FullDateString": "13 Feb 2026"
+        }
+    },
+    {
         "startdate": "20260212",
         "fullstartdate": "202602120800",
         "enddate": "20260213",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260213",
+        "fullstartdate": "202602132300",
+        "enddate": "20260214",
+        "url": "/th?id=OHR.SanValentino_IT-IT4953032598_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SanValentino_IT-IT4953032598",
+        "copyright": "Verona, Veneto (© Jan Hendrik/Shutterstock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=San+Valentino&form=hpcapt",
+        "title": "Dove nasce l'amore",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260213_SanValentino%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d1a92bbe5dd1570e49d22ad7b2921139",
+        "hsh": "9aadc231128ec1c057cf75b024c666da",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A Verona, la città dell’amore eterno, San Valentino non è solo una festa, bensì un rito di cuore e poesia. Le strade acciottolate si vestono di luce e fiori, e il profumo di cioccolatini e rose accompagna i passi di chi cammina sotto i balconi che hanno ispirato leggende d’amore. Qui, dove si narra la storia di Romeo e Giulietta, l’amore diventa leggenda. I visitatori si fermano sotto il celebre balcone, sfiorano le lettere degli innamorati e lasciano un segno del loro sentimento.",
+                "Image": {
+                    "Url": "/th?id=OHR.SanValentino_IT-IT4953032598_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SanValentino_IT-IT4953032598_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Dove nasce l'amore",
+                "Title": "Verona, Veneto",
+                "Copyright": "© Jan Hendrik/Shutterstock/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "È opinione diffusa che San Valentino abbia origini pagane, in particolare nella festa romana dei Lupercalia, che celebrava la fertilità e l'inizio della primavera.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260214_SanValentino\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=San+Valentino&form=hpcapt&filters=HpDate:\"20260213_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260214_SanValentino"
+            },
+            "Ssd": "20260214",
+            "Name": "SanValentino",
+            "Market": "IT-IT",
+            "Hash": "4953032598",
+            "FullDateString": "14 febbraio 2026"
+        }
+    },
+    {
         "startdate": "20260212",
         "fullstartdate": "202602122300",
         "enddate": "20260213",

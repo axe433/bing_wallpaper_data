@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260213",
+        "fullstartdate": "202602132300",
+        "enddate": "20260214",
+        "url": "/th?id=OHR.ValentineHearts_FR-FR1591236824_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ValentineHearts_FR-FR1591236824",
+        "copyright": "Cœurs de Marie (© Dorene Hookey/Cavan Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Saint-Valentin&form=hpcapt&filters=HpDate%3a%2220260213_2300%22",
+        "title": "L’amour fleurissant",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260213_ValentineHearts%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "462a612fc5a5170a4550e83e33570753",
+        "hsh": "55863c1b2057e8798f4a15184379ca36",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La Saint-Valentin célèbre le cœur sous toutes ses formes : l’élan courageux, l’affection discrète, l’espoir, ainsi que la fragilité assumée. Peu de symboles traduisent cette émotion aussi naturellement que le cœur de Marie, cette fleur délicate aux corolles en forme de cœur, qui s’épanouit chaque printemps. Haut d’environ 60 cm et large de près de 75 cm, le plant offre au jardin une scène gracieuse, presque poétique.",
+                "Image": {
+                    "Url": "/th?id=OHR.ValentineHearts_FR-FR1591236824_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ValentineHearts_FR-FR1591236824_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "L'amour fleurissant",
+                "Title": "Cœurs de Marie",
+                "Copyright": "© Dorene Hookey/Cavan Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "La Saint-Valentin tirerait ses origines de croyances païennes, notamment de la fête romaine des Lupercales, qui célébrait la fertilité et l’arrivée du printemps.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260214_ValentineHearts\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Saint-Valentin&form=hpcapt&filters=HpDate:\"20260213_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260214_ValentineHearts"
+            },
+            "Ssd": "20260214",
+            "Name": "ValentineHearts",
+            "Market": "FR-FR",
+            "Hash": "1591236824",
+            "FullDateString": "14 févr. 2026"
+        }
+    },
+    {
         "startdate": "20260212",
         "fullstartdate": "202602122300",
         "enddate": "20260213",

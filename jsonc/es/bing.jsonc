@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260213",
+        "fullstartdate": "202602132300",
+        "enddate": "20260214",
+        "url": "/th?id=OHR.ValentineHearts_ES-ES3038334122_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ValentineHearts_ES-ES3038334122",
+        "copyright": "Corazones sangrantes (© Dorene Hookey/Cavan Images)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+de+San+Valent%C3%ADn&form=hpcapt&filters=HpDate%3a%2220260213_2300%22",
+        "title": "Amor en floración",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260213_ValentineHearts%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "462a612fc5a5170a4550e83e33570753",
+        "hsh": "f9665cab41001f0e28454aa3beab7063",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El 14 de febrero celebramos el Día de San Valentín, una fecha dedicada al cariño y a los gestos que hacen la vida más luminosa. No se trata solo de regalos ni de grandes declaraciones, sino de la oportunidad de reconocer la ternura que compartimos con quien nos acompaña. Es un momento propicio para detenerse y agradecer las pequeñas cosas que se construyen en el día a día, esas que dan calidez al invierno y dejan una huella serena en la memoria.",
+                "Image": {
+                    "Url": "/th?id=OHR.ValentineHearts_ES-ES3038334122_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ValentineHearts_ES-ES3038334122_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Amor en floración",
+                "Title": "Corazones sangrantes",
+                "Copyright": "© Dorene Hookey/Cavan Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260214_ValentineHearts\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=D%c3%ada+de+San+Valent%c3%adn&form=hpcapt&filters=HpDate:\"20260213_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260214_ValentineHearts"
+            },
+            "Ssd": "20260214",
+            "Name": "ValentineHearts",
+            "Market": "ES-ES",
+            "Hash": "3038334122",
+            "FullDateString": "14 de feb. de 2026"
+        }
+    },
+    {
         "startdate": "20260212",
         "fullstartdate": "202602122300",
         "enddate": "20260213",
