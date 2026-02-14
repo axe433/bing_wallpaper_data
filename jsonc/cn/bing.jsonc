@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260214",
+        "fullstartdate": "202602141600",
+        "enddate": "20260215",
+        "url": "/th?id=OHR.MontereyHumpbacks_ZH-CN5426789466_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MontereyHumpbacks_ZH-CN5426789466",
+        "copyright": "蒙特雷湾的大翅鲸(座头鲸)，加利福尼亚州，美国 (© Kiliii Fish/Cavan Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E9%B2%B8%E9%B1%BC&form=hpcapt&mkt=zh-cn",
+        "title": "浪涛下的歌谣",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260214_MontereyHumpbacks%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "7c5034784da78bace425e53d674c5c6b",
+        "hsh": "e9b375bb1d202badabad4471eee4051c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "世界鲸鱼日定于每年2月的第3个星期日，起源于20世纪80年代的夏威夷。当时，当地社区会庆祝座头鲸在迁徙季节重返近海。这一纪念日随后逐渐受到国际关注，尤其是在1986年国际捕鲸委员会通过商业捕鲸禁令之后，该举措成为全球鲸类保护的重要里程碑。",
+                "Image": {
+                    "Url": "/th?id=OHR.MontereyHumpbacks_ZH-CN5426789466_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MontereyHumpbacks_ZH-CN5426789466_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "浪涛下的歌谣",
+                "Title": "蒙特雷湾的大翅鲸(座头鲸)，加利福尼亚州，美国",
+                "Copyright": "© Kiliii Fish/Cavan Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "座头鲸广泛分布于世界各大洋，在中国，它们的活动范围涵盖黄海、东海以及南海海域。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260215_MontereyHumpbacks\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e9%b2%b8%e9%b1%bc&form=hpcapt&filters=HpDate:\"20260214_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260215_MontereyHumpbacks"
+            },
+            "Ssd": "20260215",
+            "Name": "MontereyHumpbacks",
+            "Market": "ZH-CN",
+            "Hash": "5426789466",
+            "FullDateString": "2026 2月 15"
+        }
+    },
+    {
         "startdate": "20260213",
         "fullstartdate": "202602131600",
         "enddate": "20260214",
