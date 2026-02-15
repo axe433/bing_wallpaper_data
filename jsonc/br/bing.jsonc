@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260215",
+        "fullstartdate": "202602150300",
+        "enddate": "20260216",
+        "url": "/th?id=OHR.MontereyHumpbacks_PT-BR6399797691_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MontereyHumpbacks_PT-BR6399797691",
+        "copyright": "Baleias-jubarte na Baía de Monterey, Califórnia, EUA (© Kiliii Fish/Cavan Images)",
+        "copyrightlink": "https://www.bing.com/search?q=as+baleias&form=hpcapt&mkt=pt-br",
+        "title": "Vozes que ecoam sob as ondas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260215_MontereyHumpbacks%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "7c5034784da78bace425e53d674c5c6b",
+        "hsh": "ce09b372b909d2fd1ab2bebcd6cf0cd8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Grandes sombras em movimento cortam a água fria da Baía de Monterey, na Califórnia, EUA, onde foi tirada a foto de hoje. São baleias-jubarte se alimentando em grupo, num balé preciso que envolve bolhas, sincronia e memória coletiva. Cada mergulho é cálculo. Cada subida, estratégia. Essas gigantes do oceano não sobrevivem por força bruta, mas por cooperação.",
+                "Image": {
+                    "Url": "/th?id=OHR.MontereyHumpbacks_PT-BR6399797691_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MontereyHumpbacks_PT-BR6399797691_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Vozes que ecoam sob as ondas",
+                "Title": "Baleias-jubarte na Baía de Monterey, Califórnia, EUA",
+                "Copyright": "© Kiliii Fish/Cavan Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260215_MontereyHumpbacks\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=as+baleias&form=hpcapt&filters=HpDate:\"20260215_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260215_MontereyHumpbacks"
+            },
+            "Ssd": "20260215",
+            "Name": "MontereyHumpbacks",
+            "Market": "PT-BR",
+            "Hash": "6399797691",
+            "FullDateString": "15 fev. 2026"
+        }
+    },
+    {
         "startdate": "20260214",
         "fullstartdate": "202602140300",
         "enddate": "20260215",

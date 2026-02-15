@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260215",
+        "fullstartdate": "202602152300",
+        "enddate": "20260216",
+        "url": "/th?id=OHR.BanffWinter_ES-ES3143885243_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BanffWinter_ES-ES3143885243",
+        "copyright": "Banff, Alberta, Canadá (© Herbert Rong/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+nacional+Banff&form=hpcapt&filters=HpDate%3a%2220260215_2300%22",
+        "title": "Donde las montañas tocan el cielo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260215_BanffWinter%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "485694e8b46ace9dca35094a59bf0c71",
+        "hsh": "667f3fdb91d814b5cd46cbde4cd9e213",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Hoy admiramos una vista panorámica del impresionante paisaje nevado de Banff, en Alberta, Canadá, un escenario que parece tallado en hielo y luz. En el corazón de las Montañas Rocosas se extiende el Parque Nacional Banff, el más antiguo de Canadá y Patrimonio de la Humanidad. En invierno, los picos se cubren de un blanco continuo y los bosques desprenden olor a resina fría. Las aguas termales ofrecen un respiro humeante frente al aire cortante y los miradores regalan amaneceres rosados que se reflejan en láminas de agua inmóviles. La vida salvaje mantiene su pulso silencioso con huellas de alce en la nieve y vuelos de águila sobre valles detenidos.",
+                "Image": {
+                    "Url": "/th?id=OHR.BanffWinter_ES-ES3143885243_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BanffWinter_ES-ES3143885243_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Donde las montañas tocan el cielo",
+                "Title": "Banff, Alberta, Canadá",
+                "Copyright": "© Herbert Rong/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260216_BanffWinter\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parque+nacional+Banff&form=hpcapt&filters=HpDate:\"20260215_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260216_BanffWinter"
+            },
+            "Ssd": "20260216",
+            "Name": "BanffWinter",
+            "Market": "ES-ES",
+            "Hash": "3143885243",
+            "FullDateString": "16 de feb. de 2026"
+        }
+    },
+    {
         "startdate": "20260214",
         "fullstartdate": "202602142300",
         "enddate": "20260215",

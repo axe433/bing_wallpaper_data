@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260215",
+        "fullstartdate": "202602152300",
+        "enddate": "20260216",
+        "url": "/th?id=OHR.RoseMondayCologne_DE-DE4534942479_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RoseMondayCologne_DE-DE4534942479",
+        "copyright": "Rosenmontagszug in Köln, Nordrhein-Westfalen (© mauritius images GmbH/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Rosenmontag&form=hpcapt&filters=HpDate%3a%2220260215_2300%22",
+        "title": "Kölle Alaaf!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260215_RoseMondayCologne%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "17ee19615010e6522fd9ce8332e18207",
+        "hsh": "db6caa7a20abd92e388ffb06ceae2e1f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Heute richtet sich der Blick auf Köln, wo der Rosenmontagszug den Höhepunkt des Karnevals bildet. Jedes Jahr verwandelt sich die Domstadt in eine farbenfrohe Bühne für eines der größten Straßenfeste Europas. Der sich über mehrere Kilometer durch die Innenstadt schlängelnde Zug besteht aus prachtvoll geschmückten Wagen, Musikkapellen und Fußgruppen, deren Mitglieder Kamelle (Süßigkeiten) und Strüßjer (kleine Blumensträuße) in die Menge werfen. Diese Tradition des organisierten Karnevals reicht bis ins Jahr 1823 zurück.",
+                "Image": {
+                    "Url": "/th?id=OHR.RoseMondayCologne_DE-DE4534942479_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RoseMondayCologne_DE-DE4534942479_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Kölle Alaaf!",
+                "Title": "Rosenmontagszug in Köln, Nordrhein-Westfalen",
+                "Copyright": "© mauritius images GmbH/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.940533,6.959906/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=50.940533,6.959906;S9;Köln, NRW&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Koeln&satid=id.sid%3A3d208265-8862-6a4c-8a0e-9c0291fae4ee&vdpid=7011382368753680385&mb=51.288727~5.993988~50.595963~7.875755&cardbg=%23F98745&dt=1768395600000&tt=K%C3%B6ln%2C%20Nordrhein-Westfalen&tsts0=%2526ty%253D30%2526q%253DKoeln%2526satid%253Did.sid%25253A3d208265-8862-6a4c-8a0e-9c0291fae4ee%2526vdpid%253D7011382368753680385%2526mb%253D51.288727~5.993988~50.595963~7.875755%2526cardbg%253D%252523F98745%2526dt%253D1768395600000&tstt0=K%C3%B6ln%2C%20Nordrhein-Westfalen&cp=50.94387~6.604181&lvl=10.043289&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260216_RoseMondayCologne\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Rosenmontag&form=hpcapt&filters=HpDate:\"20260215_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260216_RoseMondayCologne"
+            },
+            "Ssd": "20260216",
+            "Name": "RoseMondayCologne",
+            "Market": "DE-DE",
+            "Hash": "4534942479",
+            "FullDateString": "16. Feb.. 2026"
+        }
+    },
+    {
         "startdate": "20260214",
         "fullstartdate": "202602142300",
         "enddate": "20260215",

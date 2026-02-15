@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260215",
+        "fullstartdate": "202602150500",
+        "enddate": "20260216",
+        "url": "/th?id=OHR.MontereyHumpbacks_EN-CA0486848533_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MontereyHumpbacks_EN-CA0486848533",
+        "copyright": "Humpback whales in Monterey Bay, California, United States (© Kiliii Fish/Cavan Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Whale&form=hpcapt&filters=HpDate%3a%2220260215_0500%22",
+        "title": "Songs beneath the waves",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260215_MontereyHumpbacks%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "7c5034784da78bace425e53d674c5c6b",
+        "hsh": "93be3087894dbaf8217014416334bd08",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "World Whale Day, observed on the third Sunday of February, began in the 1980s in Hawaii, where communities celebrated the seasonal return of migrating humpback whales. The day gained wider recognition after the International Whaling Commission's 1986 moratorium on commercial whaling, which marked a major milestone in international whale conservation.",
+                "Image": {
+                    "Url": "/th?id=OHR.MontereyHumpbacks_EN-CA0486848533_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MontereyHumpbacks_EN-CA0486848533_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Songs beneath the waves",
+                "Title": "Humpback whales in Monterey Bay, California, United States",
+                "Copyright": "© Kiliii Fish/Cavan Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.8,-121.9/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=36.8,-121.9;S9;Monterey Bay, California, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Monterey%20Bay%2C%20California%2C%20United%20States&satid=id.sid%3A7a521404-94a6-1178-e22e-a4785d548927&vdpid=5058067213018202113&mb=36.998808~-122.349881~36.600414~-121.450241&cardbg=%23FFFFFF&dt=1766431800000&tt=Monterey%20Bay%2C%20California%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253DMonterey%252520Bay%25252C%252520California%25252C%252520United%252520States%2526satid%253Did.sid%25253A7a521404-94a6-1178-e22e-a4785d548927%2526vdpid%253D5058067213018202113%2526mb%253D36.998808~-122.349881~36.600414~-121.450241%2526cardbg%253D%252523FFFFFF%2526dt%253D1766431800000&tstt0=Monterey%20Bay%2C%20California%2C%20United%20States&cp=36.371447~-125.661252&lvl=6.232266&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260215_MontereyHumpbacks\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Whale&form=hpcapt&filters=HpDate:\"20260215_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260215_MontereyHumpbacks"
+            },
+            "Ssd": "20260215",
+            "Name": "MontereyHumpbacks",
+            "Market": "EN-CA",
+            "Hash": "0486848533",
+            "FullDateString": "Feb. 15, 2026"
+        }
+    },
+    {
         "startdate": "20260214",
         "fullstartdate": "202602140500",
         "enddate": "20260215",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260215",
+        "fullstartdate": "202602152300",
+        "enddate": "20260216",
+        "url": "/th?id=OHR.Bornand_FR-FR4225399243_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Bornand_FR-FR4225399243",
+        "copyright": "Le Grand-Bornand, Haute-Savoie (© JACQUES Pierre/hemis.fr/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Le+Grand-Bornand&form=hpcapt&filters=HpDate%3a%2220260215_2300%22",
+        "title": "Parfait pour un grand bol d’air",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260215_Bornand%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bf6e1a4da282a138e1967605ade70178",
+        "hsh": "f7767b51007a3d029ed26c053f55fe05",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Au pied de la chaîne des Aravis, Le Grand-Bornand s’ouvre tel un village de carte postale où l’hiver respire encore l’authenticité montagnarde. Des chalets centenaires et leurs balcons sculptés aux clochers veillant sur les prés gelés, la vallée semble raconter une histoire vieille de plusieurs siècles, façonnée par les bergers et les neiges d’altitude.",
+                "Image": {
+                    "Url": "/th?id=OHR.Bornand_FR-FR4225399243_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Bornand_FR-FR4225399243_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Parfait pour un grand bol d'air",
+                "Title": "Le Grand-Bornand, Haute-Savoie",
+                "Copyright": "© JACQUES Pierre/hemis.fr/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.949156,6.427192/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=45.949156,6.427192;S9;Le Grand-Bornand, Haute-Savoie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&ss=ypid.YN56E17D054581DF8&mb=45.990416~6.378424~45.893244~6.476692&description=62%20Place%20de%20l%27%C3%A9glise%2C%2074450%20Le%20Grand-Bornand%C2%B7Centre%20d%27accueil&dt=1768568400000&tt=Le%20Grand-Bornand&tsts0=%2526ty%253D18%2526ss%253Dypid.YN56E17D054581DF8%2526mb%253D45.990416~6.378424~45.893244~6.476692%2526description%253D62%252520Place%252520de%252520l%252527%2525C3%2525A9glise%25252C%25252074450%252520Le%252520Grand-Bornand%2525C2%2525B7Centre%252520d%252527accueil%2526dt%253D1768568400000&tstt0=Le%20Grand-Bornand&cp=45.941852~6.316723&lvl=12.45&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260216_Bornand\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Le+Grand-Bornand&form=hpcapt&filters=HpDate:\"20260215_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260216_Bornand"
+            },
+            "Ssd": "20260216",
+            "Name": "Bornand",
+            "Market": "FR-FR",
+            "Hash": "4225399243",
+            "FullDateString": "16 févr. 2026"
+        }
+    },
+    {
         "startdate": "20260214",
         "fullstartdate": "202602142300",
         "enddate": "20260215",
