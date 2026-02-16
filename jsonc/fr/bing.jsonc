@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260216",
+        "fullstartdate": "202602162300",
+        "enddate": "20260217",
+        "url": "/th?id=OHR.NewYearLantern_FR-FR2946545684_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NewYearLantern_FR-FR2946545684",
+        "copyright": "Des lanternes rouges pour fêter le Nouvel An chinois (© Gins Wang/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Nouvel+An+chinois&form=hpcapt&filters=HpDate%3a%2220260216_2300%22",
+        "title": "Quinze jours de lumière",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260216_NewYearLantern%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2f7374a1d9b1cc844cd84e9bfee1a389",
+        "hsh": "fb1e2fe6c8e21375376be5fedecf1ef6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Le Nouvel An chinois, souvent appelé Fête du Printemps, ouvre un cycle façonné autant par la lune que par les saisons. Depuis plus de deux millénaires, les familles scrutent la nouvelle lune de l’hiver pour accueillir un renouveau symbolique. Dans les rues, les lanternes rouges illuminent les façades et les places, telles des promesses de chance et de chaleur au cœur de la saison froide.",
+                "Image": {
+                    "Url": "/th?id=OHR.NewYearLantern_FR-FR2946545684_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NewYearLantern_FR-FR2946545684_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Quinze jours de lumière",
+                "Title": "Des lanternes rouges pour fêter le Nouvel An chinois",
+                "Copyright": "© Gins Wang/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Le Nouvel An chinois peut commencer le 20 février au plus tard, ce qui en fait l'une des fêtes du Nouvel An les plus tardives au monde.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260217_NewYearLantern\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Nouvel+An+chinois&form=hpcapt&filters=HpDate:\"20260216_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260217_NewYearLantern"
+            },
+            "Ssd": "20260217",
+            "Name": "NewYearLantern",
+            "Market": "FR-FR",
+            "Hash": "2946545684",
+            "FullDateString": "17 févr. 2026"
+        }
+    },
+    {
         "startdate": "20260215",
         "fullstartdate": "202602152300",
         "enddate": "20260216",

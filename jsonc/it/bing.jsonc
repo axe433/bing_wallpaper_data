@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260216",
+        "fullstartdate": "202602162300",
+        "enddate": "20260217",
+        "url": "/th?id=OHR.NewYearLantern_IT-IT2070900260_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NewYearLantern_IT-IT2070900260",
+        "copyright": "Lanterne rosse per festeggiare il Capodanno cinese (© Gins Wang/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Capodanno+cinese&form=hpcapt",
+        "title": "Quindici giorni di luce",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260216_NewYearLantern%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2f7374a1d9b1cc844cd84e9bfee1a389",
+        "hsh": "6fd6ddba599f26a3675cbcd3f04fe2a8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Il Capodanno cinese, conosciuto anche come Festa di Primavera, segna l’inizio di un nuovo anno nel calendario tradizionale cinese lunisolare, un sistema che segue le fasi della luna e il ritmo delle stagioni. La festività cade con la luna nuova tra il 21 gennaio e il 20 febbraio ed è celebrata da oltre 2.000 anni. Nel 2024, l’UNESCO l'ha inserita nella Lista del Patrimonio Culturale Immateriale dell’Umanità, riconoscendone il profondo valore culturale e storico.",
+                "Image": {
+                    "Url": "/th?id=OHR.NewYearLantern_IT-IT2070900260_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NewYearLantern_IT-IT2070900260_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Quindici giorni di luce",
+                "Title": "Lanterne rosse per festeggiare il Capodanno cinese",
+                "Copyright": "© Gins Wang/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Il Capodanno cinese può iniziare anche il 20 febbraio, rendendolo una delle celebrazioni di Capodanno più tardive al mondo.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260217_NewYearLantern\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Capodanno+cinese&form=hpcapt&filters=HpDate:\"20260216_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260217_NewYearLantern"
+            },
+            "Ssd": "20260217",
+            "Name": "NewYearLantern",
+            "Market": "IT-IT",
+            "Hash": "2070900260",
+            "FullDateString": "17 febbraio 2026"
+        }
+    },
+    {
         "startdate": "20260215",
         "fullstartdate": "202602152300",
         "enddate": "20260216",

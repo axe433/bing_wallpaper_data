@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260216",
+        "fullstartdate": "202602160300",
+        "enddate": "20260217",
+        "url": "/th?id=OHR.BanffWinter_PT-BR7066922976_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BanffWinter_PT-BR7066922976",
+        "copyright": "Lago e montanhas nevadas em Banff, Alberta, Canadá (© Herbert Rong/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=cidade+de+banff&form=hpcapt&mkt=pt-br",
+        "title": "No branco de Banff",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260216_BanffWinter%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "485694e8b46ace9dca35094a59bf0c71",
+        "hsh": "29fd6efe762073d623bf1a788acb9722",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Banff, na província de Alberta, Canadá, não surgiu por acaso nem cresceu em silêncio. Nasceu do encontro entre trilhos de trem, montanhas abruptas e uma descoberta improvável: em 1883, operários da ferrovia encontraram águas termais brotando de uma encosta no coração das Montanhas Rochosas. Dois anos depois, a área foi oficialmente protegida. Assim começava o Parque Nacional de Banff, o primeiro do Canadá e terceiro do mundo — um modelo de conservação que chegou ao Brasil mais de 50 anos depois, em 1937, com os Parques Nacionais de Itatiaia e do Iguaçu.",
+                "Image": {
+                    "Url": "/th?id=OHR.BanffWinter_PT-BR7066922976_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BanffWinter_PT-BR7066922976_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "No branco de Banff",
+                "Title": "Lago e montanhas nevadas em Banff, Alberta, Canadá",
+                "Copyright": "© Herbert Rong/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260216_BanffWinter\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=cidade+de+banff&form=hpcapt&filters=HpDate:\"20260216_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260216_BanffWinter"
+            },
+            "Ssd": "20260216",
+            "Name": "BanffWinter",
+            "Market": "PT-BR",
+            "Hash": "7066922976",
+            "FullDateString": "16 fev. 2026"
+        }
+    },
+    {
         "startdate": "20260215",
         "fullstartdate": "202602150300",
         "enddate": "20260216",

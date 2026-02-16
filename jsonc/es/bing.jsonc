@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260216",
+        "fullstartdate": "202602162300",
+        "enddate": "20260217",
+        "url": "/th?id=OHR.NewYearLantern_ES-ES3189574771_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NewYearLantern_ES-ES3189574771",
+        "copyright": "Faroles rojos para celebrar el Año Nuevo chino (© Gins Wang/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=A%C3%B1o+Nuevo+chino&form=hpcapt&filters=HpDate%3a%2220260216_2300%22",
+        "title": "Quince días de luz y celebración",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260216_NewYearLantern%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2f7374a1d9b1cc844cd84e9bfee1a389",
+        "hsh": "fd7aadd28747684d148b7cda0fbd6022",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El Año Nuevo chino de 2026 comienza hoy y abre un ciclo festivo que se prolonga durante quince días hasta la primera luna llena del año lunar. En 2024, esta celebración fue inscrita en la Lista Representativa del Patrimonio Cultural Inmaterial de la Humanidad de la UNESCO, que reconoce su valor como práctica social compartida por millones de personas dentro y fuera de China.",
+                "Image": {
+                    "Url": "/th?id=OHR.NewYearLantern_ES-ES3189574771_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NewYearLantern_ES-ES3189574771_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Quince días de luz y celebración",
+                "Title": "Faroles rojos para celebrar el Año Nuevo chino",
+                "Copyright": "© Gins Wang/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260217_NewYearLantern\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=A%c3%b1o+Nuevo+chino&form=hpcapt&filters=HpDate:\"20260216_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260217_NewYearLantern"
+            },
+            "Ssd": "20260217",
+            "Name": "NewYearLantern",
+            "Market": "ES-ES",
+            "Hash": "3189574771",
+            "FullDateString": "17 de feb. de 2026"
+        }
+    },
+    {
         "startdate": "20260215",
         "fullstartdate": "202602152300",
         "enddate": "20260216",
