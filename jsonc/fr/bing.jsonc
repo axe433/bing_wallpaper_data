@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260217",
+        "fullstartdate": "202602172300",
+        "enddate": "20260218",
+        "url": "/th?id=OHR.PrzewalskisHorse_FR-FR3326076723_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PrzewalskisHorse_FR-FR3326076723",
+        "copyright": "Chevaux de Przewalski (© Nemyrivskyi Viacheslav/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=cheval+de+Przewalski&form=hpcapt&filters=HpDate%3a%2220260217_2300%22",
+        "title": "Nés pour rester sauvages",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260217_PrzewalskisHorse%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0f6b40ab613362f6a6afccfa75216c9a",
+        "hsh": "95608b4f2f0755101fd0f4afcc837fbf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Certaines espèces n’ont jamais connu la domestication. Le cheval de Przewalski, dernier véritable cheval sauvage encore présent sur Terre, en est l’exemple le plus saisissant. Autrefois répandu dans les steppes d’Asie centrale, il a disparu de son milieu naturel dans les années 1960, victime de la chasse, de la compétition avec le bétail et de territoires de tailles toujours plus réduites. Sa survie tient du miracle : quelques chevaux capturés au début du XXᵉ siècle sont à l’origine de toute la population actuelle.",
+                "Image": {
+                    "Url": "/th?id=OHR.PrzewalskisHorse_FR-FR3326076723_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PrzewalskisHorse_FR-FR3326076723_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Nés pour rester sauvages",
+                "Title": "Chevaux de Przewalski",
+                "Copyright": "© Nemyrivskyi Viacheslav/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Les chevaux sauvages de Przewalski apparaissent dans l'art rupestre européen datant d'il y a 20 000 ans.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260218_PrzewalskisHorse\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=cheval+de+Przewalski&form=hpcapt&filters=HpDate:\"20260217_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260218_PrzewalskisHorse"
+            },
+            "Ssd": "20260218",
+            "Name": "PrzewalskisHorse",
+            "Market": "FR-FR",
+            "Hash": "3326076723",
+            "FullDateString": "18 févr. 2026"
+        }
+    },
+    {
         "startdate": "20260216",
         "fullstartdate": "202602162300",
         "enddate": "20260217",
