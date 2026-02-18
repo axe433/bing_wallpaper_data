@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260218",
+        "fullstartdate": "202602180300",
+        "enddate": "20260219",
+        "url": "/th?id=OHR.SavanaBA_PT-BR8450191150_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SavanaBA_PT-BR8450191150",
+        "copyright": "Savana em Piritiba, Bahia (© Gervanio Guimaraes/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Piritiba&form=hpcapt&mkt=pt-br",
+        "title": "As raízes profundas da resistência",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260218_SavanaBA%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5150fbeeb4548a4ecb127c9faec1d0e2",
+        "hsh": "dc254f59e8edf290e129b9abc159fcdb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "À primeira vista, a imagem engana: o pôr do sol recorta silhuetas que lembram uma savana africana. Mas o cenário é Piritiba, no interior da Bahia, um território de transição que desafia rótulos fáceis. A região está entre a Caatinga — o único bioma exclusivo do país — e o Cerrado — a savana brasileira, um dos biomas mais biodiversos e ameaçados do planeta. O resultado é um mosaico singular de árvores espaçadas e horizontes abertos, com espécies adaptadas a solos pobres, ciclos naturais de fogo e longos períodos de seca.",
+                "Image": {
+                    "Url": "/th?id=OHR.SavanaBA_PT-BR8450191150_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SavanaBA_PT-BR8450191150_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "As raízes profundas da resistência",
+                "Title": "Savana em Piritiba, Bahia",
+                "Copyright": "© Gervanio Guimaraes/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260218_SavanaBA\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Piritiba&form=hpcapt&filters=HpDate:\"20260218_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260218_SavanaBA"
+            },
+            "Ssd": "20260218",
+            "Name": "SavanaBA",
+            "Market": "PT-BR",
+            "Hash": "8450191150",
+            "FullDateString": "18 fev. 2026"
+        }
+    },
+    {
         "startdate": "20260217",
         "fullstartdate": "202602170300",
         "enddate": "20260218",

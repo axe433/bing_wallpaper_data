@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260218",
+        "fullstartdate": "202602181500",
+        "enddate": "20260219",
+        "url": "/th?id=OHR.DragonsEyeRock_JA-JP3484187300_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DragonsEyeRock_JA-JP3484187300",
+        "copyright": "ウッタクレイヴ海岸, ノルウェー (© reisegraf/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%A6%E3%83%83%E3%82%BF%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%B4%E6%B5%B7%E5%B2%B8&form=hpcapt&filters=HpDate%3a%2220260218_1500%22",
+        "title": "龍の眼のような潮溜まり",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260218_DragonsEyeRock%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "82ec903fe3d8910d0c82b039fa0b88af",
+        "hsh": "27912972c72a7335112717dd89e2a2c4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ノルウェー・ロフォーテン諸島にあるウッタクレイヴは、わずか 22 人の住民が暮らす小さな集落です。険しい山々とターコイズブルーの海に囲まれ、白砂のビーチとごつごつした岩場が織りなす風景が特徴であり、さらに、冬はオーロラ観測の名所としても知られています…",
+                "Image": {
+                    "Url": "/th?id=OHR.DragonsEyeRock_JA-JP3484187300_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DragonsEyeRock_JA-JP3484187300_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "龍の眼のような潮溜まり",
+                "Title": "ウッタクレイヴ海岸, ノルウェー",
+                "Copyright": "© reisegraf/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/68.209267,13.506241/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=68.209267,13.506241;S9;ドラゴンズ・アイ, ノルウェー&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Dragon%27s%20Eye%2C%20Uttakleivveien%2C%20Next%20to%20Uttakleiv%20beach%20and%20dragon%27s%20head%2C%20Leknes%2C%20Norway&ss=ypid.YN7996x13941137382204971750&mb=68.211238~13.496393~68.207287~13.51607&description=Uttakleivveien%2C%20Next%20to%20Uttakleiv%20beach%20and%20dragon%27s%20head%20Leknes%C2%B7Attraksjoner%20og%20aktiviteter&cardbg=%23219AB6&dt=1767097800000&tt=Dragon%27s%20Eye&tsts0=%2526ty%253D18%2526q%253DDragon%252527s%252520Eye%25252C%252520Uttakleivveien%25252C%252520Next%252520to%252520Uttakleiv%252520beach%252520and%252520dragon%252527s%252520head%25252C%252520Leknes%25252C%252520Norway%2526ss%253Dypid.YN7996x13941137382204971750%2526mb%253D68.211238~13.496393~68.207287~13.51607%2526description%253DUttakleivveien%25252C%252520Next%252520to%252520Uttakleiv%252520beach%252520and%252520dragon%252527s%252520head%252520Leknes%2525C2%2525B7Attraksjoner%252520og%252520aktiviteter%2526cardbg%253D%252523219AB6%2526dt%253D1767097800000&tstt0=Dragon%27s%20Eye&cp=67.940138~-20.61369&lvl=3.4375641&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260219_DragonsEyeRock\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%a6%e3%83%83%e3%82%bf%e3%82%af%e3%83%ac%e3%82%a4%e3%83%b4%e6%b5%b7%e5%b2%b8&form=hpcapt&filters=HpDate:\"20260218_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260219_DragonsEyeRock"
+            },
+            "Ssd": "20260219",
+            "Name": "DragonsEyeRock",
+            "Market": "JA-JP",
+            "Hash": "3484187300",
+            "FullDateString": "2026 年 2月 月 19 日"
+        }
+    },
+    {
         "startdate": "20260217",
         "fullstartdate": "202602171500",
         "enddate": "20260218",

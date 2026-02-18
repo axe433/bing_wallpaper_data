@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260218",
+        "fullstartdate": "202602182300",
+        "enddate": "20260219",
+        "url": "/th?id=OHR.DragonsEyeRock_DE-DE6085575680_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DragonsEyeRock_DE-DE6085575680",
+        "copyright": "Die Felsformation Dragon’s Eye am Strand von Uttakleiv, Norwegen (© reisegraf/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Uttakleiv+Strand+Norwegen&form=hpcapt&filters=HpDate%3a%2220260218_2300%22",
+        "title": "Im Blick des Drachen",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260218_DragonsEyeRock%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "82ec903fe3d8910d0c82b039fa0b88af",
+        "hsh": "a713d08adb4b14f32eb14a3f75a110bf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Was blickt uns hier an? Ein Auge? Ein Drache? Oder ein stiller Zeuge der Erdgeschichte? Nicht ohne Grund trägt diese Felsformation am Strand von Uttakleiv auf den Lofoten in Norwegen den Namen „Dragon’s Eye“. Sie sieht aus wie das Auge eines Drachen, das aus der Tiefe der Zeit zurückschaut. Doch hinter diesem geheimnisvollen Eindruck steckt Geologie.",
+                "Image": {
+                    "Url": "/th?id=OHR.DragonsEyeRock_DE-DE6085575680_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DragonsEyeRock_DE-DE6085575680_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Im Blick des Drachen",
+                "Title": "Die Felsformation Dragon’s Eye am Strand von Uttakleiv, Norwegen",
+                "Copyright": "© reisegraf/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/68.209267,13.506241/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=68.209267,13.506241;S9;Dragon’s Eye, Uttakleiv-Strand, Norwegen&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Dragon%27s%20Eye%2C%20Uttakleivveien%2C%20Next%20to%20Uttakleiv%20beach%20and%20dragon%27s%20head%2C%20Leknes%2C%20Norway&ss=ypid.YN7996x13941137382204971750&mb=68.211238~13.496393~68.207287~13.51607&description=Uttakleivveien%2C%20Next%20to%20Uttakleiv%20beach%20and%20dragon%27s%20head%20Leknes%C2%B7Attraksjoner%20og%20aktiviteter&cardbg=%23219AB6&dt=1767097800000&tt=Dragon%27s%20Eye&tsts0=%2526ty%253D18%2526q%253DDragon%252527s%252520Eye%25252C%252520Uttakleivveien%25252C%252520Next%252520to%252520Uttakleiv%252520beach%252520and%252520dragon%252527s%252520head%25252C%252520Leknes%25252C%252520Norway%2526ss%253Dypid.YN7996x13941137382204971750%2526mb%253D68.211238~13.496393~68.207287~13.51607%2526description%253DUttakleivveien%25252C%252520Next%252520to%252520Uttakleiv%252520beach%252520and%252520dragon%252527s%252520head%252520Leknes%2525C2%2525B7Attraksjoner%252520og%252520aktiviteter%2526cardbg%253D%252523219AB6%2526dt%253D1767097800000&tstt0=Dragon%27s%20Eye&cp=67.940138~-20.61369&lvl=3.4375641&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260219_DragonsEyeRock\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Uttakleiv+Strand+Norwegen&form=hpcapt&filters=HpDate:\"20260218_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260219_DragonsEyeRock"
+            },
+            "Ssd": "20260219",
+            "Name": "DragonsEyeRock",
+            "Market": "DE-DE",
+            "Hash": "6085575680",
+            "FullDateString": "19. Feb.. 2026"
+        }
+    },
+    {
         "startdate": "20260217",
         "fullstartdate": "202602172300",
         "enddate": "20260218",
