@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260219",
+        "fullstartdate": "202602192300",
+        "enddate": "20260220",
+        "url": "/th?id=OHR.AdamsFirefall_IT-IT7705285382_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AdamsFirefall_IT-IT7705285382",
+        "copyright": "Cascata Horsetail, Parco Nazionale di Yosemite, California, USA (© Jorge Villalba/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Cascata+Horsetail&form=hpcapt",
+        "title": "Dove cade la luce",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260219_AdamsFirefall%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4f04e4bb13ed80cef9f85614cf83d95c",
+        "hsh": "eb4d8ed099f6dc3b6106efc56c5e334a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Yosemite, il parco nazionale sulla costa ovest degli USA, è una terra di pareti di granito, cascate vertiginose e luci spettacolari, un paesaggio che da sempre affascina artisti e visitatori. Tra i suoi fenomeni più suggestivi c’è il Firefall, un nome che racchiude due eventi molto diversi nella storia del parco. Per decenni, a Glacier Point, si svolse un Firefall artificiale: braci incandescenti venivano fatte precipitare dalla scogliera, creando una luminosa cascata di fuoco nella notte.",
+                "Image": {
+                    "Url": "/th?id=OHR.AdamsFirefall_IT-IT7705285382_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AdamsFirefall_IT-IT7705285382_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Dove cade la luce",
+                "Title": "Cascata Horsetail, Parco Nazionale di Yosemite, California, USA",
+                "Copyright": "© Jorge Villalba/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.729841,-119.628648/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=37.729841,-119.628648;S9;Cascata Horsetail, Parco Nazionale di Yosemite, California, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Horsetail%20Fall&mb=37.7365~-119.6245~37.7290~-119.6120&cardbg=%23F98745&dt=1766734200000&tt=Horsetail%20Fall&tsts0=%26ty%3D18%26q%3DHorsetail%2520Fall%26mb%3D37.7365~-119.6245~37.7290~-119.6120%26cardbg%3D%2523F98745%26dt%3D1766734200000&tstt0=Horsetail%20Fall&cp=37.7325~-119.6180&lvl=15.2&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260220_AdamsFirefall\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Cascata+Horsetail&form=hpcapt&filters=HpDate:\"20260219_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260220_AdamsFirefall"
+            },
+            "Ssd": "20260220",
+            "Name": "AdamsFirefall",
+            "Market": "IT-IT",
+            "Hash": "7705285382",
+            "FullDateString": "20 febbraio 2026"
+        }
+    },
+    {
         "startdate": "20260218",
         "fullstartdate": "202602182300",
         "enddate": "20260219",

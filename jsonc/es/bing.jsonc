@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260219",
+        "fullstartdate": "202602192300",
+        "enddate": "20260220",
+        "url": "/th?id=OHR.AdamsFirefall_ES-ES3757807854_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AdamsFirefall_ES-ES3757807854",
+        "copyright": "Cascada Horsetail, parque nacional de Yosemite, California, EE. UU. (© Jorge Villalba/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Cascada+Horsetail&form=hpcapt&filters=HpDate%3a%2220260219_2300%22",
+        "title": "Donde cae la luz",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260219_AdamsFirefall%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4f04e4bb13ed80cef9f85614cf83d95c",
+        "hsh": "e52068b0ca8244ba25de6ef0007a516f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La imagen de hoy muestra la impresionante cascada Horsetail en el parque nacional de Yosemite, en California (Estados Unidos). Una cascada que parece hecha de fuego, ya que el agua cae teñida de tonos naranjas y rojizos cuando la luz del atardecer incide con el ángulo justo, creando una ilusión óptica poco común. Este efecto solo se da durante algunos días de febrero y depende de que haya cielo despejado y suficiente caudal. La cascada Horsetail es estacional, aparece tras el deshielo y alcanza un desnivel cercano a los 650 metros.",
+                "Image": {
+                    "Url": "/th?id=OHR.AdamsFirefall_ES-ES3757807854_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AdamsFirefall_ES-ES3757807854_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Donde cae la luz",
+                "Title": "Cascada Horsetail, parque nacional de Yosemite, California, EE. UU.",
+                "Copyright": "© Jorge Villalba/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.729841,-119.628648/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=37.729841,-119.628648;S9;Cascada Horsetail, parque nacional de Yosemite, California, EE. UU.&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260220_AdamsFirefall\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Cascada+Horsetail&form=hpcapt&filters=HpDate:\"20260219_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260220_AdamsFirefall"
+            },
+            "Ssd": "20260220",
+            "Name": "AdamsFirefall",
+            "Market": "ES-ES",
+            "Hash": "3757807854",
+            "FullDateString": "20 de feb. de 2026"
+        }
+    },
+    {
         "startdate": "20260218",
         "fullstartdate": "202602182300",
         "enddate": "20260219",

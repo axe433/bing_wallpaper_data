@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260219",
+        "fullstartdate": "202602192300",
+        "enddate": "20260220",
+        "url": "/th?id=OHR.LemonFestival_FR-FR1757347913_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LemonFestival_FR-FR1757347913",
+        "copyright": "Fête du citron de Menton (© tanazura/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=F%C3%AAte+du+citron+Menton&form=hpcapt&filters=HpDate%3a%2220260219_2300%22",
+        "title": "Des citrons par milliers",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260219_LemonFestival%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a952f0c1799f14bab47ab11dd24e708a",
+        "hsh": "624d27e646b31441c3705b1955ac559c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sous le ciel d’hiver, Menton s’illumine et envoûte. Jusqu’au 1er mars, le Festival du Citron 2026 transforme la ville en un immense jardin où le parfum frais des agrumes flotte entre mer et montagnes. Dans les allées, les corsos, sculptures monumentales décorées de citrons et d’oranges, illustrent l’histoire solaire de la Côte d’Azur, née du microclimat d’un territoire protégé par les derniers plis des Alpes.",
+                "Image": {
+                    "Url": "/th?id=OHR.LemonFestival_FR-FR1757347913_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LemonFestival_FR-FR1757347913_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Des citrons par milliers",
+                "Title": "Fête du citron de Menton",
+                "Copyright": "© tanazura/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.773289,7.498361/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=43.773289,7.498361;S9;Jardins Biovès, Menton&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260220_LemonFestival\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=F%c3%aate+du+citron+Menton&form=hpcapt&filters=HpDate:\"20260219_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260220_LemonFestival"
+            },
+            "Ssd": "20260220",
+            "Name": "LemonFestival",
+            "Market": "FR-FR",
+            "Hash": "1757347913",
+            "FullDateString": "20 févr. 2026"
+        }
+    },
+    {
         "startdate": "20260218",
         "fullstartdate": "202602182300",
         "enddate": "20260219",

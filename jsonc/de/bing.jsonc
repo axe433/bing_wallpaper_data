@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260219",
+        "fullstartdate": "202602192300",
+        "enddate": "20260220",
+        "url": "/th?id=OHR.SwanHesse_DE-DE7086737425_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SwanHesse_DE-DE7086737425",
+        "copyright": "Höckerschwan schwimmt mit Küken, Hessen (© Wilfried Martin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=H%C3%B6ckerschwan&form=hpcapt&filters=HpDate%3a%2220260219_2300%22",
+        "title": "Geborgenheit auf dem Wasser",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260219_SwanHesse%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3a24ba92a85e24151d87e12c1b32513b",
+        "hsh": "c78873562f720f07a85706753d526dd7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sanft gleitet ein Höckerschwan mit seinen Küken über die ruhige Wasseroberfläche. Diese Szene lässt sich an vielen Seen und Flusslandschaften beobachten – vom Bodensee über die Mecklenburgische Seenplatte bis hin zu renaturierten Flussarmen in zahlreichen Städten. Höckerschwäne finden dort geschützte Uferzonen und reichlich Wasserpflanzen, die ihre wichtigste Nahrungsquelle bilden.",
+                "Image": {
+                    "Url": "/th?id=OHR.SwanHesse_DE-DE7086737425_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SwanHesse_DE-DE7086737425_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Geborgenheit auf dem Wasser",
+                "Title": "Höckerschwan schwimmt mit Küken, Hessen",
+                "Copyright": "© Wilfried Martin/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Höckerschwäne können mehrere Jahrzehnte alt werden und kehren oft über Jahre hinweg an denselben Brutplatz zurück.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260220_SwanHesse\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=H%c3%b6ckerschwan&form=hpcapt&filters=HpDate:\"20260219_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260220_SwanHesse"
+            },
+            "Ssd": "20260220",
+            "Name": "SwanHesse",
+            "Market": "DE-DE",
+            "Hash": "7086737425",
+            "FullDateString": "20. Feb.. 2026"
+        }
+    },
+    {
         "startdate": "20260218",
         "fullstartdate": "202602182300",
         "enddate": "20260219",
