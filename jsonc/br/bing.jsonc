@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260220",
+        "fullstartdate": "202602200300",
+        "enddate": "20260221",
+        "url": "/th?id=OHR.AdamsFirefall_PT-BR4725440029_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AdamsFirefall_PT-BR4725440029",
+        "copyright": "Horsetail Fall no Parque Nacional de Yosemite, Califórnia, EUA (© Jorge Villalba/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=cascata+de+fogo+em+Yosemite&form=hpcapt&mkt=pt-br",
+        "title": "O mundo depois do clique",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260220_AdamsFirefall%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4f04e4bb13ed80cef9f85614cf83d95c",
+        "hsh": "34920830c079dc164d92ad38b8117383",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Fotógrafos não apenas registram paisagens; eles transformam como as vemos. Nos Estados Unidos, cem anos atrás, Ansel Adams eternizou o Parque Nacional de Yosemite, na Califórnia, em preto e branco. Um de seus temas foi El Capitan, monólito de granito que desafia escaladores com seus mais de 900 metros verticais. Décadas depois, Galen Rowell capturou a efêmera Cascata de Fogo, na borda leste de El Capitan. Visto na imagem do dia, o fenômeno luminoso acontece quando, por alguns dias em fevereiro, o pôr do sol sobre a Horsetail Fall parece transformar a água em lava.",
+                "Image": {
+                    "Url": "/th?id=OHR.AdamsFirefall_PT-BR4725440029_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AdamsFirefall_PT-BR4725440029_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O mundo depois do clique",
+                "Title": "Horsetail Fall no Parque Nacional de Yosemite, Califórnia, EUA",
+                "Copyright": "© Jorge Villalba/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260220_AdamsFirefall\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=cascata+de+fogo+em+Yosemite&form=hpcapt&filters=HpDate:\"20260220_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260220_AdamsFirefall"
+            },
+            "Ssd": "20260220",
+            "Name": "AdamsFirefall",
+            "Market": "PT-BR",
+            "Hash": "4725440029",
+            "FullDateString": "20 fev. 2026"
+        }
+    },
+    {
         "startdate": "20260219",
         "fullstartdate": "202602190300",
         "enddate": "20260220",

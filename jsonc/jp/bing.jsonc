@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260220",
+        "fullstartdate": "202602201500",
+        "enddate": "20260221",
+        "url": "/th?id=OHR.TetonFox_JA-JP8453720368_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TetonFox_JA-JP8453720368",
+        "copyright": "アカギツネ, 米国 ワイオミング州 (© Radomir Jakubowski/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%82%AB%E3%82%AE%E3%83%84%E3%83%8D&form=hpcapt&filters=HpDate%3a%2220260220_1500%22",
+        "title": "降り積もる雪の中に生きる凛とした気配",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260220_TetonFox%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3eccd600064e8fe0a219e0d897b33b17",
+        "hsh": "7f9ac4c3d28b53d5749c5ed4dbd90a2c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日の画像は、米国ワイオミング州のグランド・ティトン国立公園に生息するアカギツネ。音を吸収する雪の中でも鋭い聴覚で獲物の気配を感じ取り、静かに待ち構えるハンターです。イヌ科ではあるものの、体の特徴やその行動は猫に似ているとされています。炎のように赤い冬毛は白銀の風景に鮮やかに映え、厳しい冬を生き抜く野生動物の力強さを感じさせてくれます。",
+                "Image": {
+                    "Url": "/th?id=OHR.TetonFox_JA-JP8453720368_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TetonFox_JA-JP8453720368_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "降り積もる雪の中に生きる凛とした気配",
+                "Title": "アカギツネ, 米国 ワイオミング州",
+                "Copyright": "© Radomir Jakubowski/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.790948,-110.681668/15?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=43.790948,-110.681668;S9;グランド・ティトン国立公園, 米国 ワイオミング州&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260221_TetonFox%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260221_TetonFox\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%a2%e3%82%ab%e3%82%ae%e3%83%84%e3%83%8d&form=hpcapt&filters=HpDate:\"20260220_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260221_TetonFox"
+            },
+            "Ssd": "20260221",
+            "Name": "TetonFox",
+            "Market": "JA-JP",
+            "Hash": "8453720368",
+            "FullDateString": "2026 年 2月 月 21 日"
+        }
+    },
+    {
         "startdate": "20260219",
         "fullstartdate": "202602191500",
         "enddate": "20260220",

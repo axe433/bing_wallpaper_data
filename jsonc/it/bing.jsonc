@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260220",
+        "fullstartdate": "202602202300",
+        "enddate": "20260221",
+        "url": "/th?id=OHR.TetonFox_IT-IT8444976522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TetonFox_IT-IT8444976522",
+        "copyright": "Volpe rossa, Parco Nazionale del Grand Teton, Wyoming, USA (© Radomir Jakubowski/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Volpe+rossa&form=hpcapt",
+        "title": "Sussurro invernale",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260220_TetonFox%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3eccd600064e8fe0a219e0d897b33b17",
+        "hsh": "a0552d1ce5603a7c058cee2e5a6c533a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Non siamo tra le Alpi né lungo i crinali degli Appennini. Ci troviamo negli Stati Uniti, nel Parco Nazionale del Grand Teton, dove una volpe rossa emerge dalla nevicata come una presenza silenziosa e vigile. Non è solo un momento suggestivo, ma un segno della straordinaria capacità di adattamento di uno dei predatori più versatili del Nord America. Il suo sguardo acuto e il folto mantello color fuoco le permettono di affrontare senza esitazione i rigidi inverni del Wyoming. La neve ovatta ogni suono, eppure il suo udito finissimo intercetta i movimenti più impercettibili sotto la superficie.",
+                "Image": {
+                    "Url": "/th?id=OHR.TetonFox_IT-IT8444976522_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TetonFox_IT-IT8444976522_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Sussurro invernale",
+                "Title": "Volpe rossa, Parco Nazionale del Grand Teton, Wyoming, USA",
+                "Copyright": "© Radomir Jakubowski/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.790948,-110.681668/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=43.790948,-110.681668;S9;Parco Nazionale del Grand Teton, Wyoming, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Grand%20Teton%20National%20Park&mb=43.8200~-110.7600~43.7600~-110.6100&cardbg=%23F98745&dt=1766734200000&tt=Grand%20Teton%20National%20Park&tsts0=%26ty%3D18%26q%3DGrand%2520Teton%2520National%2520Park%26mb%3D43.8200~-110.7600~43.7600~-110.6100%26cardbg%3D%2523F98745%26dt%3D1766734200000&tstt0=Grand%20Teton%20National%20Park&cp=43.7908~-110.6849&lvl=15.2&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260221_TetonFox\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Volpe+rossa&form=hpcapt&filters=HpDate:\"20260220_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260221_TetonFox"
+            },
+            "Ssd": "20260221",
+            "Name": "TetonFox",
+            "Market": "IT-IT",
+            "Hash": "8444976522",
+            "FullDateString": "21 febbraio 2026"
+        }
+    },
+    {
         "startdate": "20260219",
         "fullstartdate": "202602192300",
         "enddate": "20260220",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260220",
+        "fullstartdate": "202602202300",
+        "enddate": "20260221",
+        "url": "/th?id=OHR.TetonFox_DE-DE7543648384_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TetonFox_DE-DE7543648384",
+        "copyright": "Rotfuchs im Schneefall, Grand‑Teton‑Nationalpark, Wyoming, USA (© Radomir Jakubowski/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Rotfuchs&form=hpcapt&filters=HpDate%3a%2220260220_2300%22",
+        "title": "Die Stille des Winters",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260220_TetonFox%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3eccd600064e8fe0a219e0d897b33b17",
+        "hsh": "1434568e2bba58ae6f6aa7209f9e21c5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Inmitten des dichten Schneefalls im Grand‑Teton‑Nationalpark im US‑Bundesstaat Wyoming hält ein Rotfuchs inne. Dieser flüchtige Moment der Ruhe verdeutlicht, wie souverän sich diese Art selbst in den extremen Wintern der Rocky Mountains behauptet. Südlich des Yellowstone‑Nationalparks gelegen, ist das Schutzgebiet geprägt von hochalpinen Wäldern und weiten Tälern, in denen über Monate hinweg eine geschlossene Schneedecke liegt.",
+                "Image": {
+                    "Url": "/th?id=OHR.TetonFox_DE-DE7543648384_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TetonFox_DE-DE7543648384_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Die Stille des Winters",
+                "Title": "Rotfuchs im Schneefall, Grand‑Teton‑Nationalpark, Wyoming, USA",
+                "Copyright": "© Radomir Jakubowski/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.790948,-110.681668/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=43.790948,-110.681668;S9;Grand‑Teton‑Nationalpark, Wyoming, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260221_TetonFox\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Rotfuchs&form=hpcapt&filters=HpDate:\"20260220_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260221_TetonFox"
+            },
+            "Ssd": "20260221",
+            "Name": "TetonFox",
+            "Market": "DE-DE",
+            "Hash": "7543648384",
+            "FullDateString": "21. Feb.. 2026"
+        }
+    },
+    {
         "startdate": "20260219",
         "fullstartdate": "202602192300",
         "enddate": "20260220",

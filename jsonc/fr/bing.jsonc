@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260220",
+        "fullstartdate": "202602202300",
+        "enddate": "20260221",
+        "url": "/th?id=OHR.CapraIbex_FR-FR0715684177_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CapraIbex_FR-FR0715684177",
+        "copyright": "Le bouquetin des Alpes (© AUSLOOS Henry/hemis.fr/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=bouquetin+des+Alpes&form=hpcapt&filters=HpDate%3a%2220260220_2300%22",
+        "title": "Majesté alpine",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260220_CapraIbex%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "41a677a6414de15d71a25d122a1673a1",
+        "hsh": "c87315f16afee98a933f0919addfd54d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Au lever du jour, dans l’immensité minérale des Alpes, une silhouette se détache sur une arête : c’est le bouquetin des Alpes (Capra Ibex), seigneur des parois, dont les sabots semblent connaître chaque fissure, chaque prise offerte par la roche. Ses cornes arquées sont les témoins d’une histoire ancienne : celle d’une espèce au bord de l’extinction au début du XIXe siècle, sauvée in extremis dans le massif italien du Grand Paradis, avant de reconquérir peu à peu les Alpes françaises.",
+                "Image": {
+                    "Url": "/th?id=OHR.CapraIbex_FR-FR0715684177_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CapraIbex_FR-FR0715684177_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Majesté alpine",
+                "Title": "Le bouquetin des Alpes",
+                "Copyright": "© AUSLOOS Henry/hemis.fr/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Les sabots du bouquetin des Alpes sont faites d’un bord rigide et d’un coussinet central souple. Cela lui permet de grimper sur des parois presque verticales et tenir sur des rebords très fins.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260221_CapraIbex\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=bouquetin+des+Alpes&form=hpcapt&filters=HpDate:\"20260220_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260221_CapraIbex"
+            },
+            "Ssd": "20260221",
+            "Name": "CapraIbex",
+            "Market": "FR-FR",
+            "Hash": "0715684177",
+            "FullDateString": "21 févr. 2026"
+        }
+    },
+    {
         "startdate": "20260219",
         "fullstartdate": "202602192300",
         "enddate": "20260220",
