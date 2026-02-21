@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260221",
+        "fullstartdate": "202602212300",
+        "enddate": "20260222",
+        "url": "/th?id=OHR.MamTorSunrise_DE-DE1078293930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MamTorSunrise_DE-DE1078293930",
+        "copyright": "Mam Tor, Derbyshire, England (© john finney photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mam+Tor+Berg&form=hpcapt&filters=HpDate%3a%2220260221_2300%22",
+        "title": "Die Mutter der Hügel",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260221_MamTorSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c5afabb853e3ae5c96056ee128bcd9f1",
+        "hsh": "757c6b395aaa1914360b2592be032435",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Warum wird ein Berg der „Zitternde Berg“ genannt? Mam Tor, oberhalb von Castleton in der englischen Grafschaft Derbyshire gelegen, liefert die Antwort eindrucksvoll. Der 517 Meter hohe Berg befindet sich im Peak District, dem ältesten Nationalpark des Vereinigten Königreichs, der sich über rund 1.400 Quadratkilometer erstreckt. Sein Name stammt aus dem Altenglischen. „Mam“ bedeutet „Mutter“ und verweist auf die kleineren Hügel, die sich um den Hauptgipfel scharen. Unter der Oberfläche ist Mam Tor jedoch ständig in Bewegung. Seit Jahrhunderten rutschen hier Schiefer- und Sandsteinschichten talwärts. Diese Instabilität führte Ende der 1970er‑Jahre zur endgültigen Aufgabe der wichtigen Verbindungsstraße A625. Ihre Reste gelten heute als ungewöhnliches Fotomotiv.",
+                "Image": {
+                    "Url": "/th?id=OHR.MamTorSunrise_DE-DE1078293930_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MamTorSunrise_DE-DE1078293930_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Die Mutter der Hügel",
+                "Title": "Mam Tor, Derbyshire, England",
+                "Copyright": "© john finney photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/53.387242,-1.819306/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=53.387242,-1.819306;S9;Mam Tor, Castleton, Derbyshire, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260222_MamTorSunrise\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Mam+Tor+Berg&form=hpcapt&filters=HpDate:\"20260221_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260222_MamTorSunrise"
+            },
+            "Ssd": "20260222",
+            "Name": "MamTorSunrise",
+            "Market": "DE-DE",
+            "Hash": "1078293930",
+            "FullDateString": "22. Feb.. 2026"
+        }
+    },
+    {
         "startdate": "20260220",
         "fullstartdate": "202602202300",
         "enddate": "20260221",

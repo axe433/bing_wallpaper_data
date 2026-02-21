@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260221",
+        "fullstartdate": "202602210300",
+        "enddate": "20260222",
+        "url": "/th?id=OHR.TetonFox_PT-BR4620358232_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TetonFox_PT-BR4620358232",
+        "copyright": "Raposa-vermelha no Parque Nacional de Grand Teton, Wyoming, EUA (© Radomir Jakubowski/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=raposa+vermelha&form=hpcapt&mkt=pt-br",
+        "title": "A lógica do instinto",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260221_TetonFox%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3eccd600064e8fe0a219e0d897b33b17",
+        "hsh": "28142a537844d6e648d8953335bfd7ee",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "No Parque Nacional de Grand Teton, em Wyoming, Estados Unidos, esta raposa-vermelha é um ponto de cor em meio à nevasca. Ela é a prova viva de que a evolução sabe o que faz: o pelo espesso e ruivo funciona como armadura contra o inverno rigoroso, enquanto as orelhas giram como radares, captando o menor movimento sob a neve. A raposa escuta, calcula e mergulha com precisão cirúrgica, alcançando presas que nunca chegam a aparecer na superfície.",
+                "Image": {
+                    "Url": "/th?id=OHR.TetonFox_PT-BR4620358232_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TetonFox_PT-BR4620358232_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A lógica do instinto",
+                "Title": "Raposa-vermelha no Parque Nacional de Grand Teton, Wyoming, EUA",
+                "Copyright": "© Radomir Jakubowski/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260221_TetonFox\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=raposa+vermelha&form=hpcapt&filters=HpDate:\"20260221_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260221_TetonFox"
+            },
+            "Ssd": "20260221",
+            "Name": "TetonFox",
+            "Market": "PT-BR",
+            "Hash": "4620358232",
+            "FullDateString": "21 fev. 2026"
+        }
+    },
+    {
         "startdate": "20260220",
         "fullstartdate": "202602200300",
         "enddate": "20260221",

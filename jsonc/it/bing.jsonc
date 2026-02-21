@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260221",
+        "fullstartdate": "202602212300",
+        "enddate": "20260222",
+        "url": "/th?id=OHR.MamTorSunrise_IT-IT4131533173_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MamTorSunrise_IT-IT4131533173",
+        "copyright": "Collina di Mam Tor, Derbyshire, Inghilterra (© john finney photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mam+Tor&form=hpcapt",
+        "title": "La madre delle colline",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260221_MamTorSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c5afabb853e3ae5c96056ee128bcd9f1",
+        "hsh": "a3827a82a5fe6ab127d290fc54cfe24a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "C’è una montagna in Inghilterra che da secoli sembra tremare, tanto da essersi guadagnata il soprannome di Shivering Mountain. È Mam Tor, che domina il villaggio di Castleton nel Peak District, all’interno del primo parco nazionale del Regno Unito. Il suo nome deriva dall’inglese antico, dove “mam” significa madre, un richiamo alle colline minori che pare custodire ai suoi lati. Eppure, questa montagna materna è notoriamente instabile. I suoi strati di scisto e arenaria hanno causato frane per secoli. Molto prima degli interventi moderni, le comunità dell’Età del Bronzo avevano già scelto la sua cima come luogo strategico, costruendo un grande insediamento fortificato più di 3.500 anni fa.",
+                "Image": {
+                    "Url": "/th?id=OHR.MamTorSunrise_IT-IT4131533173_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MamTorSunrise_IT-IT4131533173_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La madre delle colline",
+                "Title": "Collina di Mam Tor, Derbyshire, Inghilterra",
+                "Copyright": "© john finney photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/53.387242,-1.819306/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=53.387242,-1.819306;S9;Collina di Mam Tor, Derbyshire, Inghilterra&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Mam%20Tor%2C%20Castleton%20Road%2C%20Hope%2C%20S33%206%2C%20England&ss=ypid.YNBC4FE4DB39AE98E7&mb=53.355873~-1.824825~53.342564~-1.794484&description=Castleton%20Road%2C%20Hope%20S33%206&cardbg=%23219AB6&dt=1768579200000&tt=Mam%20Tor&tsts0=%2526ty%253D18%2526q%253DMam%252520Tor%25252C%252520Castleton%252520Road%25252C%252520Hope%25252C%252520S33%2525206%25252C%252520England%2526ss%253Dypid.YNBC4FE4DB39AE98E7%2526mb%253D53.355873~-1.824825~53.342564~-1.794484%2526description%253DCastleton%252520Road%25252C%252520Hope%252520S33%2525206%2526cardbg%253D%252523219AB6%2526dt%253D1768579200000&tstt0=Mam%20Tor&cp=53.349219~-1.820126&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260222_MamTorSunrise\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Mam+Tor&form=hpcapt&filters=HpDate:\"20260221_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260222_MamTorSunrise"
+            },
+            "Ssd": "20260222",
+            "Name": "MamTorSunrise",
+            "Market": "IT-IT",
+            "Hash": "4131533173",
+            "FullDateString": "22 febbraio 2026"
+        }
+    },
+    {
         "startdate": "20260220",
         "fullstartdate": "202602202300",
         "enddate": "20260221",
