@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260222",
+        "fullstartdate": "202602222300",
+        "enddate": "20260223",
+        "url": "/th?id=OHR.BavariaEgret_FR-FR5715271621_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BavariaEgret_FR-FR5715271621",
+        "copyright": "La grande aigrette, Haute-Bavière, Allemagne (© Konrad Wothe/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=grande+aigrette&form=hpcapt&filters=HpDate%3a%2220260222_2300%22",
+        "title": "L’élégance immaculée",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260222_BavariaEgret%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0e26707db7faa0dfd8d1ac991d8cde44",
+        "hsh": "a86f8e55c2d0805d919354d0a6f327e5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Avec sa stature fine, son long cou sinueux et son bec jaune vif, cet élégant héron n’est autre que la grande aigrette. Présente sur presque tous les continents, elle fréquente aussi bien les marais de Camargue que les deltas lointains. En tant que carnivore, elle est connue pour chasser ses proies avec une patience et une précision remarquables : elle reste complètement figée, puis se lance comme un éclair sur un poisson, une grenouille ou un petit rongeur. Cette patience presque cérémonielle fait partie de son charme silencieux.",
+                "Image": {
+                    "Url": "/th?id=OHR.BavariaEgret_FR-FR5715271621_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BavariaEgret_FR-FR5715271621_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "L'élégance immaculée",
+                "Title": "La grande aigrette, Haute-Bavière, Allemagne",
+                "Copyright": "© Konrad Wothe/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "La grande aigrette adulte mesure environ un mètre de haut et près de 150 cm d’envergure. C’est le plus grand héron d’Europe.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260223_BavariaEgret\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=grande+aigrette&form=hpcapt&filters=HpDate:\"20260222_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260223_BavariaEgret"
+            },
+            "Ssd": "20260223",
+            "Name": "BavariaEgret",
+            "Market": "FR-FR",
+            "Hash": "5715271621",
+            "FullDateString": "23 févr. 2026"
+        }
+    },
+    {
         "startdate": "20260221",
         "fullstartdate": "202602212300",
         "enddate": "20260222",

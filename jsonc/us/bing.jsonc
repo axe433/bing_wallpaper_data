@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260222",
+        "fullstartdate": "202602220800",
+        "enddate": "20260223",
+        "url": "/th?id=OHR.MamTorSunrise_EN-US2655534073_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MamTorSunrise_EN-US2655534073",
+        "copyright": "The hill of Mam Tor, Derbyshire, England (© john finney photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mam+Tor+hill&form=hpcapt&filters=HpDate%3a%2220260222_0800%22",
+        "title": "The mother of hills",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260222_MamTorSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c5afabb853e3ae5c96056ee128bcd9f1",
+        "hsh": "f3d299e53878b61a603b3d8bebeb3cc6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "'Shivering Mountain' is a dramatic nickname, but Mam Tor has earned it over hundreds of years. Rising above Castleton in England's Peak District, it lies within the United Kingdom's first national park, which spans 555 square miles. This landmark takes its name from Old English, 'mam' meaning 'mother,' a nod to the smaller hills it appears to cradle. Yet this 'mother mountain' is famously unstable. Its layers of shale and sandstone have caused landslips for centuries, including a collapse that permanently closed the A625 road in 1979.",
+                "Image": {
+                    "Url": "/th?id=OHR.MamTorSunrise_EN-US2655534073_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MamTorSunrise_EN-US2655534073_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "The mother of hills",
+                "Title": "The hill of Mam Tor, Derbyshire, England",
+                "Copyright": "© john finney photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/53.387242,-1.819306/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=53.387242,-1.819306;S9;Mam Tor, Castleton, Derbyshire, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260222_MamTorSunrise\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Mam+Tor+hill&form=hpcapt&filters=HpDate:\"20260222_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260222_MamTorSunrise"
+            },
+            "Ssd": "20260222",
+            "Name": "MamTorSunrise",
+            "Market": "EN-US",
+            "Hash": "2655534073",
+            "FullDateString": "Feb 22, 2026"
+        }
+    },
+    {
         "startdate": "20260221",
         "fullstartdate": "202602210800",
         "enddate": "20260222",

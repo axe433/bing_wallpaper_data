@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260222",
+        "fullstartdate": "202602222300",
+        "enddate": "20260223",
+        "url": "/th?id=OHR.TulumLilies_IT-IT7765619476_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TulumLilies_IT-IT7765619476",
+        "copyright": "Ninfee, Grand Cenote, Tulum, Messico (© Christian Vizl/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Cenote&form=hpcapt",
+        "title": "Battito floreale",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260222_TulumLilies%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "558e7c7ec1b709dc81ab2a30c1634ab7",
+        "hsh": "0c449ce5837c9397ac74ac6f320f7801",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ninfee galleggianti, acque cristalline e un mondo nascosto sotto la superficie: benvenuti al Grand Cenote di Tulum, in Messico. Questa dolina naturale si è formata migliaia di anni fa, quando il crollo delle rocce lasciò entrare le acque dell’acquifero. Col tempo la camera si riempì di acqua dolce trasparente, che oggi collega un vasto sistema sotterraneo di grotte. Le ninfee appartengono a una delle linee floreali più antiche della Terra, nate oltre 125 milioni di anni fa, ben prima di alcune specie di dinosauri. Ogni fiore ha evoluto astuti stratagemmi per attirare impollinatori e persino il vento, usando profumo, forma e tempi precisi per sopravvivere in acque ferme.",
+                "Image": {
+                    "Url": "/th?id=OHR.TulumLilies_IT-IT7765619476_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TulumLilies_IT-IT7765619476_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Battito floreale",
+                "Title": "Ninfee, Grand Cenote, Tulum, Messico",
+                "Copyright": "© Christian Vizl/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/20.246545,-87.464165/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=20.246545,-87.464165;S9;Gran Cenote, Tulum, Quintana Roo, Messico&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Grand%20Cenote%2C%20on%20the%20highway%20to%20Coba%20just%20outside%20of%20the%20city%20of%2C%20Tulum%2C%20Quintana%20Roo%2C%20Mexico&ss=ypid.YN9001x15260265630638908906&mb=20.256973~-87.484496~20.236056~-87.443855&description=on%20the%20highway%20to%20Coba%20just%20outside%20of%20the%20city%20of%2C%2077796%20Tulum%2C%20Quintana%20Roo%C2%B7Atracciones%20y%20actividades&cardbg=%23219AB6&dt=1767783600000&tt=Grand%20Cenote&tsts1=%2526ty%253D18%2526q%253DGrand%252520Cenote%25252C%252520on%252520the%252520highway%252520to%252520Coba%252520just%252520outside%252520of%252520the%252520city%252520of%25252C%252520Tulum%25252C%252520Quintana%252520Roo%25252C%252520Mexico%2526ss%253Dypid.YN9001x15260265630638908906%2526mb%253D20.256973~-87.484496~20.236056~-87.443855%2526description%253Don%252520the%252520highway%252520to%252520Coba%252520just%252520outside%252520of%252520the%252520city%252520of%25252C%25252077796%252520Tulum%25252C%252520Quintana%252520Roo%2525C2%2525B7Atracciones%252520y%252520actividades%2526cardbg%253D%252523219AB6%2526dt%253D1767783600000&tstt1=Grand%20Cenote&cp=20.24558~-87.484772&lvl=14.082587&pi=0&ftst=1&ftics=True&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260223_TulumLilies\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Cenote&form=hpcapt&filters=HpDate:\"20260222_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260223_TulumLilies"
+            },
+            "Ssd": "20260223",
+            "Name": "TulumLilies",
+            "Market": "IT-IT",
+            "Hash": "7765619476",
+            "FullDateString": "23 febbraio 2026"
+        }
+    },
+    {
         "startdate": "20260221",
         "fullstartdate": "202602212300",
         "enddate": "20260222",

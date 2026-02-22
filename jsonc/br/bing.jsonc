@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260222",
+        "fullstartdate": "202602220300",
+        "enddate": "20260223",
+        "url": "/th?id=OHR.IgFalls_PT-BR4551523679_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IgFalls_PT-BR4551523679",
+        "copyright": "Vista aérea das Cataratas do Iguaçu, Foz do Iguaçu, Paraná (© NidoHuebl/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=cataratas+do+igua%C3%A7u&form=hpcapt&mkt=pt-br",
+        "title": "Na sinfonia das quedas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260222_IgFalls%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1b250851e09c2c71eca9866bee4c23c4",
+        "hsh": "21b2e58bee2538e6088e0f2d21313cba",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nas Cataratas do Iguaçu, entre Brasil e Argentina, os números falam por si: por quase três quilômetros, 275 quedas movem cerca de 13.500 m³ de água por segundo, fazendo as Cataratas do Niágara parecerem tímidas em comparação. No auge do verão, o rio Iguaçu aumenta sua vazão e as cachoeiras, algumas passando dos 80 metros, rugem ainda mais alto. Registradas aqui em Foz do Iguaçu, no Paraná, elas não pedem atenção, mas comandam o espaço com som, espuma e arco-íris.",
+                "Image": {
+                    "Url": "/th?id=OHR.IgFalls_PT-BR4551523679_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.IgFalls_PT-BR4551523679_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Na sinfonia das quedas",
+                "Title": "Vista aérea das Cataratas do Iguaçu, Foz do Iguaçu, Paraná",
+                "Copyright": "© NidoHuebl/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260222_IgFalls\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=cataratas+do+igua%c3%a7u&form=hpcapt&filters=HpDate:\"20260222_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260222_IgFalls"
+            },
+            "Ssd": "20260222",
+            "Name": "IgFalls",
+            "Market": "PT-BR",
+            "Hash": "4551523679",
+            "FullDateString": "22 fev. 2026"
+        }
+    },
+    {
         "startdate": "20260221",
         "fullstartdate": "202602210300",
         "enddate": "20260222",
