@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260223",
+        "fullstartdate": "202602232300",
+        "enddate": "20260224",
+        "url": "/th?id=OHR.TulumLilies_DE-DE2753544781_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TulumLilies_DE-DE2753544781",
+        "copyright": "Seerosen im Gran Cenote, Tulum, Mexiko (© Christian Vizl/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Gran+Cenote+Tulum+Mexiko&form=hpcapt&filters=HpDate%3a%2220260223_2300%22",
+        "title": "Der Puls unter der Wasseroberfläche",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260223_TulumLilies%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "558e7c7ec1b709dc81ab2a30c1634ab7",
+        "hsh": "7b39aedc616460451e3dafe5c1d95336",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Seerosen auf spiegelglattem Wasser und eine verborgene Welt darunter prägen den Gran Cenote bei Tulum in Mexiko. Die natürliche Karsthöhle entstand vor Tausenden von Jahren, als Kalkgestein einstürzte. Dadurch wurde der Weg für das Grundwasser frei, sodass sich ein Süßwasserbecken bildete, das heute mit einem weit verzweigten Höhlensystem verbunden ist.",
+                "Image": {
+                    "Url": "/th?id=OHR.TulumLilies_DE-DE2753544781_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TulumLilies_DE-DE2753544781_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Der Puls unter der Wasseroberfläche",
+                "Title": "Seerosen im Gran Cenote, Tulum, Mexiko",
+                "Copyright": "© Christian Vizl/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/20.246545,-87.464165/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=20.246545,-87.464165;S9;Gran Cenote, Tulum, Quintana Roo, Mexiko&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260224_TulumLilies\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Gran+Cenote+Tulum+Mexiko&form=hpcapt&filters=HpDate:\"20260223_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260224_TulumLilies"
+            },
+            "Ssd": "20260224",
+            "Name": "TulumLilies",
+            "Market": "DE-DE",
+            "Hash": "2753544781",
+            "FullDateString": "24. Feb.. 2026"
+        }
+    },
+    {
         "startdate": "20260222",
         "fullstartdate": "202602222300",
         "enddate": "20260223",

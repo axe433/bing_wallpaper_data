@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260223",
+        "fullstartdate": "202602231500",
+        "enddate": "20260224",
+        "url": "/th?id=OHR.TulumLilies_JA-JP8645849779_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TulumLilies_JA-JP8645849779",
+        "copyright": "スイレン, メキシコ (© Christian Vizl/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%B9%E3%82%A4%E3%83%AC%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220260223_1500%22",
+        "title": "自然の鏡に映る色とりどりの葉",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260223_TulumLilies%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "558e7c7ec1b709dc81ab2a30c1634ab7",
+        "hsh": "42f0fcc367f59bee657713f5032ee054",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ここはメキシコ・トゥルムにあるグラン・セノーテ。セノーテとは、陥没穴に地下水が溜まってできたもので、澄んだ水が広がる神秘的な泉です。水面にはスイレンが浮かび、その下で魚や亀がゆったりと動き回ります。また、鍾乳石が連なる洞窟内にはトンボなどの昆虫が飛んでおり、何万年もの時をかけて形づくられた穏やかで豊かな自然の風景が広がっています。",
+                "Image": {
+                    "Url": "/th?id=OHR.TulumLilies_JA-JP8645849779_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TulumLilies_JA-JP8645849779_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "自然の鏡に映る色とりどりの葉",
+                "Title": "スイレン, メキシコ",
+                "Copyright": "© Christian Vizl/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/20.246545,-87.464165/14?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=20.246545,-87.464165;S9;グラン・セノーテ, メキシコ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260224_TulumLilies%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260224_TulumLilies\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%b9%e3%82%a4%e3%83%ac%e3%83%b3&form=hpcapt&filters=HpDate:\"20260223_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260224_TulumLilies"
+            },
+            "Ssd": "20260224",
+            "Name": "TulumLilies",
+            "Market": "JA-JP",
+            "Hash": "8645849779",
+            "FullDateString": "2026 年 2月 月 24 日"
+        }
+    },
+    {
         "startdate": "20260222",
         "fullstartdate": "202602221500",
         "enddate": "20260223",
