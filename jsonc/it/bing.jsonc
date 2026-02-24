@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260224",
+        "fullstartdate": "202602242300",
+        "enddate": "20260225",
+        "url": "/th?id=OHR.MendenhallCave_IT-IT7827640897_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MendenhallCave_IT-IT7827640897",
+        "copyright": "Grotta di ghiaccio, ghiacciaio Mendenhall, Alaska, USA (© Designpics/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Ghiacciaio+Mendenhall&form=hpcapt",
+        "title": "L'ultima grotta?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260224_MendenhallCave%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e05db504c8aa21c99f5af7ceb83050ee",
+        "hsh": "1359c86cc2fd020a7e89047578e91cf2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nascosto poco fuori da Juneau, nello stato americano dell’Alaska, il ghiacciaio Mendenhall sembra quasi irreale. Entrare in una delle sue rare grotte di ghiaccio blu è come uscire dal tempo: il silenzio si allarga, la luce filtra attraverso secoli di ghiaccio compattato e tutto si tinge di azzurro. Il ghiacciaio si estende per circa 20 km dal Juneau Icefield, scorrendo lentamente verso la valle, cambiando forma anno dopo anno. Il suo colore intenso nasce dalla densità del ghiaccio, che assorbe quasi tutte le lunghezze d’onda della luce e lascia emergere solo il blu più profondo. Le grotte si formano quando l’acqua di fusione scava tunnel nel ghiaccio e scompaiono altrettanto in fretta, collassando o dissolvendosi al cambiare delle condizioni.",
+                "Image": {
+                    "Url": "/th?id=OHR.MendenhallCave_IT-IT7827640897_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MendenhallCave_IT-IT7827640897_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "L'ultima grotta?",
+                "Title": "Grotta di ghiaccio, ghiacciaio Mendenhall, Alaska, USA",
+                "Copyright": "© Designpics/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/59.373014,-134.506836/2?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=59.373014,-134.506836;S9;Ghiacciaio Mendenhall, Alaska, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Mendenhall%20Glacier%2C%20Alaska%2C%20United%20States&satid=id.sid%3Ad9304e16-6912-582e-28f5-7d1a81418a7b&vdpid=4833520144841965569&mb=58.499541~-134.545076~58.492129~-134.519327&cardbg=%23F98745&dt=1767801600000&tt=mendenhall%20glacier&tsts0=%2526ty%253D30%2526q%253DMendenhall%252520Glacier%25252C%252520Alaska%25252C%252520United%252520States%2526satid%253Did.sid%25253Ad9304e16-6912-582e-28f5-7d1a81418a7b%2526vdpid%253D4833520144841965569%2526mb%253D58.499541~-134.545076~58.492129~-134.519327%2526cardbg%253D%252523F98745%2526dt%253D1767801600000&tstt0=mendenhall%20glacier&cp=61.564574~-150.46875&lvl=4&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260225_MendenhallCave\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ghiacciaio+Mendenhall&form=hpcapt&filters=HpDate:\"20260224_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260225_MendenhallCave"
+            },
+            "Ssd": "20260225",
+            "Name": "MendenhallCave",
+            "Market": "IT-IT",
+            "Hash": "7827640897",
+            "FullDateString": "25 febbraio 2026"
+        }
+    },
+    {
         "startdate": "20260223",
         "fullstartdate": "202602232300",
         "enddate": "20260224",

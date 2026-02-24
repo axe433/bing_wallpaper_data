@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260224",
+        "fullstartdate": "202602242300",
+        "enddate": "20260225",
+        "url": "/th?id=OHR.MendenhallCave_DE-DE4105330129_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MendenhallCave_DE-DE4105330129",
+        "copyright": "Eishöhle im Mendenhall‑Gletscher, Alaska, USA (© Designpics/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Mendenhall%E2%80%91Gletscher&form=hpcapt&filters=HpDate%3a%2220260224_2300%22",
+        "title": "Wenn das Eis leuchtet",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260224_MendenhallCave%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e05db504c8aa21c99f5af7ceb83050ee",
+        "hsh": "6262d5a1a6f8ab48495a8fd4074bd99d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Blaues Licht durchdringt das Eis und lässt eine vergängliche Welt entstehen. Im Inneren des Mendenhall-Gletschers in Alaska, USA, öffnen sich Eishöhlen, die fast unwirklich wirken. Nur wenige Kilometer von Juneau entfernt liegt dieser mächtige Gletscher, dessen stille Räume aus über Jahrhunderte verdichtetem Eis geformt wurden. Er reicht rund 21 Kilometer vom Juneau-Eisfeld ins Tal hinab und verändert dabei stetig seine Gestalt. Seine intensive Färbung entsteht durch die hohe Dichte des Eises, welche vor allem leuchtende Blautöne sichtbar macht.",
+                "Image": {
+                    "Url": "/th?id=OHR.MendenhallCave_DE-DE4105330129_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MendenhallCave_DE-DE4105330129_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Wenn das Eis leuchtet",
+                "Title": "Eishöhle im Mendenhall‑Gletscher, Alaska, USA",
+                "Copyright": "© Designpics/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/59.373014,-134.506836/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=59.373014,-134.506836;S9;Mendenhall‑Gletscher, Alaska, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260225_MendenhallCave\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Mendenhall%e2%80%91Gletscher&form=hpcapt&filters=HpDate:\"20260224_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260225_MendenhallCave"
+            },
+            "Ssd": "20260225",
+            "Name": "MendenhallCave",
+            "Market": "DE-DE",
+            "Hash": "4105330129",
+            "FullDateString": "25. Feb.. 2026"
+        }
+    },
+    {
         "startdate": "20260223",
         "fullstartdate": "202602232300",
         "enddate": "20260224",
