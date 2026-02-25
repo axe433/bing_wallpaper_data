@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260225",
+        "fullstartdate": "202602252300",
+        "enddate": "20260226",
+        "url": "/th?id=OHR.GrandSunset_ES-ES4658848615_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrandSunset_ES-ES4658848615",
+        "copyright": "Gran Cañón y río Colorado, Arizona, EE. UU. (© Matt Anderson Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Gran+Ca%C3%B1%C3%B3n&form=hpcapt&filters=HpDate%3a%2220260225_2300%22",
+        "title": "Una vista majestuosa",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260225_GrandSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "aa30350b7955b20865648a4852af95cc",
+        "hsh": "4589383e3943c9fb6469581a2c50f8aa",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El Gran Cañón se extiende como una escultura majestuosa en el norte de Arizona, Estados Unidos, resultado de millones de años de erosión paciente. Sus paredes revelan capas de roca que narran la historia geológica del continente, con colores cambiantes según la luz y la hora del día. La magnitud del paisaje desafía la escala humana y transmite una sensación de profundidad y silencio difíciles de olvidar, donde el viento y la piedra parecen dialogar sin prisa.",
+                "Image": {
+                    "Url": "/th?id=OHR.GrandSunset_ES-ES4658848615_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GrandSunset_ES-ES4658848615_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Una vista majestuosa",
+                "Title": "Gran Cañón y río Colorado, Arizona, EE. UU.",
+                "Copyright": "© Matt Anderson Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.05159,-112.106194/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=36.05159,-112.106194;S9;Gran Cañón, Arizona, EE. UU.&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260226_GrandSunset\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Gran+Ca%c3%b1%c3%b3n&form=hpcapt&filters=HpDate:\"20260225_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260226_GrandSunset"
+            },
+            "Ssd": "20260226",
+            "Name": "GrandSunset",
+            "Market": "ES-ES",
+            "Hash": "4658848615",
+            "FullDateString": "26 de feb. de 2026"
+        }
+    },
+    {
         "startdate": "20260224",
         "fullstartdate": "202602242300",
         "enddate": "20260225",

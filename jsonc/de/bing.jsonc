@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260225",
+        "fullstartdate": "202602252300",
+        "enddate": "20260226",
+        "url": "/th?id=OHR.BrockenSunrise_DE-DE4032299807_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BrockenSunrise_DE-DE4032299807",
+        "copyright": "Sonnenaufgang auf dem Brocken, Nationalpark Harz, Sachsen‑Anhalt (© imageBROKER/AVTG/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Brocken+Berg+Harz&form=hpcapt&filters=HpDate%3a%2220260225_2300%22",
+        "title": "Wo der Tag erwacht",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260225_BrockenSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "03cc0e33e4deb87d0b311ad37b75010b",
+        "hsh": "3777ca071d8c8ad1a2fd52c8cce13a27",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "In weiches Morgenlicht getaucht zeigt sich der Brocken von seiner ruhigen Seite. Von den Granitklippen der Teufelskanzel reicht der Blick weit über bewaldete Höhen, während in den Tälern noch letzte Nebelfelder liegen. Mit 1.141 Metern ist er der höchste Berg des Harzes und eine der markantesten Landmarken Norddeutschlands. Der Nationalpark rund um den Brocken ist geprägt von dichten Wäldern, offenen Hochlagen und häufig wechselhaftem Wetter. Durch die exponierte Lage entstehen hier besonders am frühen Morgen eindrucksvolle Lichtstimmungen.",
+                "Image": {
+                    "Url": "/th?id=OHR.BrockenSunrise_DE-DE4032299807_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BrockenSunrise_DE-DE4032299807_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Wo der Tag erwacht",
+                "Title": "Sonnenaufgang auf dem Brocken, Nationalpark Harz, Sachsen‑Anhalt",
+                "Copyright": "© imageBROKER/AVTG/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.799422,10.615694/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=51.799422,10.615694;S9;Brocken, Nationalpark Harz, Sachsen‑Anhalt&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260226_BrockenSunrise\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Brocken+Berg+Harz&form=hpcapt&filters=HpDate:\"20260225_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260226_BrockenSunrise"
+            },
+            "Ssd": "20260226",
+            "Name": "BrockenSunrise",
+            "Market": "DE-DE",
+            "Hash": "4032299807",
+            "FullDateString": "26. Feb.. 2026"
+        }
+    },
+    {
         "startdate": "20260224",
         "fullstartdate": "202602242300",
         "enddate": "20260225",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260225",
+        "fullstartdate": "202602252300",
+        "enddate": "20260226",
+        "url": "/th?id=OHR.GrandSunset_IT-IT7877559254_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrandSunset_IT-IT7877559254",
+        "copyright": "Grand Canyon e fiume Colorado, Arizona, USA (© Matt Anderson Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parco+Nazionale+Grand+Canyon&form=hpcapt",
+        "title": "Onde di pietra",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260225_GrandSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "aa30350b7955b20865648a4852af95cc",
+        "hsh": "33e70820449958f99a0437f4c695f370",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Oggi, 26 febbraio, è una data speciale per il Grand Canyon National Park. Nel 1919 venne ufficialmente designato parco nazionale, un passaggio fondamentale per la tutela di una delle meraviglie naturali più iconiche degli Stati Uniti. Al centro di tutto scorre il fiume Colorado, che si snoda per centinaia di chilometri tra strati di roccia, modellando il canyon stagione dopo stagione. Per chi si trova nei dintorni, l’anniversario diventa un invito a fermarsi e ad ascoltare il paesaggio. I programmi e gli incontri guidati dai ranger raccontano la geologia, la fauna e le storie umane intrecciate alle pareti del canyon.",
+                "Image": {
+                    "Url": "/th?id=OHR.GrandSunset_IT-IT7877559254_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GrandSunset_IT-IT7877559254_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Onde di pietra",
+                "Title": "Grand Canyon e fiume Colorado, Arizona, USA",
+                "Copyright": "© Matt Anderson Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.05159,-112.106194/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=36.05159,-112.106194;S9;Grand Canyon, Arizona, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&q=Grand%20Canyon%20National%20Park%2C%20Grand%20Canyon%20Village%2C%20Arizona%2C%20United%20States&mb=36.057331~-112.119062~36.045863~-112.093313&cardbg=%23F98745&dt=1767884400000&tt=Grand%20Canyon%20National%20Park%2C%20Arizona%2C%20United%20States&tsts1=%2526ty%253D18%2526q%253DGrand%252520Canyon%252520National%252520Park%25252C%252520Grand%252520Canyon%252520Village%25252C%252520Arizona%25252C%252520United%252520States%2526mb%253D36.057331~-112.119062~36.045863~-112.093313%2526cardbg%253D%252523F98745%2526dt%253D1767884400000&tstt1=Grand%20Canyon%20National%20Park%2C%20Arizona%2C%20United%20States&cp=34.849875~-116.608887&lvl=6&pi=0&ftst=1&ftics=True&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260226_GrandSunset\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parco+Nazionale+Grand+Canyon&form=hpcapt&filters=HpDate:\"20260225_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260226_GrandSunset"
+            },
+            "Ssd": "20260226",
+            "Name": "GrandSunset",
+            "Market": "IT-IT",
+            "Hash": "7877559254",
+            "FullDateString": "26 febbraio 2026"
+        }
+    },
+    {
         "startdate": "20260224",
         "fullstartdate": "202602242300",
         "enddate": "20260225",

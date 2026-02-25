@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260225",
+        "fullstartdate": "202602250800",
+        "enddate": "20260226",
+        "url": "/th?id=OHR.MendenhallCave_ROW3350238488_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MendenhallCave_ROW3350238488",
+        "copyright": "Ice cave in the Mendenhall Glacier, Alaska, United States (© Designpics/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Mendenhall+Glacier&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260225_MendenhallCave%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e05db504c8aa21c99f5af7ceb83050ee",
+        "hsh": "6f7c2896682d50ec80089d1be8a859e7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Hidden just outside Juneau in Alaska, United States, the Mendenhall Glacier feels almost unreal, inside and out. Step into one of its rare blue ice caves, and the world turns quiet and luminous, with light filtering through centuries-old compacted ice. The glacier stretches about 21 kilometres from the Juneau Icefield, slowly flowing toward the valley below and reshaping itself year by year.",
+                "Image": {
+                    "Url": "/th?id=OHR.MendenhallCave_ROW3350238488_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MendenhallCave_ROW3350238488_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Ice cave in the Mendenhall Glacier, Alaska, United States",
+                "Copyright": "© Designpics/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260225_MendenhallCave\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Mendenhall+Glacier&form=hpcapt&filters=HpDate:\"20260225_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260225_MendenhallCave"
+            },
+            "Ssd": "20260225",
+            "Name": "MendenhallCave",
+            "Market": "ROW",
+            "Hash": "3350238488",
+            "FullDateString": "25 de feb. de 2026"
+        }
+    },
+    {
         "startdate": "20260224",
         "fullstartdate": "202602240800",
         "enddate": "20260225",
