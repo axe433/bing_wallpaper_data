@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260226",
+        "fullstartdate": "202602261830",
+        "enddate": "20260227",
+        "url": "/th?id=OHR.ArcitcCub_EN-IN2131361524_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ArcitcCub_EN-IN2131361524",
+        "copyright": "Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska, United States (© Steven Kazlowski/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=International+Polar+Bear+Day&form=hpcapt&filters=HpDate%3a%2220260226_1830%22",
+        "title": "Life on thinning ice",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260226_ArcitcCub%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "10330bf24ac5edb16442a2806c24a3cc",
+        "hsh": "97ff535264d2e88d4bcb2bf9806efcc0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "International Polar Bear Day underscores how closely these Arctic giants are tied to their frozen realms. Celebrated on February 27, the day shines a light on polar bears and the rapidly changing world beneath their paws. The world's largest land carnivores roam across vast icy landscapes, sometimes covering hundreds of kilometres in search of food. They're perfectly adapted to life on sea ice, with large paws that can span nearly a foot and help them swim for kilometres.",
+                "Image": {
+                    "Url": "/th?id=OHR.ArcitcCub_EN-IN2131361524_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ArcitcCub_EN-IN2131361524_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Life on thinning ice",
+                "Title": "Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska, United States",
+                "Copyright": "© Steven Kazlowski/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/68.75,-143.5/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=68.75,-143.5;S9;Arctic National Wildlife Refuge, Alaska, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260227_ArcitcCub\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=International+Polar+Bear+Day&form=hpcapt&filters=HpDate:\"20260226_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260227_ArcitcCub"
+            },
+            "Ssd": "20260227",
+            "Name": "ArcitcCub",
+            "Market": "EN-IN",
+            "Hash": "2131361524",
+            "FullDateString": "27 Feb, 2026"
+        }
+    },
+    {
         "startdate": "20260225",
         "fullstartdate": "202602251830",
         "enddate": "20260226",

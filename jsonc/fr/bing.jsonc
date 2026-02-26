@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260226",
+        "fullstartdate": "202602262300",
+        "enddate": "20260227",
+        "url": "/th?id=OHR.ArcitcCub_FR-FR4145142371_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ArcitcCub_FR-FR4145142371",
+        "copyright": "Ours polaire sur la banquise, Refuge Faunique National de l’Arctique, Alaska, États-Unis (© Steven Kazlowski/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+internationale+de+l%E2%80%99ours+polaire&form=hpcapt&filters=HpDate%3a%2220260226_2300%22",
+        "title": "La vie sur une banquise toujours plus fine",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260226_ArcitcCub%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "10330bf24ac5edb16442a2806c24a3cc",
+        "hsh": "2225f79b131456b26feb2d25ccd4882e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Célébrée le 27 février, la Journée internationale de l’ours polaire rappelle combien ces animaux nordiques demeurent indissociables de la banquise qui les porte. Dans l’Arctique, ils parcourent parfois des centaines de kilomètres, nageant entre les plaques de glace grâce à leurs larges pattes taillées pour l’eau froide. Maîtres du Grand Nord, ils avancent au rythme d’un monde qui change trop vite sous leurs pas.",
+                "Image": {
+                    "Url": "/th?id=OHR.ArcitcCub_FR-FR4145142371_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ArcitcCub_FR-FR4145142371_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La vie sur une banquise toujours plus fine",
+                "Title": "Ours polaire sur la banquise, Refuge Faunique National de l’Arctique, Alaska, États-Unis",
+                "Copyright": "© Steven Kazlowski/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/68.75,-143.5/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=68.75,-143.5;S9;Refuge Faunique National de l’Arctique, Alaska, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260227_ArcitcCub\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Journ%c3%a9e+internationale+de+l%e2%80%99ours+polaire&form=hpcapt&filters=HpDate:\"20260226_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260227_ArcitcCub"
+            },
+            "Ssd": "20260227",
+            "Name": "ArcitcCub",
+            "Market": "FR-FR",
+            "Hash": "4145142371",
+            "FullDateString": "27 févr. 2026"
+        }
+    },
+    {
         "startdate": "20260225",
         "fullstartdate": "202602252300",
         "enddate": "20260226",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260226",
+        "fullstartdate": "202602260500",
+        "enddate": "20260227",
+        "url": "/th?id=OHR.GrandSunset_EN-CA7701935901_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrandSunset_EN-CA7701935901",
+        "copyright": "Grand Canyon and the Colorado River, Arizona, United States (© Matt Anderson Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Grand+Canyon+National+Park+USA&form=hpcapt&filters=HpDate%3a%2220260226_0500%22",
+        "title": "One grand view",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260226_GrandSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "aa30350b7955b20865648a4852af95cc",
+        "hsh": "5bc4d1f756448601a0d187404c3f88ad",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "The Grand Canyon National Park in Arizona is a place defined by time. Carved by the Colorado River over millions of years, its layered rock walls stretch for hundreds of kilometres across northern Arizona, forming one of the most recognisable landscapes south of the Canadian border. The river continues its quiet work today, shaping the canyon season by season.",
+                "Image": {
+                    "Url": "/th?id=OHR.GrandSunset_EN-CA7701935901_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GrandSunset_EN-CA7701935901_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "One grand view",
+                "Title": "Grand Canyon and the Colorado River, Arizona, United States",
+                "Copyright": "© Matt Anderson Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.05159,-112.106194/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=36.05159,-112.106194;S9;Grand Canyon National Park, Arizona, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260226_GrandSunset\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Grand+Canyon+National+Park+USA&form=hpcapt&filters=HpDate:\"20260226_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260226_GrandSunset"
+            },
+            "Ssd": "20260226",
+            "Name": "GrandSunset",
+            "Market": "EN-CA",
+            "Hash": "7701935901",
+            "FullDateString": "Feb. 26, 2026"
+        }
+    },
+    {
         "startdate": "20260225",
         "fullstartdate": "202602250500",
         "enddate": "20260226",

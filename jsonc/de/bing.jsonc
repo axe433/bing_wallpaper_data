@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260226",
+        "fullstartdate": "202602262300",
+        "enddate": "20260227",
+        "url": "/th?id=OHR.ArcitcCub_DE-DE4317147803_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ArcitcCub_DE-DE4317147803",
+        "copyright": "Eisbärenjunges läuft über Packeis im Arctic National Wildlife Refuge, Alaska, USA (© Steven Kazlowski/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+Eisb%C3%A4ren&form=hpcapt&filters=HpDate%3a%2220260226_2300%22",
+        "title": "Leben auf schwindendem Eis",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260226_ArcitcCub%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "10330bf24ac5edb16442a2806c24a3cc",
+        "hsh": "20158a3ce06b1a209c1cb4d4becb9b77",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Der heutige Internationale Tag des Eisbären bietet die Gelegenheit, die ökologische Situation dieser Tierart besser zu verstehen. Eisbären leben in einem empfindlichen System, das vom Meereis abhängt. Es dient ihnen als Jagdplattform, ermöglicht lange Wanderungen und bildet einen wesentlichen Teil ihres Jahresrhythmus. Der Rückgang der Eisflächen zählt zu den größten Risiken für ihr Überleben. Ein wichtiger Punkt betrifft die Aufzucht der Jungen. Eisbärenjunge kommen extrem klein zur Welt und verbringen ihre ersten Lebenswochen in Schneehöhlen, die die Mutter im tiefen Winter anlegt. Erst später verlassen sie den Bau und beginnen, ihren Lebensraum zu erkunden.",
+                "Image": {
+                    "Url": "/th?id=OHR.ArcitcCub_DE-DE4317147803_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ArcitcCub_DE-DE4317147803_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Leben auf schwindendem Eis",
+                "Title": "Eisbärenjunges läuft über Packeis im Arctic National Wildlife Refuge, Alaska, USA",
+                "Copyright": "© Steven Kazlowski/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/68.75,-143.5/2?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=68.75,-143.5;S9;Arctic National Wildlife Refuge, Alaska, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260227_ArcitcCub\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Internationaler+Tag+Eisb%c3%a4ren&form=hpcapt&filters=HpDate:\"20260226_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260227_ArcitcCub"
+            },
+            "Ssd": "20260227",
+            "Name": "ArcitcCub",
+            "Market": "DE-DE",
+            "Hash": "4317147803",
+            "FullDateString": "27. Feb.. 2026"
+        }
+    },
+    {
         "startdate": "20260225",
         "fullstartdate": "202602252300",
         "enddate": "20260226",
