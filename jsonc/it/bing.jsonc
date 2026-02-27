@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260227",
+        "fullstartdate": "202602272300",
+        "enddate": "20260228",
+        "url": "/th?id=OHR.OloupenaFalls_IT-IT4647121958_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OloupenaFalls_IT-IT4647121958",
+        "copyright": "Cascate Olo'upena, isola di Moloka'i, Hawaii, USA (© Andrew Aylett/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Molokai&form=hpcapt",
+        "title": "Respiro tropicale",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260227_OloupenaFalls%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d1a1f03f20dc1507324a2829ba029e9f",
+        "hsh": "69d3085419dff471542d2fc81a2096de",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Moloka'i, spesso chiamata l’isola più “hawaiiana” di tutte, si trova nelle Hawaii, Stati Uniti, e pulsa a un ritmo lento, dettato dalla natura e dai legami profondi della comunità. Formata dall’attività vulcanica più di un milione di anni fa, tra lunghe creste e ampie valli che emergono dall’Oceano Pacifico, l’isola si distingue per il suo paesaggio unico. A differenza dei vicini più affollati, Moloka'i ha resistito allo sviluppo su larga scala, conservando un forte senso di coesione locale, dove le tradizioni e la cura della terra continuano a essere valori centrali. La vita scorre tra l’oceano, la terra e le storie tramandate di generazione in generazione.",
+                "Image": {
+                    "Url": "/th?id=OHR.OloupenaFalls_IT-IT4647121958_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OloupenaFalls_IT-IT4647121958_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Respiro tropicale",
+                "Title": "Cascate Olo'upena, isola di Moloka'i, Hawaii, USA",
+                "Copyright": "© Andrew Aylett/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/21.16472,-156.8595/2?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=21.16472,-156.8595;S9;Cascate Olo'upena, Moloka'i, Hawaii, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=Olo%CA%BBupena%20Falls%2C%20United%20States&satid=id.sid%3A12b9b198-e63a-811b-0b94-4996121cbcd5&vdpid=5008107852112330753&mb=21.171336~-156.872385~21.158109~-156.846635&cardbg=%23F98745&dt=1767888000000&tt=Olo%CA%BBupena%20Falls%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253DOlo%2525CA%2525BBupena%252520Falls%25252C%252520United%252520States%2526satid%253Did.sid%25253A12b9b198-e63a-811b-0b94-4996121cbcd5%2526vdpid%253D5008107852112330753%2526mb%253D21.171336~-156.872385~21.158109~-156.846635%2526cardbg%253D%252523F98745%2526dt%253D1767888000000&tstt0=Olo%CA%BBupena%20Falls%2C%20United%20States&cp=21.161361~-157.538452&lvl=9&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260228_OloupenaFalls\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Molokai&form=hpcapt&filters=HpDate:\"20260227_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260228_OloupenaFalls"
+            },
+            "Ssd": "20260228",
+            "Name": "OloupenaFalls",
+            "Market": "IT-IT",
+            "Hash": "4647121958",
+            "FullDateString": "28 febbraio 2026"
+        }
+    },
+    {
         "startdate": "20260226",
         "fullstartdate": "202602262300",
         "enddate": "20260227",

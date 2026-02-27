@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260227",
+        "fullstartdate": "202602271500",
+        "enddate": "20260228",
+        "url": "/th?id=OHR.OloupenaFalls_JA-JP0587758979_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OloupenaFalls_JA-JP0587758979",
+        "copyright": "オロウペナ滝, 米国 ハワイ州 (© Andrew Aylett/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%AA%E3%83%AD%E3%82%A6%E3%83%9A%E3%83%8A%E6%BB%9D&form=hpcapt&filters=HpDate%3a%2220260227_1500%22",
+        "title": "緑の断崖絶壁から流れ落ちる白糸",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260227_OloupenaFalls%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d1a1f03f20dc1507324a2829ba029e9f",
+        "hsh": "a9042d82f4dfca8207ad0156ea9b7aae",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ハワイ諸島の中でも、手つかずの自然が色濃く残るモロカイ島。約 670km² の面積を誇り、険しい尾根と深い谷が連なるこの島は、100 万年以上前の火山活動によって形成されました。そして画像は、島の北海岸に位置するオロウペナ滝。米国で最も高く、世界でも四番目の高さを誇るこの滝は、落差約 900m に達します。緑の断崖絶壁から流れ落ちるその姿は、荘厳でありながら繊細な美しさを感じさせます。",
+                "Image": {
+                    "Url": "/th?id=OHR.OloupenaFalls_JA-JP0587758979_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OloupenaFalls_JA-JP0587758979_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "緑の断崖絶壁から流れ落ちる白糸",
+                "Title": "オロウペナ滝, 米国 ハワイ州",
+                "Copyright": "© Andrew Aylett/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/21.160559,-156.856293/9?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=21.160559,-156.856293;S9;オロウペナ滝, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260228_Olo’upenaFalls%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260228_OloupenaFalls\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%aa%e3%83%ad%e3%82%a6%e3%83%9a%e3%83%8a%e6%bb%9d&form=hpcapt&filters=HpDate:\"20260227_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260228_OloupenaFalls"
+            },
+            "Ssd": "20260228",
+            "Name": "OloupenaFalls",
+            "Market": "JA-JP",
+            "Hash": "0587758979",
+            "FullDateString": "2026 年 2月 月 28 日"
+        }
+    },
+    {
         "startdate": "20260226",
         "fullstartdate": "202602261500",
         "enddate": "20260227",

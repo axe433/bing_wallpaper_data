@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260227",
+        "fullstartdate": "202602272300",
+        "enddate": "20260228",
+        "url": "/th?id=OHR.andaluciasevilla_ES-ES3883487322_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.andaluciasevilla_ES-ES3883487322",
+        "copyright": "Sevilla, Andalucía (© Sarmad Al Lawati/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+de+Andaluc%C3%ADa&form=hpcapt&filters=HpDate%3a%2220260227_2300%22",
+        "title": "Cuna del duende",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260227_andaluciasevilla%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c99620610bf4da19da86e8a4a98a1d8d",
+        "hsh": "8ccefe7a7c47661cde7a39a881d592f6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Hoy, como cada 28 de febrero, se celebra el Día de Andalucía, una fecha que conmemora el referéndum de 1980 en el que la ciudadanía decidió acceder a la autonomía. Desde entonces, la bandera blanca y verde y el himno acompañan actos institucionales y celebraciones populares. Andalucía es la comunidad más poblada de España y una de las más extensas, con una historia marcada por el cruce de culturas.",
+                "Image": {
+                    "Url": "/th?id=OHR.andaluciasevilla_ES-ES3883487322_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.andaluciasevilla_ES-ES3883487322_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Cuna del duende",
+                "Title": "Sevilla, Andalucía",
+                "Copyright": "© Sarmad Al Lawati/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.4098,-5.948225/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=37.4098,-5.948225;S9;Sevilla&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260228_andaluciasevilla\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=D%c3%ada+de+Andaluc%c3%ada&form=hpcapt&filters=HpDate:\"20260227_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260228_andaluciasevilla"
+            },
+            "Ssd": "20260228",
+            "Name": "andaluciasevilla",
+            "Market": "ES-ES",
+            "Hash": "3883487322",
+            "FullDateString": "28 de feb. de 2026"
+        }
+    },
+    {
         "startdate": "20260226",
         "fullstartdate": "202602262300",
         "enddate": "20260227",
