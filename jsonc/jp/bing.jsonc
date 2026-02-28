@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260228",
+        "fullstartdate": "202602281500",
+        "enddate": "20260301",
+        "url": "/th?id=OHR.BalearesDay_JA-JP8835307227_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BalearesDay_JA-JP8835307227",
+        "copyright": "イビサ島, スペイン (© tokar/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%A4%E3%83%93%E3%82%B5%E5%B3%B6&form=hpcapt&filters=HpDate%3a%2220260228_1500%22",
+        "title": "ダンスミュージックの聖地",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260228_BalearesDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "17d2b51461cb6ce29382e5ac2fdcbc46",
+        "hsh": "bd1be5b9da19059923d83ee627238f6c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "地中海に浮かぶイビサ島。スペイン・バレアレス諸島に属するこの島は、世界的に有名なリゾート地です。透き通るような青い海と白い砂浜が広がり、白壁の家々が島の各地に点在しています。特に夏には、世界中から観光客や音楽ファンが集まり、クラブやビーチで世界的に有名な DJ によるパーティーが開かれることで知られています。",
+                "Image": {
+                    "Url": "/th?id=OHR.BalearesDay_JA-JP8835307227_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BalearesDay_JA-JP8835307227_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "ダンスミュージックの聖地",
+                "Title": "イビサ島, スペイン",
+                "Copyright": "© tokar/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.964145,1.418331/9?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=38.964145,1.418331;S9;イビサ島, スペイン&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260301_BalearesDay%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260301_BalearesDay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%a4%e3%83%93%e3%82%b5%e5%b3%b6&form=hpcapt&filters=HpDate:\"20260228_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260301_BalearesDay"
+            },
+            "Ssd": "20260301",
+            "Name": "BalearesDay",
+            "Market": "JA-JP",
+            "Hash": "8835307227",
+            "FullDateString": "2026 年 3月 月 1 日"
+        }
+    },
+    {
         "startdate": "20260227",
         "fullstartdate": "202602271500",
         "enddate": "20260228",

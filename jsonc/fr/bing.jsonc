@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260228",
+        "fullstartdate": "202602282300",
+        "enddate": "20260301",
+        "url": "/th?id=OHR.BalearesDay_FR-FR4421004317_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BalearesDay_FR-FR4421004317",
+        "copyright": "Ibiza, Îles Baléares, Espagne (© tokar/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=ville+Ibiza&form=hpcapt&filters=HpDate%3a%2220260228_2300%22",
+        "title": "Les traditions insulaires à l’honneur",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260228_BalearesDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "17d2b51461cb6ce29382e5ac2fdcbc46",
+        "hsh": "6c3ea27679641ab7797ed128f877da17",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Aujourd’hui, les îles Baléares sont à l’honneur. Cette journée célèbre l’identité commune de cet archipel profondément méditerranéen — Majorque, Minorque, Ibiza et Formentera — tout en rappelant l’entrée en vigueur, le 1ᵉʳ mars 1983, de leur statut d’autonomie. Comme un écho à certains littoraux français où les traditions maritimes persistent encore, la mer guide ici le rythme de la vie quotidienne et alimente un patrimoine de musique, d’artisanat et d’hospitalité.",
+                "Image": {
+                    "Url": "/th?id=OHR.BalearesDay_FR-FR4421004317_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BalearesDay_FR-FR4421004317_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Les traditions insulaires à l'honneur",
+                "Title": "Ibiza, Îles Baléares, Espagne",
+                "Copyright": "© tokar/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.90884,1.432392/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=38.90884,1.432392;S9;Ibiza, Îles Baléares, Espagne&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260301_BalearesDay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=ville+Ibiza&form=hpcapt&filters=HpDate:\"20260228_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260301_BalearesDay"
+            },
+            "Ssd": "20260301",
+            "Name": "BalearesDay",
+            "Market": "FR-FR",
+            "Hash": "4421004317",
+            "FullDateString": "1 mars 2026"
+        }
+    },
+    {
         "startdate": "20260227",
         "fullstartdate": "202602272300",
         "enddate": "20260228",

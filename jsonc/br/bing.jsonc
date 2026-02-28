@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260228",
+        "fullstartdate": "202602280300",
+        "enddate": "20260301",
+        "url": "/th?id=OHR.OloupenaFalls_PT-BR4023643923_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OloupenaFalls_PT-BR4023643923",
+        "copyright": "Cachoeira Olo’upena, ilha de Molokai, Havaí, Estados Unidos (© Andrew Aylett/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Molokai+Havai&form=hpcapt&mkt=pt-br",
+        "title": "No compasso secreto das ilhas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260228_OloupenaFalls%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d1a1f03f20dc1507324a2829ba029e9f",
+        "hsh": "68e8f3dc66c97ecb92bb97b9574e6287",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A Ilha de Molokai emerge do Pacífico como um segredo antigo: vales estreitos, alguns dos penhascos mais altos do mundo e cachoeiras como a Olo’upena Falls, com seus quase mil metros, visíveis apenas por ar ou mar. Formada por atividade vulcânica há mais de um milhão de anos, a ilha ocupa cerca de 670 km². Aqui, o tempo segue o ritmo da hula (dança tradicional havaiana), da pesca artesanal e das narrativas transmitidas por gerações que mantêm a ilha viva, íntegra e sem multidões.",
+                "Image": {
+                    "Url": "/th?id=OHR.OloupenaFalls_PT-BR4023643923_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OloupenaFalls_PT-BR4023643923_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "No compasso secreto das ilhas",
+                "Title": "Cachoeira Olo’upena, ilha de Molokai, Havaí, Estados Unidos",
+                "Copyright": "© Andrew Aylett/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260228_OloupenaFalls\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Molokai+Havai&form=hpcapt&filters=HpDate:\"20260228_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260228_OloupenaFalls"
+            },
+            "Ssd": "20260228",
+            "Name": "OloupenaFalls",
+            "Market": "PT-BR",
+            "Hash": "4023643923",
+            "FullDateString": "28 fev. 2026"
+        }
+    },
+    {
         "startdate": "20260227",
         "fullstartdate": "202602270300",
         "enddate": "20260228",

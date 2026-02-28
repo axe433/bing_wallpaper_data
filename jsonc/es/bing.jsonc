@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260228",
+        "fullstartdate": "202602282300",
+        "enddate": "20260301",
+        "url": "/th?id=OHR.BalearesDay_ES-ES6059429912_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BalearesDay_ES-ES6059429912",
+        "copyright": "Ibiza, Islas Baleares (© tokar/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+de+las+Islas+Baleares&form=hpcapt&filters=HpDate%3a%2220260228_2300%22",
+        "title": "Tradición a cada paso",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260228_BalearesDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "17d2b51461cb6ce29382e5ac2fdcbc46",
+        "hsh": "d5e3e303af41a6f7dc25ab290033ca2c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Cada 1 de marzo se celebra el Día de las Islas Baleares, una jornada que recuerda la entrada en vigor del Estatuto de Autonomía en 1983 y reivindica la identidad compartida de Mallorca, Menorca, Ibiza y Formentera. Es un día festivo en todo el archipiélago, marcado por actos institucionales, actividades culturales y la puesta en valor de tradiciones locales. La imagen aérea de Ibiza refleja esa diversidad insular, con un paisaje donde el mar define el ritmo de la vida y conecta historia, naturaleza y cultura mediterránea.",
+                "Image": {
+                    "Url": "/th?id=OHR.BalearesDay_ES-ES6059429912_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BalearesDay_ES-ES6059429912_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Tradición a cada paso",
+                "Title": "Ibiza, Islas Baleares",
+                "Copyright": "© tokar/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.90884,1.432392/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=38.90884,1.432392;S9;Ibiza, Islas Baleares&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260301_BalearesDay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=D%c3%ada+de+las+Islas+Baleares&form=hpcapt&filters=HpDate:\"20260228_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260301_BalearesDay"
+            },
+            "Ssd": "20260301",
+            "Name": "BalearesDay",
+            "Market": "ES-ES",
+            "Hash": "6059429912",
+            "FullDateString": "1 de mar. de 2026"
+        }
+    },
+    {
         "startdate": "20260227",
         "fullstartdate": "202602272300",
         "enddate": "20260228",
