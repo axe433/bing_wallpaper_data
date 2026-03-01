@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260301",
+        "fullstartdate": "202603012300",
+        "enddate": "20260302",
+        "url": "/th?id=OHR.SamuiThailand_DE-DE5695333511_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SamuiThailand_DE-DE5695333511",
+        "copyright": "Hafen und Longtail‑Boote auf Ko Samui, Thailand (© Foto2rich/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Ko+Samui+Thailand&form=hpcapt&filters=HpDate%3a%2220260301_2300%22",
+        "title": "Geschichten auf dem Wasser",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260301_SamuiThailand%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ac1caf89f631c083f7096b08d7cfde30",
+        "hsh": "aa2aa6e18a88aaeea5703bc315765cc0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Wer auf Ko Samui ankommt, merkt schnell, wie stark das Leben auf dieser thailändischen Insel vom Wasser geprägt ist. Die schlanken Longtail‑Boote, die im heutigen Bild zu sehen sind, gehören seit dem frühen 20. Jahrhundert zum Alltag der Menschen auf Samui. Fischer kombinierten damals einfache Motoren mit schmalen Holzrümpfen, um auch flache Küstenbereiche sicher zu erreichen. Bis heute entstehen viele Boote in Handarbeit. Sie werden bunt bemalt und mit Stoffbändern verziert, die Glück bringen und die Crew schützen sollen.",
+                "Image": {
+                    "Url": "/th?id=OHR.SamuiThailand_DE-DE5695333511_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SamuiThailand_DE-DE5695333511_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Geschichten auf dem Wasser",
+                "Title": "Hafen und Longtail‑Boote auf Ko Samui, Thailand",
+                "Copyright": "© Foto2rich/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/9.48921,99.991724/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=9.48921,99.991724;S9;Ko Samui, Surat Thani, Thailand&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260302_SamuiThailand\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ko+Samui+Thailand&form=hpcapt&filters=HpDate:\"20260301_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260302_SamuiThailand"
+            },
+            "Ssd": "20260302",
+            "Name": "SamuiThailand",
+            "Market": "DE-DE",
+            "Hash": "5695333511",
+            "FullDateString": "2. März. 2026"
+        }
+    },
+    {
         "startdate": "20260228",
         "fullstartdate": "202602282300",
         "enddate": "20260301",

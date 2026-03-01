@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260301",
+        "fullstartdate": "202603010800",
+        "enddate": "20260302",
+        "url": "/th?id=OHR.BalearesDay_ROW4071522082_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BalearesDay_ROW4071522082",
+        "copyright": "Ibiza, Balearic Islands, Spain (© tokar/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Ibiza+city&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260301_BalearesDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "17d2b51461cb6ce29382e5ac2fdcbc46",
+        "hsh": "ff4af5c1652081bbd3adf026dfdb974e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Today we celebrate the stunning Spanish islands of the Balearic archipelago. This diverse and deeply Mediterranean territory includes Mallorca, Menorca, Ibiza and Formentera, each shaped by centuries of history and a close relationship with the sea.",
+                "Image": {
+                    "Url": "/th?id=OHR.BalearesDay_ROW4071522082_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BalearesDay_ROW4071522082_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Ibiza, Balearic Islands, Spain",
+                "Copyright": "© tokar/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260301_BalearesDay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ibiza+city&form=hpcapt&filters=HpDate:\"20260301_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260301_BalearesDay"
+            },
+            "Ssd": "20260301",
+            "Name": "BalearesDay",
+            "Market": "ROW",
+            "Hash": "4071522082",
+            "FullDateString": "1 mar 2026"
+        }
+    },
+    {
         "startdate": "20260228",
         "fullstartdate": "202602280800",
         "enddate": "20260301",

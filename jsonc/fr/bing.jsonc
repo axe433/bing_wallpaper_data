@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260301",
+        "fullstartdate": "202603012300",
+        "enddate": "20260302",
+        "url": "/th?id=OHR.SamuiThailand_FR-FR4647225820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SamuiThailand_FR-FR4647225820",
+        "copyright": "Bateaux à longue queue sur le port de Ko Samui, Thaïlande (© Foto2rich/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Ko+Samui+Tha%C3%AFlande&form=hpcapt&filters=HpDate%3a%2220260301_2300%22",
+        "title": "Un héritage flottant",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260301_SamuiThailand%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ac1caf89f631c083f7096b08d7cfde30",
+        "hsh": "7860bd2d3e01f63f0763404dc1394998",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ne vous laissez pas tromper par la silhouette frêle des barques traditionnelles de Ko Samui, en Thaïlande. Créées grâce à l’ingéniosité des pêcheurs du début du XXᵉ siècle, ces « ruea hang yao » (bateaux à longue queue) sont faites de moteurs recyclés et de bois taillé à la main. Leurs coques éclatantes et leurs rubans colorés, offerts en signe de protection bouddhiste, témoignent du savoir-faire insulaire transmis de génération en génération.",
+                "Image": {
+                    "Url": "/th?id=OHR.SamuiThailand_FR-FR4647225820_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SamuiThailand_FR-FR4647225820_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un héritage flottant",
+                "Title": "Bateaux à longue queue sur le port de Ko Samui, Thaïlande",
+                "Copyright": "© Foto2rich/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/9.48921,99.991724/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=9.48921,99.991724;S9;Ko Samui, Surat Thani, Thaïlande&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260302_SamuiThailand\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ko+Samui+Tha%c3%aflande&form=hpcapt&filters=HpDate:\"20260301_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260302_SamuiThailand"
+            },
+            "Ssd": "20260302",
+            "Name": "SamuiThailand",
+            "Market": "FR-FR",
+            "Hash": "4647225820",
+            "FullDateString": "2 mars 2026"
+        }
+    },
+    {
         "startdate": "20260228",
         "fullstartdate": "202602282300",
         "enddate": "20260301",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260301",
+        "fullstartdate": "202603012300",
+        "enddate": "20260302",
+        "url": "/th?id=OHR.PiazzaCatania_IT-IT5422643580_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PiazzaCatania_IT-IT5422643580",
+        "copyright": "Piazza Vincenzo Bellini, Catania, Sicilia (© KavalenkavaVolha/iStock)",
+        "copyrightlink": "https://www.bing.com/search?q=Catania&form=hpcapt",
+        "title": "Pietra e Palcoscenico",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260301_PiazzaCatania%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "490cd73a71414b0b7cb538464500df31",
+        "hsh": "7480e874eca569f2a8ec0ffdf76641c3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Tra il trambusto cittadino e il profumo di aranci, Piazza Vincenzo Bellini a Catania vive di storia e di architettura. Al centro, il Teatro Massimo Vincenzo Bellini domina la scena, custode silenzioso di melodie e spettacoli che hanno attraversato i secoli. I palazzi barocchi che circondano la piazza raccontano la Sicilia attraverso balconi decorati di color ocra e facciate ricche di dettagli, mentre il chiacchiericcio dei passanti, i passi frettolosi e il tintinnio dei bicchieri nei caffè animano lo spazio in un ritmo urbano unico.",
+                "Image": {
+                    "Url": "/th?id=OHR.PiazzaCatania_IT-IT5422643580_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PiazzaCatania_IT-IT5422643580_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Pietra e Palcoscenico",
+                "Title": "Piazza Vincenzo Bellini, Catania, Sicilia",
+                "Copyright": "© KavalenkavaVolha/iStock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.50471,15.090853/12?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=37.50471,15.090853;S9;Piazza Vincenzo Bellini, Catania, Sicilia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260302_PiazzaCatania\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Catania&form=hpcapt&filters=HpDate:\"20260301_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260302_PiazzaCatania"
+            },
+            "Ssd": "20260302",
+            "Name": "PiazzaCatania",
+            "Market": "IT-IT",
+            "Hash": "5422643580",
+            "FullDateString": "2 marzo 2026"
+        }
+    },
+    {
         "startdate": "20260228",
         "fullstartdate": "202602282300",
         "enddate": "20260301",

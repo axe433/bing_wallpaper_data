@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260301",
+        "fullstartdate": "202603010800",
+        "enddate": "20260302",
+        "url": "/th?id=OHR.SuffragettesNY_EN-US2900175138_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SuffragettesNY_EN-US2900175138",
+        "copyright": "Suffragette celebrations, August 27, 1920, New York City (© Keystone/Hulton Archive/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Womens+History+Month&form=hpcapt&filters=HpDate%3a%2220260301_0800%22",
+        "title": "A victory that endures",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260301_SuffragettesNY%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "49298ef00ed71cd135e4e2a01661b37b",
+        "hsh": "208e8c34a86ba7e5da018d3abf2be32a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "March welcomes the promise of spring and the celebration of Women's History Month, honoring trailblazers who changed history and continue to inspire future generations. It also amplifies emerging voices that lead us toward equality, showing that progress remains possible. Let's celebrate women—bold thinkers, innovators, and leaders—who prove that meaningful change begins with determination.",
+                "Image": {
+                    "Url": "/th?id=OHR.SuffragettesNY_EN-US2900175138_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SuffragettesNY_EN-US2900175138_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "A victory that endures",
+                "Title": "Suffragette celebrations, August 27, 1920, New York City",
+                "Copyright": "© Keystone/Hulton Archive/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Carrie Chapman Catt was a leading suffragist in the late 19th and early 20th centuries whose leadership helped secure women's right to vote in the US.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260301_SuffragettesNY\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Womens+History+Month&form=hpcapt&filters=HpDate:\"20260301_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260301_SuffragettesNY"
+            },
+            "Ssd": "20260301",
+            "Name": "SuffragettesNY",
+            "Market": "EN-US",
+            "Hash": "2900175138",
+            "FullDateString": "Mar 1, 2026"
+        }
+    },
+    {
         "startdate": "20260228",
         "fullstartdate": "202602280800",
         "enddate": "20260301",

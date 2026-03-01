@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260301",
+        "fullstartdate": "202603010300",
+        "enddate": "20260302",
+        "url": "/th?id=OHR.AnivRio_PT-BR3855636507_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AnivRio_PT-BR3855636507",
+        "copyright": "Bondinho e Pão de Açúcar no Rio de Janeiro (© tokar/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=rio+de+janeiro&form=hpcapt&mkt=pt-br",
+        "title": "Entre mar, morros e memória",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260301_AnivRio%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bbbda5591d2bde2fd42085bddd0aa259",
+        "hsh": "df51b7962dccb8f7213e605e907e5e9a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Se o Rio de Janeiro fosse uma história, a imagem de hoje seria um de seus capítulos mais icônicos. Ela captura a essência dessa metrópole que nasceu em 1º de março de 1565 para proteger a Baía de Guanabara e controlar o comércio de pau-brasil. Desde então, passou de cidade militar a centro cultural, de porto estratégico a símbolo nacional. Enfrentou invasões, incêndios e grandes mudanças políticas, mas soube transformar desafios em poesia urbana. Hoje, a capital fluminense é um dos cenários mais reconhecíveis do planeta.",
+                "Image": {
+                    "Url": "/th?id=OHR.AnivRio_PT-BR3855636507_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AnivRio_PT-BR3855636507_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Entre mar, morros e memória",
+                "Title": "Bondinho e Pão de Açúcar no Rio de Janeiro",
+                "Copyright": "© tokar/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260301_AnivRio\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=rio+de+janeiro&form=hpcapt&filters=HpDate:\"20260301_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260301_AnivRio"
+            },
+            "Ssd": "20260301",
+            "Name": "AnivRio",
+            "Market": "PT-BR",
+            "Hash": "3855636507",
+            "FullDateString": "1 mar. 2026"
+        }
+    },
+    {
         "startdate": "20260228",
         "fullstartdate": "202602280300",
         "enddate": "20260301",
