@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260302",
+        "fullstartdate": "202603022300",
+        "enddate": "20260303",
+        "url": "/th?id=OHR.BabyElephant_DE-DE5859439374_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BabyElephant_DE-DE5859439374",
+        "copyright": "Afrikanisches Elefantenkalb mit Mutter im Masai‑Mara‑Nationalreservat, Kenia (© Denis-Huot/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Tag+des+Artenschutzes+2026&form=hpcapt&filters=HpDate%3a%2220260302_2300%22",
+        "title": "Hüter der Wildnis",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260302_BabyElephant%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0bc6a1a18c4e973be3831be96f902e0f",
+        "hsh": "39153fde2ad262eccf9ae96b945bd5e7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Der Tag des Artenschutzes erinnert uns daran, wie eng unser Wohlergehen mit einer intakten Natur verbunden ist. Auf dem Bild sehen wir einen Afrikanischen Elefanten mit seinem Jungtier. Elefanten verbreiten Samen, halten Landschaften im Gleichgewicht und sichern so das Überleben zahlreicher Pflanzenarten. Vor diesem Hintergrund rücken anlässlich des Aktionstages Heil‑ und Aromapflanzen in den Fokus. Weltweit werden Schätzungen der Vereinten Nationen zufolge rund 50.000 bis 70.000 Arten für die traditionelle Medizin, die Kosmetik oder die Lebensmittelproduktion genutzt.",
+                "Image": {
+                    "Url": "/th?id=OHR.BabyElephant_DE-DE5859439374_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BabyElephant_DE-DE5859439374_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Hüter der Wildnis",
+                "Title": "Afrikanisches Elefantenkalb mit Mutter im Masai‑Mara‑Nationalreservat, Kenia",
+                "Copyright": "© Denis-Huot/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-1.529493,35.170876/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=-1.529493,35.170876;S9;Masai‑Mara‑Nationalreservat, Kenia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260303_BabyElephant\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tag+des+Artenschutzes+2026&form=hpcapt&filters=HpDate:\"20260302_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260303_BabyElephant"
+            },
+            "Ssd": "20260303",
+            "Name": "BabyElephant",
+            "Market": "DE-DE",
+            "Hash": "5859439374",
+            "FullDateString": "3. März. 2026"
+        }
+    },
+    {
         "startdate": "20260301",
         "fullstartdate": "202603012300",
         "enddate": "20260302",

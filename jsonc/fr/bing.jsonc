@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260302",
+        "fullstartdate": "202603022300",
+        "enddate": "20260303",
+        "url": "/th?id=OHR.BabyElephant_FR-FR5508838935_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BabyElephant_FR-FR5508838935",
+        "copyright": "Bébé éléphant jouant avec sa mère, Réserve nationale du Masai Mara, Kenya (© Denis-Huot/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+mondiale+de+la+vie+sauvage+2026&form=hpcapt&filters=HpDate%3a%2220260302_2300%22",
+        "title": "Gardiens de la faune sauvage",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260302_BabyElephant%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0bc6a1a18c4e973be3831be96f902e0f",
+        "hsh": "d21b0baede7b2655e112ecf3f76fa9c6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Aujourd’hui, la Journée mondiale de la vie sauvage nous rappelle à quel point notre bien-être repose sur la nature qui nous entoure. Le thème de cette année met en lumière les plantes médicinales et aromatiques, ces espèces qui soignent, apaisent, parfument et nourrissent depuis des siècles. Des dizaines de milliers d’entre elles sont récoltées à travers le monde, mais beaucoup subissent la pression des pertes d’habitats et des prélèvements excessifs, ce qui rend leur protection indispensable.",
+                "Image": {
+                    "Url": "/th?id=OHR.BabyElephant_FR-FR5508838935_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BabyElephant_FR-FR5508838935_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Gardiens de la faune sauvage",
+                "Title": "Bébé éléphant jouant avec sa mère, Réserve nationale du Masai Mara, Kenya",
+                "Copyright": "© Denis-Huot/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-1.529493,35.170876/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=-1.529493,35.170876;S9;Réserve nationale du Masai Mara, Kenya&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260303_BabyElephant\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Journ%c3%a9e+mondiale+de+la+vie+sauvage+2026&form=hpcapt&filters=HpDate:\"20260302_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260303_BabyElephant"
+            },
+            "Ssd": "20260303",
+            "Name": "BabyElephant",
+            "Market": "FR-FR",
+            "Hash": "5508838935",
+            "FullDateString": "3 mars 2026"
+        }
+    },
+    {
         "startdate": "20260301",
         "fullstartdate": "202603012300",
         "enddate": "20260302",

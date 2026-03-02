@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260302",
+        "fullstartdate": "202603022300",
+        "enddate": "20260303",
+        "url": "/th?id=OHR.BabyElephant_IT-IT4786028229_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BabyElephant_IT-IT4786028229",
+        "copyright": "Cucciolo di elefante africano con la madre, Riserva Nazionale del Masai Mara, Kenya (© Denis-Huot/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Giornata+mondiale+della+fauna+selvatica&form=hpcapt",
+        "title": "Guardiani del futuro",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260302_BabyElephant%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0bc6a1a18c4e973be3831be96f902e0f",
+        "hsh": "590dbde263d091bf0ede42d45043de7f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Festeggiamo la “Giornata Mondiale della Fauna Selvatica”, un’iniziativa dell’ONU che ci invita a riflettere sul legame tra il nostro benessere e il mondo naturale. Il tema di quest’anno riguarda le piante medicinali e aromatiche (MAP), utilizzate nella medicina tradizionale e moderna, nei cosmetici e nell’alimentazione. L’ONU stima che tra 50.000 e 70.000 specie di MAP siano raccolte globalmente, con il 70-95% delle persone in molti paesi in via di sviluppo che le usa come principale risorsa sanitaria. Tuttavia, molte piante affrontano minacce crescenti a causa della perdita di habitat, del sovrasfruttamento e del commercio illegale, rendendo essenziale un uso sostenibile per garantirne il futuro.",
+                "Image": {
+                    "Url": "/th?id=OHR.BabyElephant_IT-IT4786028229_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BabyElephant_IT-IT4786028229_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Guardiani del futuro",
+                "Title": "Cucciolo di elefante africano con la madre, Riserva Nazionale del Masai Mara, Kenya",
+                "Copyright": "© Denis-Huot/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-1.529493,35.170876/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=-1.529493,35.170876;S9;Masai Mara, Kenya&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=18&ss=ypid.YN8091x1527581856022287103&mb=0.125511~33.474052~-2.008531~37.396272&description=Sekenani%2C%20Narok%2020500%C2%B7Nature%20reserve&dt=1768302000000&tt=Masai%20Mara%20National%20Reserve&tsts0=%2526ty%253D18%2526ss%253Dypid.YN8091x1527581856022287103%2526mb%253D0.125511~33.474052~-2.008531~37.396272%2526description%253DSekenani%25252C%252520Narok%25252020500%2525C2%2525B7Nature%252520reserve%2526dt%253D1768302000000&tstt0=Masai%20Mara%20National%20Reserve&cp=-0.942089~34.927802&lvl=9.086237&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260303_BabyElephant\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Giornata+mondiale+della+fauna+selvatica&form=hpcapt&filters=HpDate:\"20260302_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260303_BabyElephant"
+            },
+            "Ssd": "20260303",
+            "Name": "BabyElephant",
+            "Market": "IT-IT",
+            "Hash": "4786028229",
+            "FullDateString": "3 marzo 2026"
+        }
+    },
+    {
         "startdate": "20260301",
         "fullstartdate": "202603012300",
         "enddate": "20260302",
