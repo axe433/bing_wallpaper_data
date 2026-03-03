@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260303",
+        "fullstartdate": "202603032300",
+        "enddate": "20260304",
+        "url": "/th?id=OHR.RilaCrocuses_DE-DE6081650633_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RilaCrocuses_DE-DE6081650633",
+        "copyright": "Violette Krokusse an den Sieben Rila‑Seen, Bulgarien (© Maya Karkalicheva/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Sieben+Rila-Seen+Bulgarien&form=hpcapt&filters=HpDate%3a%2220260303_2300%22",
+        "title": "Krokusse im Rampenlicht",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260303_RilaCrocuses%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6d8e17f1d8e76b870a6bde3c0674013a",
+        "hsh": "55bc26997027929e6d1b4ac7ab286860",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sobald in den Rila-Bergen im Südwesten Bulgariens der Schnee zu schmelzen beginnt, zeigt sich ein besonderer Frühlingsbote: violette Krokusse, die in kleinen Gruppen aus der Erde sprießen. Rund um die Sieben Rila-Seen bilden sie in den Frühlingsmonaten ein farbenfrohes Muster und durchbrechen die winterliche Stille. Die Region liegt im Nationalpark Rila, dem größten des Landes. Der Park schützt über 120 dauerhafte und rund 30 saisonale Gletscherseen, deren klares Wasser Moore, Hochweiden und seltene alpine Pflanzen speist, ein empfindliches Ökosystem, das im Frühjahr langsam wieder zum Leben erwacht.",
+                "Image": {
+                    "Url": "/th?id=OHR.RilaCrocuses_DE-DE6081650633_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RilaCrocuses_DE-DE6081650633_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Krokusse im Rampenlicht",
+                "Title": "Violette Krokusse an den Sieben Rila‑Seen, Bulgarien",
+                "Copyright": "© Maya Karkalicheva/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/42.204161,23.312577/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=42.204161,23.312577;S9;Sieben Rila‑Seen, Bulgarien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260304_RilaCrocuses\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Sieben+Rila-Seen+Bulgarien&form=hpcapt&filters=HpDate:\"20260303_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260304_RilaCrocuses"
+            },
+            "Ssd": "20260304",
+            "Name": "RilaCrocuses",
+            "Market": "DE-DE",
+            "Hash": "6081650633",
+            "FullDateString": "4. März. 2026"
+        }
+    },
+    {
         "startdate": "20260302",
         "fullstartdate": "202603022300",
         "enddate": "20260303",
