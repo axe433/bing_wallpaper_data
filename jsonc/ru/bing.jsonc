@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260304",
+        "fullstartdate": "202603040800",
+        "enddate": "20260305",
+        "url": "/th?id=OHR.RilaCrocuses_ROW4635215657_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RilaCrocuses_ROW4635215657",
+        "copyright": "Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Seven+Rila+Lakes+Bulgaria&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260304_RilaCrocuses%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6d8e17f1d8e76b870a6bde3c0674013a",
+        "hsh": "23e63cac9ed3cb24796b265f1429cac5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "As winter's grip on the Rila Mountains of southwestern Bulgaria begins to loosen, crocuses push through the thinning snow, signalling the arrival of spring in the country's highest mountain range. These early bloomers use stored nutrients to quickly grow in cold conditions, completing much of their life cycle before taller plants emerge. Their clustered blossoms unfurl over alpine meadows in sweeping purple ribbons, creating a striking contrast with bright snowfields and crisp morning light.",
+                "Image": {
+                    "Url": "/th?id=OHR.RilaCrocuses_ROW4635215657_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RilaCrocuses_ROW4635215657_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Purple crocus flowers, Seven Rila Lakes, Bulgaria",
+                "Copyright": "© Maya Karkalicheva/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260304_RilaCrocuses\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Seven+Rila+Lakes+Bulgaria&form=hpcapt&filters=HpDate:\"20260304_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260304_RilaCrocuses"
+            },
+            "Ssd": "20260304",
+            "Name": "RilaCrocuses",
+            "Market": "ROW",
+            "Hash": "4635215657",
+            "FullDateString": "4 мар. 2026 г."
+        }
+    },
+    {
         "startdate": "20260303",
         "fullstartdate": "202603030800",
         "enddate": "20260304",

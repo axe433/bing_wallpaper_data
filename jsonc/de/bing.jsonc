@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260304",
+        "fullstartdate": "202603042300",
+        "enddate": "20260305",
+        "url": "/th?id=OHR.GoremeTwilight_DE-DE6248447800_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GoremeTwilight_DE-DE6248447800",
+        "copyright": "Abendstimmung über Göreme, Kappadokien, Türkei (© ONNAJA/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=G%C3%B6reme+T%C3%BCrkei&form=hpcapt&filters=HpDate%3a%2220260304_2300%22",
+        "title": "Wo Felsen Geschichten erzählen",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260304_GoremeTwilight%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "40e9b42b77b328eab06b29c5260a327c",
+        "hsh": "a5dba02e8ad0eff67b6177dd1caeb548",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Wenn der Abend über Göreme in der türkischen Region Kappadokien hereinbricht, verwandelt sich die Landschaft in ein faszinierendes Lichterspiel. Über Jahrtausende haben Wind und Temperaturschwankungen aus weichem Tuffstein die berühmten Feenkamine geformt. Dieses UNESCO‑Welterbe beeindruckt nicht nur durch seine außergewöhnliche Geologie, sondern auch durch eine tief reichende Geschichte. Unter der Oberfläche erstreckt sich ein weit verzweigtes Netz unterirdischer Städte und mehr als 600 Höhlenkirchen, von denen einige noch gut erhaltene Fresken zeigen.",
+                "Image": {
+                    "Url": "/th?id=OHR.GoremeTwilight_DE-DE6248447800_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GoremeTwilight_DE-DE6248447800_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Wo Felsen Geschichten erzählen",
+                "Title": "Abendstimmung über Göreme, Kappadokien, Türkei",
+                "Copyright": "© ONNAJA/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.64296,34.828777/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=38.64296,34.828777;S9;Göreme, Kappadokien, Türkei&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260305_GoremeTwilight\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=G%c3%b6reme+T%c3%bcrkei&form=hpcapt&filters=HpDate:\"20260304_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260305_GoremeTwilight"
+            },
+            "Ssd": "20260305",
+            "Name": "GoremeTwilight",
+            "Market": "DE-DE",
+            "Hash": "6248447800",
+            "FullDateString": "5. März. 2026"
+        }
+    },
+    {
         "startdate": "20260303",
         "fullstartdate": "202603032300",
         "enddate": "20260304",
