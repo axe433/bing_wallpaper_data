@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260305",
+        "fullstartdate": "202603052300",
+        "enddate": "20260306",
+        "url": "/th?id=OHR.WaveDenmark_ES-ES1179544868_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WaveDenmark_ES-ES1179544868",
+        "copyright": "Complejo residencial The Wave, Vejle, Dinamarca (© Frank Bach/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=The+Wave+Vejle+Dinamarca&form=hpcapt&filters=HpDate%3a%2220260305_2300%22",
+        "title": "Olas moldeadas en hormigón",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260305_WaveDenmark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d9dd528ab011e93eb096949419011e37",
+        "hsh": "6565faf40b41e2d7779712217decd766",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El complejo residencial The Wave, en Vejle (Dinamarca), destaca por su silueta ondulante formada por cinco crestas que evocan el movimiento del fiordo y las colinas que rodean la ciudad. Su diseño es obra de Henning Larsen Architects y se ha convertido en un icono de la arquitectura danesa contemporánea. El conjunto alberga cien apartamentos distribuidos en nueve plantas y su perfil se reconoce desde distintos puntos de la bahía gracias a la contundencia de su forma escultórica.",
+                "Image": {
+                    "Url": "/th?id=OHR.WaveDenmark_ES-ES1179544868_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WaveDenmark_ES-ES1179544868_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Olas moldeadas en hormigón",
+                "Title": "Complejo residencial The Wave, Vejle, Dinamarca",
+                "Copyright": "© Frank Bach/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/55.709099,9.5561/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=55.709099,9.5561;S9;The Wave, Vejle, Dinamarca&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260306_WaveDenmark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=The+Wave+Vejle+Dinamarca&form=hpcapt&filters=HpDate:\"20260305_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260306_WaveDenmark"
+            },
+            "Ssd": "20260306",
+            "Name": "WaveDenmark",
+            "Market": "ES-ES",
+            "Hash": "1179544868",
+            "FullDateString": "6 de mar. de 2026"
+        }
+    },
+    {
         "startdate": "20260304",
         "fullstartdate": "202603042300",
         "enddate": "20260305",

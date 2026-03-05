@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260305",
+        "fullstartdate": "202603050300",
+        "enddate": "20260306",
+        "url": "/th?id=OHR.GoremeTwilight_PT-BR7913040689_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GoremeTwilight_PT-BR7913040689",
+        "copyright": "Anoitecer sobre Göreme, Capadócia, Turquia (© ONNAJA/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=goreme+turquia&form=hpcapt&mkt=pt-br",
+        "title": "Arquitetura em estado bruto",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260305_GoremeTwilight%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "40e9b42b77b328eab06b29c5260a327c",
+        "hsh": "35a57583ab07a6b8591d34d7fed771f7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Göreme, na região turca da Capadócia, foi um convite da natureza que a humanidade aceitou. Ventos e chuvas moldaram as rochas em forma de cone, mas foram as pessoas que, há pelo menos dois milênios, fizeram delas um lar. Escavaram a pedra macia, criando igrejas, casas e cidades subterrâneas inteiras, com túneis de ventilação e afrescos bizantinos que ainda resistem nas paredes.",
+                "Image": {
+                    "Url": "/th?id=OHR.GoremeTwilight_PT-BR7913040689_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GoremeTwilight_PT-BR7913040689_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Arquitetura em estado bruto",
+                "Title": "Anoitecer sobre Göreme, Capadócia, Turquia",
+                "Copyright": "© ONNAJA/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260305_GoremeTwilight\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=goreme+turquia&form=hpcapt&filters=HpDate:\"20260305_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260305_GoremeTwilight"
+            },
+            "Ssd": "20260305",
+            "Name": "GoremeTwilight",
+            "Market": "PT-BR",
+            "Hash": "7913040689",
+            "FullDateString": "5 mar. 2026"
+        }
+    },
+    {
         "startdate": "20260304",
         "fullstartdate": "202603040300",
         "enddate": "20260305",

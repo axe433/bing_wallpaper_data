@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260305",
+        "fullstartdate": "202603051500",
+        "enddate": "20260306",
+        "url": "/th?id=OHR.WaveDenmark_JA-JP3181035967_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WaveDenmark_JA-JP3181035967",
+        "copyright": "集合住宅「ザ・ウェイブ」, デンマーク (© Frank Bach/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=%E9%9B%86%E5%90%88%E4%BD%8F%E5%AE%85%E3%80%8C%E3%82%B6%E3%83%BB%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%96%E3%80%8D&form=hpcapt&filters=HpDate%3a%2220260305_1500%22",
+        "title": "水辺に波打つ集合住宅",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260305_WaveDenmark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d9dd528ab011e93eb096949419011e37",
+        "hsh": "8f19595a6a8600f9b8cfa86ad3580f5b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日の画像は、デンマーク南部の港町ヴァイレにある「ザ・ウェイブ」。波形が特徴的なこの建物は、9 階建ての集合住宅であり、各棟には 20 戸の住戸が設けられています。デンマークを代表する建築家、ヘニング・ラーセンが設計したもので、2018 年に完成しました。住宅として機能しながら、自然環境と調和する造形が高く評価され、現代デンマーク建築を代表するランドマークとなっています。",
+                "Image": {
+                    "Url": "/th?id=OHR.WaveDenmark_JA-JP3181035967_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WaveDenmark_JA-JP3181035967_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "水辺に波打つ集合住宅",
+                "Title": "集合住宅「ザ・ウェイブ」, デンマーク",
+                "Copyright": "© Frank Bach/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/55.709099,9.5561/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=55.709099,9.5561;S9;ザ・ウェイブ, デンマーク&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260306_WaveDenmark%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260306_WaveDenmark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e9%9b%86%e5%90%88%e4%bd%8f%e5%ae%85%e3%80%8c%e3%82%b6%e3%83%bb%e3%82%a6%e3%82%a7%e3%82%a4%e3%83%96%e3%80%8d&form=hpcapt&filters=HpDate:\"20260305_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260306_WaveDenmark"
+            },
+            "Ssd": "20260306",
+            "Name": "WaveDenmark",
+            "Market": "JA-JP",
+            "Hash": "3181035967",
+            "FullDateString": "2026 年 3月 月 6 日"
+        }
+    },
+    {
         "startdate": "20260304",
         "fullstartdate": "202603041500",
         "enddate": "20260305",
