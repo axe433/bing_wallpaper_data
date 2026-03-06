@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260306",
+        "fullstartdate": "202603060000",
+        "enddate": "20260307",
+        "url": "/th?id=OHR.WaveDenmark_EN-GB5644835999_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WaveDenmark_EN-GB5644835999",
+        "copyright": "The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=The+Wave+building+Vejle+Denmark&form=hpcapt&filters=HpDate%3a%2220260306_0000%22",
+        "title": "Waves cast in concrete",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260306_WaveDenmark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d9dd528ab011e93eb096949419011e37",
+        "hsh": "74756a1b502b43e11df0807a3362ede2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Architecture blends art and technology, expressed through the built form. While many designs focus primarily on function, some buildings give equal weight to visual impact. A strong example is The Wave building complex in Vejle, Denmark, where sculptural design and practical housing come together seamlessly.",
+                "Image": {
+                    "Url": "/th?id=OHR.WaveDenmark_EN-GB5644835999_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WaveDenmark_EN-GB5644835999_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Waves cast in concrete",
+                "Title": "The Wave residential building, Vejle, Denmark",
+                "Copyright": "© Frank Bach/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/55.709099,9.5561/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=55.709099,9.5561;S9;The Wave, Vejle, Denmark&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260306_WaveDenmark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=The+Wave+building+Vejle+Denmark&form=hpcapt&filters=HpDate:\"20260306_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260306_WaveDenmark"
+            },
+            "Ssd": "20260306",
+            "Name": "WaveDenmark",
+            "Market": "EN-GB",
+            "Hash": "5644835999",
+            "FullDateString": "6 Mar 2026"
+        }
+    },
+    {
         "startdate": "20260305",
         "fullstartdate": "202603050000",
         "enddate": "20260306",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260306",
+        "fullstartdate": "202603062300",
+        "enddate": "20260307",
+        "url": "/th?id=OHR.LacGentau_FR-FR1000142702_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LacGentau_FR-FR1000142702",
+        "copyright": "Le Lac Gentau enneigé, Pyrénées Atlantiques (© MICHAUX Stéphane/Hemis.fr/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Lac+Gentau&form=hpcapt&filters=HpDate%3a%2220260306_2300%22",
+        "title": "Une journée pour déconnecter",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260306_LacGentau%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ed214011c618b88b0ddee1c31581f43f",
+        "hsh": "9c97801d7da57ad566bc156afdbe38c9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Aujourd’hui, on fête la journée de la déconnexion : faites place à l’évasion, si possible loin des écrans. Le paysage du lac Gentau, presque englouti par le silence hivernal, invite à contempler une nature apaisée. À environ 1 950 mètres d’altitude, dans la vallée d’Ossau, sa surface se fige en une vaste étendue de glace laiteuse, ourlée de neige et de rochers sombres. Les pins à crochets ploient sous le givre, et le sentier menant depuis Artouste s’efface peu à peu sous l’hiver pyrénéen.",
+                "Image": {
+                    "Url": "/th?id=OHR.LacGentau_FR-FR1000142702_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LacGentau_FR-FR1000142702_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Une journée pour déconnecter",
+                "Title": "Le Lac Gentau enneigé, Pyrénées Atlantiques",
+                "Copyright": "© MICHAUX Stéphane/Hemis.fr/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/30.32206,35.45145/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=30.32206,35.45145;S9;Le Lac Gentau enneigé, Pyrénées Atlantiques&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260307_LacGentau\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lac+Gentau&form=hpcapt&filters=HpDate:\"20260306_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260307_LacGentau"
+            },
+            "Ssd": "20260307",
+            "Name": "LacGentau",
+            "Market": "FR-FR",
+            "Hash": "1000142702",
+            "FullDateString": "7 mars 2026"
+        }
+    },
+    {
         "startdate": "20260305",
         "fullstartdate": "202603052300",
         "enddate": "20260306",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260306",
+        "fullstartdate": "202603060300",
+        "enddate": "20260307",
+        "url": "/th?id=OHR.WaveDenmark_PT-BR4401858909_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WaveDenmark_PT-BR4401858909",
+        "copyright": "Edifício residencial The Wave, Vejle, Dinamarca (© Frank Bach/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Vejle+Dinamarca&form=hpcapt&mkt=pt-br",
+        "title": "O concreto que brinca de ser mar",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260306_WaveDenmark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d9dd528ab011e93eb096949419011e37",
+        "hsh": "9f741ee84aada0a6b870903dc530df34",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Arquitetura é cálculo, sim — mas também sabe ser espetáculo. Na imagem, o conjunto The Wave, em Vejle, na Dinamarca, é a prova viva: cinco torres residenciais ondulam à beira do fiorde como se o concreto tivesse aprendido a nadar. Nada de linhas retas previsíveis. Cada bloco sobe e desce em curvas contínuas, seguindo o desenho das colinas ao redor e o balanço das águas ao lado. Projetado pelo escritório Henning Larsen, o complexo vai além do impacto visual. Passarelas públicas, píer e áreas abertas costuram a orla à cidade, transformando moradia em espaço de convivência.",
+                "Image": {
+                    "Url": "/th?id=OHR.WaveDenmark_PT-BR4401858909_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WaveDenmark_PT-BR4401858909_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O concreto que brinca de ser mar",
+                "Title": "Edifício residencial The Wave, Vejle, Dinamarca",
+                "Copyright": "© Frank Bach/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260306_WaveDenmark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Vejle+Dinamarca&form=hpcapt&filters=HpDate:\"20260306_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260306_WaveDenmark"
+            },
+            "Ssd": "20260306",
+            "Name": "WaveDenmark",
+            "Market": "PT-BR",
+            "Hash": "4401858909",
+            "FullDateString": "6 mar. 2026"
+        }
+    },
+    {
         "startdate": "20260305",
         "fullstartdate": "202603050300",
         "enddate": "20260306",

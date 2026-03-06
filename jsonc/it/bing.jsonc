@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260306",
+        "fullstartdate": "202603062300",
+        "enddate": "20260307",
+        "url": "/th?id=OHR.NaplesBasilica_IT-IT2953708039_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NaplesBasilica_IT-IT2953708039",
+        "copyright": "Basilica reale pontificia di San Francesco di Paola, Napoli, Campania (© javarman3/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=San+Francesco+di+Paola+Napoli&form=hpcapt",
+        "title": "Eredità Romana",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260306_NaplesBasilica%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3abe466bf4d3553a4be68ed56932e007",
+        "hsh": "dd6d4ae1b0719dee852ce3df600425db",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Entrate in una grande piazza di Napoli e la storia vi viene incontro. Gallerie ad arco, colonnati scenografici e cupole che richiamano l’antico dialogano tra loro in un equilibrio tutto partenopeo. Basta svoltare l’angolo e lo stile cambia: dalle facciate barocche compatte si passa a spazi neoclassici più ampi e luminosi. Proseguendo, vi trovate in Piazza del Plebiscito, davanti alla Basilica di San Francesco di Paola, un edificio che sembra uscito dall’età romana. Voluta da Ferdinando I delle Due Sicilie dopo la Restaurazione e completata nel 1846, riprende i modelli del Pantheon di Roma: pianta circolare, frontone triangolare, grande cupola centrale.",
+                "Image": {
+                    "Url": "/th?id=OHR.NaplesBasilica_IT-IT2953708039_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NaplesBasilica_IT-IT2953708039_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Eredità Romana",
+                "Title": "Basilica reale pontificia di San Francesco di Paola, Napoli, Campania",
+                "Copyright": "© javarman3/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.835603,14.24731/12?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=40.835603,14.24731;S9;Basilica reale pontificia di San Francesco di Paola, Napoli&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260307_NaplesBasilica\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=San+Francesco+di+Paola+Napoli&form=hpcapt&filters=HpDate:\"20260306_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260307_NaplesBasilica"
+            },
+            "Ssd": "20260307",
+            "Name": "NaplesBasilica",
+            "Market": "IT-IT",
+            "Hash": "2953708039",
+            "FullDateString": "7 marzo 2026"
+        }
+    },
+    {
         "startdate": "20260305",
         "fullstartdate": "202603052300",
         "enddate": "20260306",
