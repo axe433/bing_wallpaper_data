@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260307",
+        "fullstartdate": "202603070500",
+        "enddate": "20260308",
+        "url": "/th?id=OHR.BrockenSunrise_EN-CA3220764261_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BrockenSunrise_EN-CA3220764261",
+        "copyright": "Sunrise on the Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Harz+National+Park&form=hpcapt&filters=HpDate%3a%2220260307_0500%22",
+        "title": "A legendary sunrise",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260307_BrockenSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "03cc0e33e4deb87d0b311ad37b75010b",
+        "hsh": "802f9c843088b9d04563ef726a716c5f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Imagine reaching the Brocken in Harz National Park, Germany, as clouds slide across the ridge. With the sun behind you, mist ahead—then a giant, haloed shadow forms. Ever wondered why climbers once feared this sight? The phenomenon, called the Brocken spectre, is an eerie natural optical effect that occurs when sunlight projects a person's shadow onto cloud or fog. Rising about 1,141 metres, the Brocken is the highest peak in northern Germany and has long inspired folklore, including tales of witches gathering here during Walpurgis Night.",
+                "Image": {
+                    "Url": "/th?id=OHR.BrockenSunrise_EN-CA3220764261_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BrockenSunrise_EN-CA3220764261_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A legendary sunrise",
+                "Title": "Sunrise on the Brocken, Harz National Park, Germany",
+                "Copyright": "© imageBROKER/AVTG/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.799072,10.61556/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=51.799072,10.61556;S9;The Brocken, Harz National Park, Germany&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260307_BrockenSunrise\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Harz+National+Park&form=hpcapt&filters=HpDate:\"20260307_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260307_BrockenSunrise"
+            },
+            "Ssd": "20260307",
+            "Name": "BrockenSunrise",
+            "Market": "EN-CA",
+            "Hash": "3220764261",
+            "FullDateString": "Mar. 7, 2026"
+        }
+    },
+    {
         "startdate": "20260306",
         "fullstartdate": "202603060500",
         "enddate": "20260307",

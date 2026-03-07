@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260307",
+        "fullstartdate": "202603071500",
+        "enddate": "20260308",
+        "url": "/th?id=OHR.UlmClock_JA-JP3640087811_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.UlmClock_JA-JP3640087811",
+        "copyright": "ウルム市庁舎の天文時計, ドイツ (© Tomekbudujedomek/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%A6%E3%83%AB%E3%83%A0%E5%B8%82%E5%BA%81%E8%88%8E%E3%81%AE%E5%A4%A9%E6%96%87%E6%99%82%E8%A8%88&form=hpcapt&filters=HpDate%3a%2220260307_1500%22",
+        "title": "米国は今日から夏時間",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260307_UlmClock%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "95e81ca1c46b709199f09c3e9df8b59d",
+        "hsh": "41385fa68ad137ec135d9f3f92c707b3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日から米国の多くの地域で夏時間が始まります。時計を 1 時間進めることで日が暮れるまでの時間を増やす、というこの制度は、第一次世界大戦中の省エネルギー対策として導入されました。そして、今日の画像は、16 世紀に設置されたドイツ・ウルム市庁舎の天文時計です。法廷時刻ではなく、太陽や月の周期を計測して時を示すものであり、日の光が人の手による時刻表ではなく、天文学によって支配されていることを静かに物語っています。",
+                "Image": {
+                    "Url": "/th?id=OHR.UlmClock_JA-JP3640087811_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.UlmClock_JA-JP3640087811_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "米国は今日から夏時間",
+                "Title": "ウルム市庁舎の天文時計, ドイツ",
+                "Copyright": "© Tomekbudujedomek/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.397026,9.993355/12?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=48.397026,9.993355;S9;ウルム市庁舎の天文時計, ドイツ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260308_UlmClock%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260308_UlmClock\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%a6%e3%83%ab%e3%83%a0%e5%b8%82%e5%ba%81%e8%88%8e%e3%81%ae%e5%a4%a9%e6%96%87%e6%99%82%e8%a8%88&form=hpcapt&filters=HpDate:\"20260307_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260308_UlmClock"
+            },
+            "Ssd": "20260308",
+            "Name": "UlmClock",
+            "Market": "JA-JP",
+            "Hash": "3640087811",
+            "FullDateString": "2026 年 3月 月 8 日"
+        }
+    },
+    {
         "startdate": "20260306",
         "fullstartdate": "202603061500",
         "enddate": "20260307",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260307",
+        "fullstartdate": "202603072300",
+        "enddate": "20260308",
+        "url": "/th?id=OHR.StuttgartSchlossplatz_DE-DE6255862063_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.StuttgartSchlossplatz_DE-DE6255862063",
+        "copyright": "Neues Schloss am Schlossplatz in Stuttgart, Baden‑Württemberg (© Jorg Greuel/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Baden-W%C3%BCrttemberg+Landtagswahl+2026&form=hpcapt&filters=HpDate%3a%2220260307_2300%22",
+        "title": "Ein Platz mit Geschichte",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260307_StuttgartSchlossplatz%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "44236b65b17ae8b7ec8b465687606110",
+        "hsh": "5db286f5df96c5cd524ad8f834b3a819",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Heute richtet sich der Blick auf Baden‑Württemberg, wo die Bürgerinnen und Bürger einen neuen Landtag wählen. Im drittgrößten Bundesland Deutschlands gilt erstmals ein reformiertes Wahlrecht mit zwei Stimmen. Zudem dürfen Jugendliche ab 16 Jahren an der Wahl teilnehmen.",
+                "Image": {
+                    "Url": "/th?id=OHR.StuttgartSchlossplatz_DE-DE6255862063_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.StuttgartSchlossplatz_DE-DE6255862063_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ein Platz mit Geschichte",
+                "Title": "Neues Schloss am Schlossplatz in Stuttgart, Baden‑Württemberg",
+                "Copyright": "© Jorg Greuel/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.777107,9.180769/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=48.777107,9.180769;S9;Stuttgart, Baden-Württemberg&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260308_StuttgartSchlossplatz\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Baden-W%c3%bcrttemberg+Landtagswahl+2026&form=hpcapt&filters=HpDate:\"20260307_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260308_StuttgartSchlossplatz"
+            },
+            "Ssd": "20260308",
+            "Name": "StuttgartSchlossplatz",
+            "Market": "DE-DE",
+            "Hash": "6255862063",
+            "FullDateString": "8. März. 2026"
+        }
+    },
+    {
         "startdate": "20260306",
         "fullstartdate": "202603062300",
         "enddate": "20260307",

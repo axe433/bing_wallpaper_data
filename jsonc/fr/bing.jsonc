@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260307",
+        "fullstartdate": "202603072300",
+        "enddate": "20260308",
+        "url": "/th?id=OHR.BirdCormorant_FR-FR1361604516_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BirdCormorant_FR-FR1361604516",
+        "copyright": "Jeune cormoran (© GiovanniCaruso/GettyImages)",
+        "copyrightlink": "https://www.bing.com/search?q=grand+cormoran&form=hpcapt&filters=HpDate%3a%2220260307_2300%22",
+        "title": "Un plongeur habile",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260307_BirdCormorant%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ad89bba2a56a1a2ee992250c4e2ff298",
+        "hsh": "7b06118d424b6adf79febda0bc5e0c92",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Cet oisillon glissant gracieusement sur l’eau n’est autre qu’un jeune cormoran. S’il existe près de 40 espèces de cormorans, le grand cormoran (Phalacrocorax carbo) est celui que l’on observe le plus souvent sur les côtes, estuaires, lacs et rivières d’Europe. Plongeur hors pair, il disparaît brusquement sous la surface, propulsé par ses pattes palmées, pour capturer poissons et anguilles dans le silence des profondeurs.",
+                "Image": {
+                    "Url": "/th?id=OHR.BirdCormorant_FR-FR1361604516_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BirdCormorant_FR-FR1361604516_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un plongeur habile",
+                "Title": "Jeune cormoran",
+                "Copyright": "© GiovanniCaruso/GettyImages",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Le cormoran a un plumage peu imperméable, ce qui l’aide à plonger plus en profondeur. C’est pour cela qu’on le voit souvent perché, ailes grandes ouvertes, en train de sécher après la pêche.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260308_BirdCormorant\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=grand+cormoran&form=hpcapt&filters=HpDate:\"20260307_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260308_BirdCormorant"
+            },
+            "Ssd": "20260308",
+            "Name": "BirdCormorant",
+            "Market": "FR-FR",
+            "Hash": "1361604516",
+            "FullDateString": "8 mars 2026"
+        }
+    },
+    {
         "startdate": "20260306",
         "fullstartdate": "202603062300",
         "enddate": "20260307",

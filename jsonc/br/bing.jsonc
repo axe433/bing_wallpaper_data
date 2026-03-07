@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260307",
+        "fullstartdate": "202603070300",
+        "enddate": "20260308",
+        "url": "/th?id=OHR.VaiUmbrellas_PT-BR0607622385_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VaiUmbrellas_PT-BR0607622385",
+        "copyright": "Espreguiçadeiras na praia de Vai, Creta, Grécia (© borchee/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Vai+Creta+Grecia&form=hpcapt&mkt=pt-br",
+        "title": "No vai e vem da história",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260307_VaiUmbrellas%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "84f5c1a034bcc194bdeeb17915223e0f",
+        "hsh": "17a1eb7ce00267e3d9bee27acd1e7a5c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Na imagem, a praia de Vai se desenha em curva no extremo nordeste da ilha de Creta, na Grécia, banhada pelas águas serenas do mar Egeu. Hoje, guarda-sóis pontuam a areia clara, mas nos anos 1970 era um refúgio quase secreto — redescoberto por jovens viajantes em busca de liberdade, natureza e novos modos de vida.",
+                "Image": {
+                    "Url": "/th?id=OHR.VaiUmbrellas_PT-BR0607622385_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VaiUmbrellas_PT-BR0607622385_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "No vai e vem da história",
+                "Title": "Espreguiçadeiras na praia de Vai, Creta, Grécia",
+                "Copyright": "© borchee/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260307_VaiUmbrellas\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Vai+Creta+Grecia&form=hpcapt&filters=HpDate:\"20260307_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260307_VaiUmbrellas"
+            },
+            "Ssd": "20260307",
+            "Name": "VaiUmbrellas",
+            "Market": "PT-BR",
+            "Hash": "0607622385",
+            "FullDateString": "7 mar. 2026"
+        }
+    },
+    {
         "startdate": "20260306",
         "fullstartdate": "202603060300",
         "enddate": "20260307",
