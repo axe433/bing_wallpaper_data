@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260308",
+        "fullstartdate": "202603081500",
+        "enddate": "20260309",
+        "url": "/th?id=OHR.NappingSeal_JA-JP4638317955_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NappingSeal_JA-JP4638317955",
+        "copyright": "アザラシ, スコットランド (© Andrew Mason/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%82%B6%E3%83%A9%E3%82%B7&form=hpcapt&filters=HpDate%3a%2220260308_1500%22",
+        "title": "今日は米国の全国昼寝の日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260308_NappingSeal%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0e7b6f2988e5f17c042469bda9ab6050",
+        "hsh": "dbd9365a8346e6355c36776adab13b0c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "米国では夏時間が始まった直後に「全国昼寝の日」が訪れます。時計が 1 時間進むことで睡眠不足になりやすく、乱れた体内リズムを整えるため短い休息をとることを促しています。画像はスコットランド沿岸で休むアザラシ。水中では浮上して呼吸するために浅く短く眠り、海岸では深く休息します。人も動物も、適切な休息が環境の変化に順応する助けとなります。",
+                "Image": {
+                    "Url": "/th?id=OHR.NappingSeal_JA-JP4638317955_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NappingSeal_JA-JP4638317955_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日は米国の全国昼寝の日",
+                "Title": "アザラシ, スコットランド",
+                "Copyright": "© Andrew Mason/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/59,-3/9?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=59,-3;S9;オークニー諸島, スコットランド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260309_NappingSeal%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260309_NappingSeal\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%a2%e3%82%b6%e3%83%a9%e3%82%b7&form=hpcapt&filters=HpDate:\"20260308_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260309_NappingSeal"
+            },
+            "Ssd": "20260309",
+            "Name": "NappingSeal",
+            "Market": "JA-JP",
+            "Hash": "4638317955",
+            "FullDateString": "2026 年 3月 月 9 日"
+        }
+    },
+    {
         "startdate": "20260307",
         "fullstartdate": "202603071500",
         "enddate": "20260308",

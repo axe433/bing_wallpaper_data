@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260308",
+        "fullstartdate": "202603082300",
+        "enddate": "20260309",
+        "url": "/th?id=OHR.NappingSeal_IT-IT6211764298_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NappingSeal_IT-IT6211764298",
+        "copyright": "Foca grigia che dorme sulla spiaggia, Isole Orcadi, Scozia (© Andrew Mason/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Foca+grigia&form=hpcapt",
+        "title": "Un sano pisolino",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260308_NappingSeal%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0e7b6f2988e5f17c042469bda9ab6050",
+        "hsh": "0b20a390b43d6c652cb2811d33325518",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La foca grigia ritratta in questa immagine, avvistata lungo la costa delle Isole Orcadi in Scozia, riposa sulla riva con un’espressione di calma assoluta. Diffusa nelle acque fredde del Nord Atlantico, questa specie è riconoscibile per il corpo massiccio, il muso allungato e il mantello maculato, che varia dal grigio chiaro al quasi nero. Questi splendidi animali hanno abitudini di riposo particolarmente adattabili. In mare dormono per brevi periodi, mantenendo uno stato di allerta che consente loro di emergere regolarmente per respirare. Sulla terraferma, invece, soprattutto su spiagge isolate e scogliere tranquille, si concedono pause più lunghe e profonde, fondamentali per recuperare energia dopo le lunghe nuotate e le attività di caccia. Immersa nel silenzio del paesaggio costiero, questa foca sembra ricordarci che la vera forza della natura risiede anche nella quiete, e che saper rallentare è, a volte, la forma più pura di equilibrio.",
+                "Image": {
+                    "Url": "/th?id=OHR.NappingSeal_IT-IT6211764298_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NappingSeal_IT-IT6211764298_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un sano pisolino",
+                "Title": "Foca grigia che dorme sulla spiaggia, Isole Orcadi, Scozia",
+                "Copyright": "© Andrew Mason/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/59,-3/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=59,-3;S9;Isole Orcadi, Scozia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260309_NappingSeal\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Foca+grigia&form=hpcapt&filters=HpDate:\"20260308_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260309_NappingSeal"
+            },
+            "Ssd": "20260309",
+            "Name": "NappingSeal",
+            "Market": "IT-IT",
+            "Hash": "6211764298",
+            "FullDateString": "9 marzo 2026"
+        }
+    },
+    {
         "startdate": "20260307",
         "fullstartdate": "202603072300",
         "enddate": "20260308",

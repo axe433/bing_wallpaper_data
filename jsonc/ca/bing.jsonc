@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260308",
+        "fullstartdate": "202603080500",
+        "enddate": "20260309",
+        "url": "/th?id=OHR.UlmClock_EN-CA0107157724_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.UlmClock_EN-CA0107157724",
+        "copyright": "Astronomical clock at Town Hall of the City of Ulm, Germany (© Tomekbudujedomek/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Daylight+Saving+Time&form=hpcapt&filters=HpDate%3a%2220260308_0500%22",
+        "title": "The art of saving daylight",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260308_UlmClock%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "95e81ca1c46b709199f09c3e9df8b59d",
+        "hsh": "acb7ce51cefd912c16f938fff638e398",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Every March, Daylight Saving Time begins across most of Canada, shifting clocks forward by one hour to extend evening daylight. The seasonal change has historically been linked to making better use of natural light and reducing energy use during longer spring and summer days. The idea can be traced back to 1784, when Benjamin Franklin humorously suggested earlier rising to conserve candle use. Most provinces and territories follow the shift, though Saskatchewan and a few communities in British Columbia and Nunavut remain on standard time throughout the year. The time change is known for disrupting sleep patterns, which is why the Monday after the clock change is informally known as Napping Day.",
+                "Image": {
+                    "Url": "/th?id=OHR.UlmClock_EN-CA0107157724_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.UlmClock_EN-CA0107157724_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "The art of saving daylight",
+                "Title": "Astronomical clock at Town Hall of the City of Ulm, Germany",
+                "Copyright": "© Tomekbudujedomek/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.397026,9.993355/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=48.397026,9.993355;S9;Town Hall of the City of Ulm, Germany&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260308_UlmClock\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Daylight+Saving+Time&form=hpcapt&filters=HpDate:\"20260308_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260308_UlmClock"
+            },
+            "Ssd": "20260308",
+            "Name": "UlmClock",
+            "Market": "EN-CA",
+            "Hash": "0107157724",
+            "FullDateString": "Mar. 8, 2026"
+        }
+    },
+    {
         "startdate": "20260307",
         "fullstartdate": "202603070500",
         "enddate": "20260308",

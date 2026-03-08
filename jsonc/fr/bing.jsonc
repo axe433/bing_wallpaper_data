@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260308",
+        "fullstartdate": "202603082300",
+        "enddate": "20260309",
+        "url": "/th?id=OHR.NappingSeal_FR-FR1712539976_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NappingSeal_FR-FR1712539976",
+        "copyright": "Phoque gris endormi sur la plage, Îles Orcades, Écosse (© Andrew Mason/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=phoque+gris&form=hpcapt&filters=HpDate%3a%2220260308_2300%22",
+        "title": "Une petite sieste et ça repart !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260308_NappingSeal%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0e7b6f2988e5f17c042469bda9ab6050",
+        "hsh": "fcb73630bdfc34dd2f86add6683c9d57",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Allongé sur une plage battue par les vents d’Écosse, le phoque gris semble immobile, figé dans le paysage. Sa robe tachetée se confond avec les rochers humides, au rythme du va-et-vient de la mer. Cet animal emblématique des côtes nord-atlantiques incarne un calme ancestral, forgé par le froid, l’iode et le temps.",
+                "Image": {
+                    "Url": "/th?id=OHR.NappingSeal_FR-FR1712539976_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NappingSeal_FR-FR1712539976_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Une petite sieste et ça repart !",
+                "Title": "Phoque gris endormi sur la plage, Îles Orcades, Écosse",
+                "Copyright": "© Andrew Mason/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/59,-3/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=59,-3;S9;Îles Orcades, Écosse&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260309_NappingSeal\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=phoque+gris&form=hpcapt&filters=HpDate:\"20260308_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260309_NappingSeal"
+            },
+            "Ssd": "20260309",
+            "Name": "NappingSeal",
+            "Market": "FR-FR",
+            "Hash": "1712539976",
+            "FullDateString": "9 mars 2026"
+        }
+    },
+    {
         "startdate": "20260307",
         "fullstartdate": "202603072300",
         "enddate": "20260308",
