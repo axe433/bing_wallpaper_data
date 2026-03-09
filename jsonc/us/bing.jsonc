@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260309",
+        "fullstartdate": "202603090700",
+        "enddate": "20260310",
+        "url": "/th?id=OHR.NappingSeal_EN-US6764325041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NappingSeal_EN-US6764325041",
+        "copyright": "Gray seal sleeping on the beach, Orkney Islands, Scotland (© Andrew Mason/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=napping+day&form=hpcapt&filters=HpDate%3a%2220260309_0700%22",
+        "title": "A perfectly timed nap",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260309_NappingSeal%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0e7b6f2988e5f17c042469bda9ab6050",
+        "hsh": "cdfa2ac9d2d44e9745e8acdfec41ff73",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "National Napping Day couldn't be better timed. It falls on the Monday after Daylight Saving Time begins, when clocks move forward and we all lose an hour of sleep. Consider today an official excuse to slow down and make up for it. The sleeping gray seal in this image, spotted along Scotland's coast, is a fitting reminder for the day: rest matters.",
+                "Image": {
+                    "Url": "/th?id=OHR.NappingSeal_EN-US6764325041_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NappingSeal_EN-US6764325041_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A perfectly timed nap",
+                "Title": "Gray seal sleeping on the beach, Orkney Islands, Scotland",
+                "Copyright": "© Andrew Mason/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/59,-3/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=59,-3;S9;Orkney Islands, Scotland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260309_NappingSeal\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=napping+day&form=hpcapt&filters=HpDate:\"20260309_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260309_NappingSeal"
+            },
+            "Ssd": "20260309",
+            "Name": "NappingSeal",
+            "Market": "EN-US",
+            "Hash": "6764325041",
+            "FullDateString": "Mar 9, 2026"
+        }
+    },
+    {
         "startdate": "20260308",
         "fullstartdate": "202603080700",
         "enddate": "20260309",

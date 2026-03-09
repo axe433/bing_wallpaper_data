@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260309",
+        "fullstartdate": "202603090300",
+        "enddate": "20260310",
+        "url": "/th?id=OHR.NappingSeal_PT-BR6613486097_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NappingSeal_PT-BR6613486097",
+        "copyright": "Foca-cinzenta dormindo na praia das Ilhas Órcades, Escócia (© Andrew Mason/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=foca+cinzenta&form=hpcapt&mkt=pt-br",
+        "title": "Em busca da soneca perfeita",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260309_NappingSeal%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0e7b6f2988e5f17c042469bda9ab6050",
+        "hsh": "075b77bdd7ac6685385541dd2ea8dbf6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Na imagem, uma foca‑cinzenta cochila na costa da Escócia, indiferente à pressa humana. E com razão: poucas criaturas dominam tão bem o ofício do descanso. Essas focas não apostam em longas maratonas de sono, mas preferem cochilos estratégicos. No mar, dormem leve, mantendo metade do cérebro alerta para respirar e escapar de predadores. Em praias isoladas, mergulham num sono profundo, enroladas na areia ou sobre pedras aquecidas pelo sol. É eficiência energética em versão mamífera.",
+                "Image": {
+                    "Url": "/th?id=OHR.NappingSeal_PT-BR6613486097_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NappingSeal_PT-BR6613486097_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Em busca da soneca perfeita",
+                "Title": "Foca-cinzenta dormindo na praia das Ilhas Órcades, Escócia",
+                "Copyright": "© Andrew Mason/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260309_NappingSeal\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=foca+cinzenta&form=hpcapt&filters=HpDate:\"20260309_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260309_NappingSeal"
+            },
+            "Ssd": "20260309",
+            "Name": "NappingSeal",
+            "Market": "PT-BR",
+            "Hash": "6613486097",
+            "FullDateString": "9 mar. 2026"
+        }
+    },
+    {
         "startdate": "20260308",
         "fullstartdate": "202603080300",
         "enddate": "20260309",

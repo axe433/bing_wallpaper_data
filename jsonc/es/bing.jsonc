@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260309",
+        "fullstartdate": "202603092300",
+        "enddate": "20260310",
+        "url": "/th?id=OHR.Zumaia_ES-ES4174062610_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Zumaia_ES-ES4174062610",
+        "copyright": "Zumaia, Guipúzcoa, País Vasco (© David González Rebollo/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Zumaia+Guip%C3%BAzcoa&form=hpcapt&filters=HpDate%3a%2220260309_2300%22",
+        "title": "Magia entre acantilados",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260309_Zumaia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1245ce2cb2c0c6fe8989844a28261d9d",
+        "hsh": "e5d16098d14a02716df4eb31fec4c0d2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Zumaia se encuentra en la costa de Guipúzcoa, en el País Vasco, y es conocida por su entorno natural marcado por la desembocadura del río Urola y por sus playas, entre ellas la de Itzurun, célebre por las espectaculares formaciones de flysch que atraen a visitantes y especialistas en geología. La localidad se sitúa a orillas del mar Cantábrico y forma parte de la comarca de Urola Costa, donde su paisaje combina acantilados, colinas y un patrimonio histórico que incluye la iglesia de San Pedro, de origen medieval.",
+                "Image": {
+                    "Url": "/th?id=OHR.Zumaia_ES-ES4174062610_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Zumaia_ES-ES4174062610_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Magia entre acantilados",
+                "Title": "Zumaia, Guipúzcoa, País Vasco",
+                "Copyright": "© David González Rebollo/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.297256,-2.256849/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=43.297256,-2.256849;S9;Zumaia, Guipúzcoa, País Vasco&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260310_Zumaia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Zumaia+Guip%c3%bazcoa&form=hpcapt&filters=HpDate:\"20260309_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260310_Zumaia"
+            },
+            "Ssd": "20260310",
+            "Name": "Zumaia",
+            "Market": "ES-ES",
+            "Hash": "4174062610",
+            "FullDateString": "10 de mar. de 2026"
+        }
+    },
+    {
         "startdate": "20260308",
         "fullstartdate": "202603082300",
         "enddate": "20260309",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260309",
+        "fullstartdate": "202603092300",
+        "enddate": "20260310",
+        "url": "/th?id=OHR.SpringIceland_IT-IT6322735073_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpringIceland_IT-IT6322735073",
+        "copyright": "Pozza termale Bláhver a Hveravellir, Islanda (© Juan Maria Coy Vergara/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Pozza+termale+Hveravellir&form=hpcapt",
+        "title": "Ghiaccio infiammato",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260309_SpringIceland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "971f590b393382f37117e52c1a7aea22",
+        "hsh": "5346b74a058c2f600c45612e7a36a741",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Vi siete mai chiesti cosa succede quando fuoco, ghiaccio e tempo si incontrano sullo stesso terreno? Nel campo geotermico di Hveravellir, in Islanda, questa straordinaria danza prende vita. Qui, l’energia che viene dall’interno della Terra si scontra con la superficie glaciale, dando vita a un dialogo instabile tra pressione, temperatura e roccia. Le fumarole sibilano, il vapore si arriccia nell’aria e il suolo si tinge di bianchi sulfurei, rossi ruggine e gialli ocra: non solo pittura della natura, ma chimica in azione sotto calore estremo. Ammirate Bláhver, una sorgente termale naturale, che abbaglia con il suo blu elettrico, nato dalle acque ricche di minerali e silice che catturano e riflettono la luce.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpringIceland_IT-IT6322735073_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpringIceland_IT-IT6322735073_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ghiaccio infiammato",
+                "Title": "Pozza termale Bláhver a Hveravellir, Islanda",
+                "Copyright": "© Juan Maria Coy Vergara/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/64.865398,-19.559103/2?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=64.865398,-19.559103;S9;Bláhver, Hveravellir, Islanda&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260310_SpringIceland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Pozza+termale+Hveravellir&form=hpcapt&filters=HpDate:\"20260309_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260310_SpringIceland"
+            },
+            "Ssd": "20260310",
+            "Name": "SpringIceland",
+            "Market": "IT-IT",
+            "Hash": "6322735073",
+            "FullDateString": "10 marzo 2026"
+        }
+    },
+    {
         "startdate": "20260308",
         "fullstartdate": "202603082300",
         "enddate": "20260309",
