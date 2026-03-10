@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260310",
+        "fullstartdate": "202603100700",
+        "enddate": "20260311",
+        "url": "/th?id=OHR.SpringIceland_ROW2538267892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpringIceland_ROW2538267892",
+        "copyright": "Geothermal blue pool Bláhver at Hveravellir, Iceland (© Juan Maria Coy Vergara/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Blahver+pool+Iceland&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260310_SpringIceland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "971f590b393382f37117e52c1a7aea22",
+        "hsh": "10610451f9851dbd21f57c2856200b8f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Have you ever wondered what happens when fire, ice and time negotiate the same territory? Iceland's Hveravellir geothermal field has the answer. In this highland hotspot, energy from the Earth's interior meets the icy surface, triggering a volatile dialogue between pressure, temperature and stone. Fumaroles hiss, steam curls into the air and the ground paints itself with sulphur whites, rust reds and ochre yellows—not only artistry, but chemical reactions driven by extreme heat. In today's image, Bláhver, a natural hot spring, dazzles in electric blue. Its colour comes from mineral- and silica-rich waters that reflect light on the surface.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpringIceland_ROW2538267892_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpringIceland_ROW2538267892_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Geothermal blue pool Bláhver at Hveravellir, Iceland",
+                "Copyright": "© Juan Maria Coy Vergara/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260310_SpringIceland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Blahver+pool+Iceland&form=hpcapt&filters=HpDate:\"20260310_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260310_SpringIceland"
+            },
+            "Ssd": "20260310",
+            "Name": "SpringIceland",
+            "Market": "ROW",
+            "Hash": "2538267892",
+            "FullDateString": "10 мар. 2026 г."
+        }
+    },
+    {
         "startdate": "20260309",
         "fullstartdate": "202603090700",
         "enddate": "20260310",

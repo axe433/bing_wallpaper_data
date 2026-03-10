@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260310",
+        "fullstartdate": "202603100300",
+        "enddate": "20260311",
+        "url": "/th?id=OHR.SpringIceland_PT-BR6780313478_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpringIceland_PT-BR6780313478",
+        "copyright": "Piscina geotérmica Bláhver, Hveravellir, Islândia (© Juan Maria Coy Vergara/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Hveravellir+na+Islandia&form=hpcapt&mkt=pt-br",
+        "title": "Onde o fogo encontra o gelo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260310_SpringIceland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "971f590b393382f37117e52c1a7aea22",
+        "hsh": "c0af25b3865a13af0f84c1aa4aa0da5f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Entre duas geleiras, o campo geotérmico de Hveravellir é um oásis de calor no coração gelado da Islândia. Bláhver, a nascente que vemos na imagem, não é só beleza; é química e física a céu aberto. Aqui, a água se infiltra no solo, desce por fraturas profundas e encontra rochas aquecidas pelo magma. Sob pressão, volta à superfície quase fervendo, carregando sílica e minerais que tingem o poço de azul elétrico. Ao redor, fumarolas assobiam, vapor sobe em espirais, e o solo se pinta de brancos de enxofre, vermelhos ferruginosos e amarelos ocres.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpringIceland_PT-BR6780313478_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpringIceland_PT-BR6780313478_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Onde o fogo encontra o gelo",
+                "Title": "Piscina geotérmica Bláhver, Hveravellir, Islândia",
+                "Copyright": "© Juan Maria Coy Vergara/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260310_SpringIceland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hveravellir+na+Islandia&form=hpcapt&filters=HpDate:\"20260310_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260310_SpringIceland"
+            },
+            "Ssd": "20260310",
+            "Name": "SpringIceland",
+            "Market": "PT-BR",
+            "Hash": "6780313478",
+            "FullDateString": "10 mar. 2026"
+        }
+    },
+    {
         "startdate": "20260309",
         "fullstartdate": "202603090300",
         "enddate": "20260310",
