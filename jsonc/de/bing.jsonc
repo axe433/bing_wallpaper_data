@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260311",
+        "fullstartdate": "202603112300",
+        "enddate": "20260312",
+        "url": "/th?id=OHR.SunbitternEcuador_DE-DE7333956665_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SunbitternEcuador_DE-DE7333956665",
+        "copyright": "Junger Sonnenralle beim Flügelspreizen am Nest, Ecuador (© Andy Rouse/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Sonnenralle+Vogel&form=hpcapt&filters=HpDate%3a%2220260311_2300%22",
+        "title": "Farbsignal im Wald",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260311_SunbitternEcuador%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "390fc4b48b171f7a99a6d00c3bb4226e",
+        "hsh": "2d2bebc91edeac08b719c0a0a68794ae",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Was wie ein ruhiger Moment im Unterholz wirkt, entpuppt sich als kurzer Ausbruch von Farbe. Hoch oben in den Nebelwäldern Ecuadors breitet eine junge Sonnenralle ihre Flügel aus. Für einen Augenblick leuchten orange, schwarze und weiße Muster durch das gedämpfte Grün, ein Vorgeschmack auf die dramatischen Zeichnungen, die erwachsene Tiere später in Verteidigungsposen zeigen.",
+                "Image": {
+                    "Url": "/th?id=OHR.SunbitternEcuador_DE-DE7333956665_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SunbitternEcuador_DE-DE7333956665_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Farbsignal im Wald",
+                "Title": "Junger Sonnenralle beim Flügelspreizen am Nest, Ecuador",
+                "Copyright": "© Andy Rouse/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Die Flügel der Sonnenralle zeigen augenähnliche Farbzeichnungen, die im gedämpften Waldlicht besonders auffallen.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260312_SunbitternEcuador\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Sonnenralle+Vogel&form=hpcapt&filters=HpDate:\"20260311_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260312_SunbitternEcuador"
+            },
+            "Ssd": "20260312",
+            "Name": "SunbitternEcuador",
+            "Market": "DE-DE",
+            "Hash": "7333956665",
+            "FullDateString": "12. März. 2026"
+        }
+    },
+    {
         "startdate": "20260310",
         "fullstartdate": "202603102300",
         "enddate": "20260311",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260311",
+        "fullstartdate": "202603112300",
+        "enddate": "20260312",
+        "url": "/th?id=OHR.SunbitternEcuador_FR-FR2457278888_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SunbitternEcuador_FR-FR2457278888",
+        "copyright": "Caurale soleil faisant sa parade nuptiale, Équateur (© Andy Rouse/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=caurale+soleil&form=hpcapt&filters=HpDate%3a%2220260311_2300%22",
+        "title": "Une parade haute en couleurs",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260311_SunbitternEcuador%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "390fc4b48b171f7a99a6d00c3bb4226e",
+        "hsh": "4083523dffb400c18f835cfc1ef2da91",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dans les forêts de nuages équatoriennes, un jeune caurale soleil déploie brusquement ses ailes. Sous la lumière verte filtrée par la canopée, des éclats d’orange, de noir et de blanc surgissent soudain, tranchant avec les mousses et les feuillages sombres. Ce contraste saisissant révèle l’un des secrets les mieux gardés de l’oiseau : des motifs spectaculaires, habituellement dissimulés, que les adultes déploient lors de parades nuptiales.",
+                "Image": {
+                    "Url": "/th?id=OHR.SunbitternEcuador_FR-FR2457278888_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SunbitternEcuador_FR-FR2457278888_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Une parade haute en couleurs",
+                "Title": "Caurale soleil faisant sa parade nuptiale, Équateur",
+                "Copyright": "© Andy Rouse/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Le caurale soleil est connu pour sa parade nuptiale qui dévoile ses magnifiques ailes aux motifs rappelant des yeux.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260312_SunbitternEcuador\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=caurale+soleil&form=hpcapt&filters=HpDate:\"20260311_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260312_SunbitternEcuador"
+            },
+            "Ssd": "20260312",
+            "Name": "SunbitternEcuador",
+            "Market": "FR-FR",
+            "Hash": "2457278888",
+            "FullDateString": "12 mars 2026"
+        }
+    },
+    {
         "startdate": "20260310",
         "fullstartdate": "202603102300",
         "enddate": "20260311",

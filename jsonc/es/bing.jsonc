@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260311",
+        "fullstartdate": "202603112300",
+        "enddate": "20260312",
+        "url": "/th?id=OHR.SunbitternEcuador_ES-ES1944682433_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SunbitternEcuador_ES-ES1944682433",
+        "copyright": "Garza de sol exhibiéndose en el nido, Ecuador (© Andy Rouse/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Garza+de+sol&form=hpcapt&filters=HpDate%3a%2220260311_2300%22",
+        "title": "Alas en movimiento",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260311_SunbitternEcuador%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "390fc4b48b171f7a99a6d00c3bb4226e",
+        "hsh": "d3c98cd99fd4347e8b2a031842114a29",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La garza de sol es conocida por la delicadeza con la que despliega sus alas mientras se encuentra en el nido en los bosques de Ecuador. Durante estas exhibiciones muestra los patrones que recuerdan a grandes ojos en pleno resplandor tenue del sotobosque, lo que crea un efecto visual sorprendente y llamativo. Este comportamiento suele emplearse para distraer a posibles depredadores y también para reforzar la comunicación con su pareja. La escena resulta especialmente notable por la serenidad con la que el ave mantiene el equilibrio en el nido mientras presenta su elegante abanico alar con precisión casi coreográfica.",
+                "Image": {
+                    "Url": "/th?id=OHR.SunbitternEcuador_ES-ES1944682433_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SunbitternEcuador_ES-ES1944682433_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Alas en movimiento",
+                "Title": "Garza de sol exhibiéndose en el nido, Ecuador",
+                "Copyright": "© Andy Rouse/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Las alas de la garza de sol presentan patrones que parecen ojos, visibles a menudo durante sus exhibiciones en la penumbra del bosque.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260312_SunbitternEcuador\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Garza+de+sol&form=hpcapt&filters=HpDate:\"20260311_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260312_SunbitternEcuador"
+            },
+            "Ssd": "20260312",
+            "Name": "SunbitternEcuador",
+            "Market": "ES-ES",
+            "Hash": "1944682433",
+            "FullDateString": "12 de mar. de 2026"
+        }
+    },
+    {
         "startdate": "20260310",
         "fullstartdate": "202603102300",
         "enddate": "20260311",
