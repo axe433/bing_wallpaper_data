@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260312",
+        "fullstartdate": "202603122300",
+        "enddate": "20260313",
+        "url": "/th?id=OHR.VendeeVaults_FR-FR8462470705_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VendeeVaults_FR-FR8462470705",
+        "copyright": "Voûtes de Notre-Dame de Bon-Port, Les Sables-d'Olonne (© Helmut Meyer zur Capellen/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Notre-Dame+de+Bon-Port+Les-Sables&form=hpcapt&filters=HpDate%3a%2220260312_2300%22",
+        "title": "Une œuvre d’art en pierre",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260312_VendeeVaults%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6ad91a56a4c0702ef854261a145e1818",
+        "hsh": "67442302b8615183a5c7acf0c34f1a8a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Aux Sables-d’Olonne, Notre-Dame de Bon-Port invite le regard à s’élever vers ses voûtes élancées. Commencée en 1646, l’église s’inscrit dans une longue histoire spirituelle, dont l’origine remonte à une chapelle du XIIIᵉ siècle. Classée monument historique depuis 1993, elle témoigne de la place essentielle qu’occupait la foi sur la côte atlantique, entre ciel et océan.",
+                "Image": {
+                    "Url": "/th?id=OHR.VendeeVaults_FR-FR8462470705_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VendeeVaults_FR-FR8462470705_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Une œuvre d'art en pierre",
+                "Title": "Voûtes de Notre-Dame de Bon-Port, Les Sables-d'Olonne",
+                "Copyright": "© Helmut Meyer zur Capellen/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.496203,-1.786035/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=46.496203,-1.786035;S9;Notre-Dame de Bon-Port, Les Sables-d'Olonne&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260313_VendeeVaults\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Notre-Dame+de+Bon-Port+Les-Sables&form=hpcapt&filters=HpDate:\"20260312_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260313_VendeeVaults"
+            },
+            "Ssd": "20260313",
+            "Name": "VendeeVaults",
+            "Market": "FR-FR",
+            "Hash": "8462470705",
+            "FullDateString": "13 mars 2026"
+        }
+    },
+    {
         "startdate": "20260311",
         "fullstartdate": "202603112300",
         "enddate": "20260312",

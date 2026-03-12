@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260312",
+        "fullstartdate": "202603122300",
+        "enddate": "20260313",
+        "url": "/th?id=OHR.VendeeVaults_IT-IT6457526698_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VendeeVaults_IT-IT6457526698",
+        "copyright": "Volte della chiesa di Notre Dame de Bon-Port, Les Sables-d'Olonne, Francia (© Helmut Meyer zur Capellen/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Vandea&form=hpcapt",
+        "title": "Ombre gotiche",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260312_VendeeVaults%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6ad91a56a4c0702ef854261a145e1818",
+        "hsh": "22a80278a852009af4f6a1335a5aaa66",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sotto la volta slanciata di Notre-Dame de Bon-Port, a Les Sables-d’Olonne, cittadina francese affacciata sull’Atlantico nella Vandea, le nervature di pietra accompagnano ancora oggi lo sguardo verso l’alto, come una silenziosa preghiera architettonica. Le grandi volte iniziarono a prendere forma nel 1646, innalzandosi sul luogo dove un tempo sorgeva una cappella del XIII secolo. Dal 1993 la chiesa è riconosciuta come monumento storico francese, custode di una tradizione spirituale profondamente intrecciata alla vita della costa atlantica.",
+                "Image": {
+                    "Url": "/th?id=OHR.VendeeVaults_IT-IT6457526698_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VendeeVaults_IT-IT6457526698_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ombre gotiche",
+                "Title": "Volte della chiesa di Notre Dame de Bon-Port, Les Sables-d'Olonne, Francia",
+                "Copyright": "© Helmut Meyer zur Capellen/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.496203,-1.786035/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=46.496203,-1.786035;S9;Notre Dame de Bon-Port, Les Sables-d'Olonne, Francia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260313_VendeeVaults\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Vandea&form=hpcapt&filters=HpDate:\"20260312_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260313_VendeeVaults"
+            },
+            "Ssd": "20260313",
+            "Name": "VendeeVaults",
+            "Market": "IT-IT",
+            "Hash": "6457526698",
+            "FullDateString": "13 marzo 2026"
+        }
+    },
+    {
         "startdate": "20260311",
         "fullstartdate": "202603112300",
         "enddate": "20260312",

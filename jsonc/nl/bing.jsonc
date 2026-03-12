@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260312",
+        "fullstartdate": "202603120700",
+        "enddate": "20260313",
+        "url": "/th?id=OHR.SunbitternEcuador_ROW2999974301_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SunbitternEcuador_ROW2999974301",
+        "copyright": "Juvenile sunbittern displaying at nest, Ecuador (© Andy Rouse/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Sunbittern+bird&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260312_SunbitternEcuador%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "390fc4b48b171f7a99a6d00c3bb4226e",
+        "hsh": "42a94fa520938992a76862069bff0f90",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "High in Ecuador's cloud forests, a young sunbittern spreads its wings in an early display, casting flashes of orange, black and white through the filtered green light. The sudden contrast cuts through the moss‑covered branches and leaf‑shadowed understorey, offering a snapshot of the species' dramatic wing patterns. Adult sunbitterns most often show these bold markings during defensive displays, briefly transforming an elusive bird into a striking spectacle.",
+                "Image": {
+                    "Url": "/th?id=OHR.SunbitternEcuador_ROW2999974301_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SunbitternEcuador_ROW2999974301_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Juvenile sunbittern displaying at nest, Ecuador",
+                "Copyright": "© Andy Rouse/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260312_SunbitternEcuador\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Sunbittern+bird&form=hpcapt&filters=HpDate:\"20260312_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260312_SunbitternEcuador"
+            },
+            "Ssd": "20260312",
+            "Name": "SunbitternEcuador",
+            "Market": "ROW",
+            "Hash": "2999974301",
+            "FullDateString": "12 mrt., 2026"
+        }
+    },
+    {
         "startdate": "20260311",
         "fullstartdate": "202603110700",
         "enddate": "20260312",

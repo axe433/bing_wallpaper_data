@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260312",
+        "fullstartdate": "202603122300",
+        "enddate": "20260313",
+        "url": "/th?id=OHR.VendeeVaults_ES-ES2432885875_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VendeeVaults_ES-ES2432885875",
+        "copyright": "Bóvedas de la iglesia de Notre-Dame de Bon-Port, Les Sables-d'Olonne, Francia (© Helmut Meyer zur Capellen/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Notre-Dame+de+Bon-Port+Francia&form=hpcapt&filters=HpDate%3a%2220260312_2300%22",
+        "title": "Una obra maestra en piedra",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260312_VendeeVaults%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6ad91a56a4c0702ef854261a145e1818",
+        "hsh": "ee13276582f8b6ace095a74cdf986f70",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Las bóvedas de la iglesia de Notre-Dame de Bon-Port en Les Sables-d'Olonne, Francia, muestran un diseño gótico asociado a la tradición francesa con arcos apuntados que realzan la verticalidad del templo y una estructura iniciada en 1646 según documentación histórica. La piedra clara y la organización del espacio generan una sensación de amplitud que refleja el espíritu religioso de una comunidad marinera que en el siglo XVII buscaba protección espiritual antes de embarcarse en largas travesías.",
+                "Image": {
+                    "Url": "/th?id=OHR.VendeeVaults_ES-ES2432885875_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VendeeVaults_ES-ES2432885875_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Una obra maestra en piedra",
+                "Title": "Bóvedas de la iglesia de Notre-Dame de Bon-Port, Les Sables-d'Olonne, Francia",
+                "Copyright": "© Helmut Meyer zur Capellen/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.496203,-1.786035/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=46.496203,-1.786035;S9;Notre-Dame de Bon-Port, Les Sables-d'Olonne, Francia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260313_VendeeVaults\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Notre-Dame+de+Bon-Port+Francia&form=hpcapt&filters=HpDate:\"20260312_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260313_VendeeVaults"
+            },
+            "Ssd": "20260313",
+            "Name": "VendeeVaults",
+            "Market": "ES-ES",
+            "Hash": "2432885875",
+            "FullDateString": "13 de mar. de 2026"
+        }
+    },
+    {
         "startdate": "20260311",
         "fullstartdate": "202603112300",
         "enddate": "20260312",
