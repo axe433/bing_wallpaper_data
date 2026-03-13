@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260313",
+        "fullstartdate": "202603131500",
+        "enddate": "20260314",
+        "url": "/th?id=OHR.CornwallDolmen_JA-JP6001769606_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CornwallDolmen_JA-JP6001769606",
+        "copyright": "ラニョン・クォイト, イングランド (© Helen Hotson/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%A9%E3%83%8B%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%AF%E3%82%A9%E3%82%A4%E3%83%88&form=hpcapt&filters=HpDate%3a%2220260313_1500%22",
+        "title": "今日は円周率の日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260313_CornwallDolmen%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "74a6b2f7d0b8cfb33c83afa88a1ed03f",
+        "hsh": "c383bac89699eb55347a98ab63326f5a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 3 月 14 日は円周率の日。円周率の「 3.14 」にちなんだ記念日です。また、天才物理学者アルベルト・アインシュタインの誕生日でもあるため、日本では、「数学の日」にも制定されています。そして今日の画像は、イギリス・コーンウォール地方にある円周率「 π 」を象ったような巨石、「ラニョン・クォイト」。新石器時代に作られたとされる古代遺跡で、文字による数学が生まれる以前から、古代の建築者たちが均衡や測定のために概念的に数学を活用していたことを示しています。",
+                "Image": {
+                    "Url": "/th?id=OHR.CornwallDolmen_JA-JP6001769606_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CornwallDolmen_JA-JP6001769606_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日は円周率の日",
+                "Title": "ラニョン・クォイト, イングランド",
+                "Copyright": "© Helen Hotson/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.147726,-5.599093/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=50.147726,-5.599093;S9;ラニョン・クォイト, イングランド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260314_CornwallDolmen%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260314_CornwallDolmen\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%a9%e3%83%8b%e3%83%a7%e3%83%b3%e3%83%bb%e3%82%af%e3%82%a9%e3%82%a4%e3%83%88&form=hpcapt&filters=HpDate:\"20260313_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260314_CornwallDolmen"
+            },
+            "Ssd": "20260314",
+            "Name": "CornwallDolmen",
+            "Market": "JA-JP",
+            "Hash": "6001769606",
+            "FullDateString": "2026 年 3月 月 14 日"
+        }
+    },
+    {
         "startdate": "20260312",
         "fullstartdate": "202603121500",
         "enddate": "20260313",

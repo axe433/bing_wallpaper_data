@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260313",
+        "fullstartdate": "202603130700",
+        "enddate": "20260314",
+        "url": "/th?id=OHR.SwanHesse_ROW3213322861_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SwanHesse_ROW3213322861",
+        "copyright": "Mute swan with chicks, Hesse, Germany (© Wilfried Martin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mute+swan&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260313_SwanHesse%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3a24ba92a85e24151d87e12c1b32513b",
+        "hsh": "059e7cb242175e70d10ae0218ab462d2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Silence on the water often means something special is happening—have you noticed how swans seem to turn lakes into slow-moving classrooms? A mute swan glides across calm water with its cygnets in Hesse, Germany. This scene is common across European lakes and river landscapes, from Lake Constance and the Mecklenburg Lake District to restored river channels in many towns and cities. These waterways provide sheltered shorelines and abundant aquatic plants, the swan's primary food source.",
+                "Image": {
+                    "Url": "/th?id=OHR.SwanHesse_ROW3213322861_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SwanHesse_ROW3213322861_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Mute swan with chicks, Hesse, Germany",
+                "Copyright": "© Wilfried Martin/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260313_SwanHesse\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Mute+swan&form=hpcapt&filters=HpDate:\"20260313_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260313_SwanHesse"
+            },
+            "Ssd": "20260313",
+            "Name": "SwanHesse",
+            "Market": "ROW",
+            "Hash": "3213322861",
+            "FullDateString": "13 mars 2026"
+        }
+    },
+    {
         "startdate": "20260312",
         "fullstartdate": "202603120700",
         "enddate": "20260313",

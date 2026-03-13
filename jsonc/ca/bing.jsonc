@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260313",
+        "fullstartdate": "202603130400",
+        "enddate": "20260314",
+        "url": "/th?id=OHR.VendeeVaults_EN-CA6633656389_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VendeeVaults_EN-CA6633656389",
+        "copyright": "Vaults of the Church of Notre Dame de Bon-Port, Les Sables-d'Olonne, France (© Helmut Meyer zur Capellen/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Notre+Dame+de+Bon+Port+Les-Sables+France&form=hpcapt&filters=HpDate%3a%2220260313_0400%22",
+        "title": "A quiet masterpiece in stone",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260313_VendeeVaults%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6ad91a56a4c0702ef854261a145e1818",
+        "hsh": "ae0422c8799f8cc24146cfe18466bcc7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Under the vaulted ceiling of Notre-Dame de Bon-Port in Les Sables-d'Olonne, a seaside town in western France, the stone ribs still guide the gaze upward. Construction of the soaring vaults began in 1646. The church—officially recognised as a French historic monument since 1993—stands on the site of a 13th-century chapel, a reminder of deep-rooted spiritual life on the Atlantic coast.",
+                "Image": {
+                    "Url": "/th?id=OHR.VendeeVaults_EN-CA6633656389_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VendeeVaults_EN-CA6633656389_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A quiet masterpiece in stone",
+                "Title": "Vaults of the Church of Notre Dame de Bon-Port, Les Sables-d'Olonne, France",
+                "Copyright": "© Helmut Meyer zur Capellen/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.496203,-1.786035/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=46.496203,-1.786035;S9;Notre Dame de Bon-Port, Les Sables-d'Olonne, France&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260313_VendeeVaults\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Notre+Dame+de+Bon+Port+Les-Sables+France&form=hpcapt&filters=HpDate:\"20260313_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260313_VendeeVaults"
+            },
+            "Ssd": "20260313",
+            "Name": "VendeeVaults",
+            "Market": "EN-CA",
+            "Hash": "6633656389",
+            "FullDateString": "Mar. 13, 2026"
+        }
+    },
+    {
         "startdate": "20260312",
         "fullstartdate": "202603120400",
         "enddate": "20260313",

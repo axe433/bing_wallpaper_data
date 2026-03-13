@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260313",
+        "fullstartdate": "202603130300",
+        "enddate": "20260314",
+        "url": "/th?id=OHR.VendeeVaults_PT-BR9914185170_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VendeeVaults_PT-BR9914185170",
+        "copyright": "Abóbadas da Igreja Notre-Dame de Bon-Port, Les Sables-d'Olonne, França (© Helmut Meyer zur Capellen/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Les+Sables-d%27Olonne+Fran%C3%A7a&form=hpcapt&mkt=pt-br",
+        "title": "Fé versus maré",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260313_VendeeVaults%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6ad91a56a4c0702ef854261a145e1818",
+        "hsh": "842c0c9c304e983cba660fc46c861261",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Em Les Sables-d'Olonne, na costa francesa, a Igreja de Notre-Dame de Bon-Port conta histórias de sal, vento e tempo. A construção começou em 1646, sobre os vestígios de uma capela do século XIII. Por dentro, arcos góticos conversam com detalhes renascentistas. À medida que a cidade crescia como porto, o templo virou escala de marinheiros antes de partirem rumo ao desconhecido.",
+                "Image": {
+                    "Url": "/th?id=OHR.VendeeVaults_PT-BR9914185170_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VendeeVaults_PT-BR9914185170_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Fé versus maré",
+                "Title": "Abóbadas da Igreja Notre-Dame de Bon-Port, Les Sables-d'Olonne, França",
+                "Copyright": "© Helmut Meyer zur Capellen/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260313_VendeeVaults\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Les+Sables-d%27Olonne+Fran%c3%a7a&form=hpcapt&filters=HpDate:\"20260313_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260313_VendeeVaults"
+            },
+            "Ssd": "20260313",
+            "Name": "VendeeVaults",
+            "Market": "PT-BR",
+            "Hash": "9914185170",
+            "FullDateString": "13 mar. 2026"
+        }
+    },
+    {
         "startdate": "20260312",
         "fullstartdate": "202603120300",
         "enddate": "20260313",
