@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260314",
+        "fullstartdate": "202603142300",
+        "enddate": "20260315",
+        "url": "/th?id=OHR.FallasValencia_ES-ES2854700408_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FallasValencia_ES-ES2854700408",
+        "copyright": "Vista de las Torres de Serranos durante La Crida de las Fallas, Valencia (© SOPA Images/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Torres+de+Serranos&form=hpcapt&filters=HpDate%3a%2220260314_2300%22",
+        "title": "Tradición que ilumina",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260314_FallasValencia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "396fe0bde83d9b18677998b46b5bb450",
+        "hsh": "eda66bcd648d973ebeaf76dbb87ba63a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Hoy la ciudad de Valencia vive uno de los días más emocionantes de las Fallas. Las calles se llenan de actividad mientras los monumentos falleros aparecen ya completos y muestran el trabajo creativo que define la esencia de la fiesta. El ambiente cambia de forma visible y la ciudad se convierte en un museo efímero al aire libre donde cada barrio revela su propia interpretación artística.",
+                "Image": {
+                    "Url": "/th?id=OHR.FallasValencia_ES-ES2854700408_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FallasValencia_ES-ES2854700408_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Tradición que ilumina",
+                "Title": "Vista de las Torres de Serranos durante La Crida de las Fallas, Valencia",
+                "Copyright": "© SOPA Images/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.470238,-0.376805/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=39.470238,-0.376805;S9;Torres de Serranos, Valencia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260315_FallasValencia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Torres+de+Serranos&form=hpcapt&filters=HpDate:\"20260314_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260315_FallasValencia"
+            },
+            "Ssd": "20260315",
+            "Name": "FallasValencia",
+            "Market": "ES-ES",
+            "Hash": "2854700408",
+            "FullDateString": "15 de mar. de 2026"
+        }
+    },
+    {
         "startdate": "20260313",
         "fullstartdate": "202603132300",
         "enddate": "20260314",
