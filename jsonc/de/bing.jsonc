@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260315",
+        "fullstartdate": "202603152300",
+        "enddate": "20260316",
+        "url": "/th?id=OHR.PandaForest_DE-DE0631054848_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PandaForest_DE-DE0631054848",
+        "copyright": "Großer Panda beim Bambusfressen, China (© Entwicklungsknecht/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Gro%C3%9Fer+Panda&form=hpcapt&filters=HpDate%3a%2220260315_2300%22",
+        "title": "Ein Symbol des Naturschutzes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260315_PandaForest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e4e6f902a1e43c1499f9c2a5e6f5b462",
+        "hsh": "2db9b1b4b3972a8d4eed9dd6f5be9008",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Mit ihrem markanten schwarz-weißen Fell sind Große Pandas, auch Riesenpandas genannt, weltweit zu einem Symbol für erfolgreichen Naturschutz geworden. In ihrer Heimat China leben sie vor allem in nebelreichen Bergwäldern mit dichten Bambusbeständen, von denen sie sich nahezu ausschließlich ernähren. Da Bambus nur wenig Energie liefert, verbringen Pandas einen Großteil ihres Tages mit Fressen und anschließender Ruhe. Lange Zeit galt die Art als stark gefährdet. Der Verlust geeigneter Lebensräume und ihre geringe Fortpflanzungsrate ließen die Bestände deutlich schrumpfen. Durch umfassende Schutzmaßnahmen, darunter die Ausweisung neuer Schutzgebiete und die bessere Vernetzung von Bambuswäldern, konnte sich die Population in den vergangenen Jahren jedoch langsam erholen.",
+                "Image": {
+                    "Url": "/th?id=OHR.PandaForest_DE-DE0631054848_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PandaForest_DE-DE0631054848_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ein Symbol des Naturschutzes",
+                "Title": "Großer Panda beim Bambusfressen, China",
+                "Copyright": "© Entwicklungsknecht/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Obwohl sie zur Ordnung der Raubtiere gehören, fressen Riesenpandas fast ausschließlich Bambus und verbringen täglich viele Stunden damit, den geringen Nährwert auszugleichen.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260316_PandaForest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Gro%c3%9fer+Panda&form=hpcapt&filters=HpDate:\"20260315_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260316_PandaForest"
+            },
+            "Ssd": "20260316",
+            "Name": "PandaForest",
+            "Market": "DE-DE",
+            "Hash": "0631054848",
+            "FullDateString": "16. März. 2026"
+        }
+    },
+    {
         "startdate": "20260314",
         "fullstartdate": "202603142300",
         "enddate": "20260315",

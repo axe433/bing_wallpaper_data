@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260315",
+        "fullstartdate": "202603152300",
+        "enddate": "20260316",
+        "url": "/th?id=OHR.PandaForest_IT-IT6604612571_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PandaForest_IT-IT6604612571",
+        "copyright": "Panda gigante che mangia bambù, Cina (© Entwicklungsknecht/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Panda+gigante&form=hpcapt",
+        "title": "Nel Pandaverso",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260315_PandaForest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e4e6f902a1e43c1499f9c2a5e6f5b462",
+        "hsh": "b8d77f63064953fb26bbf7240c354631",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Tra i rami di bambù e le montagne velate della Cina, il panda gigante incarna oggi una delle storie più emblematiche della conservazione della natura. Il 16 marzo, con la “Giornata Mondiale del Panda”, questa specie simbolo torna al centro dell’attenzione, insieme alle sfide che continuano a metterne alla prova la sopravvivenza. Endemici della Cina, i panda hanno rischiato seriamente l’estinzione a causa della frammentazione dell’habitat e dei bassi tassi di riproduzione. Gli sforzi congiunti della comunità internazionale stanno lentamente dando frutti, ma il percorso è tutt’altro che concluso.",
+                "Image": {
+                    "Url": "/th?id=OHR.PandaForest_IT-IT6604612571_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PandaForest_IT-IT6604612571_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Nel Pandaverso",
+                "Title": "Panda gigante che mangia bambù, Cina",
+                "Copyright": "© Entwicklungsknecht/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Nonostante siano carnivori, i panda giganti si nutrono principalmente di bambù e trascorrono ore ogni giorno a consumarlo per compensarne il basso valore nutrizionale.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260316_PandaForest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Panda+gigante&form=hpcapt&filters=HpDate:\"20260315_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260316_PandaForest"
+            },
+            "Ssd": "20260316",
+            "Name": "PandaForest",
+            "Market": "IT-IT",
+            "Hash": "6604612571",
+            "FullDateString": "16 marzo 2026"
+        }
+    },
+    {
         "startdate": "20260314",
         "fullstartdate": "202603142300",
         "enddate": "20260315",
