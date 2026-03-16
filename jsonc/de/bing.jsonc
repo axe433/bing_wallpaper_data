@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260316",
+        "fullstartdate": "202603162300",
+        "enddate": "20260317",
+        "url": "/th?id=OHR.DonegalFort_DE-DE1298272044_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DonegalFort_DE-DE1298272044",
+        "copyright": "Ringfort Grianán von Aileach, County Donegal, Irland (© aluxum/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=St.+Patrick%E2%80%99s+Day&form=hpcapt&filters=HpDate%3a%2220260316_2300%22",
+        "title": "Grün mit Geschichte",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260316_DonegalFort%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5844157a5462e2e51fd37e767fa629d4",
+        "hsh": "617ed3942445532368da9cbbf33d35fa",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Der St. Patrick’s Day ist ein Fest, das auf eine über 1.500 Jahre alte Geschichte zurückgeht. Der Lebensweg des irischen Nationalheiligen war jedoch alles andere als geradlinig. Er wurde im römischen Britannien geboren, mit 16 Jahren von irischen Plünderern entführt und kehrte erst Jahre nach seiner Flucht als Missionar nach Irland zurück, einer inneren Berufung folgend. Die bekannte Erzählung, in der er die Dreifaltigkeit anhand eines Kleeblatts erklärte, ist bis heute ein zentrales Symbol der irischen Kultur.",
+                "Image": {
+                    "Url": "/th?id=OHR.DonegalFort_DE-DE1298272044_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DonegalFort_DE-DE1298272044_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Grün mit Geschichte",
+                "Title": "Ringfort Grianán von Aileach, County Donegal, Irland",
+                "Copyright": "© aluxum/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/55.023849,-7.427537/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=55.023849,-7.427537;S9;Grianan von Aileach, Donegal, Irland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260317_DonegalFort\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=St.+Patrick%e2%80%99s+Day&form=hpcapt&filters=HpDate:\"20260316_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260317_DonegalFort"
+            },
+            "Ssd": "20260317",
+            "Name": "DonegalFort",
+            "Market": "DE-DE",
+            "Hash": "1298272044",
+            "FullDateString": "17. März. 2026"
+        }
+    },
+    {
         "startdate": "20260315",
         "fullstartdate": "202603152300",
         "enddate": "20260316",

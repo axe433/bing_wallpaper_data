@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260316",
+        "fullstartdate": "202603160700",
+        "enddate": "20260317",
+        "url": "/th?id=OHR.PandaForest_EN-US7436757535_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PandaForest_EN-US7436757535",
+        "copyright": "Giant panda eating bamboo, China (© Entwicklungsknecht/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=giant+panda&form=hpcapt&filters=HpDate%3a%2220260316_0700%22",
+        "title": "Into the Pandaverse",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260316_PandaForest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e4e6f902a1e43c1499f9c2a5e6f5b462",
+        "hsh": "db49fd3cfa864811a23e93029cbacd40",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "With their black-and-white coats and gentle demeanor, pandas have become global symbols of conservation. Observed on March 16, National Panda Day highlights this iconic species and the conservation challenges it still faces. Giant pandas are native to China and have faced a high risk of extinction due to habitat loss and low birth rates. Thanks to global conservation efforts, their population is slowly recovering, but more work is needed.",
+                "Image": {
+                    "Url": "/th?id=OHR.PandaForest_EN-US7436757535_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PandaForest_EN-US7436757535_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Into the Pandaverse",
+                "Title": "Giant panda eating bamboo, China",
+                "Copyright": "© Entwicklungsknecht/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Despite being carnivores, giant pandas eat mostly bamboo and spend hours daily consuming it to make up for its low nutrition.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260316_PandaForest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=giant+panda&form=hpcapt&filters=HpDate:\"20260316_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260316_PandaForest"
+            },
+            "Ssd": "20260316",
+            "Name": "PandaForest",
+            "Market": "EN-US",
+            "Hash": "7436757535",
+            "FullDateString": "Mar 16, 2026"
+        }
+    },
+    {
         "startdate": "20260315",
         "fullstartdate": "202603150700",
         "enddate": "20260316",

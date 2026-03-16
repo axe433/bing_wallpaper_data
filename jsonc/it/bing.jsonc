@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260316",
+        "fullstartdate": "202603162300",
+        "enddate": "20260317",
+        "url": "/th?id=OHR.DonegalFort_IT-IT6683615812_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DonegalFort_IT-IT6683615812",
+        "copyright": "Forte circolare di Grianan of Aileach, Donegal, Irlanda (© aluxum/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Saint+Patricks+Day&form=hpcapt",
+        "title": "Folklore e trifogli",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260316_DonegalFort%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5844157a5462e2e51fd37e767fa629d4",
+        "hsh": "72578b424e4cd56657cf653a8108221f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "San Patrizio, patrono d’Irlanda, nacque nella Britannia romana tra la fine del IV e l’inizio del V secolo. Ancora giovane, secondo la tradizione, fu rapito da predoni irlandesi e ridotto in schiavitù. Dopo la fuga e il ritorno a casa, intraprese la vita religiosa e tornò in Irlanda come missionario, contribuendo alla diffusione del cristianesimo sull’isola. A lui viene legato, in una tradizione successiva, l’uso del trifoglio per spiegare la Trinità, simbolo che oggi identifica la sua festa in tutto il mondo.",
+                "Image": {
+                    "Url": "/th?id=OHR.DonegalFort_IT-IT6683615812_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DonegalFort_IT-IT6683615812_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Folklore e trifogli",
+                "Title": "Forte circolare di Grianan of Aileach, Donegal, Irlanda",
+                "Copyright": "© aluxum/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/55.023849,-7.427537/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=55.023849,-7.427537;S9;Grianan of Aileach, Donegal, Irlanda&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260317_DonegalFort\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Saint+Patricks+Day&form=hpcapt&filters=HpDate:\"20260316_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260317_DonegalFort"
+            },
+            "Ssd": "20260317",
+            "Name": "DonegalFort",
+            "Market": "IT-IT",
+            "Hash": "6683615812",
+            "FullDateString": "17 marzo 2026"
+        }
+    },
+    {
         "startdate": "20260315",
         "fullstartdate": "202603152300",
         "enddate": "20260316",
