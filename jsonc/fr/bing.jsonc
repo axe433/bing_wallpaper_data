@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260317",
+        "fullstartdate": "202603172300",
+        "enddate": "20260318",
+        "url": "/th?id=OHR.PortlandBlossoms_FR-FR9680778495_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PortlandBlossoms_FR-FR9680778495",
+        "copyright": "Cerisiers en fleur à Tom McCall Waterfront Park, Portland, États-Unis (© Eric Vogt/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Tom+McCall+Waterfront+Park&form=hpcapt&filters=HpDate%3a%2220260317_2300%22",
+        "title": "Quand la ville éclot",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260317_PortlandBlossoms%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "dca1d1fb083c5fe7421c325485a2a526",
+        "hsh": "5aa03f1dcd23cdab465e27da8ac42de7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "À Portland (États-Unis), le long de la rivière Willamette, le Tom McCall Waterfront Park s’étend sur environ 14 hectares de verdure, en plein cœur de la ville. Chaque printemps, généralement entre la mi-mars et le début avril, les cerisiers en fleur transforment les allées en nuées de rose et de blanc, offrant une pause de calme, loin du tumulte urbain. Cette scène évoque les promenades printanières le long de la Seine ou dans les jardins de Paris, où la nature reprend doucement sa place au sein du paysage citadin.",
+                "Image": {
+                    "Url": "/th?id=OHR.PortlandBlossoms_FR-FR9680778495_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PortlandBlossoms_FR-FR9680778495_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Quand la ville éclot",
+                "Title": "Cerisiers en fleur à Tom McCall Waterfront Park, Portland, États-Unis",
+                "Copyright": "© Eric Vogt/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.522743,-122.669754/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=45.522743,-122.669754;S9;Tom McCall Waterfront Park, Portland, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260318_PortlandBlossoms\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tom+McCall+Waterfront+Park&form=hpcapt&filters=HpDate:\"20260317_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260318_PortlandBlossoms"
+            },
+            "Ssd": "20260318",
+            "Name": "PortlandBlossoms",
+            "Market": "FR-FR",
+            "Hash": "9680778495",
+            "FullDateString": "18 mars 2026"
+        }
+    },
+    {
         "startdate": "20260316",
         "fullstartdate": "202603162300",
         "enddate": "20260317",

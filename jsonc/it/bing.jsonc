@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260317",
+        "fullstartdate": "202603172300",
+        "enddate": "20260318",
+        "url": "/th?id=OHR.PortlandBlossoms_IT-IT6741607999_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PortlandBlossoms_IT-IT6741607999",
+        "copyright": "Fiori di ciliegio al Tom McCall Waterfront Park, Portland, Oregon, USA (© Eric Vogt/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Portland+Oregon+USA&form=hpcapt",
+        "title": "Calma, città e ciliegi",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260317_PortlandBlossoms%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "dca1d1fb083c5fe7421c325485a2a526",
+        "hsh": "cbf6a37ef8dd2e65e71d8cede93cb9e7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Affacciato sul fiume Willamette, nello stato americano dell’Oregon, il Tom McCall Waterfront Park è uno degli spazi verdi più amati di Portland. Questo grande parco urbano, nel cuore della città, in primavera si trasforma. Tra metà marzo e l’inizio di aprile, i ciliegi in fiore dipingono i viali di delicate sfumature rosa e bianche, creando un rifugio silenzioso nel tessuto urbano. Lungo i suoi percorsi si incontrano luoghi simbolo come il Salmon Street Springs, una fontana interattiva animata da getti d’acqua, e il Portland Saturday Market, punto di riferimento per la vita locale.",
+                "Image": {
+                    "Url": "/th?id=OHR.PortlandBlossoms_IT-IT6741607999_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PortlandBlossoms_IT-IT6741607999_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Calma, città e ciliegi",
+                "Title": "Fiori di ciliegio al Tom McCall Waterfront Park, Portland, Oregon, USA",
+                "Copyright": "© Eric Vogt/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.522743,-122.669754/2?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=45.522743,-122.669754;S9;Tom McCall Waterfront Park, Portland, Oregon, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260318_PortlandBlossoms\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Portland+Oregon+USA&form=hpcapt&filters=HpDate:\"20260317_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260318_PortlandBlossoms"
+            },
+            "Ssd": "20260318",
+            "Name": "PortlandBlossoms",
+            "Market": "IT-IT",
+            "Hash": "6741607999",
+            "FullDateString": "18 marzo 2026"
+        }
+    },
+    {
         "startdate": "20260316",
         "fullstartdate": "202603162300",
         "enddate": "20260317",

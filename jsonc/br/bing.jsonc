@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260317",
+        "fullstartdate": "202603170300",
+        "enddate": "20260318",
+        "url": "/th?id=OHR.DonegalFort_PT-BR2211224155_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DonegalFort_PT-BR2211224155",
+        "copyright": "Forte Grianán de Aileach, Donegal, Irlanda (© aluxum/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+de+Sao+Patricio&form=hpcapt&mkt=pt-br",
+        "title": "Uma história circular",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260317_DonegalFort%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5844157a5462e2e51fd37e767fa629d4",
+        "hsh": "2ee9f57dc9133bbdd79f68b9fbe92f1d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "No Dia de São Patrício, a Irlanda troca o branco do inverno pelo verde vibrante. Mas a história do santo que virou ícone nacional começou longe dali. Ele nasceu na Britânia romana entre o fim do século IV e o começo do V. Reza a lenda que foi sequestrado ainda adolescente e levado como escravo para a Irlanda. Fugiu e, anos depois, voltou como missionário cristão, usando o trevo de três folhas como atalho didático para explicar a Trindade.",
+                "Image": {
+                    "Url": "/th?id=OHR.DonegalFort_PT-BR2211224155_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DonegalFort_PT-BR2211224155_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Uma história circular",
+                "Title": "Forte Grianán de Aileach, Donegal, Irlanda",
+                "Copyright": "© aluxum/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260317_DonegalFort\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dia+de+Sao+Patricio&form=hpcapt&filters=HpDate:\"20260317_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260317_DonegalFort"
+            },
+            "Ssd": "20260317",
+            "Name": "DonegalFort",
+            "Market": "PT-BR",
+            "Hash": "2211224155",
+            "FullDateString": "17 mar. 2026"
+        }
+    },
+    {
         "startdate": "20260316",
         "fullstartdate": "202603160300",
         "enddate": "20260317",
