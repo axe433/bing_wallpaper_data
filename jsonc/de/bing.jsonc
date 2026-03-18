@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260318",
+        "fullstartdate": "202603182300",
+        "enddate": "20260319",
+        "url": "/th?id=OHR.EchidnaAustralia_DE-DE8869849686_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EchidnaAustralia_DE-DE8869849686",
+        "copyright": "Kurzschnabel-Ameisenigel, Adelaide Hills, Australien (© Etienne Littlefair/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Kurzschnabel-Ameisenigel&form=hpcapt&filters=HpDate%3a%2220260318_2300%22",
+        "title": "Wo Gegensätze zusammenfinden",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260318_EchidnaAustralia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4a19099c5ec20db908a1532809db9f3a",
+        "hsh": "d8a2496448c3d40f6b34b39fc151eca1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Manchmal trifft man auf ein Tier, das wirkt, als bestehe es aus lauter Gegensätzen. Der Kurzschnabel‑Ameisenigel, heute in den Adelaide Hills im Süden Australiens zu sehen, ist ein Säugetier, das dennoch Eier legt. Sein Körper trägt Fell und Stachel. Obwohl er keine Zähne hat, besitzt er eine lange, spezialisierte Zunge. Selbst sein leicht watschelnder Gang erinnert eher an Reptilien als an andere Säugetiere.",
+                "Image": {
+                    "Url": "/th?id=OHR.EchidnaAustralia_DE-DE8869849686_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EchidnaAustralia_DE-DE8869849686_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Wo Gegensätze zusammenfinden",
+                "Title": "Kurzschnabel-Ameisenigel, Adelaide Hills, Australien",
+                "Copyright": "© Etienne Littlefair/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-34.892811,138.836243/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=-34.892811,138.836243;S9;Adelaide Hills, Australien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260319_EchidnaAustralia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Kurzschnabel-Ameisenigel&form=hpcapt&filters=HpDate:\"20260318_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260319_EchidnaAustralia"
+            },
+            "Ssd": "20260319",
+            "Name": "EchidnaAustralia",
+            "Market": "DE-DE",
+            "Hash": "8869849686",
+            "FullDateString": "19. März. 2026"
+        }
+    },
+    {
         "startdate": "20260317",
         "fullstartdate": "202603172300",
         "enddate": "20260318",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260318",
+        "fullstartdate": "202603182300",
+        "enddate": "20260319",
+        "url": "/th?id=OHR.EchidnaAustralia_FR-FR9218839171_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EchidnaAustralia_FR-FR9218839171",
+        "copyright": "L’échidné à nez court, Adelaide Hills, Australie (© Etienne Littlefair/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=%C3%A9chidn%C3%A9+%C3%A0+nez+court&form=hpcapt&filters=HpDate%3a%2220260318_2300%22",
+        "title": "Piquez votre curiosité",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260318_EchidnaAustralia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4a19099c5ec20db908a1532809db9f3a",
+        "hsh": "2045525b64849590ea516c7e6f28648d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Un mammifère qui pond des œufs, dépourvu de dents, à la démarche presque reptilienne et couvert de piquants : l’échidné à nez court semble défier les lois de la logique. Présent en Australie, en Tasmanie et en Nouvelle-Guinée, il fait partie des rares monotrèmes encore vivants. Malgré son apparence préhistorique, il reste bien un mammifère : il a des poils, le sang chaud et produit du lait… sécrété par des glandes mammaires sans mamelons, que le petit lape directement sur la peau.",
+                "Image": {
+                    "Url": "/th?id=OHR.EchidnaAustralia_FR-FR9218839171_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EchidnaAustralia_FR-FR9218839171_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Piquez votre curiosité",
+                "Title": "L’échidné à nez court, Adelaide Hills, Australie",
+                "Copyright": "© Etienne Littlefair/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-34.892811,138.836243/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=-34.892811,138.836243;S9;Adelaide Hills, Australie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260319_EchidnaAustralia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%c3%a9chidn%c3%a9+%c3%a0+nez+court&form=hpcapt&filters=HpDate:\"20260318_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260319_EchidnaAustralia"
+            },
+            "Ssd": "20260319",
+            "Name": "EchidnaAustralia",
+            "Market": "FR-FR",
+            "Hash": "9218839171",
+            "FullDateString": "19 mars 2026"
+        }
+    },
+    {
         "startdate": "20260317",
         "fullstartdate": "202603172300",
         "enddate": "20260318",

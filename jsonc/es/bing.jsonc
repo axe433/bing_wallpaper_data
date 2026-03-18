@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260318",
+        "fullstartdate": "202603182300",
+        "enddate": "20260319",
+        "url": "/th?id=OHR.EchidnaAustralia_ES-ES3815108716_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EchidnaAustralia_ES-ES3815108716",
+        "copyright": "Equidna de hocico corto, colinas de Adelaida, Australia (© Etienne Littlefair/naturepl.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Equidna+de+hocico+corto&form=hpcapt&filters=HpDate%3a%2220260318_2300%22",
+        "title": "El guardián espinoso de Australia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260318_EchidnaAustralia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4a19099c5ec20db908a1532809db9f3a",
+        "hsh": "b393589922c644a52418a487975759aa",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La equidna de hocico corto habita en las colinas de Adelaida, en Australia, una región que combina bosques densos y claros rocosos donde este animal puede moverse con tranquilidad. Su cuerpo cubierto de espinas y su curioso hocico alargado la convierten en una criatura inconfundible dentro de la fauna australiana. La equidna se desplaza con calma entre raíces, piedras y arbustos, y suele mostrarse reservada ante cualquier perturbación. Cuando percibe peligro, excava con rapidez y presiona el cuerpo contra el suelo, dejando solo las espinas expuestas para protegerse. Esta estrategia le permite mantenerse a salvo sin necesidad de huir.",
+                "Image": {
+                    "Url": "/th?id=OHR.EchidnaAustralia_ES-ES3815108716_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EchidnaAustralia_ES-ES3815108716_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "El guardián espinoso de Australia",
+                "Title": "Equidna de hocico corto, colinas de Adelaida, Australia",
+                "Copyright": "© Etienne Littlefair/naturepl.com",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-34.892811,138.836243/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=-34.892811,138.836243;S9;Colinas de Adelaida, Australia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260319_EchidnaAustralia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Equidna+de+hocico+corto&form=hpcapt&filters=HpDate:\"20260318_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260319_EchidnaAustralia"
+            },
+            "Ssd": "20260319",
+            "Name": "EchidnaAustralia",
+            "Market": "ES-ES",
+            "Hash": "3815108716",
+            "FullDateString": "19 de mar. de 2026"
+        }
+    },
+    {
         "startdate": "20260317",
         "fullstartdate": "202603172300",
         "enddate": "20260318",
