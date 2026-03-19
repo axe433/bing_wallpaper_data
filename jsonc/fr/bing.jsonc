@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260319",
+        "fullstartdate": "202603192300",
+        "enddate": "20260320",
+        "url": "/th?id=OHR.FrancophonieIf_FR-FR2314499468_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FrancophonieIf_FR-FR2314499468",
+        "copyright": "Vue sur le quartier d’Endoume, les Îles du Frioul et le Château d'If, Marseille (© RIEGER Bertrand/hemis.fr/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+de+la+Francophonie&form=hpcapt&filters=HpDate%3a%2220260319_2300%22",
+        "title": "La diversité à l’unisson",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260319_FrancophonieIf%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1cd5aadbbf9dbee865fe58d2d8d57ec3",
+        "hsh": "deabbd7947d26a1def25d8680cf61543",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Chaque 20 mars, la Journée de la Francophonie invite à un voyage sans passeport, guidé par une langue qui épouse les paysages. Du souffle salin du Saint-Laurent aux forêts équatoriales d’Afrique centrale, des vignobles d’Europe aux lagons du Pacifique, le français résonne comme un lien vivant entre les peuples.",
+                "Image": {
+                    "Url": "/th?id=OHR.FrancophonieIf_FR-FR2314499468_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FrancophonieIf_FR-FR2314499468_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La diversité à l'unisson",
+                "Title": "Vue sur le quartier d’Endoume, les Îles du Frioul et le Château d'If, Marseille",
+                "Copyright": "© RIEGER Bertrand/hemis.fr/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.279767,5.324807/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=43.279767,5.324807;S9;Château d’If, Marseille&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260320_FrancophonieIf\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Journ%c3%a9e+de+la+Francophonie&form=hpcapt&filters=HpDate:\"20260319_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260320_FrancophonieIf"
+            },
+            "Ssd": "20260320",
+            "Name": "FrancophonieIf",
+            "Market": "FR-FR",
+            "Hash": "2314499468",
+            "FullDateString": "20 mars 2026"
+        }
+    },
+    {
         "startdate": "20260318",
         "fullstartdate": "202603182300",
         "enddate": "20260319",

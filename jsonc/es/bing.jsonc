@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260319",
+        "fullstartdate": "202603192300",
+        "enddate": "20260320",
+        "url": "/th?id=OHR.Equinox_ES-ES5576771883_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Equinox_ES-ES5576771883",
+        "copyright": "Abubilla descansando sobre una piedra (© Brais Seara/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Equinoccio+de+primavera+2026&form=hpcapt&filters=HpDate%3a%2220260319_2300%22",
+        "title": "Susurros de primavera",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260319_Equinox%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5a8b6bb3f50ff87d6a7c44a7377c5252",
+        "hsh": "39fadb384c7cfbe9a4a85759b577ae24",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La llegada del equinoccio de primavera marca un momento de equilibrio en el calendario y también una señal para muchas aves que retoman antiguos recorridos. Entre ellas destaca la abubilla, reconocible por su plumaje cálido y la cresta que despliega como un abanico. Su presencia en marzo no es casual porque forma parte de las poblaciones migratorias que regresan entre finales de febrero y abril para ocupar de nuevo sus zonas de cría en regiones templadas.",
+                "Image": {
+                    "Url": "/th?id=OHR.Equinox_ES-ES5576771883_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Equinox_ES-ES5576771883_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Susurros de primavera",
+                "Title": "Abubilla descansando sobre una piedra",
+                "Copyright": "© Brais Seara/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "La abubilla regresa a sus zonas de cría durante la migración primaveral, coincidiendo con la fecha del equinoccio de primavera.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260320_Equinox\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Equinoccio+de+primavera+2026&form=hpcapt&filters=HpDate:\"20260319_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260320_Equinox"
+            },
+            "Ssd": "20260320",
+            "Name": "Equinox",
+            "Market": "ES-ES",
+            "Hash": "5576771883",
+            "FullDateString": "20 de mar. de 2026"
+        }
+    },
+    {
         "startdate": "20260318",
         "fullstartdate": "202603182300",
         "enddate": "20260319",

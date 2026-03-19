@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260319",
+        "fullstartdate": "202603192300",
+        "enddate": "20260320",
+        "url": "/th?id=OHR.SpringSnowdrops_DE-DE7059027908_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpringSnowdrops_DE-DE7059027908",
+        "copyright": "Schneeglöckchen im Frühling (© klagyivik/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Fr%C3%BCh%C2%ADjahrs-Tag%C2%ADund%C2%ADnacht%C2%ADglei%C2%ADche&form=hpcapt&filters=HpDate%3a%2220260319_2300%22",
+        "title": "Der erste Hauch von Frühling",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260319_SpringSnowdrops%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8a39a06a876e7225e8a1a1c037520014",
+        "hsh": "c5a3e3478a92f49e64eacbb6e238233b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ein Meer aus Schneeglöckchen im ersten Licht des Tages ist ein stilles, aber deutliches Signal dafür, dass die Natur nach den langen Wintermonaten langsam wieder erwacht. Als frühe Frühlingsboten durchbrechen sie die kalte Erde, lange bevor andere Pflanzen wieder austreiben. Trotz ihrer zarten Form sind sie erstaunlich widerstandsfähig. Spezielle frostschützende Proteine helfen ihnen, selbst eisige Nächte gut zu überstehen.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpringSnowdrops_DE-DE7059027908_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpringSnowdrops_DE-DE7059027908_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Der erste Hauch von Frühling",
+                "Title": "Schneeglöckchen im Frühling",
+                "Copyright": "© klagyivik/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Menschen, die sich für Schneeglöckchen begeistern, werden als Galanthophile bezeichnet.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260320_SpringSnowdrops\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Fr%c3%bch%c2%adjahrs-Tag%c2%adund%c2%adnacht%c2%adglei%c2%adche&form=hpcapt&filters=HpDate:\"20260319_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260320_SpringSnowdrops"
+            },
+            "Ssd": "20260320",
+            "Name": "SpringSnowdrops",
+            "Market": "DE-DE",
+            "Hash": "7059027908",
+            "FullDateString": "20. März. 2026"
+        }
+    },
+    {
         "startdate": "20260318",
         "fullstartdate": "202603182300",
         "enddate": "20260319",

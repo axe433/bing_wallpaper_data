@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260319",
+        "fullstartdate": "202603192300",
+        "enddate": "20260320",
+        "url": "/th?id=OHR.SpringSnowdrops_IT-IT6567861717_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpringSnowdrops_IT-IT6567861717",
+        "copyright": "Bucaneve in fiore (© klagyivik/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Equinozio+primavera&form=hpcapt",
+        "title": "Fiori della transizione",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260319_SpringSnowdrops%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8a39a06a876e7225e8a1a1c037520014",
+        "hsh": "fdfbda74af3a7053dbb4ddfcc5db328c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Un bucaneve bianco è il primo sussurro della primavera. Senza festeggiamenti, solo un fiore che appare mentre l’equinozio di primavera bilancia il giorno e la notte. Questi fiori sono tra i primi a fiorire, spesso penetrando il terreno gelato prima che l'inverno ceda del tutto. I loro petali a campana sembrano delicati, ma sono resistenti, protetti da speciali proteine antigelo che li rendono pronti ad affrontare le ultime gelate.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpringSnowdrops_IT-IT6567861717_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpringSnowdrops_IT-IT6567861717_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Fiori della transizione",
+                "Title": "Bucaneve in fiore",
+                "Copyright": "© klagyivik/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "I collezionisti appassionati di bucaneve sono chiamati galantofili.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260320_SpringSnowdrops\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Equinozio+primavera&form=hpcapt&filters=HpDate:\"20260319_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260320_SpringSnowdrops"
+            },
+            "Ssd": "20260320",
+            "Name": "SpringSnowdrops",
+            "Market": "IT-IT",
+            "Hash": "6567861717",
+            "FullDateString": "20 marzo 2026"
+        }
+    },
+    {
         "startdate": "20260318",
         "fullstartdate": "202603182300",
         "enddate": "20260319",
