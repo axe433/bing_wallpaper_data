@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260320",
+        "fullstartdate": "202603202300",
+        "enddate": "20260321",
+        "url": "/th?id=OHR.LeteaForest_FR-FR7321636250_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LeteaForest_FR-FR7321636250",
+        "copyright": "Forêt de Letea, Delta du Danube, Roumanie (© Wild Wonders of Europe/Widstrand/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+internationale+des+for%C3%AAts&form=hpcapt&filters=HpDate%3a%2220260320_2300%22",
+        "title": "Les racines, nos piliers",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260320_LeteaForest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ef45855eac74ac286dda089c5c090763",
+        "hsh": "3aa603f91d11a3c53433a8c342939b0e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Si la Terre avait une équipe de maintenance, les forêts en seraient le pilier silencieux. Elles capturent le carbone, retiennent les sols, filtrent l’eau et abritent une vie foisonnante, des mousses aux grands mammifères. Elles couvrent encore près d’un tiers des terres émergées, mais chaque clairière gagnée par l’agriculture, les routes ou l’extraction de ressources fragilise un équilibre ancien.",
+                "Image": {
+                    "Url": "/th?id=OHR.LeteaForest_FR-FR7321636250_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LeteaForest_FR-FR7321636250_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Les racines, nos piliers",
+                "Title": "Forêt de Letea, Delta du Danube, Roumanie",
+                "Copyright": "© Wild Wonders of Europe/Widstrand/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "La FAO estime qu'environ 10 millions d'hectares de forêt sont abattus chaque année.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260321_LeteaForest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Journ%c3%a9e+internationale+des+for%c3%aats&form=hpcapt&filters=HpDate:\"20260320_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260321_LeteaForest"
+            },
+            "Ssd": "20260321",
+            "Name": "LeteaForest",
+            "Market": "FR-FR",
+            "Hash": "7321636250",
+            "FullDateString": "21 mars 2026"
+        }
+    },
+    {
         "startdate": "20260319",
         "fullstartdate": "202603192300",
         "enddate": "20260320",

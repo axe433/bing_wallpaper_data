@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260320",
+        "fullstartdate": "202603202300",
+        "enddate": "20260321",
+        "url": "/th?id=OHR.LeteaForest_ES-ES5974566570_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LeteaForest_ES-ES5974566570",
+        "copyright": "Bosque de Letea, delta del Danubio, Rumanía (© Wild Wonders of Europe/Widstrand/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+Internacional+de+los+Bosques&form=hpcapt&filters=HpDate%3a%2220260320_2300%22",
+        "title": "Donde las raíces crecen libres",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260320_LeteaForest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ef45855eac74ac286dda089c5c090763",
+        "hsh": "b9ffa4bc95a7efe809835da56076d95f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Cada 21 de marzo celebramos el Día Internacional de los Bosques, una fecha pensada para recordarnos que los árboles no solo decoran el paisaje. También son un refugio de vida y un alivio para nuestras ciudades y nuestras rutinas. Es una jornada que invita a mirar el mundo con calma y a redescubrir esos lugares que siguen latiendo pese a todo.",
+                "Image": {
+                    "Url": "/th?id=OHR.LeteaForest_ES-ES5974566570_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LeteaForest_ES-ES5974566570_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Donde las raíces crecen libres",
+                "Title": "Bosque de Letea, delta del Danubio, Rumanía",
+                "Copyright": "© Wild Wonders of Europe/Widstrand/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "La FAO estima que cada año se talan alrededor de 10 millones de hectáreas de bosque.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260321_LeteaForest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=D%c3%ada+Internacional+de+los+Bosques&form=hpcapt&filters=HpDate:\"20260320_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260321_LeteaForest"
+            },
+            "Ssd": "20260321",
+            "Name": "LeteaForest",
+            "Market": "ES-ES",
+            "Hash": "5974566570",
+            "FullDateString": "21 de mar. de 2026"
+        }
+    },
+    {
         "startdate": "20260319",
         "fullstartdate": "202603192300",
         "enddate": "20260320",
