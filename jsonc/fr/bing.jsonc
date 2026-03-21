@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260321",
+        "fullstartdate": "202603212300",
+        "enddate": "20260322",
+        "url": "/th?id=OHR.TanganyikaWater_FR-FR4249922863_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TanganyikaWater_FR-FR4249922863",
+        "copyright": "Lac Tanganyika, Afrique (© BEST-BACKGROUNDS/NASA/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+internationale+de+l%E2%80%99eau&form=hpcapt&filters=HpDate%3a%2220260321_2300%22",
+        "title": "Quand l’eau façonne le paysage",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260321_TanganyikaWater%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "623c85a8a0a98f0415cb4385040c8876",
+        "hsh": "1cf6cb493ce11b5f883c2fab3bfae7e1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La Journée mondiale de l’eau, instaurée par l’ONU en 1992, marque un réveil collectif : l’humanité ne peut plus se permettre de laisser filer ce qui la fait vivre. Parmi les lieux qui incarnent cette urgence, le lac Tanganyika s’impose. Vu du ciel, il apparaît comme un long ruban de 670 km au cœur de la vallée du Rift africain, partagé entre quatre pays.",
+                "Image": {
+                    "Url": "/th?id=OHR.TanganyikaWater_FR-FR4249922863_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TanganyikaWater_FR-FR4249922863_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Quand l'eau façonne le paysage",
+                "Title": "Lac Tanganyika, Afrique",
+                "Copyright": "© BEST-BACKGROUNDS/NASA/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-6.026425,29.475387/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=-6.026425,29.475387;S9;Lac Tanganyika, Afrique&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260322_TanganyikaWater\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Journ%c3%a9e+internationale+de+l%e2%80%99eau&form=hpcapt&filters=HpDate:\"20260321_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260322_TanganyikaWater"
+            },
+            "Ssd": "20260322",
+            "Name": "TanganyikaWater",
+            "Market": "FR-FR",
+            "Hash": "4249922863",
+            "FullDateString": "22 mars 2026"
+        }
+    },
+    {
         "startdate": "20260320",
         "fullstartdate": "202603202300",
         "enddate": "20260321",

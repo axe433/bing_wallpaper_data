@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260321",
+        "fullstartdate": "202603212300",
+        "enddate": "20260322",
+        "url": "/th?id=OHR.TanganyikaWater_IT-IT3818481809_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TanganyikaWater_IT-IT3818481809",
+        "copyright": "Lago Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Giornata+mondiale+dell+acqua&form=hpcapt",
+        "title": "Ogni goccia conta",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260321_TanganyikaWater%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "623c85a8a0a98f0415cb4385040c8876",
+        "hsh": "9c82d6210e84ad6bd38f96894aca84bf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Oggi celebriamo la “Giornata Mondiale dell’Acqua”, istituita dalle Nazioni Unite nel 1992 e celebrata per la prima volta l’anno successivo. Pochi luoghi incarnano questa urgenza come il Lago Tanganyika, nella Rift Valley dell’Africa orientale. Visto dallo spazio, appare come un nastro di circa 675 chilometri che unisce Tanzania, Burundi, Repubblica Democratica del Congo e Zambia. Sulle sue rive si trova un bacino di frattura antico di dieci milioni di anni, formato quando la crosta terrestre iniziò a separarsi lentamente.",
+                "Image": {
+                    "Url": "/th?id=OHR.TanganyikaWater_IT-IT3818481809_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TanganyikaWater_IT-IT3818481809_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ogni goccia conta",
+                "Title": "Lago Tanganyika, Africa",
+                "Copyright": "© BEST-BACKGROUNDS/NASA/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-6.026425,29.475387/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=-6.026425,29.475387;S9;Lago Tanganyika, Africa&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260322_TanganyikaWater\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Giornata+mondiale+dell+acqua&form=hpcapt&filters=HpDate:\"20260321_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260322_TanganyikaWater"
+            },
+            "Ssd": "20260322",
+            "Name": "TanganyikaWater",
+            "Market": "IT-IT",
+            "Hash": "3818481809",
+            "FullDateString": "22 marzo 2026"
+        }
+    },
+    {
         "startdate": "20260320",
         "fullstartdate": "202603202300",
         "enddate": "20260321",

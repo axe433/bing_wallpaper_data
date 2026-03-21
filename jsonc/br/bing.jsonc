@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260321",
+        "fullstartdate": "202603210300",
+        "enddate": "20260322",
+        "url": "/th?id=OHR.LeteaForest_PT-BR9172551270_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LeteaForest_PT-BR9172551270",
+        "copyright": "Floresta de Letea, Delta do Danúbio, Romênia (© Wild Wonders of Europe/Widstrand/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=dia+internacional+das+florestas&form=hpcapt&mkt=pt-br",
+        "title": "As raízes do futuro",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260321_LeteaForest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ef45855eac74ac286dda089c5c090763",
+        "hsh": "6bfd85fdabb1104aefd52875d465291b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Se a Terra tivesse equipe de manutenção, florestas estariam na linha de frente. Elas engolem carbono, seguram o solo, regulam chuvas e filtram água, enquanto acolhem milhares de espécies. Hoje, são cerca de 31% da superfície terrestre, e o Brasil responde por 12% dessa cobertura. Mas cada hectare perdido é um alerta silencioso: agricultura intensiva, mineração e expansão urbana testam a resiliência desses sistemas.",
+                "Image": {
+                    "Url": "/th?id=OHR.LeteaForest_PT-BR9172551270_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LeteaForest_PT-BR9172551270_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "As raízes do futuro",
+                "Title": "Floresta de Letea, Delta do Danúbio, Romênia",
+                "Copyright": "© Wild Wonders of Europe/Widstrand/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260321_LeteaForest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=dia+internacional+das+florestas&form=hpcapt&filters=HpDate:\"20260321_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260321_LeteaForest"
+            },
+            "Ssd": "20260321",
+            "Name": "LeteaForest",
+            "Market": "PT-BR",
+            "Hash": "9172551270",
+            "FullDateString": "21 mar. 2026"
+        }
+    },
+    {
         "startdate": "20260320",
         "fullstartdate": "202603200300",
         "enddate": "20260321",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260321",
+        "fullstartdate": "202603212300",
+        "enddate": "20260322",
+        "url": "/th?id=OHR.TanganyikaWater_DE-DE8174589395_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TanganyikaWater_DE-DE8174589395",
+        "copyright": "Tanganjikasee, Afrika (© BEST-BACKGROUNDS/NASA/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Weltwassertag&form=hpcapt&filters=HpDate%3a%2220260321_2300%22",
+        "title": "Wo Wasser Grenzen zieht",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260321_TanganyikaWater%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "623c85a8a0a98f0415cb4385040c8876",
+        "hsh": "4a3c8e4743081e49f7a58c88440999d5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Wasser ist die stille Kraft, die unsere Welt zusammenhält und heute im Mittelpunkt steht. Der 1992 von den Vereinten Nationen ausgerufene Weltwassertag erinnert jedes Jahr daran, wie kostbar und schützenswert unsere lebenswichtigen Wasserressourcen sind. Kaum ein Ort macht diese Verantwortung so deutlich wie der Tanganjikasee im Ostafrikanischen Grabenbruch. Aus dem All erscheint er wie ein rund 670 Kilometer langes, schmales Band, das Tansania, Burundi, die Demokratische Republik Kongo und Sambia miteinander verbindet. Sein Becken entstand vor etwa zehn Millionen Jahren, als sich die Erdkruste langsam auseinanderzuschieben begann.",
+                "Image": {
+                    "Url": "/th?id=OHR.TanganyikaWater_DE-DE8174589395_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TanganyikaWater_DE-DE8174589395_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Wo Wasser Grenzen zieht",
+                "Title": "Tanganjikasee, Afrika",
+                "Copyright": "© BEST-BACKGROUNDS/NASA/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-6.026425,29.475387/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=-6.026425,29.475387;S9;Tanganjikasee, Afrika&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260322_TanganyikaWater\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Weltwassertag&form=hpcapt&filters=HpDate:\"20260321_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260322_TanganyikaWater"
+            },
+            "Ssd": "20260322",
+            "Name": "TanganyikaWater",
+            "Market": "DE-DE",
+            "Hash": "8174589395",
+            "FullDateString": "22. März. 2026"
+        }
+    },
+    {
         "startdate": "20260320",
         "fullstartdate": "202603202300",
         "enddate": "20260321",
