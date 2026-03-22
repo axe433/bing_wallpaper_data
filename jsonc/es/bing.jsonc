@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260322",
+        "fullstartdate": "202603222300",
+        "enddate": "20260323",
+        "url": "/th?id=OHR.SonoranStorm_ES-ES8362757569_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SonoranStorm_ES-ES8362757569",
+        "copyright": "Tormenta eléctrica sobre cactus saguaro, desierto de Sonora, Arizona, EE. UU. (© Jack Dykinga/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+Meteorol%C3%B3gico+Mundial&form=hpcapt&filters=HpDate%3a%2220260322_2300%22",
+        "title": "El clima como guía",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260322_SonoranStorm%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d7195fb869d6ccb1616b0dd05b1d8afb",
+        "hsh": "181ec38d1e2ed8ca2c4ef1050d7f01eb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Hoy se celebra el Día Meteorológico Mundial, una fecha que destaca la importancia de comprender los fenómenos atmosféricos y sus efectos en nuestras vidas. Esta jornada recuerda el valor de la observación científica y la necesidad de promover una mayor conciencia sobre el clima a escala global.",
+                "Image": {
+                    "Url": "/th?id=OHR.SonoranStorm_ES-ES8362757569_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SonoranStorm_ES-ES8362757569_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "El clima como guía",
+                "Title": "Tormenta eléctrica sobre cactus saguaro, desierto de Sonora, Arizona, EE. UU.",
+                "Copyright": "© Jack Dykinga/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/32.248009,-112.91613/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=32.248009,-112.91613;S9;Desierto de Sonora, Arizona, EE. UU.&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260323_SonoranStorm\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=D%c3%ada+Meteorol%c3%b3gico+Mundial&form=hpcapt&filters=HpDate:\"20260322_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260323_SonoranStorm"
+            },
+            "Ssd": "20260323",
+            "Name": "SonoranStorm",
+            "Market": "ES-ES",
+            "Hash": "8362757569",
+            "FullDateString": "23 de mar. de 2026"
+        }
+    },
+    {
         "startdate": "20260321",
         "fullstartdate": "202603212300",
         "enddate": "20260322",

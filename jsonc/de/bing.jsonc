@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260322",
+        "fullstartdate": "202603222300",
+        "enddate": "20260323",
+        "url": "/th?id=OHR.SonoranStorm_DE-DE8439783088_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SonoranStorm_DE-DE8439783088",
+        "copyright": "Gewitter über Saguaro-Kakteen, Sonora-Wüste, Arizona, USA (© Jack Dykinga/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Welttag+der+Meteorologie&form=hpcapt&filters=HpDate%3a%2220260322_2300%22",
+        "title": "Wenn das Wetter den Weg weist",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260322_SonoranStorm%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d7195fb869d6ccb1616b0dd05b1d8afb",
+        "hsh": "2bb59cd93bae4b504cf400bb46761e2a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Gewitter zählen zu den spektakulärsten Wetterphänomenen unserer Erde. Sie bilden sich plötzlich, setzen enorme Energie frei und ziehen mit ihren hellen Blitzen die Aufmerksamkeit auf sich. Wer ihre Entstehung versteht, kann Risiken besser einschätzen und sicherer leben. Der Welttag der Meteorologie erinnert an die Gründung der Weltorganisation für Meteorologie im Jahr 1950 und betont die Bedeutung verlässlicher Wetter‑, Klima‑ und Wasserdienste – von Unwetterwarnungen bis zur langfristigen Klimabeobachtung. Das diesjährige Motto lautet: „Heute beobachten, morgen schützen.“",
+                "Image": {
+                    "Url": "/th?id=OHR.SonoranStorm_DE-DE8439783088_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SonoranStorm_DE-DE8439783088_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Wenn das Wetter den Weg weist",
+                "Title": "Gewitter über Saguaro-Kakteen, Sonora-Wüste, Arizona, USA",
+                "Copyright": "© Jack Dykinga/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/32.248009,-112.91613/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=32.248009,-112.91613;S9;Sonora-Wüste, Arizona, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260323_SonoranStorm\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Welttag+der+Meteorologie&form=hpcapt&filters=HpDate:\"20260322_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260323_SonoranStorm"
+            },
+            "Ssd": "20260323",
+            "Name": "SonoranStorm",
+            "Market": "DE-DE",
+            "Hash": "8439783088",
+            "FullDateString": "23. März. 2026"
+        }
+    },
+    {
         "startdate": "20260321",
         "fullstartdate": "202603212300",
         "enddate": "20260322",

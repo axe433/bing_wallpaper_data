@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260322",
+        "fullstartdate": "202603220300",
+        "enddate": "20260323",
+        "url": "/th?id=OHR.TanganyikaWater_PT-BR0806966127_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TanganyikaWater_PT-BR0806966127",
+        "copyright": "Lago Tanganica, África (© BEST-BACKGROUNDS/NASA/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=o+dia+mundial+da+agua&form=hpcapt&mkt=pt-br",
+        "title": "Abundância enganosa",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260322_TanganyikaWater%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "623c85a8a0a98f0415cb4385040c8876",
+        "hsh": "ecf4252853bf36221a48c11802750eb4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "O Dia Mundial da Água foi criado pela ONU em 1992 como lembrete simples e incômodo: sem ela, não existe plano B. Na imagem, o Lago Tanganica é uma fenda azul rasgando a África Oriental. Seus 673 quilômetros de extensão conectam Tanzânia, Burundi, República Democrática do Congo e Zâmbia. Ele surgiu há cerca de 10 milhões de anos, quando a crosta se abriu. Hoje, milhões dependem dele para beber, pescar e circular, e seus abismos guardam espécies únicas no planeta.",
+                "Image": {
+                    "Url": "/th?id=OHR.TanganyikaWater_PT-BR0806966127_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TanganyikaWater_PT-BR0806966127_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Abundância enganosa",
+                "Title": "Lago Tanganica, África",
+                "Copyright": "© BEST-BACKGROUNDS/NASA/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260322_TanganyikaWater\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=o+dia+mundial+da+agua&form=hpcapt&filters=HpDate:\"20260322_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260322_TanganyikaWater"
+            },
+            "Ssd": "20260322",
+            "Name": "TanganyikaWater",
+            "Market": "PT-BR",
+            "Hash": "0806966127",
+            "FullDateString": "22 mar. 2026"
+        }
+    },
+    {
         "startdate": "20260321",
         "fullstartdate": "202603210300",
         "enddate": "20260322",
