@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260323",
+        "fullstartdate": "202603231600",
+        "enddate": "20260324",
+        "url": "/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926",
+        "copyright": "东湖樱花园的樱花，武汉，中国 (© Zhang Qiao/VCG/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E4%B8%AD%E5%9B%BD%E6%AD%A6%E6%B1%89%E4%B8%9C%E6%B9%96%E6%A8%B1%E8%8A%B1%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+        "title": "春天的形状",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260323_WuhanCherryBlossom%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "236273b4af154ce2c5cc860b3057f9f9",
+        "hsh": "7717a52b0891d610736daa1202f5f641",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "从空中俯瞰，中国武汉的东湖樱花园宛如一朵淡紫色的云，轻柔地停驻在大地之上。成千上万株樱花同时盛放，浅色花瓣在公园中心一座金色五层宝塔周围织就出一片生机盎然的花海穹顶。宝塔以沉静而对称的姿态挺立，层层飞檐在柔和的春日色彩映衬下熠熠生辉。",
+                "Image": {
+                    "Url": "/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "春天的形状",
+                "Title": "东湖樱花园的樱花，武汉，中国",
+                "Copyright": "© Zhang Qiao/VCG/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "武汉樱花花期很短，单株3—5天盛放，最佳观赏期常不足一周。气温每升高1℃，花期都会提前。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260324_WuhanCherryBlossom\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e4%b8%ad%e5%9b%bd%e6%ad%a6%e6%b1%89%e4%b8%9c%e6%b9%96%e6%a8%b1%e8%8a%b1%e5%9b%ad&form=hpcapt&filters=HpDate:\"20260323_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260324_WuhanCherryBlossom"
+            },
+            "Ssd": "20260324",
+            "Name": "WuhanCherryBlossom",
+            "Market": "ZH-CN",
+            "Hash": "1031985926",
+            "FullDateString": "2026 3月 24"
+        }
+    },
+    {
         "startdate": "20260322",
         "fullstartdate": "202603221600",
         "enddate": "20260323",

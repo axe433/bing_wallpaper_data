@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260323",
+        "fullstartdate": "202603232300",
+        "enddate": "20260324",
+        "url": "/th?id=OHR.WuhanCherryBlossom_FR-FR2577196492_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WuhanCherryBlossom_FR-FR2577196492",
+        "copyright": "Cerisiers en fleurs au jardin des cerisiers du Lac de l’Est, Wuhan, Chine (© Zhang Qiao/VCG/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Wuhan+Chine&form=hpcapt&filters=HpDate%3a%2220260323_2300%22",
+        "title": "Ça sent le printemps !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260323_WuhanCherryBlossom%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "236273b4af154ce2c5cc860b3057f9f9",
+        "hsh": "0a19ae4bbfe12883435d01c983200872",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Vu du ciel, le jardin des cerisiers du lac de l’Est, à Wuhan, en Chine, ressemble à un nuage lilas posé avec douceur sur la terre. Des milliers de cerisiers fleurissent simultanément, entourant de leurs pétales pâles la pagode dorée de cinq étages. Au centre, sa silhouette symétrique s’élève avec sérénité, soulignée par les tons pastel du printemps.",
+                "Image": {
+                    "Url": "/th?id=OHR.WuhanCherryBlossom_FR-FR2577196492_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WuhanCherryBlossom_FR-FR2577196492_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Ça sent le printemps !",
+                "Title": "Cerisiers en fleurs au jardin des cerisiers du Lac de l’Est, Wuhan, Chine",
+                "Copyright": "© Zhang Qiao/VCG/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/30.595,114.2975/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=30.595,114.2975;S9;Wuhan, Hubei, Chine&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260324_WuhanCherryBlossom\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Wuhan+Chine&form=hpcapt&filters=HpDate:\"20260323_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260324_WuhanCherryBlossom"
+            },
+            "Ssd": "20260324",
+            "Name": "WuhanCherryBlossom",
+            "Market": "FR-FR",
+            "Hash": "2577196492",
+            "FullDateString": "24 mars 2026"
+        }
+    },
+    {
         "startdate": "20260322",
         "fullstartdate": "202603222300",
         "enddate": "20260323",

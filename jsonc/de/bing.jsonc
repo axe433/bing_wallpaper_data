@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260323",
+        "fullstartdate": "202603232300",
+        "enddate": "20260324",
+        "url": "/th?id=OHR.KapArkonaRuegen_DE-DE8954793398_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KapArkonaRuegen_DE-DE8954793398",
+        "copyright": "Drohnenaufnahme des Peilturms am Kap Arkona, Rügen, Mecklenburg‑Vorpommern (© Stefan Dinse/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Kap+Arkona+R%C3%BCgen&form=hpcapt&filters=HpDate%3a%2220260323_2300%22",
+        "title": "Stille an der Küste",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260323_KapArkonaRuegen%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c530a386b715975bcdfc4422b8073a38",
+        "hsh": "ee5e71d7238b3d26ce706c7aebf28288",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Über der Nordspitze Rügens liegt am Kap Arkona warmes Abendlicht über Backstein und Glas. Der Peilturm mit seiner markanten Kuppel erhebt sich über die sanft geschwungenen Klippen und fängt die letzten Farben des Himmels ein. Unter ihm fällt die Steilküste bis zu rund 43 Meter zur Ostsee ab, die sich ruhig bis zum Horizont erstreckt.",
+                "Image": {
+                    "Url": "/th?id=OHR.KapArkonaRuegen_DE-DE8954793398_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KapArkonaRuegen_DE-DE8954793398_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Stille an der Küste",
+                "Title": "Drohnenaufnahme des Peilturms am Kap Arkona, Rügen, Mecklenburg‑Vorpommern",
+                "Copyright": "© Stefan Dinse/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/54.677607,13.435712/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=54.677607,13.435712;S9;Kap Arkona, Rügen, Mecklenburg‑Vorpommern&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260324_KapArkonaRuegen\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Kap+Arkona+R%c3%bcgen&form=hpcapt&filters=HpDate:\"20260323_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260324_KapArkonaRuegen"
+            },
+            "Ssd": "20260324",
+            "Name": "KapArkonaRuegen",
+            "Market": "DE-DE",
+            "Hash": "8954793398",
+            "FullDateString": "24. März. 2026"
+        }
+    },
+    {
         "startdate": "20260322",
         "fullstartdate": "202603222300",
         "enddate": "20260323",

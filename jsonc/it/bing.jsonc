@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260323",
+        "fullstartdate": "202603232300",
+        "enddate": "20260324",
+        "url": "/th?id=OHR.WuhanCherryBlossom_IT-IT4463324478_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WuhanCherryBlossom_IT-IT4463324478",
+        "copyright": "Fiori di ciliegio, Parco dei Fiori di Ciliegio del Lago Orientale, Wuhan, Cina (© Zhang Qiao/VCG/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Wuhan+Cina&form=hpcapt",
+        "title": "Ballo di petali",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260323_WuhanCherryBlossom%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "236273b4af154ce2c5cc860b3057f9f9",
+        "hsh": "0cf25faffa16cfdb73fd1ad77e18c7d8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dall’alto, il Parco dei Ciliegi di East Lake a Wuhan, in Cina, sembra una nuvola di lilla che si adagia sulla terra. Migliaia di alberi di ciliegio fioriscono all’unisono, avvolgendo con i loro petali una pagoda dorata a cinque piani che si erge con grazia: i suoi tetti a più livelli risplendono tra i tenui colori della primavera. L’East Lake, il parco urbano più grande della Cina, è diventato uno dei luoghi più celebrati del Paese per ammirare i ciliegi in fiore. Molti degli alberi risalgono ai contatti tra la Cina e il Giappone alla fine del XX secolo, riflettendo una storia modellata da scambi culturali e capitoli più difficili. Più di 10.000 alberi di ciliegio, che comprendono oltre 30 varietà, tra cui Somei Yoshino e ciliegi piangenti, sono piantati in un paesaggio ispirato al design dei giardini giapponesi. Per un breve periodo ogni primavera, la natura e il design si incontrano qui in perfetto equilibrio.",
+                "Image": {
+                    "Url": "/th?id=OHR.WuhanCherryBlossom_IT-IT4463324478_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WuhanCherryBlossom_IT-IT4463324478_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Ballo di petali",
+                "Title": "Fiori di ciliegio, Parco dei Fiori di Ciliegio del Lago Orientale, Wuhan, Cina",
+                "Copyright": "© Zhang Qiao/VCG/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/30.595,114.2975/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=30.595,114.2975;S9;Wuhan, Hubei, Cina&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260324_WuhanCherryBlossom\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Wuhan+Cina&form=hpcapt&filters=HpDate:\"20260323_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260324_WuhanCherryBlossom"
+            },
+            "Ssd": "20260324",
+            "Name": "WuhanCherryBlossom",
+            "Market": "IT-IT",
+            "Hash": "4463324478",
+            "FullDateString": "24 marzo 2026"
+        }
+    },
+    {
         "startdate": "20260322",
         "fullstartdate": "202603222300",
         "enddate": "20260323",
