@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260324",
+        "fullstartdate": "202603241830",
+        "enddate": "20260325",
+        "url": "/th?id=OHR.ManateeSpring_EN-IN3602464122_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ManateeSpring_EN-IN3602464122",
+        "copyright": "Juvenile manatees in a freshwater spring, Crystal River, Florida, United States (© Gregory Sweeney/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Manatee+Appreciation+Day&form=hpcapt&filters=HpDate%3a%2220260324_1830%22",
+        "title": "The secret life of manatees",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260324_ManateeSpring%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "41a9039fe65190a27ec76e941b5d85a7",
+        "hsh": "e3033515742d492f9ca9362a08087be1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Manatees may seem slow and sleepy, but they have some surprising tricks under the surface. For starters, they are one of the few mammals that constantly replace their teeth. As old molars wear down from chewing gritty seagrass, new ones slowly roll forward like a conveyor belt—handy for an animal that eats for up to eight hours a day.",
+                "Image": {
+                    "Url": "/th?id=OHR.ManateeSpring_EN-IN3602464122_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ManateeSpring_EN-IN3602464122_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "The secret life of manatees",
+                "Title": "Juvenile manatees in a freshwater spring, Crystal River, Florida, United States",
+                "Copyright": "© Gregory Sweeney/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/28.90055,-82.59361/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=28.90055,-82.59361;S9;Crystal River, Florida, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260325_ManateeSpring\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Manatee+Appreciation+Day&form=hpcapt&filters=HpDate:\"20260324_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260325_ManateeSpring"
+            },
+            "Ssd": "20260325",
+            "Name": "ManateeSpring",
+            "Market": "EN-IN",
+            "Hash": "3602464122",
+            "FullDateString": "25 Mar, 2026"
+        }
+    },
+    {
         "startdate": "20260323",
         "fullstartdate": "202603231830",
         "enddate": "20260324",

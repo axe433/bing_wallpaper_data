@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260324",
+        "fullstartdate": "202603242300",
+        "enddate": "20260325",
+        "url": "/th?id=OHR.ManateeSpring_FR-FR8210018340_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ManateeSpring_FR-FR8210018340",
+        "copyright": "Jeunes lamantins dans une source d’eau douce, Crystal River, Floride, États-Unis (© Gregory Sweeney/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+d%E2%80%99appr%C3%A9ciation+des+lamantins&form=hpcapt&filters=HpDate%3a%2220260324_2300%22",
+        "title": "La vie secrète des lamantins",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260324_ManateeSpring%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "41a9039fe65190a27ec76e941b5d85a7",
+        "hsh": "88a8486b3c6e7998a6c78664feab13c4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Les lamantins donnent l’impression de flotter au ralenti, presque assoupis. Pourtant, sous la surface, ils révèlent d’étonnantes particularités. Ce sont parmi les rares mammifères à renouveler leurs dents en continu : leurs molaires usées par les herbiers sableux avancent peu à peu, remplacées comme sur un tapis roulant - un atout pour un animal qui passe jusqu’à huit heures par jour à brouter.",
+                "Image": {
+                    "Url": "/th?id=OHR.ManateeSpring_FR-FR8210018340_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ManateeSpring_FR-FR8210018340_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La vie secrète des lamantins",
+                "Title": "Jeunes lamantins dans une source d’eau douce, Crystal River, Floride, États-Unis",
+                "Copyright": "© Gregory Sweeney/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/28.90055,-82.59361/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=28.90055,-82.59361;S9;Crystal River, Floride, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260325_ManateeSpring\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Journ%c3%a9e+d%e2%80%99appr%c3%a9ciation+des+lamantins&form=hpcapt&filters=HpDate:\"20260324_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260325_ManateeSpring"
+            },
+            "Ssd": "20260325",
+            "Name": "ManateeSpring",
+            "Market": "FR-FR",
+            "Hash": "8210018340",
+            "FullDateString": "25 mars 2026"
+        }
+    },
+    {
         "startdate": "20260323",
         "fullstartdate": "202603232300",
         "enddate": "20260324",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260324",
+        "fullstartdate": "202603242300",
+        "enddate": "20260325",
+        "url": "/th?id=OHR.ManateeSpring_ES-ES0435279848_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ManateeSpring_ES-ES0435279848",
+        "copyright": "Manatíes en un manantial de agua dulce, Crystal River, Florida, EE. UU. (© Gregory Sweeney/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Manat%C3%AD&form=hpcapt&filters=HpDate%3a%2220260324_2300%22",
+        "title": "La vida secreta de los manatíes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260324_ManateeSpring%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "41a9039fe65190a27ec76e941b5d85a7",
+        "hsh": "4e254d259e06e6a259281c9019bcaab4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Los manantiales de agua dulce de Crystal River en Florida, Estados Unidos, crean un entorno cálido y transparente que atrae a numerosos manatíes jóvenes en su búsqueda de calma y seguridad. En estas aguas claras encuentran un espacio estable que mantiene una temperatura adecuada durante los meses fríos y les permite descansar sin esfuerzo. La quietud del lugar hace que cualquier movimiento resulte agradable de observar.",
+                "Image": {
+                    "Url": "/th?id=OHR.ManateeSpring_ES-ES0435279848_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ManateeSpring_ES-ES0435279848_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La vida secreta de los manatíes",
+                "Title": "Manatíes en un manantial de agua dulce, Crystal River, Florida, EE. UU.",
+                "Copyright": "© Gregory Sweeney/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/28.90055,-82.59361/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=28.90055,-82.59361;S9;Crystal River, Florida, EE. UU.&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260325_ManateeSpring\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Manat%c3%ad&form=hpcapt&filters=HpDate:\"20260324_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260325_ManateeSpring"
+            },
+            "Ssd": "20260325",
+            "Name": "ManateeSpring",
+            "Market": "ES-ES",
+            "Hash": "0435279848",
+            "FullDateString": "25 de mar. de 2026"
+        }
+    },
+    {
         "startdate": "20260323",
         "fullstartdate": "202603232300",
         "enddate": "20260324",

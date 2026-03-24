@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260324",
+        "fullstartdate": "202603242300",
+        "enddate": "20260325",
+        "url": "/th?id=OHR.ManateeSpring_DE-DE1785577917_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ManateeSpring_DE-DE1785577917",
+        "copyright": "Junge Seekühe in einer Süßwasserquelle am Crystal River, Florida, USA (© Gregory Sweeney/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Seek%C3%BChe&form=hpcapt&filters=HpDate%3a%2220260324_2300%22",
+        "title": "Sanfte Meister des Wassers",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260324_ManateeSpring%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "41a9039fe65190a27ec76e941b5d85a7",
+        "hsh": "9303fe747f74b799b543a842f35d3b1f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Seekühe treiben auf den ersten Blick ruhig durchs Wasser, doch ihr Körper ist weitaus raffinierter, als man erwartet. Als reine Pflanzenfresser verbringen sie viele Stunden damit, Seegras zu kauen. Dabei kommt ihnen eine biologische Besonderheit zugute: Ihre Backenzähne nutzen sich schnell ab und werden kontinuierlich von hinten durch neue ersetzt. So bleiben sie ihr Leben lang funktionsfähig. Auch ihre Abstammung ist überraschend. Trotz ihres Lebens im Wasser sind Seekühe eng mit Elefanten verwandt, was sich in ihrer faltigen Haut und den kräftigen, beweglichen Oberlippen zeigt. Gleichzeitig sind sie kälteempfindlich. Da ihnen eine dicke Fettschicht fehlt, ziehen sie sich in den Wintermonaten in warme Quellen zurück, um ihre Körpertemperatur zu halten.",
+                "Image": {
+                    "Url": "/th?id=OHR.ManateeSpring_DE-DE1785577917_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ManateeSpring_DE-DE1785577917_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Sanfte Meister des Wassers",
+                "Title": "Junge Seekühe in einer Süßwasserquelle am Crystal River, Florida, USA",
+                "Copyright": "© Gregory Sweeney/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/28.90055,-82.59361/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=28.90055,-82.59361;S9;Crystal River, Florida, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260325_ManateeSpring\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Seek%c3%bche&form=hpcapt&filters=HpDate:\"20260324_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260325_ManateeSpring"
+            },
+            "Ssd": "20260325",
+            "Name": "ManateeSpring",
+            "Market": "DE-DE",
+            "Hash": "1785577917",
+            "FullDateString": "25. März. 2026"
+        }
+    },
+    {
         "startdate": "20260323",
         "fullstartdate": "202603232300",
         "enddate": "20260324",
