@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260325",
+        "fullstartdate": "202603252300",
+        "enddate": "20260326",
+        "url": "/th?id=OHR.LoganCreek_IT-IT4625300484_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LoganCreek_IT-IT4625300484",
+        "copyright": "Ponte sospeso Logan Creek, West Coast Trail, Canada (© Tandem Stock/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Columbia+Britannica+Canada&form=hpcapt",
+        "title": "Passi nel vuoto?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260325_LoganCreek%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4e4caa00d490d2235aba10a7f30268a1",
+        "hsh": "6249a47a241e282cef096b3187017341",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Lungo la remota costa sud-occidentale dell’Isola di Vancouver, in Canada, il West Coast Trail è uno dei cammini escursionistici più leggendari del Paese e si trova all’interno della Pacific Rim National Park Reserve, nella Columbia Britannica. Il sentiero si estende per circa 75 chilometri attraverso foreste pluviali, spiagge e tratti di costa rocciosa. Fu costruito nel 1907 come percorso di salvataggio per i sopravvissuti ai naufragi lungo quello che i marinai chiamavano il “cimitero del Pacifico”.",
+                "Image": {
+                    "Url": "/th?id=OHR.LoganCreek_IT-IT4625300484_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LoganCreek_IT-IT4625300484_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Passi nel vuoto?",
+                "Title": "Ponte sospeso Logan Creek, West Coast Trail, Canada",
+                "Copyright": "© Tandem Stock/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Il cammino del West Coast Trail richiede 6-8 giorni per essere completato, a causa del fango, delle scale, dei fiumi e delle condizioni climatiche avverse della costa.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260326_LoganCreek\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Columbia+Britannica+Canada&form=hpcapt&filters=HpDate:\"20260325_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260326_LoganCreek"
+            },
+            "Ssd": "20260326",
+            "Name": "LoganCreek",
+            "Market": "IT-IT",
+            "Hash": "4625300484",
+            "FullDateString": "26 marzo 2026"
+        }
+    },
+    {
         "startdate": "20260324",
         "fullstartdate": "202603242300",
         "enddate": "20260325",

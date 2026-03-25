@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260325",
+        "fullstartdate": "202603250400",
+        "enddate": "20260326",
+        "url": "/th?id=OHR.AlbertaSnowMts_EN-CA2560376751_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlbertaSnowMts_EN-CA2560376751",
+        "copyright": "Pine trees reflected in the Forgetmenot Pond in Kananaskis Country, Alberta (© chinaface/Getty images)",
+        "copyrightlink": "https://www.bing.com/search?q=Kananaskis+Country+Alberta&form=hpcapt&filters=HpDate%3a%2220260325_0400%22",
+        "title": "Staying grounded",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260325_AlbertaSnowMts%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "276b1878c636b4e450bc104a5a8f754d",
+        "hsh": "50019f11dc56ce09888165e3f2d6df2d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Set in the foothills and front ranges of the Canadian Rockies, Kananaskis Country stretches across a vast network of protected valleys, dense forests and alpine peaks. Located in Alberta, the region was formally established in 1978, uniting several provincial parks and protected areas under a shared vision of conservation. Clear rivers cut through limestone cliffs, while spruce and pine forests rise toward high mountain passes.",
+                "Image": {
+                    "Url": "/th?id=OHR.AlbertaSnowMts_EN-CA2560376751_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AlbertaSnowMts_EN-CA2560376751_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Staying grounded",
+                "Title": "Pine trees reflected in the Forgetmenot Pond in Kananaskis Country, Alberta",
+                "Copyright": "© chinaface/Getty images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.428585,-114.777723/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=51.428585,-114.777723;S9;Forgetmenot Pond, Kananaskis Country, Alberta&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260325_AlbertaSnowMts\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Kananaskis+Country+Alberta&form=hpcapt&filters=HpDate:\"20260325_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260325_AlbertaSnowMts"
+            },
+            "Ssd": "20260325",
+            "Name": "AlbertaSnowMts",
+            "Market": "EN-CA",
+            "Hash": "2560376751",
+            "FullDateString": "Mar. 25, 2026"
+        }
+    },
+    {
         "startdate": "20260324",
         "fullstartdate": "202603240400",
         "enddate": "20260325",

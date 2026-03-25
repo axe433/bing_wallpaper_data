@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260325",
+        "fullstartdate": "202603252300",
+        "enddate": "20260326",
+        "url": "/th?id=OHR.LoganCreek_DE-DE9430213551_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LoganCreek_DE-DE9430213551",
+        "copyright": "Logan Creek Suspension Bridge, West Coast Trail, Kanada (© Tandem Stock/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=West+Coast+Trail+Wanderweg&form=hpcapt&filters=HpDate%3a%2220260325_2300%22",
+        "title": "In luftigen Höhen",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260325_LoganCreek%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4e4caa00d490d2235aba10a7f30268a1",
+        "hsh": "b53539dec3ec11b2dda09a33e6407302",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Es gibt Wege, die man nicht so schnell vergisst. Entlang der abgelegenen Südwestküste von Vancouver Island verläuft der West Coast Trail, einer der bekanntesten Wanderpfade Kanadas. Die rund 75 Kilometer lange Route führt durch Regenwald, an Stränden entlang und vorbei an zerklüfteten Küstenabschnitten im Pacific‑Rim‑Nationalpark. Der Weg wurde im Jahr 1907 als Rettungsroute für Schiffbrüchige im berüchtigten „Graveyard of the Pacific“ angelegt.",
+                "Image": {
+                    "Url": "/th?id=OHR.LoganCreek_DE-DE9430213551_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LoganCreek_DE-DE9430213551_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "In luftigen Höhen",
+                "Title": "Logan Creek Suspension Bridge, West Coast Trail, Kanada",
+                "Copyright": "© Tandem Stock/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Aufgrund von Schlamm, Leitern, Flussquerungen und rauem Küstenwetter dauert der West Coast Trail in der Regel 6 bis 8 Tage.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260326_LoganCreek\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=West+Coast+Trail+Wanderweg&form=hpcapt&filters=HpDate:\"20260325_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260326_LoganCreek"
+            },
+            "Ssd": "20260326",
+            "Name": "LoganCreek",
+            "Market": "DE-DE",
+            "Hash": "9430213551",
+            "FullDateString": "26. März. 2026"
+        }
+    },
+    {
         "startdate": "20260324",
         "fullstartdate": "202603242300",
         "enddate": "20260325",
