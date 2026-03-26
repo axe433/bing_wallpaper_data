@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260326",
+        "fullstartdate": "202603261830",
+        "enddate": "20260327",
+        "url": "/th?id=OHR.RadioCityHall_EN-IN3942844565_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RadioCityHall_EN-IN3942844565",
+        "copyright": "Radio City Music Hall in New York City, United States (© Clarence Holmes Photography/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=World+Theatre+Day&form=hpcapt&filters=HpDate%3a%2220260326_1830%22",
+        "title": "Still burning bright",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260326_RadioCityHall%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "869812213e3b0450fddaf55717e1fc0f",
+        "hsh": "9f735708a69c0a4bcd0c78095d672c86",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "At first glance, there's no doubt that the interior of Radio City Music Hall pulls you in and cranks up the excitement. It feels like stepping straight into the sun in the middle of New York City, United States—an Art Deco fever dream of how the 1930s imagined the future. This rush of awe is celebrated every 27 March as World Theatre Day.",
+                "Image": {
+                    "Url": "/th?id=OHR.RadioCityHall_EN-IN3942844565_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RadioCityHall_EN-IN3942844565_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Still burning bright",
+                "Title": "Radio City Music Hall in New York City, United States",
+                "Copyright": "© Clarence Holmes Photography/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.759968,-73.979912/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=40.759968,-73.979912;S9;Radio City Music Hall, New York City, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260327_RadioCityHall\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=World+Theatre+Day&form=hpcapt&filters=HpDate:\"20260326_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260327_RadioCityHall"
+            },
+            "Ssd": "20260327",
+            "Name": "RadioCityHall",
+            "Market": "EN-IN",
+            "Hash": "3942844565",
+            "FullDateString": "27 Mar, 2026"
+        }
+    },
+    {
         "startdate": "20260325",
         "fullstartdate": "202603251830",
         "enddate": "20260326",

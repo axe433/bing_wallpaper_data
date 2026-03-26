@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260326",
+        "fullstartdate": "202603262300",
+        "enddate": "20260327",
+        "url": "/th?id=OHR.RadioCityHall_IT-IT8882732527_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RadioCityHall_IT-IT8882732527",
+        "copyright": "Radio City Music Hall, New York City, USA (© Clarence Holmes Photography/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Giornata+Mondiale+del+Teatro&form=hpcapt",
+        "title": "La scena infinita",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260326_RadioCityHall%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "869812213e3b0450fddaf55717e1fc0f",
+        "hsh": "6aac17bdce3777c368c88990f3f57386",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "L’interno della Radio City Music Hall cattura e accende l’entusiasmo. Sembra di entrare nel cuore di New York, in un sogno Art Déco che riflette l’idea di futuro degli anni Trenta. Non è solo una meraviglia architettonica: è l’essenza stessa di ciò che il 27 marzo celebriamo con la “Giornata Mondiale del Teatro”, la forza viva e irripetibile dello spettacolo dal vivo. Inaugurato nel 1932, in piena Grande Depressione, il Radio City Music Hall non fu pensato per essere discreto, ma per stupire: quasi 6.000 posti, archi luminosi, un palcoscenico monumentale. Ma la magia del teatro non appartiene a un solo luogo. Anche in Italia, da templi storici come il Teatro alla Scala di Milano o il Teatro La Fenice di Venezia, fino ai tanti teatri disseminati in città e borghi, il sipario continua ad alzarsi ogni sera. Quando le luci si abbassano e il palco prende vita, si rinnova quel rito collettivo che questa Giornata ci invita a custodire.",
+                "Image": {
+                    "Url": "/th?id=OHR.RadioCityHall_IT-IT8882732527_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RadioCityHall_IT-IT8882732527_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "La scena infinita",
+                "Title": "Radio City Music Hall, New York City, USA",
+                "Copyright": "© Clarence Holmes Photography/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.759968,-73.979912/12?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=40.759968,-73.979912;S9;Radio City Music Hall, New York City, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260327_RadioCityHall\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Giornata+Mondiale+del+Teatro&form=hpcapt&filters=HpDate:\"20260326_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260327_RadioCityHall"
+            },
+            "Ssd": "20260327",
+            "Name": "RadioCityHall",
+            "Market": "IT-IT",
+            "Hash": "8882732527",
+            "FullDateString": "27 marzo 2026"
+        }
+    },
+    {
         "startdate": "20260325",
         "fullstartdate": "202603252300",
         "enddate": "20260326",

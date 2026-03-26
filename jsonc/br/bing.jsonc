@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260326",
+        "fullstartdate": "202603260300",
+        "enddate": "20260327",
+        "url": "/th?id=OHR.LoganCreek_PT-BR3480636440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LoganCreek_PT-BR3480636440",
+        "copyright": "Ponte suspensa Logan Creek, Trilha da Costa Oeste, Vancouver, Canadá (© Tandem Stock/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Ilha+Vancouver&form=hpcapt&mkt=pt-br",
+        "title": "Rotas que resgatam",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260326_LoganCreek%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4e4caa00d490d2235aba10a7f30268a1",
+        "hsh": "9bb775ffe417c95c3d8a7cb4395d0835",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Hoje estamos na Trilha da Costa Oeste da Ilha de Vancouver, Canadá — 75 quilômetros de adrenalina entre antigas florestas temperadas, praias selvagens e penhascos íngremes. Antes de entrar no radar dos mochileiros, o percurso era logística de sobrevivência. Criado em 1907, conectava faróis e estações de resgate ao longo do trecho apelidado “Cemitério do Pacífico”, onde neblina, recifes e tempestades multiplicavam naufrágios. A Ponte Suspensa de Logan Creek, vista na imagem, trocou uma descida quase vertical por uma travessia a cerca de 40 metros de altura, mas ainda exige pernas firmes e atenção redobrada.",
+                "Image": {
+                    "Url": "/th?id=OHR.LoganCreek_PT-BR3480636440_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LoganCreek_PT-BR3480636440_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Rotas que resgatam",
+                "Title": "Ponte suspensa Logan Creek, Trilha da Costa Oeste, Vancouver, Canadá",
+                "Copyright": "© Tandem Stock/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260326_LoganCreek\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ilha+Vancouver&form=hpcapt&filters=HpDate:\"20260326_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260326_LoganCreek"
+            },
+            "Ssd": "20260326",
+            "Name": "LoganCreek",
+            "Market": "PT-BR",
+            "Hash": "3480636440",
+            "FullDateString": "26 mar. 2026"
+        }
+    },
+    {
         "startdate": "20260325",
         "fullstartdate": "202603250300",
         "enddate": "20260326",
