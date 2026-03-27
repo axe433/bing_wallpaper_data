@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260327",
+        "fullstartdate": "202603272300",
+        "enddate": "20260328",
+        "url": "/th?id=OHR.CapeBuffalo_IT-IT4967996112_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CapeBuffalo_IT-IT4967996112",
+        "copyright": "Bufalo africano, Cratere di Ngorongoro, Tanzania (© jesuss8/500px/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Syncerus+caffer&form=hpcapt",
+        "title": "Spirito indomito",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260327_CapeBuffalo%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c9f4a90bf8498dd7d04090ac3414bd24",
+        "hsh": "1efd63055f335921e33136ded55e0393",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Il bufalo africano, creatura potente e imponente, popola le savane e le zone umide della Tanzania, in particolare all’interno della Ngorongoro Conservation Area (NCA). Conosciuto per le sue grandi corna ricurve e la mole massiccia, è uno dei “Big Five” africani (bufalo, elefante, leopardo, rinoceronte, leone) ed è ampiamente rispettato per la forza e resistenza. La NCA, sito del Patrimonio Mondiale dell’UNESCO, offre uno scenario spettacolare e ricco dal punto di vista ecologico per osservare questi formidabili erbivori.",
+                "Image": {
+                    "Url": "/th?id=OHR.CapeBuffalo_IT-IT4967996112_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CapeBuffalo_IT-IT4967996112_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Spirito indomito",
+                "Title": "Bufalo africano, Cratere di Ngorongoro, Tanzania",
+                "Copyright": "© jesuss8/500px/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-3.064646,35.381698/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=-3.064646,35.381698;S9;Cratere di Ngorongoro, Tanzania&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260328_CapeBuffalo\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Syncerus+caffer&form=hpcapt&filters=HpDate:\"20260327_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260328_CapeBuffalo"
+            },
+            "Ssd": "20260328",
+            "Name": "CapeBuffalo",
+            "Market": "IT-IT",
+            "Hash": "4967996112",
+            "FullDateString": "28 marzo 2026"
+        }
+    },
+    {
         "startdate": "20260326",
         "fullstartdate": "202603262300",
         "enddate": "20260327",

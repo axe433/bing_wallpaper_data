@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260327",
+        "fullstartdate": "202603272300",
+        "enddate": "20260328",
+        "url": "/th?id=OHR.CapeBuffalo_ES-ES1313712620_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CapeBuffalo_ES-ES1313712620",
+        "copyright": "Búfalo africano, cráter del Ngorongoro, Tanzania (© jesuss8/500px/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=B%C3%BAfalo+africano&form=hpcapt&filters=HpDate%3a%2220260327_2300%22",
+        "title": "Espíritu indómito",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260327_CapeBuffalo%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c9f4a90bf8498dd7d04090ac3414bd24",
+        "hsh": "3f76ff28e68d05e2e0439966c181c76f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El búfalo africano es uno de los grandes protagonistas del cráter del Ngorongoro (Tanzania), un antiguo volcán colapsado que conserva un ecosistema único. En este paisaje las manadas se mueven con calma aparente, aunque cada individuo mantiene un carácter fuerte. Los búfalos destacan por su resistencia y por la impresionante forma de sus cuernos, que pueden llegar a fusionarse en un escudo óseo en la frente. Esta adaptación les ayuda en enfrentamientos y en la defensa frente a depredadores como los leones.",
+                "Image": {
+                    "Url": "/th?id=OHR.CapeBuffalo_ES-ES1313712620_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CapeBuffalo_ES-ES1313712620_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Espíritu indómito",
+                "Title": "Búfalo africano, cráter del Ngorongoro, Tanzania",
+                "Copyright": "© jesuss8/500px/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-3.064646,35.381698/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=-3.064646,35.381698;S9;Cráter del Ngorongoro, Tanzania&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260328_CapeBuffalo\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=B%c3%bafalo+africano&form=hpcapt&filters=HpDate:\"20260327_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260328_CapeBuffalo"
+            },
+            "Ssd": "20260328",
+            "Name": "CapeBuffalo",
+            "Market": "ES-ES",
+            "Hash": "1313712620",
+            "FullDateString": "28 de mar. de 2026"
+        }
+    },
+    {
         "startdate": "20260326",
         "fullstartdate": "202603262300",
         "enddate": "20260327",

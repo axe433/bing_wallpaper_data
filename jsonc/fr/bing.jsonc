@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260327",
+        "fullstartdate": "202603272300",
+        "enddate": "20260328",
+        "url": "/th?id=OHR.CapeBuffalo_FR-FR8303931249_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CapeBuffalo_FR-FR8303931249",
+        "copyright": "Bufle d’Afrique, Cratère du Ngorongoro, Tanzanie (© jesuss8/500px/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=bufle+d%E2%80%99Afrique&form=hpcapt&filters=HpDate%3a%2220260327_2300%22",
+        "title": "Un esprit indomptable",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260327_CapeBuffalo%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c9f4a90bf8498dd7d04090ac3414bd24",
+        "hsh": "01801f8ba5572e9978880c08c9ee293c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dans les savanes et zones humides de Tanzanie, le buffle d’Afrique impose sa présence. Silhouette massive, cornes larges et recourbées, regard sombre : ce géant paisible incarne la force brute du continent. Classé parmi les « Big Five » africains, il trouve dans la zone de conservation du Ngorongoro, classée au patrimoine mondial de l’UNESCO, un décor à la hauteur de sa puissance.",
+                "Image": {
+                    "Url": "/th?id=OHR.CapeBuffalo_FR-FR8303931249_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CapeBuffalo_FR-FR8303931249_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un esprit indomptable",
+                "Title": "Bufle d’Afrique, Cratère du Ngorongoro, Tanzanie",
+                "Copyright": "© jesuss8/500px/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-3.064646,35.381698/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=-3.064646,35.381698;S9;Cratère du Ngorongoro, Tanzanie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260328_CapeBuffalo\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=bufle+d%e2%80%99Afrique&form=hpcapt&filters=HpDate:\"20260327_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260328_CapeBuffalo"
+            },
+            "Ssd": "20260328",
+            "Name": "CapeBuffalo",
+            "Market": "FR-FR",
+            "Hash": "8303931249",
+            "FullDateString": "28 mars 2026"
+        }
+    },
+    {
         "startdate": "20260326",
         "fullstartdate": "202603262300",
         "enddate": "20260327",

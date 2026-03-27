@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260327",
+        "fullstartdate": "202603272300",
+        "enddate": "20260328",
+        "url": "/th?id=OHR.CapeBuffalo_DE-DE9916963289_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CapeBuffalo_DE-DE9916963289",
+        "copyright": "Afrikanischer Büffel, Ngorongoro-Krater, Tansania (© jesuss8/500px/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Afrikanischer+B%C3%BCffel&form=hpcapt&filters=HpDate%3a%2220260327_2300%22",
+        "title": "Wächter des Kraters",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260327_CapeBuffalo%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c9f4a90bf8498dd7d04090ac3414bd24",
+        "hsh": "10c953acfae41057448dd99374efb844",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Der Afrikanische Büffel zählt zu den eindrucksvollsten Großsäugern des Kontinents. Im Ngorongoro‑Schutzgebiet im Norden Tansanias, einem UNESCO‑Welterbe, durchstreifen diese kräftigen Tiere Savannen, Feuchtgebiete und offene Graslandschaften. Ihre breiten, geschwungenen Hörner und ihre mächtige Statur verleihen ihnen einen festen Platz unter den „Big Five“ der afrikanischen Wildtiere und machen sie zu einem Symbol für Stärke und Ausdauer in der Wildnis Ostafrikas.",
+                "Image": {
+                    "Url": "/th?id=OHR.CapeBuffalo_DE-DE9916963289_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CapeBuffalo_DE-DE9916963289_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Wächter des Kraters",
+                "Title": "Afrikanischer Büffel, Ngorongoro-Krater, Tansania",
+                "Copyright": "© jesuss8/500px/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-3.064646,35.381698/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=-3.064646,35.381698;S9;Ngorongoro-Krater, Tansania&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260328_CapeBuffalo\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Afrikanischer+B%c3%bcffel&form=hpcapt&filters=HpDate:\"20260327_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260328_CapeBuffalo"
+            },
+            "Ssd": "20260328",
+            "Name": "CapeBuffalo",
+            "Market": "DE-DE",
+            "Hash": "9916963289",
+            "FullDateString": "28. März. 2026"
+        }
+    },
+    {
         "startdate": "20260326",
         "fullstartdate": "202603262300",
         "enddate": "20260327",
