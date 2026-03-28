@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260328",
+        "fullstartdate": "202603282300",
+        "enddate": "20260329",
+        "url": "/th?id=OHR.UlmClock_DE-DE3821756896_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.UlmClock_DE-DE3821756896",
+        "copyright": "Astronomische Uhr am Rathaus von Ulm, Baden‑Württemberg (© Tomekbudujedomek/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Sommerzeit&form=hpcapt&filters=HpDate%3a%2220260328_2300%22",
+        "title": "Vorwärts in den Frühling",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260328_UlmClock%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "95e81ca1c46b709199f09c3e9df8b59d",
+        "hsh": "074503cd8c2c7012269c7f0818843af8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "In der Nacht zum Sonntag werden die Uhren in Deutschland um 2:00 Uhr auf 3:00 Uhr vorgestellt – die Sommerzeit beginnt. Eingeführt wurde die Zeitumstellung hierzulande bereits 1916, ursprünglich mit dem Ziel, Energie zu sparen. Seit 1996 gilt die Regelung einheitlich in allen Staaten der Europäischen Union. Auch wenn ihre Zukunft immer wieder diskutiert wird, bleibt sie vorerst bestehen. In der Regel gewöhnt sich der Körper nach ein bis zwei Tagen an den neuen Rhythmus, und die längeren, hellen Abende machen sich im Alltag bemerkbar.",
+                "Image": {
+                    "Url": "/th?id=OHR.UlmClock_DE-DE3821756896_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.UlmClock_DE-DE3821756896_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Vorwärts in den Frühling",
+                "Title": "Astronomische Uhr am Rathaus von Ulm, Baden‑Württemberg",
+                "Copyright": "© Tomekbudujedomek/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.397026,9.993355/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=48.397026,9.993355;S9;Rathaus von Ulm, Baden‑Württemberg&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260329_UlmClock\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Sommerzeit&form=hpcapt&filters=HpDate:\"20260328_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260329_UlmClock"
+            },
+            "Ssd": "20260329",
+            "Name": "UlmClock",
+            "Market": "DE-DE",
+            "Hash": "3821756896",
+            "FullDateString": "29. März. 2026"
+        }
+    },
+    {
         "startdate": "20260327",
         "fullstartdate": "202603272300",
         "enddate": "20260328",

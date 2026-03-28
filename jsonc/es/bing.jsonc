@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260328",
+        "fullstartdate": "202603282300",
+        "enddate": "20260329",
+        "url": "/th?id=OHR.Sevillaweek_ES-ES1707696944_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Sevillaweek_ES-ES1707696944",
+        "copyright": "Catedral de Sevilla, Andalucía (© sedmak/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Semana+Santa+2026&form=hpcapt&filters=HpDate%3a%2220260328_2300%22",
+        "title": "Arquitectura con historia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260328_Sevillaweek%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "edb885d87c5d3aabf3a0853fcce8c49a",
+        "hsh": "18e1b3fc37d4108d95a421ce5058ac4e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El inicio de la Semana Santa marca un cambio sutil en la atmósfera. Las ciudades españolas empiezan a mostrar un ritmo diferente y el visitante percibe esa mezcla de expectación y tradición que caracteriza estos días. La imagen de la Catedral de Sevilla sirve como puerta de entrada a un patrimonio que combina historia, arte y una forma única de vivir la cultura.",
+                "Image": {
+                    "Url": "/th?id=OHR.Sevillaweek_ES-ES1707696944_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Sevillaweek_ES-ES1707696944_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Arquitectura con historia",
+                "Title": "Catedral de Sevilla, Andalucía",
+                "Copyright": "© sedmak/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.3848,-5.9892/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=37.3848,-5.9892;S9;Catedral de Sevilla, Andalucía&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260329_Sevillaweek\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Semana+Santa+2026&form=hpcapt&filters=HpDate:\"20260328_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260329_Sevillaweek"
+            },
+            "Ssd": "20260329",
+            "Name": "Sevillaweek",
+            "Market": "ES-ES",
+            "Hash": "1707696944",
+            "FullDateString": "29 de mar. de 2026"
+        }
+    },
+    {
         "startdate": "20260327",
         "fullstartdate": "202603272300",
         "enddate": "20260328",

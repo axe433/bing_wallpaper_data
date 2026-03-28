@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260328",
+        "fullstartdate": "202603282300",
+        "enddate": "20260329",
+        "url": "/th?id=OHR.PeggysLighthouse_FR-FR2942871002_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PeggysLighthouse_FR-FR2942871002",
+        "copyright": "Phare de Peggy’s Cove, Nouvelle-Écosse, Canada (© Prashanth Bala/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Phare+de+Peggy%E2%80%99s+Cove&form=hpcapt&filters=HpDate%3a%2220260328_2300%22",
+        "title": "Le calme en bord de mer",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260328_PeggysLighthouse%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "84bfaf1a70972455dadae60d31093631",
+        "hsh": "088d317c26875aaafe74b465c30aacdc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Niché sur la côte escarpée de la Nouvelle-Écosse, au Canada, Peggy’s Cove est un minuscule village qui raconte la vie au rythme de l’Atlantique. Son phare emblématique, érigé une première fois en 1868 puis reconstruit en 1915, veille depuis plus d’un siècle sur les navires affrontant des eaux changeantes. Battue par les vents, la roche nue plonge dans la mer, offrant un paysage brut qui semble hors du temps.",
+                "Image": {
+                    "Url": "/th?id=OHR.PeggysLighthouse_FR-FR2942871002_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PeggysLighthouse_FR-FR2942871002_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Le calme en bord de mer",
+                "Title": "Phare de Peggy’s Cove, Nouvelle-Écosse, Canada",
+                "Copyright": "© Prashanth Bala/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.492264,-63.918158/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=44.492264,-63.918158;S9;Phare de Peggy’s Cove, Nouvelle-Écosse, Canada&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260329_PeggysLighthouse\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Phare+de+Peggy%e2%80%99s+Cove&form=hpcapt&filters=HpDate:\"20260328_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260329_PeggysLighthouse"
+            },
+            "Ssd": "20260329",
+            "Name": "PeggysLighthouse",
+            "Market": "FR-FR",
+            "Hash": "2942871002",
+            "FullDateString": "29 mars 2026"
+        }
+    },
+    {
         "startdate": "20260327",
         "fullstartdate": "202603272300",
         "enddate": "20260328",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260328",
+        "fullstartdate": "202603280300",
+        "enddate": "20260329",
+        "url": "/th?id=OHR.CapeBuffalo_PT-BR4918930179_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CapeBuffalo_PT-BR4918930179",
+        "copyright": "Búfalo-africano, Cratera de Ngorongoro, Tanzânia (© jesuss8/500px/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=bufalo&form=hpcapt&mkt=pt-br",
+        "title": "Cratera sob comando",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260328_CapeBuffalo%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c9f4a90bf8498dd7d04090ac3414bd24",
+        "hsh": "035884fc10323daf2eb43b205193ec0d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Na Tanzânia, os búfalos‑africanos caminham com a confiança de quem não precisa se afirmar. Passos firmes, chifres curvos como escudos naturais e um corpo que parece blindado. Um único olhar costuma bastar para que predadores recalculem a rota: leões, hienas e até crocodilos aprendem cedo que búfalo não é refeição simples — é aposta arriscada.",
+                "Image": {
+                    "Url": "/th?id=OHR.CapeBuffalo_PT-BR4918930179_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CapeBuffalo_PT-BR4918930179_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Cratera sob comando",
+                "Title": "Búfalo-africano, Cratera de Ngorongoro, Tanzânia",
+                "Copyright": "© jesuss8/500px/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260328_CapeBuffalo\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=bufalo&form=hpcapt&filters=HpDate:\"20260328_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260328_CapeBuffalo"
+            },
+            "Ssd": "20260328",
+            "Name": "CapeBuffalo",
+            "Market": "PT-BR",
+            "Hash": "4918930179",
+            "FullDateString": "28 mar. 2026"
+        }
+    },
+    {
         "startdate": "20260327",
         "fullstartdate": "202603270300",
         "enddate": "20260328",

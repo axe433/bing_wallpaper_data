@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260328",
+        "fullstartdate": "202603280700",
+        "enddate": "20260329",
+        "url": "/th?id=OHR.CapeBuffalo_ROW0708366233_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CapeBuffalo_ROW0708366233",
+        "copyright": "African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=African+buffalo&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260328_CapeBuffalo%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c9f4a90bf8498dd7d04090ac3414bd24",
+        "hsh": "964b830edcd6a5d9a20260b5dde9eec4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "The African buffalo, a powerful and imposing creature, roams the savannas and wetlands of Tanzania, particularly within the Ngorongoro Conservation Area (NCA). Known for their large, curved horns and massive size, they are one of Africa's 'Big Five' (buffalo, elephant, leopard, rhino, lion) and are widely respected for their strength and resilience. The NCA, a UNESCO World Heritage Site, offers a dramatic and ecologically rich setting for observing these formidable herbivores.",
+                "Image": {
+                    "Url": "/th?id=OHR.CapeBuffalo_ROW0708366233_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CapeBuffalo_ROW0708366233_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "African buffalo, Ngorongoro Crater, Tanzania",
+                "Copyright": "© jesuss8/500px/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260328_CapeBuffalo\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=African+buffalo&form=hpcapt&filters=HpDate:\"20260328_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260328_CapeBuffalo"
+            },
+            "Ssd": "20260328",
+            "Name": "CapeBuffalo",
+            "Market": "ROW",
+            "Hash": "0708366233",
+            "FullDateString": "28. maalisk. 2026"
+        }
+    },
+    {
         "startdate": "20260327",
         "fullstartdate": "202603270700",
         "enddate": "20260328",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260328",
+        "fullstartdate": "202603281500",
+        "enddate": "20260329",
+        "url": "/th?id=OHR.PeggysLighthouse_JA-JP4636734313_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PeggysLighthouse_JA-JP4636734313",
+        "copyright": "ペギーズ・ポイント灯台, カナダ (© Prashanth Bala/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%9A%E3%82%AE%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E7%81%AF%E5%8F%B0&form=hpcapt&filters=HpDate%3a%2220260328_1500%22",
+        "title": "夕焼けの空と海に佇む灯台",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260328_PeggysLighthouse%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "84bfaf1a70972455dadae60d31093631",
+        "hsh": "f83a23e8f589d9f1763eaff453948c5a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ペギーズ・コーブは、カナダ東部・ノバスコシア州の荒々しい海岸線に佇む小さな村です。そして、画像は村の象徴的な存在であるペギーズ・ポイント灯台。1868 年に建築された当初は、木造の小屋でしたが、1914 年に現在の姿に建て替えられ、海を見守り続けてきました。この灯台のほか、村にはカラフルな家々が並び、観光地としても知られています。アートギャラリーやクラフトショップが点在し、観光客は活気のあるローカルアートに触れることができるほか、近隣のレストランでは、名物のロブスターが味わえます。",
+                "Image": {
+                    "Url": "/th?id=OHR.PeggysLighthouse_JA-JP4636734313_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PeggysLighthouse_JA-JP4636734313_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "夕焼けの空と海に佇む灯台",
+                "Title": "ペギーズ・ポイント灯台, カナダ",
+                "Copyright": "© Prashanth Bala/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.492264,-63.918158/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=44.492264,-63.918158;S9;ペギーズ・ポイント灯台, カナダ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260329_PeggysLighthouse%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260329_PeggysLighthouse\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%9a%e3%82%ae%e3%83%bc%e3%82%ba%e3%83%bb%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88%e7%81%af%e5%8f%b0&form=hpcapt&filters=HpDate:\"20260328_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260329_PeggysLighthouse"
+            },
+            "Ssd": "20260329",
+            "Name": "PeggysLighthouse",
+            "Market": "JA-JP",
+            "Hash": "4636734313",
+            "FullDateString": "2026 年 3月 月 29 日"
+        }
+    },
+    {
         "startdate": "20260327",
         "fullstartdate": "202603271500",
         "enddate": "20260328",

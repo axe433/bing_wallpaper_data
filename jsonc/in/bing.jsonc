@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260328",
+        "fullstartdate": "202603281830",
+        "enddate": "20260329",
+        "url": "/th?id=OHR.PeggysLighthouse_EN-IN4249382875_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PeggysLighthouse_EN-IN4249382875",
+        "copyright": "Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Peggys+Point+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260328_1830%22",
+        "title": "Serenity by the sea",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260328_PeggysLighthouse%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "84bfaf1a70972455dadae60d31093631",
+        "hsh": "637652f190d984b580321cfa20bf8436",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Peggy's Cove is a small yet captivating village on the rugged coast of Nova Scotia that offers a glimpse of life by the sea. The village's most famous landmark is Peggy's Point Lighthouse—also known as Peggy's Cove Lighthouse—first established in 1868 and replaced by the current structure in 1915. For over a century, it has guided ships through the ever-changing Atlantic waters, serving as a timeless symbol of coastal life. The surrounding landscape, with its windswept beauty and crashing waves, feels almost untouched by time.",
+                "Image": {
+                    "Url": "/th?id=OHR.PeggysLighthouse_EN-IN4249382875_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PeggysLighthouse_EN-IN4249382875_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Serenity by the sea",
+                "Title": "Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada",
+                "Copyright": "© Prashanth Bala/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.492264,-63.918158/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=44.492264,-63.918158;S9;Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260329_PeggysLighthouse\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Peggys+Point+Lighthouse&form=hpcapt&filters=HpDate:\"20260328_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260329_PeggysLighthouse"
+            },
+            "Ssd": "20260329",
+            "Name": "PeggysLighthouse",
+            "Market": "EN-IN",
+            "Hash": "4249382875",
+            "FullDateString": "29 Mar, 2026"
+        }
+    },
+    {
         "startdate": "20260327",
         "fullstartdate": "202603271830",
         "enddate": "20260328",

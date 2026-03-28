@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260328",
+        "fullstartdate": "202603281600",
+        "enddate": "20260329",
+        "url": "/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PeggysLighthouse_ZH-CN5730463973",
+        "copyright": "佩吉角灯塔, 大西洋海岸, 新斯科舍省, 加拿大 (© Prashanth Bala/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E4%BD%A9%E5%90%89%E8%A7%92%E7%81%AF%E5%A1%94&form=hpcapt&mkt=zh-cn",
+        "title": "海边的宁静",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260328_PeggysLighthouse%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "84bfaf1a70972455dadae60d31093631",
+        "hsh": "89174caee265ef8e63463a5630f6b58e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "佩吉湾是新斯科舍省崎岖海岸线上一个迷人而小巧的村庄，展现了海滨生活的一角。村里最著名的地标是佩吉角灯塔（也称佩吉湾灯塔），它最初建于1868年，后于1915年被现在的灯塔所取代。一个多世纪以来，它指引着船只穿梭于变幻莫测的大西洋，成为海岸生活永恒的象征。周围的景色，海风吹拂，波涛汹涌，仿佛时间在这里停滞。",
+                "Image": {
+                    "Url": "/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "海边的宁静",
+                "Title": "佩吉角灯塔, 大西洋海岸, 新斯科舍省, 加拿大",
+                "Copyright": "© Prashanth Bala/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "佩吉湾村周围是佩吉湾保护区，这是一片占地 1000 英亩的受保护土地，拥有敏感的生态系统。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260329_PeggysLighthouse\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e4%bd%a9%e5%90%89%e8%a7%92%e7%81%af%e5%a1%94&form=hpcapt&filters=HpDate:\"20260328_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260329_PeggysLighthouse"
+            },
+            "Ssd": "20260329",
+            "Name": "PeggysLighthouse",
+            "Market": "ZH-CN",
+            "Hash": "5730463973",
+            "FullDateString": "2026 3月 29"
+        }
+    },
+    {
         "startdate": "20260327",
         "fullstartdate": "202603271600",
         "enddate": "20260328",
