@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260329",
+        "fullstartdate": "202603292200",
+        "enddate": "20260330",
+        "url": "/th?id=OHR.IndiaCranes_DE-DE4037064772_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IndiaCranes_DE-DE4037064772",
+        "copyright": "Jungfernkraniche, Indien (© Axel Gomille/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Jungfernkranich&form=hpcapt&filters=HpDate%3a%2220260329_2200%22",
+        "title": "Eleganz in Bewegung",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260329_IndiaCranes%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "56b32eae4eb1c5d0799df97b4807a467",
+        "hsh": "b35556f3c5104b1ceef87275577d05b8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Schon seine Silhouette verrät, warum der Jungfernkranich als einer der elegantesten Kraniche gilt. Mit seinem schlanken Hals, den langen Beinen und dem fein gezeichneten Gefieder wirkt er beinahe schwerelos, besonders im warmen Licht der Abendsonne. Eindrucksvoll sind auch seine geschmeidigen Balztänze, bei denen sich die Paare in synchronen Sprüngen und Rufen präsentieren. Obwohl er zu den kleinsten Kranichen der Welt zählt, legt er erstaunliche Distanzen zurück: Von den weiten Steppen Kasachstans zieht er zu seinen Winterquartieren in Indien, Nepal und Teilen Afrikas.",
+                "Image": {
+                    "Url": "/th?id=OHR.IndiaCranes_DE-DE4037064772_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.IndiaCranes_DE-DE4037064772_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Eleganz in Bewegung",
+                "Title": "Jungfernkraniche, Indien",
+                "Copyright": "© Axel Gomille/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "In Nordindien nennt man den Jungfernkranich „Koonj“ – ein traditionelles Symbol für Anmut und Schönheit in der Literatur.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260330_IndiaCranes\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Jungfernkranich&form=hpcapt&filters=HpDate:\"20260329_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260330_IndiaCranes"
+            },
+            "Ssd": "20260330",
+            "Name": "IndiaCranes",
+            "Market": "DE-DE",
+            "Hash": "4037064772",
+            "FullDateString": "30. März. 2026"
+        }
+    },
+    {
         "startdate": "20260328",
         "fullstartdate": "202603282300",
         "enddate": "20260329",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260329",
+        "fullstartdate": "202603290300",
+        "enddate": "20260330",
+        "url": "/th?id=OHR.AniverSalvador_PT-BR9414211573_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AniverSalvador_PT-BR9414211573",
+        "copyright": "Vista aérea do Forte de Santa Maria, Salvador, Bahia (© Uiler Costa/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=cidade+de+Salvador&form=hpcapt&mkt=pt-br",
+        "title": "Parabéns, Salvador!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260329_AniverSalvador%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bf4d08b8dba92e1f262a0ae40d436d0a",
+        "hsh": "270cf78ee7be57709f4c5f06e9eabeee",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Há 477 anos, nascia nossa primeira capital. Em 1549, quando o Brasil ainda era rascunho no mapa, Salvador foi escolhida para liderar a colônia portuguesa nas Américas. Berço do candomblé urbano, da capoeira sistematizada e do sincretismo que desafia rótulos fáceis, Salvador fundiu África, Europa e povos originários. Por mais de dois séculos, decisões que moldaram o país passaram por suas ruas íngremes e seu porto fervilhante, onde comércio, travessias e conflitos se misturavam como marés. Cedeu o título de capital ao Rio de Janeiro em 1763, quando a Coroa preferiu estar perto do ouro e das rotas ao sul.",
+                "Image": {
+                    "Url": "/th?id=OHR.AniverSalvador_PT-BR9414211573_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AniverSalvador_PT-BR9414211573_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Parabéns, Salvador!",
+                "Title": "Vista aérea do Forte de Santa Maria, Salvador, Bahia",
+                "Copyright": "© Uiler Costa/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260329_AniverSalvador\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=cidade+de+Salvador&form=hpcapt&filters=HpDate:\"20260329_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260329_AniverSalvador"
+            },
+            "Ssd": "20260329",
+            "Name": "AniverSalvador",
+            "Market": "PT-BR",
+            "Hash": "9414211573",
+            "FullDateString": "29 mar. 2026"
+        }
+    },
+    {
         "startdate": "20260328",
         "fullstartdate": "202603280300",
         "enddate": "20260329",

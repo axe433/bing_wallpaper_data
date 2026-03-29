@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260329",
+        "fullstartdate": "202603290700",
+        "enddate": "20260330",
+        "url": "/th?id=OHR.PeggysLighthouse_ROW0925207018_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PeggysLighthouse_ROW0925207018",
+        "copyright": "Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Peggys+Point+Lighthouse&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260329_PeggysLighthouse%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "84bfaf1a70972455dadae60d31093631",
+        "hsh": "53f02504ac8268b48cd16bed88b0bda2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Peggy's Cove is a small yet captivating village on the rugged coast of Nova Scotia that offers a glimpse of life by the sea. The village's most famous landmark is Peggy's Point Lighthouse—also known as Peggy's Cove Lighthouse—first established in 1868 and replaced by the current structure in 1915. For over a century, it has guided ships through the ever-changing Atlantic waters, serving as a timeless symbol of coastal life. The surrounding landscape, with its windswept beauty and crashing waves, feels almost untouched by time.",
+                "Image": {
+                    "Url": "/th?id=OHR.PeggysLighthouse_ROW0925207018_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PeggysLighthouse_ROW0925207018_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada",
+                "Copyright": "© Prashanth Bala/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260329_PeggysLighthouse\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Peggys+Point+Lighthouse&form=hpcapt&filters=HpDate:\"20260329_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260329_PeggysLighthouse"
+            },
+            "Ssd": "20260329",
+            "Name": "PeggysLighthouse",
+            "Market": "ROW",
+            "Hash": "0925207018",
+            "FullDateString": "29 mar. 2026"
+        }
+    },
+    {
         "startdate": "20260328",
         "fullstartdate": "202603280700",
         "enddate": "20260329",

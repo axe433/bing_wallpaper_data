@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260329",
+        "fullstartdate": "202603292200",
+        "enddate": "20260330",
+        "url": "/th?id=OHR.DolomitiSpring_IT-IT3295923422_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DolomitiSpring_IT-IT3295923422",
+        "copyright": "Lago Federa, Cortina d'Ampezzo, Belluno, Veneto (© Elena-studio/iStock)",
+        "copyrightlink": "https://www.bing.com/search?q=Lago+Federa&form=hpcapt",
+        "title": "Specchio di primavera",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260329_DolomitiSpring%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "108a9fe637dd6bcb74cfb3ca4b55b238",
+        "hsh": "0b575e7a1f4e7c1803ac9dee610983a5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La primavera inizia a farsi sentire al Lago Federa, uno specchio d’acqua incastonato tra le Dolomiti sopra Cortina d'Ampezzo, a circa 2.038 metri di quota. Ai piedi delle maestose vette circostanti, la superficie riflette cime frastagliate che all’inizio di aprile conservano ancora ampie striature di neve. Il ghiaccio invernale si ritira lentamente lungo le rive e lo specchio lacustre, limpido e freddo, torna a incresparsi sotto le prime brezze miti.",
+                "Image": {
+                    "Url": "/th?id=OHR.DolomitiSpring_IT-IT3295923422_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DolomitiSpring_IT-IT3295923422_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Specchio di primavera",
+                "Title": "Lago Federa, Cortina d'Ampezzo, Belluno, Veneto",
+                "Copyright": "© Elena-studio/iStock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.568309,12.086547/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=46.568309,12.086547;S9;Lago Federa, Cortina d'Ampezzo, Belluno, Veneto&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260330_DolomitiSpring\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lago+Federa&form=hpcapt&filters=HpDate:\"20260329_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260330_DolomitiSpring"
+            },
+            "Ssd": "20260330",
+            "Name": "DolomitiSpring",
+            "Market": "IT-IT",
+            "Hash": "3295923422",
+            "FullDateString": "30 marzo 2026"
+        }
+    },
+    {
         "startdate": "20260328",
         "fullstartdate": "202603282300",
         "enddate": "20260329",
