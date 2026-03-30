@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260330",
+        "fullstartdate": "202603301500",
+        "enddate": "20260331",
+        "url": "/th?id=OHR.ParadiseCave_JA-JP9838102190_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ParadiseCave_JA-JP9838102190",
+        "copyright": "天国の洞, ベトナム (© Pakawat Thongcharoen/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A9%E5%9B%BD%E3%81%AE%E6%B4%9E&form=hpcapt&filters=HpDate%3a%2220260330_1500%22",
+        "title": "光に照らされた幻想的な洞",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260330_ParadiseCave%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d69fd729cc87237548bc0653a885553c",
+        "hsh": "db05e66d6671b6597b3f905f9e0271cd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ここはベトナム中部のフォンニャ・ケバン国立公園の奥深くに広がる洞窟、「天国の洞」です。全長は 30km を超え、アジア最長級の乾燥洞窟のひとつとして知られています。長い年月をかけて形成された高い天井や広大な洞室、複雑で美しい石灰岩の造形が続き、照明に照らされた石柱や鍾乳石が幻想的な景観を演出しています。公開されているのは全体のごく一部に過ぎませんが、洞窟の大半は手つかずのまま保護されています。",
+                "Image": {
+                    "Url": "/th?id=OHR.ParadiseCave_JA-JP9838102190_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ParadiseCave_JA-JP9838102190_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "光に照らされた幻想的な洞",
+                "Title": "天国の洞, ベトナム",
+                "Copyright": "© Pakawat Thongcharoen/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/17.519514,106.222969/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=17.519514,106.222969;S9;天国の洞, ベトナム&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260331_ParadiseCave%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260331_ParadiseCave\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%a4%a9%e5%9b%bd%e3%81%ae%e6%b4%9e&form=hpcapt&filters=HpDate:\"20260330_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260331_ParadiseCave"
+            },
+            "Ssd": "20260331",
+            "Name": "ParadiseCave",
+            "Market": "JA-JP",
+            "Hash": "9838102190",
+            "FullDateString": "2026 年 3月 月 31 日"
+        }
+    },
+    {
         "startdate": "20260329",
         "fullstartdate": "202603291500",
         "enddate": "20260330",
