@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260331",
+        "fullstartdate": "202603311830",
+        "enddate": "20260401",
+        "url": "/th?id=OHR.SanchiMP_EN-IN5100905412_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SanchiMP_EN-IN5100905412",
+        "copyright": "The Great Stupa at Sanchi, Madhya Pradesh (© Dmitry Rukhlenko - Photos of India/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=The+Great+Stupa+at+Sanchi+Madhya+Pradesh&form=hpcapt&filters=HpDate%3a%2220260331_1830%22",
+        "title": "Stone, story and stillness",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260331_SanchiMP%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0cceb647d0aa31610fcc3731c1d9f2ee",
+        "hsh": "e343b942f822be47d37a0ebe79dd1cab",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "On a quiet hill in Madhya Pradesh, the Great Stupa at Sanchi proves that circles never go out of style. Built in the 3rd century BCE by Emperor Ashoka, this massive dome was designed to house relics of the Buddha. Instead of towering high, it spreads wide—solid, grounded and focused on meaning over height.",
+                "Image": {
+                    "Url": "/th?id=OHR.SanchiMP_EN-IN5100905412_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SanchiMP_EN-IN5100905412_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Stone, story and stillness",
+                "Title": "The Great Stupa at Sanchi, Madhya Pradesh",
+                "Copyright": "© Dmitry Rukhlenko - Photos of India/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/23.479591,77.739716/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=23.479591,77.739716;S9;Stupas of Sanchi, Madhya Pradesh&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260401_SanchiMP\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=The+Great+Stupa+at+Sanchi+Madhya+Pradesh&form=hpcapt&filters=HpDate:\"20260331_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260401_SanchiMP"
+            },
+            "Ssd": "20260401",
+            "Name": "SanchiMP",
+            "Market": "EN-IN",
+            "Hash": "5100905412",
+            "FullDateString": "1 Apr, 2026"
+        }
+    },
+    {
         "startdate": "20260330",
         "fullstartdate": "202603301830",
         "enddate": "20260331",

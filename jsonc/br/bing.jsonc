@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260331",
+        "fullstartdate": "202603310300",
+        "enddate": "20260401",
+        "url": "/th?id=OHR.ParadiseCave_PT-BR7537263269_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ParadiseCave_PT-BR7537263269",
+        "copyright": "Paradise Cave, Parque Nacional Phong Nha-Kẻ Bàng, Vietnã (© Pakawat Thongcharoen/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+Phong+Nha-K%E1%BA%BB+B%C3%A0ng+no+Vietn%C3%A3&form=hpcapt&mkt=pt-br",
+        "title": "O avesso da floresta",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260331_ParadiseCave%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d69fd729cc87237548bc0653a885553c",
+        "hsh": "47ecdd55cf7af6396f1d6c2f943fe4f2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Você caminha por uma floresta tropical fechada e, de repente, o chão abre em salões de pedra do tamanho de catedrais. Assim começa a visita à Paradise Cave, no Vietnã, registrada na imagem de hoje. Passarelas de madeira conduzem visitantes por apenas um dos mais de 30 quilômetros de galerias, colunas e estalactites. O resto fica protegido, deixando o tempo continuar trabalhando sem plateia.",
+                "Image": {
+                    "Url": "/th?id=OHR.ParadiseCave_PT-BR7537263269_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ParadiseCave_PT-BR7537263269_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O avesso da floresta",
+                "Title": "Paradise Cave, Parque Nacional Phong Nha-Kẻ Bàng, Vietnã",
+                "Copyright": "© Pakawat Thongcharoen/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260331_ParadiseCave\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parque+Nacional+Phong+Nha-K%e1%ba%bb+B%c3%a0ng+no+Vietn%c3%a3&form=hpcapt&filters=HpDate:\"20260331_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260331_ParadiseCave"
+            },
+            "Ssd": "20260331",
+            "Name": "ParadiseCave",
+            "Market": "PT-BR",
+            "Hash": "7537263269",
+            "FullDateString": "31 mar. 2026"
+        }
+    },
+    {
         "startdate": "20260330",
         "fullstartdate": "202603300300",
         "enddate": "20260331",

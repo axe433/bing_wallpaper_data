@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260331",
+        "fullstartdate": "202603310700",
+        "enddate": "20260401",
+        "url": "/th?id=OHR.ParadiseCave_EN-US6470755729_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ParadiseCave_EN-US6470755729",
+        "copyright": "Paradise Cave, Phong Nha-Ke Bang National Park, Vietnam (© Pakawat Thongcharoen/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Paradise+Cave+Vietnam&form=hpcapt&filters=HpDate%3a%2220260331_0700%22",
+        "title": "Underground paradise",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260331_ParadiseCave%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d69fd729cc87237548bc0653a885553c",
+        "hsh": "086b6f8d16a38dfdbfd193737fa028e0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Paradise Cave makes a powerful first impression the moment visitors step inside. This vast limestone cavern lies deep within Phong Nha-Ke Bang National Park in central Vietnam, a region marked by rugged mountains and countless hidden caves. Stretching over 19 miles, Paradise Cave is one of Asia's longest dry caves, and its scale is immediately apparent. High ceilings rise above the walkways, and layered patterns formed by mineral-rich water over millions of years line the walls.",
+                "Image": {
+                    "Url": "/th?id=OHR.ParadiseCave_EN-US6470755729_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ParadiseCave_EN-US6470755729_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Underground paradise",
+                "Title": "Paradise Cave, Phong Nha-Ke Bang National Park, Vietnam",
+                "Copyright": "© Pakawat Thongcharoen/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/16.835573,106.743552/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=16.835573,106.743552;S9;Paradise Cave, Phong Nha-Ke Bang National Park, Vietnam&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260331_ParadiseCave\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Paradise+Cave+Vietnam&form=hpcapt&filters=HpDate:\"20260331_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260331_ParadiseCave"
+            },
+            "Ssd": "20260331",
+            "Name": "ParadiseCave",
+            "Market": "EN-US",
+            "Hash": "6470755729",
+            "FullDateString": "Mar 31, 2026"
+        }
+    },
+    {
         "startdate": "20260330",
         "fullstartdate": "202603300700",
         "enddate": "20260331",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260331",
+        "fullstartdate": "202603312200",
+        "enddate": "20260401",
+        "url": "/th?id=OHR.JapaneseTreeFrog_FR-FR2900221891_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JapaneseTreeFrog_FR-FR2900221891",
+        "copyright": "Rainette japonaise au cœur d’une fleur de liseron rose (© Tetsuya Tanooka/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=rainette+japonaise&form=hpcapt&filters=HpDate%3a%2220260331_2200%22",
+        "title": "Un bond en avril",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260331_JapaneseTreeFrog%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d487b9080c6116becb0b007a4e2e8e50",
+        "hsh": "7d85e9b08b54d8ab1af8a255b48ce43f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "À la tombée du jour, lorsque les rizières du Japon se parent de reflets d’argent, la rainette japonaise s’éveille. Originaire d’Asie de l’Est, elle est discrète et légère, et grimpe aux roseaux grâce à ses doigts ventousés, comme s’ils étaient posés sur l’eau. Sa peau lisse, verte ou brune selon les variations du paysage, épouse les saisons et les moussons.",
+                "Image": {
+                    "Url": "/th?id=OHR.JapaneseTreeFrog_FR-FR2900221891_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.JapaneseTreeFrog_FR-FR2900221891_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un bond en avril",
+                "Title": "Rainette japonaise au cœur d’une fleur de liseron rose",
+                "Copyright": "© Tetsuya Tanooka/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "La plus ancienne « proto-grenouille » connue, Triadobatrachus massinoti, a vécu il y a environ 250 millions d'années, au début du Trias.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260401_JapaneseTreeFrog\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=rainette+japonaise&form=hpcapt&filters=HpDate:\"20260331_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260401_JapaneseTreeFrog"
+            },
+            "Ssd": "20260401",
+            "Name": "JapaneseTreeFrog",
+            "Market": "FR-FR",
+            "Hash": "2900221891",
+            "FullDateString": "1 avr. 2026"
+        }
+    },
+    {
         "startdate": "20260330",
         "fullstartdate": "202603302200",
         "enddate": "20260331",

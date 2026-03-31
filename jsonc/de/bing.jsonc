@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260331",
+        "fullstartdate": "202603312200",
+        "enddate": "20260401",
+        "url": "/th?id=OHR.JapaneseTreeFrog_DE-DE8961418037_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JapaneseTreeFrog_DE-DE8961418037",
+        "copyright": "Japanischer Laubfrosch in einer rosa Prunkwinde (© Tetsuya Tanooka/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Japanischer+Laubfrosch&form=hpcapt&filters=HpDate%3a%2220260331_2200%22",
+        "title": "Sprung in den April",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260331_JapaneseTreeFrog%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d487b9080c6116becb0b007a4e2e8e50",
+        "hsh": "de70e42454b48fc81d40e47ead7b3aaa",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Frösche gehören zu den aufmerksamsten Bewohnern natürlicher Lebensräume. Da ihre Haut durchlässig ist und sie sowohl im Wasser als auch an Land leben, reagieren sie früh auf Veränderungen in ihrer Umwelt. Deshalb gelten Amphibien weltweit als wichtige Indikatoren für die Qualität von Gewässern und Lebensräumen. Auch in Deutschland spielen sie eine zentrale Rolle: Jedes Frühjahr wandern Frösche und Kröten zu ihren Laichgewässern. Viele von ihnen sind dabei durch Straßenverkehr und den Verlust feuchter Lebensräume gefährdet. Um sie zu schützen, stellen Naturschutzgruppen Schutzzäune auf und helfen den Tieren sicher über die Straße.",
+                "Image": {
+                    "Url": "/th?id=OHR.JapaneseTreeFrog_DE-DE8961418037_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.JapaneseTreeFrog_DE-DE8961418037_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Sprung in den April",
+                "Title": "Japanischer Laubfrosch in einer rosa Prunkwinde",
+                "Copyright": "© Tetsuya Tanooka/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Der älteste bekannte Urfrosch, Triadobatrachus massinoti, lebte vor etwa 250 Millionen Jahren in der frühen Trias.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260401_JapaneseTreeFrog\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Japanischer+Laubfrosch&form=hpcapt&filters=HpDate:\"20260331_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260401_JapaneseTreeFrog"
+            },
+            "Ssd": "20260401",
+            "Name": "JapaneseTreeFrog",
+            "Market": "DE-DE",
+            "Hash": "8961418037",
+            "FullDateString": "1. Apr.. 2026"
+        }
+    },
+    {
         "startdate": "20260330",
         "fullstartdate": "202603302200",
         "enddate": "20260331",

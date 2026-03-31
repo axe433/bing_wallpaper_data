@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260331",
+        "fullstartdate": "202603312200",
+        "enddate": "20260401",
+        "url": "/th?id=OHR.JapaneseTreeFrog_ES-ES2872201795_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JapaneseTreeFrog_ES-ES2872201795",
+        "copyright": "Rana arbórea japonesa en una campanilla rosa (© Tetsuya Tanooka/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Rana+arb%C3%B3rea+japonesa&form=hpcapt&filters=HpDate%3a%2220260331_2200%22",
+        "title": "Saltando hacia abril",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260331_JapaneseTreeFrog%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d487b9080c6116becb0b007a4e2e8e50",
+        "hsh": "bda45d29d43d3dad6c73db92d2bae58b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La rana arbórea japonesa es un pequeño anfibio de tonos verdes brillantes que destaca por su agilidad y por la viveza de su coloración. Su capacidad para adherirse a superficies lisas le permite desplazarse con soltura por distintos tipos de vegetación, aprovechando cada soporte con precisión y ligereza.",
+                "Image": {
+                    "Url": "/th?id=OHR.JapaneseTreeFrog_ES-ES2872201795_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.JapaneseTreeFrog_ES-ES2872201795_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Saltando hacia abril",
+                "Title": "Rana arbórea japonesa en una campanilla rosa",
+                "Copyright": "© Tetsuya Tanooka/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "El “protoanfibio” más antiguo conocido, Triadobatrachus massinoti, vivió hace unos 250 millones de años, durante el período Triásico temprano.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260401_JapaneseTreeFrog\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Rana+arb%c3%b3rea+japonesa&form=hpcapt&filters=HpDate:\"20260331_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260401_JapaneseTreeFrog"
+            },
+            "Ssd": "20260401",
+            "Name": "JapaneseTreeFrog",
+            "Market": "ES-ES",
+            "Hash": "2872201795",
+            "FullDateString": "1 de abr. de 2026"
+        }
+    },
+    {
         "startdate": "20260330",
         "fullstartdate": "202603302200",
         "enddate": "20260331",
