@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260401",
+        "fullstartdate": "202604012200",
+        "enddate": "20260402",
+        "url": "/th?id=OHR.WildflowerValley_DE-DE5324757091_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WildflowerValley_DE-DE5324757091",
+        "copyright": "Wildblumenblüte, Central Valley, Kalifornien, USA (© Jeff Lewis/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Kalifornisches+L%C3%A4ngstal&form=hpcapt&filters=HpDate%3a%2220260401_2200%22",
+        "title": "Muster des Frühlings",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260401_WildflowerValley%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2fd3d91e61db62fb68ce18fbabf62e30",
+        "hsh": "c487de045de3eb36118294954d0b4c09",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Mit dem Frühling erwacht im Kalifornischen Längstal (Central Valley) ein besonderes Naturschauspiel. Das über 700 Kilometer lange Tal, eines der wichtigsten landwirtschaftlichen Zentren der USA, zeigt im März und April eine ganz andere Seite. Dann beginnen unzählige heimische Wildblumen zu keimen, sobald Regen, Bodenfeuchte und Temperaturen günstig zusammenwirken. Viele dieser Arten gehören zum ursprünglichen Grasland, das einst große Teile des Tals prägte und heute nur noch in Schutzgebieten, auf ungenutzten Flächen oder als schmale Streifen zwischen Feldern erhalten ist. Ihre Samen können jahrzehntelang im Boden ruhen und geduldig auf den Moment warten, an dem die Bedingungen stimmen.",
+                "Image": {
+                    "Url": "/th?id=OHR.WildflowerValley_DE-DE5324757091_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WildflowerValley_DE-DE5324757091_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Muster des Frühlings",
+                "Title": "Wildblumenblüte, Central Valley, Kalifornien, USA",
+                "Copyright": "© Jeff Lewis/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.522843,-122.240585/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=40.522843,-122.240585;S9;Central Valley, Kalifornien, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260402_WildflowerValley\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Kalifornisches+L%c3%a4ngstal&form=hpcapt&filters=HpDate:\"20260401_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260402_WildflowerValley"
+            },
+            "Ssd": "20260402",
+            "Name": "WildflowerValley",
+            "Market": "DE-DE",
+            "Hash": "5324757091",
+            "FullDateString": "2. Apr.. 2026"
+        }
+    },
+    {
         "startdate": "20260331",
         "fullstartdate": "202603312200",
         "enddate": "20260401",

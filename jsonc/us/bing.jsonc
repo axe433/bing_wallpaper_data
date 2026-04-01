@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260401",
+        "fullstartdate": "202604010700",
+        "enddate": "20260402",
+        "url": "/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JapaneseTreeFrog_EN-US6527297660",
+        "copyright": "Japanese tree frog in a pink morning glory (© Tetsuya Tanooka/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=National+Frog+Month&form=hpcapt&filters=HpDate%3a%2220260401_0700%22",
+        "title": "Hopping into April",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260401_JapaneseTreeFrog%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d487b9080c6116becb0b007a4e2e8e50",
+        "hsh": "23d14cf9501ce40edca20437f5f98e4b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "April is National Frog Month, a time to appreciate one of nature's smallest yet most remarkable ambassadors. Frogs help balance insect populations and often serve as early indicators of environmental change, as their permeable skin readily responds to shifts in water and air quality. Their presence reveals much about the health of their habitats, making this month a fitting time to pause and recognize their vital role.",
+                "Image": {
+                    "Url": "/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Hopping into April",
+                "Title": "Japanese tree frog in a pink morning glory",
+                "Copyright": "© Tetsuya Tanooka/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "The oldest known 'proto-frog,' Triadobatrachus massinoti, lived about 250 million years ago during the Early Triassic period.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260401_JapaneseTreeFrog\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=National+Frog+Month&form=hpcapt&filters=HpDate:\"20260401_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260401_JapaneseTreeFrog"
+            },
+            "Ssd": "20260401",
+            "Name": "JapaneseTreeFrog",
+            "Market": "EN-US",
+            "Hash": "6527297660",
+            "FullDateString": "Apr 1, 2026"
+        }
+    },
+    {
         "startdate": "20260331",
         "fullstartdate": "202603310700",
         "enddate": "20260401",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260401",
+        "fullstartdate": "202604012200",
+        "enddate": "20260402",
+        "url": "/th?id=OHR.MuscardinNest_FR-FR5342153518_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MuscardinNest_FR-FR5342153518",
+        "copyright": "Muscardin à l’entrée de leur nid, Normandie (© slowmotiongli/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=muscardin&form=hpcapt&filters=HpDate%3a%2220260401_2200%22",
+        "title": "De croquants petits rongeurs",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260401_MuscardinNest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "195bffdaed7486db93bb4d14fbe61377",
+        "hsh": "d54dceb3ee6bc7f94a8801d3da64ed3f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Au cœur des haies et des lisières boisées, le muscardin (muscardinus avellanarius) se fait discret tout l’hiver, lové dans la douceur des feuilles mortes. Mais au printemps, lorsque les jours s’allongent et que les noisetiers bourgeonnent, il s’éveille enfin. Ce petit rongeur reprend vie avec la forêt : ses yeux brillent dans la pénombre du crépuscule et sa queue en panache équilibre ses acrobaties nocturnes. Il cueille et se nourrit de fleurs de chèvrefeuille, de baies et de noisettes encore tendres. Dans les ronces et les arbustes, il façonne de petits nids sphériques, suspendus comme des promesses de renouveau.",
+                "Image": {
+                    "Url": "/th?id=OHR.MuscardinNest_FR-FR5342153518_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MuscardinNest_FR-FR5342153518_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "De croquants petits rongeurs",
+                "Title": "Muscardin à l’entrée de leur nid, Normandie",
+                "Copyright": "© slowmotiongli/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Le muscardin est aussi appelé « rat d’or » ou « croque-noisettes ».",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260402_MuscardinNest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=muscardin&form=hpcapt&filters=HpDate:\"20260401_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260402_MuscardinNest"
+            },
+            "Ssd": "20260402",
+            "Name": "MuscardinNest",
+            "Market": "FR-FR",
+            "Hash": "5342153518",
+            "FullDateString": "2 avr. 2026"
+        }
+    },
+    {
         "startdate": "20260331",
         "fullstartdate": "202603312200",
         "enddate": "20260401",

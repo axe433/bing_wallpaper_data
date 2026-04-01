@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260401",
+        "fullstartdate": "202604010300",
+        "enddate": "20260402",
+        "url": "/th?id=OHR.JapaneseTreeFrog_PT-BR7853171536_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JapaneseTreeFrog_PT-BR7853171536",
+        "copyright": "Rã-de-árvore-japonesa em uma ipomeia rosa (© Tetsuya Tanooka/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=anfibios&form=hpcapt&mkt=pt-br",
+        "title": "Alarme anfíbio",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260401_JapaneseTreeFrog%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d487b9080c6116becb0b007a4e2e8e50",
+        "hsh": "6008ad7e267185afd4b9fc5fcbb71dc3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "O primeiro sinal de alerta ambiental não vem de satélites: vem dos sapos. Sua pele fina e absorvente detecta as menores mudanças na água, no ar ou no solo bem antes de virarem dados científicos.",
+                "Image": {
+                    "Url": "/th?id=OHR.JapaneseTreeFrog_PT-BR7853171536_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.JapaneseTreeFrog_PT-BR7853171536_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Alarme anfíbio",
+                "Title": "Rã-de-árvore-japonesa em uma ipomeia rosa",
+                "Copyright": "© Tetsuya Tanooka/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260401_JapaneseTreeFrog\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=anfibios&form=hpcapt&filters=HpDate:\"20260401_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260401_JapaneseTreeFrog"
+            },
+            "Ssd": "20260401",
+            "Name": "JapaneseTreeFrog",
+            "Market": "PT-BR",
+            "Hash": "7853171536",
+            "FullDateString": "1 abr. 2026"
+        }
+    },
+    {
         "startdate": "20260331",
         "fullstartdate": "202603310300",
         "enddate": "20260401",
