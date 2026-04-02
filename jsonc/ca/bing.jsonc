@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260402",
+        "fullstartdate": "202604020400",
+        "enddate": "20260403",
+        "url": "/th?id=OHR.WildflowerValley_EN-CA5205263100_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WildflowerValley_EN-CA5205263100",
+        "copyright": "Wildflower bloom, Central Valley, California, United States (© Jeff Lewis/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Central+Valley+California&form=hpcapt&filters=HpDate%3a%2220260402_0400%22",
+        "title": "Patterns of spring",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260402_WildflowerValley%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2fd3d91e61db62fb68ce18fbabf62e30",
+        "hsh": "a8b6b2e6cbec15792b31ae28b62c5e5d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Spring announces itself across California's Central Valley with the first bursts of wildflowers following the winter rains. Stretching about 720 kilometres from north to south and covering approximately 51,800 square kilometres, the valley is one of the world's most productive agricultural regions. In early spring, however, an older identity briefly resurfaces. From March through April, native annuals such as goldfields, tidy tips and owl's clover quickly germinate once temperature and soil moisture are optimal. They race to complete their life cycles before the long dry season begins.",
+                "Image": {
+                    "Url": "/th?id=OHR.WildflowerValley_EN-CA5205263100_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WildflowerValley_EN-CA5205263100_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Patterns of spring",
+                "Title": "Wildflower bloom, Central Valley, California, United States",
+                "Copyright": "© Jeff Lewis/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.522843,-122.240585/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=40.522843,-122.240585;S9;Central Valley, California, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260402_WildflowerValley\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Central+Valley+California&form=hpcapt&filters=HpDate:\"20260402_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260402_WildflowerValley"
+            },
+            "Ssd": "20260402",
+            "Name": "WildflowerValley",
+            "Market": "EN-CA",
+            "Hash": "5205263100",
+            "FullDateString": "Apr. 2, 2026"
+        }
+    },
+    {
         "startdate": "20260401",
         "fullstartdate": "202604010400",
         "enddate": "20260402",

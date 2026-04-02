@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260402",
+        "fullstartdate": "202604021500",
+        "enddate": "20260403",
+        "url": "/th?id=OHR.ArmbrugBridge_JA-JP3428221440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ArmbrugBridge_JA-JP3428221440",
+        "copyright": "アルムブルグ橋, オランダ (© Alexander Spatari/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%83%AB%E3%83%A0%E3%83%96%E3%83%AB%E3%82%B0%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220260402_1500%22",
+        "title": "静かな運河に映る街並み",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260402_ArmbrugBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "094a813d246de61512de29cc917aba7b",
+        "hsh": "714f873564404ec0e466a8fcfc63d9ca",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "オランダ・アムステルダムのアルムブルグ橋は、オウデザイズ・フォールブルガルという運河に架かるコンクリート橋です。1538 年に建造され、1988 年に現在の姿へと改修されました。運河沿いに並ぶ歴史的な建物を一望できるため、多くの芸術家や写真家に人気のスポットとなっています。橋自体はシンプルですが、場所と場所をつなぐ役割にとどまらず、人々を街の歴史や文化と結びつける存在となっています。",
+                "Image": {
+                    "Url": "/th?id=OHR.ArmbrugBridge_JA-JP3428221440_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ArmbrugBridge_JA-JP3428221440_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "静かな運河に映る街並み",
+                "Title": "アルムブルグ橋, オランダ",
+                "Copyright": "© Alexander Spatari/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.375378,4.900051/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=52.375378,4.900051;S9;アルムブルグ橋, オランダ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260403_ArmbrugBridge%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260403_ArmbrugBridge\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%a2%e3%83%ab%e3%83%a0%e3%83%96%e3%83%ab%e3%82%b0%e6%a9%8b&form=hpcapt&filters=HpDate:\"20260402_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260403_ArmbrugBridge"
+            },
+            "Ssd": "20260403",
+            "Name": "ArmbrugBridge",
+            "Market": "JA-JP",
+            "Hash": "3428221440",
+            "FullDateString": "2026 年 4月 月 3 日"
+        }
+    },
+    {
         "startdate": "20260401",
         "fullstartdate": "202604011500",
         "enddate": "20260402",

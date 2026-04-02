@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260402",
+        "fullstartdate": "202604022200",
+        "enddate": "20260403",
+        "url": "/th?id=OHR.ArmbrugBridge_IT-IT1501163550_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ArmbrugBridge_IT-IT1501163550",
+        "copyright": "Ponte Armbrug, Amsterdam, Paesi Bassi (© Alexander Spatari/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ponte+Armbrug+Amsterdam+Paesi+Bassi&form=hpcapt",
+        "title": "Cartoline sul canale",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260402_ArmbrugBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "094a813d246de61512de29cc917aba7b",
+        "hsh": "1b120fbda932cb838087aa85ba2fe2a9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Alcuni ponti nella capitale olandese, Amsterdam, servono soltanto ad attraversare un canale. L’Armbrug, che sembra quasi salutare mentre si passa, fa qualcosa di più. Costruito in cemento, questo storico ponte fisso non si apre né si solleva; semplicemente accompagna residenti e viaggiatori da una riva all’altra. È affascinante ammirare gli edifici storici che si specchiano nel canale e gli scorci della chiesa di San Nicola. La chiusa del Kolksluis racconta il rapporto antico della città con l’acqua: un insieme di dettagli che incanta fotografi e passanti.",
+                "Image": {
+                    "Url": "/th?id=OHR.ArmbrugBridge_IT-IT1501163550_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ArmbrugBridge_IT-IT1501163550_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Cartoline sul canale",
+                "Title": "Ponte Armbrug, Amsterdam, Paesi Bassi",
+                "Copyright": "© Alexander Spatari/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.375378,4.900051/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=52.375378,4.900051;S9;Ponte sul canale Oudezijds Armsteeg & Oudezijds Voorburgwal, Paesi Bassi&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260403_ArmbrugBridge\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ponte+Armbrug+Amsterdam+Paesi+Bassi&form=hpcapt&filters=HpDate:\"20260402_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260403_ArmbrugBridge"
+            },
+            "Ssd": "20260403",
+            "Name": "ArmbrugBridge",
+            "Market": "IT-IT",
+            "Hash": "1501163550",
+            "FullDateString": "3 aprile 2026"
+        }
+    },
+    {
         "startdate": "20260401",
         "fullstartdate": "202604012200",
         "enddate": "20260402",

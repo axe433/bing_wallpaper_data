@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260402",
+        "fullstartdate": "202604022200",
+        "enddate": "20260403",
+        "url": "/th?id=OHR.ArmbrugBridge_DE-DE4018943683_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ArmbrugBridge_DE-DE4018943683",
+        "copyright": "Armbrug‑Brücke, Amsterdam, Niederlande (© Alexander Spatari/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Armbrug%E2%80%91Br%C3%BCcke+Amsterdam&form=hpcapt&filters=HpDate%3a%2220260402_2200%22",
+        "title": "Eine Brücke mit Charakter",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260402_ArmbrugBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "094a813d246de61512de29cc917aba7b",
+        "hsh": "c7e3434fac8fd173aa882aa2cdfb66a5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nicht alle Brücken sind spektakulär, manche überzeugen jedoch durch ihre Atmosphäre. Ein Beispiel ist die Armbrug in Amsterdam, die Besucher begrüßt, wenn sie den Oudezijds Voorburgwal überqueren. Sie verdankt ihren Namen der Oudezijds Armsteeg, einer schmalen, historischen Gasse in der Altstadt, die seit Jahrhunderten die Häuserblöcke rund um die Warmoesstraat mit den Grachten verbindet. Die Brücke selbst ist schlicht und solide gebaut und auf den Alltag ausgelegt.",
+                "Image": {
+                    "Url": "/th?id=OHR.ArmbrugBridge_DE-DE4018943683_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ArmbrugBridge_DE-DE4018943683_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Eine Brücke mit Charakter",
+                "Title": "Armbrug‑Brücke, Amsterdam, Niederlande",
+                "Copyright": "© Alexander Spatari/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.375378,4.900051/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=52.375378,4.900051;S9;Oudezijds Armsteeg & Oudezijds‑Voorburgwal‑Kanalbrücke, Niederlande&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260403_ArmbrugBridge\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Armbrug%e2%80%91Br%c3%bccke+Amsterdam&form=hpcapt&filters=HpDate:\"20260402_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260403_ArmbrugBridge"
+            },
+            "Ssd": "20260403",
+            "Name": "ArmbrugBridge",
+            "Market": "DE-DE",
+            "Hash": "4018943683",
+            "FullDateString": "3. Apr.. 2026"
+        }
+    },
+    {
         "startdate": "20260401",
         "fullstartdate": "202604012200",
         "enddate": "20260402",
