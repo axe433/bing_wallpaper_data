@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260403",
+        "fullstartdate": "202604031500",
+        "enddate": "20260404",
+        "url": "/th?id=OHR.QingmingFestival2026_JA-JP3473610824_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.QingmingFestival2026_JA-JP3473610824",
+        "copyright": "首里城歓会門, 沖縄県 那覇市 (© Jui-Chi Chan/Getty images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E9%A6%96%E9%87%8C%E5%9F%8E%E6%AD%93%E4%BC%9A%E9%96%80&form=hpcapt&filters=HpDate%3a%2220260403_1500%22",
+        "title": "今日は清明",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260403_QingmingFestival2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f836001881874c1c94123ac41f2f3953",
+        "hsh": "b7bc7d208114954a358e899f891fffa1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 4 月 4 日は二十四節気の「清明」。沖縄では、先祖の供養をしつつ、親戚同士の親睦を深める行事である清明祭（シーミー）が行われます。そして画像は、沖縄のシンボル、首里城の歓会門。城郭内へ入る第一の正門で、1477 ～ 1500 年頃に創建されました。門の名称である「歓会」には「歓迎する」という意味があり、中国皇帝から派遣された使者を丁重にもてなした場所であったことに由来します。",
+                "Image": {
+                    "Url": "/th?id=OHR.QingmingFestival2026_JA-JP3473610824_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.QingmingFestival2026_JA-JP3473610824_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日は清明",
+                "Title": "首里城歓会門, 沖縄県 那覇市",
+                "Copyright": "© Jui-Chi Chan/Getty images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/26.218121,127.716133/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=26.218121,127.716133;S9;首里城&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260404_QingmingFestival2026%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260404_QingmingFestival2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e9%a6%96%e9%87%8c%e5%9f%8e%e6%ad%93%e4%bc%9a%e9%96%80&form=hpcapt&filters=HpDate:\"20260403_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260404_QingmingFestival2026"
+            },
+            "Ssd": "20260404",
+            "Name": "QingmingFestival2026",
+            "Market": "JA-JP",
+            "Hash": "3473610824",
+            "FullDateString": "2026 年 4月 月 4 日"
+        }
+    },
+    {
         "startdate": "20260402",
         "fullstartdate": "202604021500",
         "enddate": "20260403",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260403",
+        "fullstartdate": "202604032200",
+        "enddate": "20260404",
+        "url": "/th?id=OHR.GrouseGuff_DE-DE7947498839_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrouseGuff_DE-DE7947498839",
+        "copyright": "Birkhähne auf einem Balzplatz, Estland (© Sven Zacek/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Birkhuhn&form=hpcapt&filters=HpDate%3a%2220260403_2200%22",
+        "title": "Wenn die Balz zur Bühne wird",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260403_GrouseGuff%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b0f956e86f2fc7210d6fcd2ab33badbb",
+        "hsh": "3155b4d4ecab8e4f779c1b83ad342e5d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Noch bevor das erste Licht den Moorboden berührt, beginnt ein seit Jahrhunderten faszinierendes Naturschauspiel. Das Bild aus Estland zeigt die eindrucksvolle Balz der Birkhähne. Dieses Spektakel lässt sich im Frühjahr auch in Deutschland beobachten, beispielsweise in der Rhön oder im Alpenraum.",
+                "Image": {
+                    "Url": "/th?id=OHR.GrouseGuff_DE-DE7947498839_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GrouseGuff_DE-DE7947498839_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Wenn die Balz zur Bühne wird",
+                "Title": "Birkhähne auf einem Balzplatz, Estland",
+                "Copyright": "© Sven Zacek/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Männliche Birkhühner besitzen einen auffälligen, leuchtend roten Hautlappen über den Augen, den sie während der Balz aufblasen.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260404_GrouseGuff\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Birkhuhn&form=hpcapt&filters=HpDate:\"20260403_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260404_GrouseGuff"
+            },
+            "Ssd": "20260404",
+            "Name": "GrouseGuff",
+            "Market": "DE-DE",
+            "Hash": "7947498839",
+            "FullDateString": "4. Apr.. 2026"
+        }
+    },
+    {
         "startdate": "20260402",
         "fullstartdate": "202604022200",
         "enddate": "20260403",

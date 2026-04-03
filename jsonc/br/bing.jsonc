@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260403",
+        "fullstartdate": "202604030300",
+        "enddate": "20260404",
+        "url": "/th?id=OHR.ArmbrugBridge_PT-BR3816587897_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ArmbrugBridge_PT-BR3816587897",
+        "copyright": "Ponte Armbrug, Amsterdã, Países Baixos (© Alexander Spatari/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Amsterda&form=hpcapt&mkt=pt-br",
+        "title": "Simetria em movimento",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260403_ArmbrugBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "094a813d246de61512de29cc917aba7b",
+        "hsh": "d156765559b6182c7856959937b5d29f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A Armbrug, sobre o canal Oudezijds Voorburgwal, em Amsterdã, Países Baixos, parece discreta à primeira vista. Mas quase ninguém atravessa sem reduzir o passo ou levantar a câmera. Simples e feita de concreto, a ponte que vemos na foto de hoje não se eleva, apenas cumpre sua função essencial. O encanto está no enquadramento. Casas históricas levemente inclinadas, a torre da Igreja de São Nicolau, a antiga eclusa de Kolksluis. Pedestres e ciclistas entram e saem do quadro, barcos deslizam em silêncio e fachadas coloridas se espelham na água, brincando de simetria com o canal.",
+                "Image": {
+                    "Url": "/th?id=OHR.ArmbrugBridge_PT-BR3816587897_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ArmbrugBridge_PT-BR3816587897_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Simetria em movimento",
+                "Title": "Ponte Armbrug, Amsterdã, Países Baixos",
+                "Copyright": "© Alexander Spatari/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260403_ArmbrugBridge\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Amsterda&form=hpcapt&filters=HpDate:\"20260403_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260403_ArmbrugBridge"
+            },
+            "Ssd": "20260403",
+            "Name": "ArmbrugBridge",
+            "Market": "PT-BR",
+            "Hash": "3816587897",
+            "FullDateString": "3 abr. 2026"
+        }
+    },
+    {
         "startdate": "20260402",
         "fullstartdate": "202604020300",
         "enddate": "20260403",

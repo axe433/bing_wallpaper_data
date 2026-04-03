@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260403",
+        "fullstartdate": "202604032200",
+        "enddate": "20260404",
+        "url": "/th?id=OHR.GrouseGuff_ES-ES5279399090_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrouseGuff_ES-ES5279399090",
+        "copyright": "Machos de urogallo negro enfrentados, Estonia (© Sven Zacek/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Urogallo+negro&form=hpcapt&filters=HpDate%3a%2220260403_2200%22",
+        "title": "Fuerza y exhibición",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260403_GrouseGuff%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b0f956e86f2fc7210d6fcd2ab33badbb",
+        "hsh": "71d24bc5edeb394bb89ab6b97a774a71",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En la imagen de hoy observamos dos machos de urogallo negro enfrentados en un claro del bosque en Estonia. La escena corresponde a un \"lek\", el espacio donde estos galliformes se reúnen cada primavera para exhibirse durante el cortejo. Los machos despliegan el plumaje, inflan las carúnculas rojas sobre los ojos y emiten sonidos característicos mientras se miden entre ellos. Estos enfrentamientos son rituales y rara vez acaban en daño, ya que su función principal es establecer jerarquías y demostrar vigor ante las hembras. Solo los individuos más dominantes suelen lograr reproducirse, lo que convierte estos duelos en un ejemplo claro de selección en la naturaleza.",
+                "Image": {
+                    "Url": "/th?id=OHR.GrouseGuff_ES-ES5279399090_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GrouseGuff_ES-ES5279399090_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Fuerza y exhibición",
+                "Title": "Machos de urogallo negro enfrentados, Estonia",
+                "Copyright": "© Sven Zacek/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Los machos de urogallo negro tienen una llamativa carúncula de color rojo brillante sobre los ojos, que hinchan durante los rituales de cortejo.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260404_GrouseGuff\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Urogallo+negro&form=hpcapt&filters=HpDate:\"20260403_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260404_GrouseGuff"
+            },
+            "Ssd": "20260404",
+            "Name": "GrouseGuff",
+            "Market": "ES-ES",
+            "Hash": "5279399090",
+            "FullDateString": "4 de abr. de 2026"
+        }
+    },
+    {
         "startdate": "20260402",
         "fullstartdate": "202604022200",
         "enddate": "20260403",

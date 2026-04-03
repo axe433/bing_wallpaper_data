@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260403",
+        "fullstartdate": "202604032200",
+        "enddate": "20260404",
+        "url": "/th?id=OHR.GrouseGuff_FR-FR1806901977_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrouseGuff_FR-FR1806901977",
+        "copyright": "Tétras lyres mâles lors d’une parade nuptiale, Estonie (© Sven Zacek/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=T%C3%A9tras+lyre&form=hpcapt&filters=HpDate%3a%2220260403_2200%22",
+        "title": "Les leks, arènes de séduction",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260403_GrouseGuff%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b0f956e86f2fc7210d6fcd2ab33badbb",
+        "hsh": "690661c8271ad3a406d8b3c35a990974",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Avant l’aube, la lande s’éveille comme une scène qui s’éclaire. Les tétras lyres ne préviennent pas : ils font simplement trembler le sol. C’est la saison des « leks », ce bal printanier où la séduction est bruyante, codifiée et entièrement à ciel ouvert.",
+                "Image": {
+                    "Url": "/th?id=OHR.GrouseGuff_FR-FR1806901977_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GrouseGuff_FR-FR1806901977_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Les leks, arènes de séduction",
+                "Title": "Tétras lyres mâles lors d’une parade nuptiale, Estonie",
+                "Copyright": "© Sven Zacek/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Les tétras lyre mâles ont une caroncule (peau) rouge vif au-dessus des yeux, qu'ils gonflent pendant la parade nuptiale.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260404_GrouseGuff\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=T%c3%a9tras+lyre&form=hpcapt&filters=HpDate:\"20260403_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260404_GrouseGuff"
+            },
+            "Ssd": "20260404",
+            "Name": "GrouseGuff",
+            "Market": "FR-FR",
+            "Hash": "1806901977",
+            "FullDateString": "4 avr. 2026"
+        }
+    },
+    {
         "startdate": "20260402",
         "fullstartdate": "202604022200",
         "enddate": "20260403",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260403",
+        "fullstartdate": "202604030400",
+        "enddate": "20260404",
+        "url": "/th?id=OHR.ArmbrugBridge_EN-CA6719297675_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ArmbrugBridge_EN-CA6719297675",
+        "copyright": "Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Armbrug+bridge+Amsterdam&form=hpcapt&filters=HpDate%3a%2220260403_0400%22",
+        "title": "Bridging the gap, one arm at a time",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260403_ArmbrugBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "094a813d246de61512de29cc917aba7b",
+        "hsh": "a45008e6970b3812dc81e190de04da1c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Some bridges in Amsterdam just get you across a canal. The Armbrug does more—it seems to wave hello as you pass. Nestled over the Oudezijds Voorburgwal canal, its name, meaning 'arm bridge,' refers to the nearby Oudezijds Armsteeg (Old Side Arm Alley), not a literal limb, but it's easy to imagine it greeting cyclists and pedestrians along the way.",
+                "Image": {
+                    "Url": "/th?id=OHR.ArmbrugBridge_EN-CA6719297675_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ArmbrugBridge_EN-CA6719297675_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Bridging the gap, one arm at a time",
+                "Title": "Armbrug bridge, Amsterdam, Netherlands",
+                "Copyright": "© Alexander Spatari/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.375378,4.900051/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=52.375378,4.900051;S9;Oudezijds Armsteeg & Oudezijds Voorburgwal Canal Bridge, Netherlands&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260403_ArmbrugBridge\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Armbrug+bridge+Amsterdam&form=hpcapt&filters=HpDate:\"20260403_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260403_ArmbrugBridge"
+            },
+            "Ssd": "20260403",
+            "Name": "ArmbrugBridge",
+            "Market": "EN-CA",
+            "Hash": "6719297675",
+            "FullDateString": "Apr. 3, 2026"
+        }
+    },
+    {
         "startdate": "20260402",
         "fullstartdate": "202604020400",
         "enddate": "20260403",
