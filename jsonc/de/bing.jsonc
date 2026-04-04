@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260404",
+        "fullstartdate": "202604042200",
+        "enddate": "20260405",
+        "url": "/th?id=OHR.SorbianEasterEggs_DE-DE8747014000_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SorbianEasterEggs_DE-DE8747014000",
+        "copyright": "Bunt bemalte sorbische Ostereier aus Deutschland (© Mark Poltermann/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ostersonntag&form=hpcapt&filters=HpDate%3a%2220260404_2200%22",
+        "title": "Frohe Ostern!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260404_SorbianEasterEggs%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "47f6801700f8610e413d3a772f1dc794",
+        "hsh": "5d39f840a9aec6ae25493c5e6b400d18",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Der Ostersonntag markiert für viele Menschen einen Moment des Innehaltens. Nach den dunklen Winterwochen steht das Fest für Aufbruch, Zuversicht und neues Leben. In Deutschland sind damit verschiedene Traditionen verbunden: Eier werden gefärbt und versteckt, und vielerorts versammeln sich Menschen rund um Osterfeuer, die symbolisch für Reinigung, Licht und den Übergang in den Frühling stehen. Ostern wird so zu einer stillen Zeit des Wandels – geprägt von Besinnung, Gemeinschaft und dem Bewahren alter Bräuche.",
+                "Image": {
+                    "Url": "/th?id=OHR.SorbianEasterEggs_DE-DE8747014000_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SorbianEasterEggs_DE-DE8747014000_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Frohe Ostern!",
+                "Title": "Bunt bemalte sorbische Ostereier aus Deutschland",
+                "Copyright": "© Mark Poltermann/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Der Osterhase als Symbol für Fruchtbarkeit und neues Leben ist seit dem 17. Jahrhundert im deutschsprachigen Raum belegt.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260405_SorbianEasterEggs\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ostersonntag&form=hpcapt&filters=HpDate:\"20260404_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260405_SorbianEasterEggs"
+            },
+            "Ssd": "20260405",
+            "Name": "SorbianEasterEggs",
+            "Market": "DE-DE",
+            "Hash": "8747014000",
+            "FullDateString": "5. Apr.. 2026"
+        }
+    },
+    {
         "startdate": "20260403",
         "fullstartdate": "202604032200",
         "enddate": "20260404",

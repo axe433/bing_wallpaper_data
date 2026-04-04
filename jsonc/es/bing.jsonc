@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260404",
+        "fullstartdate": "202604042200",
+        "enddate": "20260405",
+        "url": "/th?id=OHR.LithuaniaEggs_ES-ES5469812629_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LithuaniaEggs_ES-ES5469812629",
+        "copyright": "Coloridos huevos de Pascua artesanales de madera, Vilna, Lituania (© maximkabb/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Domingo+de+Pascua&form=hpcapt&filters=HpDate%3a%2220260404_2200%22",
+        "title": "¡Felices Pascuas!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260404_LithuaniaEggs%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6691ce71666959f14c9d727e366d502f",
+        "hsh": "7eafb1fe5f28e88731d92360cc7eb657",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Domingo de Pascua se vive como una fiesta de primavera, de mesa compartida y de detalles hechos con calma. Una de sus costumbres más queridas es decorar huevos, pintándolos o tiñéndolos, y jugando con motivos geométricos y florales. El gesto es sencillo, pero convierte una tarde cualquiera en un plan creativo y familiar. También es una excusa para estrenar la luz de la temporada y llenar la casa de pequeñas piezas únicas.",
+                "Image": {
+                    "Url": "/th?id=OHR.LithuaniaEggs_ES-ES5469812629_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LithuaniaEggs_ES-ES5469812629_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "¡Felices Pascuas!",
+                "Title": "Coloridos huevos de Pascua artesanales de madera, Vilna, Lituania",
+                "Copyright": "© maximkabb/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "El Domingo de Pascua marca el final de los 40 días de Cuaresma, un período de ayuno, oración y penitencia.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260405_LithuaniaEggs\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Domingo+de+Pascua&form=hpcapt&filters=HpDate:\"20260404_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260405_LithuaniaEggs"
+            },
+            "Ssd": "20260405",
+            "Name": "LithuaniaEggs",
+            "Market": "ES-ES",
+            "Hash": "5469812629",
+            "FullDateString": "5 de abr. de 2026"
+        }
+    },
+    {
         "startdate": "20260403",
         "fullstartdate": "202604032200",
         "enddate": "20260404",

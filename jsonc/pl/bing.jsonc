@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260404",
+        "fullstartdate": "202604040700",
+        "enddate": "20260405",
+        "url": "/th?id=OHR.GrouseGuff_ROW0536575976_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrouseGuff_ROW0536575976",
+        "copyright": "Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Black+grouse&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260404_GrouseGuff%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b0f956e86f2fc7210d6fcd2ab33badbb",
+        "hsh": "091a0e5869f03e0e4850518241c83567",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Before sunrise, the moorland clock punches in—and the dance floor opens. Male black grouse don't send invites; they boom them. Welcome to lekking season, where romance is competitive, noisy and strictly outdoors.",
+                "Image": {
+                    "Url": "/th?id=OHR.GrouseGuff_ROW0536575976_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GrouseGuff_ROW0536575976_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Black grouse males facing off on a lekking site, Estonia",
+                "Copyright": "© Sven Zacek/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260404_GrouseGuff\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Black+grouse&form=hpcapt&filters=HpDate:\"20260404_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260404_GrouseGuff"
+            },
+            "Ssd": "20260404",
+            "Name": "GrouseGuff",
+            "Market": "ROW",
+            "Hash": "0536575976",
+            "FullDateString": "4 kwi 2026"
+        }
+    },
+    {
         "startdate": "20260403",
         "fullstartdate": "202604030700",
         "enddate": "20260404",

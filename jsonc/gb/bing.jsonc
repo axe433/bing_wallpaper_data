@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260404",
+        "fullstartdate": "202604042300",
+        "enddate": "20260405",
+        "url": "/th?id=OHR.LithuaniaEggs_EN-GB6303335759_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LithuaniaEggs_EN-GB6303335759",
+        "copyright": "Colourful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Easter+Sunday&form=hpcapt&filters=HpDate%3a%2220260404_2300%22",
+        "title": "Hello, Easter Sunday",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260404_LithuaniaEggs%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6691ce71666959f14c9d727e366d502f",
+        "hsh": "ecb64b609d73eede77ea4f3bc39763dc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "What follows 40 days of waiting is not a spectacle, but a chapter rooted in belief. Easter Sunday arrives at the end of Lent, carrying forward ideas of life over death and the promise of renewal. For Christians, today marks the resurrection of Jesus Christ and brings Holy Week to a close. It's a turning point, both spiritual and symbolic.",
+                "Image": {
+                    "Url": "/th?id=OHR.LithuaniaEggs_EN-GB6303335759_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LithuaniaEggs_EN-GB6303335759_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Hello, Easter Sunday",
+                "Title": "Colourful handmade wooden Easter eggs, Vilnius, Lithuania",
+                "Copyright": "© maximkabb/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Easter Sunday marks the end of the 40-day Lenten season of fasting, prayer and penance.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260405_LithuaniaEggs\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Easter+Sunday&form=hpcapt&filters=HpDate:\"20260404_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260405_LithuaniaEggs"
+            },
+            "Ssd": "20260405",
+            "Name": "LithuaniaEggs",
+            "Market": "EN-GB",
+            "Hash": "6303335759",
+            "FullDateString": "5 Apr 2026"
+        }
+    },
+    {
         "startdate": "20260403",
         "fullstartdate": "202604032300",
         "enddate": "20260404",

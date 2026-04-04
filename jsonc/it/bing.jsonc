@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260404",
+        "fullstartdate": "202604042200",
+        "enddate": "20260405",
+        "url": "/th?id=OHR.LithuaniaEggs_IT-IT3759718842_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LithuaniaEggs_IT-IT3759718842",
+        "copyright": "Uova di Pasqua colorate fatte a mano in legno, Vilnius, Lituania (© maximkabb/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Pasqua+festa&form=hpcapt",
+        "title": "Il simbolo della vita",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260404_LithuaniaEggs%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6691ce71666959f14c9d727e366d502f",
+        "hsh": "39c08bef488df02fa3f30246f9b2d93a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Osservate la delicatezza di queste uova di legno di Vilnius, capitale lituana, tinte a mano con cura e poesia. La domenica di Pasqua giunge al termine della Quaresima e porta con sé l’idea della vita che vince sulla morte, insieme alla promessa di un nuovo inizio; ricorda la risurrezione di Gesù Cristo e segna così la conclusione della Settimana Santa: un passaggio al contempo spirituale e simbolico.",
+                "Image": {
+                    "Url": "/th?id=OHR.LithuaniaEggs_IT-IT3759718842_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LithuaniaEggs_IT-IT3759718842_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Il simbolo della vita",
+                "Title": "Uova di Pasqua colorate fatte a mano in legno, Vilnius, Lituania",
+                "Copyright": "© maximkabb/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "La domenica di Pasqua segna la fine dei quaranta giorni di Quaresima, periodo di digiuno, preghiera e penitenza.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260405_LithuaniaEggs\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Pasqua+festa&form=hpcapt&filters=HpDate:\"20260404_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260405_LithuaniaEggs"
+            },
+            "Ssd": "20260405",
+            "Name": "LithuaniaEggs",
+            "Market": "IT-IT",
+            "Hash": "3759718842",
+            "FullDateString": "5 aprile 2026"
+        }
+    },
+    {
         "startdate": "20260403",
         "fullstartdate": "202604032200",
         "enddate": "20260404",
