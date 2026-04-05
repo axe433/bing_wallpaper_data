@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260405",
+        "fullstartdate": "202604051600",
+        "enddate": "20260406",
+        "url": "/th?id=OHR.CastleBlossoms_ZH-CN3064288127_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CastleBlossoms_ZH-CN3064288127",
+        "copyright": "樱花盛开的弘前城，弘前，日本 (© Glenn Waters/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E6%97%A5%E6%9C%AC%E7%9A%84%E6%A8%B1%E8%8A%B1&form=hpcapt&mkt=zh-cn",
+        "title": "芬芳四月",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260405_CastleBlossoms%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b60954f13cfc3644cbfc5418dd41e350",
+        "hsh": "714897061eb82f361fbb5733d89e140a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "想象一下17世纪初的日本北部：城堡矗立在政治、贸易与行政的交汇点上，是权力与治理的重要中心。随着时间推移，这些城堡不仅见证了紧张与冲突的历史，也记录了坚守、变迁以及人们的日常生活。每年4月6日庆祝的日本城堡日正是为了让人们关注这段多层次的历史。这一天的日期来自一个有趣的日语谐音：“shi”（4）和“ro”（6）**组合成 “Shiro-no-Hi”，因为 “shiro” 在日语中意为“城堡”。",
+                "Image": {
+                    "Url": "/th?id=OHR.CastleBlossoms_ZH-CN3064288127_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CastleBlossoms_ZH-CN3064288127_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "芬芳四月",
+                "Title": "樱花盛开的弘前城，弘前，日本",
+                "Copyright": "© Glenn Waters/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "樱花在日本被称为“sakura”，每年春天只盛开短短一段时间。正因花期短暂，樱花在日本文化中象征着生命的短暂与珍贵。人们常在花开时举行“花见（hanami）”，与家人朋友一起赏花庆祝春天的到来。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260406_CastleBlossoms\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e6%97%a5%e6%9c%ac%e7%9a%84%e6%a8%b1%e8%8a%b1&form=hpcapt&filters=HpDate:\"20260405_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260406_CastleBlossoms"
+            },
+            "Ssd": "20260406",
+            "Name": "CastleBlossoms",
+            "Market": "ZH-CN",
+            "Hash": "3064288127",
+            "FullDateString": "2026 4月 6"
+        }
+    },
+    {
         "startdate": "20260404",
         "fullstartdate": "202604041600",
         "enddate": "20260405",

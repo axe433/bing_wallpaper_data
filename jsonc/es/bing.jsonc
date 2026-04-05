@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260405",
+        "fullstartdate": "202604052200",
+        "enddate": "20260406",
+        "url": "/th?id=OHR.CastleBlossoms_ES-ES5659720575_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CastleBlossoms_ES-ES5659720575",
+        "copyright": "Castillo de Hirosaki con cerezos en flor, Hirosaki, Japón (© Glenn Waters/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Castillo+japon%C3%A9s&form=hpcapt&filters=HpDate%3a%2220260405_2200%22",
+        "title": "El origen del poder",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260405_CastleBlossoms%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b60954f13cfc3644cbfc5418dd41e350",
+        "hsh": "3215b843e2e878ecda9887e1317b995c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El castillo de Hirosaki, en la ciudad japonesa del mismo nombre, es uno de los referentes de la arquitectura feudal del país. Construido a comienzos del siglo XVII por el clan Tsugaru, se alza rodeado por miles de cerezos que cada primavera transforman el foso y los jardines en un paisaje efímero.",
+                "Image": {
+                    "Url": "/th?id=OHR.CastleBlossoms_ES-ES5659720575_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CastleBlossoms_ES-ES5659720575_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "El origen del poder",
+                "Title": "Castillo de Hirosaki con cerezos en flor, Hirosaki, Japón",
+                "Copyright": "© Glenn Waters/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.609463,140.467545/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=40.609463,140.467545;S9;Castillo de Hirosaki, Hirosaki, Japón&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260406_CastleBlossoms\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Castillo+japon%c3%a9s&form=hpcapt&filters=HpDate:\"20260405_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260406_CastleBlossoms"
+            },
+            "Ssd": "20260406",
+            "Name": "CastleBlossoms",
+            "Market": "ES-ES",
+            "Hash": "5659720575",
+            "FullDateString": "6 de abr. de 2026"
+        }
+    },
+    {
         "startdate": "20260404",
         "fullstartdate": "202604042200",
         "enddate": "20260405",

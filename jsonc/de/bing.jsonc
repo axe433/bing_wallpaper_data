@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260405",
+        "fullstartdate": "202604052200",
+        "enddate": "20260406",
+        "url": "/th?id=OHR.CastleBlossoms_DE-DE0573709826_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CastleBlossoms_DE-DE0573709826",
+        "copyright": "Burg Hirosaki mit Kirschblüten, Hirosaki, Japan (© Glenn Waters/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Japanische+Burg&form=hpcapt&filters=HpDate%3a%2220260405_2200%22",
+        "title": "Beständig durch die Zeit",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260405_CastleBlossoms%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b60954f13cfc3644cbfc5418dd41e350",
+        "hsh": "50145f32e3f96f5544dc7ff36eadf5ce",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ein Blick nach Nordjapan um das Jahr 1600 zeigt eine Welt, in der Burgen das Zentrum des öffentlichen Lebens bildeten. Sie dienten als Verwaltungszentren, schützten Handelswege und waren fest in den Alltag eingebunden. Daran knüpft der japanische Burgentag an, der jedes Jahr am 6. April begangen wird. Der Hintergrund ist ein Wortspiel: Vier und sechs heißen im Japanischen „shi“ und „ro“ – zusammen ergeben sie „shiro“, das Wort für Burg.",
+                "Image": {
+                    "Url": "/th?id=OHR.CastleBlossoms_DE-DE0573709826_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CastleBlossoms_DE-DE0573709826_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Beständig durch die Zeit",
+                "Title": "Burg Hirosaki mit Kirschblüten, Hirosaki, Japan",
+                "Copyright": "© Glenn Waters/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.609463,140.467545/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=40.609463,140.467545;S9;Burg Hirosaki, Hirosaki, Japan&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260406_CastleBlossoms\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Japanische+Burg&form=hpcapt&filters=HpDate:\"20260405_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260406_CastleBlossoms"
+            },
+            "Ssd": "20260406",
+            "Name": "CastleBlossoms",
+            "Market": "DE-DE",
+            "Hash": "0573709826",
+            "FullDateString": "6. Apr.. 2026"
+        }
+    },
+    {
         "startdate": "20260404",
         "fullstartdate": "202604042200",
         "enddate": "20260405",

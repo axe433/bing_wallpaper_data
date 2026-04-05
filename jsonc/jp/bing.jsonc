@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260405",
+        "fullstartdate": "202604051500",
+        "enddate": "20260406",
+        "url": "/th?id=OHR.CastleBlossoms_JA-JP3550257541_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CastleBlossoms_JA-JP3550257541",
+        "copyright": "弘前城, 青森県 弘前市 (© Glenn Waters/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%BC%98%E5%89%8D%E5%9F%8E&form=hpcapt&filters=HpDate%3a%2220260405_1500%22",
+        "title": "今日は城の日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260405_CastleBlossoms%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b60954f13cfc3644cbfc5418dd41e350",
+        "hsh": "56a4a56fa71d6d2cca48977f76f88675",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 4 月 6 日は、「城の日」。1974 年に、4 （し）と 6 （ろ）の語呂合わせから、日本城郭協会が制定した記念日です。そして、今日の画像は青森県の弘前公園の中にある弘前城です。江戸時代初期の 1611 年に築かれた城で、鷹岡城（高岡城）という別名で呼ばれることもあります。当時の天守や櫓などが現存しており、国の重要文化財に指定されています。",
+                "Image": {
+                    "Url": "/th?id=OHR.CastleBlossoms_JA-JP3550257541_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CastleBlossoms_JA-JP3550257541_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日は城の日",
+                "Title": "弘前城, 青森県 弘前市",
+                "Copyright": "© Glenn Waters/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.607736,140.463899/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=40.607736,140.463899;S9;弘前城&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260406_CastleBlossoms%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260406_CastleBlossoms\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%bc%98%e5%89%8d%e5%9f%8e&form=hpcapt&filters=HpDate:\"20260405_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260406_CastleBlossoms"
+            },
+            "Ssd": "20260406",
+            "Name": "CastleBlossoms",
+            "Market": "JA-JP",
+            "Hash": "3550257541",
+            "FullDateString": "2026 年 4月 月 6 日"
+        }
+    },
+    {
         "startdate": "20260404",
         "fullstartdate": "202604041500",
         "enddate": "20260405",

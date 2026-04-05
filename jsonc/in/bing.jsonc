@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260405",
+        "fullstartdate": "202604051830",
+        "enddate": "20260406",
+        "url": "/th?id=OHR.CastleBlossoms_EN-IN0940627111_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CastleBlossoms_EN-IN0940627111",
+        "copyright": "Hirosaki Castle with cherry blossoms, Hirosaki, Japan (© Glenn Waters/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Japanese+castle&form=hpcapt&filters=HpDate%3a%2220260405_1830%22",
+        "title": "Where power resides",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260405_CastleBlossoms%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b60954f13cfc3644cbfc5418dd41e350",
+        "hsh": "3ae7582541066a382d28ec3f35a7d9f9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Picture northern Japan in the early 1600s. Castles stood at the crossroads of politics, trade and governance. Across generations, they came to reflect not only moments of tension, but also endurance, adaptation and everyday life. Castle Day, celebrated on April 6, was created to highlight that layered past. The day uses a simple phonetic link—shi (4) and ro (6)—to form Shiro-no-Hi, because 'shiro' means castle in Japanese. It's a reminder that castles had serious jobs long before they had cinematic appeal.",
+                "Image": {
+                    "Url": "/th?id=OHR.CastleBlossoms_EN-IN0940627111_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CastleBlossoms_EN-IN0940627111_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Where power resides",
+                "Title": "Hirosaki Castle with cherry blossoms, Hirosaki, Japan",
+                "Copyright": "© Glenn Waters/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.609463,140.467545/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=40.609463,140.467545;S9;Hirosaki Castle, Hirosaki, Japan&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260406_CastleBlossoms\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Japanese+castle&form=hpcapt&filters=HpDate:\"20260405_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260406_CastleBlossoms"
+            },
+            "Ssd": "20260406",
+            "Name": "CastleBlossoms",
+            "Market": "EN-IN",
+            "Hash": "0940627111",
+            "FullDateString": "6 Apr, 2026"
+        }
+    },
+    {
         "startdate": "20260404",
         "fullstartdate": "202604041830",
         "enddate": "20260405",
