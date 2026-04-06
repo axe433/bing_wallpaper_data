@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260406",
+        "fullstartdate": "202604060300",
+        "enddate": "20260407",
+        "url": "/th?id=OHR.CastleBlossoms_PT-BR0895460627_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CastleBlossoms_PT-BR0895460627",
+        "copyright": "Castelo de Hirosaki com cerejeiras, Hirosaki, Japão (© Glenn Waters/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=castelos+japoneses&form=hpcapt&mkt=pt-br",
+        "title": "Palácios estratégicos",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260406_CastleBlossoms%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b60954f13cfc3644cbfc5418dd41e350",
+        "hsh": "165543037294b3de5c7aa36ed26834ea",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Antes de virarem cenário de filmes e cartões-postais, os castelos japoneses eram verdadeiras máquinas administrativas. No início dos anos 1600, especialmente no norte do Japão, eles organizavam territórios, cobravam impostos, protegiam rotas comerciais e mantinham a ordem local. O Dia do Castelo, comemorado em 6 de abril, celebra exatamente isso. O motivo é linguístico: “shi” (4) e “ro” (6) formam “shiro”, palavra japonesa para castelo.",
+                "Image": {
+                    "Url": "/th?id=OHR.CastleBlossoms_PT-BR0895460627_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CastleBlossoms_PT-BR0895460627_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Palácios estratégicos",
+                "Title": "Castelo de Hirosaki com cerejeiras, Hirosaki, Japão",
+                "Copyright": "© Glenn Waters/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260406_CastleBlossoms\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=castelos+japoneses&form=hpcapt&filters=HpDate:\"20260406_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260406_CastleBlossoms"
+            },
+            "Ssd": "20260406",
+            "Name": "CastleBlossoms",
+            "Market": "PT-BR",
+            "Hash": "0895460627",
+            "FullDateString": "6 abr. 2026"
+        }
+    },
+    {
         "startdate": "20260405",
         "fullstartdate": "202604050300",
         "enddate": "20260406",

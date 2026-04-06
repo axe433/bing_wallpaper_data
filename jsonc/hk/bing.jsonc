@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260406",
+        "fullstartdate": "202604060700",
+        "enddate": "20260407",
+        "url": "/th?id=OHR.CastleBlossoms_ROW0945099429_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CastleBlossoms_ROW0945099429",
+        "copyright": "Hirosaki Castle with cherry blossoms, Hirosaki, Japan (© Glenn Waters/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Hirosaki+Castle&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260406_CastleBlossoms%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b60954f13cfc3644cbfc5418dd41e350",
+        "hsh": "af282590074844bc0fa3e592501729d7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Picture northern Japan in the early 1600s. Castles stood at the crossroads of politics, trade and governance. Across generations, they came to reflect not only moments of tension but also endurance, adaptation and everyday life. Today's image features Hirosaki Castle, completed in 1611 under the Tsugaru clan, an influential Japanese samurai family. It was also known as Takaoka Castle. Fires, lightning strikes and strategic rebuilding reshaped parts of the complex, yet the castle continued to anchor local administration and culture throughout the Edo period. After the feudal system collapsed in the nineteenth century, its moats, gates and watchtowers survived as the grounds gradually became a public park famed for its thousands of cherry trees planted in the early twentieth century. Today the site remains a cultural landmark and one of Japan's most celebrated cherry‑blossom destinations.",
+                "Image": {
+                    "Url": "/th?id=OHR.CastleBlossoms_ROW0945099429_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CastleBlossoms_ROW0945099429_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Hirosaki Castle with cherry blossoms, Hirosaki, Japan",
+                "Copyright": "© Glenn Waters/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260406_CastleBlossoms\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hirosaki+Castle&form=hpcapt&filters=HpDate:\"20260406_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260406_CastleBlossoms"
+            },
+            "Ssd": "20260406",
+            "Name": "CastleBlossoms",
+            "Market": "ROW",
+            "Hash": "0945099429",
+            "FullDateString": "2026 年 4月 月 6 日"
+        }
+    },
+    {
         "startdate": "20260405",
         "fullstartdate": "202604050700",
         "enddate": "20260406",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260406",
+        "fullstartdate": "202604062200",
+        "enddate": "20260407",
+        "url": "/th?id=OHR.BeaverPortrait_IT-IT2053120485_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BeaverPortrait_IT-IT2053120485",
+        "copyright": "Castoro, Germania (© Andyworks/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Castoro+animale&form=hpcapt",
+        "title": "Natura su misura",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260406_BeaverPortrait%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c60c6d98c8cbd3b5459ab56cddc4538c",
+        "hsh": "8abbb46ebc02601cf535af47e9410122",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La «Giornata internazionale del castoro», celebrata il 7 aprile, rende omaggio a questo piccolo ma instancabile ingegnere che migliora il mondo, un ramo alla volta. Con i loro incisivi sporgenti e rinforzati come il ferro, la coda a pala e la proverbiale laboriosità, i castori trasformano i paesaggi d'acqua dolce da milioni di anni. Abbattono gli alberi e costruiscono dighe che rallentano il flusso dei corsi d’acqua, li purificano e creano zone umide ricche di vita.",
+                "Image": {
+                    "Url": "/th?id=OHR.BeaverPortrait_IT-IT2053120485_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BeaverPortrait_IT-IT2053120485_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Natura su misura",
+                "Title": "Castoro, Germania",
+                "Copyright": "© Andyworks/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "I denti arancioni dei castori contengono ferro nello smalto, il che rende i loro  incisivi più resistenti e più resistenti all'usura rispetto allo smalto dei denti  umani.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260407_BeaverPortrait\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Castoro+animale&form=hpcapt&filters=HpDate:\"20260406_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260407_BeaverPortrait"
+            },
+            "Ssd": "20260407",
+            "Name": "BeaverPortrait",
+            "Market": "IT-IT",
+            "Hash": "2053120485",
+            "FullDateString": "7 aprile 2026"
+        }
+    },
+    {
         "startdate": "20260405",
         "fullstartdate": "202604052200",
         "enddate": "20260406",

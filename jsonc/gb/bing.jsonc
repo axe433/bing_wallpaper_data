@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260406",
+        "fullstartdate": "202604062300",
+        "enddate": "20260407",
+        "url": "/th?id=OHR.BeaverPortrait_EN-GB6712196855_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BeaverPortrait_EN-GB6712196855",
+        "copyright": "Beaver, Germany (© Andyworks/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Beaver+rodent&form=hpcapt&filters=HpDate%3a%2220260406_2300%22",
+        "title": "One stick at a time",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260406_BeaverPortrait%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c60c6d98c8cbd3b5459ab56cddc4538c",
+        "hsh": "bb2233a34e7c09a34acae6f2e1747986",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "International Beaver Day, celebrated on 7 April, recognises a hardworking little engineer quietly building a better world—one stick at a time. The beaver—buck-toothed, paddle-tailed and famously industrious—has been reshaping freshwater landscapes for millions of years. With their iron-reinforced orange incisors, these skilled rodents cut down trees and build dams that slow the flow of water, improve its quality and create wetlands that support a remarkable diversity of life. Their sturdy lodges, made of branches and mud, have underwater entrances that protect them from predators and keep their families safe.",
+                "Image": {
+                    "Url": "/th?id=OHR.BeaverPortrait_EN-GB6712196855_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BeaverPortrait_EN-GB6712196855_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "One stick at a time",
+                "Title": "Beaver, Germany",
+                "Copyright": "© Andyworks/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Beavers' orange teeth contain iron in their enamel, which makes their incisors tougher and more resistant to wear than human teeth enamel.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260407_BeaverPortrait\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Beaver+rodent&form=hpcapt&filters=HpDate:\"20260406_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260407_BeaverPortrait"
+            },
+            "Ssd": "20260407",
+            "Name": "BeaverPortrait",
+            "Market": "EN-GB",
+            "Hash": "6712196855",
+            "FullDateString": "7 Apr 2026"
+        }
+    },
+    {
         "startdate": "20260405",
         "fullstartdate": "202604052300",
         "enddate": "20260406",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260406",
+        "fullstartdate": "202604062200",
+        "enddate": "20260407",
+        "url": "/th?id=OHR.BeaverPortrait_DE-DE0531168900_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BeaverPortrait_DE-DE0531168900",
+        "copyright": "Biber, Deutschland (© Andyworks/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Biber+Nagetiere&form=hpcapt&filters=HpDate%3a%2220260406_2200%22",
+        "title": "Biberkraft am Werk",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260406_BeaverPortrait%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c60c6d98c8cbd3b5459ab56cddc4538c",
+        "hsh": "0c6046ccdc7040eb0873d9eda7d4a24f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Am 7. April feiern wir den Internationalen Tag des Bibers – ein guter Anlass, diesen fleißigen Landschaftsarchitekten näher kennenzulernen. Mit seinen kräftigen, orangefarbenen Schneidezähnen und dem breiten Schwanz formt der Biber Wasserlandschaften wie kaum ein anderes Tier. Durch das Fällen von Bäumen und den Bau von Dämmen entstehen Teiche und Feuchtgebiete, die zahlreichen Arten Lebensraum bieten.",
+                "Image": {
+                    "Url": "/th?id=OHR.BeaverPortrait_DE-DE0531168900_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BeaverPortrait_DE-DE0531168900_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Biberkraft am Werk",
+                "Title": "Biber, Deutschland",
+                "Copyright": "© Andyworks/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Die orangefarbenen Schneidezähne von Bibern enthalten Eisen im Zahnschmelz. Dadurch sind ihre Nagezähne deutlich härter und widerstandsfähiger als der Zahnschmelz des Menschen.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260407_BeaverPortrait\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Biber+Nagetiere&form=hpcapt&filters=HpDate:\"20260406_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260407_BeaverPortrait"
+            },
+            "Ssd": "20260407",
+            "Name": "BeaverPortrait",
+            "Market": "DE-DE",
+            "Hash": "0531168900",
+            "FullDateString": "7. Apr.. 2026"
+        }
+    },
+    {
         "startdate": "20260405",
         "fullstartdate": "202604052200",
         "enddate": "20260406",

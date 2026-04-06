@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260406",
+        "fullstartdate": "202604062200",
+        "enddate": "20260407",
+        "url": "/th?id=OHR.BeaverPortrait_ES-ES5819494132_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BeaverPortrait_ES-ES5819494132",
+        "copyright": "Castor europeo, Alemania (© Andyworks/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Castor+europeo&form=hpcapt&filters=HpDate%3a%2220260406_2200%22",
+        "title": "Manos a la obra",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260406_BeaverPortrait%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c60c6d98c8cbd3b5459ab56cddc4538c",
+        "hsh": "3bff685e5763d36e49a0b20a8747f759",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El castor europeo es una de las especies más singulares de la fauna alemana. Deja una huella inconfundible en ríos y humedales mediante árboles roídos y diques construidos con ramas y barro. Es famoso por sus incisivos anaranjados, reforzados con hierro, que crecen sin parar y le permiten talar árboles con gran precisión. Sus presas crean lagunas que benefician a aves, anfibios y peces, por lo que se le considera un verdadero ingeniero del ecosistema.",
+                "Image": {
+                    "Url": "/th?id=OHR.BeaverPortrait_ES-ES5819494132_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BeaverPortrait_ES-ES5819494132_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Manos a la obra",
+                "Title": "Castor europeo, Alemania",
+                "Copyright": "© Andyworks/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Los dientes naranjas de los castores contienen hierro en su esmalte, lo que hace que sus incisivos sean más duros y resistentes al desgaste que el esmalte dental humano.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260407_BeaverPortrait\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Castor+europeo&form=hpcapt&filters=HpDate:\"20260406_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260407_BeaverPortrait"
+            },
+            "Ssd": "20260407",
+            "Name": "BeaverPortrait",
+            "Market": "ES-ES",
+            "Hash": "5819494132",
+            "FullDateString": "7 de abr. de 2026"
+        }
+    },
+    {
         "startdate": "20260405",
         "fullstartdate": "202604052200",
         "enddate": "20260406",
