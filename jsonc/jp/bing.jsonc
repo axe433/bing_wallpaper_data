@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260407",
+        "fullstartdate": "202604071500",
+        "enddate": "20260408",
+        "url": "/th?id=OHR.SeattleSunrise_JA-JP6952248899_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SeattleSunrise_JA-JP6952248899",
+        "copyright": "シアトル市のウォーターフロント, 米国 ワシントン州 (© Jim Patterson/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%B7%E3%82%A2%E3%83%88%E3%83%AB%E5%B8%82%E3%81%AE%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88&form=hpcapt&filters=HpDate%3a%2220260407_1500%22",
+        "title": "夕焼けに染まる港と街の景色",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260407_SeattleSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f4d769aadca8d0deada708a4fd4afa4d",
+        "hsh": "90e23f8c73364f03c18bf1ea4ade47e2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ここは、米国ワシントン州北西部に位置するシアトル。市名は、この地に先住していたネイティブ・アメリカン、スクアミシュ族のシアトル酋長の名前に由来します。古くから貿易港として栄え、グローバルに展開する企業の誕生した地としても知られています。また、緑豊かな森林と自然に囲まれているため、「エメラルド・シティ」の愛称でも親しまれています。",
+                "Image": {
+                    "Url": "/th?id=OHR.SeattleSunrise_JA-JP6952248899_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SeattleSunrise_JA-JP6952248899_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "夕焼けに染まる港と街の景色",
+                "Title": "シアトル市のウォーターフロント, 米国 ワシントン州",
+                "Copyright": "© Jim Patterson/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.60323,-122.330276/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=47.60323,-122.330276;S9;シアトル, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260408_SeattleSunrise%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260408_SeattleSunrise\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%b7%e3%82%a2%e3%83%88%e3%83%ab%e5%b8%82%e3%81%ae%e3%82%a6%e3%82%a9%e3%83%bc%e3%82%bf%e3%83%bc%e3%83%95%e3%83%ad%e3%83%b3%e3%83%88&form=hpcapt&filters=HpDate:\"20260407_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260408_SeattleSunrise"
+            },
+            "Ssd": "20260408",
+            "Name": "SeattleSunrise",
+            "Market": "JA-JP",
+            "Hash": "6952248899",
+            "FullDateString": "2026 年 4月 月 8 日"
+        }
+    },
+    {
         "startdate": "20260406",
         "fullstartdate": "202604061500",
         "enddate": "20260407",

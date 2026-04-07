@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260407",
+        "fullstartdate": "202604072200",
+        "enddate": "20260408",
+        "url": "/th?id=OHR.SeattleSunrise_FR-FR4246805259_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SeattleSunrise_FR-FR4246805259",
+        "copyright": "Seattle, Washington, États-Unis (© Jim Patterson/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Seattle&form=hpcapt&filters=HpDate%3a%2220260407_2200%22",
+        "title": "La Cité Émeraude",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260407_SeattleSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f4d769aadca8d0deada708a4fd4afa4d",
+        "hsh": "7a21d94a1431546c2a844d2346852516",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sur le front de mer de Seattle, aux États-Unis, la lumière flotte entre ciel et mer et adoucit les silhouettes de la ville. Son nom rend hommage au chef Si’ahl, figure des peuples Duwamish et Suquamish, dont l’héritage façonne encore l’identité de la région. Des rues abruptes descendent vers les quais d’Elliott Bay, tandis que la Space Needle, dressée au-dessus de la ligne d’horizon, veille comme un repère familier. Plus haut, Pike Place Market, fondé en 1907, continue de rythmer la vie quotidienne tout en préservant des traditions profondément ancrées.",
+                "Image": {
+                    "Url": "/th?id=OHR.SeattleSunrise_FR-FR4246805259_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SeattleSunrise_FR-FR4246805259_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La Cité Émeraude",
+                "Title": "Seattle, Washington, États-Unis",
+                "Copyright": "© Jim Patterson/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.60323,-122.330276/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=47.60323,-122.330276;S9;Seattle, Washington, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260408_SeattleSunrise\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Seattle&form=hpcapt&filters=HpDate:\"20260407_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260408_SeattleSunrise"
+            },
+            "Ssd": "20260408",
+            "Name": "SeattleSunrise",
+            "Market": "FR-FR",
+            "Hash": "4246805259",
+            "FullDateString": "8 avr. 2026"
+        }
+    },
+    {
         "startdate": "20260406",
         "fullstartdate": "202604062200",
         "enddate": "20260407",

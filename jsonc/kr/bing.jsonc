@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260407",
+        "fullstartdate": "202604070700",
+        "enddate": "20260408",
+        "url": "/th?id=OHR.BeaverPortrait_ROW1082400008_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BeaverPortrait_ROW1082400008",
+        "copyright": "Beaver, Germany (© Andyworks/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Beaver+rodent&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260407_BeaverPortrait%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c60c6d98c8cbd3b5459ab56cddc4538c",
+        "hsh": "87067316e41bd1d397e6bc990ed20845",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "The beaver—buck-toothed, paddle-tailed and famously industrious—has been reshaping freshwater landscapes for millions of years. With their iron-reinforced orange incisors, these skilled rodents cut down trees and build dams that slow the flow of water, improve its quality and create wetlands that support a remarkable diversity of life. Their sturdy lodges, made of branches and mud, have underwater entrances that protect them from predators and keep their families safe.",
+                "Image": {
+                    "Url": "/th?id=OHR.BeaverPortrait_ROW1082400008_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BeaverPortrait_ROW1082400008_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Beaver, Germany",
+                "Copyright": "© Andyworks/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260407_BeaverPortrait\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Beaver+rodent&form=hpcapt&filters=HpDate:\"20260407_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260407_BeaverPortrait"
+            },
+            "Ssd": "20260407",
+            "Name": "BeaverPortrait",
+            "Market": "ROW",
+            "Hash": "1082400008",
+            "FullDateString": "2026 4월 7"
+        }
+    },
+    {
         "startdate": "20260406",
         "fullstartdate": "202604060700",
         "enddate": "20260407",

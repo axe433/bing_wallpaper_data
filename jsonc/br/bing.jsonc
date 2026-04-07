@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260407",
+        "fullstartdate": "202604070300",
+        "enddate": "20260408",
+        "url": "/th?id=OHR.BeaverPortrait_PT-BR0841777069_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BeaverPortrait_PT-BR0841777069",
+        "copyright": "Castor, Alemanha (© Andyworks/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=dia+internacional+do+castor&form=hpcapt&mkt=pt-br",
+        "title": "O mestre das represas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260407_BeaverPortrait%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c60c6d98c8cbd3b5459ab56cddc4538c",
+        "hsh": "0843877d7cbdd3c52f48850c322353cf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Em rios do hemisfério norte, vive um construtor que dispensa diploma. Neste 7 de abril, Dia Internacional do Castor, celebramos o roedor que há milhões de anos redesenha paisagens com ferramentas improváveis: incisivos laranja com esmalte reforçado com ferro e uma cauda larga que funciona como leme, apoio e até alarme.",
+                "Image": {
+                    "Url": "/th?id=OHR.BeaverPortrait_PT-BR0841777069_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BeaverPortrait_PT-BR0841777069_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O mestre das represas",
+                "Title": "Castor, Alemanha",
+                "Copyright": "© Andyworks/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260407_BeaverPortrait\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=dia+internacional+do+castor&form=hpcapt&filters=HpDate:\"20260407_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260407_BeaverPortrait"
+            },
+            "Ssd": "20260407",
+            "Name": "BeaverPortrait",
+            "Market": "PT-BR",
+            "Hash": "0841777069",
+            "FullDateString": "7 abr. 2026"
+        }
+    },
+    {
         "startdate": "20260406",
         "fullstartdate": "202604060300",
         "enddate": "20260407",
