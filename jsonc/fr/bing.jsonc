@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260408",
+        "fullstartdate": "202604082200",
+        "enddate": "20260409",
+        "url": "/th?id=OHR.WalesWaterfall_FR-FR2361256494_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WalesWaterfall_FR-FR2361256494",
+        "copyright": "Cascade de Sgwd yr Eira, Parc national des Bannau Brycheiniog, Pays de Galles (© Guy Edwardes/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Parc+national+des++Bannau+Brycheiniog&form=hpcapt&filters=HpDate%3a%2220260408_2200%22",
+        "title": "Voile de lumière",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260408_WalesWaterfall%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a05ef19cc2dd46f670aedb807eb55e39",
+        "hsh": "8c20e8f282067a8a0ff43380161b457a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "L’eau se jette en lignes nettes à Sgwd yr Eira, l’une des chutes les plus singulières du sud du Pays de Galles. Son nom signifie « cascade de neige », un clin d’œil au voile pâle qui glisse le long de la paroi rocheuse. Ce qui la distingue, c’est l’accès : un sentier étroit mène les visiteurs derrière le rideau d’eau, où l’on se retrouve enveloppé de bruit, de lumière et de fraîcheur, comme au cœur du mouvement.",
+                "Image": {
+                    "Url": "/th?id=OHR.WalesWaterfall_FR-FR2361256494_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WalesWaterfall_FR-FR2361256494_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Voile de lumière",
+                "Title": "Cascade de Sgwd yr Eira, Parc national des Bannau Brycheiniog, Pays de Galles",
+                "Copyright": "© Guy Edwardes/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.78174,-3.554824/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=51.78174,-3.554824;S9;Cascade de Sgwd yr Eira, Pays de Galles&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260409_WalesWaterfall\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parc+national+des++Bannau+Brycheiniog&form=hpcapt&filters=HpDate:\"20260408_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260409_WalesWaterfall"
+            },
+            "Ssd": "20260409",
+            "Name": "WalesWaterfall",
+            "Market": "FR-FR",
+            "Hash": "2361256494",
+            "FullDateString": "9 avr. 2026"
+        }
+    },
+    {
         "startdate": "20260407",
         "fullstartdate": "202604072200",
         "enddate": "20260408",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260408",
+        "fullstartdate": "202604082200",
+        "enddate": "20260409",
+        "url": "/th?id=OHR.WalesWaterfall_DE-DE3914943057_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WalesWaterfall_DE-DE3914943057",
+        "copyright": "Wasserfall Sgwd yr Eira, Bannau-Brycheiniog-Nationalpark, Wales (© Guy Edwardes/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Bannau-Brycheiniog-Nationalpark&form=hpcapt&filters=HpDate%3a%2220260408_2200%22",
+        "title": "Schleier aus Licht",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260408_WalesWaterfall%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a05ef19cc2dd46f670aedb807eb55e39",
+        "hsh": "a1a3cfe6807dffdd1c3ae0ed7fe28017",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Der Wasserfall Sgwd yr Eira stürzt in klaren Linien über eine Felswand im Süden von Wales. Sein walisischer Name bedeutet „Wasserfall des Schnees“ und verweist auf den hellen Schleier, der über den dunklen Stein gleitet. Besonders an diesem Ort ist die unmittelbare Nähe: Ein schmaler Pfad führt direkt hinter den Wasserfall, sodass man ihn aus einer seltenen Perspektive erleben kann – mit dem Klang, dem Licht und der kühlen Gischt ganz nah.",
+                "Image": {
+                    "Url": "/th?id=OHR.WalesWaterfall_DE-DE3914943057_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WalesWaterfall_DE-DE3914943057_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Schleier aus Licht",
+                "Title": "Wasserfall Sgwd yr Eira, Bannau-Brycheiniog-Nationalpark, Wales",
+                "Copyright": "© Guy Edwardes/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.78174,-3.554824/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=51.78174,-3.554824;S9;Wasserfall Sgwd yr Eira, Bannau-Brycheiniog-Nationalpark, Wales&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260409_WalesWaterfall\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Bannau-Brycheiniog-Nationalpark&form=hpcapt&filters=HpDate:\"20260408_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260409_WalesWaterfall"
+            },
+            "Ssd": "20260409",
+            "Name": "WalesWaterfall",
+            "Market": "DE-DE",
+            "Hash": "3914943057",
+            "FullDateString": "9. Apr.. 2026"
+        }
+    },
+    {
         "startdate": "20260407",
         "fullstartdate": "202604072200",
         "enddate": "20260408",
