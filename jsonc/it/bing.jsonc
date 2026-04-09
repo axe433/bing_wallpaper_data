@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260409",
+        "fullstartdate": "202604092200",
+        "enddate": "20260410",
+        "url": "/th?id=OHR.FoxSiblings_IT-IT2265403232_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FoxSiblings_IT-IT2265403232",
+        "copyright": "Due giovani volpi rosse nel parco nazionale di Karula, Estonia (© Sven Zacek/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Festa+dei+fratelli&form=hpcapt",
+        "title": "Fratelli per la pelle",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260409_FoxSiblings%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "afc65bfeae80675f59cb4ed082da96e4",
+        "hsh": "0bec9111be5edf2a1b92100e87facbaf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Vi è mai capitato di sorprendere dei fratelli mentre tramano qualcosa? Nel parco nazionale di Karula, in Estonia, sembra che questi due cuccioli di volpe rossa si siano congelati nel mezzo della loro congiura, con le espressioni sospese tra curiosità e prudenza. Non sono solo morbidezza primaverile: sono apprendisti della sopravvivenza, nati in cucciolate che in media contano da quattro a sei piccoli. I cuccioli più grandi spesso aiutano a nutrire, proteggere e istruire i più piccoli, trasformando il gioco in esercizio e i piccoli scherzi in memoria muscolare. Nelle loro famiglie, i fratelli non sono uno sfondo, ma un sostegno.",
+                "Image": {
+                    "Url": "/th?id=OHR.FoxSiblings_IT-IT2265403232_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FoxSiblings_IT-IT2265403232_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Fratelli per la pelle",
+                "Title": "Due giovani volpi rosse nel parco nazionale di Karula, Estonia",
+                "Copyright": "© Sven Zacek/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/57.714678,26.486612/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=57.714678,26.486612;S9;Parco nazionale di Karula, Estonia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260410_FoxSiblings\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Festa+dei+fratelli&form=hpcapt&filters=HpDate:\"20260409_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260410_FoxSiblings"
+            },
+            "Ssd": "20260410",
+            "Name": "FoxSiblings",
+            "Market": "IT-IT",
+            "Hash": "2265403232",
+            "FullDateString": "10 aprile 2026"
+        }
+    },
+    {
         "startdate": "20260408",
         "fullstartdate": "202604082200",
         "enddate": "20260409",

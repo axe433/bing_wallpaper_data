@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260409",
+        "fullstartdate": "202604091500",
+        "enddate": "20260410",
+        "url": "/th?id=OHR.FoxSiblings_JA-JP3895166955_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FoxSiblings_JA-JP3895166955",
+        "copyright": "アカギツネ, エストニア (© Sven Zacek/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%82%AB%E3%82%AE%E3%83%84%E3%83%8D&form=hpcapt&filters=HpDate%3a%2220260409_1500%22",
+        "title": "今日はきょうだいの日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260409_FoxSiblings%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "afc65bfeae80675f59cb4ed082da96e4",
+        "hsh": "fe49247b6d7a7cbc95ddcfae20b0e36e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 4 月 10 日は「兄弟姉妹の日」。ニューヨーク在住のクラウディア・エヴァート氏が、幼い頃に亡くなった兄弟姉妹の記憶をたたえるために考案した記念日です。日本では、NPO 法人「しぶたね」が「きょうだいの日」を制定し、この記念日の普及活動を行っています。そして、画像はエストニアのカルラ国立公園で撮影されたアカギツネの兄妹。子ギツネたちは追いかけっこやじゃれ合いを通して狩りの技術を学び、互いに支え合いながら成長していきます。",
+                "Image": {
+                    "Url": "/th?id=OHR.FoxSiblings_JA-JP3895166955_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FoxSiblings_JA-JP3895166955_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日はきょうだいの日",
+                "Title": "アカギツネ, エストニア",
+                "Copyright": "© Sven Zacek/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/57.714678,26.486612/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=57.714678,26.486612;S9;カルラ国立公園, エストニア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260410_FoxSiblings%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260410_FoxSiblings\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%a2%e3%82%ab%e3%82%ae%e3%83%84%e3%83%8d&form=hpcapt&filters=HpDate:\"20260409_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260410_FoxSiblings"
+            },
+            "Ssd": "20260410",
+            "Name": "FoxSiblings",
+            "Market": "JA-JP",
+            "Hash": "3895166955",
+            "FullDateString": "2026 年 4月 月 10 日"
+        }
+    },
+    {
         "startdate": "20260408",
         "fullstartdate": "202604081500",
         "enddate": "20260409",

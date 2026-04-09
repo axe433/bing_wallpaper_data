@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260409",
+        "fullstartdate": "202604092200",
+        "enddate": "20260410",
+        "url": "/th?id=OHR.AlhambraGranada_ES-ES7908676665_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlhambraGranada_ES-ES7908676665",
+        "copyright": "La Alhambra vista desde el Albaicín, Granada, Andalucía (© Antonio Violi/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Unicaja+Ultra+Sierra+Nevada+2026+fechas&form=hpcapt&filters=HpDate%3a%2220260409_2200%22",
+        "title": "Donde empieza la aventura",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260409_AlhambraGranada%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "695ea0cf2f598bdb3cc8076913be4584",
+        "hsh": "8d10959393024785bd0553dcccb06de7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Desde la colina del Albaicín, la Alhambra domina Granada como un símbolo de historia, resistencia y belleza. Esa misma ciudad es hoy el punto de partida del Unicaja Ultra Sierra Nevada, una de las grandes citas del trail en España. En este 10 de abril, el evento arranca en un escenario cargado de siglos, donde el patrimonio cultural convive con el pulso deportivo y la expectación previa a la salida.",
+                "Image": {
+                    "Url": "/th?id=OHR.AlhambraGranada_ES-ES7908676665_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AlhambraGranada_ES-ES7908676665_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Donde empieza la aventura",
+                "Title": "La Alhambra vista desde el Albaicín, Granada, Andalucía",
+                "Copyright": "© Antonio Violi/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.17634,-3.58821/10?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=37.17634,-3.58821;S9;La Alhambra vista desde el Albaicín, Granada, Andalucía&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260410_AlhambraGranada\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Unicaja+Ultra+Sierra+Nevada+2026+fechas&form=hpcapt&filters=HpDate:\"20260409_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260410_AlhambraGranada"
+            },
+            "Ssd": "20260410",
+            "Name": "AlhambraGranada",
+            "Market": "ES-ES",
+            "Hash": "7908676665",
+            "FullDateString": "10 de abr. de 2026"
+        }
+    },
+    {
         "startdate": "20260408",
         "fullstartdate": "202604082200",
         "enddate": "20260409",

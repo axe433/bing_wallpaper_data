@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260409",
+        "fullstartdate": "202604091830",
+        "enddate": "20260410",
+        "url": "/th?id=OHR.FoxSiblings_EN-IN1951935452_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FoxSiblings_EN-IN1951935452",
+        "copyright": "Two young red foxes at Karula National Park, Estonia (© Sven Zacek/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Siblings+Day&form=hpcapt&filters=HpDate%3a%2220260409_1830%22",
+        "title": "Plotting paws",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260409_FoxSiblings%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "afc65bfeae80675f59cb4ed082da96e4",
+        "hsh": "55833769ec060bf47f79333971c4e792",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ever caught siblings plotting? In Karula National Park, Estonia, it looks as though these two red fox kits froze mid-conspiracy, their expressions mirrored in curiosity and caution. They're not just springtime fluff; they're apprentices in survival. Born in litters averaging four to six kits, foxes grow quickly, their underground den becoming their wrestling ring, classroom, and testing ground. Older kits often help feed, guard, and teach the younger ones, turning play into practice and mischief into muscle memory. In their families, siblings are not background—they're backup.",
+                "Image": {
+                    "Url": "/th?id=OHR.FoxSiblings_EN-IN1951935452_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FoxSiblings_EN-IN1951935452_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Plotting paws",
+                "Title": "Two young red foxes at Karula National Park, Estonia",
+                "Copyright": "© Sven Zacek/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/57.714678,26.486612/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=57.714678,26.486612;S9;Karula National Park, Rebasemoisa, Estonia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260410_FoxSiblings\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Siblings+Day&form=hpcapt&filters=HpDate:\"20260409_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260410_FoxSiblings"
+            },
+            "Ssd": "20260410",
+            "Name": "FoxSiblings",
+            "Market": "EN-IN",
+            "Hash": "1951935452",
+            "FullDateString": "10 Apr, 2026"
+        }
+    },
+    {
         "startdate": "20260408",
         "fullstartdate": "202604081830",
         "enddate": "20260409",

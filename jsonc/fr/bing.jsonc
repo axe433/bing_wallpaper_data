@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260409",
+        "fullstartdate": "202604092200",
+        "enddate": "20260410",
+        "url": "/th?id=OHR.FoxSiblings_FR-FR2060814821_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FoxSiblings_FR-FR2060814821",
+        "copyright": "Deux renardeaux dans le parc national de Karula, Estonie (© Sven Zacek/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=journ%C3%A9e+internationale+des+fr%C3%A8res+et+s%C5%93urs&form=hpcapt&filters=HpDate%3a%2220260409_2200%22",
+        "title": "Le regard pétillant de ruse",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260409_FoxSiblings%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "afc65bfeae80675f59cb4ed082da96e4",
+        "hsh": "4ee072e42e836a0bd1634001d552faca",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sur les sentiers boisés du parc national de Karula, en Estonie, on croirait surprendre ces deux renardeaux. Leurs museaux levés mêlent prudence et curiosité, des instincts qui, dès les premières semaines, forgent la survie. Dans leurs terriers tapissés de racines, les portées de printemps — souvent quatre à six petits — transforment chaque jeu en entraînement. Les plus âgés nourrissent, surveillent et montrent l’exemple : une petite société où la fratrie devient une force commune.",
+                "Image": {
+                    "Url": "/th?id=OHR.FoxSiblings_FR-FR2060814821_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FoxSiblings_FR-FR2060814821_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Le regard pétillant de ruse",
+                "Title": "Deux renardeaux dans le parc national de Karula, Estonie",
+                "Copyright": "© Sven Zacek/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/57.714678,26.486612/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=57.714678,26.486612;S9;Parc national de Karula, Rebasemoisa, Estonie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260410_FoxSiblings\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=journ%c3%a9e+internationale+des+fr%c3%a8res+et+s%c5%93urs&form=hpcapt&filters=HpDate:\"20260409_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260410_FoxSiblings"
+            },
+            "Ssd": "20260410",
+            "Name": "FoxSiblings",
+            "Market": "FR-FR",
+            "Hash": "2060814821",
+            "FullDateString": "10 avr. 2026"
+        }
+    },
+    {
         "startdate": "20260408",
         "fullstartdate": "202604082200",
         "enddate": "20260409",

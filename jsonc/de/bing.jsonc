@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260409",
+        "fullstartdate": "202604092200",
+        "enddate": "20260410",
+        "url": "/th?id=OHR.FoxSiblings_DE-DE2992215006_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FoxSiblings_DE-DE2992215006",
+        "copyright": "Zwei junge Rotfüchse im Nationalpark Karula, Estland (© Sven Zacek/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Tag+der+Geschwister&form=hpcapt&filters=HpDate%3a%2220260409_2200%22",
+        "title": "Kleine Pfoten, große Ideen",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260409_FoxSiblings%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "afc65bfeae80675f59cb4ed082da96e4",
+        "hsh": "de5a0f063af005c86bdf0b8285646656",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Zum Tag der Geschwister rückt ein besonderes Band in den Mittelpunkt – und selten zeigt es sich so bezaubernd wie bei diesen beiden jungen Rotfüchsen im estnischen Nationalpark Karula. Eng beieinander sitzen sie im Gras, als würden sie ein stilles Geheimnis teilen. Dieses Zusammensein ist kein Zufall, denn Fuchswelpen wachsen in Würfen auf, in denen Nähe und Zusammenarbeit überlebenswichtig sind.",
+                "Image": {
+                    "Url": "/th?id=OHR.FoxSiblings_DE-DE2992215006_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FoxSiblings_DE-DE2992215006_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Kleine Pfoten, große Ideen",
+                "Title": "Zwei junge Rotfüchse im Nationalpark Karula, Estland",
+                "Copyright": "© Sven Zacek/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/57.714678,26.486612/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=57.714678,26.486612;S9;Nationalpark Karula, Estland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260410_FoxSiblings\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tag+der+Geschwister&form=hpcapt&filters=HpDate:\"20260409_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260410_FoxSiblings"
+            },
+            "Ssd": "20260410",
+            "Name": "FoxSiblings",
+            "Market": "DE-DE",
+            "Hash": "2992215006",
+            "FullDateString": "10. Apr.. 2026"
+        }
+    },
+    {
         "startdate": "20260408",
         "fullstartdate": "202604082200",
         "enddate": "20260409",

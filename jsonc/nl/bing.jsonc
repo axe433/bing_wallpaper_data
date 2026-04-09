@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260409",
+        "fullstartdate": "202604090700",
+        "enddate": "20260410",
+        "url": "/th?id=OHR.WalesWaterfall_ROW4607856907_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WalesWaterfall_ROW4607856907",
+        "copyright": "Sgwd yr Eira waterfall, Bannau Brycheiniog National Park, Wales (© Guy Edwardes/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Bannau+Brycheiniog+National+Park&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260409_WalesWaterfall%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a05ef19cc2dd46f670aedb807eb55e39",
+        "hsh": "ee78483158d9711f7efee646900b6f7e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Water spills in clean lines at Sgwd yr Eira, one of South Wales' most distinctive waterfalls. Its Welsh name means 'Waterfall of Snow,' referring to the pale curtain of water sliding over the rock face. What sets this waterfall apart is access. A narrow path leads visitors behind the falling water, immersing them in sound, light and movement at close range. Sgwd yr Eira lies within Bannau Brycheiniog National Park, often called 'Waterfall Country' for its network of rivers and falls carved into wooded gorges. Well-marked trails connect this waterfall to others along the River Hepste, making it a popular stop on longer hikes. Above the valleys, the landscape opens into rolling moorland and long ridgelines where upland paths are shaped by wind and changing weather. These contrasts define the Bannau Brycheiniog, where open, exposed uplands give way to sheltered water, tying the landscape together.",
+                "Image": {
+                    "Url": "/th?id=OHR.WalesWaterfall_ROW4607856907_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WalesWaterfall_ROW4607856907_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Sgwd yr Eira waterfall, Bannau Brycheiniog National Park, Wales",
+                "Copyright": "© Guy Edwardes/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260409_WalesWaterfall\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Bannau+Brycheiniog+National+Park&form=hpcapt&filters=HpDate:\"20260409_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260409_WalesWaterfall"
+            },
+            "Ssd": "20260409",
+            "Name": "WalesWaterfall",
+            "Market": "ROW",
+            "Hash": "4607856907",
+            "FullDateString": "9 apr., 2026"
+        }
+    },
+    {
         "startdate": "20260408",
         "fullstartdate": "202604080700",
         "enddate": "20260409",

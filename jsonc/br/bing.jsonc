@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260409",
+        "fullstartdate": "202604090300",
+        "enddate": "20260410",
+        "url": "/th?id=OHR.WalesWaterfall_PT-BR0581576089_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WalesWaterfall_PT-BR0581576089",
+        "copyright": "Cachoeira Sgwd yr Eira, Parque Nacional Bannau Brycheiniog, País de Gales (© Guy Edwardes/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=o+Parque+Nacional+Bannau+Brycheiniog&form=hpcapt&mkt=pt-br",
+        "title": "O lado oculto das quedas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260409_WalesWaterfall%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a05ef19cc2dd46f670aedb807eb55e39",
+        "hsh": "f4cb09e42f925e16bbb332fa2a381ac0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Há cachoeiras para contemplar de longe. Outras, como a da imagem, nos convidam a atravessá-las. A Sgwd yr Eira, no País de Gales, cai em um véu branco tão uniforme que seu nome passa a fazer sentido: em galês, significa “Cachoeira da Neve”. Ela faz parte do Parque Nacional Bannau Brycheiniog, em uma famosa região conhecida como Waterfall Country, ou “Terra das Cachoeiras”, apelido merecido para um vale onde rios escavaram desfiladeiros arborizados e deixaram uma sequência quase contínua de cascatas.",
+                "Image": {
+                    "Url": "/th?id=OHR.WalesWaterfall_PT-BR0581576089_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WalesWaterfall_PT-BR0581576089_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O lado oculto das quedas",
+                "Title": "Cachoeira Sgwd yr Eira, Parque Nacional Bannau Brycheiniog, País de Gales",
+                "Copyright": "© Guy Edwardes/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260409_WalesWaterfall\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=o+Parque+Nacional+Bannau+Brycheiniog&form=hpcapt&filters=HpDate:\"20260409_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260409_WalesWaterfall"
+            },
+            "Ssd": "20260409",
+            "Name": "WalesWaterfall",
+            "Market": "PT-BR",
+            "Hash": "0581576089",
+            "FullDateString": "9 abr. 2026"
+        }
+    },
+    {
         "startdate": "20260408",
         "fullstartdate": "202604080300",
         "enddate": "20260409",
