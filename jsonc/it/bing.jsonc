@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260410",
+        "fullstartdate": "202604102200",
+        "enddate": "20260411",
+        "url": "/th?id=OHR.PlayaPapagayo_IT-IT2334533748_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PlayaPapagayo_IT-IT2334533748",
+        "copyright": "Spiaggia di Papagayo, Lanzarote, Isole Canarie, Spagna (© Gavin Hellier/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Isole+Canarie&form=hpcapt",
+        "title": "Vena vulcanica",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260410_PlayaPapagayo%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "548417dc171ac1057ee6fadc423b8bdf",
+        "hsh": "e967d90f2aa32f6896d2f89be378a622",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Una spiaggia nata dal fuoco raramente lo fa con discrezione, eppure la spiaggia di Papagayo riesce esattamente in questo. La riva che ammiriamo oggi si trova all’estremità meridionale di Lanzarote, una delle isole Canarie, in Spagna. Fantasia tropicale? Più che altro precisione vulcanica. Milioni di anni fa, questa terra emerse in strati successivi di basalto e cenere, spinti verso l’alto da eruzioni sottomarine.",
+                "Image": {
+                    "Url": "/th?id=OHR.PlayaPapagayo_IT-IT2334533748_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PlayaPapagayo_IT-IT2334533748_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Vena vulcanica",
+                "Title": "Spiaggia di Papagayo, Lanzarote, Isole Canarie, Spagna",
+                "Copyright": "© Gavin Hellier/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/28.84295,-13.78824/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=28.84295,-13.78824;S9;Spiaggia di Papagayo, Lanzarote, Isole Canarie, Spagna&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260411_PlayaPapagayo\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Isole+Canarie&form=hpcapt&filters=HpDate:\"20260410_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260411_PlayaPapagayo"
+            },
+            "Ssd": "20260411",
+            "Name": "PlayaPapagayo",
+            "Market": "IT-IT",
+            "Hash": "2334533748",
+            "FullDateString": "11 aprile 2026"
+        }
+    },
+    {
         "startdate": "20260409",
         "fullstartdate": "202604092200",
         "enddate": "20260410",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260410",
+        "fullstartdate": "202604102200",
+        "enddate": "20260411",
+        "url": "/th?id=OHR.PlayaPapagayo_ES-ES6446610694_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PlayaPapagayo_ES-ES6446610694",
+        "copyright": "Playas de Papagayo, Lanzarote, Islas Canarias (© Gavin Hellier/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Playas+de+Papagayo+Lanzarote&form=hpcapt&filters=HpDate%3a%2220260410_2200%22",
+        "title": "Origen volcánico",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260410_PlayaPapagayo%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "548417dc171ac1057ee6fadc423b8bdf",
+        "hsh": "b36994fae316c7d0cd5a5b0b649b4ce5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Las Playas de Papagayo se esconden en el sur de Lanzarote como un pequeño tesoro natural protegido. Calas de arena clara y forma delicada se abren entre colinas volcánicas de tonos ocres, creando un contraste que sorprende al primer vistazo. El mar suele mostrarse tranquilo y transparente, ideal para nadar y observar el fondo marino con calma.",
+                "Image": {
+                    "Url": "/th?id=OHR.PlayaPapagayo_ES-ES6446610694_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PlayaPapagayo_ES-ES6446610694_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Origen volcánico",
+                "Title": "Playas de Papagayo, Lanzarote, Islas Canarias",
+                "Copyright": "© Gavin Hellier/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/28.84295,-13.78824/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=28.84295,-13.78824;S9;Playas de Papagayo, Lanzarote, Islas Canarias&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260411_PlayaPapagayo\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Playas+de+Papagayo+Lanzarote&form=hpcapt&filters=HpDate:\"20260410_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260411_PlayaPapagayo"
+            },
+            "Ssd": "20260411",
+            "Name": "PlayaPapagayo",
+            "Market": "ES-ES",
+            "Hash": "6446610694",
+            "FullDateString": "11 de abr. de 2026"
+        }
+    },
+    {
         "startdate": "20260409",
         "fullstartdate": "202604092200",
         "enddate": "20260410",

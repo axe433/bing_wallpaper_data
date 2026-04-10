@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260410",
+        "fullstartdate": "202604100700",
+        "enddate": "20260411",
+        "url": "/th?id=OHR.FoxSiblings_ROW1554598734_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FoxSiblings_ROW1554598734",
+        "copyright": "Two young red foxes at Karula National Park, Estonia (© Sven Zacek/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Karula+National+Park&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260410_FoxSiblings%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "afc65bfeae80675f59cb4ed082da96e4",
+        "hsh": "4d3b2219714a91900e4ed21ae309b004",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ever caught siblings plotting? In Karula National Park, Estonia, it looks as though these two red fox kits froze mid-conspiracy, their expressions mirrored in curiosity and caution. They're not just springtime fluff; they're apprentices in survival. Born in litters averaging four to six kits, foxes grow quickly, their underground den becoming a wrestling ring, classroom and testing ground. Older kits often help feed, guard and teach the younger ones, turning play into practice and mischief into muscle memory.",
+                "Image": {
+                    "Url": "/th?id=OHR.FoxSiblings_ROW1554598734_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FoxSiblings_ROW1554598734_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Two young red foxes at Karula National Park, Estonia",
+                "Copyright": "© Sven Zacek/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260410_FoxSiblings\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Karula+National+Park&form=hpcapt&filters=HpDate:\"20260410_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260410_FoxSiblings"
+            },
+            "Ssd": "20260410",
+            "Name": "FoxSiblings",
+            "Market": "ROW",
+            "Hash": "1554598734",
+            "FullDateString": "10. apr. 2026"
+        }
+    },
+    {
         "startdate": "20260409",
         "fullstartdate": "202604090700",
         "enddate": "20260410",

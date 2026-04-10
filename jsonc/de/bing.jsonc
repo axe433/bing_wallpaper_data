@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260410",
+        "fullstartdate": "202604102200",
+        "enddate": "20260411",
+        "url": "/th?id=OHR.PlayaPapagayo_DE-DE0494036913_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PlayaPapagayo_DE-DE0494036913",
+        "copyright": "Playa del Papagayo, Lanzarote, Kanarische Inseln, Spanien (© Gavin Hellier/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lanzarote+Kanarische+Inseln+Spanien&form=hpcapt&filters=HpDate%3a%2220260410_2200%22",
+        "title": "Wo Lava auf Meer trifft",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260410_PlayaPapagayo%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "548417dc171ac1057ee6fadc423b8bdf",
+        "hsh": "b89acf507f40719000f071f68b86cfcf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "An der Südküste Lanzarotes, einer zu Spanien gehörenden Insel der Kanaren, liegt die Playa del Papagayo, eine geschützte Bucht vulkanischen Ursprungs. Vor Millionen von Jahren entstand hier Land aus Basalt, Asche und Lava, das später durch Wind und Wasser geglättet wurde. Die rund 120 Meter lange Bucht gehört zum Naturdenkmal Los Ajaches und ist bis heute bewusst nur wenig erschlossen.",
+                "Image": {
+                    "Url": "/th?id=OHR.PlayaPapagayo_DE-DE0494036913_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PlayaPapagayo_DE-DE0494036913_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Wo Lava auf Meer trifft",
+                "Title": "Playa del Papagayo, Lanzarote, Kanarische Inseln, Spanien",
+                "Copyright": "© Gavin Hellier/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/28.84295,-13.78824/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=28.84295,-13.78824;S9;Playa del Papagayo, Lanzarote, Kanarische Inseln, Spanien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260411_PlayaPapagayo\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lanzarote+Kanarische+Inseln+Spanien&form=hpcapt&filters=HpDate:\"20260410_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260411_PlayaPapagayo"
+            },
+            "Ssd": "20260411",
+            "Name": "PlayaPapagayo",
+            "Market": "DE-DE",
+            "Hash": "0494036913",
+            "FullDateString": "11. Apr.. 2026"
+        }
+    },
+    {
         "startdate": "20260409",
         "fullstartdate": "202604092200",
         "enddate": "20260410",
