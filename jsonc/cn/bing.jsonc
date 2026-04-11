@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260411",
+        "fullstartdate": "202604111600",
+        "enddate": "20260412",
+        "url": "/th?id=OHR.SpaceTrails_ZH-CN8377463217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpaceTrails_ZH-CN8377463217",
+        "copyright": "城市灯光在下方划过, 拍摄于国际空间站 (© NASA)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E4%BA%BA%E7%B1%BB%E8%88%AA%E5%A4%A9%E6%97%A5&form=hpcapt&mkt=zh-cn",
+        "title": "离开地球的第一步",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260411_SpaceTrails%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9a1ee8f412a5a334136aaefecbfa8183",
+        "hsh": "c4b71ecc2cdff3cf5ed78dd6f376319a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今天，世界纪念国际载人航天日，这是联合国设立的纪念日，旨在纪念人类首次进入太空的旅程以及人类太空时代的开始。这个日期回忆起1961年4月12日，尤里·加加林绕地球飞行，证明人类可以离开地球并安全返回。",
+                "Image": {
+                    "Url": "/th?id=OHR.SpaceTrails_ZH-CN8377463217_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpaceTrails_ZH-CN8377463217_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "离开地球的第一步",
+                "Title": "城市灯光在下方划过, 拍摄于国际空间站",
+                "Copyright": "© NASA",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "联合国在2011年设立了国际人类航天日，距首次有人类航天飞行已有50年。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260412_SpaceTrails\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%9b%bd%e9%99%85%e4%ba%ba%e7%b1%bb%e8%88%aa%e5%a4%a9%e6%97%a5&form=hpcapt&filters=HpDate:\"20260411_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260412_SpaceTrails"
+            },
+            "Ssd": "20260412",
+            "Name": "SpaceTrails",
+            "Market": "ZH-CN",
+            "Hash": "8377463217",
+            "FullDateString": "2026 4月 12"
+        }
+    },
+    {
         "startdate": "20260410",
         "fullstartdate": "202604101600",
         "enddate": "20260411",

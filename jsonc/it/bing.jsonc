@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260411",
+        "fullstartdate": "202604112200",
+        "enddate": "20260412",
+        "url": "/th?id=OHR.SpaceTrails_IT-IT2393301171_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpaceTrails_IT-IT2393301171",
+        "copyright": "Luci della città scorrono sotto, immortalate dalla Stazione Spaziale  Internazionale (© NASA)",
+        "copyrightlink": "https://www.bing.com/search?q=Giornata+internazionale+del+volo+spaziale+umano&form=hpcapt",
+        "title": "Rotazioni e riflessi",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260411_SpaceTrails%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9a1ee8f412a5a334136aaefecbfa8183",
+        "hsh": "0c36000a1ab3aab90670d07643761055",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Oggi il mondo celebra la «Giornata internazionale del volo spaziale umano», ricorrenza delle Nazioni Unite che ricorda il 12 aprile 1961, quando Jurij Gagarin orbitò attorno alla Terra dimostrando che l’umanità poteva lasciare il pianeta e farvi ritorno in sicurezza. Quello stesso spirito vive oggi sulla Stazione spaziale internazionale (ISS), la quale orbita a circa 400 km di quota e compie un giro completo della Terra ogni novanta minuti, regalando agli astronauti fino a sedici albe e altrettanti tramonti al giorno.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpaceTrails_IT-IT2393301171_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpaceTrails_IT-IT2393301171_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Rotazioni e riflessi",
+                "Title": "Luci della città scorrono sotto, immortalate dalla Stazione Spaziale  Internazionale",
+                "Copyright": "© NASA",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Nel 2011, a 50 anni dal primo volo spaziale con equipaggio umano, l'ONU ha  istituito la Giornata internazionale del volo spaziale con equipaggio umano.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260412_SpaceTrails\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Giornata+internazionale+del+volo+spaziale+umano&form=hpcapt&filters=HpDate:\"20260411_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260412_SpaceTrails"
+            },
+            "Ssd": "20260412",
+            "Name": "SpaceTrails",
+            "Market": "IT-IT",
+            "Hash": "2393301171",
+            "FullDateString": "12 aprile 2026"
+        }
+    },
+    {
         "startdate": "20260410",
         "fullstartdate": "202604102200",
         "enddate": "20260411",

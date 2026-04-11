@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260411",
+        "fullstartdate": "202604110700",
+        "enddate": "20260412",
+        "url": "/th?id=OHR.PlayaPapagayo_ROW1699824695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PlayaPapagayo_ROW1699824695",
+        "copyright": "Papagayo Beach, Lanzarote, Canary Islands, Spain (© Gavin Hellier/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lanzarote+Canary+Islands+Spain&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260411_PlayaPapagayo%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "548417dc171ac1057ee6fadc423b8bdf",
+        "hsh": "45855cf3996faea6d5884628c4edc9c0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A beach born from fire rarely does so subtly, yet Papagayo Beach manages exactly that. The shoreline we see today rests on the southern edge of Lanzarote, one of Spain's Canary Islands. Tropical fantasy? More like volcanic precision. Millions of years ago, this land rose in successive layers of basalt and ash thrust upward by submarine eruptions.",
+                "Image": {
+                    "Url": "/th?id=OHR.PlayaPapagayo_ROW1699824695_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PlayaPapagayo_ROW1699824695_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Papagayo Beach, Lanzarote, Canary Islands, Spain",
+                "Copyright": "© Gavin Hellier/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260411_PlayaPapagayo\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lanzarote+Canary+Islands+Spain&form=hpcapt&filters=HpDate:\"20260411_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260411_PlayaPapagayo"
+            },
+            "Ssd": "20260411",
+            "Name": "PlayaPapagayo",
+            "Market": "ROW",
+            "Hash": "1699824695",
+            "FullDateString": "11 abr. 2026"
+        }
+    },
+    {
         "startdate": "20260410",
         "fullstartdate": "202604100700",
         "enddate": "20260411",

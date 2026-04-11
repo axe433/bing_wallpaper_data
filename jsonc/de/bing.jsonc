@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260411",
+        "fullstartdate": "202604112200",
+        "enddate": "20260412",
+        "url": "/th?id=OHR.SpaceTrails_DE-DE4428560014_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpaceTrails_DE-DE4428560014",
+        "copyright": "Lichterspuren der Erde, aufgenommen von der Internationalen Raumstation (© NASA)",
+        "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+der+bemannten+Raumfahrt&form=hpcapt&filters=HpDate%3a%2220260411_2200%22",
+        "title": "Der erste Schritt ins All",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260411_SpaceTrails%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9a1ee8f412a5a334136aaefecbfa8183",
+        "hsh": "17678ce55ed1293fad7a050e56d46ac6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Der Internationale Tag der bemannten Raumfahrt erinnert an einen Wendepunkt der Menschheitsgeschichte. Am 12. April 1961 umkreiste Juri Gagarin erstmals die Erde und kehrte sicher zurück – ein Ereignis, das den Beginn der modernen Raumfahrt markierte. Ein deutscher Meilenstein folgte 1978, als Sigmund Jähn im Rahmen des sowjetischen Interkosmos‑Programms als erster Deutscher ins All flog. Während seines Aufenthalts führte er wissenschaftliche Experimente durch und sammelte Erfahrungen, die den internationalen Austausch in der Raumfahrt förderten.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpaceTrails_DE-DE4428560014_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpaceTrails_DE-DE4428560014_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Der erste Schritt ins All",
+                "Title": "Lichterspuren der Erde, aufgenommen von der Internationalen Raumstation",
+                "Copyright": "© NASA",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Die Vereinten Nationen führten den Internationalen Tag der bemannten Raumfahrt im Jahr 2011 ein, 50 Jahre nach dem ersten bemannten Raumflug.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260412_SpaceTrails\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Internationaler+Tag+der+bemannten+Raumfahrt&form=hpcapt&filters=HpDate:\"20260411_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260412_SpaceTrails"
+            },
+            "Ssd": "20260412",
+            "Name": "SpaceTrails",
+            "Market": "DE-DE",
+            "Hash": "4428560014",
+            "FullDateString": "12. Apr.. 2026"
+        }
+    },
+    {
         "startdate": "20260410",
         "fullstartdate": "202604102200",
         "enddate": "20260411",

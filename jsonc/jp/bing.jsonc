@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260411",
+        "fullstartdate": "202604111500",
+        "enddate": "20260412",
+        "url": "/th?id=OHR.SpaceTrails_JA-JP7486143829_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpaceTrails_JA-JP7486143829",
+        "copyright": "光の筋となる都市の夜景, 国際宇宙ステーション (© NASA)",
+        "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E5%AE%87%E5%AE%99%E9%A3%9B%E8%A1%8C%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260411_1500%22",
+        "title": "今日は世界宇宙飛行の日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260411_SpaceTrails%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9a1ee8f412a5a334136aaefecbfa8183",
+        "hsh": "68d7c3e06092e15a2384b0149e14d4c2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 4 月 12 日は世界宇宙飛行の日。1961 年、ロシアの宇宙飛行士ユーリイ・ガガーリンが、史上初の有人宇宙飛行に成功した日です。彼の宇宙探求の精神は、現在、地上から約 400km 上空に建設された巨大な有人実験施設である国際宇宙ステーション (ISS) に受け継がれています。2000 年から継続的に有人運用されている ISS では、宇宙飛行士たちが日々、地球を観測しながら医学や気候化学などの研究を行い、人類が地球外で生活し働く可能性を探っています。",
+                "Image": {
+                    "Url": "/th?id=OHR.SpaceTrails_JA-JP7486143829_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpaceTrails_JA-JP7486143829_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日は世界宇宙飛行の日",
+                "Title": "光の筋となる都市の夜景, 国際宇宙ステーション",
+                "Copyright": "© NASA",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "無重力環境では筋肉や骨が弱くなるため、宇宙飛行士はその低下を防ぐ目的で、筋力トレーニングなどの運動を毎日約 2 時間行っています。",
+                    "LinkUrl": "/search?q=%e5%9b%bd%e9%9a%9b%e5%ae%87%e5%ae%99%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e5%86%85%e9%83%a8%e3%81%ae%e9%87%8d%e5%8a%9b%e3%81%af%e3%81%a9%e3%81%86%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%ef%bc%9f&form=hpvsfa",
+                    "LinkText": "国際宇宙ステーション内部の重力はどうなっている？"
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260412_SpaceTrails\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e4%b8%96%e7%95%8c%e5%ae%87%e5%ae%99%e9%a3%9b%e8%a1%8c%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate:\"20260411_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260412_SpaceTrails"
+            },
+            "Ssd": "20260412",
+            "Name": "SpaceTrails",
+            "Market": "JA-JP",
+            "Hash": "7486143829",
+            "FullDateString": "2026 年 4月 月 12 日"
+        }
+    },
+    {
         "startdate": "20260410",
         "fullstartdate": "202604101500",
         "enddate": "20260411",
