@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260412",
+        "fullstartdate": "202604122200",
+        "enddate": "20260413",
+        "url": "/th?id=OHR.BorregoStars_IT-IT3311374255_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BorregoStars_IT-IT3311374255",
+        "copyright": "La Via Lattea sopra l'Anza-Borrego Desert State Park, California, USA (© Kevin Key/Slworking/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Il+cielo&form=hpcapt",
+        "title": "Brilla nella notte",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260412_BorregoStars%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2e2b2d3600cc487f86d427d5330d3620",
+        "hsh": "1905363dabb48bc87fb90b797aa975da",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Quando le luci si spengono, l’universo dà spettacolo. La «Settimana internazionale del cielo scuro», celebrata ogni aprile, invita a riscoprire la notte e a comprendere le ragioni per cui il buio vada protetto. L'iniziativa, lanciata nel 2003, evidenzia come l’eccessiva luce artificiale influisca sulla fauna, sulla salute, sul risparmio energetico e sull’osservazione degli astri. Una riduzione dei punti luce non comporta necessariamente una minore sicurezza; al contrario, un’illuminazione intelligente può garantire entrambi i benefici.",
+                "Image": {
+                    "Url": "/th?id=OHR.BorregoStars_IT-IT3311374255_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BorregoStars_IT-IT3311374255_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Brilla nella notte",
+                "Title": "La Via Lattea sopra l'Anza-Borrego Desert State Park, California, USA",
+                "Copyright": "© Kevin Key/Slworking/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/33.100494,-116.301331/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=33.100494,-116.301331;S9;Anza-Borrego Desert State Park, Borrego Springs, California, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260413_BorregoStars\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Il+cielo&form=hpcapt&filters=HpDate:\"20260412_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260413_BorregoStars"
+            },
+            "Ssd": "20260413",
+            "Name": "BorregoStars",
+            "Market": "IT-IT",
+            "Hash": "3311374255",
+            "FullDateString": "13 aprile 2026"
+        }
+    },
+    {
         "startdate": "20260411",
         "fullstartdate": "202604112200",
         "enddate": "20260412",

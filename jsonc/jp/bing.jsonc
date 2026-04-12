@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260412",
+        "fullstartdate": "202604121500",
+        "enddate": "20260413",
+        "url": "/th?id=OHR.BorregoStars_JA-JP7872026496_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BorregoStars_JA-JP7872026496",
+        "copyright": "アンザ・ボレゴ砂漠州立公園, 米国 カリフォルニア州 (© Kevin Key/Slworking)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%9B%BD%E9%9A%9B%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF&form=hpcapt&filters=HpDate%3a%2220260412_1500%22",
+        "title": "今日から国際ダークスカイ・ウィーク",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260412_BorregoStars%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2e2b2d3600cc487f86d427d5330d3620",
+        "hsh": "671525c6a678567386f4b56cba0322b9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 4 月 13 日から 20 日は「国際ダークスカイ・ウィーク」です。美しい星空を見つめ直し、光害について認識を深めることを目的に、ダークスカイ・インターナショナルが開催しているキャンペーンです。そして、今日の画像は、アンザ・ボレゴ砂漠州立公園の上空に広がる天の川。公園は、米国カリフォルニア州最大級の州立公園で、晴れた夜には惑星や星団を観察できることから、国際ダークスカイ公園に指定されています。",
+                "Image": {
+                    "Url": "/th?id=OHR.BorregoStars_JA-JP7872026496_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BorregoStars_JA-JP7872026496_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日から国際ダークスカイ・ウィーク",
+                "Title": "アンザ・ボレゴ砂漠州立公園, 米国 カリフォルニア州",
+                "Copyright": "© Kevin Key/Slworking",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/33.100494,-116.301331/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=33.100494,-116.301331;S9;アンザ・ボレゴ砂漠州立公園, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260413_BorregoStars%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260413_BorregoStars\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%9b%bd%e9%9a%9b%e3%83%80%e3%83%bc%e3%82%af%e3%82%b9%e3%82%ab%e3%82%a4%e3%83%bb%e3%82%a6%e3%82%a3%e3%83%bc%e3%82%af&form=hpcapt&filters=HpDate:\"20260412_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260413_BorregoStars"
+            },
+            "Ssd": "20260413",
+            "Name": "BorregoStars",
+            "Market": "JA-JP",
+            "Hash": "7872026496",
+            "FullDateString": "2026 年 4月 月 13 日"
+        }
+    },
+    {
         "startdate": "20260411",
         "fullstartdate": "202604111500",
         "enddate": "20260412",

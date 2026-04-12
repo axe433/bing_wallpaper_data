@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260412",
+        "fullstartdate": "202604120300",
+        "enddate": "20260413",
+        "url": "/th?id=OHR.SpaceTrails_PT-BR7404949008_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpaceTrails_PT-BR7404949008",
+        "copyright": "Luzes vistas da Estação Espacial Internacional (© NASA)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+Internacional+do+Voo+Espacial+Humano&form=hpcapt&mkt=pt-br",
+        "title": "Uma vista privilegiada",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260412_SpaceTrails%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9a1ee8f412a5a334136aaefecbfa8183",
+        "hsh": "0a3a27aa7bbf0a0da70f5bf2f17596f1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Em 12 de abril de 1961, Yuri Gagarin mostrou que sair do planeta e voltar em segurança não era ficção. Décadas depois, o marco virou Dia Internacional do Voo Espacial Humano no calendário das Nações Unidas, um lembrete anual de quando a curiosidade humana ganhou altitude.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpaceTrails_PT-BR7404949008_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpaceTrails_PT-BR7404949008_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Uma vista privilegiada",
+                "Title": "Luzes vistas da Estação Espacial Internacional",
+                "Copyright": "© NASA",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260412_SpaceTrails\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dia+Internacional+do+Voo+Espacial+Humano&form=hpcapt&filters=HpDate:\"20260412_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260412_SpaceTrails"
+            },
+            "Ssd": "20260412",
+            "Name": "SpaceTrails",
+            "Market": "PT-BR",
+            "Hash": "7404949008",
+            "FullDateString": "12 abr. 2026"
+        }
+    },
+    {
         "startdate": "20260411",
         "fullstartdate": "202604110300",
         "enddate": "20260412",

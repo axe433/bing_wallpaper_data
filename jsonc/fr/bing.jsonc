@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260412",
+        "fullstartdate": "202604122200",
+        "enddate": "20260413",
+        "url": "/th?id=OHR.BorregoStars_FR-FR4220178429_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BorregoStars_FR-FR4220178429",
+        "copyright": "La Voie lactée au-dessus du parc d’État du désert d’Anza-Borrego, Californie, États-Unis (© Kevin Key/Slworking/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Voie+lact%C3%A9e&form=hpcapt&filters=HpDate%3a%2220260412_2200%22",
+        "title": "Moins éclairer pour mieux observer",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260412_BorregoStars%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2e2b2d3600cc487f86d427d5330d3620",
+        "hsh": "a52198d49808e9d1551d5d80760d1062",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Lorsque les lumières s’éteignent, l’univers peut enfin briller à nouveau. Chaque mois d’avril, la Semaine internationale du ciel étoilé nous invite à redécouvrir la nuit et à mieux comprendre pourquoi elle mérite d’être protégée. Depuis 2003, cet événement nous rappelle que l’excès de lumière artificielle perturbe la faune, notre sommeil, notre consommation d’énergie… et notre capacité à voir les étoiles. Réduire l’éclairage ne signifie pas renoncer à la sécurité : il suffit de mieux éclairer, pas davantage.",
+                "Image": {
+                    "Url": "/th?id=OHR.BorregoStars_FR-FR4220178429_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BorregoStars_FR-FR4220178429_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Moins éclairer pour mieux observer",
+                "Title": "La Voie lactée au-dessus du parc d’État du désert d’Anza-Borrego, Californie, États-Unis",
+                "Copyright": "© Kevin Key/Slworking/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/33.100494,-116.301331/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=33.100494,-116.301331;S9;Parc d’État du désert d’Anza-Borrego, Californie, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260413_BorregoStars\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Voie+lact%c3%a9e&form=hpcapt&filters=HpDate:\"20260412_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260413_BorregoStars"
+            },
+            "Ssd": "20260413",
+            "Name": "BorregoStars",
+            "Market": "FR-FR",
+            "Hash": "4220178429",
+            "FullDateString": "13 avr. 2026"
+        }
+    },
+    {
         "startdate": "20260411",
         "fullstartdate": "202604112200",
         "enddate": "20260412",

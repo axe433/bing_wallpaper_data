@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260412",
+        "fullstartdate": "202604122200",
+        "enddate": "20260413",
+        "url": "/th?id=OHR.ChiffchaffSpring_DE-DE4997065919_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ChiffchaffSpring_DE-DE4997065919",
+        "copyright": "Zilpzalp, Deutschland (© Andyworks/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Zilpzalp&form=hpcapt&filters=HpDate%3a%2220260412_2200%22",
+        "title": "Ein Vogel mit gutem Ruf",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260412_ChiffchaffSpring%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ddb4c702017c1860b1980281ae4b6836",
+        "hsh": "7f2c8433b102577c64b88dfad63e15af",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Klein, lebhaft und sofort am Ruf zu erkennen: Der Zilpzalp gehört zu den häufigsten Singvögeln Deutschlands und ist ein echter Vorbote des Frühjahrs. Schon ab Ende Februar kehren die ersten Männchen aus ihren Winterquartieren im Mittelmeerraum oder Südwesteuropa zurück und beginnen mit dem charakteristischen Gesang, der der Art ihren Namen gegeben hat. Dieses prägnante „zilp‑zalp‑zilp‑zalp“ macht ihn selbst dann gut auffindbar, wenn er in dichter Vegetation verborgen bleibt.",
+                "Image": {
+                    "Url": "/th?id=OHR.ChiffchaffSpring_DE-DE4997065919_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ChiffchaffSpring_DE-DE4997065919_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ein Vogel mit gutem Ruf",
+                "Title": "Zilpzalp, Deutschland",
+                "Copyright": "© Andyworks/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Der Zilpzalp kann pro Brutzeit bis zu 7.000 Insekten für seinen Nachwuchs sammeln und trägt damit wesentlich zur Schädlingskontrolle bei.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260413_ChiffchaffSpring\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Zilpzalp&form=hpcapt&filters=HpDate:\"20260412_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260413_ChiffchaffSpring"
+            },
+            "Ssd": "20260413",
+            "Name": "ChiffchaffSpring",
+            "Market": "DE-DE",
+            "Hash": "4997065919",
+            "FullDateString": "13. Apr.. 2026"
+        }
+    },
+    {
         "startdate": "20260411",
         "fullstartdate": "202604112200",
         "enddate": "20260412",
