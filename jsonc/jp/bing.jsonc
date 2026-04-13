@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260413",
+        "fullstartdate": "202604131500",
+        "enddate": "20260414",
+        "url": "/th?id=OHR.OcellarisClownfish_JA-JP4425106127_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OcellarisClownfish_JA-JP4425106127",
+        "copyright": "クマノミ, インドネシア (© Magnus Lundgren/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%AF%E3%83%9E%E3%83%8E%E3%83%9F&form=hpcapt&filters=HpDate%3a%2220260413_1500%22",
+        "title": "イソギンチャクの中で身を寄せる小魚",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260413_OcellarisClownfish%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "07dfaacb3913835c54d6dde6cb47804a",
+        "hsh": "1bd359d6594a820eaf6965c6f7b6d0c8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "イソギンチャクは、植物のようにも見えますが、実際はクラゲやサンゴに近い動物です。岩などに付着して生息し、毒針のついた糸が入ったカプセル状の「刺胞」をもつ触手で獲物を捕らえます。そして、画像はそんなイソギンチャクと共生するクマノミ。インドネシアのラジャ・アンパット諸島で撮影されたものです。クマノミは、刺胞から身を守る特殊な粘液によって、イソギンチャクの触手を安全な住処としており、そのお返しに、捕食者を追い払ったりイソギンチャクに食べ残しを与えたりしています。",
+                "Image": {
+                    "Url": "/th?id=OHR.OcellarisClownfish_JA-JP4425106127_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OcellarisClownfish_JA-JP4425106127_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "イソギンチャクの中で身を寄せる小魚",
+                "Title": "クマノミ, インドネシア",
+                "Copyright": "© Magnus Lundgren/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-0.233312,130.507889/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=-0.233312,130.507889;S9;アンパット諸島, インドネシア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260414_OcellarisClownfish%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260414_OcellarisClownfish\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%af%e3%83%9e%e3%83%8e%e3%83%9f&form=hpcapt&filters=HpDate:\"20260413_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260414_OcellarisClownfish"
+            },
+            "Ssd": "20260414",
+            "Name": "OcellarisClownfish",
+            "Market": "JA-JP",
+            "Hash": "4425106127",
+            "FullDateString": "2026 年 4月 月 14 日"
+        }
+    },
+    {
         "startdate": "20260412",
         "fullstartdate": "202604121500",
         "enddate": "20260413",

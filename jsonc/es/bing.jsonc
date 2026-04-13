@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260413",
+        "fullstartdate": "202604132200",
+        "enddate": "20260414",
+        "url": "/th?id=OHR.OcellarisClownfish_ES-ES6754950938_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OcellarisClownfish_ES-ES6754950938",
+        "copyright": "Pez payaso en una anémona de mar, islas Raja Ampat, Indonesia (© Magnus Lundgren/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Pez+payaso&form=hpcapt&filters=HpDate%3a%2220260413_2200%22",
+        "title": "Compañeros del arrecife",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260413_OcellarisClownfish%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "07dfaacb3913835c54d6dde6cb47804a",
+        "hsh": "9263e321b5dc033e1aa50bd37737ee97",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La imagen de hoy nos lleva a las islas Raja Ampat, en Indonesia, uno de los mares con mayor diversidad del planeta. Entre corales y aguas claras aparece un pez payaso refugiado en una anémona de mar, una escena tan colorida como reveladora. Estos peces son pequeños, llamativos y muy territoriales, y pasan gran parte de su vida ligados a un mismo hogar. Su nado ágil y sus franjas contrastadas los convierten en uno de los habitantes más reconocibles del arrecife.",
+                "Image": {
+                    "Url": "/th?id=OHR.OcellarisClownfish_ES-ES6754950938_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OcellarisClownfish_ES-ES6754950938_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Compañeros del arrecife",
+                "Title": "Pez payaso en una anémona de mar, islas Raja Ampat, Indonesia",
+                "Copyright": "© Magnus Lundgren/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-0.233312,130.507889/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=-0.233312,130.507889;S9;Islas Raja Ampat, Indonesia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260414_OcellarisClownfish\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Pez+payaso&form=hpcapt&filters=HpDate:\"20260413_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260414_OcellarisClownfish"
+            },
+            "Ssd": "20260414",
+            "Name": "OcellarisClownfish",
+            "Market": "ES-ES",
+            "Hash": "6754950938",
+            "FullDateString": "14 de abr. de 2026"
+        }
+    },
+    {
         "startdate": "20260412",
         "fullstartdate": "202604122200",
         "enddate": "20260413",
