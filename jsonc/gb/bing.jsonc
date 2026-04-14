@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260414",
+        "fullstartdate": "202604142300",
+        "enddate": "20260415",
+        "url": "/th?id=OHR.VanGoghFields_EN-GB8594559434_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VanGoghFields_EN-GB8594559434",
+        "copyright": "The Carrières des Lumières exhibit of Vincent van Gogh, Les Baux-de-Provence, France (© Patrick Aventurier/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=World+Art+Day&form=hpcapt&filters=HpDate%3a%2220260414_2300%22",
+        "title": "Stepping inside the living canvas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260414_VanGoghFields%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "b50a44bc4452b2bf8f8087ab2149c8d7",
+        "hsh": "579cbd955226120ade55d45d661e6ab7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Art surrounds us. Creativity and self-expression are part of human identity and mould our past and future. While some might dedicate their lives to the arts, others are the recipients of what artists channel. World Art Day on April 15 celebrates this ever-flowing link between artistic creations and society that shapes our cultures.",
+                "Image": {
+                    "Url": "/th?id=OHR.VanGoghFields_EN-GB8594559434_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VanGoghFields_EN-GB8594559434_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Stepping inside the living canvas",
+                "Title": "The Carrières des Lumières exhibit of Vincent van Gogh, Les Baux-de-Provence, France",
+                "Copyright": "© Patrick Aventurier/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "World Art Day is held on 15 April to mark the birthday of Leonardo da Vinci, honouring his lasting influence on art and human creativity.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260415_VanGoghFields\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=World+Art+Day&form=hpcapt&filters=HpDate:\"20260414_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260415_VanGoghFields"
+            },
+            "Ssd": "20260415",
+            "Name": "VanGoghFields",
+            "Market": "EN-GB",
+            "Hash": "8594559434",
+            "FullDateString": "15 Apr 2026"
+        }
+    },
+    {
         "startdate": "20260413",
         "fullstartdate": "202604132300",
         "enddate": "20260414",

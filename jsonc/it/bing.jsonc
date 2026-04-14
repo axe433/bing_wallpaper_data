@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260414",
+        "fullstartdate": "202604142200",
+        "enddate": "20260415",
+        "url": "/th?id=OHR.VanGoghFields_IT-IT4420676529_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VanGoghFields_IT-IT4420676529",
+        "copyright": "Mostra dedicata a Vincent van Gogh alle Carrières des Lumières, Les Baux-de-Provence, Francia (© Patrick Aventurier/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Giornata+Mondiale+dell%27+Arte&form=hpcapt",
+        "title": "Oltre la cornice",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260414_VanGoghFields%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "b50a44bc4452b2bf8f8087ab2149c8d7",
+        "hsh": "ec2a366461edb1a830350b4ec016cf26",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "L’arte è ovunque intorno a noi, pronta a sorprenderci e a connetterci. Ogni creazione racconta chi siamo, il nostro passato e ciò che potremo diventare. Il 15 aprile, la «Giornata mondiale dell’arte» celebra questo legame vivo tra artisti, opere e società, un intreccio che plasma profondamente le culture. Immaginate di camminare all’interno delle opere di Vincent van Gogh, circondati dalle pennellate audaci e materiche che prendono vita intorno a voi. È l’esperienza che offriva la mostra «Carrières des Lumières» a Les Baux-de-Provence, in Francia, nel biennio 2019-2020.",
+                "Image": {
+                    "Url": "/th?id=OHR.VanGoghFields_IT-IT4420676529_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VanGoghFields_IT-IT4420676529_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Oltre la cornice",
+                "Title": "Mostra dedicata a Vincent van Gogh alle Carrières des Lumières, Les Baux-de-Provence, Francia",
+                "Copyright": "© Patrick Aventurier/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "La Giornata mondiale dell'arte si celebra il 15 aprile in occasione del compleanno di Leonardo da Vinci, per rendere omaggio alla sua influenza  duratura sull'arte e sulla creatività umana.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260415_VanGoghFields\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Giornata+Mondiale+dell%27+Arte&form=hpcapt&filters=HpDate:\"20260414_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260415_VanGoghFields"
+            },
+            "Ssd": "20260415",
+            "Name": "VanGoghFields",
+            "Market": "IT-IT",
+            "Hash": "4420676529",
+            "FullDateString": "15 aprile 2026"
+        }
+    },
+    {
         "startdate": "20260413",
         "fullstartdate": "202604132200",
         "enddate": "20260414",

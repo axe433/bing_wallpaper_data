@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260414",
+        "fullstartdate": "202604141600",
+        "enddate": "20260415",
+        "url": "/th?id=OHR.VanGoghFields_ZH-CN3495668941_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VanGoghFields_ZH-CN3495668941",
+        "copyright": "光之采石场的文森特·梵高展览, 莱博德普罗旺斯, 法国 (© Patrick Aventurier/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E8%89%BA%E6%9C%AF%E6%97%A5&form=hpcapt&mkt=zh-cn",
+        "title": "走进这幅鲜活的画布",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260414_VanGoghFields%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "b50a44bc4452b2bf8f8087ab2149c8d7",
+        "hsh": "0bade557bcb3291f0c5833bf525d3f99",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "艺术无处不在。创造力和自我表达是人类身份认同的重要组成部分，塑造着我们的过去和未来。有些人毕生致力于艺术，而另一些人则是艺术家作品的受益者。4月15日的世界艺术日旨在庆祝艺术创作与社会之间这种永恒的联系，正是这种联系塑造了我们的文化。",
+                "Image": {
+                    "Url": "/th?id=OHR.VanGoghFields_ZH-CN3495668941_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VanGoghFields_ZH-CN3495668941_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "走进这幅鲜活的画布",
+                "Title": "光之采石场的文森特·梵高展览, 莱博德普罗旺斯, 法国",
+                "Copyright": "© Patrick Aventurier/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "世界艺术日定于4月15日，是为了纪念列奥纳多·达·芬奇的诞辰，表彰他对艺术和人类创造力的深远影响。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260415_VanGoghFields\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e4%b8%96%e7%95%8c%e8%89%ba%e6%9c%af%e6%97%a5&form=hpcapt&filters=HpDate:\"20260414_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260415_VanGoghFields"
+            },
+            "Ssd": "20260415",
+            "Name": "VanGoghFields",
+            "Market": "ZH-CN",
+            "Hash": "3495668941",
+            "FullDateString": "2026 4月 15"
+        }
+    },
+    {
         "startdate": "20260413",
         "fullstartdate": "202604131600",
         "enddate": "20260414",

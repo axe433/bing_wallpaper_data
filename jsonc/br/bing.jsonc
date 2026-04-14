@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260414",
+        "fullstartdate": "202604140300",
+        "enddate": "20260415",
+        "url": "/th?id=OHR.OcellarisClownfish_PT-BR6919356359_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OcellarisClownfish_PT-BR6919356359",
+        "copyright": "Peixe-palhaço em anêmona-do-mar, Ilhas Raja Ampat, Indonésia (© Magnus Lundgren/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=anemonas+do+mar&form=hpcapt&mkt=pt-br",
+        "title": "Vizinhança letal",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260414_OcellarisClownfish%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "07dfaacb3913835c54d6dde6cb47804a",
+        "hsh": "77d8f453c528e3d266331a25e172e8db",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "À primeira vista, parecem flores submarinas. Mas as anêmonas-do-mar são animais, parentes dos corais e das águas-vivas. Fixas no fundo do oceano, elas balançam tentáculos armados com minúsculos dardos venenosos que paralisam presas desavisadas. Para quase todos ali, é armadilha. Para um morador famoso, é condomínio.",
+                "Image": {
+                    "Url": "/th?id=OHR.OcellarisClownfish_PT-BR6919356359_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OcellarisClownfish_PT-BR6919356359_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Vizinhança letal",
+                "Title": "Peixe-palhaço em anêmona-do-mar, Ilhas Raja Ampat, Indonésia",
+                "Copyright": "© Magnus Lundgren/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260414_OcellarisClownfish\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=anemonas+do+mar&form=hpcapt&filters=HpDate:\"20260414_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260414_OcellarisClownfish"
+            },
+            "Ssd": "20260414",
+            "Name": "OcellarisClownfish",
+            "Market": "PT-BR",
+            "Hash": "6919356359",
+            "FullDateString": "14 abr. 2026"
+        }
+    },
+    {
         "startdate": "20260413",
         "fullstartdate": "202604130300",
         "enddate": "20260414",

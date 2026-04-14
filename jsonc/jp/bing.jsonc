@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260414",
+        "fullstartdate": "202604141500",
+        "enddate": "20260415",
+        "url": "/th?id=OHR.Shibazakura2026_JA-JP4532713069_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Shibazakura2026_JA-JP4532713069",
+        "copyright": "芝桜, 山梨県 (© DoctorEgg/Getty images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E8%8A%9D%E6%A1%9C&form=hpcapt&filters=HpDate%3a%2220260414_1500%22",
+        "title": "富士芝桜まつりが開催中",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260414_Shibazakura2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "037aff8fb6a80ba2b72c8d713083b861",
+        "hsh": "9dcf610ee82e51f4fd424fde66d4e926",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "4 月 11 日から 5 月 24 日まで、山梨県の富士本栖湖リゾートで「富士芝桜まつり」が開催されます。富士山の麓に広がる広大な敷地には、ピンクや白など色とりどりの芝桜が約 50 万株も咲き誇り、春の富士山との美しいコラボレーションを披露してくれます。毎年全国から多くの観光客が訪れており、今年のテーマは「春の特等席。」です。",
+                "Image": {
+                    "Url": "/th?id=OHR.Shibazakura2026_JA-JP4532713069_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Shibazakura2026_JA-JP4532713069_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "富士芝桜まつりが開催中",
+                "Title": "芝桜, 山梨県",
+                "Copyright": "© DoctorEgg/Getty images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.443361,138.604036/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=35.443361,138.604036;S9;富士本栖湖リゾート&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260415_Shibazakura2026%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260415_Shibazakura2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e8%8a%9d%e6%a1%9c&form=hpcapt&filters=HpDate:\"20260414_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260415_Shibazakura2026"
+            },
+            "Ssd": "20260415",
+            "Name": "Shibazakura2026",
+            "Market": "JA-JP",
+            "Hash": "4532713069",
+            "FullDateString": "2026 年 4月 月 15 日"
+        }
+    },
+    {
         "startdate": "20260413",
         "fullstartdate": "202604131500",
         "enddate": "20260414",
