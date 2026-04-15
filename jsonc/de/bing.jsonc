@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260415",
+        "fullstartdate": "202604152200",
+        "enddate": "20260416",
+        "url": "/th?id=OHR.SkagitTulips_DE-DE0725960684_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SkagitTulips_DE-DE0725960684",
+        "copyright": "Tulpenfelder im Skagit Valley, Washington, USA (© Alan Majchrowicz/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Skagit+Valley+Washington+USA&form=hpcapt&filters=HpDate%3a%2220260415_2200%22",
+        "title": "Ein Meer aus Tulpen",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260415_SkagitTulips%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d3670b93d2f24656a23afdba51d61ee6",
+        "hsh": "eb77617a762e9914632acd745176b1db",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Es gibt Landschaften, die sofort gute Laune machen – und Tulpenfelder gehören ganz sicher dazu. Im Skagit Valley im US‑Bundesstaat Washington ziehen sich bunte Streifen über weite Felder, als hätte jemand den Frühling großzügig über die Landschaft ausgegossen. Die Felder wirken nahezu endlos und laden dazu ein, kurz innezuhalten und die Farben auf sich wirken zu lassen. In der Region gibt es zwar auch ein bekanntes Tulpenfestival, doch die eigentliche Magie entsteht direkt auf den Feldern: in den klaren Linien, der Weite und dem ständigen Wechselspiel von Licht und Farbe.",
+                "Image": {
+                    "Url": "/th?id=OHR.SkagitTulips_DE-DE0725960684_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SkagitTulips_DE-DE0725960684_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ein Meer aus Tulpen",
+                "Title": "Tulpenfelder im Skagit Valley, Washington, USA",
+                "Copyright": "© Alan Majchrowicz/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.5,-122.033/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=48.5,-122.033;S9;Skagit Valley, Washington, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260416_SkagitTulips\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Skagit+Valley+Washington+USA&form=hpcapt&filters=HpDate:\"20260415_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260416_SkagitTulips"
+            },
+            "Ssd": "20260416",
+            "Name": "SkagitTulips",
+            "Market": "DE-DE",
+            "Hash": "0725960684",
+            "FullDateString": "16. Apr.. 2026"
+        }
+    },
+    {
         "startdate": "20260414",
         "fullstartdate": "202604142200",
         "enddate": "20260415",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260415",
+        "fullstartdate": "202604150700",
+        "enddate": "20260416",
+        "url": "/th?id=OHR.AlbertaSnowMts_ROW3394188074_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlbertaSnowMts_ROW3394188074",
+        "copyright": "Pine trees reflected in the Forgetmenot Pond in Kananaskis Country, Alberta, Canada (© chinaface/Getty images)",
+        "copyrightlink": "https://www.bing.com/search?q=Kananaskis+Country+Alberta&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260415_AlbertaSnowMts%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "276b1878c636b4e450bc104a5a8f754d",
+        "hsh": "8a7bf21b50d3c51570ebf99674953973",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Set in the foothills and front ranges of the Canadian Rockies, Kananaskis Country stretches across a vast network of protected valleys, dense forests and alpine peaks. Located in Alberta, the region was formally established in 1978, uniting several provincial parks and protected areas under a shared vision of conservation. Clear rivers cut through limestone cliffs, while spruce and pine forests rise toward high mountain passes.",
+                "Image": {
+                    "Url": "/th?id=OHR.AlbertaSnowMts_ROW3394188074_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AlbertaSnowMts_ROW3394188074_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Pine trees reflected in the Forgetmenot Pond in Kananaskis Country, Alberta, Canada",
+                "Copyright": "© chinaface/Getty images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260415_AlbertaSnowMts\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Kananaskis+Country+Alberta&form=hpcapt&filters=HpDate:\"20260415_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260415_AlbertaSnowMts"
+            },
+            "Ssd": "20260415",
+            "Name": "AlbertaSnowMts",
+            "Market": "ROW",
+            "Hash": "3394188074",
+            "FullDateString": "15 apr. 2026"
+        }
+    },
+    {
         "startdate": "20260414",
         "fullstartdate": "202604140700",
         "enddate": "20260415",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260415",
+        "fullstartdate": "202604151600",
+        "enddate": "20260416",
+        "url": "/th?id=OHR.SkagitTulips_ZH-CN4234324174_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SkagitTulips_ZH-CN4234324174",
+        "copyright": "斯卡吉特谷地郁金香花田, 华盛顿, 美国 (© Alan Majchrowicz/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%B7%9E%E6%96%AF%E5%8D%A1%E5%90%89%E7%89%B9%E8%B0%B7&form=hpcapt&mkt=zh-cn",
+        "title": "花瓣巡游",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260415_SkagitTulips%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d3670b93d2f24656a23afdba51d61ee6",
+        "hsh": "8c8d09f483afa126ec0b35f48f180049",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "每年春天，华盛顿州的斯卡吉特山谷都会变成一片色彩斑斓的花海，斯卡吉特山谷郁金香节在此欢庆花季的到来。整个四月，游客们可以漫步于郁金香花园和农田，欣赏成排盛开的郁金香，远眺群山美景。",
+                "Image": {
+                    "Url": "/th?id=OHR.SkagitTulips_ZH-CN4234324174_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SkagitTulips_ZH-CN4234324174_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "花瓣巡游",
+                "Title": "斯卡吉特谷地郁金香花田, 华盛顿, 美国",
+                "Copyright": "© Alan Majchrowicz/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "郁金香谷农场占地15 英亩，种植着130种花卉，其中包括100多种郁金香。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260416_SkagitTulips\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%8d%8e%e7%9b%9b%e9%a1%bf%e5%b7%9e%e6%96%af%e5%8d%a1%e5%90%89%e7%89%b9%e8%b0%b7&form=hpcapt&filters=HpDate:\"20260415_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260416_SkagitTulips"
+            },
+            "Ssd": "20260416",
+            "Name": "SkagitTulips",
+            "Market": "ZH-CN",
+            "Hash": "4234324174",
+            "FullDateString": "2026 4月 16"
+        }
+    },
+    {
         "startdate": "20260414",
         "fullstartdate": "202604141600",
         "enddate": "20260415",

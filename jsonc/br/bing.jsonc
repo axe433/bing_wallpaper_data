@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260415",
+        "fullstartdate": "202604150300",
+        "enddate": "20260416",
+        "url": "/th?id=OHR.VanGoghFields_PT-BR8631172419_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VanGoghFields_PT-BR8631172419",
+        "copyright": "Exposição Carrières des Lumières de Van Gogh, Les Baux-de-Provence, França (© Patrick Aventurier/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=dia+mundial+da+arte&form=hpcapt&mkt=pt-br",
+        "title": "A arte que dispensa moldura",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260415_VanGoghFields%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "b50a44bc4452b2bf8f8087ab2149c8d7",
+        "hsh": "8df5c074e15b7352914dfdaa24faf443",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ela não vive só em moldura: circula, provoca e muda o jeito como a gente se reconhece no mundo. Em 15 de abril, o Dia Mundial da Arte celebra o vínculo sempre renovável entre criação e sociedade. Na imagem de hoje, essa conexão ganha corpo nas Carrières des Lumières, em Les Baux-de-Provence, na França, uma antiga pedreira de calcário transformada em sala de projeção monumental. Entre 2019 e 2020, as obras de Van Gogh ocuparam paredes e piso de pedra. Em vez de apenas olhar o quadro, o visitante caminhava por dentro dele, com céus turbulentos acima e campos dourados sob os pés.",
+                "Image": {
+                    "Url": "/th?id=OHR.VanGoghFields_PT-BR8631172419_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VanGoghFields_PT-BR8631172419_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "A arte que dispensa moldura",
+                "Title": "Exposição Carrières des Lumières de Van Gogh, Les Baux-de-Provence, França",
+                "Copyright": "© Patrick Aventurier/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260415_VanGoghFields\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=dia+mundial+da+arte&form=hpcapt&filters=HpDate:\"20260415_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260415_VanGoghFields"
+            },
+            "Ssd": "20260415",
+            "Name": "VanGoghFields",
+            "Market": "PT-BR",
+            "Hash": "8631172419",
+            "FullDateString": "15 abr. 2026"
+        }
+    },
+    {
         "startdate": "20260414",
         "fullstartdate": "202604140300",
         "enddate": "20260415",

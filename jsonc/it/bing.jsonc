@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260415",
+        "fullstartdate": "202604152200",
+        "enddate": "20260416",
+        "url": "/th?id=OHR.ToscanaSpring_IT-IT2623065946_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ToscanaSpring_IT-IT2623065946",
+        "copyright": "Colline ondulate al tramonto, Toscana (© StevanZZ/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Colline+toscane&form=hpcapt",
+        "title": "Onde bucoliche",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260415_ToscanaSpring%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "fd36c01f67971df5118e431f1f38da6e",
+        "hsh": "5bdb3748a343639fa684b5ef7fc570db",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Le colline toscane al tramonto sembrano dipinte da un artista invisibile. La luce calda accarezza dolcemente i filari di cipressi e i vigneti, mentre i campi dorati ondeggiano come un mare tranquillo. Le strade bianche serpeggiano tra borghi antichi e fattorie isolate, invitando chi osserva a perdersi tra storia e natura.",
+                "Image": {
+                    "Url": "/th?id=OHR.ToscanaSpring_IT-IT2623065946_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ToscanaSpring_IT-IT2623065946_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Onde bucoliche",
+                "Title": "Colline ondulate al tramonto, Toscana",
+                "Copyright": "© StevanZZ/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.462283,11.130037/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=43.462283,11.130037;S9;Colline toscane&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260416_ToscanaSpring\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Colline+toscane&form=hpcapt&filters=HpDate:\"20260415_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260416_ToscanaSpring"
+            },
+            "Ssd": "20260416",
+            "Name": "ToscanaSpring",
+            "Market": "IT-IT",
+            "Hash": "2623065946",
+            "FullDateString": "16 aprile 2026"
+        }
+    },
+    {
         "startdate": "20260414",
         "fullstartdate": "202604142200",
         "enddate": "20260415",

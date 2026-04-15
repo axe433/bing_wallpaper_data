@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260415",
+        "fullstartdate": "202604152200",
+        "enddate": "20260416",
+        "url": "/th?id=OHR.SkagitTulips_FR-FR6378345422_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SkagitTulips_FR-FR6378345422",
+        "copyright": "Champ de tulipes de Skagit Valley, Washington, États-Unis (© Alan Majchrowicz/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Skagit+Valley+Washington&form=hpcapt&filters=HpDate%3a%2220260415_2200%22",
+        "title": "La parade des tulipes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260415_SkagitTulips%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d3670b93d2f24656a23afdba51d61ee6",
+        "hsh": "385ba9b6a81bf34613e23cf60c234936",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Chaque printemps, la vallée de Skagit, au nord-ouest des États-Unis, se transforme en une mosaïque éclatante lorsque les premières tulipes percent la lumière d’avril. Pendant tout le mois, les visiteurs flânent parmi des jardins soigneusement dessinés ou longent les immenses champs où les couleurs s’étirent jusqu’aux montagnes encore poudrées de neige.",
+                "Image": {
+                    "Url": "/th?id=OHR.SkagitTulips_FR-FR6378345422_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SkagitTulips_FR-FR6378345422_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La parade des tulipes",
+                "Title": "Champ de tulipes de Skagit Valley, Washington, États-Unis",
+                "Copyright": "© Alan Majchrowicz/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.5,-122.033/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=48.5,-122.033;S9;Skagit Valley, Washington, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260416_SkagitTulips\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Skagit+Valley+Washington&form=hpcapt&filters=HpDate:\"20260415_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260416_SkagitTulips"
+            },
+            "Ssd": "20260416",
+            "Name": "SkagitTulips",
+            "Market": "FR-FR",
+            "Hash": "6378345422",
+            "FullDateString": "16 avr. 2026"
+        }
+    },
+    {
         "startdate": "20260414",
         "fullstartdate": "202604142200",
         "enddate": "20260415",

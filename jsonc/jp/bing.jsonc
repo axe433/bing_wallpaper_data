@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260415",
+        "fullstartdate": "202604151500",
+        "enddate": "20260416",
+        "url": "/th?id=OHR.SkagitTulips_JA-JP9152402510_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SkagitTulips_JA-JP9152402510",
+        "copyright": "スカジットバレー, 米国 ワシントン州 (© Alan Majchrowicz/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%B9%E3%82%AB%E3%82%B8%E3%83%83%E3%83%88%E3%83%90%E3%83%AC%E3%83%BC%E3%83%BB%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%83%E3%83%97%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220260415_1500%22",
+        "title": "一面に咲き誇るピンクの花畑",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260415_SkagitTulips%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d3670b93d2f24656a23afdba51d61ee6",
+        "hsh": "061aa7545d91eefba982528a0de5ff6c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "米国ワシントン州のスカジットバレーでは、4 月になると、スカジットバレー・チューリップフェスティバルが開催されます。期間中は、谷全体を鮮やかな色彩で覆い尽くす見事なチューリップの展示をはじめ、子ども向けのアクティビティや地元の食を味わえる催しなど、多彩なイベントが行われます。イベントは 4 月を通して開催されていますが、開花時期は年ごとに異なるため、訪れる際は開花状況のチェックが必須です。",
+                "Image": {
+                    "Url": "/th?id=OHR.SkagitTulips_JA-JP9152402510_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SkagitTulips_JA-JP9152402510_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "一面に咲き誇るピンクの花畑",
+                "Title": "スカジットバレー, 米国 ワシントン州",
+                "Copyright": "© Alan Majchrowicz/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.5,-122.033/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=48.5,-122.033;S9;スカジットバレー, 米国ワシントン州&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260416_SkagitTulips%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260416_SkagitTulips\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%b9%e3%82%ab%e3%82%b8%e3%83%83%e3%83%88%e3%83%90%e3%83%ac%e3%83%bc%e3%83%bb%e3%83%81%e3%83%a5%e3%83%bc%e3%83%aa%e3%83%83%e3%83%97%e3%83%95%e3%82%a7%e3%82%b9%e3%83%86%e3%82%a3%e3%83%90%e3%83%ab&form=hpcapt&filters=HpDate:\"20260415_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260416_SkagitTulips"
+            },
+            "Ssd": "20260416",
+            "Name": "SkagitTulips",
+            "Market": "JA-JP",
+            "Hash": "9152402510",
+            "FullDateString": "2026 年 4月 月 16 日"
+        }
+    },
+    {
         "startdate": "20260414",
         "fullstartdate": "202604141500",
         "enddate": "20260415",
