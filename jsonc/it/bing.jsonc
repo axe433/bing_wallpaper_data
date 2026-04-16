@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260416",
+        "fullstartdate": "202604162200",
+        "enddate": "20260417",
+        "url": "/th?id=OHR.FlyingFoxMom_IT-IT3683219154_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FlyingFoxMom_IT-IT3683219154",
+        "copyright": "Pipistrello con il suo cucciolo, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Chiroptera&form=hpcapt",
+        "title": "Eroi della notte",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260416_FlyingFoxMom%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0945d2e7876fa436cc935c16525547a4",
+        "hsh": "3a5b23a6d08a4bd380b0f3d10bc7e0e5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Il 17 aprile celebriamo la «Giornata mondiale dei pipistrelli», dedicata agli abitanti della notte. Con oltre 1.400 specie presenti in ogni continente, tranne l’Antartide, questi mammiferi alati mantengono l’equilibrio degli ecosistemi. Sono sulla Terra da oltre cinquanta milioni di anni e solo tre specie sono veri vampiri. Presenti esclusivamente nelle Americhe, questi pipistrelli si nutrono di sangue, mentre gli altri sopravvivono grazie a insetti, frutta, nettare o polline.",
+                "Image": {
+                    "Url": "/th?id=OHR.FlyingFoxMom_IT-IT3683219154_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FlyingFoxMom_IT-IT3683219154_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Eroi della notte",
+                "Title": "Pipistrello con il suo cucciolo, Yarra Bend Park, Australia",
+                "Copyright": "© Doug Gimesy/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-37.798065,145.012222/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=-37.798065,145.012222;S9;Yarra Bend Park, Melbourne, Victoria, Australia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260417_FlyingFoxMom\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Chiroptera&form=hpcapt&filters=HpDate:\"20260416_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260417_FlyingFoxMom"
+            },
+            "Ssd": "20260417",
+            "Name": "FlyingFoxMom",
+            "Market": "IT-IT",
+            "Hash": "3683219154",
+            "FullDateString": "17 aprile 2026"
+        }
+    },
+    {
         "startdate": "20260415",
         "fullstartdate": "202604152200",
         "enddate": "20260416",

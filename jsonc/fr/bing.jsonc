@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260416",
+        "fullstartdate": "202604162200",
+        "enddate": "20260417",
+        "url": "/th?id=OHR.FlyingFoxMom_FR-FR4854001946_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FlyingFoxMom_FR-FR4854001946",
+        "copyright": "Femelle renard volant à tête grise portant son petit, Yarra Bend Park, Australie (© Doug Gimesy/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=chauve-souris&form=hpcapt&filters=HpDate%3a%2220260416_2200%22",
+        "title": "« Chauve » qui peut !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260416_FlyingFoxMom%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0945d2e7876fa436cc935c16525547a4",
+        "hsh": "5131952d50e6602192149ad51b9d0f04",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Le 17 avril, la Journée mondiale des chauves-souris lève le voile sur les gardiennes de nos nuits. Plus de 1 400 espèces veillent sur les écosystèmes depuis des millions d’années : seules trois, toutes américaines, se nourrissent de sang. Les autres capturent des nuées d’insectes, butinent des fleurs ou disséminent les graines qui feront renaître les forêts. Au Texas, aux États-Unis, la grotte de Bracken accueille chaque été une ville entière de chauves-souris à queue libre, dont les vols réduisent l’usage des pesticides et renforcent la santé des écosystèmes.",
+                "Image": {
+                    "Url": "/th?id=OHR.FlyingFoxMom_FR-FR4854001946_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FlyingFoxMom_FR-FR4854001946_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "« Chauve » qui peut !",
+                "Title": "Femelle renard volant à tête grise portant son petit, Yarra Bend Park, Australie",
+                "Copyright": "© Doug Gimesy/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-37.798065,145.012222/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=-37.798065,145.012222;S9;Yarra Bend Park, Melbourne, Australie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260417_FlyingFoxMom\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=chauve-souris&form=hpcapt&filters=HpDate:\"20260416_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260417_FlyingFoxMom"
+            },
+            "Ssd": "20260417",
+            "Name": "FlyingFoxMom",
+            "Market": "FR-FR",
+            "Hash": "4854001946",
+            "FullDateString": "17 avr. 2026"
+        }
+    },
+    {
         "startdate": "20260415",
         "fullstartdate": "202604152200",
         "enddate": "20260416",

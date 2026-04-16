@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260416",
+        "fullstartdate": "202604162200",
+        "enddate": "20260417",
+        "url": "/th?id=OHR.FlyingFoxMom_ES-ES8542062394_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FlyingFoxMom_ES-ES8542062394",
+        "copyright": "Murciélago de cabeza gris llevando a su cría, Parque Yarra Bend, Australia (© Doug Gimesy/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Murci%C3%A9lago+de+cabeza+gris&form=hpcapt&filters=HpDate%3a%2220260416_2200%22",
+        "title": "Vuelo silencioso",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260416_FlyingFoxMom%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0945d2e7876fa436cc935c16525547a4",
+        "hsh": "5544e6bd7531a89d187a223a3cfce732",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Hoy contemplamos un murciélago de cabeza gris que cruza el cielo con su cría aferrada al cuerpo, en una escena tan insólita como tierna sobre el Parque Yarra Bend, en Australia. Esta especie, también llamada zorro volador, es de las más grandes y llama la atención por su cabeza plateada y sus grandes ojos. Se alimenta sobre todo de frutos y néctar, por lo que ayuda a dispersar semillas y a polinizar, mientras descansa en colonias ruidosas durante el día. Las crías nacen en primavera y, al principio, viajan pegadas a la madre en sus desplazamientos nocturnos.",
+                "Image": {
+                    "Url": "/th?id=OHR.FlyingFoxMom_ES-ES8542062394_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FlyingFoxMom_ES-ES8542062394_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Vuelo silencioso",
+                "Title": "Murciélago de cabeza gris llevando a su cría, Parque Yarra Bend, Australia",
+                "Copyright": "© Doug Gimesy/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-37.798065,145.012222/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=-37.798065,145.012222;S9;Parque Yarra Bend, Australia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260417_FlyingFoxMom\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Murci%c3%a9lago+de+cabeza+gris&form=hpcapt&filters=HpDate:\"20260416_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260417_FlyingFoxMom"
+            },
+            "Ssd": "20260417",
+            "Name": "FlyingFoxMom",
+            "Market": "ES-ES",
+            "Hash": "8542062394",
+            "FullDateString": "17 de abr. de 2026"
+        }
+    },
+    {
         "startdate": "20260415",
         "fullstartdate": "202604152200",
         "enddate": "20260416",

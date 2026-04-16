@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260416",
+        "fullstartdate": "202604162200",
+        "enddate": "20260417",
+        "url": "/th?id=OHR.FlyingFoxMom_DE-DE9791519824_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FlyingFoxMom_DE-DE9791519824",
+        "copyright": "Graukopf‑Flughund mit Jungtier, Yarra Bend Park, Melbourne, Australien (© Doug Gimesy/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Flughunde&form=hpcapt&filters=HpDate%3a%2220260416_2200%22",
+        "title": "Fest an Mamas Seite",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260416_FlyingFoxMom%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0945d2e7876fa436cc935c16525547a4",
+        "hsh": "643019535744758b718b66db37a793b1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Hoch oben in den Baumwipfeln klammert sich ein Jungtier fest an den Bauch seiner Mutter. Der Graukopf‑Flughund gehört zu den größten Vertretern der Fledertiere und ist in Australien heimisch. Obwohl er mit Fledermäusen verwandt ist, unterscheidet er sich deutlich von ihnen. Flughunde zählen zu einer eigenen Gruppe innerhalb der Fledertiere und nutzen in der Regel keine Echoortung. Stattdessen orientieren sie sich mithilfe ihres ausgeprägten Seh‑ und Geruchssinns, was eine Anpassung an ihre überwiegend pflanzliche Ernährung darstellt.",
+                "Image": {
+                    "Url": "/th?id=OHR.FlyingFoxMom_DE-DE9791519824_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FlyingFoxMom_DE-DE9791519824_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Fest an Mamas Seite",
+                "Title": "Graukopf‑Flughund mit Jungtier, Yarra Bend Park, Melbourne, Australien",
+                "Copyright": "© Doug Gimesy/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-37.798065,145.012222/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=-37.798065,145.012222;S9;Yarra Bend Park, Melbourne, Australien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260417_FlyingFoxMom\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Flughunde&form=hpcapt&filters=HpDate:\"20260416_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260417_FlyingFoxMom"
+            },
+            "Ssd": "20260417",
+            "Name": "FlyingFoxMom",
+            "Market": "DE-DE",
+            "Hash": "9791519824",
+            "FullDateString": "17. Apr.. 2026"
+        }
+    },
+    {
         "startdate": "20260415",
         "fullstartdate": "202604152200",
         "enddate": "20260416",
