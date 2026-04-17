@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260417",
+        "fullstartdate": "202604172200",
+        "enddate": "20260418",
+        "url": "/th?id=OHR.MillauViaductFrance_FR-FR3718442345_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MillauViaductFrance_FR-FR3718442345",
+        "copyright": "Vue aérienne du Viaduc de Millau (© Sergi Reboredo/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+internationale+des+monuments+et+des+sites&form=hpcapt&filters=HpDate%3a%2220260417_2200%22",
+        "title": "Si près du ciel",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260417_MillauViaductFrance%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9c572ecc0dfb1c34fe92084d969c7118",
+        "hsh": "92703daa65624cadc9fabf31d15103a4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Qu’il s’agisse d’un fort dressé face au vent marin, d’un pont médiéval qui enjambe une rivière ou d’un temple enfoui dans une forêt, chaque lieu est un fragment d’histoire. Le 18 avril, la Journée internationale des monuments et des sites nous invite à préserver ces témoins du passé afin d’offrir aux générations futures un lieu où comprendre, rêver et s’émerveiller.",
+                "Image": {
+                    "Url": "/th?id=OHR.MillauViaductFrance_FR-FR3718442345_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MillauViaductFrance_FR-FR3718442345_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Si près du ciel",
+                "Title": "Vue aérienne du Viaduc de Millau",
+                "Copyright": "© Sergi Reboredo/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.088275,3.021248/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=44.088275,3.021248;S9;Viaduc de Millau&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260418_MillauViaductFrance\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Journ%c3%a9e+internationale+des+monuments+et+des+sites&form=hpcapt&filters=HpDate:\"20260417_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260418_MillauViaductFrance"
+            },
+            "Ssd": "20260418",
+            "Name": "MillauViaductFrance",
+            "Market": "FR-FR",
+            "Hash": "3718442345",
+            "FullDateString": "18 avr. 2026"
+        }
+    },
+    {
         "startdate": "20260416",
         "fullstartdate": "202604162200",
         "enddate": "20260417",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260417",
+        "fullstartdate": "202604172200",
+        "enddate": "20260418",
+        "url": "/th?id=OHR.MaoiStatues_IT-IT3537431977_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MaoiStatues_IT-IT3537431977",
+        "copyright": "Cava delle statue moai, Rano Raraku, Isola di Pasqua, Cile (© Gavin Hellier/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Giornata+internazionale+dei+monumenti+e+dei+siti&form=hpcapt",
+        "title": "Guardiani della storia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260417_MaoiStatues%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "52a69cbd5b259a5921b2cb1734944bd2",
+        "hsh": "e4c2bdcad1a1663a74e9b0ca8a58369a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Oggi, per la «Giornata internazionale dei monumenti e dei siti», l’attenzione si rivolge ai luoghi che raccontano la storia condivisa dell’umanità. Uno di questi emerge dalla pietra vulcanica sull’Isola di Pasqua, in Cile. A Rano Raraku, nel parco nazionale di Rapa Nui, le pendici di un vulcano spento divennero il laboratorio dove furono scolpiti quasi tutti i celebri moai dell’isola. Scolpite dal popolo Rapa Nui tra il secolo XIII e il XVI, le statue venivano ricavate direttamente dalla cenere vulcanica compressa e poi trasportate attraverso l’isola fino alle piattaforme cerimoniali. Questo luogo magico, sito Patrimonio dell’Umanità, è riconosciuto per il suo eccezionale paesaggio archeologico e per il patrimonio polinesiano ancora vivo.",
+                "Image": {
+                    "Url": "/th?id=OHR.MaoiStatues_IT-IT3537431977_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MaoiStatues_IT-IT3537431977_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Guardiani della storia",
+                "Title": "Cava delle statue moai, Rano Raraku, Isola di Pasqua, Cile",
+                "Copyright": "© Gavin Hellier/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-27.127001,-109.292099/1?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=-27.127001,-109.292099;S9;Rano Raraku, Isola di Pasqua, Cile&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260418_MaoiStatues\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Giornata+internazionale+dei+monumenti+e+dei+siti&form=hpcapt&filters=HpDate:\"20260417_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260418_MaoiStatues"
+            },
+            "Ssd": "20260418",
+            "Name": "MaoiStatues",
+            "Market": "IT-IT",
+            "Hash": "3537431977",
+            "FullDateString": "18 aprile 2026"
+        }
+    },
+    {
         "startdate": "20260416",
         "fullstartdate": "202604162200",
         "enddate": "20260417",

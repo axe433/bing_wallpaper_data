@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260417",
+        "fullstartdate": "202604172200",
+        "enddate": "20260418",
+        "url": "/th?id=OHR.MaoiStatues_ES-ES1501322349_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MaoiStatues_ES-ES1501322349",
+        "copyright": "Cantera de estatuas moái, Rano Raraku, isla de Pascua, Chile (© Gavin Hellier/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+Internacional+de+los+Monumentos+y+Sitios&form=hpcapt&filters=HpDate%3a%2220260417_2200%22",
+        "title": "El silencio de los gigantes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260417_MaoiStatues%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "52a69cbd5b259a5921b2cb1734944bd2",
+        "hsh": "30f023d3d60ed5489ccbdc384a36d6e2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El Día Internacional de los Monumentos y Sitios se celebra cada 18 de abril y busca concienciar sobre la importancia de proteger el patrimonio cultural del mundo. Esta jornada invita a reflexionar sobre el valor histórico, artístico y social de los lugares que dan forma a la memoria colectiva. También promueve su conservación y el acceso responsable, recordando que estos espacios no solo pertenecen al pasado, sino que siguen teniendo significado para las comunidades actuales.",
+                "Image": {
+                    "Url": "/th?id=OHR.MaoiStatues_ES-ES1501322349_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MaoiStatues_ES-ES1501322349_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "El silencio de los gigantes",
+                "Title": "Cantera de estatuas moái, Rano Raraku, isla de Pascua, Chile",
+                "Copyright": "© Gavin Hellier/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-27.127001,-109.292099/9?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=-27.127001,-109.292099;S9;Rano Raraku, isla de Pascua, Chile&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260418_MaoiStatues\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=D%c3%ada+Internacional+de+los+Monumentos+y+Sitios&form=hpcapt&filters=HpDate:\"20260417_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260418_MaoiStatues"
+            },
+            "Ssd": "20260418",
+            "Name": "MaoiStatues",
+            "Market": "ES-ES",
+            "Hash": "1501322349",
+            "FullDateString": "18 de abr. de 2026"
+        }
+    },
+    {
         "startdate": "20260416",
         "fullstartdate": "202604162200",
         "enddate": "20260417",

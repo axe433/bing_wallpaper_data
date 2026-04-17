@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260417",
+        "fullstartdate": "202604171500",
+        "enddate": "20260418",
+        "url": "/th?id=OHR.MaoiStatues_JA-JP0155278246_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MaoiStatues_JA-JP0155278246",
+        "copyright": "モアイ像, チリ (© Gavin Hellier/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260417_1500%22",
+        "title": "今日は世界遺産の日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260417_MaoiStatues%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "52a69cbd5b259a5921b2cb1734944bd2",
+        "hsh": "ff50336ed0c51f14bec52dc66d10c0ca",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 4 月 18 日は「世界遺産の日」。歴史的な文化財や自然遺産の保護と保存の重要性を再認識する日です。そして画像は、チリにある世界遺産、ラパ・ヌイ国立公園（イースター島）のモアイ像です。13 世紀から 16 世紀にかけて、ラパ・ヌイの先住民であるポリネシア系の人々によって造られたもので、現在、島内には 900 体以上のモアイ像が残されており、それぞれが異なる表情や特徴を持っています。",
+                "Image": {
+                    "Url": "/th?id=OHR.MaoiStatues_JA-JP0155278246_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MaoiStatues_JA-JP0155278246_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "今日は世界遺産の日",
+                "Title": "モアイ像, チリ",
+                "Copyright": "© Gavin Hellier/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-27.14951,-109.385875/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=-27.14951,-109.385875;S9;ラパ・ヌイ国立公園, チリ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260418_MaoiStatues%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260418_MaoiStatues\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e4%b8%96%e7%95%8c%e9%81%ba%e7%94%a3%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate:\"20260417_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260418_MaoiStatues"
+            },
+            "Ssd": "20260418",
+            "Name": "MaoiStatues",
+            "Market": "JA-JP",
+            "Hash": "0155278246",
+            "FullDateString": "2026 年 4月 月 18 日"
+        }
+    },
+    {
         "startdate": "20260416",
         "fullstartdate": "202604161500",
         "enddate": "20260417",
