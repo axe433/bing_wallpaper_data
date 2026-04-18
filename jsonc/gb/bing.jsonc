@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260418",
+        "fullstartdate": "202604182300",
+        "enddate": "20260419",
+        "url": "/th?id=OHR.HathawayCottage_EN-GB5798947669_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HathawayCottage_EN-GB5798947669",
+        "copyright": "Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Anne+Hathaway+cottage&form=hpcapt&filters=HpDate%3a%2220260418_2300%22",
+        "title": "A cottage full of stories",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260418_HathawayCottage%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "74e3cb62d3d048c7e0949c9e644e97bf",
+        "hsh": "6350c7e6a5ad80df8df2cc399a81843a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Today's image shows Anne Hathaway's cottage in Stratford‑upon‑Avon, England, the childhood home of Shakespeare's future wife. This 15th-century thatched cottage, now preserved as a museum, offers a rare glimpse into the domestic world that surrounded the young playwright.",
+                "Image": {
+                    "Url": "/th?id=OHR.HathawayCottage_EN-GB5798947669_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HathawayCottage_EN-GB5798947669_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "A cottage full of stories",
+                "Title": "Anne Hathaway's cottage and garden, Stratford-upon-Avon, England",
+                "Copyright": "© David Steele/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.190984,-1.732059/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=52.190984,-1.732059;S9;Anne Hathaway's cottage, Stratford-upon-Avon, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260419_HathawayCottage\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Anne+Hathaway+cottage&form=hpcapt&filters=HpDate:\"20260418_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260419_HathawayCottage"
+            },
+            "Ssd": "20260419",
+            "Name": "HathawayCottage",
+            "Market": "EN-GB",
+            "Hash": "5798947669",
+            "FullDateString": "19 Apr 2026"
+        }
+    },
+    {
         "startdate": "20260417",
         "fullstartdate": "202604172300",
         "enddate": "20260418",
