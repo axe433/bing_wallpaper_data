@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260419",
+        "fullstartdate": "202604192200",
+        "enddate": "20260420",
+        "url": "/th?id=OHR.FlamencoSevilla_ES-ES8411080911_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FlamencoSevilla_ES-ES8411080911",
+        "copyright": "Castañuelas flamencas (© LUNAMARINA/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Feria+Sevilla+2026&form=hpcapt&filters=HpDate%3a%2220260419_2200%22",
+        "title": "Identidad sevillana",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260419_FlamencoSevilla%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1680f3d3112998ac763ee35e281b7514",
+        "hsh": "a4fc968ebfbbc061de637e5292427de8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La Feria de Sevilla transforma cada año el barrio de Los Remedios en una ciudad efímera levantada sobre el mismo plano desde hace décadas. El recinto se organiza como un trazado urbano regular, con calles, farolillos y fachadas que solo existen durante una semana. Más de un millar de casetas, la mayoría privadas, mantienen una estética común inspirada en la arquitectura regionalista. Aunque hoy es una cita social y festiva, su origen fue comercial, ya que nació en 1847 como una feria ganadera impulsada por el Ayuntamiento y comerciantes locales.",
+                "Image": {
+                    "Url": "/th?id=OHR.FlamencoSevilla_ES-ES8411080911_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FlamencoSevilla_ES-ES8411080911_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Identidad sevillana",
+                "Title": "Castañuelas flamencas",
+                "Copyright": "© LUNAMARINA/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "La Feria de Sevilla nació en 1847 como una feria ganadera antes de convertirse en la gran fiesta popular que es hoy.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260420_FlamencoSevilla\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Feria+Sevilla+2026&form=hpcapt&filters=HpDate:\"20260419_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260420_FlamencoSevilla"
+            },
+            "Ssd": "20260420",
+            "Name": "FlamencoSevilla",
+            "Market": "ES-ES",
+            "Hash": "8411080911",
+            "FullDateString": "20 de abr. de 2026"
+        }
+    },
+    {
         "startdate": "20260418",
         "fullstartdate": "202604182200",
         "enddate": "20260419",

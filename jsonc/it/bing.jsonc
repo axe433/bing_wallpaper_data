@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260419",
+        "fullstartdate": "202604192200",
+        "enddate": "20260420",
+        "url": "/th?id=OHR.SunsetKiva_IT-IT3389674511_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SunsetKiva_IT-IT3389674511",
+        "copyright": "Tramonto nel parco nazionale delle Canyonlands, Moab, Utah, USA (© Jason Hatfield/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Parco+Nazionale+delle+Canyonlands&form=hpcapt",
+        "title": "Oasi di stelle",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260419_SunsetKiva%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1f73db015cccf3c9cdea409316d15aeb",
+        "hsh": "240fb2227d52b0a72f336506736b30d9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nel cuore selvaggio dello Stato americano dello Utah, dove la notte accende il deserto, il parco nazionale di Canyonlands, vicino a Moab, ricorda che l’avventura continua anche dopo il tramonto. Quando la luce svanisce, i fiumi Colorado e Green si snodano tra canyon scolpiti, altipiani e guglie rocciose. Grazie alla posizione remota e al ridotto inquinamento luminoso, il cielo si trasforma in un tappeto di stelle. Designato come «International Dark Sky Park», è ideale per osservare la Via Lattea, visibile anche da semplici punti panoramici.",
+                "Image": {
+                    "Url": "/th?id=OHR.SunsetKiva_IT-IT3389674511_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SunsetKiva_IT-IT3389674511_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Oasi di stelle",
+                "Title": "Tramonto nel parco nazionale delle Canyonlands, Moab, Utah, USA",
+                "Copyright": "© Jason Hatfield/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.213604,-109.902534/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=38.213604,-109.902534;S9;Parco nazionale delle Canyonlands Utah, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260420_SunsetKiva\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parco+Nazionale+delle+Canyonlands&form=hpcapt&filters=HpDate:\"20260419_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260420_SunsetKiva"
+            },
+            "Ssd": "20260420",
+            "Name": "SunsetKiva",
+            "Market": "IT-IT",
+            "Hash": "3389674511",
+            "FullDateString": "20 aprile 2026"
+        }
+    },
+    {
         "startdate": "20260418",
         "fullstartdate": "202604182200",
         "enddate": "20260419",

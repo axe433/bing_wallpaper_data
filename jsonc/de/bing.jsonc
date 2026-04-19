@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260419",
+        "fullstartdate": "202604192200",
+        "enddate": "20260420",
+        "url": "/th?id=OHR.SaarbrueckenRathaus_DE-DE1197352085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SaarbrueckenRathaus_DE-DE1197352085",
+        "copyright": "Rathaus St. Johann, Saarbrücken, Saarland (© frantic00/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Saarbr%C3%BCcken+Rathaus+St+Johann&form=hpcapt&filters=HpDate%3a%2220260419_2200%22",
+        "title": "Ein Rathaus mit Geschichte",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260419_SaarbrueckenRathaus%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2559ee9e627d22c255e91358868bb6cf",
+        "hsh": "f53f82c9c9e788aa09500944d51fb821",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Saarbrücken ist eine Stadt zwischen Kulturen. Ihre Lage nahe der französischen Grenze hat Architektur, Stadtbild und Alltag über Jahrhunderte hinweg geprägt. Entlang der Saar treffen historische Einflüsse und städtisches Leben aufeinander und schaffen so ein vielschichtiges urbanes Umfeld.",
+                "Image": {
+                    "Url": "/th?id=OHR.SaarbrueckenRathaus_DE-DE1197352085_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SaarbrueckenRathaus_DE-DE1197352085_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ein Rathaus mit Geschichte",
+                "Title": "Rathaus St. Johann, Saarbrücken, Saarland",
+                "Copyright": "© frantic00/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/49.23518,6.996482/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=49.23518,6.996482;S9;Rathaus St. Johann, Saarbrücken, Saarland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260420_SaarbrueckenRathaus\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Saarbr%c3%bccken+Rathaus+St+Johann&form=hpcapt&filters=HpDate:\"20260419_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260420_SaarbrueckenRathaus"
+            },
+            "Ssd": "20260420",
+            "Name": "SaarbrueckenRathaus",
+            "Market": "DE-DE",
+            "Hash": "1197352085",
+            "FullDateString": "20. Apr.. 2026"
+        }
+    },
+    {
         "startdate": "20260418",
         "fullstartdate": "202604182200",
         "enddate": "20260419",

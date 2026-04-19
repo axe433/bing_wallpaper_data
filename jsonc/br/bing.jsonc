@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260419",
+        "fullstartdate": "202604190300",
+        "enddate": "20260420",
+        "url": "/th?id=OHR.InDay_PT-BR0410116846_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.InDay_PT-BR0410116846",
+        "copyright": "Cocar artesanal de povo indígena brasileiro (© Felipe Gustavo S Borges/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=dia+dos+povos+indigenas&form=hpcapt&mkt=pt-br",
+        "title": "Uma linguagem que não pede tradução",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260419_InDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a29a349b37005f5e737518509b103dcd",
+        "hsh": "198a8095da2887b26bb3bd3fd44f3cf2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Antes de ser adorno, a arte plumária é linguagem. Dos Kayapó aos Xavante, dos Bororo aos Munduruku, ela está presente em dezenas das mais de 300 culturas indígenas do Brasil. Cada cocar, tiara ou manto carrega uma gramática única, com regras claras sobre quem usa, quando e por quê. Seguindo técnicas ancestrais, as penas são recolhidas na muda natural das aves e presas com algodão silvestre, resina e fibras, às vezes decoradas com sementes, taquaras e urucum. Forma, disposição, cor e material comunicam identidade, posição social, ocasião e vínculos espirituais, tecendo sentido em cada trama.",
+                "Image": {
+                    "Url": "/th?id=OHR.InDay_PT-BR0410116846_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.InDay_PT-BR0410116846_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Uma linguagem que não pede tradução",
+                "Title": "Cocar artesanal de povo indígena brasileiro",
+                "Copyright": "© Felipe Gustavo S Borges/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260419_InDay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=dia+dos+povos+indigenas&form=hpcapt&filters=HpDate:\"20260419_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260419_InDay"
+            },
+            "Ssd": "20260419",
+            "Name": "InDay",
+            "Market": "PT-BR",
+            "Hash": "0410116846",
+            "FullDateString": "19 abr. 2026"
+        }
+    },
+    {
         "startdate": "20260418",
         "fullstartdate": "202604180300",
         "enddate": "20260419",
