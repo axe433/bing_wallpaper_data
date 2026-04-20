@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260420",
+        "fullstartdate": "202604202200",
+        "enddate": "20260421",
+        "url": "/th?id=OHR.SpringHedgehog_FR-FR8882145439_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpringHedgehog_FR-FR8882145439",
+        "copyright": "Hérisson d’Europe (© Klein & Hubert/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=h%C3%A9risson+d%E2%80%99Europe&form=hpcapt&filters=HpDate%3a%2220260420_2200%22",
+        "title": "La patrouille piquante du printemps",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260420_SpringHedgehog%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4849192c0995610efa51d729e4deb7c8",
+        "hsh": "45437f9b70f0348efc57174b045b3f3f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Avec le retour du printemps, un petit ambassadeur piquant sort de l’ombre : le hérisson d’Europe. Ce minuscule explorateur, plein de douceur malgré son armure, vit surtout la nuit, avançant au rythme des odeurs et des bruissements. Sa mission est aussi simple qu’essentielle : fouiller les feuilles mortes, inspecter les talus et croquer des vers, des coléoptères, des limaces ou des chenilles — ces proies modestes qui nourrissent le sol et soutiennent les jardins. Face au danger, il se roule en boule, laissant ses piquants négocier à sa place.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpringHedgehog_FR-FR8882145439_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpringHedgehog_FR-FR8882145439_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La patrouille piquante du printemps",
+                "Title": "Hérisson d’Europe",
+                "Copyright": "© Klein & Hubert/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Ses 5 000 à 7 000 épines sont des poils rigides et creux composés de kératine, et non de véritables piquants comme ceux d'un porc-épic.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260421_SpringHedgehog\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=h%c3%a9risson+d%e2%80%99Europe&form=hpcapt&filters=HpDate:\"20260420_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260421_SpringHedgehog"
+            },
+            "Ssd": "20260421",
+            "Name": "SpringHedgehog",
+            "Market": "FR-FR",
+            "Hash": "8882145439",
+            "FullDateString": "21 avr. 2026"
+        }
+    },
+    {
         "startdate": "20260419",
         "fullstartdate": "202604192200",
         "enddate": "20260420",

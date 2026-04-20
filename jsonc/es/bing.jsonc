@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260420",
+        "fullstartdate": "202604202200",
+        "enddate": "20260421",
+        "url": "/th?id=OHR.SpringHedgehog_ES-ES2233278672_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpringHedgehog_ES-ES2233278672",
+        "copyright": "Erizo europeo, Francia (© Klein & Hubert/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Erizo+europeo&form=hpcapt&filters=HpDate%3a%2220260420_2200%22",
+        "title": "Un escudo natural",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260420_SpringHedgehog%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4849192c0995610efa51d729e4deb7c8",
+        "hsh": "4d564b48c1871dadaf8d6f934eabea02",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El erizo europeo es un habitante discreto de los paisajes rurales y periurbanos de Francia. Presente en praderas, setos y jardines, este pequeño mamífero nocturno se mueve al anochecer en busca de insectos, lombrices y otros invertebrados, guiado por un olfato fino y un oído atento. Su andar tranquilo contrasta con la eficacia de sus púas.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpringHedgehog_ES-ES2233278672_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpringHedgehog_ES-ES2233278672_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un escudo natural",
+                "Title": "Erizo europeo, Francia",
+                "Copyright": "© Klein & Hubert/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Sus 5.000-7.000 púas son pelos rígidos y huecos hechos de queratina, no verdaderas púas como las del puercoespín.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260421_SpringHedgehog\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Erizo+europeo&form=hpcapt&filters=HpDate:\"20260420_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260421_SpringHedgehog"
+            },
+            "Ssd": "20260421",
+            "Name": "SpringHedgehog",
+            "Market": "ES-ES",
+            "Hash": "2233278672",
+            "FullDateString": "21 de abr. de 2026"
+        }
+    },
+    {
         "startdate": "20260419",
         "fullstartdate": "202604192200",
         "enddate": "20260420",

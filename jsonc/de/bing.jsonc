@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260420",
+        "fullstartdate": "202604202200",
+        "enddate": "20260421",
+        "url": "/th?id=OHR.SpringHedgehog_DE-DE1345910488_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpringHedgehog_DE-DE1345910488",
+        "copyright": "Europäischer Igel, Frankreich (© Klein & Hubert/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Europ%C3%A4ischer+Igel&form=hpcapt&filters=HpDate%3a%2220260420_2200%22",
+        "title": "Stachelige Frühlingspatrouille",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260420_SpringHedgehog%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4849192c0995610efa51d729e4deb7c8",
+        "hsh": "d2f894287a7552a3e4abaaf4da22a5eb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Mit dem Frühling zeigt sich ein vertrauter Bewohner unserer Landschaften. Der Europäische Igel, der hier in Frankreich zu sehen ist, ist ein überwiegend nachtaktives Tier, das meist allein lebt. Mit seiner feinen Nase und seinem guten Gehör durchstreift er Wiesen, Gärten und Waldränder auf der Suche nach Insekten, Würmern oder Schnecken. Droht Gefahr, zieht er sich zusammen und formt eine schützende Stachelkugel – eine einfache, aber wirkungsvolle Strategie. Nach dem Winterschlaf kehren Igel in vielen Teilen Europas in ihre Reviere zurück. Ihr Stoffwechsel fährt nun wieder hoch und sie müssen rasch neue Energiereserven aufbauen.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpringHedgehog_DE-DE1345910488_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpringHedgehog_DE-DE1345910488_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Stachelige Frühlingspatrouille",
+                "Title": "Europäischer Igel, Frankreich",
+                "Copyright": "© Klein & Hubert/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Seine 5.000 bis 7.000 Stacheln sind keine echten Stacheln wie beim Stachelschwein, sondern feste, hohle Haare aus Keratin.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260421_SpringHedgehog\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Europ%c3%a4ischer+Igel&form=hpcapt&filters=HpDate:\"20260420_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260421_SpringHedgehog"
+            },
+            "Ssd": "20260421",
+            "Name": "SpringHedgehog",
+            "Market": "DE-DE",
+            "Hash": "1345910488",
+            "FullDateString": "21. Apr.. 2026"
+        }
+    },
+    {
         "startdate": "20260419",
         "fullstartdate": "202604192200",
         "enddate": "20260420",

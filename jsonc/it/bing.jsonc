@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260420",
+        "fullstartdate": "202604202200",
+        "enddate": "20260421",
+        "url": "/th?id=OHR.BirthdayRome_IT-IT3327641807_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BirthdayRome_IT-IT3327641807",
+        "copyright": "Piazza del Campidoglio, Roma, Lazio (© Deejpilot/iStock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Natale+di+Roma&form=hpcapt",
+        "title": "Dies Romana",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260420_BirthdayRome%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9a47c75de1b9e2134975ab07ee948c51",
+        "hsh": "7e9ac0e551c2145720ca76e5edae1d90",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Roma, la città eterna, è un palinsesto vibrante di storia, leggende e prodigi architettonici. Ogni suo scorcio sussurra secoli di vicende, dai fasti dei palazzi imperiali ai vicoli segreti, dai templi solenni alle piazze animate. Proprio qui, secondo la tradizione, il 21 aprile del 753 a.C. il mito si fece pietra. La leggenda vuole che Romolo e Remo, allattati da una lupa sulle rive del fiume Tevere, gettassero le fondamenta di quella che sarebbe divenuta il caput mundi. Romolo tracciò col vomere il confine sacro, il «pomerium», e Roma sorse tra rito, mito e realtà.",
+                "Image": {
+                    "Url": "/th?id=OHR.BirthdayRome_IT-IT3327641807_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BirthdayRome_IT-IT3327641807_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Dies Romana",
+                "Title": "Piazza del Campidoglio, Roma, Lazio",
+                "Copyright": "© Deejpilot/iStock/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.893729,12.482917/10?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=41.893729,12.482917;S9;Piazza del Campidoglio, Roma, Lazio&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260421_BirthdayRome\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Natale+di+Roma&form=hpcapt&filters=HpDate:\"20260420_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260421_BirthdayRome"
+            },
+            "Ssd": "20260421",
+            "Name": "BirthdayRome",
+            "Market": "IT-IT",
+            "Hash": "3327641807",
+            "FullDateString": "21 aprile 2026"
+        }
+    },
+    {
         "startdate": "20260419",
         "fullstartdate": "202604192200",
         "enddate": "20260420",

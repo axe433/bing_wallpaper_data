@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260420",
+        "fullstartdate": "202604200400",
+        "enddate": "20260421",
+        "url": "/th?id=OHR.MapleExtraction_EN-CA4012556624_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MapleExtraction_EN-CA4012556624",
+        "copyright": "Buckets on maple trees collecting sap for maple syrup (© capecodphoto/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Maple+syrup&form=hpcapt&filters=HpDate%3a%2220260420_0400%22",
+        "title": "Canada's liquid gold",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260420_MapleExtraction%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "762fa985d8fa84abe9f61f636be97a4a",
+        "hsh": "e2d1dd5e5e6f8b582738b264dfee6b44",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Have you ever enjoyed a plate of pancakes drizzled with maple syrup? That sweet pour starts its journey on a maple tree, following a very particular rhythm in nature. In late winter, sugar maple trees are tapped when days rise above freezing and nights drop below—this freeze–thaw cycle pushes sap through the tree. The clear sap is collected, then boiled down for hours—about 40 litres to make just 1 litre of syrup. The season is brief, often lasting only a few weeks between February and April, so timing matters. Traditional buckets still exist, though many producers now use vacuum tubing to improve efficiency.",
+                "Image": {
+                    "Url": "/th?id=OHR.MapleExtraction_EN-CA4012556624_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MapleExtraction_EN-CA4012556624_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Canada's liquid gold",
+                "Title": "Buckets on maple trees collecting sap for maple syrup",
+                "Copyright": "© capecodphoto/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "The Great Canadian Maple Syrup Heist (2011–2012) saw nearly 3,000 tonnes of maple syrup stolen over several months from a Quebec storage facility.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260420_MapleExtraction\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Maple+syrup&form=hpcapt&filters=HpDate:\"20260420_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260420_MapleExtraction"
+            },
+            "Ssd": "20260420",
+            "Name": "MapleExtraction",
+            "Market": "EN-CA",
+            "Hash": "4012556624",
+            "FullDateString": "Apr. 20, 2026"
+        }
+    },
+    {
         "startdate": "20260419",
         "fullstartdate": "202604190400",
         "enddate": "20260420",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260420",
+        "fullstartdate": "202604201500",
+        "enddate": "20260421",
+        "url": "/th?id=OHR.SpringHedgehog_JA-JP0798616014_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpringHedgehog_JA-JP0798616014",
+        "copyright": "ハリネズミ, フランス (© Klein & Hubert/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%8F%E3%83%AA%E3%83%8D%E3%82%BA%E3%83%9F&form=hpcapt&filters=HpDate%3a%2220260420_1500%22",
+        "title": "緑の中にたたずむ小動物",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260420_SpringHedgehog%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4849192c0995610efa51d729e4deb7c8",
+        "hsh": "e490ebb4dae65e4721f7f87de8cdeb3b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日の写真は、フランスで撮影されたハリネズミです。文字通り体に針のようなトゲを持つこの動物は、視力が弱く、嗅覚と聴覚を頼りに、ミミズや昆虫、カエル、種子などを探して食べます。単独行動を好み、他のハリネズミと行動するのは繁殖・子育ての時のみです。「ネズミ」と名前についているものの、モグラに近い動物であり、土を掘り巣穴をつくる種も存在します。",
+                "Image": {
+                    "Url": "/th?id=OHR.SpringHedgehog_JA-JP0798616014_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpringHedgehog_JA-JP0798616014_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "緑の中にたたずむ小動物",
+                "Title": "ハリネズミ, フランス",
+                "Copyright": "© Klein & Hubert/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.624809,2.458377/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=46.624809,2.458377;S9;フランス&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260421_SpringHedgehog%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260421_SpringHedgehog\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%8f%e3%83%aa%e3%83%8d%e3%82%ba%e3%83%9f&form=hpcapt&filters=HpDate:\"20260420_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260421_SpringHedgehog"
+            },
+            "Ssd": "20260421",
+            "Name": "SpringHedgehog",
+            "Market": "JA-JP",
+            "Hash": "0798616014",
+            "FullDateString": "2026 年 4月 月 21 日"
+        }
+    },
+    {
         "startdate": "20260419",
         "fullstartdate": "202604191500",
         "enddate": "20260420",
