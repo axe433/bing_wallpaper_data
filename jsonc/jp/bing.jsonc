@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260421",
+        "fullstartdate": "202604211500",
+        "enddate": "20260422",
+        "url": "/th?id=OHR.TartuEstonia_JA-JP0849293902_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TartuEstonia_JA-JP0849293902",
+        "copyright": "アラムペジャ自然保護区, エストニア (© Sven Zacek/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%9C%B0%E7%90%83%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260421_1500%22",
+        "title": "今日は地球の日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260421_TartuEstonia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ddc10837a3b16f5875b22c165d267c23",
+        "hsh": "897544e3b7586dbc584fee2c0cea6a21",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 4 月 22 日は地球の日（アースデイ）。地球環境について考える日であり、毎年世界各地でイベントが行われています。2026 年のテーマは、「Our Power, Our Planet™」で、再生可能エネルギーへの転換を加速するとともに、持続可能な未来を創り出す「力」について確認することを目的としています。そして、この「力」を象徴するのが今日の画像、エストニア最大の自然保護区・アラムペジャ自然保護区です。余計な手を加えず自然そのものが持つ「力」のみで循環させることで、ヨーロッパ最大級の湿地帯を守り続けています。",
+                "Image": {
+                    "Url": "/th?id=OHR.TartuEstonia_JA-JP0849293902_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TartuEstonia_JA-JP0849293902_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日は地球の日",
+                "Title": "アラムペジャ自然保護区, エストニア",
+                "Copyright": "© Sven Zacek/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/58.466962,26.199996/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=58.466962,26.199996;S9;アラムペジャ自然保護区, エストニア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260422_TartumaaEstonia%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260422_TartuEstonia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%9c%b0%e7%90%83%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate:\"20260421_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260422_TartuEstonia"
+            },
+            "Ssd": "20260422",
+            "Name": "TartuEstonia",
+            "Market": "JA-JP",
+            "Hash": "0849293902",
+            "FullDateString": "2026 年 4月 月 22 日"
+        }
+    },
+    {
         "startdate": "20260420",
         "fullstartdate": "202604201500",
         "enddate": "20260421",

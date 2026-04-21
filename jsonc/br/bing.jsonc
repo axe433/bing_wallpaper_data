@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260421",
+        "fullstartdate": "202604210300",
+        "enddate": "20260422",
+        "url": "/th?id=OHR.SpringHedgehog_PT-BR1931762444_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpringHedgehog_PT-BR1931762444",
+        "copyright": "Ouriço-terrestre na França (© Klein & Hubert/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=ourico+terrestre&form=hpcapt&mkt=pt-br",
+        "title": "Uma estratégia espinhosa",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260421_SpringHedgehog%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4849192c0995610efa51d729e4deb7c8",
+        "hsh": "5cc94160b2893ab2dde1b5d7475b6037",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Fotografado na França, este ouriço-terrestre é daqueles personagens que trabalham enquanto o resto do mundo dorme. Metade fofura, metade armadura viva, ele não corre nem confronta ao menor sinal de perigo: enrola-se em uma esfera perfeita, deixando que seus espinhos falem por ele. Em regiões frias, hiberna durante o inverno e reaparece quando o solo ao redor volta à vida. À noite, percorre o chão da floresta em busca de invertebrados como minhocas, besouros, lesmas e lagartas, guiado por faro e audição. Ao consumir o que muita gente considera praga, atua como um controle biológico natural, ajudando a manter jardins e ecossistemas em funcionamento.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpringHedgehog_PT-BR1931762444_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpringHedgehog_PT-BR1931762444_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Uma estratégia espinhosa",
+                "Title": "Ouriço-terrestre na França",
+                "Copyright": "© Klein & Hubert/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260421_SpringHedgehog\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=ourico+terrestre&form=hpcapt&filters=HpDate:\"20260421_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260421_SpringHedgehog"
+            },
+            "Ssd": "20260421",
+            "Name": "SpringHedgehog",
+            "Market": "PT-BR",
+            "Hash": "1931762444",
+            "FullDateString": "21 abr. 2026"
+        }
+    },
+    {
         "startdate": "20260420",
         "fullstartdate": "202604200300",
         "enddate": "20260421",

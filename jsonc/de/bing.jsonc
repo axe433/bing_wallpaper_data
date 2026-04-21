@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260421",
+        "fullstartdate": "202604212200",
+        "enddate": "20260422",
+        "url": "/th?id=OHR.TartuEstonia_DE-DE1682620724_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TartuEstonia_DE-DE1682620724",
+        "copyright": "Naturschutzgebiet Alam‑Pedja, Landkreis Tartu, Estland (© Sven Zacek/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Tag+der+Erde&form=hpcapt&filters=HpDate%3a%2220260421_2200%22",
+        "title": "Die Stimme der Erde",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260421_TartuEstonia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ddc10837a3b16f5875b22c165d267c23",
+        "hsh": "0de2502b075e6b18f4bc670a85e67abe",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Der Tag der Erde erinnert daran, dass Umweltbewusstsein aus konkreten Sorgen entstanden ist. Im Jahr 1970 machten Proteste auf verschmutzte Flüsse, belastete Luft und zerstörte Landschaften aufmerksam und setzten damit politische Veränderungen in Gang. Heute wird der 22. April weltweit begangen, um Bilanz zu ziehen und neue Ziele zu formulieren. Das Motto „Our Power, Our Planet“ für das Jahr 2026 richtet dabei den Blick nach vorn: Bis 2030 soll die globale Kapazität erneuerbarer Energien deutlich ausgebaut werden.",
+                "Image": {
+                    "Url": "/th?id=OHR.TartuEstonia_DE-DE1682620724_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TartuEstonia_DE-DE1682620724_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Die Stimme der Erde",
+                "Title": "Naturschutzgebiet Alam‑Pedja, Landkreis Tartu, Estland",
+                "Copyright": "© Sven Zacek/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/58.466962,26.199884/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=58.466962,26.199884;S9;Naturschutzgebiet Alam‑Pedja, Landkreis Tartu, Estland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260422_TartuEstonia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tag+der+Erde&form=hpcapt&filters=HpDate:\"20260421_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260422_TartuEstonia"
+            },
+            "Ssd": "20260422",
+            "Name": "TartuEstonia",
+            "Market": "DE-DE",
+            "Hash": "1682620724",
+            "FullDateString": "22. Apr.. 2026"
+        }
+    },
+    {
         "startdate": "20260420",
         "fullstartdate": "202604202200",
         "enddate": "20260421",
