@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260422",
+        "fullstartdate": "202604220700",
+        "enddate": "20260423",
+        "url": "/th?id=OHR.TartuEstonia_EN-US1627168155_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TartuEstonia_EN-US1627168155",
+        "copyright": "Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Earth+Day&form=hpcapt&filters=HpDate%3a%2220260422_0700%22",
+        "title": "The power of protest",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260422_TartuEstonia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ddc10837a3b16f5875b22c165d267c23",
+        "hsh": "e80c009174ec8e0ea6613fe0419e459f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Earth Day didn't knock gently. It kicked the door wide open. In 1970, oil‑soaked beaches, burning rivers, and toxic air mobilized millions into street protests. When looking away was no longer an option, conservation was forced onto political agendas, sparking landmark environmental laws and flipping planet‑care from fringe concern to global priority. Every April 22, over 190 countries pause, reflect, and reassess.",
+                "Image": {
+                    "Url": "/th?id=OHR.TartuEstonia_EN-US1627168155_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TartuEstonia_EN-US1627168155_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "The power of protest",
+                "Title": "Alam-Pedja Nature Reserve in Tartu County, Estonia",
+                "Copyright": "© Sven Zacek/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/58.466962,26.199884/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=58.466962,26.199884;S9;Alam-Pedja Nature Reserve, Tartu County, Estonia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260422_TartuEstonia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Earth+Day&form=hpcapt&filters=HpDate:\"20260422_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260422_TartuEstonia"
+            },
+            "Ssd": "20260422",
+            "Name": "TartuEstonia",
+            "Market": "EN-US",
+            "Hash": "1627168155",
+            "FullDateString": "Apr 22, 2026"
+        }
+    },
+    {
         "startdate": "20260421",
         "fullstartdate": "202604210700",
         "enddate": "20260422",

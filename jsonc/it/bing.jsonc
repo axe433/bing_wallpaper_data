@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260422",
+        "fullstartdate": "202604222200",
+        "enddate": "20260423",
+        "url": "/th?id=OHR.HathawayCottage_IT-IT3206612879_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HathawayCottage_IT-IT3206612879",
+        "copyright": "Cottage di Anne Hathaway, Stratford-upon-Avon, Inghilterra (© David Steele/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=William+Shakespeare&form=hpcapt",
+        "title": "Un cottage, mille storie",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260422_HathawayCottage%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "74e3cb62d3d048c7e0949c9e644e97bf",
+        "hsh": "2ffbb7763e89fca7ed3d6949ca7c9c72",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ogni 23 aprile si alza il sipario sulla vita e sull’eredità di William Shakespeare, drammaturgo le cui parole continuano a dominare il palcoscenico della letteratura mondiale. Lo «Shakespeare Day» commemora l’anniversario della sua morte, avvenuta nel 1616, e la data tradizionalmente accettata della sua nascita, nel 1564, un accostamento simbolico che celebra uno scrittore le cui opere hanno rivoluzionato la letteratura inglese. Dai profondi turbamenti psicologici di «Amleto» al romance eterno di «Romeo e Giulietta», il suo linguaggio risuona ancora in aule, teatri e nella vita quotidiana.",
+                "Image": {
+                    "Url": "/th?id=OHR.HathawayCottage_IT-IT3206612879_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HathawayCottage_IT-IT3206612879_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Un cottage, mille storie",
+                "Title": "Cottage di Anne Hathaway, Stratford-upon-Avon, Inghilterra",
+                "Copyright": "© David Steele/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.190984,-1.732059/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=52.190984,-1.732059;S9;Cottage di Anne Hathaway, Stratford-upon-Avon, Inghilterra&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260423_HathawayCottage\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=William+Shakespeare&form=hpcapt&filters=HpDate:\"20260422_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260423_HathawayCottage"
+            },
+            "Ssd": "20260423",
+            "Name": "HathawayCottage",
+            "Market": "IT-IT",
+            "Hash": "3206612879",
+            "FullDateString": "23 aprile 2026"
+        }
+    },
+    {
         "startdate": "20260421",
         "fullstartdate": "202604212200",
         "enddate": "20260422",

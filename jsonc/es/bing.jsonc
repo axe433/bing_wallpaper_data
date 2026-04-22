@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260422",
+        "fullstartdate": "202604222200",
+        "enddate": "20260423",
+        "url": "/th?id=OHR.SantJordiBook_ES-ES2987257129_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SantJordiBook_ES-ES2987257129",
+        "copyright": "Rosa roja dentro de un libro abierto (© Albert Cabezas/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+de+Sant+Jordi&form=hpcapt&filters=HpDate%3a%2220260422_2200%22",
+        "title": "Historias que florecen",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260422_SantJordiBook%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "67459bbf9cad9767e762f92087466e4e",
+        "hsh": "553e2ca808aa008846592fbe3182418e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Cada 23 de abril, Sant Jordi transforma las calles en un escaparate de libros y rosas. En Cataluña, autores y lectores se encuentran al aire libre mientras las librerías salen a la calle, creando una celebración cultural única que mezcla tradición y vida cotidiana. El gesto de regalar una rosa tiene su origen medieval y se vinculó más tarde al intercambio de libros.",
+                "Image": {
+                    "Url": "/th?id=OHR.SantJordiBook_ES-ES2987257129_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SantJordiBook_ES-ES2987257129_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Historias que florecen",
+                "Title": "Rosa roja dentro de un libro abierto",
+                "Copyright": "© Albert Cabezas/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "El 23 de abril, en Sant Jordi, la tradición marca regalar una rosa y un libro, una costumbre nacida en Cataluña y que inspiró el Día Mundial del Libro.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260423_SantJordiBook\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=D%c3%ada+de+Sant+Jordi&form=hpcapt&filters=HpDate:\"20260422_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260423_SantJordiBook"
+            },
+            "Ssd": "20260423",
+            "Name": "SantJordiBook",
+            "Market": "ES-ES",
+            "Hash": "2987257129",
+            "FullDateString": "23 de abr. de 2026"
+        }
+    },
+    {
         "startdate": "20260421",
         "fullstartdate": "202604212200",
         "enddate": "20260422",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260422",
+        "fullstartdate": "202604222200",
+        "enddate": "20260423",
+        "url": "/th?id=OHR.HathawayCottage_FR-FR2526098713_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HathawayCottage_FR-FR2526098713",
+        "copyright": "Cottage d’Anne Hathaway, Stratford-upon-Avon, Angleterre (© David Steele/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Shakespeare&form=hpcapt&filters=HpDate%3a%2220260422_2200%22",
+        "title": "Un cottage plein d’histoires",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260422_HathawayCottage%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "74e3cb62d3d048c7e0949c9e644e97bf",
+        "hsh": "0e384ed2d8242ee0a59e6a4a6f39c9ec",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Chaque 23 avril, le rideau se lève sur la vie et l’héritage de William Shakespeare, figure dont les mots continuent d’habiter la scène littéraire mondiale. Cette date fait écho à la fois à sa disparition en 1616 et à la célébration traditionnelle de sa naissance en 1564 : un miroir symbolique pour un auteur qui a redéfini les contours du théâtre anglais. Des tourments d’Hamlet aux élans tragiques de Roméo et Juliette, son langage traverse encore salles de classe, scènes illuminées et conversations ordinaires. Ses pièces résonnent dans des dizaines de langues à travers le monde.",
+                "Image": {
+                    "Url": "/th?id=OHR.HathawayCottage_FR-FR2526098713_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HathawayCottage_FR-FR2526098713_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Un cottage plein d'histoires",
+                "Title": "Cottage d’Anne Hathaway, Stratford-upon-Avon, Angleterre",
+                "Copyright": "© David Steele/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.190984,-1.732059/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=52.190984,-1.732059;S9;Cottage d’Anne Hathaway, Angleterre&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260423_HathawayCottage\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Shakespeare&form=hpcapt&filters=HpDate:\"20260422_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260423_HathawayCottage"
+            },
+            "Ssd": "20260423",
+            "Name": "HathawayCottage",
+            "Market": "FR-FR",
+            "Hash": "2526098713",
+            "FullDateString": "23 avr. 2026"
+        }
+    },
+    {
         "startdate": "20260421",
         "fullstartdate": "202604212200",
         "enddate": "20260422",

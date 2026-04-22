@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260422",
+        "fullstartdate": "202604222300",
+        "enddate": "20260423",
+        "url": "/th?id=OHR.StGeorgeDay2026_EN-GB4338835487_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.StGeorgeDay2026_EN-GB4338835487",
+        "copyright": "Windsor Castle, Berkshire, England (© Mistervlad/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Saint+Georges+Day&form=hpcapt&filters=HpDate%3a%2220260422_2300%22",
+        "title": "Faith, fire and folklore",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260422_StGeorgeDay2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6a77215956edcb70c81bd4f37d053d98",
+        "hsh": "cb53552e385c89924467cd56d32b2ae5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Every country has a hero. England has one who fought a dragon, carried a red cross and wasn't even English. Meet Saint George—a legend that proves good stories have great travel plans. Celebrated on 23 April, Saint George's Day honours courage and conviction. Though often shown as a gleaming knight, George was a Roman soldier martyred for refusing to give up his faith. The dragon? A later add-on—because history is good, but dragons make it legendary.",
+                "Image": {
+                    "Url": "/th?id=OHR.StGeorgeDay2026_EN-GB4338835487_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.StGeorgeDay2026_EN-GB4338835487_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Faith, fire and folklore",
+                "Title": "Windsor Castle, Berkshire, England",
+                "Copyright": "© Mistervlad/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.483887,-0.604393/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=51.483887,-0.604393;S9;Windsor Castle, Berkshire, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260423_StGeorgeDay2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Saint+Georges+Day&form=hpcapt&filters=HpDate:\"20260422_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260423_StGeorgeDay2026"
+            },
+            "Ssd": "20260423",
+            "Name": "StGeorgeDay2026",
+            "Market": "EN-GB",
+            "Hash": "4338835487",
+            "FullDateString": "23 Apr 2026"
+        }
+    },
+    {
         "startdate": "20260421",
         "fullstartdate": "202604212300",
         "enddate": "20260422",
