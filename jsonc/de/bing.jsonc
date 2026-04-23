@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260423",
+        "fullstartdate": "202604232200",
+        "enddate": "20260424",
+        "url": "/th?id=OHR.GalapagosPenguins_DE-DE2195733852_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GalapagosPenguins_DE-DE2195733852",
+        "copyright": "Galápagos‑Pinguine beim Schwimmen, Galapagosinseln, Ecuador (© Henley Spiers/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Gal%C3%A1pagos-Pinguin&form=hpcapt&filters=HpDate%3a%2220260423_2200%22",
+        "title": "Wenn Pinguine aus der Reihe tanzen",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260423_GalapagosPenguins%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "417c39cf95a7379ae81cfe20ceda0ffc",
+        "hsh": "4047d2d49a6ca9160da3bd5c7813fe3b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Pinguine werden meist mit eisigen Regionen in Verbindung gebracht, doch die Galápagos‑Pinguine bilden eine bemerkenswerte Ausnahme. Als einzige Pinguinart reicht ihr natürliches Verbreitungsgebiet bis nördlich des Äquators. Beheimatet sind sie ausschließlich auf den Galapagosinseln, einem vulkanischen Archipel, das rund 1.000 Kilometer vor der Küste Ecuadors liegt.",
+                "Image": {
+                    "Url": "/th?id=OHR.GalapagosPenguins_DE-DE2195733852_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GalapagosPenguins_DE-DE2195733852_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Wenn Pinguine aus der Reihe tanzen",
+                "Title": "Galápagos‑Pinguine beim Schwimmen, Galapagosinseln, Ecuador",
+                "Copyright": "© Henley Spiers/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-0.859397,-91.215904/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=-0.859397,-91.215904;S9;Galapagosinseln, Ecuador&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260424_GalapagosPenguins\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Gal%c3%a1pagos-Pinguin&form=hpcapt&filters=HpDate:\"20260423_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260424_GalapagosPenguins"
+            },
+            "Ssd": "20260424",
+            "Name": "GalapagosPenguins",
+            "Market": "DE-DE",
+            "Hash": "2195733852",
+            "FullDateString": "24. Apr.. 2026"
+        }
+    },
+    {
         "startdate": "20260422",
         "fullstartdate": "202604222200",
         "enddate": "20260423",

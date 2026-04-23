@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260423",
+        "fullstartdate": "202604232200",
+        "enddate": "20260424",
+        "url": "/th?id=OHR.SlashPine_IT-IT3134964767_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SlashPine_IT-IT3134964767",
+        "copyright": "Pini nel parco nazionale delle Everglades, Florida, USA (© Mary Liz Austin/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Parco+nazionale+delle+Everglades&form=hpcapt",
+        "title": "Naturalismo mitologico",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260423_SlashPine%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "622d0feeb5f9637d0658277b04938a29",
+        "hsh": "1c9c03f59695ca140f71c732614bb7e7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nel parco nazionale delle Everglades, nello Stato americano della Florida, le pinete sopraelevate si ergono sopra le vaste paludi e le praterie che formano uno dei più grandi sistemi di zone umide del mondo. I pini di Elliott e le palme nane creano boschi aperti che contrastano con le distese d’acqua e le mangrovie, offrendo rifugio a numerose specie e sostenendo l’equilibrio di questo ecosistema subtropicale.",
+                "Image": {
+                    "Url": "/th?id=OHR.SlashPine_IT-IT3134964767_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SlashPine_IT-IT3134964767_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Naturalismo mitologico",
+                "Title": "Pini nel parco nazionale delle Everglades, Florida, USA",
+                "Copyright": "© Mary Liz Austin/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/25.400611,-80.658833/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=25.400611,-80.658833;S9;Parco nazionale delle Everglades, Florida, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260424_SlashPine\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parco+nazionale+delle+Everglades&form=hpcapt&filters=HpDate:\"20260423_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260424_SlashPine"
+            },
+            "Ssd": "20260424",
+            "Name": "SlashPine",
+            "Market": "IT-IT",
+            "Hash": "3134964767",
+            "FullDateString": "24 aprile 2026"
+        }
+    },
+    {
         "startdate": "20260422",
         "fullstartdate": "202604222200",
         "enddate": "20260423",

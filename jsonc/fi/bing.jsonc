@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260423",
+        "fullstartdate": "202604230700",
+        "enddate": "20260424",
+        "url": "/th?id=OHR.ChiffchaffSpring_ROW0928406195_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ChiffchaffSpring_ROW0928406195",
+        "copyright": "Common chiffchaff, Germany (© Andyworks/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Common+chiffchaff&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260423_ChiffchaffSpring%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ddb4c702017c1860b1980281ae4b6836",
+        "hsh": "be00e11b79886dcab32b15dbeb18ae48",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Small, lively and instantly recognisable by its call: the chiffchaff is one of Germany's most common songbirds and a true harbinger of spring. As early as late February, the first males return from their winter quarters in the Mediterranean or south-western Europe and begin their distinctive song, which gives the species its name. This clear 'chiff-chaff, chiff-chaff' makes it easy to locate, even when it remains hidden in dense vegetation.",
+                "Image": {
+                    "Url": "/th?id=OHR.ChiffchaffSpring_ROW0928406195_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ChiffchaffSpring_ROW0928406195_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Common chiffchaff, Germany",
+                "Copyright": "© Andyworks/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260423_ChiffchaffSpring\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Common+chiffchaff&form=hpcapt&filters=HpDate:\"20260423_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260423_ChiffchaffSpring"
+            },
+            "Ssd": "20260423",
+            "Name": "ChiffchaffSpring",
+            "Market": "ROW",
+            "Hash": "0928406195",
+            "FullDateString": "23. huhtik. 2026"
+        }
+    },
+    {
         "startdate": "20260422",
         "fullstartdate": "202604220700",
         "enddate": "20260423",
