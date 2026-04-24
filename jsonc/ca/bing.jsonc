@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260424",
+        "fullstartdate": "202604240400",
+        "enddate": "20260425",
+        "url": "/th?id=OHR.SlashPine_EN-CA5488126378_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SlashPine_EN-CA5488126378",
+        "copyright": "Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida, United States (© Mary Liz Austin/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Arbor+Day&form=hpcapt&filters=HpDate%3a%2220260424_0400%22",
+        "title": "A tribute to trees",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260424_SlashPine%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "622d0feeb5f9637d0658277b04938a29",
+        "hsh": "4a7d5520b93fdfa7080ce801eae2312e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Arbor Day celebrates the quiet power of trees—the way they steady ecosystems, shelter wildlife, cool cities and shape the environments we rely on every day. Observed in the United States on the last Friday in April, the day encourages communities there—and in many other countries, where dates vary with the growing season—to plant, protect and care for forests of every kind.",
+                "Image": {
+                    "Url": "/th?id=OHR.SlashPine_EN-CA5488126378_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SlashPine_EN-CA5488126378_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A tribute to trees",
+                "Title": "Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida, United States",
+                "Copyright": "© Mary Liz Austin/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/25.400611,-80.658833/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=25.400611,-80.658833;S9;Everglades National Park, Florida, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260424_SlashPine\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Arbor+Day&form=hpcapt&filters=HpDate:\"20260424_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260424_SlashPine"
+            },
+            "Ssd": "20260424",
+            "Name": "SlashPine",
+            "Market": "EN-CA",
+            "Hash": "5488126378",
+            "FullDateString": "Apr. 24, 2026"
+        }
+    },
+    {
         "startdate": "20260423",
         "fullstartdate": "202604230400",
         "enddate": "20260424",

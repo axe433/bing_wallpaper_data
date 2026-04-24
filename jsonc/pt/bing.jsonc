@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260424",
+        "fullstartdate": "202604240700",
+        "enddate": "20260425",
+        "url": "/th?id=OHR.SlashPine_ROW9169451135_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SlashPine_ROW9169451135",
+        "copyright": "Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida, United States (© Mary Liz Austin/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Everglades+National+Park+Florida&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260424_SlashPine%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "622d0feeb5f9637d0658277b04938a29",
+        "hsh": "7e6882c77d8a8a69ada65e9190f43000",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "What happens when water moves too slowly to notice? In Everglades National Park, it shapes everything. Covering around 6,100 square kilometres, the park was established in 1947 to protect a wetland system unlike any other in the United States. As a recognised UNESCO World Heritage Site, the park's elevated pinelands rise above the marshes and prairies that form one of the world's largest wetland systems.",
+                "Image": {
+                    "Url": "/th?id=OHR.SlashPine_ROW9169451135_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SlashPine_ROW9169451135_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida, United States",
+                "Copyright": "© Mary Liz Austin/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260424_SlashPine\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Everglades+National+Park+Florida&form=hpcapt&filters=HpDate:\"20260424_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260424_SlashPine"
+            },
+            "Ssd": "20260424",
+            "Name": "SlashPine",
+            "Market": "ROW",
+            "Hash": "9169451135",
+            "FullDateString": "24 abr. 2026"
+        }
+    },
+    {
         "startdate": "20260423",
         "fullstartdate": "202604230700",
         "enddate": "20260424",

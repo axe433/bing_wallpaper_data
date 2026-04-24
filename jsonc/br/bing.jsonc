@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260424",
+        "fullstartdate": "202604240300",
+        "enddate": "20260425",
+        "url": "/th?id=OHR.TranBA_PT-BR9169558101_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TranBA_PT-BR9169558101",
+        "copyright": "Praia do Espelho, Porto Seguro, Bahia (© Marcelo Nacinovic/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Bahia+Trancoso&form=hpcapt&mkt=pt-br",
+        "title": "O espelho que o mar desenhou",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260424_TranBA%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "41018c1119586a3008d4e108f54d78ba",
+        "hsh": "8128e7e2f1bd52d3e9d6ebcda449a3f0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Vista de cima, a Praia do Espelho, na Bahia, parece uma aquarela que resolveu virar geografia. Falésias claras, recifes pontuando o mar e um mosaico de piscinas naturais que, na maré baixa, refletem céu e nuvens, criando o efeito espelhado que batizou o lugar. Ela fica entre os distritos de Trancoso e Caraíva, em Porto Seguro. O acesso, por estrada de terra e trilhas curtas, é um filtro natural contra multidões, reforçando a sensação de estarmos diante de um segredo bem guardado. E por muito tempo foi mesmo, restrito ao boca a boca — até entrar no radar dos viajantes nos anos 1990 e começar a ganhar espaço em listas e roteiros de viagem.",
+                "Image": {
+                    "Url": "/th?id=OHR.TranBA_PT-BR9169558101_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TranBA_PT-BR9169558101_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O espelho que o mar desenhou",
+                "Title": "Praia do Espelho, Porto Seguro, Bahia",
+                "Copyright": "© Marcelo Nacinovic/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260424_TranBA\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Bahia+Trancoso&form=hpcapt&filters=HpDate:\"20260424_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260424_TranBA"
+            },
+            "Ssd": "20260424",
+            "Name": "TranBA",
+            "Market": "PT-BR",
+            "Hash": "9169558101",
+            "FullDateString": "24 abr. 2026"
+        }
+    },
+    {
         "startdate": "20260423",
         "fullstartdate": "202604230300",
         "enddate": "20260424",

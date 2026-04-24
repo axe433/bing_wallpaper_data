@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260424",
+        "fullstartdate": "202604242200",
+        "enddate": "20260425",
+        "url": "/th?id=OHR.GalapagosPenguins_ES-ES3782706188_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GalapagosPenguins_ES-ES3782706188",
+        "copyright": "Pingüinos de las Galápagos nadando, islas Galápagos, Ecuador (© Henley Spiers/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+Mundial+del+Ping%C3%BCino&form=hpcapt&filters=HpDate%3a%2220260424_2200%22",
+        "title": "Rompiendo las reglas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260424_GalapagosPenguins%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "417c39cf95a7379ae81cfe20ceda0ffc",
+        "hsh": "7fbf70872c13bc1db715b9faed212ba2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Cada 25 de abril se celebra el Día Mundial del Pingüino, una fecha para destacar la importancia de estas aves marinas y recordar los desafíos que enfrentan en un planeta cambiante. Habitan principalmente en el hemisferio sur y cumplen un papel clave en los ecosistemas oceánicos al reflejar la salud de los mares. El calentamiento del agua, la sobrepesca y la contaminación amenazan su alimentación y sus rutas de reproducción, por lo que la divulgación y la protección de sus hábitats resultan esenciales.",
+                "Image": {
+                    "Url": "/th?id=OHR.GalapagosPenguins_ES-ES3782706188_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GalapagosPenguins_ES-ES3782706188_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Rompiendo las reglas",
+                "Title": "Pingüinos de las Galápagos nadando, islas Galápagos, Ecuador",
+                "Copyright": "© Henley Spiers/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-0.859397,-91.215904/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=-0.859397,-91.215904;S9;Islas Galápagos, Ecuador&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260425_GalapagosPenguins\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=D%c3%ada+Mundial+del+Ping%c3%bcino&form=hpcapt&filters=HpDate:\"20260424_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260425_GalapagosPenguins"
+            },
+            "Ssd": "20260425",
+            "Name": "GalapagosPenguins",
+            "Market": "ES-ES",
+            "Hash": "3782706188",
+            "FullDateString": "25 de abr. de 2026"
+        }
+    },
+    {
         "startdate": "20260423",
         "fullstartdate": "202604232200",
         "enddate": "20260424",
