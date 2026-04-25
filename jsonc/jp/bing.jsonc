@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260425",
+        "fullstartdate": "202604251500",
+        "enddate": "20260426",
+        "url": "/th?id=OHR.AppleBlossoms_JA-JP1155653651_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AppleBlossoms_JA-JP1155653651",
+        "copyright": "リンゴの花, 米国 カリフォルニア州 (© Mimi Ditchie Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%AA%E3%83%B3%E3%82%B4%E3%81%AE%E8%8A%B1&form=hpcapt&filters=HpDate%3a%2220260425_1500%22",
+        "title": "やさしく咲く淡いピンクの花",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260425_AppleBlossoms%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d3a36351ec711c531e6397f6c4ce72c0",
+        "hsh": "03e81dd9afdd692433048ade4213c49a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日の画像は、米国カリフォルニア州中部にあるアビラ・ビーチ周辺で撮影されたリンゴの花です。春になると、アビラ・ビーチの内陸側に広がる果樹園では、やわらかなピンク色の花々が咲き誇ります。穏やかな気温と日差しに、心地よい海風がやさしく彩りを添え、春の訪れを感じさせてくれます。春の陽気は、ハイキングやサイクリング、ゴルフなどのアウトドアアクティビティを楽しむ人々を屋外へと誘います。",
+                "Image": {
+                    "Url": "/th?id=OHR.AppleBlossoms_JA-JP1155653651_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AppleBlossoms_JA-JP1155653651_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "やさしく咲く淡いピンクの花",
+                "Title": "リンゴの花, 米国 カリフォルニア州",
+                "Copyright": "© Mimi Ditchie Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.2168,-120.72219/13?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=35.2168,-120.72219;S9;アビラ・ビーチ, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260426_AppleBlossoms%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260426_AppleBlossoms\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%aa%e3%83%b3%e3%82%b4%e3%81%ae%e8%8a%b1&form=hpcapt&filters=HpDate:\"20260425_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260426_AppleBlossoms"
+            },
+            "Ssd": "20260426",
+            "Name": "AppleBlossoms",
+            "Market": "JA-JP",
+            "Hash": "1155653651",
+            "FullDateString": "2026 年 4月 月 26 日"
+        }
+    },
+    {
         "startdate": "20260424",
         "fullstartdate": "202604241500",
         "enddate": "20260425",

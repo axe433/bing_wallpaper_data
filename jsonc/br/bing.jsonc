@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260425",
+        "fullstartdate": "202604250300",
+        "enddate": "20260426",
+        "url": "/th?id=OHR.GalapagosPenguins_PT-BR4013485362_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GalapagosPenguins_PT-BR4013485362",
+        "copyright": "Pinguins-das-galápagos nadando, Ilhas Galápagos, Equador (© Henley Spiers/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=dia+pinguim&form=hpcapt&mkt=pt-br",
+        "title": "Pinguins fora do script",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260425_GalapagosPenguins%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "417c39cf95a7379ae81cfe20ceda0ffc",
+        "hsh": "a9f3c303529ad11bdcc44e927e9cdce6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nem todo clássico da natureza segue a regra e, no Dia Mundial do Pinguim, os pinguins-das-galápagos da imagem quebram o estereótipo. Como o nome indica, eles habitam o arquipélago de Galápagos e são a única espécie do planeta que vive ao norte da Linha do Equador. O truque não é sorte: correntes marítimas frias trazem nutrientes e temperaturas toleráveis.",
+                "Image": {
+                    "Url": "/th?id=OHR.GalapagosPenguins_PT-BR4013485362_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GalapagosPenguins_PT-BR4013485362_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Pinguins fora do script",
+                "Title": "Pinguins-das-galápagos nadando, Ilhas Galápagos, Equador",
+                "Copyright": "© Henley Spiers/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260425_GalapagosPenguins\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=dia+pinguim&form=hpcapt&filters=HpDate:\"20260425_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260425_GalapagosPenguins"
+            },
+            "Ssd": "20260425",
+            "Name": "GalapagosPenguins",
+            "Market": "PT-BR",
+            "Hash": "4013485362",
+            "FullDateString": "25 abr. 2026"
+        }
+    },
+    {
         "startdate": "20260424",
         "fullstartdate": "202604240300",
         "enddate": "20260425",

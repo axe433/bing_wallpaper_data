@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260425",
+        "fullstartdate": "202604252200",
+        "enddate": "20260426",
+        "url": "/th?id=OHR.AppleBlossoms_IT-IT2955443064_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AppleBlossoms_IT-IT2955443064",
+        "copyright": "Fiori di melo rosa, Avila Beach, California, USA (© Mimi Ditchie Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Melo+albero&form=hpcapt",
+        "title": "Melo mangio?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260425_AppleBlossoms%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d3a36351ec711c531e6397f6c4ce72c0",
+        "hsh": "748da35b1633683dc548a0af14af3053",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La primavera risveglia i meli, avvolgendoli in nuvole di soffici fiori rosati. I petali, fragili come seta, accendono frutteti e colline, emergendo contro l’azzurro limpido del cielo. In questo delicato passaggio di stagione, api e farfalle danzano tra i rami in fiore, portando con sé la promessa dei frutti che matureranno nei mesi a venire. Lungo la costa americana della California, il clima gentile e il sole costante accompagnano questo spettacolo naturale. Nei dintorni di Avila Beach, i pendii e le valli si tingono di fioriture leggere, mentre la brezza dell’oceano accarezza il paesaggio.",
+                "Image": {
+                    "Url": "/th?id=OHR.AppleBlossoms_IT-IT2955443064_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AppleBlossoms_IT-IT2955443064_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Melo mangio?",
+                "Title": "Fiori di melo rosa, Avila Beach, California, USA",
+                "Copyright": "© Mimi Ditchie Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.177404,-120.733528/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=35.177404,-120.733528;S9;Avila Beach, California, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260426_AppleBlossoms\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Melo+albero&form=hpcapt&filters=HpDate:\"20260425_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260426_AppleBlossoms"
+            },
+            "Ssd": "20260426",
+            "Name": "AppleBlossoms",
+            "Market": "IT-IT",
+            "Hash": "2955443064",
+            "FullDateString": "26 aprile 2026"
+        }
+    },
+    {
         "startdate": "20260424",
         "fullstartdate": "202604242200",
         "enddate": "20260425",

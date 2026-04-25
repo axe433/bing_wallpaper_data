@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260425",
+        "fullstartdate": "202604252200",
+        "enddate": "20260426",
+        "url": "/th?id=OHR.AppleBlossoms_FR-FR7054712804_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AppleBlossoms_FR-FR7054712804",
+        "copyright": "Pommier en fleur, Avila Beach, Californie, États-Unis (© Mimi Ditchie Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=pommier+arbre&form=hpcapt&filters=HpDate%3a%2220260425_2200%22",
+        "title": "Folie fleurie",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260425_AppleBlossoms%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d3a36351ec711c531e6397f6c4ce72c0",
+        "hsh": "0ab6ccfe4d126b549687e2aa592d637d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Au printemps, les pommiers s’éveillent en nuages de fleurs rosées. Leurs pétales légers illuminent vergers et collines, contrastant avec le bleu vif du ciel alors que l’hiver s’efface. Autour d’eux, le ballet des abeilles et des papillons annonce la saison des fruits à venir.",
+                "Image": {
+                    "Url": "/th?id=OHR.AppleBlossoms_FR-FR7054712804_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AppleBlossoms_FR-FR7054712804_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Folie fleurie",
+                "Title": "Pommier en fleur, Avila Beach, Californie, États-Unis",
+                "Copyright": "© Mimi Ditchie Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.177404,-120.733528/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=35.177404,-120.733528;S9;Avila Beach, Californie, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260426_AppleBlossoms\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=pommier+arbre&form=hpcapt&filters=HpDate:\"20260425_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260426_AppleBlossoms"
+            },
+            "Ssd": "20260426",
+            "Name": "AppleBlossoms",
+            "Market": "FR-FR",
+            "Hash": "7054712804",
+            "FullDateString": "26 avr. 2026"
+        }
+    },
+    {
         "startdate": "20260424",
         "fullstartdate": "202604242200",
         "enddate": "20260425",

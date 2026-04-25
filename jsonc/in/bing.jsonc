@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260425",
+        "fullstartdate": "202604251830",
+        "enddate": "20260426",
+        "url": "/th?id=OHR.AppleBlossoms_EN-IN2309236905_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AppleBlossoms_EN-IN2309236905",
+        "copyright": "Pink apple blossoms, Avila Beach, California, United States (© Mimi Ditchie Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Apple+tree&form=hpcapt&filters=HpDate%3a%2220260425_1830%22",
+        "title": "Bloom boom",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260425_AppleBlossoms%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d3a36351ec711c531e6397f6c4ce72c0",
+        "hsh": "1d1528ae7b0edd6e9ba60c2290f56c99",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Spring brings apple trees to life with clouds of soft pink blossoms. Their delicate petals brighten orchards and hillsides, standing out against clear blue skies as the season shifts from winter towards warmer days. These blooms attract pollinators such as bees and butterflies, helping fruit trees produce the apples that will grow later in the year.",
+                "Image": {
+                    "Url": "/th?id=OHR.AppleBlossoms_EN-IN2309236905_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AppleBlossoms_EN-IN2309236905_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Bloom boom",
+                "Title": "Pink apple blossoms, Avila Beach, California, United States",
+                "Copyright": "© Mimi Ditchie Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.177404,-120.733528/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=35.177404,-120.733528;S9;Avila Beach, California, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260426_AppleBlossoms\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Apple+tree&form=hpcapt&filters=HpDate:\"20260425_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260426_AppleBlossoms"
+            },
+            "Ssd": "20260426",
+            "Name": "AppleBlossoms",
+            "Market": "EN-IN",
+            "Hash": "2309236905",
+            "FullDateString": "26 Apr, 2026"
+        }
+    },
+    {
         "startdate": "20260424",
         "fullstartdate": "202604241830",
         "enddate": "20260425",

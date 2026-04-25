@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260425",
+        "fullstartdate": "202604252200",
+        "enddate": "20260426",
+        "url": "/th?id=OHR.AppleBlossoms_ES-ES9455974102_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AppleBlossoms_ES-ES9455974102",
+        "copyright": "Flores rosadas de manzano, Avila Beach, California, EE. UU. (© Mimi Ditchie Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Manzano&form=hpcapt&filters=HpDate%3a%2220260425_2200%22",
+        "title": "Explosión floral",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260425_AppleBlossoms%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d3a36351ec711c531e6397f6c4ce72c0",
+        "hsh": "38b6623b3e3473e6f9f7cba85ee9d357",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Las flores rosadas de los manzanos transforman Avila Beach, en la costa central de California, EE. UU., en un paisaje delicado y luminoso durante la primavera. Los árboles florecen suavemente sobre colinas cercanas al Pacífico, creando un contraste entre los tonos pastel de los pétalos, el verde de los prados y el azul del océano. Este enclave costero combina clima templado, brisas marinas y una luz clara que realza cada detalle del paisaje. La floración es breve pero muy esperada, y convierte senderos rurales y huertos en escenarios tranquilos donde naturaleza y calma marcan el ritmo de la estación.",
+                "Image": {
+                    "Url": "/th?id=OHR.AppleBlossoms_ES-ES9455974102_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AppleBlossoms_ES-ES9455974102_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Explosión floral",
+                "Title": "Flores rosadas de manzano, Avila Beach, California, EE. UU.",
+                "Copyright": "© Mimi Ditchie Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.177404,-120.733528/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=35.177404,-120.733528;S9;Avila Beach, California, EE. UU.&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260426_AppleBlossoms\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Manzano&form=hpcapt&filters=HpDate:\"20260425_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260426_AppleBlossoms"
+            },
+            "Ssd": "20260426",
+            "Name": "AppleBlossoms",
+            "Market": "ES-ES",
+            "Hash": "9455974102",
+            "FullDateString": "26 de abr. de 2026"
+        }
+    },
+    {
         "startdate": "20260424",
         "fullstartdate": "202604242200",
         "enddate": "20260425",
