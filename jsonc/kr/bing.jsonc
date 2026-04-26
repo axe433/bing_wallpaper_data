@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260426",
+        "fullstartdate": "202604260700",
+        "enddate": "20260427",
+        "url": "/th?id=OHR.AppleBlossoms_ROW9623403964_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AppleBlossoms_ROW9623403964",
+        "copyright": "Pink apple blossoms, Avila Beach, California, United States (© Mimi Ditchie Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Apple+tree&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260426_AppleBlossoms%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d3a36351ec711c531e6397f6c4ce72c0",
+        "hsh": "dcea92e7ece0b4eab2967791d3ccd03f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Spring brings apple trees to life with clouds of soft pink blossoms. Their delicate petals brighten orchards and hillsides, standing out against clear blue skies as the season shifts from winter toward warmer days. These blooms attract pollinators such as bees and butterflies, helping fruit trees produce the apples that will grow later in the year.",
+                "Image": {
+                    "Url": "/th?id=OHR.AppleBlossoms_ROW9623403964_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AppleBlossoms_ROW9623403964_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Pink apple blossoms, Avila Beach, California, United States",
+                "Copyright": "© Mimi Ditchie Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260426_AppleBlossoms\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Apple+tree&form=hpcapt&filters=HpDate:\"20260426_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260426_AppleBlossoms"
+            },
+            "Ssd": "20260426",
+            "Name": "AppleBlossoms",
+            "Market": "ROW",
+            "Hash": "9623403964",
+            "FullDateString": "2026 4월 26"
+        }
+    },
+    {
         "startdate": "20260425",
         "fullstartdate": "202604250700",
         "enddate": "20260426",

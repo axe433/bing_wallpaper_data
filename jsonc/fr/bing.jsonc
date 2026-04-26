@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260426",
+        "fullstartdate": "202604262200",
+        "enddate": "20260427",
+        "url": "/th?id=OHR.MilanGalleria_FR-FR0320459768_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MilanGalleria_FR-FR0320459768",
+        "copyright": "Dôme en verre de la Galleria Vittorio Emanuele II, Milan, Italie (© PhillipMinnis/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Galleria+Vittorio+Emanuele+II+Milan+Italie&form=hpcapt&filters=HpDate%3a%2220260426_2200%22",
+        "title": "Un dôme qui épate la galerie",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260426_MilanGalleria%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "61b54ab43ac74e102b66292c6cb7c48b",
+        "hsh": "226374cf28f155c2f0600ed7d760dd15",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Imaginée par Giuseppe Mengoni et inaugurée en 1877, la Galleria Vittorio Emanuele II est l’un de ces lieux en Italie où l’histoire se mêle à la lumière. Entre la Piazza del Duomo et la Scala, son immense verrière forme un passage octogonal à la fois majestueux et accueillant, que les Milanais surnomment avec tendresse « le salon de la ville ».",
+                "Image": {
+                    "Url": "/th?id=OHR.MilanGalleria_FR-FR0320459768_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MilanGalleria_FR-FR0320459768_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un dôme qui épate la galerie",
+                "Title": "Dôme en verre de la Galleria Vittorio Emanuele II, Milan, Italie",
+                "Copyright": "© PhillipMinnis/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.466179,9.18992/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=45.466179,9.18992;S9;Galleria Vittorio Emanuele II, Milan, Italie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260427_MilanGalleria\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Galleria+Vittorio+Emanuele+II+Milan+Italie&form=hpcapt&filters=HpDate:\"20260426_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260427_MilanGalleria"
+            },
+            "Ssd": "20260427",
+            "Name": "MilanGalleria",
+            "Market": "FR-FR",
+            "Hash": "0320459768",
+            "FullDateString": "27 avr. 2026"
+        }
+    },
+    {
         "startdate": "20260425",
         "fullstartdate": "202604252200",
         "enddate": "20260426",

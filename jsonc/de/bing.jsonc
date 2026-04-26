@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260426",
+        "fullstartdate": "202604262200",
+        "enddate": "20260427",
+        "url": "/th?id=OHR.MilanGalleria_DE-DE5963996541_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MilanGalleria_DE-DE5963996541",
+        "copyright": "Glaskuppel der Galleria Vittorio Emanuele II, Mailand, Italien (© PhillipMinnis/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Galleria+Vittorio+Emanuele+II+Mailand&form=hpcapt&filters=HpDate%3a%2220260426_2200%22",
+        "title": "Eleganz unter Glas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260426_MilanGalleria%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "61b54ab43ac74e102b66292c6cb7c48b",
+        "hsh": "1a33524f3d570f40c489fefe304c7db0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Die Galleria Vittorio Emanuele II ist weit mehr als eine Einkaufspassage. Entworfen vom Architekten Giuseppe Mengoni und im Jahr 1877 fertiggestellt, setzte sie neue Maßstäbe für die Architektur und das Stadtleben Mailands. Mit ihrer gläsernen Kuppel verbindet sie bis heute zwei der wichtigsten Plätze der Stadt: die Piazza del Duomo und die Piazza della Scala.",
+                "Image": {
+                    "Url": "/th?id=OHR.MilanGalleria_DE-DE5963996541_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MilanGalleria_DE-DE5963996541_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Eleganz unter Glas",
+                "Title": "Glaskuppel der Galleria Vittorio Emanuele II, Mailand, Italien",
+                "Copyright": "© PhillipMinnis/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.466179,9.18992/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=45.466179,9.18992;S9;Galleria Vittorio Emanuele II, Mailand, Italien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260427_MilanGalleria\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Galleria+Vittorio+Emanuele+II+Mailand&form=hpcapt&filters=HpDate:\"20260426_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260427_MilanGalleria"
+            },
+            "Ssd": "20260427",
+            "Name": "MilanGalleria",
+            "Market": "DE-DE",
+            "Hash": "5963996541",
+            "FullDateString": "27. Apr.. 2026"
+        }
+    },
+    {
         "startdate": "20260425",
         "fullstartdate": "202604252200",
         "enddate": "20260426",

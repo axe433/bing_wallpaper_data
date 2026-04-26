@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260426",
+        "fullstartdate": "202604262200",
+        "enddate": "20260427",
+        "url": "/th?id=OHR.MilanGalleria_ES-ES0426841525_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MilanGalleria_ES-ES0426841525",
+        "copyright": "Cúpula de cristal de la Galería Víctor Manuel II, Milán, Italia (© PhillipMinnis/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Galer%C3%ADa+V%C3%ADctor+Manuel+II&form=hpcapt&filters=HpDate%3a%2220260426_2200%22",
+        "title": "El corazón acristalado de Milán",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260426_MilanGalleria%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "61b54ab43ac74e102b66292c6cb7c48b",
+        "hsh": "617aa6a816a38ec66414812190f5edca",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La cúpula de cristal de la Galería Víctor Manuel II es uno de los grandes iconos de Milán, en Italia. En el cruce de sus pasajes, el espacio se abre en un octógono luminoso que atrae la mirada hacia arriba, donde el vidrio y el hierro dibujan una bóveda ligera y elegante. La estructura filtra la luz natural y la reparte por el interior como si fuera un cielo urbano. Bajo esa cúpula, el paseo se vuelve experiencia, entre reflejos, perspectivas y el pulso constante de la ciudad que entra y sale por sus arcadas.",
+                "Image": {
+                    "Url": "/th?id=OHR.MilanGalleria_ES-ES0426841525_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MilanGalleria_ES-ES0426841525_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "El corazón acristalado de Milán",
+                "Title": "Cúpula de cristal de la Galería Víctor Manuel II, Milán, Italia",
+                "Copyright": "© PhillipMinnis/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.466179,9.18992/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=45.466179,9.18992;S9;Galería Víctor Manuel II, Milán, Italia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260427_MilanGalleria\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Galer%c3%ada+V%c3%adctor+Manuel+II&form=hpcapt&filters=HpDate:\"20260426_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260427_MilanGalleria"
+            },
+            "Ssd": "20260427",
+            "Name": "MilanGalleria",
+            "Market": "ES-ES",
+            "Hash": "0426841525",
+            "FullDateString": "27 de abr. de 2026"
+        }
+    },
+    {
         "startdate": "20260425",
         "fullstartdate": "202604252200",
         "enddate": "20260426",

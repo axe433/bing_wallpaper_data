@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260426",
+        "fullstartdate": "202604262300",
+        "enddate": "20260427",
+        "url": "/th?id=OHR.MilanGalleria_EN-GB6160485704_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MilanGalleria_EN-GB6160485704",
+        "copyright": "The glass dome of Galleria Vittorio Emanuele II, Milan, Italy (© PhillipMinnis/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Galleria+Vittorio+Emanuele+II+Milan+Italy&form=hpcapt&filters=HpDate%3a%2220260426_2300%22",
+        "title": "Glass with class",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260426_MilanGalleria%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "61b54ab43ac74e102b66292c6cb7c48b",
+        "hsh": "6c37be95cb596832cd5331a28a810adf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Designed by architect Giuseppe Mengoni and completed in 1877, the Galleria Vittorio Emanuele II in Milan, Italy, is one of the world's oldest and most famous shopping arcades. Located between Piazza del Duomo and Piazza della Scala, it features a stunning glass-and-iron roof and an elegant, octagonal layout. Affectionately known as 'Milan's living room,' the Galleria is home to high-end boutiques, historic cafés such as Caffè Biffi and Camparino in Galleria and renowned restaurants.",
+                "Image": {
+                    "Url": "/th?id=OHR.MilanGalleria_EN-GB6160485704_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MilanGalleria_EN-GB6160485704_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Glass with class",
+                "Title": "The glass dome of Galleria Vittorio Emanuele II, Milan, Italy",
+                "Copyright": "© PhillipMinnis/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.466179,9.18992/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=45.466179,9.18992;S9;Galleria Vittorio Emanuele II, Milan, Italy&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260427_MilanGalleria\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Galleria+Vittorio+Emanuele+II+Milan+Italy&form=hpcapt&filters=HpDate:\"20260426_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260427_MilanGalleria"
+            },
+            "Ssd": "20260427",
+            "Name": "MilanGalleria",
+            "Market": "EN-GB",
+            "Hash": "6160485704",
+            "FullDateString": "27 Apr 2026"
+        }
+    },
+    {
         "startdate": "20260425",
         "fullstartdate": "202604252300",
         "enddate": "20260426",

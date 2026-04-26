@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260426",
+        "fullstartdate": "202604262200",
+        "enddate": "20260427",
+        "url": "/th?id=OHR.MilanGalleria_IT-IT4692336131_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MilanGalleria_IT-IT4692336131",
+        "copyright": "Cupola di vetro della Galleria Vittorio Emanuele II, Milano (© PhillipMinnis/iStock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Galleria+Vittorio+Emanuele+II&form=hpcapt",
+        "title": "Aperitivo d’autore",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260426_MilanGalleria%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "61b54ab43ac74e102b66292c6cb7c48b",
+        "hsh": "39266d030602636f820d6d2908e9cb23",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nel cuore di Milano, la Galleria Vittorio Emanuele II è uno dei passaggi coperti più celebri d’Europa. Inaugurata nel 1867 su progetto di Giuseppe Mengoni, collega piazza del Duomo a piazza della Scala attraverso un’elegante struttura in ferro e vetro. Si distingue per la volta luminosa e per il pavimento a mosaico, dove spiccano gli stemmi delle principali città italiane. Tra negozi storici, caffè e ristoranti, si incontra il celebre Camparino in Galleria, aperto nel 1915 da Davide Campari, icona dell’aperitivo milanese e mondiale.",
+                "Image": {
+                    "Url": "/th?id=OHR.MilanGalleria_IT-IT4692336131_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MilanGalleria_IT-IT4692336131_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Aperitivo d'autore",
+                "Title": "Cupola di vetro della Galleria Vittorio Emanuele II, Milano",
+                "Copyright": "© PhillipMinnis/iStock/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.466179,9.18992/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=45.466179,9.18992;S9;Galleria Vittorio Emanuele II, Milano&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260427_MilanGalleria\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Galleria+Vittorio+Emanuele+II&form=hpcapt&filters=HpDate:\"20260426_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260427_MilanGalleria"
+            },
+            "Ssd": "20260427",
+            "Name": "MilanGalleria",
+            "Market": "IT-IT",
+            "Hash": "4692336131",
+            "FullDateString": "27 aprile 2026"
+        }
+    },
+    {
         "startdate": "20260425",
         "fullstartdate": "202604252200",
         "enddate": "20260426",
