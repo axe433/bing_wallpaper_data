@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260427",
+        "fullstartdate": "202604272200",
+        "enddate": "20260428",
+        "url": "/th?id=OHR.AndeanBear_FR-FR7657835639_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AndeanBear_FR-FR7657835639",
+        "copyright": "Ours à lunettes se reposant dans un arbre, Équateur (© Andy Rouse/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=ours+%C3%A0+lunettes&form=hpcapt&filters=HpDate%3a%2220260427_2200%22",
+        "title": "Les lunettes des Andes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260427_AndeanBear%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c7fc12447d945cf300482d9e1783890a",
+        "hsh": "d255829676362a78f20123ee08a86140",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dans les montagnes du nord et du centre des Andes vit un ours discret et singulier : l’ours à lunettes. Seul représentant sud‑américain de sa famille, il est facilement reconnaissable grâce à ses marques pâles autour des yeux qui ressemblent à des lunettes. Il évolue surtout dans les forêts brumeuses où il se nourrit de jeunes pousses, de fruits et de tiges tendres.",
+                "Image": {
+                    "Url": "/th?id=OHR.AndeanBear_FR-FR7657835639_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AndeanBear_FR-FR7657835639_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Les lunettes des Andes",
+                "Title": "Ours à lunettes se reposant dans un arbre, Équateur",
+                "Copyright": "© Andy Rouse/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Chaque ours à lunettes possède des marques faciales qui lui sont propres. Les scientifiques les utilisent pour identifier et suivre les individus dans la nature.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260428_AndeanBear\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=ours+%c3%a0+lunettes&form=hpcapt&filters=HpDate:\"20260427_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260428_AndeanBear"
+            },
+            "Ssd": "20260428",
+            "Name": "AndeanBear",
+            "Market": "FR-FR",
+            "Hash": "7657835639",
+            "FullDateString": "28 avr. 2026"
+        }
+    },
+    {
         "startdate": "20260426",
         "fullstartdate": "202604262200",
         "enddate": "20260427",

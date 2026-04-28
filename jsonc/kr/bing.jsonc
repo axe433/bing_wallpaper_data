@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260427",
+        "fullstartdate": "202604270700",
+        "enddate": "20260428",
+        "url": "/th?id=OHR.MilanGalleria_ROW9826130780_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MilanGalleria_ROW9826130780",
+        "copyright": "The glass dome of Galleria Vittorio Emanuele II, Milan, Italy (© PhillipMinnis/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Galleria+Vittorio+Emanuele+II+Milan+Italy&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260427_MilanGalleria%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "61b54ab43ac74e102b66292c6cb7c48b",
+        "hsh": "69ac0230156510c06042b2fd73b37e45",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Designed by architect Giuseppe Mengoni and completed in 1877, the Galleria Vittorio Emanuele II in Milan, Italy, is one of the world's oldest and most famous shopping arcades. Located between Piazza del Duomo and Piazza della Scala, it features a stunning glass-and-iron roof and an elegant, octagonal layout. Affectionately known as 'Milan's living room,' the Galleria is home to high-end boutiques, historic cafés such as Caffè Biffi and Camparino in Galleria, and renowned restaurants.",
+                "Image": {
+                    "Url": "/th?id=OHR.MilanGalleria_ROW9826130780_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MilanGalleria_ROW9826130780_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "The glass dome of Galleria Vittorio Emanuele II, Milan, Italy",
+                "Copyright": "© PhillipMinnis/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260427_MilanGalleria\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Galleria+Vittorio+Emanuele+II+Milan+Italy&form=hpcapt&filters=HpDate:\"20260427_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260427_MilanGalleria"
+            },
+            "Ssd": "20260427",
+            "Name": "MilanGalleria",
+            "Market": "ROW",
+            "Hash": "9826130780",
+            "FullDateString": "2026 4월 27"
+        }
+    },
+    {
         "startdate": "20260426",
         "fullstartdate": "202604260700",
         "enddate": "20260427",
