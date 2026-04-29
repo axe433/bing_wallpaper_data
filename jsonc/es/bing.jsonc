@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260428",
+        "fullstartdate": "202604282200",
+        "enddate": "20260429",
+        "url": "/th?id=OHR.BelemTowerBank_ES-ES0844655839_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BelemTowerBank_ES-ES0844655839",
+        "copyright": "La Torre de Belém a orillas del río Tajo, Lisboa, Portugal (© f9photos/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Torre+de+Bel%C3%A9m&form=hpcapt&filters=HpDate%3a%2220260428_2200%22",
+        "title": "Una historia grabada en piedra",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260428_BelemTowerBank%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5a561cd1ca0d832dad90ed62ea0c9b66",
+        "hsh": "ecd5d4452964a6ceb5334fe3c36ea140",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La Torre de Belém es uno de los grandes símbolos de Lisboa, en Portugal. Se alza junto a la desembocadura del río Tajo y fue construida a comienzos del siglo XVI como parte del sistema defensivo de la ciudad. Su arquitectura combina elementos góticos y renacentistas con el estilo manuelino, visible en sus balcones, decoraciones marítimas y torreones. Además de su función militar, la torre se convirtió en un emblema de la era de los descubrimientos portugueses, ligada a las expediciones oceánicas. Hoy es Patrimonio de la Humanidad y un punto clave para comprender la relación histórica entre Lisboa, el río y el mar.",
+                "Image": {
+                    "Url": "/th?id=OHR.BelemTowerBank_ES-ES0844655839_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BelemTowerBank_ES-ES0844655839_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Una historia grabada en piedra",
+                "Title": "La Torre de Belém a orillas del río Tajo, Lisboa, Portugal",
+                "Copyright": "© f9photos/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.69165,-9.215943/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=38.69165,-9.215943;S9;Torre de Belém, Lisboa, Portugal&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260429_BelemTowerBank\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Torre+de+Bel%c3%a9m&form=hpcapt&filters=HpDate:\"20260428_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260429_BelemTowerBank"
+            },
+            "Ssd": "20260429",
+            "Name": "BelemTowerBank",
+            "Market": "ES-ES",
+            "Hash": "0844655839",
+            "FullDateString": "29 de abr. de 2026"
+        }
+    },
+    {
         "startdate": "20260427",
         "fullstartdate": "202604272200",
         "enddate": "20260428",

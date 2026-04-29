@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260428",
+        "fullstartdate": "202604281500",
+        "enddate": "20260429",
+        "url": "/th?id=OHR.ShowaEraDay2026_JA-JP3778600248_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ShowaEraDay2026_JA-JP3778600248",
+        "copyright": "国会議事堂, 東京都 (© Hiroshi Watanabe/Getty images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E6%98%AD%E5%92%8C%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260428_1500%22",
+        "title": "今日は昭和の日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260428_ShowaEraDay2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "666d29012d998aa79d74355186aef03f",
+        "hsh": "1811d2f2ae4b2202a80963dc3462f2b8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 4 月 29 日は「昭和の日」。昭和天皇の誕生日であり、日本が歩んできた昭和の時代を振り返り、国の将来に思いを巡らせる日とするため、2007 年に「みどりの日」から変更されました。そして、画像は、国会議事堂の内部。現在の議事堂は、昭和 11 年（ 1936 年）に新議事堂として設立されたもので、昭和から令和へ、日本の発展の歴史と軌跡を伝える象徴的な存在です。観光名所でもあるため、毎年多くの修学旅行生や団体客が訪れています。",
+                "Image": {
+                    "Url": "/th?id=OHR.ShowaEraDay2026_JA-JP3778600248_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ShowaEraDay2026_JA-JP3778600248_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日は昭和の日",
+                "Title": "国会議事堂, 東京都",
+                "Copyright": "© Hiroshi Watanabe/Getty images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.676022,139.744835/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=35.676022,139.744835;S9;国会議事堂&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260429_ShowaEraDay2026%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260429_ShowaEraDay2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e6%98%ad%e5%92%8c%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate:\"20260428_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260429_ShowaEraDay2026"
+            },
+            "Ssd": "20260429",
+            "Name": "ShowaEraDay2026",
+            "Market": "JA-JP",
+            "Hash": "3778600248",
+            "FullDateString": "2026 年 4月 月 29 日"
+        }
+    },
+    {
         "startdate": "20260427",
         "fullstartdate": "202604271500",
         "enddate": "20260428",

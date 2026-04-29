@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260428",
+        "fullstartdate": "202604281830",
+        "enddate": "20260429",
+        "url": "/th?id=OHR.BelemTowerBank_EN-IN2907801378_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BelemTowerBank_EN-IN2907801378",
+        "copyright": "Belém Tower on the bank of the Tagus River, Lisbon, Portugal (© f9photos/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Belem+Tower&form=hpcapt&filters=HpDate%3a%2220260428_1830%22",
+        "title": "History anchored in stone",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260428_BelemTowerBank%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5a561cd1ca0d832dad90ed62ea0c9b66",
+        "hsh": "5ebf106231a97abd919a6810bbfe2652",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ships leaving Lisbon once passed a small stone tower before meeting the wide Atlantic. That tower, standing on the bank of the Tagus River, served as both a guardian and a farewell. Say hello to Belém Tower—a fortress that watched Portugal sail into the Age of Exploration.",
+                "Image": {
+                    "Url": "/th?id=OHR.BelemTowerBank_EN-IN2907801378_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BelemTowerBank_EN-IN2907801378_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "History anchored in stone",
+                "Title": "Belém Tower on the bank of the Tagus River, Lisbon, Portugal",
+                "Copyright": "© f9photos/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.69165,-9.215943/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=38.69165,-9.215943;S9;Belém Tower, Lisbon, Portugal&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260429_BelemTowerBank\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Belem+Tower&form=hpcapt&filters=HpDate:\"20260428_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260429_BelemTowerBank"
+            },
+            "Ssd": "20260429",
+            "Name": "BelemTowerBank",
+            "Market": "EN-IN",
+            "Hash": "2907801378",
+            "FullDateString": "29 Apr, 2026"
+        }
+    },
+    {
         "startdate": "20260427",
         "fullstartdate": "202604271830",
         "enddate": "20260428",

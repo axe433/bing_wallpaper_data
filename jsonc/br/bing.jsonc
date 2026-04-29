@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260428",
+        "fullstartdate": "202604280300",
+        "enddate": "20260429",
+        "url": "/th?id=OHR.AndeanBear_PT-BR8313253312_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AndeanBear_PT-BR8313253312",
+        "copyright": "Urso-de-óculos descansando em uma árvore, Equador (© Andy Rouse/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=urso+de+oculos&form=hpcapt&mkt=pt-br",
+        "title": "O mundo visto do alto",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260428_AndeanBear%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c7fc12447d945cf300482d9e1783890a",
+        "hsh": "6e65041e627c671b8df8bf54595edb23",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "O urso-de-óculos surge entre galhos nas montanhas do Equador como quem domina dois mundos ao mesmo tempo: o chão e as alturas. Também conhecido como urso‑andino, é o único membro da família Ursidae na América do Sul – não ocorre no Brasil, mas sim em países como Colômbia, Peru, Bolívia e Venezuela. As marcas claras ao redor dos olhos, que lembram óculos, batizam a espécie e tornam cada indivíduo único, como uma impressão digital.",
+                "Image": {
+                    "Url": "/th?id=OHR.AndeanBear_PT-BR8313253312_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AndeanBear_PT-BR8313253312_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O mundo visto do alto",
+                "Title": "Urso-de-óculos descansando em uma árvore, Equador",
+                "Copyright": "© Andy Rouse/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260428_AndeanBear\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=urso+de+oculos&form=hpcapt&filters=HpDate:\"20260428_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260428_AndeanBear"
+            },
+            "Ssd": "20260428",
+            "Name": "AndeanBear",
+            "Market": "PT-BR",
+            "Hash": "8313253312",
+            "FullDateString": "28 abr. 2026"
+        }
+    },
+    {
         "startdate": "20260427",
         "fullstartdate": "202604270300",
         "enddate": "20260428",

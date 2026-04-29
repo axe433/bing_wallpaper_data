@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260428",
+        "fullstartdate": "202604282200",
+        "enddate": "20260429",
+        "url": "/th?id=OHR.BelemTowerBank_DE-DE6367494619_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BelemTowerBank_DE-DE6367494619",
+        "copyright": "Turm von Belém am Ufer des Tejo, Lissabon, Portugal (© f9photos/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Turm+von+Bel%C3%A9m&form=hpcapt&filters=HpDate%3a%2220260428_2200%22",
+        "title": "Geschichte aus Stein",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260428_BelemTowerBank%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5a561cd1ca0d832dad90ed62ea0c9b66",
+        "hsh": "4732ee29776ffb525f624264535214e0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Am Ufer des Tejo erhebt sich ein markanter Steinturm, der einst den Weg von Lissabon hinaus auf den Atlantik begleitete. Der Turm von Belém diente früher als Verteidigungsanlage und symbolischer Wächter der Stadt und erinnert heute an Portugals Aufbruch in das Zeitalter der Entdeckungen. Errichtet zu Beginn des 16. Jahrhunderts unter König Manuel I., spielte er eine zentrale Rolle beim Schutz des Hafens und der Einfahrt in den Fluss. Seine Architektur verbindet gotische Formen mit typischen Elementen des manuelinischen Stils. Maritime Motive wie Seile, Schilde, Kreuze und kunstvolle Ornamente verweisen auf Portugals enge Beziehung zum Meer und zur Seefahrt jener Zeit.",
+                "Image": {
+                    "Url": "/th?id=OHR.BelemTowerBank_DE-DE6367494619_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BelemTowerBank_DE-DE6367494619_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Geschichte aus Stein",
+                "Title": "Turm von Belém am Ufer des Tejo, Lissabon, Portugal",
+                "Copyright": "© f9photos/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.69165,-9.215943/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=38.69165,-9.215943;S9;Turm von Belém, Lissabon, Portugal&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260429_BelemTowerBank\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Turm+von+Bel%c3%a9m&form=hpcapt&filters=HpDate:\"20260428_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260429_BelemTowerBank"
+            },
+            "Ssd": "20260429",
+            "Name": "BelemTowerBank",
+            "Market": "DE-DE",
+            "Hash": "6367494619",
+            "FullDateString": "29. Apr.. 2026"
+        }
+    },
+    {
         "startdate": "20260427",
         "fullstartdate": "202604272200",
         "enddate": "20260428",

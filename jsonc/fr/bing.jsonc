@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260428",
+        "fullstartdate": "202604282200",
+        "enddate": "20260429",
+        "url": "/th?id=OHR.BelemTowerBank_FR-FR7863616687_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BelemTowerBank_FR-FR7863616687",
+        "copyright": "Tour de Belém au bord du Tage, Lisbonne, Portugal (© f9photos/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Tour+de+Bel%C3%A9m&form=hpcapt&filters=HpDate%3a%2220260428_2200%22",
+        "title": "L’histoire gravée dans la pierre",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260428_BelemTowerBank%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5a561cd1ca0d832dad90ed62ea0c9b66",
+        "hsh": "bef1e6adc977b89c9d569afcb29f47eb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Autrefois, les navires quittant Lisbonne, au Portugal, glissaient devant une petite tour de pierre avant d’affronter l’immensité de l’Atlantique. Dressée sur la rive du Tage, elle servait autant de sentinelle que d’adieu murmuré aux marins. Voici la tour de Belém, témoin silencieux des départs qui ont marqué l’ère des grandes explorations portugaises.",
+                "Image": {
+                    "Url": "/th?id=OHR.BelemTowerBank_FR-FR7863616687_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BelemTowerBank_FR-FR7863616687_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "L'histoire gravée dans la pierre",
+                "Title": "Tour de Belém au bord du Tage, Lisbonne, Portugal",
+                "Copyright": "© f9photos/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.69165,-9.215943/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=38.69165,-9.215943;S9;Tour de Belém, Lisbonne, Portugal&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260429_BelemTowerBank\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tour+de+Bel%c3%a9m&form=hpcapt&filters=HpDate:\"20260428_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260429_BelemTowerBank"
+            },
+            "Ssd": "20260429",
+            "Name": "BelemTowerBank",
+            "Market": "FR-FR",
+            "Hash": "7863616687",
+            "FullDateString": "29 avr. 2026"
+        }
+    },
+    {
         "startdate": "20260427",
         "fullstartdate": "202604272200",
         "enddate": "20260428",
