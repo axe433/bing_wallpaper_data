@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260430",
+        "fullstartdate": "202604302200",
+        "enddate": "20260501",
+        "url": "/th?id=OHR.LilyMay_FR-FR4501325006_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LilyMay_FR-FR4501325006",
+        "copyright": "Brin de muguet, Ukraine (© tomch/Getty Images Plus)",
+        "copyrightlink": "https://www.bing.com/search?q=1er+mai&form=hpcapt&filters=HpDate%3a%2220260430_2200%22",
+        "title": "Bon 1er mai !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260430_LilyMay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "08c90e92e83d212194b73d55b9d0d78a",
+        "hsh": "733871ae7c668983ba0c40ed429259d5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Le 1er mai s'impose comme une pause bienvenue au cœur du printemps. L’air est plus doux, les journées s’allongent, et le muguet fleurit dans les jardins comme sur les étals. Cette journée, devenue la Fête du Travail, trouve son origine historique dans les grandes luttes ouvrières de la fin du XIXᵉ siècle, lorsque des travailleurs, en Europe comme aux États-Unis, ont réclamé de meilleures conditions de vie et le droit au repos.",
+                "Image": {
+                    "Url": "/th?id=OHR.LilyMay_FR-FR4501325006_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LilyMay_FR-FR4501325006_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Bon 1er mai !",
+                "Title": "Brin de muguet, Ukraine",
+                "Copyright": "© tomch/Getty Images Plus",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Le 1er mai est à la fois la Fête du Travail et le seul jour où tout le monde peut vendre du muguet dans la rue sans autorisation.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260501_LilyMay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=1er+mai&form=hpcapt&filters=HpDate:\"20260430_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260501_LilyMay"
+            },
+            "Ssd": "20260501",
+            "Name": "LilyMay",
+            "Market": "FR-FR",
+            "Hash": "4501325006",
+            "FullDateString": "1 mai 2026"
+        }
+    },
+    {
         "startdate": "20260429",
         "fullstartdate": "202604292200",
         "enddate": "20260430",
@@ -20,12 +69,12 @@
             "ImageContent": {
                 "Description": "Imaginer qu’une fleur puisse déclencher une frénésie financière semble inconcevable. Pourtant, dans les années 1630, les tulipes ont plongé les Provinces-Unies dans une véritable fièvre. Les bulbes les plus rares, aux couleurs striées et imprévisibles, valaient parfois autant qu’une maison tant les collectionneurs recherchaient l’exception.",
                 "Image": {
-                    "Url": "/th?id=OHR.DutchTulips_FR-FR1030292533_1920x1080.webp",
-                    "Wallpaper": "/th?id=OHR.DutchTulips_FR-FR1030292533_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Url": "/th?id=OHR.DutchTulips_FR-FR7047413722_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DutchTulips_FR-FR7047413722_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
                     "Downloadable": true
                 },
                 "Headline": "Des tulipes par milliers",
-                "Title": "Muscaris et tulipes, Keukenhof, Lisse, Pyas-Bas",
+                "Title": "Muscaris et tulipes, Keukenhof, Lisse, Pays-Bas",
                 "Copyright": "© Martin Ruegner/Getty Images",
                 "SocialGood": null,
                 "MapLink": {
@@ -44,7 +93,7 @@
             "Ssd": "20260430",
             "Name": "DutchTulips",
             "Market": "FR-FR",
-            "Hash": "1030292533",
+            "Hash": "7047413722",
             "FullDateString": "30 avr. 2026"
         }
     },

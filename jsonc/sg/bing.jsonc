@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260430",
+        "fullstartdate": "202604300700",
+        "enddate": "20260501",
+        "url": "/th?id=OHR.DutchTulips_ROW0532367282_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DutchTulips_ROW0532367282",
+        "copyright": "Grape hyacinths and tulips, Keukenhof Gardens, Lisse, Netherlands (© Martin Ruegner/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Keukenhof+Gardens&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260430_DutchTulips%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d40424571f121f574368b8aca4a92945",
+        "hsh": "51a8f32c459e8b5dd7f6c4d89c5175af",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Imagine a flower sparking a financial frenzy. Sounds unlikely, right? Yet in the 1630s, tulips did exactly that in the Netherlands. During tulip mania, rare bulbs became luxury items traded for astonishing sums—some valued at prices comparable to a house. Why so valuable? Unusual colours and striped patterns were scarce and unpredictable, and collectors wanted the rarest varieties they could find.",
+                "Image": {
+                    "Url": "/th?id=OHR.DutchTulips_ROW0532367282_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DutchTulips_ROW0532367282_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Grape hyacinths and tulips, Keukenhof Gardens, Lisse, Netherlands",
+                "Copyright": "© Martin Ruegner/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260430_DutchTulips\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Keukenhof+Gardens&form=hpcapt&filters=HpDate:\"20260430_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260430_DutchTulips"
+            },
+            "Ssd": "20260430",
+            "Name": "DutchTulips",
+            "Market": "ROW",
+            "Hash": "0532367282",
+            "FullDateString": "Apr 30, 2026"
+        }
+    },
+    {
         "startdate": "20260429",
         "fullstartdate": "202604290700",
         "enddate": "20260430",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260430",
+        "fullstartdate": "202604301830",
+        "enddate": "20260501",
+        "url": "/th?id=OHR.MaharashtraDay2026_EN-IN0347211798_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MaharashtraDay2026_EN-IN0347211798",
+        "copyright": "Kailasa Temple, Ellora Caves, Maharashtra (© mazzzur/iStock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Maharashtra+Day&form=hpcapt&filters=HpDate%3a%2220260430_1830%22",
+        "title": "A day carved in pride",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260430_MaharashtraDay2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "70ae4a3c4d48629bcdc2f9cdf032a4cb",
+        "hsh": "57e7606b12cd62568541bfe926bd3e6b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "If states threw birthday parties, Maharashtra would book the largest venue. Every 1 May, it marks its formation in 1960, when the bilingual Bombay State was split to create a Marathi-speaking region. The message was clear: language matters, but so does having a voice.",
+                "Image": {
+                    "Url": "/th?id=OHR.MaharashtraDay2026_EN-IN0347211798_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MaharashtraDay2026_EN-IN0347211798_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A day carved in pride",
+                "Title": "Kailasa Temple, Ellora Caves, Maharashtra",
+                "Copyright": "© mazzzur/iStock/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/20.02117,75.179573/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=20.02117,75.179573;S9;Ellora Caves, Maharashtra&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260501_MaharashtraDay2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Maharashtra+Day&form=hpcapt&filters=HpDate:\"20260430_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260501_MaharashtraDay2026"
+            },
+            "Ssd": "20260501",
+            "Name": "MaharashtraDay2026",
+            "Market": "EN-IN",
+            "Hash": "0347211798",
+            "FullDateString": "1 May, 2026"
+        }
+    },
+    {
         "startdate": "20260429",
         "fullstartdate": "202604291830",
         "enddate": "20260430",

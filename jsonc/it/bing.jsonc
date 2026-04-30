@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260430",
+        "fullstartdate": "202604302200",
+        "enddate": "20260501",
+        "url": "/th?id=OHR.TwrMawrLighthouse2026_IT-IT6995398128_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TwrMawrLighthouse2026_IT-IT6995398128",
+        "copyright": "Faro di Tŵr Mawr, isola di Llanddwyn, Anglesey, Galles (© Lukas Bischoff/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Isola+di+Ynys+Llanddwyn&form=hpcapt",
+        "title": "Guardiano silenzioso",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260430_TwrMawrLighthouse2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bef75d8ac1db335c06860f167be70bde",
+        "hsh": "25156647401cba91000a86e34325b37a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A volte sono i luoghi silenziosi a restare più a lungo nella memoria, proprio come il faro di Tŵr Mawr. Sorge dal 1845 su Ynys Llanddwyn, una piccola isola tidale al largo di Anglesey (Ynys Môn), sulla costa gallese, che durante l’alta marea rimane temporaneamente separata dalla terraferma. Con un’altezza di poco superiore ai dieci metri, Tŵr Mawr non è un colosso imponente, ma un punto di riferimento ricco di carattere. In passato guidava le navi attraverso le impegnative acque dello stretto di Menai, contribuendo alla navigazione sicura in una delle aree marittime più difficili della regione.",
+                "Image": {
+                    "Url": "/th?id=OHR.TwrMawrLighthouse2026_IT-IT6995398128_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TwrMawrLighthouse2026_IT-IT6995398128_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Guardiano silenzioso",
+                "Title": "Faro di Tŵr Mawr, isola di Llanddwyn, Anglesey, Galles",
+                "Copyright": "© Lukas Bischoff/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/53.13707,-4.412761/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=53.13707,-4.412761;S9;Faro di Tŵr Mawr, isola di Llanddwyn, Anglesey, Galles&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260501_TwrMawrLighthouse2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Isola+di+Ynys+Llanddwyn&form=hpcapt&filters=HpDate:\"20260430_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260501_TwrMawrLighthouse2026"
+            },
+            "Ssd": "20260501",
+            "Name": "TwrMawrLighthouse2026",
+            "Market": "IT-IT",
+            "Hash": "6995398128",
+            "FullDateString": "1 maggio 2026"
+        }
+    },
+    {
         "startdate": "20260429",
         "fullstartdate": "202604292200",
         "enddate": "20260430",

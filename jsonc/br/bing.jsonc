@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260430",
+        "fullstartdate": "202604300300",
+        "enddate": "20260501",
+        "url": "/th?id=OHR.DutchTulips_PT-BR9358504949_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DutchTulips_PT-BR9358504949",
+        "copyright": "Jacintos e tulipas no Jardim Keukenhof, Lisse, Países Baixos (© Martin Ruegner/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=jardim+europa+nos+paises+baixos&form=hpcapt&mkt=pt-br",
+        "title": "Uma paleta de pétalas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260430_DutchTulips%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d40424571f121f574368b8aca4a92945",
+        "hsh": "56ca3b26036d5f1fde72d7aba7e2e6ac",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Parece loucura imaginar uma flor causando caos financeiro, mas foi exatamente isso que aconteceu na Holanda. Nos anos 1630, bulbos raros viraram artigos de luxo, negociados por valores equivalentes aos de uma casa. Cores inusitadas, padrões listrados imprevisíveis e a promessa de exclusividade inflaram o mercado até o inevitável colapso.",
+                "Image": {
+                    "Url": "/th?id=OHR.DutchTulips_PT-BR9358504949_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DutchTulips_PT-BR9358504949_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Uma paleta de pétalas",
+                "Title": "Jacintos e tulipas no Jardim Keukenhof, Lisse, Países Baixos",
+                "Copyright": "© Martin Ruegner/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260430_DutchTulips\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=jardim+europa+nos+paises+baixos&form=hpcapt&filters=HpDate:\"20260430_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260430_DutchTulips"
+            },
+            "Ssd": "20260430",
+            "Name": "DutchTulips",
+            "Market": "PT-BR",
+            "Hash": "9358504949",
+            "FullDateString": "30 abr. 2026"
+        }
+    },
+    {
         "startdate": "20260429",
         "fullstartdate": "202604290300",
         "enddate": "20260430",

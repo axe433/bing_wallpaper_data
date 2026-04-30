@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260430",
+        "fullstartdate": "202604302200",
+        "enddate": "20260501",
+        "url": "/th?id=OHR.TwrMawrLighthouse2026_DE-DE3505547766_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TwrMawrLighthouse2026_DE-DE3505547766",
+        "copyright": "Leuchtturm Tŵr Mawr, Ynys Llanddwyn, Anglesey, Wales (© Lukas Bischoff/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Leuchtturm+Twr+Mawr&form=hpcapt&filters=HpDate%3a%2220260430_2200%22",
+        "title": "Ein stiller Wächter an der Küste",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260430_TwrMawrLighthouse2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bef75d8ac1db335c06860f167be70bde",
+        "hsh": "a4a15de5ab1b3c735006ff074cabaf40",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Manchmal sind es die stillen Orte, die lange im Gedächtnis bleiben – so wie der Leuchtturm Tŵr Mawr. Er steht seit 1845 auf Ynys Llanddwyn, einer kleinen Gezeiteninsel vor Anglesey (Ynys Môn) an der walisischen Küste, die bei Flut zeitweise vom Festland abgeschnitten wird. Mit einer Höhe von etwas mehr als zehn Metern ist Tŵr Mawr kein imposanter Koloss, sondern ein Orientierungspunkt mit Charakter. Früher wies er Schiffen den Weg durch die anspruchsvolle Menai-Meerenge und trug so zur sicheren Navigation in einem der schwierigsten Seegebiete der Region bei. Seine konische Form erinnert an eine alte Windmühle und erzählt von frühen technischen Lösungen.",
+                "Image": {
+                    "Url": "/th?id=OHR.TwrMawrLighthouse2026_DE-DE3505547766_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TwrMawrLighthouse2026_DE-DE3505547766_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ein stiller Wächter an der Küste",
+                "Title": "Leuchtturm Tŵr Mawr, Ynys Llanddwyn, Anglesey, Wales",
+                "Copyright": "© Lukas Bischoff/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/53.13707,-4.412761/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=53.13707,-4.412761;S9;Ynys Llanddwyn, Anglesey, Wales&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260501_TwrMawrLighthouse2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Leuchtturm+Twr+Mawr&form=hpcapt&filters=HpDate:\"20260430_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260501_TwrMawrLighthouse2026"
+            },
+            "Ssd": "20260501",
+            "Name": "TwrMawrLighthouse2026",
+            "Market": "DE-DE",
+            "Hash": "3505547766",
+            "FullDateString": "1. Mai. 2026"
+        }
+    },
+    {
         "startdate": "20260429",
         "fullstartdate": "202604292200",
         "enddate": "20260430",
