@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260429",
+        "fullstartdate": "202604292200",
+        "enddate": "20260430",
+        "url": "/th?id=OHR.DutchTulips_FR-FR1030292533_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DutchTulips_FR-FR1030292533",
+        "copyright": "Muscaris et tulipes, Keukenhof, Lisse, Pyas-Bas (© Martin Ruegner/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Keukenhof&form=hpcapt&filters=HpDate%3a%2220260429_2200%22",
+        "title": "Des tulipes par milliers",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260429_DutchTulips%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d40424571f121f574368b8aca4a92945",
+        "hsh": "978ab9f80beb8a6b56d0e1681244344d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Imaginer qu’une fleur puisse déclencher une frénésie financière semble inconcevable. Pourtant, dans les années 1630, les tulipes ont plongé les Provinces-Unies dans une véritable fièvre. Les bulbes les plus rares, aux couleurs striées et imprévisibles, valaient parfois autant qu’une maison tant les collectionneurs recherchaient l’exception.",
+                "Image": {
+                    "Url": "/th?id=OHR.DutchTulips_FR-FR1030292533_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DutchTulips_FR-FR1030292533_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Des tulipes par milliers",
+                "Title": "Muscaris et tulipes, Keukenhof, Lisse, Pyas-Bas",
+                "Copyright": "© Martin Ruegner/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.26889,4.547222/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=52.26889,4.547222;S9;Keukenhof, Lisse, Pays-Bas&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260430_DutchTulips\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Keukenhof&form=hpcapt&filters=HpDate:\"20260429_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260430_DutchTulips"
+            },
+            "Ssd": "20260430",
+            "Name": "DutchTulips",
+            "Market": "FR-FR",
+            "Hash": "1030292533",
+            "FullDateString": "30 avr. 2026"
+        }
+    },
+    {
         "startdate": "20260428",
         "fullstartdate": "202604282200",
         "enddate": "20260429",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260429",
+        "fullstartdate": "202604291500",
+        "enddate": "20260430",
+        "url": "/th?id=OHR.DutchTulips_JA-JP3809671349_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DutchTulips_JA-JP3809671349",
+        "copyright": "チューリップ, オランダ (© Martin Ruegner/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%83%E3%83%97&form=hpcapt&filters=HpDate%3a%2220260429_1500%22",
+        "title": "色とりどりに咲き誇る花畑",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260429_DutchTulips%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d40424571f121f574368b8aca4a92945",
+        "hsh": "88eb0c471c2d4525aabd7c953e51bb00",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ここはオランダのリッセにあるキューケンホフ公園。ヨーロッパの公園とも呼ばれている「花の公園」であり、毎年約 700 万球の花が植えられる世界最大級の庭園として知られています。春を迎えると、テーマ別の庭園に 800 種以上のチューリップが咲き誇り、園内は鮮やかな色彩に包まれます。限られた季節のみ一般公開される春の名所であるため、この時期は世界中から多くの人々が春の風景を楽しみに訪れます。",
+                "Image": {
+                    "Url": "/th?id=OHR.DutchTulips_JA-JP3809671349_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DutchTulips_JA-JP3809671349_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "色とりどりに咲き誇る花畑",
+                "Title": "チューリップ, オランダ",
+                "Copyright": "© Martin Ruegner/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.26889,4.547222/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=52.26889,4.547222;S9;キューケンホフ公園, オランダ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260430_DutchTulips%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260430_DutchTulips\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%81%e3%83%a5%e3%83%bc%e3%83%aa%e3%83%83%e3%83%97&form=hpcapt&filters=HpDate:\"20260429_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260430_DutchTulips"
+            },
+            "Ssd": "20260430",
+            "Name": "DutchTulips",
+            "Market": "JA-JP",
+            "Hash": "3809671349",
+            "FullDateString": "2026 年 4月 月 30 日"
+        }
+    },
+    {
         "startdate": "20260428",
         "fullstartdate": "202604281500",
         "enddate": "20260429",

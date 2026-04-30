@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260429",
+        "fullstartdate": "202604292200",
+        "enddate": "20260430",
+        "url": "/th?id=OHR.DutchTulips_ES-ES1084356423_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DutchTulips_ES-ES1084356423",
+        "copyright": "Jacintos y tulipanes, Jardines de Keukenhof, Lisse, Países Bajos (© Martin Ruegner/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Jardines+de+Keukenhof&form=hpcapt&filters=HpDate%3a%2220260429_2200%22",
+        "title": "Tulipanes como protagonistas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260429_DutchTulips%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d40424571f121f574368b8aca4a92945",
+        "hsh": "6dcfe74aac487b05e2c237ec6388abe2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Jacintos de uva y tulipanes convierten los Jardines de Keukenhof, en Lisse, en uno de los grandes símbolos de la primavera en los Países Bajos. Cada temporada, millones de bulbos florecen de forma sincronizada y crean un mosaico de colores que cambia semana a semana. Los jacintos aportan intensidad cromática y aroma, mientras los tulipanes, protagonistas indiscutibles, dibujan formas y contrastes que parecen pensados para ser recorridos sin prisa. Los senderos, estanques y parterres están diseñados para conducir la mirada y resaltar el espectáculo floral dentro de un paisaje cuidadosamente ordenado.",
+                "Image": {
+                    "Url": "/th?id=OHR.DutchTulips_ES-ES1084356423_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DutchTulips_ES-ES1084356423_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Tulipanes como protagonistas",
+                "Title": "Jacintos y tulipanes, Jardines de Keukenhof, Lisse, Países Bajos",
+                "Copyright": "© Martin Ruegner/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.26889,4.547222/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=52.26889,4.547222;S9;Jardines de Keukenhof, Lisse, Países Bajos&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260430_DutchTulips\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Jardines+de+Keukenhof&form=hpcapt&filters=HpDate:\"20260429_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260430_DutchTulips"
+            },
+            "Ssd": "20260430",
+            "Name": "DutchTulips",
+            "Market": "ES-ES",
+            "Hash": "1084356423",
+            "FullDateString": "30 de abr. de 2026"
+        }
+    },
+    {
         "startdate": "20260428",
         "fullstartdate": "202604282200",
         "enddate": "20260429",

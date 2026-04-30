@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260429",
+        "fullstartdate": "202604290300",
+        "enddate": "20260430",
+        "url": "/th?id=OHR.BelemTowerBank_PT-BR9115323805_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BelemTowerBank_PT-BR9115323805",
+        "copyright": "Torre de Belém às margens do rio Tejo, Lisboa, Portugal (© f9photos/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=torre+bel%C3%A9m&form=hpcapt&mkt=pt-br",
+        "title": "O último porto seguro",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260429_BelemTowerBank%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5a561cd1ca0d832dad90ed62ea0c9b66",
+        "hsh": "3e50681f0470d30ae054ef73052121ee",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Na imagem, a Torre de Belém marca o lugar onde Lisboa terminava e o Atlântico começava. Por ali passavam os navios na época das grandes navegações, carregando esperança e mapas cheios de lacunas, no mesmo fôlego histórico que colocaria o futuro território brasileiro no radar português.",
+                "Image": {
+                    "Url": "/th?id=OHR.BelemTowerBank_PT-BR9115323805_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BelemTowerBank_PT-BR9115323805_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O último porto seguro",
+                "Title": "Torre de Belém às margens do rio Tejo, Lisboa, Portugal",
+                "Copyright": "© f9photos/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260429_BelemTowerBank\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=torre+bel%c3%a9m&form=hpcapt&filters=HpDate:\"20260429_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260429_BelemTowerBank"
+            },
+            "Ssd": "20260429",
+            "Name": "BelemTowerBank",
+            "Market": "PT-BR",
+            "Hash": "9115323805",
+            "FullDateString": "29 abr. 2026"
+        }
+    },
+    {
         "startdate": "20260428",
         "fullstartdate": "202604280300",
         "enddate": "20260429",

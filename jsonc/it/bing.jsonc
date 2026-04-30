@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260429",
+        "fullstartdate": "202604292200",
+        "enddate": "20260430",
+        "url": "/th?id=OHR.DutchTulips_IT-IT3654570550_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DutchTulips_IT-IT3654570550",
+        "copyright": "Giacinti e tulipani, Giardini di Keukenhof, Lisse, Paesi Bassi (© Martin Ruegner/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Tulipa&form=hpcapt",
+        "title": "Fiori, follie e fragranze",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260429_DutchTulips%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d40424571f121f574368b8aca4a92945",
+        "hsh": "9e4015e5086d38fbde71a2c1a337673c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Benvenuti nel giardino dell’Eden, benvenuti nei Giardini di Keukenhof, un parco botanico olandese. Inaugurato nel 1950, nacque come esposizione primaverile, dove i coltivatori di bulbi mostravano le loro ultime varietà a visitatori e acquirenti. Immaginate un fiore capace di scatenare una frenesia finanziaria. Sembra incredibile, vero? Eppure, negli anni Trenta del Seicento, i tulipani fecero proprio questo nei Paesi Bassi. Durante la «mania dei tulipani», i bulbi rari diventarono oggetti di lusso scambiati a cifre stupefacenti, alcuni con un prezzo equiparabile a quello di una casa. Colori insoliti e motivi a strisce erano rari e imprevedibili e i collezionisti cercavano le varietà più preziose.",
+                "Image": {
+                    "Url": "/th?id=OHR.DutchTulips_IT-IT3654570550_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DutchTulips_IT-IT3654570550_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Fiori, follie e fragranze",
+                "Title": "Giacinti e tulipani, Giardini di Keukenhof, Lisse, Paesi Bassi",
+                "Copyright": "© Martin Ruegner/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.26889,4.547222/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=52.26889,4.547222;S9;Giardini di Keukenhof, Lisse, Paesi Bassi&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260430_DutchTulips\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tulipa&form=hpcapt&filters=HpDate:\"20260429_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260430_DutchTulips"
+            },
+            "Ssd": "20260430",
+            "Name": "DutchTulips",
+            "Market": "IT-IT",
+            "Hash": "3654570550",
+            "FullDateString": "30 aprile 2026"
+        }
+    },
+    {
         "startdate": "20260428",
         "fullstartdate": "202604282200",
         "enddate": "20260429",

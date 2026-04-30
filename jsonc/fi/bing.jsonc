@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260429",
+        "fullstartdate": "202604290700",
+        "enddate": "20260430",
+        "url": "/th?id=OHR.BelemTowerBank_ROW0291299958_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BelemTowerBank_ROW0291299958",
+        "copyright": "Belém Tower on the bank of the Tagus River, Lisbon, Portugal (© f9photos/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Belem+Tower&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260429_BelemTowerBank%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5a561cd1ca0d832dad90ed62ea0c9b66",
+        "hsh": "bdc3cdebfa77cee901f515ac113119fb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ships leaving Lisbon once passed a small stone tower before meeting the wide Atlantic. That tower, standing on the bank of the Tagus River, served as both a guardian and a farewell. Say hello to Belém Tower—a fortress that watched Portugal sail into the Age of Exploration.",
+                "Image": {
+                    "Url": "/th?id=OHR.BelemTowerBank_ROW0291299958_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BelemTowerBank_ROW0291299958_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Belém Tower on the bank of the Tagus River, Lisbon, Portugal",
+                "Copyright": "© f9photos/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260429_BelemTowerBank\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Belem+Tower&form=hpcapt&filters=HpDate:\"20260429_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260429_BelemTowerBank"
+            },
+            "Ssd": "20260429",
+            "Name": "BelemTowerBank",
+            "Market": "ROW",
+            "Hash": "0291299958",
+            "FullDateString": "29. huhtik. 2026"
+        }
+    },
+    {
         "startdate": "20260428",
         "fullstartdate": "202604280700",
         "enddate": "20260429",
