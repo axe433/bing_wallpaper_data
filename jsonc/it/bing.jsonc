@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260501",
+        "fullstartdate": "202605012200",
+        "enddate": "20260502",
+        "url": "/th?id=OHR.GreenJasper_IT-IT7374602939_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GreenJasper_IT-IT7374602939",
+        "copyright": "Parco nazionale di Jasper, Alberta, Canada (© Don White/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Il+Jasper+National+Park&form=hpcapt",
+        "title": "Viaggi selvaggi",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260501_GreenJasper%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d943cddee3d53baf579c7fe16509080d",
+        "hsh": "4f3bf0a5a75bc4052f3c6d17ac80a313",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Benvenuti nel parco nazionale di Jasper, in Alberta, Canada. Istituito nel 1907 come parte di una crescente rete di paesaggi protetti nelle Montagne Rocciose canadesi, è stato designato parco nazionale nel 1930. Il parco riflette sia gli sforzi di conservazione sia connessioni indigene molto più antiche, tra cui quelle dei popoli Nakoda e Secwépemc. Il suo territorio spazia da fiumi alimentati dai ghiacciai e prati alpini a fitte foreste di conifere dominate da abeti e pini.",
+                "Image": {
+                    "Url": "/th?id=OHR.GreenJasper_IT-IT7374602939_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GreenJasper_IT-IT7374602939_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Viaggi selvaggi",
+                "Title": "Parco nazionale di Jasper, Alberta, Canada",
+                "Copyright": "© Don White/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.873398,-117.954308/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=52.873398,-117.954308;S9;Parco nazionale di Jasper, Alberta, Canada&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260502_GreenJasper\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Il+Jasper+National+Park&form=hpcapt&filters=HpDate:\"20260501_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260502_GreenJasper"
+            },
+            "Ssd": "20260502",
+            "Name": "GreenJasper",
+            "Market": "IT-IT",
+            "Hash": "7374602939",
+            "FullDateString": "2 maggio 2026"
+        }
+    },
+    {
         "startdate": "20260430",
         "fullstartdate": "202604302200",
         "enddate": "20260501",

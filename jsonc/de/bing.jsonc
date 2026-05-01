@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260501",
+        "fullstartdate": "202605012200",
+        "enddate": "20260502",
+        "url": "/th?id=OHR.GreenJasper_DE-DE3724735614_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GreenJasper_DE-DE3724735614",
+        "copyright": "Kleiner See und Feuchtgebiet im Jasper‑Nationalpark in Alberta, Kanada (© Don White/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Jasper%E2%80%91Nationalpark+Alberta&form=hpcapt&filters=HpDate%3a%2220260501_2200%22",
+        "title": "Die Magie von Jasper",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260501_GreenJasper%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d943cddee3d53baf579c7fe16509080d",
+        "hsh": "b2f4af11434dfe382855bb81975cd18a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Wie wild sich Natur anfühlen kann, zeigt der Jasper‑Nationalpark in den kanadischen Rocky Mountains eindrucksvoll. Weite Täler, stille Feuchtgebiete, dichte Nadelwälder und von Gletschern gespeiste Flüsse prägen diese Landschaft in Alberta. Der Park wurde bereits zu Beginn des 20. Jahrhunderts unter Schutz gestellt und bewahrt bis heute einen spürbar ursprünglichen Charakter.",
+                "Image": {
+                    "Url": "/th?id=OHR.GreenJasper_DE-DE3724735614_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GreenJasper_DE-DE3724735614_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Die Magie von Jasper",
+                "Title": "Kleiner See und Feuchtgebiet im Jasper‑Nationalpark in Alberta, Kanada",
+                "Copyright": "© Don White/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.873398,-117.954308/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=52.873398,-117.954308;S9;Jasper‑Nationalpark, Alberta, Kanada&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260502_GreenJasper\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Jasper%e2%80%91Nationalpark+Alberta&form=hpcapt&filters=HpDate:\"20260501_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260502_GreenJasper"
+            },
+            "Ssd": "20260502",
+            "Name": "GreenJasper",
+            "Market": "DE-DE",
+            "Hash": "3724735614",
+            "FullDateString": "2. Mai. 2026"
+        }
+    },
+    {
         "startdate": "20260430",
         "fullstartdate": "202604302200",
         "enddate": "20260501",

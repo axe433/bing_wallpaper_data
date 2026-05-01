@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260501",
+        "fullstartdate": "202605011500",
+        "enddate": "20260502",
+        "url": "/th?id=OHR.HachijyuHachiya2026_JA-JP2065177671_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HachijyuHachiya2026_JA-JP2065177671",
+        "copyright": "和束の茶畑, 京都府 和束町 (© Tuul and Bruno Morandi/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%85%AB%E5%8D%81%E5%85%AB%E5%A4%9C&form=hpcapt&filters=HpDate%3a%2220260501_1500%22",
+        "title": "今日は八十八夜",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260501_HachijyuHachiya2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a7049d21447f8f2eab315ea51f136c4e",
+        "hsh": "b9989106b8aba04fcfd33e4f4643c302",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 5 月 2 日は八十八夜。立春から数えて 88 日目で、春から夏へ移る節目の日です。新茶を摘む時期でもあり、八十八夜に摘んだ茶葉は上等で、これを飲むと長生きするともいわれています。そして画像は、京都府和束町に位置する「和束の茶畑」です。京都府における宇治茶の生産量の約 4 割を占め、「茶源郷」とも呼ばれています。茶畑の畝が、急傾斜の山肌に覆い尽くすように張り巡らされているのが特徴です。鎌倉時代から受け継がれてきたこの景観は、京都府景観資産の登録第 1 号となったほか、2015 年には「日本茶 800 年の歴史散歩」として日本遺産にも登録されました。",
+                "Image": {
+                    "Url": "/th?id=OHR.HachijyuHachiya2026_JA-JP2065177671_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HachijyuHachiya2026_JA-JP2065177671_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日は八十八夜",
+                "Title": "和束の茶畑, 京都府 和束町",
+                "Copyright": "© Tuul and Bruno Morandi/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/34.802149,135.900084/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=34.802149,135.900084;S9;和束町, 京都府和束町&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260502_HachijyuHachiya2026%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260502_HachijyuHachiya2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%85%ab%e5%8d%81%e5%85%ab%e5%a4%9c&form=hpcapt&filters=HpDate:\"20260501_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260502_HachijyuHachiya2026"
+            },
+            "Ssd": "20260502",
+            "Name": "HachijyuHachiya2026",
+            "Market": "JA-JP",
+            "Hash": "2065177671",
+            "FullDateString": "2026 年 5月 月 2 日"
+        }
+    },
+    {
         "startdate": "20260430",
         "fullstartdate": "202604301500",
         "enddate": "20260501",

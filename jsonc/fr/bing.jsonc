@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260501",
+        "fullstartdate": "202605012200",
+        "enddate": "20260502",
+        "url": "/th?id=OHR.GreenJasper_FR-FR4890526322_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GreenJasper_FR-FR4890526322",
+        "copyright": "Petit lac et marais dans le parc national Jasper, Alberta, Canada (© Don White/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parc+national+Jasper+Alberta&form=hpcapt&filters=HpDate%3a%2220260501_2200%22",
+        "title": "La magie de Jasper",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260501_GreenJasper%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d943cddee3d53baf579c7fe16509080d",
+        "hsh": "fc7c5962d3409dae81218de6db14126a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Imaginez un territoire de plus de 10 800 km² de nature protégée. Au cœur des Rocheuses canadiennes, le parc national de Jasper s’étend depuis le début du XXᵉ siècle. Créé dans un contexte de préservation, le parc témoigne aussi de liens bien plus anciens avec les peuples autochtones Nakoda et Secwépemc, ainsi que d’autres nations. Glaciers, prairies alpines et vastes forêts de pins et d’épinettes façonnent des paysages grandioses.",
+                "Image": {
+                    "Url": "/th?id=OHR.GreenJasper_FR-FR4890526322_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GreenJasper_FR-FR4890526322_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La magie de Jasper",
+                "Title": "Petit lac et marais dans le parc national Jasper, Alberta, Canada",
+                "Copyright": "© Don White/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.873398,-117.954308/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=52.873398,-117.954308;S9;Parc national Jasper, Alberta, Canada&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260502_GreenJasper\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parc+national+Jasper+Alberta&form=hpcapt&filters=HpDate:\"20260501_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260502_GreenJasper"
+            },
+            "Ssd": "20260502",
+            "Name": "GreenJasper",
+            "Market": "FR-FR",
+            "Hash": "4890526322",
+            "FullDateString": "2 mai 2026"
+        }
+    },
+    {
         "startdate": "20260430",
         "fullstartdate": "202604302200",
         "enddate": "20260501",

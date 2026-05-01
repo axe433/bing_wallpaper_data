@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260501",
+        "fullstartdate": "202605011830",
+        "enddate": "20260502",
+        "url": "/th?id=OHR.GreenJasper_EN-IN3195299837_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GreenJasper_EN-IN3195299837",
+        "copyright": "Small lake and marsh in Jasper National Park in Alberta, Canada (© Don White/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Jasper+National+Park+Alberta&form=hpcapt&filters=HpDate%3a%2220260501_1830%22",
+        "title": "The magic of Jasper",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260501_GreenJasper%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d943cddee3d53baf579c7fe16509080d",
+        "hsh": "2bb8063181f13d85d716d115cc81bb73",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Can you picture more than 10,800 square kilometres of protected wilderness? That's Jasper National Park in Alberta, Canada. Established in 1907 as part of a growing network of protected landscapes in the Canadian Rockies, it was designated a national park in 1930. The park reflects both conservation efforts and much older Indigenous connections, including those of the Nakoda and Secwépemc peoples. Its terrain ranges from glacier-fed rivers and alpine meadows to dense conifer forests dominated by spruce and pine.",
+                "Image": {
+                    "Url": "/th?id=OHR.GreenJasper_EN-IN3195299837_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GreenJasper_EN-IN3195299837_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "The magic of Jasper",
+                "Title": "Small lake and marsh in Jasper National Park in Alberta, Canada",
+                "Copyright": "© Don White/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.873398,-117.954308/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=52.873398,-117.954308;S9;Jasper National Park, Alberta, Canada&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260502_GreenJasper\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Jasper+National+Park+Alberta&form=hpcapt&filters=HpDate:\"20260501_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260502_GreenJasper"
+            },
+            "Ssd": "20260502",
+            "Name": "GreenJasper",
+            "Market": "EN-IN",
+            "Hash": "3195299837",
+            "FullDateString": "2 May, 2026"
+        }
+    },
+    {
         "startdate": "20260430",
         "fullstartdate": "202604301830",
         "enddate": "20260501",
