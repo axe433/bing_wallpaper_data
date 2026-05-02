@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260502",
+        "fullstartdate": "202605022200",
+        "enddate": "20260503",
+        "url": "/th?id=OHR.MasaiLeopard_DE-DE1183742562_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MasaiLeopard_DE-DE1183742562",
+        "copyright": "Leopard, der in einem Baum in der Savanne schläft, Masai‑Mara‑Nationalreservat, Kenia (© Klein & Hubert/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+des+Leoparden+Mai&form=hpcapt&filters=HpDate%3a%2220260502_2200%22",
+        "title": "Rast in der Savanne",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260502_MasaiLeopard%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "065849f17dbd790db200fae9f20d8d4d",
+        "hsh": "49e74127999b1db3abc9fd59e0d1f2a1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Hoch über der Savanne im Masai-Mara-Nationalreservat hat es sich ein Leopard auf einem Ast bequem gemacht. Im warmen Licht des Abends ruht eine der anpassungsfähigsten Großkatzen der Welt und blickt über die weite Landschaft Kenias. Der Internationale Tag des Leoparden am 3. Mai ist ein Anlass, diese faszinierenden Jäger in den Fokus zu rücken.",
+                "Image": {
+                    "Url": "/th?id=OHR.MasaiLeopard_DE-DE1183742562_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MasaiLeopard_DE-DE1183742562_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Rast in der Savanne",
+                "Title": "Leopard, der in einem Baum in der Savanne schläft, Masai‑Mara‑Nationalreservat, Kenia",
+                "Copyright": "© Klein & Hubert/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Leoparden haben etwa 75 % ihres historischen Verbreitungsgebiets verloren und werden von der IUCN als „gefährdet“ eingestuft.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260503_MasaiLeopard\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Internationaler+Tag+des+Leoparden+Mai&form=hpcapt&filters=HpDate:\"20260502_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260503_MasaiLeopard"
+            },
+            "Ssd": "20260503",
+            "Name": "MasaiLeopard",
+            "Market": "DE-DE",
+            "Hash": "1183742562",
+            "FullDateString": "3. Mai. 2026"
+        }
+    },
+    {
         "startdate": "20260501",
         "fullstartdate": "202605012200",
         "enddate": "20260502",

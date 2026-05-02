@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260502",
+        "fullstartdate": "202605020300",
+        "enddate": "20260503",
+        "url": "/th?id=OHR.GreenJasper_PT-BR3746055245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GreenJasper_PT-BR3746055245",
+        "copyright": "Pequeno lago no Parque Nacional Jasper, Alberta, Canadá (© Don White/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+Jasper+Canad%C3%A1&form=hpcapt&mkt=pt-br",
+        "title": "Uma noite preservada",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260502_GreenJasper%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d943cddee3d53baf579c7fe16509080d",
+        "hsh": "4aec04d89134759f0c4478ec16f88a5c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "O cenário da imagem é o Parque Nacional Jasper, em Alberta, Canadá. Com mais de 10 mil km² protegidos, ele reúne paisagens glaciais, florestas de pinheiros e vales abertos, além de uma relação histórica profunda com povos indígenas como Nakoda e Secwépemc. A fauna circula sem pedir licença. Alces e cervos ocupam os campos, enquanto lobos e ursos‑pardos seguem rotas mais discretas. Os caribus, símbolo das regiões frias, ainda resistem ali, mas dependem de políticas de conservação constantes. Pode ser explorado a pé, de caiaque ou de esqui, com trilhas que vão de passeios curtos a expedições de vários dias. No verão, o Lago Maligne ganha tons intensos de azul; no inverno, as montanhas se cobrem de branco.",
+                "Image": {
+                    "Url": "/th?id=OHR.GreenJasper_PT-BR3746055245_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GreenJasper_PT-BR3746055245_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Uma noite preservada",
+                "Title": "Pequeno lago no Parque Nacional Jasper, Alberta, Canadá",
+                "Copyright": "© Don White/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260502_GreenJasper\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parque+Nacional+Jasper+Canad%c3%a1&form=hpcapt&filters=HpDate:\"20260502_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260502_GreenJasper"
+            },
+            "Ssd": "20260502",
+            "Name": "GreenJasper",
+            "Market": "PT-BR",
+            "Hash": "3746055245",
+            "FullDateString": "2 mai. 2026"
+        }
+    },
+    {
         "startdate": "20260501",
         "fullstartdate": "202605010300",
         "enddate": "20260502",

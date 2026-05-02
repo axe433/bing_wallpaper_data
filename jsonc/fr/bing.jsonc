@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260502",
+        "fullstartdate": "202605022200",
+        "enddate": "20260503",
+        "url": "/th?id=OHR.MasaiLeopard_FR-FR4209826917_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MasaiLeopard_FR-FR4209826917",
+        "copyright": "Un léopard endormi dans un arbre de la savane, Réserve nationale du Masai Mara, Kenya (© Klein & Hubert/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=l%C3%A9opard+animal&form=hpcapt&filters=HpDate%3a%2220260502_2200%22",
+        "title": "Perché dans la savane",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260502_MasaiLeopard%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "065849f17dbd790db200fae9f20d8d4d",
+        "hsh": "dc6f3cc6d9e0f371c8f55c0a4815a510",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Perché au-dessus de la savane du Masai Mara, au Kenya, un léopard s’étire sur une branche tiède, bercé par la lumière dorée du crépuscule. Le 3 mai, Journée internationale du léopard, rend hommage à ce félin d’une étonnante adaptabilité. De l’Afrique aux confins de l’Asie, il traverse forêts, montagnes et plaines ouvertes avec aisance.",
+                "Image": {
+                    "Url": "/th?id=OHR.MasaiLeopard_FR-FR4209826917_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MasaiLeopard_FR-FR4209826917_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Perché dans la savane",
+                "Title": "Un léopard endormi dans un arbre de la savane, Réserve nationale du Masai Mara, Kenya",
+                "Copyright": "© Klein & Hubert/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Les léopards ont perdu environ 75 % de leur aire de répartition historique et sont classés comme « vulnérables » par l'UICN.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260503_MasaiLeopard\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=l%c3%a9opard+animal&form=hpcapt&filters=HpDate:\"20260502_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260503_MasaiLeopard"
+            },
+            "Ssd": "20260503",
+            "Name": "MasaiLeopard",
+            "Market": "FR-FR",
+            "Hash": "4209826917",
+            "FullDateString": "3 mai 2026"
+        }
+    },
+    {
         "startdate": "20260501",
         "fullstartdate": "202605012200",
         "enddate": "20260502",

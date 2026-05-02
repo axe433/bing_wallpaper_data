@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260502",
+        "fullstartdate": "202605020700",
+        "enddate": "20260503",
+        "url": "/th?id=OHR.GreenJasper_ROW9272973075_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GreenJasper_ROW9272973075",
+        "copyright": "Small lake and marsh in Jasper National Park in Alberta, Canada (© Don White/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Jasper+National+Park+Alberta&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260502_GreenJasper%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d943cddee3d53baf579c7fe16509080d",
+        "hsh": "9380bd2d4aaea3c3374b7f05bcea5574",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Can you picture 11,000 square kilometres of protected wilderness? That's Jasper National Park in Alberta. Established in 1907 as part of a growing network of protected landscapes in the Canadian Rockies, it was designated a national park in 1930. The park reflects both conservation efforts and much older Indigenous connections, including those of the Nakoda and Secwépemc peoples. Its terrain ranges from glacier-fed rivers and alpine meadows to dense conifer forests dominated by spruce and pine.",
+                "Image": {
+                    "Url": "/th?id=OHR.GreenJasper_ROW9272973075_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GreenJasper_ROW9272973075_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Small lake and marsh in Jasper National Park in Alberta, Canada",
+                "Copyright": "© Don White/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260502_GreenJasper\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Jasper+National+Park+Alberta&form=hpcapt&filters=HpDate:\"20260502_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260502_GreenJasper"
+            },
+            "Ssd": "20260502",
+            "Name": "GreenJasper",
+            "Market": "ROW",
+            "Hash": "9272973075",
+            "FullDateString": "May 2, jjjj"
+        }
+    },
+    {
         "startdate": "20260501",
         "fullstartdate": "202605010700",
         "enddate": "20260502",
