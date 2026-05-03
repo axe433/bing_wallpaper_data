@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260503",
+        "fullstartdate": "202605032200",
+        "enddate": "20260504",
+        "url": "/th?id=OHR.KsarOuledSoltane_DE-DE0772664249_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KsarOuledSoltane_DE-DE0772664249",
+        "copyright": "Ksar Ouled Soltane, Gouvernement Tataouine, Südtunesien (© Dark_Eni/Getty Images Plus)",
+        "copyrightlink": "https://www.bing.com/search?q=Star+Wars+Day&form=hpcapt&filters=HpDate%3a%2220260503_2200%22",
+        "title": "Reale Kulisse, galaktische Fantasie",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260503_KsarOuledSoltane%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e118301ed15e3ead92f05da5616cf74f",
+        "hsh": "08a91d01d5d8397af77ff1560913f94f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Was wie eine Filmkulisse wirkt, ist ein historischer Ort: Ksar Ouled Soltane liegt im Süden Tunesiens im Gouvernement Tataouine, nahe der Sahara. Die mehrstöckigen Speicherburgen aus Lehm wurden im 15. Jahrhundert von Berbergruppen als sichere Vorratslager errichtet. Sie schützten das Getreide vor Hitze, Diebstahl und Verderb. Mit ihrer klaren, funktionalen Architektur prägen sie bis heute die trockene Landschaft der Region.",
+                "Image": {
+                    "Url": "/th?id=OHR.KsarOuledSoltane_DE-DE0772664249_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KsarOuledSoltane_DE-DE0772664249_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Reale Kulisse, galaktische Fantasie",
+                "Title": "Ksar Ouled Soltane, Gouvernement Tataouine, Südtunesien",
+                "Copyright": "© Dark_Eni/Getty Images Plus",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/32.793106,10.518624/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=32.793106,10.518624;S9;Ksar Ouled Soltane, Tataouine, Tunesien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260504_KsarOuledSoltane\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Star+Wars+Day&form=hpcapt&filters=HpDate:\"20260503_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260504_KsarOuledSoltane"
+            },
+            "Ssd": "20260504",
+            "Name": "KsarOuledSoltane",
+            "Market": "DE-DE",
+            "Hash": "0772664249",
+            "FullDateString": "4. Mai. 2026"
+        }
+    },
+    {
         "startdate": "20260502",
         "fullstartdate": "202605022200",
         "enddate": "20260503",

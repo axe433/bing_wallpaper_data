@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260503",
+        "fullstartdate": "202605031830",
+        "enddate": "20260504",
+        "url": "/th?id=OHR.KsarOuledSoltane_EN-IN1772152584_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KsarOuledSoltane_EN-IN1772152584",
+        "copyright": "Ksar Ouled Soltane, Tataouine district in southern Tunisia (© Dark_Eni/Getty Images Plus)",
+        "copyrightlink": "https://www.bing.com/search?q=Star+Wars+Day&form=hpcapt&filters=HpDate%3a%2220260503_1830%22",
+        "title": "Sci‑fi, Earth‑made",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260503_KsarOuledSoltane%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e118301ed15e3ead92f05da5616cf74f",
+        "hsh": "e41feab5d2b1d5241cd1f8db1cbaf7bf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "May the 4th be with you! On Star Wars Day, reality cosplays as science fiction and dares you to tell the difference. Our image takes us to Ksar Ouled Soltane in Tunisia's Tataouine district, where stacked clay granaries rise like sand‑coloured fortresses. Dating back to the 15th century, this storehouse complex was built by Berber communities to protect harvests from heat, theft and time. Function first. Beauty as a side effect.",
+                "Image": {
+                    "Url": "/th?id=OHR.KsarOuledSoltane_EN-IN1772152584_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KsarOuledSoltane_EN-IN1772152584_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Sci‑fi, Earth‑made",
+                "Title": "Ksar Ouled Soltane, Tataouine district in southern Tunisia",
+                "Copyright": "© Dark_Eni/Getty Images Plus",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/32.793106,10.518624/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=32.793106,10.518624;S9;Ksar Ouled Soltane, Tataouine, Tunisia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260504_KsarOuledSoltane\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Star+Wars+Day&form=hpcapt&filters=HpDate:\"20260503_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260504_KsarOuledSoltane"
+            },
+            "Ssd": "20260504",
+            "Name": "KsarOuledSoltane",
+            "Market": "EN-IN",
+            "Hash": "1772152584",
+            "FullDateString": "4 May, 2026"
+        }
+    },
+    {
         "startdate": "20260502",
         "fullstartdate": "202605021830",
         "enddate": "20260503",
