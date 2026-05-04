@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260504",
+        "fullstartdate": "202605042200",
+        "enddate": "20260505",
+        "url": "/th?id=OHR.MayoAgave_FR-FR5361312928_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MayoAgave_FR-FR5361312928",
+        "copyright": "Champs d’agave bleu près de Tequila, Jalisco, Mexique (© Brian Overcast/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=champs+d%E2%80%99agave+Tequila+Jalisco&form=hpcapt&filters=HpDate%3a%2220260504_2200%22",
+        "title": "Où l’histoire prend racine",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260504_MayoAgave%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8e482b2997d006b8fd8ac042085cf36f",
+        "hsh": "56305f208d187a7aa87350780be3695c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Autour de la ville de Tequila, dans l’État de Jalisco, les champs d’agaves bleus ondulent à perte de vue, comme une mer minérale sous le soleil mexicain. Leurs feuilles épaisses, ourlées d’épines, captent la lumière et dessinent un paysage presque irréel, inscrit au patrimoine mondial de l’UNESCO. Ici pousse l’Agave tequilana Weber azul, patiemment cultivé pendant sept à dix ans avant la récolte.",
+                "Image": {
+                    "Url": "/th?id=OHR.MayoAgave_FR-FR5361312928_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MayoAgave_FR-FR5361312928_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Où l'histoire prend racine",
+                "Title": "Champs d’agave bleu près de Tequila, Jalisco, Mexique",
+                "Copyright": "© Brian Overcast/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/20.87944,-103.8356/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=20.87944,-103.8356;S9;Tequila, Jalisco, Mexique&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260505_MayoAgave\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=champs+d%e2%80%99agave+Tequila+Jalisco&form=hpcapt&filters=HpDate:\"20260504_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260505_MayoAgave"
+            },
+            "Ssd": "20260505",
+            "Name": "MayoAgave",
+            "Market": "FR-FR",
+            "Hash": "5361312928",
+            "FullDateString": "5 mai 2026"
+        }
+    },
+    {
         "startdate": "20260503",
         "fullstartdate": "202605032200",
         "enddate": "20260504",

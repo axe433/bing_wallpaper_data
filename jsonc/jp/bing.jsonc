@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260504",
+        "fullstartdate": "202605041500",
+        "enddate": "20260505",
+        "url": "/th?id=OHR.ChildrensDay2026_JA-JP4339103590_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ChildrensDay2026_JA-JP4339103590",
+        "copyright": "姫の沢公園, 静岡県 熱海市 (© SKY Stock/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260504_1500%22",
+        "title": "今日はこどもの日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260504_ChildrensDay2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6f6afa83c6508da911409ae7e1e58a41",
+        "hsh": "0d0d515d1c6c394e52d9a5eeab4b496d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 5 月 5 日は、こどもの日。国民の祝日の一つであり、祝日法では「こどもの人格を重んじ、こどもの幸福をはかるとともに、母に感謝する」ことを趣旨としています。そして画像は、静岡県にある姫の沢公園に飾られた鯉のぼり。毎年「姫の沢公園花まつり～つつじ・こいのぼりまつり～」に合わせて飾られます。園内に咲き誇る約 6 万株のツツジと空を泳ぐ約 160 匹の鯉のぼりの組み合わせは、花まつりのシンボルとなっています。",
+                "Image": {
+                    "Url": "/th?id=OHR.ChildrensDay2026_JA-JP4339103590_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ChildrensDay2026_JA-JP4339103590_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日はこどもの日",
+                "Title": "姫の沢公園, 静岡県 熱海市",
+                "Copyright": "© SKY Stock/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.117626,139.050413/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=35.117626,139.050413;S9;姫の沢公園&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260505_Children'sDay2026%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260505_ChildrensDay2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%81%93%e3%81%a9%e3%82%82%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate:\"20260504_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260505_ChildrensDay2026"
+            },
+            "Ssd": "20260505",
+            "Name": "ChildrensDay2026",
+            "Market": "JA-JP",
+            "Hash": "4339103590",
+            "FullDateString": "2026 年 5月 月 5 日"
+        }
+    },
+    {
         "startdate": "20260503",
         "fullstartdate": "202605031500",
         "enddate": "20260504",

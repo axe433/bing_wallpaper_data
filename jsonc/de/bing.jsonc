@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260504",
+        "fullstartdate": "202605042200",
+        "enddate": "20260505",
+        "url": "/th?id=OHR.LuebeckChairs_DE-DE4681131575_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LuebeckChairs_DE-DE4681131575",
+        "copyright": "Strandkörbe am Ostseestrand von Grömitz, Schleswig‑Holstein (© Sabine Lubenow/Image Professionals GmbH/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Geschichte+Strandkorb+Ostsee&form=hpcapt&filters=HpDate%3a%2220260504_2200%22",
+        "title": "Ein Stück Ostseetradition",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260504_LuebeckChairs%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1f20818486b5f78d9c38c76b3a934921",
+        "hsh": "0a814bdbdbdc1a1f7aa2ab60b1feb9b1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Unzählige Strandkörbe säumen die Promenade am Strand von Grömitz an der Ostseeküste Schleswig-Holsteins und prägen seit Generationen das Panorama des Küstenorts. Als eines der ältesten Seebäder der Region zog der Ort bereits im 19. Jahrhundert Erholungssuchende an die See. Das Erscheinungsbild wird dabei nicht nur vom feinen Sandstrand, sondern auch von der offenen, weiten Lage an der Lübecker Bucht bestimmt.",
+                "Image": {
+                    "Url": "/th?id=OHR.LuebeckChairs_DE-DE4681131575_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LuebeckChairs_DE-DE4681131575_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ein Stück Ostseetradition",
+                "Title": "Strandkörbe am Ostseestrand von Grömitz, Schleswig‑Holstein",
+                "Copyright": "© Sabine Lubenow/Image Professionals GmbH/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/54.157855,10.957586/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=54.157855,10.957586;S9;Grömitz, Schleswig‑Holstein&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260505_LuebeckChairs\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Geschichte+Strandkorb+Ostsee&form=hpcapt&filters=HpDate:\"20260504_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260505_LuebeckChairs"
+            },
+            "Ssd": "20260505",
+            "Name": "LuebeckChairs",
+            "Market": "DE-DE",
+            "Hash": "4681131575",
+            "FullDateString": "5. Mai. 2026"
+        }
+    },
+    {
         "startdate": "20260503",
         "fullstartdate": "202605032200",
         "enddate": "20260504",

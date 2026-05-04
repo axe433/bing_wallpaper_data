@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260504",
+        "fullstartdate": "202605040700",
+        "enddate": "20260505",
+        "url": "/th?id=OHR.KsarOuledSoltane_ROW9968378030_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KsarOuledSoltane_ROW9968378030",
+        "copyright": "Ksar Ouled Soltane, Tataouine district in southern Tunisia (© Dark_Eni/Getty Images Plus)",
+        "copyrightlink": "https://www.bing.com/search?q=Ksar+Ouled+Soltane+Tataouine+district&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260504_KsarOuledSoltane%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e118301ed15e3ead92f05da5616cf74f",
+        "hsh": "979fed5967d5a2ce330da1c435b46332",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Today's image takes us to Ksar Ouled Soltane in Tunisia's Tataouine district, where stacked clay granaries rise like sand-coloured fortresses. Dating back to the 15th century, this storehouse complex was built by Berber communities to protect harvests from heat, theft and time. Function first. Beauty as a side effect.",
+                "Image": {
+                    "Url": "/th?id=OHR.KsarOuledSoltane_ROW9968378030_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KsarOuledSoltane_ROW9968378030_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Ksar Ouled Soltane, Tataouine district in southern Tunisia",
+                "Copyright": "© Dark_Eni/Getty Images Plus",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260504_KsarOuledSoltane\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ksar+Ouled+Soltane+Tataouine+district&form=hpcapt&filters=HpDate:\"20260504_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260504_KsarOuledSoltane"
+            },
+            "Ssd": "20260504",
+            "Name": "KsarOuledSoltane",
+            "Market": "ROW",
+            "Hash": "9968378030",
+            "FullDateString": "May 4, 2026"
+        }
+    },
+    {
         "startdate": "20260503",
         "fullstartdate": "202605030700",
         "enddate": "20260504",
