@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260505",
+        "fullstartdate": "202605050700",
+        "enddate": "20260506",
+        "url": "/th?id=OHR.MayoAgave_ROW0279228757_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MayoAgave_ROW0279228757",
+        "copyright": "Field of blue agave near Tequila, Jalisco, Mexico (© Brian Overcast/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Tequila+Jalisco+Mexico&form=hpcapt&filters=HpDate%3a%2220260505_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260505_MayoAgave%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8e482b2997d006b8fd8ac042085cf36f",
+        "hsh": "803728ced525284effa25bdacfc0a021",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "In the highlands of Jalisco, Mexico, rows of blue agave stretch across the landscape, their spiky leaves catching the light like a field of sculpted stars. This region, centred around the town of Tequila, is the birthplace of tequila, a spirit deeply tied to both land and tradition.",
+                "Image": {
+                    "Url": "/th?id=OHR.MayoAgave_ROW0279228757_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MayoAgave_ROW0279228757_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Field of blue agave near Tequila, Jalisco, Mexico",
+                "Copyright": "© Brian Overcast/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260505_MayoAgave\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tequila+Jalisco+Mexico&form=hpcapt&filters=HpDate:\"20260505_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260505_MayoAgave"
+            },
+            "Ssd": "20260505",
+            "Name": "MayoAgave",
+            "Market": "ROW",
+            "Hash": "0279228757",
+            "FullDateString": "5 May 2026"
+        }
+    },
+    {
         "startdate": "20260504",
         "fullstartdate": "202605040700",
         "enddate": "20260505",

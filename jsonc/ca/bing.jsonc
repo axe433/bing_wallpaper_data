@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260505",
+        "fullstartdate": "202605050400",
+        "enddate": "20260506",
+        "url": "/th?id=OHR.BullQuebec_EN-CA5955231847_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BullQuebec_EN-CA5955231847",
+        "copyright": "A majestic bull moose foraging through the green undergrowth, Quebec (© pchoui/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Moose+animal&form=hpcapt&filters=HpDate%3a%2220260505_0400%22",
+        "title": "In step with the forest",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260505_BullQuebec%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c1b5c9a0fa4f90d28275ca7801727e4f",
+        "hsh": "7b7dffb06d398b96819c1df76854b8e6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Not one to hurry, a bull moose moves with steady purpose—and for good reason. As part of the North American moose population native to Canada, these animals are well adapted to long winters and short growing seasons. Their diet shifts with availability: in summer, they browse fresh leaves, shrubs and aquatic plants; in winter, they rely more on woody material like twigs and bark.",
+                "Image": {
+                    "Url": "/th?id=OHR.BullQuebec_EN-CA5955231847_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BullQuebec_EN-CA5955231847_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "In step with the forest",
+                "Title": "A majestic bull moose foraging through the green undergrowth, Quebec",
+                "Copyright": "© pchoui/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Moose are excellent swimmers and are known to wade into water to eat aquatic plants.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260505_BullQuebec\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Moose+animal&form=hpcapt&filters=HpDate:\"20260505_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260505_BullQuebec"
+            },
+            "Ssd": "20260505",
+            "Name": "BullQuebec",
+            "Market": "EN-CA",
+            "Hash": "5955231847",
+            "FullDateString": "May 5, 2026"
+        }
+    },
+    {
         "startdate": "20260504",
         "fullstartdate": "202605040400",
         "enddate": "20260505",

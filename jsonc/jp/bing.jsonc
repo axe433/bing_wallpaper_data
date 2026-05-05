@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260505",
+        "fullstartdate": "202605051500",
+        "enddate": "20260506",
+        "url": "/th?id=OHR.BulgariaPlains_JA-JP4515566359_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BulgariaPlains_JA-JP4515566359",
+        "copyright": "平原に現れた巨大積乱雲, ブルガリア (© Revolu7ion93/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%96%E3%83%AB%E3%82%AC%E3%83%AA%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220260505_1500%22",
+        "title": "雷雨が迫るドラマチックな空",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260505_BulgariaPlains%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6a5bfd2833e584e235e507f4d09da462",
+        "hsh": "57fe0fafa52adf0982f8c8663c589c30",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "バルカン半島東部に位置するブルガリアは、ヨーロッパとアジアの交差点にある国です。バルカン山脈によって気候が大きく分けられており、国内に広がる二つの主要な平原にその特徴がよく表れています。北部のドナウ平原は、温暖な大陸性気候で冬は寒さが厳しく、夏は高温多湿になる地域です。一方、南部のトラキア平原は、大陸性気候とエーゲ海方面から流れ込む地中海性気候の影響を受ける移行帯にあります。夏は高温になりやすく、湿った空気と地表の強い加熱によって大気が不安定となるため、雷雨を伴う夏季の嵐が平原上空で発生しやすい地域です。",
+                "Image": {
+                    "Url": "/th?id=OHR.BulgariaPlains_JA-JP4515566359_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BulgariaPlains_JA-JP4515566359_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "雷雨が迫るドラマチックな空",
+                "Title": "平原に現れた巨大積乱雲, ブルガリア",
+                "Copyright": "© Revolu7ion93/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/42.607399,25.485662/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=42.607399,25.485662;S9;ブルガリア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260506_BulgariaPlains%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260506_BulgariaPlains\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%96%e3%83%ab%e3%82%ac%e3%83%aa%e3%82%a2&form=hpcapt&filters=HpDate:\"20260505_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260506_BulgariaPlains"
+            },
+            "Ssd": "20260506",
+            "Name": "BulgariaPlains",
+            "Market": "JA-JP",
+            "Hash": "4515566359",
+            "FullDateString": "2026 年 5月 月 6 日"
+        }
+    },
+    {
         "startdate": "20260504",
         "fullstartdate": "202605041500",
         "enddate": "20260505",

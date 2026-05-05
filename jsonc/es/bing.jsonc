@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260505",
+        "fullstartdate": "202605052200",
+        "enddate": "20260506",
+        "url": "/th?id=OHR.BulgariaPlains_ES-ES6386466102_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BulgariaPlains_ES-ES6386466102",
+        "copyright": "Tormenta sobre las llanuras, Bulgaria (© Revolu7ion93/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Bulgaria&form=hpcapt&filters=HpDate%3a%2220260505_2200%22",
+        "title": "Latidos del cielo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260505_BulgariaPlains%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6a5bfd2833e584e235e507f4d09da462",
+        "hsh": "33799391e15a5adc0c17b16d27a1ddba",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Situada en el sureste de Europa, en la península balcánica, Bulgaria se encuentra donde confluyen culturas antiguas, paisajes fértiles y climas cambiantes. Bajo cielos dramáticos, sus dos grandes llanuras constituyen el corazón agrícola del país: la Llanura Danubiana al norte, un territorio ondulado de campos y valles modelado por un clima templado que en verano desata tormentas poderosas, y más al sur, la Llanura Tracia Superior, más baja y cálida, donde las masas de aire mediterráneo y la humedad del río Maritsa hacen que las tormentas estivales sean intensas e imprevisibles.",
+                "Image": {
+                    "Url": "/th?id=OHR.BulgariaPlains_ES-ES6386466102_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BulgariaPlains_ES-ES6386466102_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Latidos del cielo",
+                "Title": "Tormenta sobre las llanuras, Bulgaria",
+                "Copyright": "© Revolu7ion93/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/42.75,25.5/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=42.75,25.5;S9;Bulgaria&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260506_BulgariaPlains\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Bulgaria&form=hpcapt&filters=HpDate:\"20260505_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260506_BulgariaPlains"
+            },
+            "Ssd": "20260506",
+            "Name": "BulgariaPlains",
+            "Market": "ES-ES",
+            "Hash": "6386466102",
+            "FullDateString": "6 de may. de 2026"
+        }
+    },
+    {
         "startdate": "20260504",
         "fullstartdate": "202605042200",
         "enddate": "20260505",

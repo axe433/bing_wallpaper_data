@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260505",
+        "fullstartdate": "202605050300",
+        "enddate": "20260506",
+        "url": "/th?id=OHR.MayoAgave_PT-BR7161087994_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MayoAgave_PT-BR7161087994",
+        "copyright": "Campo de agave-azul perto de Tequila, Jalisco, México (© Brian Overcast/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=o+cinco+de+mayo&form=hpcapt&mkt=pt-br",
+        "title": "Um brinde à resistência",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260505_MayoAgave%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8e482b2997d006b8fd8ac042085cf36f",
+        "hsh": "b297c336afc3741184f3c8757b8e2d3d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Já ouviu falar em Cinco de Mayo? A data lembra uma vitória improvável. Em 5 de maio de 1862, forças mexicanas em desvantagem derrotaram o exército francês e conseguiram frear a tentativa de ampliar o controle sobre o país. O conflito não terminou na Batalha de Puebla, mas o episódio atravessou o tempo como símbolo de resistência diante de um adversário mais poderoso.",
+                "Image": {
+                    "Url": "/th?id=OHR.MayoAgave_PT-BR7161087994_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MayoAgave_PT-BR7161087994_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Um brinde à resistência",
+                "Title": "Campo de agave-azul perto de Tequila, Jalisco, México",
+                "Copyright": "© Brian Overcast/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260505_MayoAgave\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=o+cinco+de+mayo&form=hpcapt&filters=HpDate:\"20260505_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260505_MayoAgave"
+            },
+            "Ssd": "20260505",
+            "Name": "MayoAgave",
+            "Market": "PT-BR",
+            "Hash": "7161087994",
+            "FullDateString": "5 mai. 2026"
+        }
+    },
+    {
         "startdate": "20260504",
         "fullstartdate": "202605040300",
         "enddate": "20260505",
