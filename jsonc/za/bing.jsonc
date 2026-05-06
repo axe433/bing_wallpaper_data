@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260506",
+        "fullstartdate": "202605060700",
+        "enddate": "20260507",
+        "url": "/th?id=OHR.BulgariaPlains_ROW5132279610_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BulgariaPlains_ROW5132279610",
+        "copyright": "Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Bulgaria&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260506_BulgariaPlains%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6a5bfd2833e584e235e507f4d09da462",
+        "hsh": "16c63014d03d750be98c54696d94144f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Located on the eastern Balkan Peninsula, Bulgaria sits at the crossroads of Europe and Asia, where ancient cultures, fertile landscapes and shifting climates converge.",
+                "Image": {
+                    "Url": "/th?id=OHR.BulgariaPlains_ROW5132279610_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BulgariaPlains_ROW5132279610_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Thunderstorm above the plains, Bulgaria",
+                "Copyright": "© Revolu7ion93/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260506_BulgariaPlains\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Bulgaria&form=hpcapt&filters=HpDate:\"20260506_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260506_BulgariaPlains"
+            },
+            "Ssd": "20260506",
+            "Name": "BulgariaPlains",
+            "Market": "ROW",
+            "Hash": "5132279610",
+            "FullDateString": "May 6, jjjj"
+        }
+    },
+    {
         "startdate": "20260505",
         "fullstartdate": "202605050700",
         "enddate": "20260506",

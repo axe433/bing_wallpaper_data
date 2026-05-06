@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260506",
+        "fullstartdate": "202605060400",
+        "enddate": "20260507",
+        "url": "/th?id=OHR.BulgariaPlains_EN-CA6379116198_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BulgariaPlains_EN-CA6379116198",
+        "copyright": "Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Bulgaria&form=hpcapt&filters=HpDate%3a%2220260506_0400%22",
+        "title": "Plains under pressure",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260506_BulgariaPlains%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6a5bfd2833e584e235e507f4d09da462",
+        "hsh": "11d67da6a89cc92f6811a3083b21e4f4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Located on the eastern Balkan Peninsula, Bulgaria sits at the crossroads of Europe and Asia, where ancient cultures, fertile landscapes and shifting climates converge.",
+                "Image": {
+                    "Url": "/th?id=OHR.BulgariaPlains_EN-CA6379116198_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BulgariaPlains_EN-CA6379116198_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Plains under pressure",
+                "Title": "Thunderstorm above the plains, Bulgaria",
+                "Copyright": "© Revolu7ion93/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/42.75,25.5/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=42.75,25.5;S9;Bulgaria&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260506_BulgariaPlains\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Bulgaria&form=hpcapt&filters=HpDate:\"20260506_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260506_BulgariaPlains"
+            },
+            "Ssd": "20260506",
+            "Name": "BulgariaPlains",
+            "Market": "EN-CA",
+            "Hash": "6379116198",
+            "FullDateString": "May 6, 2026"
+        }
+    },
+    {
         "startdate": "20260505",
         "fullstartdate": "202605050400",
         "enddate": "20260506",

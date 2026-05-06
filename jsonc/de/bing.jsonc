@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260506",
+        "fullstartdate": "202605062200",
+        "enddate": "20260507",
+        "url": "/th?id=OHR.Kofa_DE-DE5653026475_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Kofa_DE-DE5653026475",
+        "copyright": "Kofa National Wildlife Refuge, Arizona, USA (© Denis Tangney Jr/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Kofa+National+Wildlife+Refuge+USA&form=hpcapt&filters=HpDate%3a%2220260506_2200%22",
+        "title": "Weite Horizonte der Wüste",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260506_Kofa%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4bb452e59560a707c1861ae5fa90a55b",
+        "hsh": "cac47a1382456938f0d8315450bfa733",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Mit dem Kofa National Wildlife Refuge erstreckt sich im Südwesten Arizonas, USA, ein weitläufiges Schutzgebiet, das von offenen Wüstenflächen, schroffen Bergzügen und einer überraschenden ökologischen Vielfalt geprägt ist. Das Gebiet liegt in der Sonora‑Wüste und wurde 1939 eingerichtet, um Dickhornschafe zu schützen, deren trittsichere Silhouetten bis heute das weite und offene Landschaftsbild prägen.",
+                "Image": {
+                    "Url": "/th?id=OHR.Kofa_DE-DE5653026475_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Kofa_DE-DE5653026475_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Weite Horizonte der Wüste",
+                "Title": "Kofa National Wildlife Refuge, Arizona, USA",
+                "Copyright": "© Denis Tangney Jr/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/33.237633,-114.011215/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=33.237633,-114.011215;S9;Kofa National Wildlife Refuge, Arizona, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260507_Kofa\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Kofa+National+Wildlife+Refuge+USA&form=hpcapt&filters=HpDate:\"20260506_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260507_Kofa"
+            },
+            "Ssd": "20260507",
+            "Name": "Kofa",
+            "Market": "DE-DE",
+            "Hash": "5653026475",
+            "FullDateString": "7. Mai. 2026"
+        }
+    },
+    {
         "startdate": "20260505",
         "fullstartdate": "202605052200",
         "enddate": "20260506",

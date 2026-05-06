@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260506",
+        "fullstartdate": "202605061500",
+        "enddate": "20260507",
+        "url": "/th?id=OHR.Kofa_JA-JP4672929305_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Kofa_JA-JP4672929305",
+        "copyright": "コファ国立野生生物保護区, 米国 アリゾナ州 (© Denis Tangney Jr/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%B3%E3%83%95%E3%82%A1%E5%9B%BD%E7%AB%8B%E9%87%8E%E7%94%9F%E7%94%9F%E7%89%A9%E4%BF%9D%E8%AD%B7%E5%8C%BA&form=hpcapt&filters=HpDate%3a%2220260506_1500%22",
+        "title": "夕陽を受けて輝く山々",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260506_Kofa%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4bb452e59560a707c1861ae5fa90a55b",
+        "hsh": "324491c2aa3ef70d33a864a276624031",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ここは、米国アリゾナ州南西部のソノラ砂漠に広がるコファ国立野生生物保護区です。1939 年、砂漠オオツノヒツジ（ビッグホーンシープ）を保護するために設立されました。約 2,700km² におよぶ広大な敷地には、険しい山々、火山岩がつくり出した地形、そして珍しいヤシの木が連なる峡谷など、多彩な景観が広がります。また、砂漠オオツノヒツジのほかにも、サバクゴファーガメやコヨーテ、スズメの一種であるサボテンミソサザイなど、過酷な環境に適応した野生生物がこの地に生息しています。",
+                "Image": {
+                    "Url": "/th?id=OHR.Kofa_JA-JP4672929305_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Kofa_JA-JP4672929305_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "夕陽を受けて輝く山々",
+                "Title": "コファ国立野生生物保護区, 米国 アリゾナ州",
+                "Copyright": "© Denis Tangney Jr/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/33.237996,-114.011199/10?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=33.237996,-114.011199;S9;コファ国立野生生物保護区, 米国 アリゾナ州&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260507_Kofa%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260507_Kofa\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%b3%e3%83%95%e3%82%a1%e5%9b%bd%e7%ab%8b%e9%87%8e%e7%94%9f%e7%94%9f%e7%89%a9%e4%bf%9d%e8%ad%b7%e5%8c%ba&form=hpcapt&filters=HpDate:\"20260506_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260507_Kofa"
+            },
+            "Ssd": "20260507",
+            "Name": "Kofa",
+            "Market": "JA-JP",
+            "Hash": "4672929305",
+            "FullDateString": "2026 年 5月 月 7 日"
+        }
+    },
+    {
         "startdate": "20260505",
         "fullstartdate": "202605051500",
         "enddate": "20260506",

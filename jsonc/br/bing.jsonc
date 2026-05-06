@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260506",
+        "fullstartdate": "202605060300",
+        "enddate": "20260507",
+        "url": "/th?id=OHR.BulgariaPlains_PT-BR7466173362_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BulgariaPlains_PT-BR7466173362",
+        "copyright": "Tempestade sobre as planícies, Bulgária (© Revolu7ion93/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Bulg%C3%A1ria&form=hpcapt&mkt=pt-br",
+        "title": "Céu em curto-circuito",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260506_BulgariaPlains%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6a5bfd2833e584e235e507f4d09da462",
+        "hsh": "0bc3de635acc654c31b440e4abda2db6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A Bulgária vive um equilíbrio climático pouco comum para um país tão compacto. Situado entre a Europa e a Ásia, o território funciona como um corredor onde diferentes massas de ar entram em choque. Ao norte, a Planície do Danúbio acumula calor intenso. Ao sul, a Planície da Trácia Superior recebe a umidade que sobe do mar Egeu, atravessa o interior e deixa o ar pesado. Quando essas duas forças se encontram, o resultado aparece rápido: tempestades elétricas bem definidas, como a registrada na imagem.",
+                "Image": {
+                    "Url": "/th?id=OHR.BulgariaPlains_PT-BR7466173362_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BulgariaPlains_PT-BR7466173362_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Céu em curto-circuito",
+                "Title": "Tempestade sobre as planícies, Bulgária",
+                "Copyright": "© Revolu7ion93/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260506_BulgariaPlains\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Bulg%c3%a1ria&form=hpcapt&filters=HpDate:\"20260506_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260506_BulgariaPlains"
+            },
+            "Ssd": "20260506",
+            "Name": "BulgariaPlains",
+            "Market": "PT-BR",
+            "Hash": "7466173362",
+            "FullDateString": "6 mai. 2026"
+        }
+    },
+    {
         "startdate": "20260505",
         "fullstartdate": "202605050300",
         "enddate": "20260506",
