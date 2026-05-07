@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260507",
+        "fullstartdate": "202605072200",
+        "enddate": "20260508",
+        "url": "/th?id=OHR.SardinianDonkey_ES-ES2075094183_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SardinianDonkey_ES-ES2075094183",
+        "copyright": "Burra sarda con su cría, Francia (© Klein & Hubert/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+Mundial+del+Burro&form=hpcapt&filters=HpDate%3a%2220260507_2200%22",
+        "title": "Más que un rebuzno",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260507_SardinianDonkey%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "29b7f10ff7f8936310107366cb16a309",
+        "hsh": "cc2e051704d574acc0d8d5f8accf29a0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Desde hace más de 5.000 años, el burro acompaña al ser humano de forma constante y silenciosa. Con motivo del Día Mundial del Burro, merece la pena observar con más atención a un animal a menudo subestimado. Mucho más que un simple animal de carga, destaca por su carácter social y su notable memoria. En la imagen, una burra sarda junto a su cría refleja los fuertes vínculos de la especie, capaz de reconocer a individuos conocidos y mantener una clara cohesión grupal.",
+                "Image": {
+                    "Url": "/th?id=OHR.SardinianDonkey_ES-ES2075094183_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SardinianDonkey_ES-ES2075094183_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Más que un rebuzno",
+                "Title": "Burra sarda con su cría, Francia",
+                "Copyright": "© Klein & Hubert/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Una mula es la cría de un burro macho y una yegua.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260508_SardinianDonkey\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=D%c3%ada+Mundial+del+Burro&form=hpcapt&filters=HpDate:\"20260507_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260508_SardinianDonkey"
+            },
+            "Ssd": "20260508",
+            "Name": "SardinianDonkey",
+            "Market": "ES-ES",
+            "Hash": "2075094183",
+            "FullDateString": "8 de may. de 2026"
+        }
+    },
+    {
         "startdate": "20260506",
         "fullstartdate": "202605062200",
         "enddate": "20260507",

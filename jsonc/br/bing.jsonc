@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260507",
+        "fullstartdate": "202605070300",
+        "enddate": "20260508",
+        "url": "/th?id=OHR.Bananaquit_PT-BR8722522620_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Bananaquit_PT-BR8722522620",
+        "copyright": "Cambacica pousada em uma flor de bananeira, Ubatuba, São Paulo (© Alex Saberi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=a+cambacica&form=hpcapt&mkt=pt-br",
+        "title": "Apressada por natureza",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260507_Bananaquit%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "397783bb9c5080be519ea1bb79312db8",
+        "hsh": "885b1690a8e47d1f3377a1492ed59ce9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Pousada, sim — mas longe de distraída. O clique de hoje flagra uma cambacica na flor de uma bananeira em Ubatuba, São Paulo. O bico curvado é uma ferramenta de alta precisão, feita sob medida para acessar flores que passam despercebidas para aves maiores. Néctar é o prato preferido, mas a dieta é flexível: entram frutas maduras e insetos conforme o que o dia oferece. Essa versatilidade ajuda a explicar por que a cambacica aparece tanto em áreas de mata quanto em quintais, zonas urbanas e plantações por quase toda a América tropical.",
+                "Image": {
+                    "Url": "/th?id=OHR.Bananaquit_PT-BR8722522620_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Bananaquit_PT-BR8722522620_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Apressada por natureza",
+                "Title": "Cambacica pousada em uma flor de bananeira, Ubatuba, São Paulo",
+                "Copyright": "© Alex Saberi/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260507_Bananaquit\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=a+cambacica&form=hpcapt&filters=HpDate:\"20260507_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260507_Bananaquit"
+            },
+            "Ssd": "20260507",
+            "Name": "Bananaquit",
+            "Market": "PT-BR",
+            "Hash": "8722522620",
+            "FullDateString": "7 mai. 2026"
+        }
+    },
+    {
         "startdate": "20260506",
         "fullstartdate": "202605060300",
         "enddate": "20260507",

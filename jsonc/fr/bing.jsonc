@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260507",
+        "fullstartdate": "202605072200",
+        "enddate": "20260508",
+        "url": "/th?id=OHR.SardinianDonkey_FR-FR6669383604_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SardinianDonkey_FR-FR6669383604",
+        "copyright": "Ânesse sarde et son ânon, France (© Klein & Hubert/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=%C3%A2ne+animal&form=hpcapt&filters=HpDate%3a%2220260507_2200%22",
+        "title": "Bien plus qu’un « iii ahn »",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260507_SardinianDonkey%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "29b7f10ff7f8936310107366cb16a309",
+        "hsh": "ed36381cff5adb1888f69faa15da8fd9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La Journée mondiale de l’âne rend hommage à l’un des plus fidèles alliés de l’être humain. Depuis des millénaires, l’âne accompagne les sociétés humaines grâce à son endurance, sa mémoire remarquable et son assurance dans les terrains difficiles. Loin d’être têtu, il observe, analyse et choisit la prudence plutôt que la précipitation.",
+                "Image": {
+                    "Url": "/th?id=OHR.SardinianDonkey_FR-FR6669383604_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SardinianDonkey_FR-FR6669383604_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Bien plus qu'un « iii ahn »",
+                "Title": "Ânesse sarde et son ânon, France",
+                "Copyright": "© Klein & Hubert/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Un mulet est le fruit de l'union entre un âne mâle et une jument.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260508_SardinianDonkey\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%c3%a2ne+animal&form=hpcapt&filters=HpDate:\"20260507_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260508_SardinianDonkey"
+            },
+            "Ssd": "20260508",
+            "Name": "SardinianDonkey",
+            "Market": "FR-FR",
+            "Hash": "6669383604",
+            "FullDateString": "8 mai 2026"
+        }
+    },
+    {
         "startdate": "20260506",
         "fullstartdate": "202605062200",
         "enddate": "20260507",

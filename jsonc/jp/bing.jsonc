@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260507",
+        "fullstartdate": "202605071500",
+        "enddate": "20260508",
+        "url": "/th?id=OHR.SardinianDonkey_JA-JP4826123491_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SardinianDonkey_JA-JP4826123491",
+        "copyright": "ロバの親子, フランス (© Klein & Hubert/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E3%83%AD%E3%83%90%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260507_1500%22",
+        "title": "今日は世界ロバの日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260507_SardinianDonkey%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "29b7f10ff7f8936310107366cb16a309",
+        "hsh": "bc66116d05683c62e1b3a9de0eabdbf4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 5 月 8 日は世界ロバの日。昔から人間とともに働いてきたロバに感謝し、その忍耐強さに敬意を払う日です。日本ではロバの飼育はほとんど行われていませんが、フランスなどの地中海地域や中東、中央アジアなどでは、農耕や荷物運搬のためのパートナーとして大切にされてきました。馬に比べるとスピードでは劣るものの、不整地に強く頑丈なため、山岳地帯での長距離の物資運搬などに現在も利用されています。",
+                "Image": {
+                    "Url": "/th?id=OHR.SardinianDonkey_JA-JP4826123491_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SardinianDonkey_JA-JP4826123491_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日は世界ロバの日",
+                "Title": "ロバの親子, フランス",
+                "Copyright": "© Klein & Hubert/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.624809,2.458377/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=46.624809,2.458377;S9;フランス&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260508_SardinianDonkey %22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260508_SardinianDonkey\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e4%b8%96%e7%95%8c%e3%83%ad%e3%83%90%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate:\"20260507_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260508_SardinianDonkey"
+            },
+            "Ssd": "20260508",
+            "Name": "SardinianDonkey",
+            "Market": "JA-JP",
+            "Hash": "4826123491",
+            "FullDateString": "2026 年 5月 月 8 日"
+        }
+    },
+    {
         "startdate": "20260506",
         "fullstartdate": "202605061500",
         "enddate": "20260507",

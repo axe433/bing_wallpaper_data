@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260507",
+        "fullstartdate": "202605070700",
+        "enddate": "20260508",
+        "url": "/th?id=OHR.Kofa_ROW0914409827_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Kofa_ROW0914409827",
+        "copyright": "Kofa National Wildlife Refuge, Arizona, United States (© Denis Tangney Jr/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Kofa+National+Wildlife+Refuge&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260507_Kofa%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4bb452e59560a707c1861ae5fa90a55b",
+        "hsh": "0592fcc563709c92c267257e99b78a95",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Stretching across the Sonoran Desert in southwestern Arizona, Kofa National Wildlife Refuge is a land of sharp peaks, wide skies and surprising life. The refuge was established in 1939 to protect desert bighorn sheep, whose sure-footed silhouettes still define the rugged landscape.",
+                "Image": {
+                    "Url": "/th?id=OHR.Kofa_ROW0914409827_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Kofa_ROW0914409827_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Kofa National Wildlife Refuge, Arizona, United States",
+                "Copyright": "© Denis Tangney Jr/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260507_Kofa\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Kofa+National+Wildlife+Refuge&form=hpcapt&filters=HpDate:\"20260507_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260507_Kofa"
+            },
+            "Ssd": "20260507",
+            "Name": "Kofa",
+            "Market": "ROW",
+            "Hash": "0914409827",
+            "FullDateString": "7. toukok. 2026"
+        }
+    },
+    {
         "startdate": "20260506",
         "fullstartdate": "202605060700",
         "enddate": "20260507",
