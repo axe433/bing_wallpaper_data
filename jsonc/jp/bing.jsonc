@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260508",
+        "fullstartdate": "202605081500",
+        "enddate": "20260509",
+        "url": "/th?id=OHR.SkradinskiBuk_JA-JP5511016641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SkradinskiBuk_JA-JP5511016641",
+        "copyright": "スクラディンスキ・ブクの滝, クロアチア (© Amazing Aerial Agency/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%BB%E3%83%96%E3%82%AF%E3%81%AE%E6%BB%9D&form=hpcapt&filters=HpDate%3a%2220260508_1500%22",
+        "title": "緑豊かな森に輝く清流",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260508_SkradinskiBuk%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "09bee2b54f451193a140c2a9dc98358e",
+        "hsh": "917aab0b66b8c278f2b62a43fd9e98a9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ここはクロアチアのクルカ国立公園にあるスクラディンスキ・ブクの滝。クルカ川沿いに広がるこの滝は、単一の滝ではなく、全長約 800m にわたり 17 段の石灰華（トラバーチン）段丘が連なる大規模な滝群です。公園を代表するスポットであり、近隣に整備された木製の遊歩道や橋から、滝の流れを間近に眺めることができます。この滝を中心に、クルカ国立公園は豊かな水系と野生生物の生息環境を守っています。",
+                "Image": {
+                    "Url": "/th?id=OHR.SkradinskiBuk_JA-JP5511016641_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SkradinskiBuk_JA-JP5511016641_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "緑豊かな森に輝く清流",
+                "Title": "スクラディンスキ・ブクの滝, クロアチア",
+                "Copyright": "© Amazing Aerial Agency/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.805624,15.963898/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=43.805624,15.963898;S9;スクラディンスキ・ブクの滝, クロアチア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260509_SkradinskiBuk %22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260509_SkradinskiBuk\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%b9%e3%82%af%e3%83%a9%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b9%e3%82%ad%e3%83%bb%e3%83%96%e3%82%af%e3%81%ae%e6%bb%9d&form=hpcapt&filters=HpDate:\"20260508_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260509_SkradinskiBuk"
+            },
+            "Ssd": "20260509",
+            "Name": "SkradinskiBuk",
+            "Market": "JA-JP",
+            "Hash": "5511016641",
+            "FullDateString": "2026 年 5月 月 9 日"
+        }
+    },
+    {
         "startdate": "20260507",
         "fullstartdate": "202605071500",
         "enddate": "20260508",

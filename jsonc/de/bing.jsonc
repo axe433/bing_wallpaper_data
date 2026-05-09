@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260508",
+        "fullstartdate": "202605082200",
+        "enddate": "20260509",
+        "url": "/th?id=OHR.SkradinskiBuk_DE-DE6216835034_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SkradinskiBuk_DE-DE6216835034",
+        "copyright": "Wasserfälle von Skradinski Buk im Nationalpark Krka, Kroatien (© Amazing Aerial Agency/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Nationalpark+Krka+Kroatien&form=hpcapt&filters=HpDate%3a%2220260508_2200%22",
+        "title": "Die Sprache des Wassers",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260508_SkradinskiBuk%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "09bee2b54f451193a140c2a9dc98358e",
+        "hsh": "ba9ebd9313e646596f6fa173f6e6a1a4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Fließendes Wasser prägt im Nationalpark Krka seit Jahrtausenden eine Landschaft aus smaragdgrünen Becken und gestuften Kalkterrassen. Am Skradinski Buk, nahe dem Dorf Lozovac, verzweigt sich der Fluss in zahlreiche Arme, die über helle Kalkformationen durch dichten Wald in die Tiefe stürzen. So entsteht eine der eindrucksvollsten Wasserfalllandschaften Kroatiens.",
+                "Image": {
+                    "Url": "/th?id=OHR.SkradinskiBuk_DE-DE6216835034_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SkradinskiBuk_DE-DE6216835034_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Die Sprache des Wassers",
+                "Title": "Wasserfälle von Skradinski Buk im Nationalpark Krka, Kroatien",
+                "Copyright": "© Amazing Aerial Agency/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.805592,15.963964/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=43.805592,15.963964;S9;Skradinski Buk, Nationalpark Krka, Lozovac, Kroatien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260509_SkradinskiBuk\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Nationalpark+Krka+Kroatien&form=hpcapt&filters=HpDate:\"20260508_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260509_SkradinskiBuk"
+            },
+            "Ssd": "20260509",
+            "Name": "SkradinskiBuk",
+            "Market": "DE-DE",
+            "Hash": "6216835034",
+            "FullDateString": "9. Mai. 2026"
+        }
+    },
+    {
         "startdate": "20260507",
         "fullstartdate": "202605072200",
         "enddate": "20260508",
