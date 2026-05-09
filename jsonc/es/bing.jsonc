@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260509",
+        "fullstartdate": "202605092200",
+        "enddate": "20260510",
+        "url": "/th?id=OHR.MasaiLeopard_ES-ES0036994554_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MasaiLeopard_ES-ES0036994554",
+        "copyright": "Leopardo descansando, reserva nacional de Masái Mara, Kenia (© Klein & Hubert/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Leopardo&form=hpcapt&filters=HpDate%3a%2220260509_2200%22",
+        "title": "Atardecer en la sabana",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260509_MasaiLeopard%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "065849f17dbd790db200fae9f20d8d4d",
+        "hsh": "b08bc22e68ba74de2892493063da1ee8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En la sabana del Masái Mara, en Kenia, los leopardos convierten los árboles en aliados. Subirse a las ramas les ofrece descanso, vigilancia y una ventaja clave: mantener sus presas fuera del alcance de competidores como leones o hienas, un comportamiento habitual en paisajes abiertos.",
+                "Image": {
+                    "Url": "/th?id=OHR.MasaiLeopard_ES-ES0036994554_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MasaiLeopard_ES-ES0036994554_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Atardecer en la sabana",
+                "Title": "Leopardo descansando, reserva nacional de Masái Mara, Kenia",
+                "Copyright": "© Klein & Hubert/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Los leopardos han perdido alrededor del 75 % de su distribución histórica y están clasificados como “vulnerables” por la UICN.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260510_MasaiLeopard\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Leopardo&form=hpcapt&filters=HpDate:\"20260509_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260510_MasaiLeopard"
+            },
+            "Ssd": "20260510",
+            "Name": "MasaiLeopard",
+            "Market": "ES-ES",
+            "Hash": "0036994554",
+            "FullDateString": "10 de may. de 2026"
+        }
+    },
+    {
         "startdate": "20260508",
         "fullstartdate": "202605082200",
         "enddate": "20260509",

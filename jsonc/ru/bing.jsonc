@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260509",
+        "fullstartdate": "202605090700",
+        "enddate": "20260510",
+        "url": "/th?id=OHR.SkradinskiBuk_ROW1678535800_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SkradinskiBuk_ROW1678535800",
+        "copyright": "Skradinski Buk Waterfall in Krka National Park, Croatia (© Amazing Aerial Agency/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Krka+National+Park+Croatia&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260509_SkradinskiBuk%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "09bee2b54f451193a140c2a9dc98358e",
+        "hsh": "6eb74932417087d249fb5368f9b96f3b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Water is the architect of Krka National Park in Croatia, shaping emerald pools and layered waterfalls along the Krka River. Today's image highlights Skradinski Buk, the park's most famous waterfall system, where multiple streams spill over travertine terraces in a dense forest near the village of Lozovac.",
+                "Image": {
+                    "Url": "/th?id=OHR.SkradinskiBuk_ROW1678535800_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SkradinskiBuk_ROW1678535800_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Skradinski Buk Waterfall in Krka National Park, Croatia",
+                "Copyright": "© Amazing Aerial Agency/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260509_SkradinskiBuk\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Krka+National+Park+Croatia&form=hpcapt&filters=HpDate:\"20260509_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260509_SkradinskiBuk"
+            },
+            "Ssd": "20260509",
+            "Name": "SkradinskiBuk",
+            "Market": "ROW",
+            "Hash": "1678535800",
+            "FullDateString": "9 мая 2026 г."
+        }
+    },
+    {
         "startdate": "20260508",
         "fullstartdate": "202605080700",
         "enddate": "20260509",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260509",
+        "fullstartdate": "202605092200",
+        "enddate": "20260510",
+        "url": "/th?id=OHR.Fratercula_FR-FR5694797887_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Fratercula_FR-FR5694797887",
+        "copyright": "Macareux moines, Pays de Galles (© FLPA/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=macareux+moine&form=hpcapt&filters=HpDate%3a%2220260509_2200%22",
+        "title": "Plonger, s’envoler et survivre",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260509_Fratercula%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5870e89ad5e6dcdc1be929d3e089961b",
+        "hsh": "ef1790abc81bcacfc6f3a68d524e8caa",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Le long des côtes rocheuses de l’Atlantique Nord, au Pays de Galles, le macareux moine niche dans des terriers creusés à flanc de falaise. Son plumage noir et blanc et son bec éclatant le rendent inoubliable, mais cet oiseau marin reste fragile : la raréfaction des poissons et le réchauffement des océans l’ont fait basculer dans la catégorie des espèces vulnérables. Chaque printemps, il revient fidèlement pondre un unique œuf, puis plonge avec aisance, « volant » sous l’eau à la poursuite de harengs et de lançons.",
+                "Image": {
+                    "Url": "/th?id=OHR.Fratercula_FR-FR5694797887_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Fratercula_FR-FR5694797887_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Plonger, s'envoler et survivre",
+                "Title": "Macareux moines, Pays de Galles",
+                "Copyright": "© FLPA/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.797381,-5.332342/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=51.797381,-5.332342;S9;Pays de Galles&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260510_Fratercula\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=macareux+moine&form=hpcapt&filters=HpDate:\"20260509_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260510_Fratercula"
+            },
+            "Ssd": "20260510",
+            "Name": "Fratercula",
+            "Market": "FR-FR",
+            "Hash": "5694797887",
+            "FullDateString": "10 mai 2026"
+        }
+    },
+    {
         "startdate": "20260508",
         "fullstartdate": "202605082200",
         "enddate": "20260509",

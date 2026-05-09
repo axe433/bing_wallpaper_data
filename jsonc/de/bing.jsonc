@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260509",
+        "fullstartdate": "202605092200",
+        "enddate": "20260510",
+        "url": "/th?id=OHR.MotherCub_DE-DE8187976527_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MotherCub_DE-DE8187976527",
+        "copyright": "Eisbärmutter mit Jungtieren im Wapusk‑Nationalpark, Manitoba, Kanada (© Hao Jiang/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Muttertag&form=hpcapt&filters=HpDate%3a%2220260509_2200%22",
+        "title": "Ein Band fürs Leben",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260509_MotherCub%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2ad9bc6a8647c3ca2007185e7887b958",
+        "hsh": "7dcd7c53bc61a3ef8b0ad605f4fcf08e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Am Muttertag stehen Fürsorge, Schutz und bedingungslose Hingabe im Mittelpunkt – Werte, die in der Wildnis oft über Leben und Tod entscheiden. Dieses Bild, aufgenommen im Wapusk-Nationalpark im Norden Kanadas, zeigt eine Eisbärmutter mit ihren Jungen auf der weiten arktischen Tundra und lenkt den Blick auf die Mutterschaft unter extremen Bedingungen. Die Aufzucht von Eisbärjungen erfordert jahrelange Hingabe. Die Mutter bringt ihre Jungen im Winter zur Welt und schützt sie zunächst in isolierenden Schneehöhlen. Dort wachsen sie mit nahrhafter Milch heran, bis sie stark genug sind, um der Kälte und den Herausforderungen der Umwelt zu begegnen.",
+                "Image": {
+                    "Url": "/th?id=OHR.MotherCub_DE-DE8187976527_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MotherCub_DE-DE8187976527_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ein Band fürs Leben",
+                "Title": "Eisbärmutter mit Jungtieren im Wapusk‑Nationalpark, Manitoba, Kanada",
+                "Copyright": "© Hao Jiang/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "In Deutschland wird der Muttertag am zweiten Sonntag im Mai gefeiert.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260510_MotherCub\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Muttertag&form=hpcapt&filters=HpDate:\"20260509_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260510_MotherCub"
+            },
+            "Ssd": "20260510",
+            "Name": "MotherCub",
+            "Market": "DE-DE",
+            "Hash": "8187976527",
+            "FullDateString": "10. Mai. 2026"
+        }
+    },
+    {
         "startdate": "20260508",
         "fullstartdate": "202605082200",
         "enddate": "20260509",
