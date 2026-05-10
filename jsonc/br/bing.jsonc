@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260510",
+        "fullstartdate": "202605100300",
+        "enddate": "20260511",
+        "url": "/th?id=OHR.MotherCub_PT-BR2196589197_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MotherCub_PT-BR2196589197",
+        "copyright": "Ursa-polar e filhotes brincando no Parque Nacional Wapusk, Manitoba, Canadá (© Hao Jiang/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+das+Maes&form=hpcapt&mkt=pt-br",
+        "title": "Maternidade polar",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260510_MotherCub%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2ad9bc6a8647c3ca2007185e7887b958",
+        "hsh": "04ebb8972c3932c8199abf3238153b24",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "No Dia das Mães, a imagem nos leva ao Parque Nacional de Wapusk, em Manitoba, no Canadá, onde uma ursa‑polar divide com seus filhotes um raro instante de leveza. Mas em um território onde o frio dita as regras e quase tudo conspira contra a vida, até brincar é ensaio. Ao correr, rolar e testar limites, os filhotes desenvolvem habilidades que serão decisivas quando seguirem sozinhos.",
+                "Image": {
+                    "Url": "/th?id=OHR.MotherCub_PT-BR2196589197_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MotherCub_PT-BR2196589197_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Maternidade polar",
+                "Title": "Ursa-polar e filhotes brincando no Parque Nacional Wapusk, Manitoba, Canadá",
+                "Copyright": "© Hao Jiang/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260510_MotherCub\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dia+das+Maes&form=hpcapt&filters=HpDate:\"20260510_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260510_MotherCub"
+            },
+            "Ssd": "20260510",
+            "Name": "MotherCub",
+            "Market": "PT-BR",
+            "Hash": "2196589197",
+            "FullDateString": "10 mai. 2026"
+        }
+    },
+    {
         "startdate": "20260509",
         "fullstartdate": "202605090300",
         "enddate": "20260510",
