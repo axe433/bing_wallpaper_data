@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260512",
+        "fullstartdate": "202605122200",
+        "enddate": "20260513",
+        "url": "/th?id=OHR.AlabamaHills_DE-DE8956133719_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlabamaHills_DE-DE8956133719",
+        "copyright": "Felsbogen und Milchstraße, Alabama Hills, Sierra Nevada, Kalifornien, USA (© Tim Fitzharris/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Alabama+Hills&form=hpcapt&filters=HpDate%3a%2220260512_2200%22",
+        "title": "Tor zum Universum",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260512_AlabamaHills%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f4547d3e1a678d6a6cfaf12056787cfa",
+        "hsh": "4b684e32c447947a31bec1d9b144aa11",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Abgerundete Granitfelsen und natürliche Bögen prägen die Landschaft der Alabama Hills im Osten Kaliforniens. Die markanten Formationen am Rande der Sierra Nevada entstanden vor rund 100 Millionen Jahren durch magmatische Prozesse und wurden anschließend über lange Zeit von Wind und Temperaturwechseln geformt. Heute bilden sie einen eindrucksvollen Rahmen für den Nachthimmel.",
+                "Image": {
+                    "Url": "/th?id=OHR.AlabamaHills_DE-DE8956133719_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AlabamaHills_DE-DE8956133719_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Tor zum Universum",
+                "Title": "Felsbogen und Milchstraße, Alabama Hills, Sierra Nevada, Kalifornien, USA",
+                "Copyright": "© Tim Fitzharris/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.981191,-118.081229/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=36.981191,-118.081229;S9;Alabama Hills, Sierra Nevada, Kalifornien, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260513_AlabamaHills\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Alabama+Hills&form=hpcapt&filters=HpDate:\"20260512_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260513_AlabamaHills"
+            },
+            "Ssd": "20260513",
+            "Name": "AlabamaHills",
+            "Market": "DE-DE",
+            "Hash": "8956133719",
+            "FullDateString": "13. Mai. 2026"
+        }
+    },
+    {
         "startdate": "20260511",
         "fullstartdate": "202605112200",
         "enddate": "20260512",

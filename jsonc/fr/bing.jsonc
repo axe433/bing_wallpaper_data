@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260512",
+        "fullstartdate": "202605122200",
+        "enddate": "20260513",
+        "url": "/th?id=OHR.AlabamaHills_FR-FR7595844295_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlabamaHills_FR-FR7595844295",
+        "copyright": "Voie lactée et arche naturelle, Alabama Hills, Sierra Nevada, Californie, États-Unis (© Tim Fitzharris/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Alabama+Hills&form=hpcapt&filters=HpDate%3a%2220260512_2200%22",
+        "title": "L’art de briller sans projecteurs",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260512_AlabamaHills%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f4547d3e1a678d6a6cfaf12056787cfa",
+        "hsh": "5f2b82afdb57e406525c829d8622e608",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dans la lumière nocturne, les arches de granit des Alabama Hills encadrent la Voie lactée au-dessus des reliefs austères de la Sierra Nevada orientale, en Californie. Ces collines, célèbres pour leurs blocs arrondis et leurs roches polies, sont issues de processus géologiques anciens, liés au soulèvement et à l’érosion de roches principalement granitiques. Le vent et l’eau ont patiemment sculpté la pierre, créant aujourd’hui un terrain de jeu naturel où l’on peut marcher entre les arches, observer la flore sauvage printanière ou explorer à cheval ou à vélo.",
+                "Image": {
+                    "Url": "/th?id=OHR.AlabamaHills_FR-FR7595844295_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AlabamaHills_FR-FR7595844295_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "L'art de briller sans projecteurs",
+                "Title": "Voie lactée et arche naturelle, Alabama Hills, Sierra Nevada, Californie, États-Unis",
+                "Copyright": "© Tim Fitzharris/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.981191,-118.081229/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=36.981191,-118.081229;S9;Alabama Hills, Sierra Nevada, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260513_AlabamaHills\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Alabama+Hills&form=hpcapt&filters=HpDate:\"20260512_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260513_AlabamaHills"
+            },
+            "Ssd": "20260513",
+            "Name": "AlabamaHills",
+            "Market": "FR-FR",
+            "Hash": "7595844295",
+            "FullDateString": "13 mai 2026"
+        }
+    },
+    {
         "startdate": "20260511",
         "fullstartdate": "202605112200",
         "enddate": "20260512",

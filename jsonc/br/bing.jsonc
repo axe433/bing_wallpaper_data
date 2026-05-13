@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260512",
+        "fullstartdate": "202605120300",
+        "enddate": "20260513",
+        "url": "/th?id=OHR.Fratercula_PT-BR3505081741_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Fratercula_PT-BR3505081741",
+        "copyright": "Papagaios-do-mar, País de Gales (© FLPA/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=papagaio-do-mar&form=hpcapt&mkt=pt-br",
+        "title": "Carisma sob pressão",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260512_Fratercula%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5870e89ad5e6dcdc1be929d3e089961b",
+        "hsh": "ddf4ca58084cd458b93b914691c15b7a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Eles parecem personagens animados, mas encaram uma vida bem real. A imagem vem do País de Gales, onde os papagaios‑do‑mar dividem a rotina entre penhascos íngremes e o Atlântico Norte. Eles passam quase todo o ano em alto-mar e só voltam à terra firme na primavera, sempre no mesmo endereço, para cavar tocas e criar um único filhote. No oceano, usam as asas como remos para “voar” debaixo d’água atrás de pequenos peixes.",
+                "Image": {
+                    "Url": "/th?id=OHR.Fratercula_PT-BR3505081741_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Fratercula_PT-BR3505081741_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Carisma sob pressão",
+                "Title": "Papagaios-do-mar, País de Gales",
+                "Copyright": "© FLPA/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260512_Fratercula\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=papagaio-do-mar&form=hpcapt&filters=HpDate:\"20260512_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260512_Fratercula"
+            },
+            "Ssd": "20260512",
+            "Name": "Fratercula",
+            "Market": "PT-BR",
+            "Hash": "3505081741",
+            "FullDateString": "12 mai. 2026"
+        }
+    },
+    {
         "startdate": "20260511",
         "fullstartdate": "202605110300",
         "enddate": "20260512",

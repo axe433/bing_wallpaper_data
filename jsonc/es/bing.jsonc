@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260512",
+        "fullstartdate": "202605122200",
+        "enddate": "20260513",
+        "url": "/th?id=OHR.AlabamaHills_ES-ES6766032995_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlabamaHills_ES-ES6766032995",
+        "copyright": "Arco y Vía Láctea, Alabama Hills, Sierra Nevada, California, EE. UU. (© Tim Fitzharris/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Alabama+Hills+Estados+Unidos&form=hpcapt&filters=HpDate%3a%2220260512_2200%22",
+        "title": "Bajo los astros",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260512_AlabamaHills%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f4547d3e1a678d6a6cfaf12056787cfa",
+        "hsh": "9e76bb0b52e79916f395ba8f6c00a8d0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Bienvenidos a Alabama Hills, en el estado estadounidense de California. Sus formaciones de granito se originaron hace unos cien millones de años, cuando se formó el batolito de la Sierra Nevada, y con el tiempo el viento y el agua fueron erosionando la superficie hasta modelar sus redondeadas y sugerentes formas. Quienes las visitan pueden pasear entre los arcos naturales, hacer excursiones, fotografiar paisajes singulares o recorrer los senderos a caballo o en bicicleta. También pueden admirar las flores silvestres que aparecen según la temporada. La escasa contaminación lumínica convierte a estas colinas en un lugar excelente para observar el cielo nocturno.",
+                "Image": {
+                    "Url": "/th?id=OHR.AlabamaHills_ES-ES6766032995_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AlabamaHills_ES-ES6766032995_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Bajo los astros",
+                "Title": "Arco y Vía Láctea, Alabama Hills, Sierra Nevada, California, EE. UU.",
+                "Copyright": "© Tim Fitzharris/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.981191,-118.081229/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=36.981191,-118.081229;S9;Alabama Hills, Sierra Nevada, California, EE.UU.&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260513_AlabamaHills\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Alabama+Hills+Estados+Unidos&form=hpcapt&filters=HpDate:\"20260512_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260513_AlabamaHills"
+            },
+            "Ssd": "20260513",
+            "Name": "AlabamaHills",
+            "Market": "ES-ES",
+            "Hash": "6766032995",
+            "FullDateString": "13 de may de 2026"
+        }
+    },
+    {
         "startdate": "20260511",
         "fullstartdate": "202605112200",
         "enddate": "20260512",
@@ -45,7 +94,7 @@
             "Name": "Fratercula",
             "Market": "ES-ES",
             "Hash": "7096599670",
-            "FullDateString": "12 de may. de 2026"
+            "FullDateString": "12 de may de 2026"
         }
     },
     {
@@ -94,7 +143,7 @@
             "Name": "QueenslandReef",
             "Market": "ES-ES",
             "Hash": "8051074781",
-            "FullDateString": "11 de may. de 2026"
+            "FullDateString": "11 de may de 2026"
         }
     },
     {
@@ -143,7 +192,7 @@
             "Name": "MasaiLeopard",
             "Market": "ES-ES",
             "Hash": "0036994554",
-            "FullDateString": "10 de may. de 2026"
+            "FullDateString": "10 de may de 2026"
         }
     },
     {
@@ -192,7 +241,7 @@
             "Name": "SkradinskiBuk",
             "Market": "ES-ES",
             "Hash": "0276988985",
-            "FullDateString": "9 de may. de 2026"
+            "FullDateString": "9 de may de 2026"
         }
     },
     {
@@ -241,7 +290,7 @@
             "Name": "SardinianDonkey",
             "Market": "ES-ES",
             "Hash": "2075094183",
-            "FullDateString": "8 de may. de 2026"
+            "FullDateString": "8 de may de 2026"
         }
     },
     {
@@ -290,7 +339,7 @@
             "Name": "Kofa",
             "Market": "ES-ES",
             "Hash": "0725925075",
-            "FullDateString": "7 de may. de 2026"
+            "FullDateString": "7 de may de 2026"
         }
     },
     {

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260512",
+        "fullstartdate": "202605120700",
+        "enddate": "20260513",
+        "url": "/th?id=OHR.Fratercula_ROW2531275403_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Fratercula_ROW2531275403",
+        "copyright": "Atlantic puffins, Wales (© FLPA/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Atlantic+puffin&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260512_Fratercula%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5870e89ad5e6dcdc1be929d3e089961b",
+        "hsh": "6e3919628b0a299dc6d3fff47cf11b6d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Along the rocky coasts of the North Atlantic, Atlantic puffins make their homes in burrows and cliffside crevices. These seabirds, with their black‑and‑white plumage and colourful beaks, are classified by the IUCN as vulnerable, as overfishing and changing ocean conditions reduce the availability of their prey. Each spring, they return to breed, laying a single egg in carefully dug burrows. Remarkable swimmers, they use their wings to 'fly' underwater when hunting small fish such as herring and sand eels.",
+                "Image": {
+                    "Url": "/th?id=OHR.Fratercula_ROW2531275403_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Fratercula_ROW2531275403_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Atlantic puffins, Wales",
+                "Copyright": "© FLPA/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260512_Fratercula\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Atlantic+puffin&form=hpcapt&filters=HpDate:\"20260512_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260512_Fratercula"
+            },
+            "Ssd": "20260512",
+            "Name": "Fratercula",
+            "Market": "ROW",
+            "Hash": "2531275403",
+            "FullDateString": "12 May, 2026"
+        }
+    },
+    {
         "startdate": "20260511",
         "fullstartdate": "202605110700",
         "enddate": "20260512",
