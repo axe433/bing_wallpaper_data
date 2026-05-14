@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260513",
+        "fullstartdate": "202605130700",
+        "enddate": "20260514",
+        "url": "/th?id=OHR.AlabamaHills_ROW6449052938_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlabamaHills_ROW6449052938",
+        "copyright": "Arch and Milky Way, Alabama Hills, Sierra Nevada, California, United States (© Tim Fitzharris/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Alabama+Hills&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260513_AlabamaHills%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f4547d3e1a678d6a6cfaf12056787cfa",
+        "hsh": "e4a919e8c10eb729244319cfaaa1aee1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "In today's image, the granite arches of the Alabama Hills frame the Milky Way over a rugged landscape in California's eastern Sierra Nevada, United States. Famous for its rounded boulders and weathered rock formations, this area formed when molten rock cooled deep underground around 100 million years ago. Water and wind gradually shaped the stone into the smooth shapes seen today. Visitors can explore the natural arches, hike among the rocks, capture photographs of the unique landscape, ride horses or mountain bikes and enjoy seasonal displays of wildflowers.",
+                "Image": {
+                    "Url": "/th?id=OHR.AlabamaHills_ROW6449052938_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AlabamaHills_ROW6449052938_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Arch and Milky Way, Alabama Hills, Sierra Nevada, California, United States",
+                "Copyright": "© Tim Fitzharris/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260513_AlabamaHills\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Alabama+Hills&form=hpcapt&filters=HpDate:\"20260513_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260513_AlabamaHills"
+            },
+            "Ssd": "20260513",
+            "Name": "AlabamaHills",
+            "Market": "ROW",
+            "Hash": "6449052938",
+            "FullDateString": "13 мая 2026 г."
+        }
+    },
+    {
         "startdate": "20260512",
         "fullstartdate": "202605120700",
         "enddate": "20260513",

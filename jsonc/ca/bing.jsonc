@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260513",
+        "fullstartdate": "202605130400",
+        "enddate": "20260514",
+        "url": "/th?id=OHR.AlabamaHills_EN-CA2745537583_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlabamaHills_EN-CA2745537583",
+        "copyright": "Arch and Milky Way, Alabama Hills, Sierra Nevada, California, United States (© Tim Fitzharris/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Alabama+Hills&form=hpcapt&filters=HpDate%3a%2220260513_0400%22",
+        "title": "Rock on, Milky Way!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260513_AlabamaHills%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f4547d3e1a678d6a6cfaf12056787cfa",
+        "hsh": "ebb030dc95337eb7f1a69a50d8043a46",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "In today's image, the granite arches of the Alabama Hills frame the Milky Way over a rugged landscape in California's eastern Sierra Nevada. Famous for its rounded boulders and weathered rock formations, this area formed when molten rock cooled deep underground around 100 million years ago. Water and wind gradually shaped the stone into the smooth shapes seen today. Visitors can explore the natural arches, hike among the rocks, capture photographs of the unique landscape, ride horses or mountain bikes and enjoy seasonal displays of wildflowers.",
+                "Image": {
+                    "Url": "/th?id=OHR.AlabamaHills_EN-CA2745537583_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AlabamaHills_EN-CA2745537583_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Rock on, Milky Way!",
+                "Title": "Arch and Milky Way, Alabama Hills, Sierra Nevada, California, United States",
+                "Copyright": "© Tim Fitzharris/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.981191,-118.081229/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=36.981191,-118.081229;S9;Alabama Hills, Sierra Nevada, California, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260513_AlabamaHills\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Alabama+Hills&form=hpcapt&filters=HpDate:\"20260513_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260513_AlabamaHills"
+            },
+            "Ssd": "20260513",
+            "Name": "AlabamaHills",
+            "Market": "EN-CA",
+            "Hash": "2745537583",
+            "FullDateString": "May 13, 2026"
+        }
+    },
+    {
         "startdate": "20260512",
         "fullstartdate": "202605120400",
         "enddate": "20260513",

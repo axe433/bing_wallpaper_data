@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260513",
+        "fullstartdate": "202605130300",
+        "enddate": "20260514",
+        "url": "/th?id=OHR.AlabamaHills_PT-BR6088970693_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlabamaHills_PT-BR6088970693",
+        "copyright": "Arco rochoso e Via Láctea, Alabama Hills, Sierra Nevada, Califórnia, EUA (© Tim Fitzharris/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Alabama+Hills+na+Calif%C3%B3rnia&form=hpcapt&mkt=pt-br",
+        "title": "Geologia cinematográfica",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260513_AlabamaHills%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f4547d3e1a678d6a6cfaf12056787cfa",
+        "hsh": "381ce6ed8dd3ca5c87fd34151dbaf176",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Em Alabama Hills, na Califórnia, Estados Unidos, arcos de granito recortam a paisagem como janelas abertas para o céu. No flanco oriental da Sierra Nevada, o relevo faz a Terra parecer outro planeta. As rochas que vemos na imagem nasceram há cerca de 100 milhões de anos e, desde então, vento e água trabalharam com paciência para esculpir curvas suaves e formas inesperadas.",
+                "Image": {
+                    "Url": "/th?id=OHR.AlabamaHills_PT-BR6088970693_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AlabamaHills_PT-BR6088970693_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Geologia cinematográfica",
+                "Title": "Arco rochoso e Via Láctea, Alabama Hills, Sierra Nevada, Califórnia, EUA",
+                "Copyright": "© Tim Fitzharris/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260513_AlabamaHills\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Alabama+Hills+na+Calif%c3%b3rnia&form=hpcapt&filters=HpDate:\"20260513_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260513_AlabamaHills"
+            },
+            "Ssd": "20260513",
+            "Name": "AlabamaHills",
+            "Market": "PT-BR",
+            "Hash": "6088970693",
+            "FullDateString": "13 mai. 2026"
+        }
+    },
+    {
         "startdate": "20260512",
         "fullstartdate": "202605120300",
         "enddate": "20260513",
