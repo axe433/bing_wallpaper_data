@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260515",
+        "fullstartdate": "202605152200",
+        "enddate": "20260516",
+        "url": "/th?id=OHR.ButterflyFlower_DE-DE3210389568_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ButterflyFlower_DE-DE3210389568",
+        "copyright": "Argus‑Bläuling auf einer Blüte (© Remus86/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Argus%E2%80%91Bl%C3%A4uling&form=hpcapt&filters=HpDate%3a%2220260515_2200%22",
+        "title": "Zarte Zeichen der Natur",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260515_ButterflyFlower%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "adfa4e853520d36a51db27033c5c626b",
+        "hsh": "17b0e922a920894a00ca4efd57d1aa4a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Kaum hat die warme Jahreszeit begonnen, flattert ein kleiner Botschafter artenreicher Landschaften durch die Wiesen: der Argus‑Bläuling, auch Geißklee‑Bläuling genannt. Er gehört zu den bekanntesten Tagfaltern Deutschlands. Die Männchen leuchten in intensivem Blau, während die Weibchen eher braun gefärbt sind. Namensgebend sind die augenähnlichen Flecken mit orangefarbenem Rand auf der Flügelunterseite. Besonders faszinierend ist sein Lebenszyklus, denn die Raupen leben in enger Gemeinschaft mit Ameisen, die sie beschützen und dafür zuckerhaltige Absonderungen erhalten.",
+                "Image": {
+                    "Url": "/th?id=OHR.ButterflyFlower_DE-DE3210389568_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ButterflyFlower_DE-DE3210389568_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Zarte Zeichen der Natur",
+                "Title": "Argus‑Bläuling auf einer Blüte",
+                "Copyright": "© Remus86/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Der Argus‑Bläuling gehört zur Familie der Bläulinge (Lycaenidae), einer der artenreichsten Schmetterlingsgruppen Europas.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260516_ButterflyFlower\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Argus%e2%80%91Bl%c3%a4uling&form=hpcapt&filters=HpDate:\"20260515_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260516_ButterflyFlower"
+            },
+            "Ssd": "20260516",
+            "Name": "ButterflyFlower",
+            "Market": "DE-DE",
+            "Hash": "3210389568",
+            "FullDateString": "16. Mai. 2026"
+        }
+    },
+    {
         "startdate": "20260514",
         "fullstartdate": "202605142200",
         "enddate": "20260515",

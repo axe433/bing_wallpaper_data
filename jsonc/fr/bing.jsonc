@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260515",
+        "fullstartdate": "202605152200",
+        "enddate": "20260516",
+        "url": "/th?id=OHR.BirchForest_FR-FR7115403118_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BirchForest_FR-FR7115403118",
+        "copyright": "Forêt de bouleaux, Bourgogne (© Wenphotos/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=bouleau&form=hpcapt&filters=HpDate%3a%2220260515_2200%22",
+        "title": "Ô bouleau !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260515_BirchForest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "31ba76a1defbc61fccdb6d913ba938b4",
+        "hsh": "4ba89eed6aae827737534e0d4d53fa33",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En Bourgogne, les peuplements de bouleaux surprennent. À la lisière des plateaux calcaires du Morvan ou sur les sols pauvres des anciennes carrières, les troncs blancs, striés de noir, captent la lumière tels des phares silencieux. Arbre de lumière, le bouleau est reconnaissable de loin à son écorce presque nacrée, qui se détache comme du papier, captant le moindre rayon. Présent des plaines d’Europe jusqu’aux lisières boréales, il figure parmi les premiers arbres à coloniser les terres blessées : friches, clairières, sols pauvres. Là où tout semblait perdu, il ouvre la voie.",
+                "Image": {
+                    "Url": "/th?id=OHR.BirchForest_FR-FR7115403118_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BirchForest_FR-FR7115403118_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ô bouleau !",
+                "Title": "Forêt de bouleaux, Bourgogne",
+                "Copyright": "© Wenphotos/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Le bouleau est un arbre pionnier : il repousse même sur des terrains brûlés et prépare le sol pour les autres plantes.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260516_BirchForest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=bouleau&form=hpcapt&filters=HpDate:\"20260515_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260516_BirchForest"
+            },
+            "Ssd": "20260516",
+            "Name": "BirchForest",
+            "Market": "FR-FR",
+            "Hash": "7115403118",
+            "FullDateString": "16 mai 2026"
+        }
+    },
+    {
         "startdate": "20260514",
         "fullstartdate": "202605142200",
         "enddate": "20260515",
