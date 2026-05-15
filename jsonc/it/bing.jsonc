@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260514",
+        "fullstartdate": "202605142200",
+        "enddate": "20260515",
+        "url": "/th?id=OHR.LenticchieNorcia_IT-IT5069422241_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LenticchieNorcia_IT-IT5069422241",
+        "copyright": "Lenticchie in fiore, Castelluccio di Norcia, Perugia, Umbria (© Rudolf Ernst/iStock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Fioritura+castelluccio&form=hpcapt",
+        "title": "Fiori e Geometria",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260514_LenticchieNorcia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "874a804d6cbcb9e2450a8e7a51f7d123",
+        "hsh": "79724848746ea9fa5a3614aa61b8bff0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nel cuore dell’Appennino umbro, Castelluccio di Norcia si trasforma ogni anno in un paesaggio quasi irreale. Tra fine primavera e inizio estate, l’altopiano si accende della fioritura delle lenticchie e di altri fiori spontanei che disegnano tappeti mutevoli di giallo, rosso, viola e blu. Non è un giardino costruito, ma un’opera naturale e agricola insieme, modellata dal lavoro umano e dal ritmo delle stagioni.",
+                "Image": {
+                    "Url": "/th?id=OHR.LenticchieNorcia_IT-IT5069422241_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LenticchieNorcia_IT-IT5069422241_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Fiori e Geometria",
+                "Title": "Lenticchie in fiore, Castelluccio di Norcia, Perugia, Umbria",
+                "Copyright": "© Rudolf Ernst/iStock/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/42.829995,13.207077/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=42.829995,13.207077;S9;Castelluccio di Norcia, Perugia, Umbria&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260515_LenticchieNorcia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Fioritura+castelluccio&form=hpcapt&filters=HpDate:\"20260514_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260515_LenticchieNorcia"
+            },
+            "Ssd": "20260515",
+            "Name": "LenticchieNorcia",
+            "Market": "IT-IT",
+            "Hash": "5069422241",
+            "FullDateString": "15 maggio 2026"
+        }
+    },
+    {
         "startdate": "20260513",
         "fullstartdate": "202605132200",
         "enddate": "20260514",

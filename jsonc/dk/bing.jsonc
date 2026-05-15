@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260514",
+        "fullstartdate": "202605140700",
+        "enddate": "20260515",
+        "url": "/th?id=OHR.Pitigliano_ROW4097720054_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Pitigliano_ROW4097720054",
+        "copyright": "Medieval town of Pitigliano, Tuscany, Italy (© bluejayphoto/Getty Images Plus)",
+        "copyrightlink": "https://www.bing.com/search?q=Pitigliano+Tuscany&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260514_Pitigliano%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2b7ceba5888d676eb82a32d985c21212",
+        "hsh": "4234ba21a8022bce11274bd887e8c9cf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Perched on a tufa ridge in southern Tuscany, Italy, Pitigliano is a small town with a big personality. Its roots stretch back to Etruscan times, and the winding streets still echo the past, from medieval fortifications to Renaissance palaces. Walking through its narrow alleys, you can feel centuries of life carved into the stone, while small piazzas invite pauses for coffee or gelato. This enduring treasure is often called 'Little Jerusalem' for its historic Jewish quarter, where a synagogue and historic cemetery tell stories of a once-thriving community.",
+                "Image": {
+                    "Url": "/th?id=OHR.Pitigliano_ROW4097720054_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Pitigliano_ROW4097720054_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Medieval town of Pitigliano, Tuscany, Italy",
+                "Copyright": "© bluejayphoto/Getty Images Plus",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260514_Pitigliano\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Pitigliano+Tuscany&form=hpcapt&filters=HpDate:\"20260514_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260514_Pitigliano"
+            },
+            "Ssd": "20260514",
+            "Name": "Pitigliano",
+            "Market": "ROW",
+            "Hash": "4097720054",
+            "FullDateString": "14. maj 2026"
+        }
+    },
+    {
         "startdate": "20260513",
         "fullstartdate": "202605130700",
         "enddate": "20260514",

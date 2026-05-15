@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260514",
+        "fullstartdate": "202605142200",
+        "enddate": "20260515",
+        "url": "/th?id=OHR.EndangeredWhales_DE-DE2753356925_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EndangeredWhales_DE-DE2753356925",
+        "copyright": "Eine Pottwal-Familie im Indischen Ozean (© Tony Wu/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Welttag+der+gef%C3%A4hrdeten+Arten&form=hpcapt&filters=HpDate%3a%2220260514_2200%22",
+        "title": "Ganz schön laut",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260514_EndangeredWhales%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "00c57c274263d2f07087f78f19bd60b3",
+        "hsh": "abd9c81f5cff5e76c76c68117c628500",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Der Pottwal ist ein Gigant der Tiefe und ein wahrer Meister der Extreme. Er zeigt eindrucksvoll, wozu Anpassung fähig ist. Anlässlich des Tags der gefährdeten Arten rückt ein Lebewesen in den Fokus, das zu den beeindruckendsten Tieren unseres Planeten gehört.",
+                "Image": {
+                    "Url": "/th?id=OHR.EndangeredWhales_DE-DE2753356925_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EndangeredWhales_DE-DE2753356925_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ganz schön laut",
+                "Title": "Eine Pottwal-Familie im Indischen Ozean",
+                "Copyright": "© Tony Wu/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Ein ausgewachsener Pottwal kann pro Tag bis zu zwei Tonnen Nahrung aufnehmen – vor allem Tintenfische aus der Tiefsee.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260515_EndangeredWhales\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Welttag+der+gef%c3%a4hrdeten+Arten&form=hpcapt&filters=HpDate:\"20260514_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260515_EndangeredWhales"
+            },
+            "Ssd": "20260515",
+            "Name": "EndangeredWhales",
+            "Market": "DE-DE",
+            "Hash": "2753356925",
+            "FullDateString": "15. Mai. 2026"
+        }
+    },
+    {
         "startdate": "20260513",
         "fullstartdate": "202605132200",
         "enddate": "20260514",

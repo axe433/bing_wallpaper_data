@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260514",
+        "fullstartdate": "202605142200",
+        "enddate": "20260515",
+        "url": "/th?id=OHR.EndangeredWhales_FR-FR6600435943_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EndangeredWhales_FR-FR6600435943",
+        "copyright": "Famille de cachalots, Océan Indien (© Tony Wu/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=cachalot&form=hpcapt&filters=HpDate%3a%2220260514_2200%22",
+        "title": "Le géant des fonds marins",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260514_EndangeredWhales%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "00c57c274263d2f07087f78f19bd60b3",
+        "hsh": "4839f15f5e54a4c5ad3db2933195cb86",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Doté d’un cerveau exceptionnellement développé, le cachalot explore bien au-delà de la surface. Partons à la rencontre d’un géant des profondeurs.",
+                "Image": {
+                    "Url": "/th?id=OHR.EndangeredWhales_FR-FR6600435943_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EndangeredWhales_FR-FR6600435943_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Le géant des fonds marins",
+                "Title": "Famille de cachalots, Océan Indien",
+                "Copyright": "© Tony Wu/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Le terme « cachalot » dériverait du français archaïque signifiant « dents » ou « grosses dents ».",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260515_EndangeredWhales\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=cachalot&form=hpcapt&filters=HpDate:\"20260514_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260515_EndangeredWhales"
+            },
+            "Ssd": "20260515",
+            "Name": "EndangeredWhales",
+            "Market": "FR-FR",
+            "Hash": "6600435943",
+            "FullDateString": "15 mai 2026"
+        }
+    },
+    {
         "startdate": "20260513",
         "fullstartdate": "202605132200",
         "enddate": "20260514",
