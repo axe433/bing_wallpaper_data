@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260516",
+        "fullstartdate": "202605160700",
+        "enddate": "20260517",
+        "url": "/th?id=OHR.SmithRockPark_ROW6845039893_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SmithRockPark_ROW6845039893",
+        "copyright": "Smith Rock State Park, Oregon, United States (© Alex Ratson/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Smith+Rock+State+Park&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260516_SmithRockPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d4287a29f66914751138255d733af206",
+        "hsh": "1ea9405d2417422ba64b12a3a15bf2bb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "What do you call a place where the rocks do the climbing, and humans try to keep up? Welcome to Smith Rock State Park in Oregon, United States, where cliffs rise fast, and excuses fall faster. It sits inside the 40-kilometre-long Crooked River Caldera, shaped by multiple volcanic eruptions. Its welded tuff cliffs are made from compressed volcanic ash that cooled under pressure. The Crooked River carved the canyon, while formations like the Spire rise up to 180 metres.",
+                "Image": {
+                    "Url": "/th?id=OHR.SmithRockPark_ROW6845039893_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SmithRockPark_ROW6845039893_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Smith Rock State Park, Oregon, United States",
+                "Copyright": "© Alex Ratson/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260516_SmithRockPark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Smith+Rock+State+Park&form=hpcapt&filters=HpDate:\"20260516_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260516_SmithRockPark"
+            },
+            "Ssd": "20260516",
+            "Name": "SmithRockPark",
+            "Market": "ROW",
+            "Hash": "6845039893",
+            "FullDateString": "16. mai 2026"
+        }
+    },
+    {
         "startdate": "20260515",
         "fullstartdate": "202605150700",
         "enddate": "20260516",

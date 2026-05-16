@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260516",
+        "fullstartdate": "202605162200",
+        "enddate": "20260517",
+        "url": "/th?id=OHR.ShenandoahSunset_DE-DE3403386055_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ShenandoahSunset_DE-DE3403386055",
+        "copyright": "Hawksbill Mountain im Shenandoah‑Nationalpark, Virginia, USA (© John Baggaley/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Hawksbill+Mountain+USA&form=hpcapt&filters=HpDate%3a%2220260516_2200%22",
+        "title": "Stiller Gipfel, weite Sicht",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260516_ShenandoahSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "60d3fa51eea3cd7a2b77a1b00f81a9d1",
+        "hsh": "354e922652175a70f2c897662dc155a6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Braucht es wirklich große Höhen für einen großartigen Ausblick? Im Osten der USA, im Bundesstaat Virginia, zeigt Hawksbill Mountain, dass auch sanfte Gipfel durchaus beeindrucken können. Mit rund 1.235 Metern ist er der höchste Punkt des Shenandoah‑Nationalparks und erinnert eher an europäische Mittelgebirge als an alpine Landschaften. Genau das macht seinen Reiz aus. Die Region gehört zu den Appalachen, einer der ältesten Gebirgsregionen der Erde, deren Formen über Millionen Jahre hinweg allmählich geglättet wurden.",
+                "Image": {
+                    "Url": "/th?id=OHR.ShenandoahSunset_DE-DE3403386055_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ShenandoahSunset_DE-DE3403386055_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Stiller Gipfel, weite Sicht",
+                "Title": "Hawksbill Mountain im Shenandoah‑Nationalpark, Virginia, USA",
+                "Copyright": "© John Baggaley/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.554501,-78.396587/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=38.554501,-78.396587;S9;Shenandoah‑Nationalparks, Virginia, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260517_ShenandoahSunset\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hawksbill+Mountain+USA&form=hpcapt&filters=HpDate:\"20260516_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260517_ShenandoahSunset"
+            },
+            "Ssd": "20260517",
+            "Name": "ShenandoahSunset",
+            "Market": "DE-DE",
+            "Hash": "3403386055",
+            "FullDateString": "17. Mai. 2026"
+        }
+    },
+    {
         "startdate": "20260515",
         "fullstartdate": "202605152200",
         "enddate": "20260516",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260516",
+        "fullstartdate": "202605162200",
+        "enddate": "20260517",
+        "url": "/th?id=OHR.ShenandoahSunset_IT-IT1185587153_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ShenandoahSunset_IT-IT1185587153",
+        "copyright": "Monte Hawksbill, parco nazionale di Shenandoah, Virginia, USA (© John Baggaley/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parco+nazionale+di+Shenandoah&form=hpcapt",
+        "title": "Altezza o bellezza?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260516_ShenandoahSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "60d3fa51eea3cd7a2b77a1b00f81a9d1",
+        "hsh": "34250e9ba4001ab4f3490456986eec72",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Quanto deve essere alto un luogo per regalare una vista memorabile? Negli Stati Uniti orientali, sorprendentemente poco. Hawksbill Mountain, vetta più alta dello Shenandoah National Park in Virginia con i suoi circa 1.250 metri, dimostra che qui non è l’altitudine a dominare ma l’ampiezza dello sguardo. Questo paesaggio non è sempre stato così. Un tempo campi e legname lo segnavano profondamente, poi lentamente la foresta è tornata a respirare. Oggi querce, allori di montagna e rododendri si intrecciano su rocce antichissime, vecchie più di un miliardo di anni. Tra i rami e lungo i corsi d’acqua la vita si muove discreta, tra uccelli, pesci e sentieri che accolgono ancora chi cammina con un cane al fianco. Vale la pena arrivare in cima, dove non serve nulla. Una piattaforma di pietra, il vento, e file di creste che si allontanano una dopo l’altra, sempre più chiare, sempre più lontane.",
+                "Image": {
+                    "Url": "/th?id=OHR.ShenandoahSunset_IT-IT1185587153_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ShenandoahSunset_IT-IT1185587153_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Altezza o bellezza?",
+                "Title": "Monte Hawksbill, parco nazionale di Shenandoah, Virginia, USA",
+                "Copyright": "© John Baggaley/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.554501,-78.396587/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=38.554501,-78.396587;S9;Parco nazionale di Shenandoah, Virginia, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260517_ShenandoahSunset\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parco+nazionale+di+Shenandoah&form=hpcapt&filters=HpDate:\"20260516_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260517_ShenandoahSunset"
+            },
+            "Ssd": "20260517",
+            "Name": "ShenandoahSunset",
+            "Market": "IT-IT",
+            "Hash": "1185587153",
+            "FullDateString": "17 maggio 2026"
+        }
+    },
+    {
         "startdate": "20260515",
         "fullstartdate": "202605152200",
         "enddate": "20260516",

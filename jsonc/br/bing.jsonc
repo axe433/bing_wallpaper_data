@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260516",
+        "fullstartdate": "202605160300",
+        "enddate": "20260517",
+        "url": "/th?id=OHR.Buracao_PT-BR7518499247_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Buracao_PT-BR7518499247",
+        "copyright": "Cânion do Buracão, Ibicoara, Chapada Diamantina, Bahia (© Celia Hueck/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Cachoeira+do+Buracao&form=hpcapt&mkt=pt-br",
+        "title": "Percurso hidrodinâmico",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260516_Buracao%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "af6398fc97aa5ff49454701d866f4167",
+        "hsh": "4646f91d887d6be554317e9363d301aa",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Aqui ninguém chega desatento — e muito menos seco. O acesso segue pelo leito do rio Espalhado, entre água fria e pedras lisas, em passagens cada vez mais estreitas, onde a luz recua enquanto o som do rio passa a conduzir o caminho.",
+                "Image": {
+                    "Url": "/th?id=OHR.Buracao_PT-BR7518499247_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Buracao_PT-BR7518499247_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Percurso hidrodinâmico",
+                "Title": "Cânion do Buracão, Ibicoara, Chapada Diamantina, Bahia",
+                "Copyright": "© Celia Hueck/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260516_Buracao\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Cachoeira+do+Buracao&form=hpcapt&filters=HpDate:\"20260516_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260516_Buracao"
+            },
+            "Ssd": "20260516",
+            "Name": "Buracao",
+            "Market": "PT-BR",
+            "Hash": "7518499247",
+            "FullDateString": "16 mai. 2026"
+        }
+    },
+    {
         "startdate": "20260515",
         "fullstartdate": "202605150300",
         "enddate": "20260516",
