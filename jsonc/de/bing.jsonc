@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260517",
+        "fullstartdate": "202605172200",
+        "enddate": "20260518",
+        "url": "/th?id=OHR.MuseumLondon_DE-DE5033129678_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MuseumLondon_DE-DE5033129678",
+        "copyright": "Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Natural+History+Museum+London&form=hpcapt&filters=HpDate%3a%2220260517_2200%22",
+        "title": "Ein Ort zum Entdecken und Staunen",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260517_MuseumLondon%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "f15fcd13ce8547aa33449ea574d0b324",
+        "hsh": "70566042d83d010325f3f04360ca9e44",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Manchmal genügt ein Schritt durch die Tür eines Museums, um der Zeit eine neue Tiefe zu verleihen. Fossilien zeugen von Leben vor Millionen von Jahren, funkelnde Edelsteine von geologischen Prozessen, die unseren Planeten formten. Museen machen solche Verbindungen sichtbar und eröffnen Räume, in denen Vergangenheit, Gegenwart und Zukunft aufeinandertreffen.",
+                "Image": {
+                    "Url": "/th?id=OHR.MuseumLondon_DE-DE5033129678_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MuseumLondon_DE-DE5033129678_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Ein Ort zum Entdecken und Staunen",
+                "Title": "Natural History Museum, London, England",
+                "Copyright": "© Colm Keating/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.496716,-0.176346/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=51.496716,-0.176346;S9;Natural History Museum, London, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260518_MuseumLondon\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Natural+History+Museum+London&form=hpcapt&filters=HpDate:\"20260517_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260518_MuseumLondon"
+            },
+            "Ssd": "20260518",
+            "Name": "MuseumLondon",
+            "Market": "DE-DE",
+            "Hash": "5033129678",
+            "FullDateString": "18. Mai. 2026"
+        }
+    },
+    {
         "startdate": "20260516",
         "fullstartdate": "202605162200",
         "enddate": "20260517",
