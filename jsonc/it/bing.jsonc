@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260518",
+        "fullstartdate": "202605182200",
+        "enddate": "20260519",
+        "url": "/th?id=OHR.SpainLighthouse_IT-IT2595546195_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpainLighthouse_IT-IT2595546195",
+        "copyright": "Faro di Formentor, Maiorca, Isole Baleari, Spagna (© Allard Schager/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Faro+di+Formentor+Maiorca&form=hpcapt",
+        "title": "Luce tra le scogliere",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260518_SpainLighthouse%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3d9ef3de72196bfda8602a60d4a6336b",
+        "hsh": "1542d3b4b9d75ed5a8f0a319b80bf86e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Alla punta più settentrionale della città spagnola di Maiorca, nelle Isole Baleari, il faro di Formentor si erge sulle scogliere a picco sul Cap de Formentor. Questo promontorio esposto è spesso chiamato il «luogo dell’incontro dei venti». Costruito nel 1863 e acceso il 30 settembre dello stesso anno, il faro domina il Mediterraneo da circa 210 metri di altezza ed è raggiungibile attraverso una stretta strada a tornanti da Port de Pollença.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpainLighthouse_IT-IT2595546195_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpainLighthouse_IT-IT2595546195_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Luce tra le scogliere",
+                "Title": "Faro di Formentor, Maiorca, Isole Baleari, Spagna",
+                "Copyright": "© Allard Schager/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.96139,3.212222/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=39.96139,3.212222;S9;Faro di Formentor, Maiorca, Isole Baleari, Spagna&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260519_SpainLighthouse\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Faro+di+Formentor+Maiorca&form=hpcapt&filters=HpDate:\"20260518_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260519_SpainLighthouse"
+            },
+            "Ssd": "20260519",
+            "Name": "SpainLighthouse",
+            "Market": "IT-IT",
+            "Hash": "2595546195",
+            "FullDateString": "19 maggio 2026"
+        }
+    },
+    {
         "startdate": "20260517",
         "fullstartdate": "202605172200",
         "enddate": "20260518",

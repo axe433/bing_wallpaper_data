@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260518",
+        "fullstartdate": "202605182200",
+        "enddate": "20260519",
+        "url": "/th?id=OHR.SpainLighthouse_FR-FR9037625281_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpainLighthouse_FR-FR9037625281",
+        "copyright": "Phare de Formentor, Majorque, Îles Baléares, Espagne (© Allard Schager/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Phare+de+Formentor+Majorque&form=hpcapt&filters=HpDate%3a%2220260518_2200%22",
+        "title": "La pointe nord de Majorque",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260518_SpainLighthouse%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3d9ef3de72196bfda8602a60d4a6336b",
+        "hsh": "7937c9762b4a79669fd0b61651016476",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "À l’extrémité nord de Majorque, dans les îles Baléares (Espagne), le phare de Formentor veille sur les falaises abruptes du cap, là où les vents se croisent et sculptent l’air. Mis en service pour la première fois en 1863, il domine la Méditerranée à environ 200 mètres au-dessus des flots, au bout d’une route étroite et sinueuse depuis Port de Pollença.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpainLighthouse_FR-FR9037625281_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpainLighthouse_FR-FR9037625281_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La pointe nord de Majorque",
+                "Title": "Phare de Formentor, Majorque, Îles Baléares, Espagne",
+                "Copyright": "© Allard Schager/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.96139,3.212222/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=39.96139,3.212222;S9;Phare de Formentor, Majorque, Espagne&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260519_SpainLighthouse\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Phare+de+Formentor+Majorque&form=hpcapt&filters=HpDate:\"20260518_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260519_SpainLighthouse"
+            },
+            "Ssd": "20260519",
+            "Name": "SpainLighthouse",
+            "Market": "FR-FR",
+            "Hash": "9037625281",
+            "FullDateString": "19 mai 2026"
+        }
+    },
+    {
         "startdate": "20260517",
         "fullstartdate": "202605172200",
         "enddate": "20260518",

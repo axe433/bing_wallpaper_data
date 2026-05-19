@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260518",
+        "fullstartdate": "202605182200",
+        "enddate": "20260519",
+        "url": "/th?id=OHR.SpainLighthouse_ES-ES7620314804_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpainLighthouse_ES-ES7620314804",
+        "copyright": "Faro de Formentor, Mallorca, Islas Baleares (© Allard Schager/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Faro+de+Formentor&form=hpcapt&filters=HpDate%3a%2220260518_2200%22",
+        "title": "Los confines de Mallorca",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260518_SpainLighthouse%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3d9ef3de72196bfda8602a60d4a6336b",
+        "hsh": "4c71f8a7a328fb909fd08c7c25f70517",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En el extremo norte de Mallorca, donde la sierra de Tramuntana cae hacia el Mediterráneo, se encuentra el faro de Formentor. Fue inaugurado en 1863 para señalizar una costa abrupta y peligrosa para la navegación. Desde su promontorio domina un paisaje de acantilados, pinares y un mar intenso que cambia de tono con el paso de la luz. El lugar transmite una sensación de aislamiento, como si la isla terminara allí y comenzara únicamente la inmensidad del horizonte.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpainLighthouse_ES-ES7620314804_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpainLighthouse_ES-ES7620314804_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Los confines de Mallorca",
+                "Title": "Faro de Formentor, Mallorca, Islas Baleares",
+                "Copyright": "© Allard Schager/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.96139,3.212222/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=39.96139,3.212222;S9;Faro de Formentor, Mallorca, Islas Baleares&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260519_SpainLighthouse\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Faro+de+Formentor&form=hpcapt&filters=HpDate:\"20260518_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260519_SpainLighthouse"
+            },
+            "Ssd": "20260519",
+            "Name": "SpainLighthouse",
+            "Market": "ES-ES",
+            "Hash": "7620314804",
+            "FullDateString": "19 de may de 2026"
+        }
+    },
+    {
         "startdate": "20260517",
         "fullstartdate": "202605172200",
         "enddate": "20260518",
