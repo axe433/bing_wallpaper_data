@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260519",
+        "fullstartdate": "202605191500",
+        "enddate": "20260520",
+        "url": "/th?id=OHR.BumbleBee_JA-JP8551190250_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BumbleBee_JA-JP8551190250",
+        "copyright": "受粉しているマルハナバチ, イングランド (© SimonEastwood87/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E3%83%9F%E3%83%84%E3%83%90%E3%83%81%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260519_1500%22",
+        "title": "今日は世界ミツバチの日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260519_BumbleBee%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "001e2f838226ac221ddb557101bad0a3",
+        "hsh": "1bfe38fc2d9f751be042bb0fe1cdd8aa",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 5 月 20 日は「世界ミツバチの日」。2017 年 12 月に国連総会で制定されました。そして、今日の画像はマルハナバチ。飛行筋を震わせて花粉を落とす「振動受粉（バズ・ポリネーション）」という独特の方法で植物を受粉させます。こうした花粉を媒介する動物は花粉媒介者と呼ばれており、世界の主要な食用作物の 75% 以上に関与し、収量や品質の向上に貢献しています。近年は、生息地の喪失や気候変動などによって減少が進んでいるため、生物多様性と食料の安定供給のためにも、この小さな働き者を保護することが重要となっています。",
+                "Image": {
+                    "Url": "/th?id=OHR.BumbleBee_JA-JP8551190250_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BumbleBee_JA-JP8551190250_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日は世界ミツバチの日",
+                "Title": "受粉しているマルハナバチ, イングランド",
+                "Copyright": "© SimonEastwood87/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.192932,-2.221088/10?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=52.192932,-2.221088;S9;ウスター市, イングランド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260520_BumbleBee%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260520_BumbleBee\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e4%b8%96%e7%95%8c%e3%83%9f%e3%83%84%e3%83%90%e3%83%81%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate:\"20260519_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260520_BumbleBee"
+            },
+            "Ssd": "20260520",
+            "Name": "BumbleBee",
+            "Market": "JA-JP",
+            "Hash": "8551190250",
+            "FullDateString": "2026 年 5月 月 20 日"
+        }
+    },
+    {
         "startdate": "20260518",
         "fullstartdate": "202605181500",
         "enddate": "20260519",

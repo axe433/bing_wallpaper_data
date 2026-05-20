@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260519",
+        "fullstartdate": "202605192200",
+        "enddate": "20260520",
+        "url": "/th?id=OHR.BumbleBee_DE-DE5081297615_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BumbleBee_DE-DE5081297615",
+        "copyright": "Hummel bei der Bestäubung, Worcester, England (© SimonEastwood87/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Weltbienentag&form=hpcapt&filters=HpDate%3a%2220260519_2200%22",
+        "title": "Die Kraft des Summens",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260519_BumbleBee%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "001e2f838226ac221ddb557101bad0a3",
+        "hsh": "ea9bf341689b53cef2f29f384c4a20a2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ein sanftes Brummen im Garten hat oft eine größere Wirkung, als man vermutet. Am Weltbienentag, der 2018 von den Vereinten Nationen ins Leben gerufen wurde, rückt die stille Arbeit der Bestäuber in den Mittelpunkt. Die hier gezeigte Hummel gehört zur Familie der Bienen und übernimmt eine besondere Aufgabe. Mithilfe der sogenannten Vibrationsbestäubung bringt sie Blüten zum Zittern und löst so den Pollen, den Pflanzen für ihre Fortpflanzung benötigen. Ohne diese Technik hätten Tomaten, Paprika oder Heidelbeeren deutlich geringere Erträge.",
+                "Image": {
+                    "Url": "/th?id=OHR.BumbleBee_DE-DE5081297615_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BumbleBee_DE-DE5081297615_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Die Kraft des Summens",
+                "Title": "Hummel bei der Bestäubung, Worcester, England",
+                "Copyright": "© SimonEastwood87/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Hummeln haben fünf Augen – zwei große und drei kleine oben auf ihrem Kopf.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260520_BumbleBee\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Weltbienentag&form=hpcapt&filters=HpDate:\"20260519_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260520_BumbleBee"
+            },
+            "Ssd": "20260520",
+            "Name": "BumbleBee",
+            "Market": "DE-DE",
+            "Hash": "5081297615",
+            "FullDateString": "20. Mai. 2026"
+        }
+    },
+    {
         "startdate": "20260518",
         "fullstartdate": "202605182200",
         "enddate": "20260519",
