@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260520",
+        "fullstartdate": "202605202200",
+        "enddate": "20260521",
+        "url": "/th?id=OHR.SichuanTea_IT-IT6566248519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SichuanTea_IT-IT6566248519",
+        "copyright": "Terrazzamenti da tè nella provincia del Sichuan, Cina (© lzf/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=T%C3%A8&form=hpcapt",
+        "title": "Rituali d’oriente",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260520_SichuanTea%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "87973f6033f1bcf00ad0c00071cf57f8",
+        "hsh": "b2a9347bfaf419fc7969d09304e9f984",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La «Giornata mondiale del tè» celebra una bevanda che collega i rituali quotidiani a paesaggi antichi. Basta uno sguardo alle terrazze coltivate a tè della provincia del Sichuan, in Cina, per capire quanto profonde siano queste radici. Questa regione nebbiosa della Cina sud-occidentale è uno dei primi centri della cultura del tè, dove le persone bevevano e coltivavano tè già più di 2.000 anni fa. Sulla vicina montagna Mengding, uno studioso di nome Wu Lizhen piantò alcuni dei primi giardini di tè coltivati in modo sistematico durante la dinastia Han, gettando le basi per generazioni di coltivatori.",
+                "Image": {
+                    "Url": "/th?id=OHR.SichuanTea_IT-IT6566248519_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SichuanTea_IT-IT6566248519_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Rituali d'oriente",
+                "Title": "Terrazzamenti da tè nella provincia del Sichuan, Cina",
+                "Copyright": "© lzf/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/30,103/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=30,103;S9;Sichuan, Cina&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260521_SichuanTea\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=T%c3%a8&form=hpcapt&filters=HpDate:\"20260520_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260521_SichuanTea"
+            },
+            "Ssd": "20260521",
+            "Name": "SichuanTea",
+            "Market": "IT-IT",
+            "Hash": "6566248519",
+            "FullDateString": "21 maggio 2026"
+        }
+    },
+    {
         "startdate": "20260519",
         "fullstartdate": "202605192200",
         "enddate": "20260520",

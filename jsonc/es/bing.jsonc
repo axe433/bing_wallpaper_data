@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260520",
+        "fullstartdate": "202605202200",
+        "enddate": "20260521",
+        "url": "/th?id=OHR.SichuanTea_ES-ES7945062444_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SichuanTea_ES-ES7945062444",
+        "copyright": "Terrazas de té en la provincia de Sichuan, China (© lzf/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+Internacional+del+T%C3%A9&form=hpcapt&filters=HpDate%3a%2220260520_2200%22",
+        "title": "Cultivando un legado",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260520_SichuanTea%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "87973f6033f1bcf00ad0c00071cf57f8",
+        "hsh": "3894cd33bec83aa1f33af99c345331f8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Cada 21 de mayo se celebra el Día Internacional del Té, una ocasión para reconocer la importancia cultural, social y económica de esta bebida en muchas regiones del mundo. Millones de personas la consumen a diario, pero detrás de cada taza existe una larga historia de cultivo, comercio y saber tradicional. En China, donde el té forma parte de la vida cotidiana desde hace siglos, su producción también está ligada a paisajes agrícolas de gran belleza.",
+                "Image": {
+                    "Url": "/th?id=OHR.SichuanTea_ES-ES7945062444_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SichuanTea_ES-ES7945062444_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Cultivando un legado",
+                "Title": "Terrazas de té en la provincia de Sichuan, China",
+                "Copyright": "© lzf/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/30,103/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=30,103;S9;Sichuan, China&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260521_SichuanTea\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=D%c3%ada+Internacional+del+T%c3%a9&form=hpcapt&filters=HpDate:\"20260520_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260521_SichuanTea"
+            },
+            "Ssd": "20260521",
+            "Name": "SichuanTea",
+            "Market": "ES-ES",
+            "Hash": "7945062444",
+            "FullDateString": "21 de may de 2026"
+        }
+    },
+    {
         "startdate": "20260519",
         "fullstartdate": "202605192200",
         "enddate": "20260520",

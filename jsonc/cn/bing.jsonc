@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260520",
+        "fullstartdate": "202605201600",
+        "enddate": "20260521",
+        "url": "/th?id=OHR.SichuanTea_ZH-CN6703437873_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SichuanTea_ZH-CN6703437873",
+        "copyright": "四川省的茶梯田, 中国 (© lzf/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E8%8C%B6%E6%97%A5&form=hpcapt&mkt=zh-cn",
+        "title": "酿造传承",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260520_SichuanTea%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "87973f6033f1bcf00ad0c00071cf57f8",
+        "hsh": "20af72b77eb186ffc1fa5f4968a73061",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "“国际茶日”旨在礼赞一种将日常习俗与古老地貌紧密相连的饮品。只需瞥一眼中国四川省那层层叠叠的梯田茶园，便不难领略其深植的文化根基。这片位于中国西南部的云雾缭绕之地，乃是茶文化的早期发源地之一；早在两千多年前，当地居民便已在此饮茶、植茶。在邻近的蒙顶山上，一位名叫吴理真的学者曾在汉朝时期开辟了世界上首批人工管理的茶园，从而为后世一代又一代的茶农奠定了坚实的基础。",
+                "Image": {
+                    "Url": "/th?id=OHR.SichuanTea_ZH-CN6703437873_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SichuanTea_ZH-CN6703437873_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "酿造传承",
+                "Title": "四川省的茶梯田, 中国",
+                "Copyright": "© lzf/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "该节日于每年的5月21日庆祝，旨在认可茶叶数百年来的历史遗产，及其对全球健康、文化和农村生计所做出的显著贡献。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260521_SichuanTea\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%9b%bd%e9%99%85%e8%8c%b6%e6%97%a5&form=hpcapt&filters=HpDate:\"20260520_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260521_SichuanTea"
+            },
+            "Ssd": "20260521",
+            "Name": "SichuanTea",
+            "Market": "ZH-CN",
+            "Hash": "6703437873",
+            "FullDateString": "2026 5月 21"
+        }
+    },
+    {
         "startdate": "20260519",
         "fullstartdate": "202605191600",
         "enddate": "20260520",

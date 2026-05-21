@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260520",
+        "fullstartdate": "202605201500",
+        "enddate": "20260521",
+        "url": "/th?id=OHR.SichuanTea_JA-JP8777846900_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SichuanTea_JA-JP8777846900",
+        "copyright": "四川省の茶畑, 中国 (© lzf/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%9B%BD%E9%9A%9B%E3%81%8A%E8%8C%B6%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260520_1500%22",
+        "title": "今日は国際お茶の日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260520_SichuanTea%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "87973f6033f1bcf00ad0c00071cf57f8",
+        "hsh": "645c3621e6c739def6c438da580bd35a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 5 月 21 日は国際連合が定める「国際お茶の日」。そして画像は、中国・四川省の段々畑の茶畑です。この地域は茶文化の発祥地の一つとされており、何世紀にもわたってお茶が栽培されてきました。また、近隣の蒙山は約 2000 年前、西漢の時代に甘露寺の普慧禅師（呉理真）が茶樹を植えて、世界で初めて体系的な茶の栽培を行った地ともいわれています。",
+                "Image": {
+                    "Url": "/th?id=OHR.SichuanTea_JA-JP8777846900_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SichuanTea_JA-JP8777846900_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日は国際お茶の日",
+                "Title": "四川省の茶畑, 中国",
+                "Copyright": "© lzf/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/30,103/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=30,103;S9;四川省, 中国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260521_SichuanTea%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260521_SichuanTea\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%9b%bd%e9%9a%9b%e3%81%8a%e8%8c%b6%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate:\"20260520_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260521_SichuanTea"
+            },
+            "Ssd": "20260521",
+            "Name": "SichuanTea",
+            "Market": "JA-JP",
+            "Hash": "8777846900",
+            "FullDateString": "2026 年 5月 月 21 日"
+        }
+    },
+    {
         "startdate": "20260519",
         "fullstartdate": "202605191500",
         "enddate": "20260520",
