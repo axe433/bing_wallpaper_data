@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260521",
+        "fullstartdate": "202605212200",
+        "enddate": "20260522",
+        "url": "/th?id=OHR.KauehiAtollLagoon_DE-DE7537602324_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KauehiAtollLagoon_DE-DE7537602324",
+        "copyright": "Kauehi‑Atoll, Tuamotu‑Archipel, Französisch‑Polynesien (© WaterFrame_dpr/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+f%C3%BCr+biologische+Vielfalt&form=hpcapt&filters=HpDate%3a%2220260521_2200%22",
+        "title": "Strukturen der Vielfalt",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260521_KauehiAtollLagoon%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "40fa869ac1b0a5aaa82d08ce75e861f6",
+        "hsh": "e207bfdeb952426f402ee15988a9cef0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Der Internationale Tag für biologische Vielfalt, von den Vereinten Nationen ausgerufen, macht darauf aufmerksam, wie eng menschliches Leben mit gesunden Ökosystemen verbunden ist. Er soll das Bewusstsein für den Wert der Artenvielfalt schärfen, die eine zentrale Rolle für Ernährung, medizinische Forschung, ein stabiles Klima und widerstandsfähige Lebensräume weltweit spielt. Von oben betrachtet wirkt das Kauehi‑Atoll im Tuamotu‑Archipel von Französisch‑Polynesien fast wie eine Grafik. Ein schmaler Korallensaum umschließt eine weitläufige Lagune in leuchtenden Türkistönen.",
+                "Image": {
+                    "Url": "/th?id=OHR.KauehiAtollLagoon_DE-DE7537602324_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KauehiAtollLagoon_DE-DE7537602324_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Strukturen der Vielfalt",
+                "Title": "Kauehi‑Atoll, Tuamotu‑Archipel, Französisch‑Polynesien",
+                "Copyright": "© WaterFrame_dpr/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-15.83333,-145.1167/1?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=-15.83333,-145.1167;S9;Kauehi‑Atoll, Tuamotu‑Archipel, Französisch‑Polynesien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260522_KauehiAtollLagoon\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Internationaler+Tag+f%c3%bcr+biologische+Vielfalt&form=hpcapt&filters=HpDate:\"20260521_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260522_KauehiAtollLagoon"
+            },
+            "Ssd": "20260522",
+            "Name": "KauehiAtollLagoon",
+            "Market": "DE-DE",
+            "Hash": "7537602324",
+            "FullDateString": "22. Mai. 2026"
+        }
+    },
+    {
         "startdate": "20260520",
         "fullstartdate": "202605202200",
         "enddate": "20260521",
