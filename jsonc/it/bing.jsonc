@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260522",
+        "fullstartdate": "202605222200",
+        "enddate": "20260523",
+        "url": "/th?id=OHR.ThreeTurtlesButterflies_IT-IT6850354411_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ThreeTurtlesButterflies_IT-IT6850354411",
+        "copyright": "Tartarughe e farfalle (© Patrick Gallet/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Giornata+della+Tartaruga&form=hpcapt",
+        "title": "Voci del passato?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260522_ThreeTurtlesButterflies%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "251a477e1e446c4ad01d2ff3d61d3d4c",
+        "hsh": "5f2185e4efd74b7c74f80b6caa2942bb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Le tartarughe sono animali affascinanti e svolgono ruoli fondamentali in natura. Aiutano a mantenere sani i letti di fanerogame marine e le barriere coralline, mentre le loro controparti d’acqua dolce e terrestri contribuiscono all’equilibrio degli ecosistemi. Il loro guscio fa parte del loro scheletro, formato da decine di ossa fuse tra loro, e alcune specie si orientano grazie al campo magnetico terrestre per tornare alle spiagge dove sono nate.",
+                "Image": {
+                    "Url": "/th?id=OHR.ThreeTurtlesButterflies_IT-IT6850354411_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ThreeTurtlesButterflies_IT-IT6850354411_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Voci del passato?",
+                "Title": "Tartarughe e farfalle",
+                "Copyright": "© Patrick Gallet/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Esistono sette specie di tartarughe marine, e cinque di esse sono a rischio di estinzione.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260523_ThreeTurtlesButterflies\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Giornata+della+Tartaruga&form=hpcapt&filters=HpDate:\"20260522_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260523_ThreeTurtlesButterflies"
+            },
+            "Ssd": "20260523",
+            "Name": "ThreeTurtlesButterflies",
+            "Market": "IT-IT",
+            "Hash": "6850354411",
+            "FullDateString": "23 maggio 2026"
+        }
+    },
+    {
         "startdate": "20260521",
         "fullstartdate": "202605212200",
         "enddate": "20260522",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260522",
+        "fullstartdate": "202605220700",
+        "enddate": "20260523",
+        "url": "/th?id=OHR.PontArdeche_ROW1049828864_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PontArdeche_ROW1049828864",
+        "copyright": "Pont d'Arc, Ardèche, France (© Gael Fontaine/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Pont+dArc+Ardeche&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260522_PontArdeche%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "186c0ac366af86b8a8024f938f8739c1",
+        "hsh": "d01410a2a528c4f4a86b71609693564e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Naturally sculpted over 500,000 years, the Pont d'Arc in France opens like a gateway to the Ardèche Gorge. At dawn, its monumental silhouette glows with a golden hue as the murmur of the river echoes between limestone cliffs, where peregrine falcons and crag martins nest. You walk along the sandy bank, scented with wild mint and sun-warmed boxwood, with the feeling of stepping into a landscape that has remained unchanged since prehistoric times.",
+                "Image": {
+                    "Url": "/th?id=OHR.PontArdeche_ROW1049828864_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PontArdeche_ROW1049828864_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Pont d'Arc, Ardèche, France",
+                "Copyright": "© Gael Fontaine/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260522_PontArdeche\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Pont+dArc+Ardeche&form=hpcapt&filters=HpDate:\"20260522_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260522_PontArdeche"
+            },
+            "Ssd": "20260522",
+            "Name": "PontArdeche",
+            "Market": "ROW",
+            "Hash": "1049828864",
+            "FullDateString": "22 mei, 2026"
+        }
+    },
+    {
         "startdate": "20260521",
         "fullstartdate": "202605210700",
         "enddate": "20260522",

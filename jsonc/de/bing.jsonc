@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260522",
+        "fullstartdate": "202605222200",
+        "enddate": "20260523",
+        "url": "/th?id=OHR.ThreeTurtlesButterflies_DE-DE2682966963_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ThreeTurtlesButterflies_DE-DE2682966963",
+        "copyright": "Schildkröten mit Schmetterlingen (© Patrick Gallet/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Welttag+der+Schildkr%C3%B6te&form=hpcapt&filters=HpDate%3a%2220260522_2200%22",
+        "title": "Harte Schale, starkes Leben",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260522_ThreeTurtlesButterflies%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "251a477e1e446c4ad01d2ff3d61d3d4c",
+        "hsh": "e61730601329b7aabbd994624cb1ca54",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sie gleiten lautlos durch Ozeane, Seen und Feuchtgebiete und erfüllen dabei Aufgaben, die für das Gleichgewicht der Natur unverzichtbar sind. Schildkröten zählen zu den ältesten heute lebenden Reptilien und spielen eine zentrale Rolle in vielen Ökosystemen. Meeresschildkröten halten Seegraswiesen und Korallenriffe gesund, während Süßwasser‑ und Landschildkröten zur Stabilität empfindlicher Lebensräume beitragen. Ihr Panzer ist kein äußeres Schutzschild, sondern ein Teil ihres Skeletts und besteht aus zahlreichen miteinander verwachsenen Knochen. Manche Arten orientieren sich zudem am Magnetfeld der Erde, um nach Jahrzehnten zu genau den Stränden zurückzukehren, an denen sie geschlüpft sind.",
+                "Image": {
+                    "Url": "/th?id=OHR.ThreeTurtlesButterflies_DE-DE2682966963_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ThreeTurtlesButterflies_DE-DE2682966963_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Harte Schale, starkes Leben",
+                "Title": "Schildkröten mit Schmetterlingen",
+                "Copyright": "© Patrick Gallet/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Von sieben Meeresschildkrötenarten gelten fünf als bedroht.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260523_ThreeTurtlesButterflies\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Welttag+der+Schildkr%c3%b6te&form=hpcapt&filters=HpDate:\"20260522_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260523_ThreeTurtlesButterflies"
+            },
+            "Ssd": "20260523",
+            "Name": "ThreeTurtlesButterflies",
+            "Market": "DE-DE",
+            "Hash": "2682966963",
+            "FullDateString": "23. Mai. 2026"
+        }
+    },
+    {
         "startdate": "20260521",
         "fullstartdate": "202605212200",
         "enddate": "20260522",
