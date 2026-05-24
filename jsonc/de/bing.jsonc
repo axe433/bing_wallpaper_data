@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260523",
+        "fullstartdate": "202605232200",
+        "enddate": "20260524",
+        "url": "/th?id=OHR.DolomitesPark_DE-DE0867398048_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DolomitesPark_DE-DE0867398048",
+        "copyright": "Naturpark Drei Zinnen, Südtirol, Italien (© Adisorn Fineday Chutikunakorn/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Europ%C3%A4ischer+Tag+der+Parke&form=hpcapt&filters=HpDate%3a%2220260523_2200%22",
+        "title": "Schutz für Europas natürliche Vielfalt",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260523_DolomitesPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0c3b37575d5ac4858e266a4e227f5a4e",
+        "hsh": "fccfd76c2f2f5d0095005e35ee52c415",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Manche Landschaften beeindrucken gerade deshalb, weil sie über Jahrzehnte hinweg geschützt wurden. Genau daran erinnert der Europäische Tag der Parke. Er knüpft an die Entstehung der ersten europäischen Nationalparks im Jahr 1909 an und lenkt den Blick auf unseren gemeinsamen Naturschatz. Im Mittelpunkt des heutigen Bildes steht der Naturpark Drei Zinnen in den Dolomiten in Südtirol, Italien. Seit 1981 bewahrt er eine spektakuläre alpine Kulisse innerhalb eines UNESCO‑Welterbes. Besonders bekannt sind die Drei Zinnen: drei markante Felstürme aus Dolomitgestein, die steil aus den Bergwiesen aufragen und den Alpen ein unverwechselbares Gesicht geben.",
+                "Image": {
+                    "Url": "/th?id=OHR.DolomitesPark_DE-DE0867398048_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DolomitesPark_DE-DE0867398048_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Schutz für Europas natürliche Vielfalt",
+                "Title": "Naturpark Drei Zinnen, Südtirol, Italien",
+                "Copyright": "© Adisorn Fineday Chutikunakorn/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.643931,12.343052/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=46.643931,12.343052;S9;Naturpark Drei Zinnen, Italien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260524_DolomitesPark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Europ%c3%a4ischer+Tag+der+Parke&form=hpcapt&filters=HpDate:\"20260523_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260524_DolomitesPark"
+            },
+            "Ssd": "20260524",
+            "Name": "DolomitesPark",
+            "Market": "DE-DE",
+            "Hash": "0867398048",
+            "FullDateString": "24. Mai. 2026"
+        }
+    },
+    {
         "startdate": "20260522",
         "fullstartdate": "202605222200",
         "enddate": "20260523",

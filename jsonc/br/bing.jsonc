@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260523",
+        "fullstartdate": "202605230300",
+        "enddate": "20260524",
+        "url": "/th?id=OHR.ThreeTurtlesButterflies_PT-BR1084575406_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ThreeTurtlesButterflies_PT-BR1084575406",
+        "copyright": "Tartarugas com borboletas (© Patrick Gallet/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+Mundial+da+Tartaruga&form=hpcapt&mkt=pt-br",
+        "title": "A vida em câmera lenta",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260523_ThreeTurtlesButterflies%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "251a477e1e446c4ad01d2ff3d61d3d4c",
+        "hsh": "8518a2f6cfdb8860e8854d00fb95ce48",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Antes mesmo de os continentes assumirem suas formas atuais, as tartarugas já estavam aqui. No mar, elas regulam o crescimento de plantas submersas e ajudam a manter habitats produtivos. Fora dele, participam do controle das cadeias alimentares e da reciclagem de nutrientes. Algumas cruzam oceanos inteiros e retornam ao ponto exato onde nasceram, guiadas pelo magnetismo do planeta.",
+                "Image": {
+                    "Url": "/th?id=OHR.ThreeTurtlesButterflies_PT-BR1084575406_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ThreeTurtlesButterflies_PT-BR1084575406_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A vida em câmera lenta",
+                "Title": "Tartarugas com borboletas",
+                "Copyright": "© Patrick Gallet/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260523_ThreeTurtlesButterflies\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dia+Mundial+da+Tartaruga&form=hpcapt&filters=HpDate:\"20260523_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260523_ThreeTurtlesButterflies"
+            },
+            "Ssd": "20260523",
+            "Name": "ThreeTurtlesButterflies",
+            "Market": "PT-BR",
+            "Hash": "1084575406",
+            "FullDateString": "23 mai. 2026"
+        }
+    },
+    {
         "startdate": "20260522",
         "fullstartdate": "202605220300",
         "enddate": "20260523",

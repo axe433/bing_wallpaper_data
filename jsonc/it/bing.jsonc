@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260523",
+        "fullstartdate": "202605232200",
+        "enddate": "20260524",
+        "url": "/th?id=OHR.DolomitesPark_IT-IT4272187498_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DolomitesPark_IT-IT4272187498",
+        "copyright": "Parco naturale Tre Cime, Trentino-Alto Adige (© Adisorn Fineday Chutikunakorn/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Giornata+europea+dei+parchi&form=hpcapt",
+        "title": "La voce nella roccia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260523_DolomitesPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0c3b37575d5ac4858e266a4e227f5a4e",
+        "hsh": "9d24ca0c432e003aec0a344dc2d3a6f6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La «Giornata europea dei parchi» celebra le aree protette del continente, ricordando la nascita dei primi parchi nazionali europei nel 1909. È anche un invito a riconoscere che molti dei paesaggi più iconici di oggi esistono grazie a una cura costante nel tempo. L’immagine di oggi racconta bene questa eredità: il parco naturale Tre Cime, nel nord Italia.",
+                "Image": {
+                    "Url": "/th?id=OHR.DolomitesPark_IT-IT4272187498_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DolomitesPark_IT-IT4272187498_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La voce nella roccia",
+                "Title": "Parco naturale Tre Cime, Trentino-Alto Adige",
+                "Copyright": "© Adisorn Fineday Chutikunakorn/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.643931,12.343052/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=46.643931,12.343052;S9;Parco naturale Tre Cime, Trentino-Alto Adige&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260524_DolomitesPark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Giornata+europea+dei+parchi&form=hpcapt&filters=HpDate:\"20260523_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260524_DolomitesPark"
+            },
+            "Ssd": "20260524",
+            "Name": "DolomitesPark",
+            "Market": "IT-IT",
+            "Hash": "4272187498",
+            "FullDateString": "24 maggio 2026"
+        }
+    },
+    {
         "startdate": "20260522",
         "fullstartdate": "202605222200",
         "enddate": "20260523",

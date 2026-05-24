@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260523",
+        "fullstartdate": "202605230700",
+        "enddate": "20260524",
+        "url": "/th?id=OHR.ThreeTurtlesButterflies_ROW8158760119_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ThreeTurtlesButterflies_ROW8158760119",
+        "copyright": "Turtles with butterflies (© Patrick Gallet/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Turtles&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260523_ThreeTurtlesButterflies%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "251a477e1e446c4ad01d2ff3d61d3d4c",
+        "hsh": "5e3b446b6df2d68b69706a63ea466a43",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Turtles are not only fascinating animals; they also play vital roles in nature. Sea turtles help keep seagrass beds and coral reefs healthy, while freshwater and land counterparts support balanced ecosystems. Their shells are part of their skeletons, formed from dozens of fused bones, and some species navigate using Earth's magnetic field to return to the beaches where they hatched.",
+                "Image": {
+                    "Url": "/th?id=OHR.ThreeTurtlesButterflies_ROW8158760119_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ThreeTurtlesButterflies_ROW8158760119_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Turtles with butterflies",
+                "Copyright": "© Patrick Gallet/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260523_ThreeTurtlesButterflies\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Turtles&form=hpcapt&filters=HpDate:\"20260523_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260523_ThreeTurtlesButterflies"
+            },
+            "Ssd": "20260523",
+            "Name": "ThreeTurtlesButterflies",
+            "Market": "ROW",
+            "Hash": "8158760119",
+            "FullDateString": "23 mei, 2026"
+        }
+    },
+    {
         "startdate": "20260522",
         "fullstartdate": "202605220700",
         "enddate": "20260523",

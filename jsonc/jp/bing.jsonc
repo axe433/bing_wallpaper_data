@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260523",
+        "fullstartdate": "202605231500",
+        "enddate": "20260524",
+        "url": "/th?id=OHR.DolomitesPark_JA-JP9299187350_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DolomitesPark_JA-JP9299187350",
+        "copyright": "トレ・チーメ自然公園, イタリア (© Adisorn Fineday Chutikunakorn/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=European+Day+of+Parks&form=hpcapt&filters=HpDate%3a%2220260523_1500%22",
+        "title": "今日はヨーロッパの公園の日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260523_DolomitesPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0c3b37575d5ac4858e266a4e227f5a4e",
+        "hsh": "dad3b91a49d2f50170d6a7091f38a5ae",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 5 月 24 日は「ヨーロッパ公園の日」。1909 年にスウェーデンでヨーロッパ初の国立公園が設立されたことを記念する日であり、自然保護の重要性や持続可能な地域づくりへの意識を高める日でもあります。そして画像は、イタリアのドロミーティに広がるトレ・チーメ自然公園です。1981 年に設立されたこの公園は、アルプスを代表する景観の一つである岩山群「トレ・チーメ・ディ・ラヴァレード」で知られています。",
+                "Image": {
+                    "Url": "/th?id=OHR.DolomitesPark_JA-JP9299187350_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DolomitesPark_JA-JP9299187350_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日はヨーロッパの公園の日",
+                "Title": "トレ・チーメ自然公園, イタリア",
+                "Copyright": "© Adisorn Fineday Chutikunakorn/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.643931,12.343052/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=46.643931,12.343052;S9;トレ・チーメ自然公園, イタリア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260524_DolomitesPark%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260524_DolomitesPark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=European+Day+of+Parks&form=hpcapt&filters=HpDate:\"20260523_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260524_DolomitesPark"
+            },
+            "Ssd": "20260524",
+            "Name": "DolomitesPark",
+            "Market": "JA-JP",
+            "Hash": "9299187350",
+            "FullDateString": "2026 年 5月 月 24 日"
+        }
+    },
+    {
         "startdate": "20260522",
         "fullstartdate": "202605221500",
         "enddate": "20260523",

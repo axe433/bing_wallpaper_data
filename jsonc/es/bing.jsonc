@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260523",
+        "fullstartdate": "202605232200",
+        "enddate": "20260524",
+        "url": "/th?id=OHR.DolomitesPark_ES-ES7858758961_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DolomitesPark_ES-ES7858758961",
+        "copyright": "Parque natural Tre Cime, Tirol del Sur, Italia (© Adisorn Fineday Chutikunakorn/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+Europeo+de+los+Parques&form=hpcapt&filters=HpDate%3a%2220260523_2200%22",
+        "title": "Preservar los espacios naturales de Europa",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260523_DolomitesPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0c3b37575d5ac4858e266a4e227f5a4e",
+        "hsh": "e441c086afe1a494eb27b0c9ba315cec",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Cada 24 de mayo se celebra el Día Europeo de los Parques, una fecha que recuerda la importancia de conservar los paisajes naturales y la biodiversidad del continente. La jornada nació para poner en valor estos espacios protegidos y para animar a la sociedad a conocerlos, respetarlos y disfrutarlos de forma responsable. En una Europa donde la huella humana es cada vez más visible, los parques nacionales y naturales ofrecen refugio a innumerables especies y también un lugar donde las personas pueden redescubrir el silencio, los bosques y las montañas.",
+                "Image": {
+                    "Url": "/th?id=OHR.DolomitesPark_ES-ES7858758961_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DolomitesPark_ES-ES7858758961_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Preservar los espacios naturales de Europa",
+                "Title": "Parque natural Tre Cime, Tirol del Sur, Italia",
+                "Copyright": "© Adisorn Fineday Chutikunakorn/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.643931,12.343052/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=46.643931,12.343052;S9;Parque natural Tre Cime, Italia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260524_DolomitesPark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=D%c3%ada+Europeo+de+los+Parques&form=hpcapt&filters=HpDate:\"20260523_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260524_DolomitesPark"
+            },
+            "Ssd": "20260524",
+            "Name": "DolomitesPark",
+            "Market": "ES-ES",
+            "Hash": "7858758961",
+            "FullDateString": "24 de may de 2026"
+        }
+    },
+    {
         "startdate": "20260522",
         "fullstartdate": "202605222200",
         "enddate": "20260523",
