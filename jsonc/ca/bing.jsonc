@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260524",
+        "fullstartdate": "202605240400",
+        "enddate": "20260525",
+        "url": "/th?id=OHR.MuteSwanGI_EN-CA6792012530_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MuteSwanGI_EN-CA6792012530",
+        "copyright": "A mute swan reflected on tranquil waters (© Don White/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mute+swan&form=hpcapt&filters=HpDate%3a%2220260524_0400%22",
+        "title": "The art of quiet control",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260524_MuteSwanGI%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bf72c8967067d27c9fbae8521e790a42",
+        "hsh": "90f855bc19daf0bedfa478a7c7d09725",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Swans are admired for their looks, but there is more going on than a calm, graceful glide over the water. These strong, territorial birds have a long history of human involvement. Introduced to Canada from Europe in the 1870s for parks and estates, mute swans established feral populations that now live year-round in parts of Ontario and beyond.",
+                "Image": {
+                    "Url": "/th?id=OHR.MuteSwanGI_EN-CA6792012530_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MuteSwanGI_EN-CA6792012530_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "The art of quiet control",
+                "Title": "A mute swan reflected on tranquil waters",
+                "Copyright": "© Don White/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "The Mute swan has about 25,000 feathers.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260524_MuteSwanGI\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Mute+swan&form=hpcapt&filters=HpDate:\"20260524_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260524_MuteSwanGI"
+            },
+            "Ssd": "20260524",
+            "Name": "MuteSwanGI",
+            "Market": "EN-CA",
+            "Hash": "6792012530",
+            "FullDateString": "May 24, 2026"
+        }
+    },
+    {
         "startdate": "20260523",
         "fullstartdate": "202605230400",
         "enddate": "20260524",

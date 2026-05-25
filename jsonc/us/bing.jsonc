@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260524",
+        "fullstartdate": "202605240700",
+        "enddate": "20260525",
+        "url": "/th?id=OHR.DolomitesPark_EN-US0828472809_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DolomitesPark_EN-US0828472809",
+        "copyright": "Tre Cime Nature Park, South Tyrol, Italy (© Adisorn Fineday Chutikunakorn/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=European+Day+of+Parks&form=hpcapt&filters=HpDate%3a%2220260524_0700%22",
+        "title": "Preserving Europe's wild places",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260524_DolomitesPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0c3b37575d5ac4858e266a4e227f5a4e",
+        "hsh": "a92e1c88f81358ed4a2b318c7d3ed76d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "The European Day of Parks celebrates protected areas across the continent, marking the creation of Europe's first national parks in 1909. It serves as a reminder that many of today's most iconic landscapes exist because of long-term conservation efforts. Today's image highlights a prime example of this legacy: Tre Cime Nature Park in northern Italy.",
+                "Image": {
+                    "Url": "/th?id=OHR.DolomitesPark_EN-US0828472809_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DolomitesPark_EN-US0828472809_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Preserving Europe's wild places",
+                "Title": "Tre Cime Nature Park, South Tyrol, Italy",
+                "Copyright": "© Adisorn Fineday Chutikunakorn/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.643931,12.343052/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=46.643931,12.343052;S9;Tre Cime Nature Park, Italy&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260524_DolomitesPark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=European+Day+of+Parks&form=hpcapt&filters=HpDate:\"20260524_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260524_DolomitesPark"
+            },
+            "Ssd": "20260524",
+            "Name": "DolomitesPark",
+            "Market": "EN-US",
+            "Hash": "0828472809",
+            "FullDateString": "May 24, 2026"
+        }
+    },
+    {
         "startdate": "20260523",
         "fullstartdate": "202605230700",
         "enddate": "20260524",

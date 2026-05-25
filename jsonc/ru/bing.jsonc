@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260524",
+        "fullstartdate": "202605240700",
+        "enddate": "20260525",
+        "url": "/th?id=OHR.DolomitesPark_ROW8331574098_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DolomitesPark_ROW8331574098",
+        "copyright": "Tre Cime Nature Park, South Tyrol, Italy (© Adisorn Fineday Chutikunakorn/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Tre+Cime+Nature+Park&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260524_DolomitesPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0c3b37575d5ac4858e266a4e227f5a4e",
+        "hsh": "281e84e85add44cc8e60bc9781cfcef0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Today's image highlights a prime example of long-term conservation efforts: Tre Cime Nature Park in northern Italy. Located in the Dolomites—a UNESCO World Heritage Site known for striking geology—the park was established in 1981. It is best known for the Tre Cime di Lavaredo: three towering dolomite peaks that rise sharply above alpine meadows. Their sheer rock faces make them among the Alps' most recognisable landmarks.",
+                "Image": {
+                    "Url": "/th?id=OHR.DolomitesPark_ROW8331574098_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DolomitesPark_ROW8331574098_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Tre Cime Nature Park, South Tyrol, Italy",
+                "Copyright": "© Adisorn Fineday Chutikunakorn/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260524_DolomitesPark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tre+Cime+Nature+Park&form=hpcapt&filters=HpDate:\"20260524_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260524_DolomitesPark"
+            },
+            "Ssd": "20260524",
+            "Name": "DolomitesPark",
+            "Market": "ROW",
+            "Hash": "8331574098",
+            "FullDateString": "24 мая 2026 г."
+        }
+    },
+    {
         "startdate": "20260523",
         "fullstartdate": "202605230700",
         "enddate": "20260524",

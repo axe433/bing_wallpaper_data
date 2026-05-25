@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260524",
+        "fullstartdate": "202605240300",
+        "enddate": "20260525",
+        "url": "/th?id=OHR.CoffeeDay_PT-BR1198680562_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CoffeeDay_PT-BR1198680562",
+        "copyright": "Frutos de café em fazenda no Brasil (© Murilo Gualda/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=dia+nacional+cafe&form=hpcapt&mkt=pt-br",
+        "title": "A safra que nos move",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260524_CoffeeDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "13a539f20451f2388b2cc9ded122d61f",
+        "hsh": "5980c59a606c3fc7afe439af5641d5d2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "No Dia Nacional do Café, vamos olhar para a planta que pauta o ritmo do Brasil. Verdes quando jovens, vermelhos ou amarelos quando maduros, os frutos da imagem estão prontos para a colheita. Cada cereja guarda dois grãos que ainda não sabem se vão acabar num espresso curto ou num coado sem pressa. Altitude, clima e solo definem doçura, acidez e corpo. Depois vêm colheita, secagem e torra, quando técnica e tempo moldam nuances que só se revelam no primeiro gole.",
+                "Image": {
+                    "Url": "/th?id=OHR.CoffeeDay_PT-BR1198680562_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CoffeeDay_PT-BR1198680562_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A safra que nos move",
+                "Title": "Frutos de café em fazenda no Brasil",
+                "Copyright": "© Murilo Gualda/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260524_CoffeeDay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=dia+nacional+cafe&form=hpcapt&filters=HpDate:\"20260524_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260524_CoffeeDay"
+            },
+            "Ssd": "20260524",
+            "Name": "CoffeeDay",
+            "Market": "PT-BR",
+            "Hash": "1198680562",
+            "FullDateString": "24 mai. 2026"
+        }
+    },
+    {
         "startdate": "20260523",
         "fullstartdate": "202605230300",
         "enddate": "20260524",

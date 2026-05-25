@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260524",
+        "fullstartdate": "202605242200",
+        "enddate": "20260525",
+        "url": "/th?id=OHR.TivoliVillaAdriana_IT-IT5000773432_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TivoliVillaAdriana_IT-IT5000773432",
+        "copyright": "Villa Adriana, Tivoli, Lazio (© SeanSavonePhoto/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Villa+Adriana+residenza+imperiale&form=hpcapt",
+        "title": "La villa dei tempi",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260524_TivoliVillaAdriana%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c9b91b287284bad4eafd6c7b4d297824",
+        "hsh": "52e837e15c3fb689b4dd2d2b7d6690a4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A pochi chilometri da Roma, Villa Adriana è più di una residenza imperiale: è un paesaggio mentale. Voluta da Adriano nel II secolo d.C., nasce come rifugio e visione, lontano dal rumore del potere. Qui l’imperatore ricompone i luoghi amati nei suoi viaggi, come quelli compiuti in Grecia, Egitto e Oriente. Nascono così spazi che non imitano, ma evocano, come il Canopo, specchio d’acqua e memoria. La villa è un sistema di equilibri, tra architettura e natura, ordine e sorpresa, luce e ombra. Cupole ardite, giochi d’acqua, prospettive studiate per perdersi. Non è solo grandezza romana, ma un’idea di mondo, fluida, colta, intima.",
+                "Image": {
+                    "Url": "/th?id=OHR.TivoliVillaAdriana_IT-IT5000773432_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TivoliVillaAdriana_IT-IT5000773432_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La villa dei tempi",
+                "Title": "Villa Adriana, Tivoli, Lazio",
+                "Copyright": "© SeanSavonePhoto/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.946763,12.7741/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=41.946763,12.7741;S9;Villa Adriana, Tivoli, Lazio&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260525_TivoliVillaAdriana\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Villa+Adriana+residenza+imperiale&form=hpcapt&filters=HpDate:\"20260524_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260525_TivoliVillaAdriana"
+            },
+            "Ssd": "20260525",
+            "Name": "TivoliVillaAdriana",
+            "Market": "IT-IT",
+            "Hash": "5000773432",
+            "FullDateString": "25 maggio 2026"
+        }
+    },
+    {
         "startdate": "20260523",
         "fullstartdate": "202605232200",
         "enddate": "20260524",

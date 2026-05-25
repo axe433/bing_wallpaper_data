@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260524",
+        "fullstartdate": "202605242200",
+        "enddate": "20260525",
+        "url": "/th?id=OHR.HawaMahal2026_FR-FR4307485807_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HawaMahal2026_FR-FR4307485807",
+        "copyright": "Vue sur Jaipur depuis le Palais des Vents, Rajasthan, Inde (© byheaven/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Palais+des+Vents+Jaipur&form=hpcapt&filters=HpDate%3a%2220260524_2200%22",
+        "title": "Un souffle entre les pierres",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260524_HawaMahal2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a3145e7650177bdc03afc0cd896d3c18",
+        "hsh": "c510349ba6586ee81e1b7d3fea070d1f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Au cœur de Jaipur, en Inde, le Palais des Vents (Hawa Mahal) répète le même rituel depuis plus de deux siècles. Grâce à sa conception architecturale, il favorise la circulation de l’air et le rafraîchissement passif, illustrant une approche scientifique fascinante. Plus qu’un palais, c’est une merveille qui démontre une parfaite maîtrise de la ventilation naturelle, faisant honneur à son nom.",
+                "Image": {
+                    "Url": "/th?id=OHR.HawaMahal2026_FR-FR4307485807_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HawaMahal2026_FR-FR4307485807_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un souffle entre les pierres",
+                "Title": "Vue sur Jaipur depuis le Palais des Vents, Rajasthan, Inde",
+                "Copyright": "© byheaven/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/26.92399,75.826668/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=26.92399,75.826668;S9;Palais des Vents, Jaipur, Inde&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260525_HawaMahal2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Palais+des+Vents+Jaipur&form=hpcapt&filters=HpDate:\"20260524_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260525_HawaMahal2026"
+            },
+            "Ssd": "20260525",
+            "Name": "HawaMahal2026",
+            "Market": "FR-FR",
+            "Hash": "4307485807",
+            "FullDateString": "25 mai 2026"
+        }
+    },
+    {
         "startdate": "20260523",
         "fullstartdate": "202605232200",
         "enddate": "20260524",

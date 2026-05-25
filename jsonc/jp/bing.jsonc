@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260524",
+        "fullstartdate": "202605241500",
+        "enddate": "20260525",
+        "url": "/th?id=OHR.TwrMawrLighthouse2026_JA-JP9539215085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TwrMawrLighthouse2026_JA-JP9539215085",
+        "copyright": "トゥール・マウル灯台, ウェールズ (© Lukas Bischoff/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%88%E3%82%A5%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%9E%E3%82%A6%E3%83%AB%E7%81%AF%E5%8F%B0&form=hpcapt&filters=HpDate%3a%2220260524_1500%22",
+        "title": "小道の先に佇む灯台",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260524_TwrMawrLighthouse2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bef75d8ac1db335c06860f167be70bde",
+        "hsh": "883db1874225faa19a36e2a479419f7e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日の画像は、トゥール・マウル（大塔）灯台です。1845 年、ウェールズのイニス・ランドゥイン島南西端に建設された高さ 10m の塔で、円錐形の構造が特徴です。かつてはメナイ海峡の航行の目印として使われていましたが、1975 年に近くのトゥール・バック（小塔）灯台へ役割が引き継がれました。現在はイギリスにおける特別な建造物「イギリス指定建造物」として保存されています。",
+                "Image": {
+                    "Url": "/th?id=OHR.TwrMawrLighthouse2026_JA-JP9539215085_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TwrMawrLighthouse2026_JA-JP9539215085_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "小道の先に佇む灯台",
+                "Title": "トゥール・マウル灯台, ウェールズ",
+                "Copyright": "© Lukas Bischoff/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/53.13707,-4.412761/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=53.13707,-4.412761;S9;トゥール・マウル灯台, ウェールズ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260525_TwrMawrLighthouse2026 %22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260525_TwrMawrLighthouse2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%88%e3%82%a5%e3%83%bc%e3%83%ab%e3%83%bb%e3%83%9e%e3%82%a6%e3%83%ab%e7%81%af%e5%8f%b0&form=hpcapt&filters=HpDate:\"20260524_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260525_TwrMawrLighthouse2026"
+            },
+            "Ssd": "20260525",
+            "Name": "TwrMawrLighthouse2026",
+            "Market": "JA-JP",
+            "Hash": "9539215085",
+            "FullDateString": "2026 年 5月 月 25 日"
+        }
+    },
+    {
         "startdate": "20260523",
         "fullstartdate": "202605231500",
         "enddate": "20260524",
