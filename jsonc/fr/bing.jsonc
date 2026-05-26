@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260525",
+        "fullstartdate": "202605252200",
+        "enddate": "20260526",
+        "url": "/th?id=OHR.LupineBloom_FR-FR4014773564_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LupineBloom_FR-FR4014773564",
+        "copyright": "Lupins en fleur, Californie du Nord, États-Unis (© Jeffrey Lewis/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Lupin+fleur&form=hpcapt&filters=HpDate%3a%2220260525_2200%22",
+        "title": "Marée bleue sur la colline",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260525_LupineBloom%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "565d633c06ea25bbd8978d05ad45861d",
+        "hsh": "69d915e6d9e8c364f8f5e493b9517437",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Au printemps, la Californie du Nord, aux États-Unis, se réveille tapissée de lupins en fleur. Le bleu, le violet et le blanc ondulent sur les collines, portés par le doux climat méditerranéen. Ces fleurs sauvages deviennent alors des haltes précieuses pour les abeilles, les papillons et les coléoptères, attirés par leur nectar généreux.",
+                "Image": {
+                    "Url": "/th?id=OHR.LupineBloom_FR-FR4014773564_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LupineBloom_FR-FR4014773564_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Marée bleue sur la colline",
+                "Title": "Lupins en fleur, Californie du Nord, États-Unis",
+                "Copyright": "© Jeffrey Lewis/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Le nom « lupin » vient du mot latin « lupus », qui signifie « loup ». On croyait autrefois, à tort, que les lupins « dévoraient » ou épuisaient les nutriments du sol.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260526_LupineBloom\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lupin+fleur&form=hpcapt&filters=HpDate:\"20260525_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260526_LupineBloom"
+            },
+            "Ssd": "20260526",
+            "Name": "LupineBloom",
+            "Market": "FR-FR",
+            "Hash": "4014773564",
+            "FullDateString": "26 mai 2026"
+        }
+    },
+    {
         "startdate": "20260524",
         "fullstartdate": "202605242200",
         "enddate": "20260525",

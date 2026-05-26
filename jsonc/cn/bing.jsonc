@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260525",
+        "fullstartdate": "202605251600",
+        "enddate": "20260526",
+        "url": "/th?id=OHR.LupineBloom_ZH-CN7639721663_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LupineBloom_ZH-CN7639721663",
+        "copyright": "盛开的羽扇豆，北加利福尼亚州，美国 (© Jeffrey Lewis/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=%E7%BE%BD%E6%89%87%E8%B1%86&form=hpcapt&mkt=zh-cn",
+        "title": "羽扇豆书写的季节",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260525_LupineBloom%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "565d633c06ea25bbd8978d05ad45861d",
+        "hsh": "4fa4bf57e48565ea815525261dae4db0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "随着春季席卷北加利福尼亚州，大地在蓝色、紫色与白色交织的羽扇豆花海中焕然一新。这些野生物种在当地的地中海气候下生长繁茂，为蜜蜂、蝴蝶及甲虫等授粉媒介提供了至关重要的花蜜来源。羽扇豆在全球拥有200多个物种，其分布极其广泛，涵盖了从沿海地带到高山草甸的多种生境。除了显著的观赏价值外，羽扇豆在生态系统中亦发挥着关键作用：通过地下的固氮作用，它们能够显著提高土壤肥力，即便是在贫瘠的环境中也能支持周边植物的生长。",
+                "Image": {
+                    "Url": "/th?id=OHR.LupineBloom_ZH-CN7639721663_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LupineBloom_ZH-CN7639721663_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "羽扇豆书写的季节",
+                "Title": "盛开的羽扇豆，北加利福尼亚州，美国",
+                "Copyright": "© Jeffrey Lewis/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "“羽扇豆（Lupine）”之名源自拉丁语“Lupus”，意为“狼”。过去人们曾错误地认为，这种植物会像狼一样“吞噬”或损耗土壤中的养分。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260526_LupineBloom\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e7%be%bd%e6%89%87%e8%b1%86&form=hpcapt&filters=HpDate:\"20260525_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260526_LupineBloom"
+            },
+            "Ssd": "20260526",
+            "Name": "LupineBloom",
+            "Market": "ZH-CN",
+            "Hash": "7639721663",
+            "FullDateString": "2026 5月 26"
+        }
+    },
+    {
         "startdate": "20260524",
         "fullstartdate": "202605241600",
         "enddate": "20260525",

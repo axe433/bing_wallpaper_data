@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260525",
+        "fullstartdate": "202605250700",
+        "enddate": "20260526",
+        "url": "/th?id=OHR.HawaMahal2026_ROW8601655471_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HawaMahal2026_ROW8601655471",
+        "copyright": "View over Jaipur from Hawa Mahal, Rajasthan (© byheaven/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Hawa+Mahal&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260525_HawaMahal2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a3145e7650177bdc03afc0cd896d3c18",
+        "hsh": "2f6676bb4d7eb5c8a7e3c79c4b026bd7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "What if a building could breathe? In the middle of Jaipur, Hawa Mahal does exactly that—pulling in air, pushing out heat and turning architecture into a quiet science experiment. It's less a palace, more a perfectly timed exhale. And yes, it really does live up to its name: the 'Palace of Winds.'",
+                "Image": {
+                    "Url": "/th?id=OHR.HawaMahal2026_ROW8601655471_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HawaMahal2026_ROW8601655471_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "View over Jaipur from Hawa Mahal, Rajasthan",
+                "Copyright": "© byheaven/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260525_HawaMahal2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hawa+Mahal&form=hpcapt&filters=HpDate:\"20260525_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260525_HawaMahal2026"
+            },
+            "Ssd": "20260525",
+            "Name": "HawaMahal2026",
+            "Market": "ROW",
+            "Hash": "8601655471",
+            "FullDateString": "25 mei, 2026"
+        }
+    },
+    {
         "startdate": "20260524",
         "fullstartdate": "202605240700",
         "enddate": "20260525",

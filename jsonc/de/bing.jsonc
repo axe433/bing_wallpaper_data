@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260525",
+        "fullstartdate": "202605252200",
+        "enddate": "20260526",
+        "url": "/th?id=OHR.LupineBloom_DE-DE3740774254_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LupineBloom_DE-DE3740774254",
+        "copyright": "Blühende Lupinen, Nordkalifornien, USA (© Jeffrey Lewis/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Lupinen&form=hpcapt&filters=HpDate%3a%2220260525_2200%22",
+        "title": "Blüten schreiben Landschaft",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260525_LupineBloom%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "565d633c06ea25bbd8978d05ad45861d",
+        "hsh": "f9a85845de69c0ed98b66c459d9fa94a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ein Blick auf blühende Lupinen genügt, um zu erkennen, wie eng Farbe und Funktion in der Natur miteinander verbunden sind. Im Frühling verwandeln sie Teile Nordkaliforniens in Teppiche aus Blau‑, Violett‑ und Weißtönen und prägen dort offene Landschaften. Die Pflanzen sind an mediterrane Klimabedingungen angepasst und liefern wichtigen Nektar für Bestäuber wie Bienen und Schmetterlinge. Weltweit gibt es über 200 Lupinenarten, von Küstenregionen bis hin zu Bergwiesen.",
+                "Image": {
+                    "Url": "/th?id=OHR.LupineBloom_DE-DE3740774254_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LupineBloom_DE-DE3740774254_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Blüten schreiben Landschaft",
+                "Title": "Blühende Lupinen, Nordkalifornien, USA",
+                "Copyright": "© Jeffrey Lewis/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Der Name „Lupine“ stammt vom lateinischen Wort lupus für „Wolf“. Früher glaubte man fälschlich, Lupinen würden dem Boden Nährstoffe entziehen, als würden sie ihn „aushungern“.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260526_LupineBloom\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lupinen&form=hpcapt&filters=HpDate:\"20260525_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260526_LupineBloom"
+            },
+            "Ssd": "20260526",
+            "Name": "LupineBloom",
+            "Market": "DE-DE",
+            "Hash": "3740774254",
+            "FullDateString": "26. Mai. 2026"
+        }
+    },
+    {
         "startdate": "20260524",
         "fullstartdate": "202605242200",
         "enddate": "20260525",

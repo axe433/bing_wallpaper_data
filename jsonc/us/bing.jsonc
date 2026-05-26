@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260525",
+        "fullstartdate": "202605250700",
+        "enddate": "20260526",
+        "url": "/th?id=OHR.ArlingtonAmphitheater_EN-US0872772906_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ArlingtonAmphitheater_EN-US0872772906",
+        "copyright": "Memorial Amphitheater at Arlington National Cemetery, Arlington, Virginia (© idesignimages/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Memorial+Day&form=hpcapt&filters=HpDate%3a%2220260525_0700%22",
+        "title": "Where silence bears names",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260525_ArlingtonAmphitheater%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "95779468d5491ef80619dbcb23a7ec11",
+        "hsh": "4219c964f7e79fd05450b6171bcd1239",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Memorial Day honors the men and women who lost their lives while serving in the United States Armed Forces. Observed on the last Monday in May, the holiday traces its origins to the years following the Civil War, when communities began decorating the graves of fallen soldiers. Over time, it became a national observance dedicated to remembrance and gratitude—marked by solemn ceremonies, moments of silence, and visits to memorials across the country.",
+                "Image": {
+                    "Url": "/th?id=OHR.ArlingtonAmphitheater_EN-US0872772906_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ArlingtonAmphitheater_EN-US0872772906_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Where silence bears names",
+                "Title": "Memorial Amphitheater at Arlington National Cemetery, Arlington, Virginia",
+                "Copyright": "© idesignimages/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.883003,-77.068618/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=38.883003,-77.068618;S9;Arlington Memorial Amphitheater, Virginia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260525_ArlingtonAmphitheater\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Memorial+Day&form=hpcapt&filters=HpDate:\"20260525_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260525_ArlingtonAmphitheater"
+            },
+            "Ssd": "20260525",
+            "Name": "ArlingtonAmphitheater",
+            "Market": "EN-US",
+            "Hash": "0872772906",
+            "FullDateString": "May 25, 2026"
+        }
+    },
+    {
         "startdate": "20260524",
         "fullstartdate": "202605240700",
         "enddate": "20260525",

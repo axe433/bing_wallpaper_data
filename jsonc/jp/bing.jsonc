@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260525",
+        "fullstartdate": "202605251500",
+        "enddate": "20260526",
+        "url": "/th?id=OHR.LupineBloom_JA-JP9737515603_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LupineBloom_JA-JP9737515603",
+        "copyright": "ルピナスの花, 米国 カリフォルニア州 (© Jeffrey Lewis/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%AB%E3%83%94%E3%83%8A%E3%82%B9%E3%81%AE%E8%8A%B1&form=hpcapt&filters=HpDate%3a%2220260525_1500%22",
+        "title": "一面に咲き広がる青いルピナス",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260525_LupineBloom%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "565d633c06ea25bbd8978d05ad45861d",
+        "hsh": "ab4456e35df80f6faf7515f84301ee54",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "春が訪れると、米国・北カリフォルニアの風景は、青や紫、白に彩られたルピナスの花々によって鮮やかに一変します。ルピナスは、世界に 200 種以上が分布し、海岸沿いから山地の草原まで、多様な環境に生息しています。ただ美しく咲くだけではなく、ミツバチやチョウ、カブトムシなどにとって重要な食糧源となるほか、土壌を豊かにし、栄養分の乏しい環境でも周囲の植物の生育を助けるという役割を果たしています。",
+                "Image": {
+                    "Url": "/th?id=OHR.LupineBloom_JA-JP9737515603_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LupineBloom_JA-JP9737515603_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "一面に咲き広がる青いルピナス",
+                "Title": "ルピナスの花, 米国 カリフォルニア州",
+                "Copyright": "© Jeffrey Lewis/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.254669,-119.617271/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=37.254669,-119.617271;S9;米国 カリフォルニア州&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260526_LupineBloom%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260526_LupineBloom\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%ab%e3%83%94%e3%83%8a%e3%82%b9%e3%81%ae%e8%8a%b1&form=hpcapt&filters=HpDate:\"20260525_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260526_LupineBloom"
+            },
+            "Ssd": "20260526",
+            "Name": "LupineBloom",
+            "Market": "JA-JP",
+            "Hash": "9737515603",
+            "FullDateString": "2026 年 5月 月 26 日"
+        }
+    },
+    {
         "startdate": "20260524",
         "fullstartdate": "202605241500",
         "enddate": "20260525",

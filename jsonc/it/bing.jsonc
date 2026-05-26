@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260525",
+        "fullstartdate": "202605252200",
+        "enddate": "20260526",
+        "url": "/th?id=OHR.LupineBloom_IT-IT4470674281_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LupineBloom_IT-IT4470674281",
+        "copyright": "Fiori di lupino in fiore, California settentrionale, USA (© Jeffrey Lewis/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Lupinus&form=hpcapt",
+        "title": "Aperitivo naturale?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260525_LupineBloom%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "565d633c06ea25bbd8978d05ad45861d",
+        "hsh": "8c899cb1f0e1e2ce013bffedd98c63e5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Con l’arrivo della primavera nella California settentrionale, il paesaggio si trasforma grazie alle vivaci fioriture dei lupini, in sfumature di blu, viola e bianco. Favoriti dal clima mediterraneo dello stato americano, questi fiori selvatici rappresentano una fonte essenziale di nettare per impollinatori come api, farfalle e coleotteri. Con oltre 200 specie diffuse nel mondo, i lupini spaziano da varietà costiere a quelle che prosperano nei prati montani. Oltre alla loro bellezza appariscente, svolgono un ruolo fondamentale nell’ecosistema, fissando l’azoto nel terreno, migliorando la fertilità del suolo e sostenendo la crescita delle piante circostanti, anche in ambienti poveri di nutrienti.",
+                "Image": {
+                    "Url": "/th?id=OHR.LupineBloom_IT-IT4470674281_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LupineBloom_IT-IT4470674281_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Aperitivo naturale?",
+                "Title": "Fiori di lupino in fiore, California settentrionale, USA",
+                "Copyright": "© Jeffrey Lewis/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Il nome «lupino» deriva dal latino «lupus», che significa «lupo». Un tempo si credeva erroneamente che i lupini «divorassero» o impoverissero il terreno delle sostanze nutritive.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260526_LupineBloom\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lupinus&form=hpcapt&filters=HpDate:\"20260525_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260526_LupineBloom"
+            },
+            "Ssd": "20260526",
+            "Name": "LupineBloom",
+            "Market": "IT-IT",
+            "Hash": "4470674281",
+            "FullDateString": "26 maggio 2026"
+        }
+    },
+    {
         "startdate": "20260524",
         "fullstartdate": "202605242200",
         "enddate": "20260525",
