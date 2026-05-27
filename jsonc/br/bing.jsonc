@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260526",
+        "fullstartdate": "202605260300",
+        "enddate": "20260527",
+        "url": "/th?id=OHR.LupineBloom_PT-BR2184641426_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LupineBloom_PT-BR2184641426",
+        "copyright": "Tremoceiros em flor, Califórnia, Estados Unidos (© Jeffrey Lewis/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=tremoceiros&form=hpcapt&mkt=pt-br",
+        "title": "A estética do equilíbrio",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260526_LupineBloom%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "565d633c06ea25bbd8978d05ad45861d",
+        "hsh": "264de3a4b8124a0e0d1ffd1abbcd4384",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nos Estados Unidos, os tremoceiros que tomam a Califórnia na primavera parecem feitos para a fotografia aérea. Tons de azul, roxo e branco avançam por colinas e margens de estrada, embalados pelo clima mediterrâneo que favorece a floração. Mas a missão das plantas vistas na imagem vai além da estética: elas oferecem néctar abundante para polinizadores e sustentam cadeias ecológicas inteiras. Abelhas, borboletas e besouros sabem exatamente onde pousar.",
+                "Image": {
+                    "Url": "/th?id=OHR.LupineBloom_PT-BR2184641426_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LupineBloom_PT-BR2184641426_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A estética do equilíbrio",
+                "Title": "Tremoceiros em flor, Califórnia, Estados Unidos",
+                "Copyright": "© Jeffrey Lewis/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260526_LupineBloom\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=tremoceiros&form=hpcapt&filters=HpDate:\"20260526_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260526_LupineBloom"
+            },
+            "Ssd": "20260526",
+            "Name": "LupineBloom",
+            "Market": "PT-BR",
+            "Hash": "2184641426",
+            "FullDateString": "26 mai. 2026"
+        }
+    },
+    {
         "startdate": "20260525",
         "fullstartdate": "202605250300",
         "enddate": "20260526",

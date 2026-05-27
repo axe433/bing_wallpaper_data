@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260526",
+        "fullstartdate": "202605260700",
+        "enddate": "20260527",
+        "url": "/th?id=OHR.LupineBloom_ROW8766643120_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LupineBloom_ROW8766643120",
+        "copyright": "Lupine flowers in bloom, Northern California, United States (© Jeffrey Lewis/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Lupinus&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260526_LupineBloom%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "565d633c06ea25bbd8978d05ad45861d",
+        "hsh": "91b32516af26dc8fde7b0bd57685a63d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "As spring sweeps across Northern California in the United States, the landscape is transformed by the vibrant displays of lupine flowers in shades of blue, purple and white. Flourishing in the region's Mediterranean climate, these wildflowers provide a vital source of nectar for pollinators such as bees, butterflies and beetles. With over 200 species found worldwide, lupines range from coastal varieties to those that thrive in mountain meadows. Beyond their striking beauty, lupines are essential to the ecosystem: by fixing nitrogen underground, they enrich soil fertility and support the growth of surrounding plants, even in nutrient-poor environments.",
+                "Image": {
+                    "Url": "/th?id=OHR.LupineBloom_ROW8766643120_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LupineBloom_ROW8766643120_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Lupine flowers in bloom, Northern California, United States",
+                "Copyright": "© Jeffrey Lewis/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260526_LupineBloom\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lupinus&form=hpcapt&filters=HpDate:\"20260526_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260526_LupineBloom"
+            },
+            "Ssd": "20260526",
+            "Name": "LupineBloom",
+            "Market": "ROW",
+            "Hash": "8766643120",
+            "FullDateString": "2026 5월 26"
+        }
+    },
+    {
         "startdate": "20260525",
         "fullstartdate": "202605250700",
         "enddate": "20260526",

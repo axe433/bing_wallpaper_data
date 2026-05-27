@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260526",
+        "fullstartdate": "202605262200",
+        "enddate": "20260527",
+        "url": "/th?id=OHR.OtterDay_DE-DE4262333472_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OtterDay_DE-DE4262333472",
+        "copyright": "Seeotter in der Kachemak Bay bei Homer, Alaska, USA (© roclwyr/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Welttag+der+Otter&form=hpcapt&filters=HpDate%3a%2220260526_2200%22",
+        "title": "Einzigartig auf ihre Art",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260526_OtterDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "36aed73dab0bc36b53cd501cf7175513",
+        "hsh": "40962226574847eedd13683624ef6e83",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Anlässlich des Welttags der Otter richtet sich die Aufmerksamkeit auf diesen Seeotter, der durch die ruhigen Gewässer der Kachemak Bay in Alaska, USA, gleitet. Otter wirken zwar verspielt, übernehmen aber eine zentrale Rolle im natürlichen Gleichgewicht. Als Schlüsselarten zeigen sie an, wie gesund Flüsse, Seen und Küstengewässer sind und wie gut ganze Lebensräume funktionieren. Seeotter sind insbesondere für Küstenökosysteme unverzichtbar. Sie fressen Seeigel und bewahren so ausgedehnte Kelpwälder, die zahlreichen Meereslebewesen Schutz bieten. Diese Unterwasserwälder speichern Kohlenstoff, dämpfen die Kraft der Wellen und schützen die Küste vor Erosion. Deshalb gelten Seeotter oft als stille Verbündete im Klimasystem.",
+                "Image": {
+                    "Url": "/th?id=OHR.OtterDay_DE-DE4262333472_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OtterDay_DE-DE4262333472_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Einzigartig auf ihre Art",
+                "Title": "Seeotter in der Kachemak Bay bei Homer, Alaska, USA",
+                "Copyright": "© roclwyr/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/59.725746,-151.141037/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=59.725746,-151.141037;S9;Kachemak Bay, Alaska, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260527_OtterDay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Welttag+der+Otter&form=hpcapt&filters=HpDate:\"20260526_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260527_OtterDay"
+            },
+            "Ssd": "20260527",
+            "Name": "OtterDay",
+            "Market": "DE-DE",
+            "Hash": "4262333472",
+            "FullDateString": "27. Mai. 2026"
+        }
+    },
+    {
         "startdate": "20260525",
         "fullstartdate": "202605252200",
         "enddate": "20260526",

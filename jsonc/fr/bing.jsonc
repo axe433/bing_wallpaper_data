@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260526",
+        "fullstartdate": "202605262200",
+        "enddate": "20260527",
+        "url": "/th?id=OHR.OtterDay_FR-FR4235881841_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OtterDay_FR-FR4235881841",
+        "copyright": "Loutre de mer, Baie de Kachemak, Homer, Alaska, États-Unis (© roclwyr/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+mondiale+de+la+loutre&form=hpcapt&filters=HpDate%3a%2220260526_2200%22",
+        "title": "Aussi attendrissante qu’essentielle",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260526_OtterDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "36aed73dab0bc36b53cd501cf7175513",
+        "hsh": "16b159942473235672767346d452b7e6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "À l’occasion de la Journée mondiale de la loutre, lumière sur cette petite silhouette fuselée qui glisse dans les eaux froides et limpides de la baie de Kachemak, en Alaska, aux États-Unis. Entre mer et montagnes, la loutre nage avec une aisance joyeuse, joue, plonge, puis réapparaît, comme un éclat de vie dans un paysage sauvage.",
+                "Image": {
+                    "Url": "/th?id=OHR.OtterDay_FR-FR4235881841_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OtterDay_FR-FR4235881841_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Aussi attendrissante qu'essentielle",
+                "Title": "Loutre de mer, Baie de Kachemak, Homer, Alaska, États-Unis",
+                "Copyright": "© roclwyr/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/59.725746,-151.141037/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=59.725746,-151.141037;S9;Baie de Kachemak, Alaska, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260527_OtterDay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Journ%c3%a9e+mondiale+de+la+loutre&form=hpcapt&filters=HpDate:\"20260526_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260527_OtterDay"
+            },
+            "Ssd": "20260527",
+            "Name": "OtterDay",
+            "Market": "FR-FR",
+            "Hash": "4235881841",
+            "FullDateString": "27 mai 2026"
+        }
+    },
+    {
         "startdate": "20260525",
         "fullstartdate": "202605252200",
         "enddate": "20260526",

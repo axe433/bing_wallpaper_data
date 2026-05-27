@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260526",
+        "fullstartdate": "202605262200",
+        "enddate": "20260527",
+        "url": "/th?id=OHR.OtterDay_IT-IT8003946324_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OtterDay_IT-IT8003946324",
+        "copyright": "Lontra marina, Kachemak Bay, Homer, Alaska, USA (© roclwyr/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lutra+lutra&form=hpcapt",
+        "title": "Il lato acquaceo della cura",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260526_OtterDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "36aed73dab0bc36b53cd501cf7175513",
+        "hsh": "a77c12b6a6677017dedd60d32d0be090",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nella «Giornata mondiale della lontra», questa lontra, qui nelle acque della baia di Kachemak, in Alaska (USA), ci ricorda quanto siano preziose. Affascinanti e vitali per gli ecosistemi, contribuiscono a mantenerli in equilibrio. La ricorrenza, sostenuta dall’Otter Specialist Group (OSG), rete globale impegnata nella tutela di tutte le 14 specie, ne celebra il ruolo essenziale. Giocose e intelligenti, sono anche preziosi indicatori della salute degli ambienti acquatici, oggi minacciati da perdita di habitat e inquinamento.",
+                "Image": {
+                    "Url": "/th?id=OHR.OtterDay_IT-IT8003946324_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OtterDay_IT-IT8003946324_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Il lato acquaceo della cura",
+                "Title": "Lontra marina, Kachemak Bay, Homer, Alaska, USA",
+                "Copyright": "© roclwyr/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/59.725746,-151.141037/2?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=59.725746,-151.141037;S9;Kachemak Bay, Homer, Alaska, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260527_OtterDay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lutra+lutra&form=hpcapt&filters=HpDate:\"20260526_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260527_OtterDay"
+            },
+            "Ssd": "20260527",
+            "Name": "OtterDay",
+            "Market": "IT-IT",
+            "Hash": "8003946324",
+            "FullDateString": "27 maggio 2026"
+        }
+    },
+    {
         "startdate": "20260525",
         "fullstartdate": "202605252200",
         "enddate": "20260526",

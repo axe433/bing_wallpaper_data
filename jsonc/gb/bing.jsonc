@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260526",
+        "fullstartdate": "202605262300",
+        "enddate": "20260527",
+        "url": "/th?id=OHR.OtterDay_EN-GB6482423127_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OtterDay_EN-GB6482423127",
+        "copyright": "Sea otter, Kachemak Bay, Homer, Alaska, United States (© roclwyr/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=World+Otter+Day&form=hpcapt&filters=HpDate%3a%2220260526_2300%22",
+        "title": "No 'otter' like them",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260526_OtterDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "36aed73dab0bc36b53cd501cf7175513",
+        "hsh": "b218593b9ee6a4c7f7f132c64d7892f9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "On World Otter Day, just look at this cutie swimming in the waters of Kachemak Bay, Alaska! Otters are captivating creatures that play an essential role in maintaining healthy ecosystems. Supported by the Otter Specialist Group (OSG)—a global network of professionals dedicated to the conservation of all 14 species—this day highlights the otter's vital contribution to nature. Known for their playful behaviour and remarkable intelligence, otters are key indicators of waterway health. Sadly, they face growing challenges from habitat loss and pollution.",
+                "Image": {
+                    "Url": "/th?id=OHR.OtterDay_EN-GB6482423127_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OtterDay_EN-GB6482423127_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "No 'otter' like them",
+                "Title": "Sea otter, Kachemak Bay, Homer, Alaska, United States",
+                "Copyright": "© roclwyr/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/59.725746,-151.141037/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=59.725746,-151.141037;S9;Kachemak Bay, Alaska, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260527_OtterDay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=World+Otter+Day&form=hpcapt&filters=HpDate:\"20260526_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260527_OtterDay"
+            },
+            "Ssd": "20260527",
+            "Name": "OtterDay",
+            "Market": "EN-GB",
+            "Hash": "6482423127",
+            "FullDateString": "27 May 2026"
+        }
+    },
+    {
         "startdate": "20260525",
         "fullstartdate": "202605252300",
         "enddate": "20260526",
