@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260527",
+        "fullstartdate": "202605272200",
+        "enddate": "20260528",
+        "url": "/th?id=OHR.HwaesongFortress_FR-FR4479337112_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HwaesongFortress_FR-FR4479337112",
+        "copyright": "Forteresse de Hwaseong, Suwon, Corée du Sud (© aomam/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Forteresse+de+Waseong+Suwon&form=hpcapt&filters=HpDate%3a%2220260527_2200%22",
+        "title": "Quand architecture et discipline ne font qu’une",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260527_HwaesongFortress%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8130f2cb73ae22e1786106032f969467",
+        "hsh": "1cb80ae090a475e0889db05cb3ffc063",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "À la tombée de la nuit, Suwon, en Corée du Sud, se pare d’un calme feutré. La forteresse de Hwaseong se découpe alors dans l’obscurité, élégante et puissante, rappelant que l’utilité peut engendrer la beauté. Édifiée entre 1794 et 1796 sous le règne du roi Jeongjo, cette muraille n’était pas qu’un rempart : elle incarnait une vision politique réformatrice, pragmatique, pensée pour un royaume plus efficace et plus juste.",
+                "Image": {
+                    "Url": "/th?id=OHR.HwaesongFortress_FR-FR4479337112_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HwaesongFortress_FR-FR4479337112_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Quand architecture et discipline ne font qu'une",
+                "Title": "Forteresse de Hwaseong, Suwon, Corée du Sud",
+                "Copyright": "© aomam/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.289031,127.014114/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=37.289031,127.014114;S9;Forteresse de Hwaseong, Suwon, Corée du Sud&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260528_HwaesongFortress\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Forteresse+de+Waseong+Suwon&form=hpcapt&filters=HpDate:\"20260527_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260528_HwaesongFortress"
+            },
+            "Ssd": "20260528",
+            "Name": "HwaesongFortress",
+            "Market": "FR-FR",
+            "Hash": "4479337112",
+            "FullDateString": "28 mai 2026"
+        }
+    },
+    {
         "startdate": "20260526",
         "fullstartdate": "202605262200",
         "enddate": "20260527",

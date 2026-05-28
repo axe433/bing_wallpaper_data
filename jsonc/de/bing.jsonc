@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260527",
+        "fullstartdate": "202605272200",
+        "enddate": "20260528",
+        "url": "/th?id=OHR.HwaesongFortress_DE-DE4428807756_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HwaesongFortress_DE-DE4428807756",
+        "copyright": "Alte Stadtmauer der Festung Hwaseong, Suwon, Südkorea (© aomam/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Festung+Hwaseong+Suwon&form=hpcapt&filters=HpDate%3a%2220260527_2200%22",
+        "title": "Form trifft Ordnung",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260527_HwaesongFortress%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8130f2cb73ae22e1786106032f969467",
+        "hsh": "3cc83c7aa7e166f354d1dc5ece2c0ff8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Was erzählt eine Mauer, wenn es still wird? Mit Einbruch der Nacht zeigt die Festung Hwaseong im südkoreanischen Suwon, dass Zweck und Schönheit sich nicht ausschließen müssen. Die zwischen 1794 und 1796 unter König Jeongjo der Joseon‑Dynastie errichtete Anlage war weit mehr als eine Verteidigungsstruktur. Sie war Ausdruck politischer Reformen und zugleich ein persönliches Denkmal, das zur Erinnerung an den Vater des Königs errichtet wurde und Teil einer bewusst geplanten Stadtanlage ist.",
+                "Image": {
+                    "Url": "/th?id=OHR.HwaesongFortress_DE-DE4428807756_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HwaesongFortress_DE-DE4428807756_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Form trifft Ordnung",
+                "Title": "Alte Stadtmauer der Festung Hwaseong, Suwon, Südkorea",
+                "Copyright": "© aomam/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.289031,127.014114/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=37.289031,127.014114;S9;Alte Stadtmauer der Festung Hwaseong, Suwon, Südkorea&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260528_HwaesongFortress\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Festung+Hwaseong+Suwon&form=hpcapt&filters=HpDate:\"20260527_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260528_HwaesongFortress"
+            },
+            "Ssd": "20260528",
+            "Name": "HwaesongFortress",
+            "Market": "DE-DE",
+            "Hash": "4428807756",
+            "FullDateString": "28. Mai. 2026"
+        }
+    },
+    {
         "startdate": "20260526",
         "fullstartdate": "202605262200",
         "enddate": "20260527",

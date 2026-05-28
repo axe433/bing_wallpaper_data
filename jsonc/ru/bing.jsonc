@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260527",
+        "fullstartdate": "202605270700",
+        "enddate": "20260528",
+        "url": "/th?id=OHR.OtterDay_ROW8950256578_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OtterDay_ROW8950256578",
+        "copyright": "Sea otter, Kachemak Bay, Homer, Alaska, United States (© roclwyr/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Sea+Otter&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260527_OtterDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "36aed73dab0bc36b53cd501cf7175513",
+        "hsh": "b0ba1fdd95e845b0d286848c69b1dae0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Just look at this cutie swimming in the waters of Kachemak Bay in Alaska! Otters are captivating creatures that play an essential role in maintaining healthy ecosystems. Known for their playful behaviour and remarkable intelligence, otters are key indicators of waterway health. Sadly, they face growing challenges from habitat loss and pollution.",
+                "Image": {
+                    "Url": "/th?id=OHR.OtterDay_ROW8950256578_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OtterDay_ROW8950256578_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Sea otter, Kachemak Bay, Homer, Alaska, United States",
+                "Copyright": "© roclwyr/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260527_OtterDay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Sea+Otter&form=hpcapt&filters=HpDate:\"20260527_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260527_OtterDay"
+            },
+            "Ssd": "20260527",
+            "Name": "OtterDay",
+            "Market": "ROW",
+            "Hash": "8950256578",
+            "FullDateString": "27 мая 2026 г."
+        }
+    },
+    {
         "startdate": "20260526",
         "fullstartdate": "202605260700",
         "enddate": "20260527",

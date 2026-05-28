@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260527",
+        "fullstartdate": "202605272200",
+        "enddate": "20260528",
+        "url": "/th?id=OHR.HwaesongFortress_ES-ES3287835347_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HwaesongFortress_ES-ES3287835347",
+        "copyright": "Antigua muralla de la fortaleza de Hwaseong, Suwon, Corea del Sur (© aomam/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Fortaleza+de+Hwaseong&form=hpcapt&filters=HpDate%3a%2220260527_2200%22",
+        "title": "Donde el diseño se une a la disciplina",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260527_HwaesongFortress%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8130f2cb73ae22e1786106032f969467",
+        "hsh": "1f8d4e945e2c0e9d1e6d46935738ab50",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La antigua muralla de la fortaleza de Hwaseong, que rodea parte de la ciudad de Suwon, es uno de los complejos defensivos mejor conservados de Corea del Sur. Fue construida a finales del siglo XVIII por orden del rey Jeongjo de la dinastía Joseon, que quiso honrar a su padre y reforzar esta zona estratégica. El muro, de casi seis kilómetros, combina piedra y ladrillo y se adapta a colinas, puertas monumentales, pabellones y baluartes que muestran un diseño militar muy avanzado para su época.",
+                "Image": {
+                    "Url": "/th?id=OHR.HwaesongFortress_ES-ES3287835347_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HwaesongFortress_ES-ES3287835347_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Donde el diseño se une a la disciplina",
+                "Title": "Antigua muralla de la fortaleza de Hwaseong, Suwon, Corea del Sur",
+                "Copyright": "© aomam/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.289031,127.014114/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=37.289031,127.014114;S9;Fortaleza de Hwaseong, Suwon, Corea del Sur&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260528_HwaesongFortress\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Fortaleza+de+Hwaseong&form=hpcapt&filters=HpDate:\"20260527_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260528_HwaesongFortress"
+            },
+            "Ssd": "20260528",
+            "Name": "HwaesongFortress",
+            "Market": "ES-ES",
+            "Hash": "3287835347",
+            "FullDateString": "28 de may de 2026"
+        }
+    },
+    {
         "startdate": "20260526",
         "fullstartdate": "202605262200",
         "enddate": "20260527",
