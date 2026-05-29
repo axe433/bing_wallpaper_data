@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260528",
+        "fullstartdate": "202605280300",
+        "enddate": "20260529",
+        "url": "/th?id=OHR.HwaesongFortress_PT-BR2888838798_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HwaesongFortress_PT-BR2888838798",
+        "copyright": "Muralha da Fortaleza de Hwaseong, Suwon, Coreia do Sul (© aomam/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Fortaleza+de+Hwaseong&form=hpcapt&mkt=pt-br",
+        "title": "História transitável",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260528_HwaesongFortress%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8130f2cb73ae22e1786106032f969467",
+        "hsh": "669d59be91fd4304ec17500bb4eb444f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Quando a noite cai sobre Suwon, na Coreia do Sul, a antiga muralha vista na imagem deixa claro que a função não precisa anular a beleza — às vezes, é ela que cria o efeito. Construída entre 1794 e 1796 por ordem do rei Jeongjo, a Fortaleza de Hwaseong era política em pedra, parte de um projeto de Estado mais enxuto, mais eficiente e com um toque pessoal: o rei mandou erguê‑la também para homenagear o pai.",
+                "Image": {
+                    "Url": "/th?id=OHR.HwaesongFortress_PT-BR2888838798_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HwaesongFortress_PT-BR2888838798_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "História transitável",
+                "Title": "Muralha da Fortaleza de Hwaseong, Suwon, Coreia do Sul",
+                "Copyright": "© aomam/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260528_HwaesongFortress\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Fortaleza+de+Hwaseong&form=hpcapt&filters=HpDate:\"20260528_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260528_HwaesongFortress"
+            },
+            "Ssd": "20260528",
+            "Name": "HwaesongFortress",
+            "Market": "PT-BR",
+            "Hash": "2888838798",
+            "FullDateString": "28 mai. 2026"
+        }
+    },
+    {
         "startdate": "20260527",
         "fullstartdate": "202605270300",
         "enddate": "20260528",

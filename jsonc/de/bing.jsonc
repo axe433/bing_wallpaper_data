@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260528",
+        "fullstartdate": "202605282200",
+        "enddate": "20260529",
+        "url": "/th?id=OHR.SummitEverest_DE-DE3618626129_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SummitEverest_DE-DE3618626129",
+        "copyright": "Gipfel des Mount Everest, Sagarmatha-Nationalpark, Nepal (© fotoVoyager/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mt+Everest+Erstbesteigung+1953&form=hpcapt&filters=HpDate%3a%2220260528_2200%22",
+        "title": "Ein Gipfelmoment der Geschichte",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260528_SummitEverest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "09863f4d322621c4e140f6838bc93b69",
+        "hsh": "99b7b66542eb10ba058c3d557abd8872",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Der 29. Mai 1953 markierte einen Wendepunkt in der Geschichte des Mount Everest im nepalesischen Sagarmatha-Nationalpark. Nach wochenlangem Aufstieg erreichten der Neuseeländer Edmund Hillary und der Sherpa Tenzing Norgay den Gipfel in rund 8.848 Metern Höhe. Ihr Erfolg ging als Meilenstein des Bergsteigens in die Geschichte ein.",
+                "Image": {
+                    "Url": "/th?id=OHR.SummitEverest_DE-DE3618626129_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SummitEverest_DE-DE3618626129_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ein Gipfelmoment der Geschichte",
+                "Title": "Gipfel des Mount Everest, Sagarmatha-Nationalpark, Nepal",
+                "Copyright": "© fotoVoyager/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/27.980471,86.880623/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=27.980471,86.880623;S9;Mount Everest, Sagarmatha-Nationalpark, Distrikt Solukhumbu, Nepal&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260529_SummitEverest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Mt+Everest+Erstbesteigung+1953&form=hpcapt&filters=HpDate:\"20260528_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260529_SummitEverest"
+            },
+            "Ssd": "20260529",
+            "Name": "SummitEverest",
+            "Market": "DE-DE",
+            "Hash": "3618626129",
+            "FullDateString": "29. Mai. 2026"
+        }
+    },
+    {
         "startdate": "20260527",
         "fullstartdate": "202605272200",
         "enddate": "20260528",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260528",
+        "fullstartdate": "202605282200",
+        "enddate": "20260529",
+        "url": "/th?id=OHR.SummitEverest_IT-IT4333407961_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SummitEverest_IT-IT4333407961",
+        "copyright": "Monte Everest, parco nazionale di Sagarmatha, Nepal (© fotoVoyager/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parco+nazionale+di+Sagarmatha&form=hpcapt",
+        "title": "Al confine del cielo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260528_SummitEverest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "09863f4d322621c4e140f6838bc93b69",
+        "hsh": "3d860a0c5ac9537fa17e6b624b6d49c9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ammirate il Monte Everest mentre si staglia all’orizzonte nel parco nazionale di Sagarmatha, in Nepal, calmo e impassibile. Una vetta considerata inaccessibile fino al 29 maggio 1953, quando quella quiete fu interrotta. Dopo anni di preparativi e settimane di scalata, il neozelandese Edmund Hillary e lo sherpa Tenzing Norgay raggiunsero la cima. Furono i primi a compiere questa impresa.",
+                "Image": {
+                    "Url": "/th?id=OHR.SummitEverest_IT-IT4333407961_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SummitEverest_IT-IT4333407961_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Al confine del cielo",
+                "Title": "Monte Everest, parco nazionale di Sagarmatha, Nepal",
+                "Copyright": "© fotoVoyager/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/27.980471,86.880623/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=27.980471,86.880623;S9;Monte Everest, parco nazionale di Sagarmatha, Solukhumbu, Nepal&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260529_SummitEverest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parco+nazionale+di+Sagarmatha&form=hpcapt&filters=HpDate:\"20260528_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260529_SummitEverest"
+            },
+            "Ssd": "20260529",
+            "Name": "SummitEverest",
+            "Market": "IT-IT",
+            "Hash": "4333407961",
+            "FullDateString": "29 maggio 2026"
+        }
+    },
+    {
         "startdate": "20260527",
         "fullstartdate": "202605272200",
         "enddate": "20260528",
