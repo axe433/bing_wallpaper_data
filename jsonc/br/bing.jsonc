@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260529",
+        "fullstartdate": "202605290300",
+        "enddate": "20260530",
+        "url": "/th?id=OHR.SummitEverest_PT-BR8310035958_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SummitEverest_PT-BR8310035958",
+        "copyright": "Topo do Monte Everest, Parque Nacional de Sagarmatha, Nepal (© fotoVoyager/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=primeira+escalada+Everest&form=hpcapt&mkt=pt-br",
+        "title": "Subir é verbo coletivo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260529_SummitEverest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "09863f4d322621c4e140f6838bc93b69",
+        "hsh": "019f7691776cf6626d63ee715736c865",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Quando a noite cai no Parque Nacional de Sagarmatha, no Nepal, o Monte Everest parece suspenso no tempo. Mas em 29 de maio de 1953, essa tranquilidade foi quebrada. Após anos de planejamento e semanas de escalada, Edmund Hillary e o sherpa Tenzing Norgay chegaram ao topo do ponto mais alto do planeta, quase 9 mil metros acima do nível do mar.",
+                "Image": {
+                    "Url": "/th?id=OHR.SummitEverest_PT-BR8310035958_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SummitEverest_PT-BR8310035958_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Subir é verbo coletivo",
+                "Title": "Topo do Monte Everest, Parque Nacional de Sagarmatha, Nepal",
+                "Copyright": "© fotoVoyager/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260529_SummitEverest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=primeira+escalada+Everest&form=hpcapt&filters=HpDate:\"20260529_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260529_SummitEverest"
+            },
+            "Ssd": "20260529",
+            "Name": "SummitEverest",
+            "Market": "PT-BR",
+            "Hash": "8310035958",
+            "FullDateString": "29 mai. 2026"
+        }
+    },
+    {
         "startdate": "20260528",
         "fullstartdate": "202605280300",
         "enddate": "20260529",

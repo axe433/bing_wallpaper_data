@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260529",
+        "fullstartdate": "202605292300",
+        "enddate": "20260530",
+        "url": "/th?id=OHR.EquusQuagga_EN-GB1868293768_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EquusQuagga_EN-GB1868293768",
+        "copyright": "Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Plains+zebras&form=hpcapt&filters=HpDate%3a%2220260529_2300%22",
+        "title": "Reading between the lines",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260529_EquusQuagga%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "663c30df0b708e36db8e06f37ac0053b",
+        "hsh": "534e8dc328b4b8604515b7c1d091a6ad",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Etosha National Park, Namibia, is not a place for soft starts, and the plains zebra foal in this image seems to get the memo. In a land this vast—nearly 8,600 square miles of salt pans and grassland—timing is everything, and hesitation is expensive. Lions, spotted hyenas, wild dogs, cheetahs and leopards constantly pressure the herd—especially the youngest—so zebras are born ready. Minutes after arrival, they're upright. Hours later, they're moving.",
+                "Image": {
+                    "Url": "/th?id=OHR.EquusQuagga_EN-GB1868293768_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EquusQuagga_EN-GB1868293768_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Reading between the lines",
+                "Title": "Plains zebra foal in Etosha National Park, Namibia",
+                "Copyright": "© Sharon Heald/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-18.98073,15.762634/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=-18.98073,15.762634;S9;Etosha National Park, Namibia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260530_EquusQuagga\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Plains+zebras&form=hpcapt&filters=HpDate:\"20260529_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260530_EquusQuagga"
+            },
+            "Ssd": "20260530",
+            "Name": "EquusQuagga",
+            "Market": "EN-GB",
+            "Hash": "1868293768",
+            "FullDateString": "30 May 2026"
+        }
+    },
+    {
         "startdate": "20260528",
         "fullstartdate": "202605282300",
         "enddate": "20260529",
