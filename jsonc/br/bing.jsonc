@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260530",
+        "fullstartdate": "202605300300",
+        "enddate": "20260531",
+        "url": "/th?id=OHR.EquusQuagga_PT-BR5698040013_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EquusQuagga_PT-BR5698040013",
+        "copyright": "Filhote de zebra-da-planície no Parque Nacional Etosha, Namíbia (© Sharon Heald/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=zebra+da+planicie&form=hpcapt&mkt=pt-br",
+        "title": "Lendo nas entrelinhas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260530_EquusQuagga%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "663c30df0b708e36db8e06f37ac0053b",
+        "hsh": "e2c82413d7425171fb8bfe1fad150e6c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "O Parque Nacional de Etosha, na Namíbia, não é lugar para hesitação — e o filhote de zebra‑da‑planície da imagem parece saber disso desde o primeiro minuto. Em um território imenso, com quase 22 mil km² de salinas e savanas abertas, o tempo cobra caro. Leões, hienas‑malhadas, cães‑selvagens, guepardos e leopardos pressionam o rebanho o tempo todo, especialmente os recém‑chegados. Por isso, zebras nascem prontas. Minutos depois do parto, estão de pé. Horas depois, já acompanham o grupo.",
+                "Image": {
+                    "Url": "/th?id=OHR.EquusQuagga_PT-BR5698040013_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EquusQuagga_PT-BR5698040013_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Lendo nas entrelinhas",
+                "Title": "Filhote de zebra-da-planície no Parque Nacional Etosha, Namíbia",
+                "Copyright": "© Sharon Heald/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260530_EquusQuagga\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=zebra+da+planicie&form=hpcapt&filters=HpDate:\"20260530_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260530_EquusQuagga"
+            },
+            "Ssd": "20260530",
+            "Name": "EquusQuagga",
+            "Market": "PT-BR",
+            "Hash": "5698040013",
+            "FullDateString": "30 mai. 2026"
+        }
+    },
+    {
         "startdate": "20260529",
         "fullstartdate": "202605290300",
         "enddate": "20260530",

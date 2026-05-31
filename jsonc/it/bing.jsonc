@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260530",
+        "fullstartdate": "202605302200",
+        "enddate": "20260531",
+        "url": "/th?id=OHR.EvergladesWetlands_IT-IT8250643798_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EvergladesWetlands_IT-IT8250643798",
+        "copyright": "Vista aerea del parco nazionale delle Everglades, Florida, USA (© Tetra Images/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Zone+umide&form=hpcapt",
+        "title": "Equilibrio naturale",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260530_EvergladesWetlands%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "df7cb0bdf7a2ba24ad15ba88eaf00cdc",
+        "hsh": "44b8b9668ec1d0a69d48a73647caf455",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Pochi luoghi mostrano la forza delle zone umide quanto il parco nazionale delle Everglades. Vista dall’alto, questa area iconica dello stato americano della Florida appare come un vasto mosaico di acque basse, praterie di sawgrass, mangrovie e canali sinuosi, modellati dal lento scorrere dell’acqua dolce proveniente dal lago Okeechobee.",
+                "Image": {
+                    "Url": "/th?id=OHR.EvergladesWetlands_IT-IT8250643798_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EvergladesWetlands_IT-IT8250643798_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Equilibrio naturale",
+                "Title": "Vista aerea del parco nazionale delle Everglades, Florida, USA",
+                "Copyright": "© Tetra Images/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/25.286623,-80.898659/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=25.286623,-80.898659;S9;Parco nazionale delle Everglades, Florida, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260531_EvergladesWetlands\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Zone+umide&form=hpcapt&filters=HpDate:\"20260530_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260531_EvergladesWetlands"
+            },
+            "Ssd": "20260531",
+            "Name": "EvergladesWetlands",
+            "Market": "IT-IT",
+            "Hash": "8250643798",
+            "FullDateString": "31 maggio 2026"
+        }
+    },
+    {
         "startdate": "20260529",
         "fullstartdate": "202605292200",
         "enddate": "20260530",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260530",
+        "fullstartdate": "202605302200",
+        "enddate": "20260531",
+        "url": "/th?id=OHR.RapeseedField_DE-DE3303026116_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RapeseedField_DE-DE3303026116",
+        "copyright": "Rapsfelder vor der Festung Königstein, Sächsische Schweiz, Sachsen (© Frank Bienewald/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Festung+K%C3%B6nigstein&form=hpcapt&filters=HpDate%3a%2220260530_2200%22",
+        "title": "Gelb, soweit das Auge reicht",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260530_RapeseedField%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "9e19482c03e1babbd0e441580d3d3dcf",
+        "hsh": "ef779c3ce1b9db8cf14bfc1bc8886464",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Im späten Frühling verwandelt sich die Landschaft in vielen Regionen Deutschlands in ein leuchtendes Gelb. Blühende Rapsfelder prägen dann das Bild und bieten einen eindrucksvollen Anblick, der die Bedeutung dieser Kulturpflanze unterstreicht. Raps liefert nicht nur wertvolles Öl, sondern dient auch zahlreichen Insekten, darunter Bienen und andere Bestäuber, als wichtige Nahrungsquelle. Für wenige Wochen stehen die Felder in voller Blüte und lassen ganze Landstriche wie ein strahlendes Farbenmeer erscheinen.",
+                "Image": {
+                    "Url": "/th?id=OHR.RapeseedField_DE-DE3303026116_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RapeseedField_DE-DE3303026116_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Gelb, soweit das Auge reicht",
+                "Title": "Rapsfelder vor der Festung Königstein, Sächsische Schweiz, Sachsen",
+                "Copyright": "© Frank Bienewald/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.919329,14.057283/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=50.919329,14.057283;S9;Festung Königstein, Sächsische Schweiz, Sachsen&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260531_RapeseedField\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Festung+K%c3%b6nigstein&form=hpcapt&filters=HpDate:\"20260530_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260531_RapeseedField"
+            },
+            "Ssd": "20260531",
+            "Name": "RapeseedField",
+            "Market": "DE-DE",
+            "Hash": "3303026116",
+            "FullDateString": "31. Mai. 2026"
+        }
+    },
+    {
         "startdate": "20260529",
         "fullstartdate": "202605292200",
         "enddate": "20260530",

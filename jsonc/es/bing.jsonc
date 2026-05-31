@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260530",
+        "fullstartdate": "202605302200",
+        "enddate": "20260531",
+        "url": "/th?id=OHR.EvergladesWetlands_ES-ES0912999305_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EvergladesWetlands_ES-ES0912999305",
+        "copyright": "Vista aérea del Parque Nacional de los Everglades, Florida, EE. UU. (© Tetra Images/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+de+los+Everglades&form=hpcapt&filters=HpDate%3a%2220260530_2200%22",
+        "title": "Naturaleza en estado puro",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260530_EvergladesWetlands%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "df7cb0bdf7a2ba24ad15ba88eaf00cdc",
+        "hsh": "1c7ddf2ab38a680adf2063972fb5760b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El Parque Nacional de los Everglades se extiende por el sur de Florida, en Estados Unidos, como un inmenso mosaico de humedales donde el agua define el paisaje. Ríos lentos, marismas y manglares crean un entorno único que alberga una extraordinaria diversidad de fauna y flora. Aquí conviven caimanes, manatíes y decenas de especies de aves en un equilibrio delicado forjado durante miles de años. Este espacio protegido conserva ecosistemas subtropicales clave y funciona como regulador natural del agua dulce.",
+                "Image": {
+                    "Url": "/th?id=OHR.EvergladesWetlands_ES-ES0912999305_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EvergladesWetlands_ES-ES0912999305_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Naturaleza en estado puro",
+                "Title": "Vista aérea del Parque Nacional de los Everglades, Florida, EE. UU.",
+                "Copyright": "© Tetra Images/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/25.286623,-80.898659/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=25.286623,-80.898659;S9;Parque Nacional de los Everglades, Florida, EE. UU.&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260531_EvergladesWetlands\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parque+Nacional+de+los+Everglades&form=hpcapt&filters=HpDate:\"20260530_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260531_EvergladesWetlands"
+            },
+            "Ssd": "20260531",
+            "Name": "EvergladesWetlands",
+            "Market": "ES-ES",
+            "Hash": "0912999305",
+            "FullDateString": "31 de may de 2026"
+        }
+    },
+    {
         "startdate": "20260529",
         "fullstartdate": "202605292200",
         "enddate": "20260530",
