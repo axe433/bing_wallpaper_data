@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260531",
+        "fullstartdate": "202605312200",
+        "enddate": "20260601",
+        "url": "/th?id=OHR.DunseverickCastle2026_IT-IT6990234859_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DunseverickCastle2026_IT-IT6990234859",
+        "copyright": "Castello di Dunseverick, contea di Antrim, Irlanda del Nord (© Krzysztof Rogalski/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Contea+di+Antrim&form=hpcapt",
+        "title": "Contro vento, onde e tempo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260531_DunseverickCastle2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3112a0bbb0a923f8715508380cecfe8c",
+        "hsh": "b974d6cc842abefd202a8407a247dc70",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Al castello di Dunseverick la storia resiste, letteralmente. Frammenti di mura si aggrappano a uno sperone di basalto sospeso sull’Atlantico. Duemila anni fa questo luogo segnava la fine della Slige Midluachra, una delle cinque grandi strade d’Irlanda del Nord, e guidava i viaggiatori fino alla sede reale sulla collina di Tara. Nel V secolo si narra che San Patrizio passò di qui, e che proprio qui battezzò un uomo del posto, Olcán. La tradizione racconta anche che la Lia Fáil, la Pietra del Destino usata per incoronare i re irlandesi, partì da questa riva verso la Scozia.",
+                "Image": {
+                    "Url": "/th?id=OHR.DunseverickCastle2026_IT-IT6990234859_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DunseverickCastle2026_IT-IT6990234859_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Contro vento, onde e tempo",
+                "Title": "Castello di Dunseverick, contea di Antrim, Irlanda del Nord",
+                "Copyright": "© Krzysztof Rogalski/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/55.238358,-6.448198/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=55.238358,-6.448198;S9;Castello di Dunseverick, contea di Antrim, Irlanda del Nord&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260601_DunseverickCastle2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Contea+di+Antrim&form=hpcapt&filters=HpDate:\"20260531_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260601_DunseverickCastle2026"
+            },
+            "Ssd": "20260601",
+            "Name": "DunseverickCastle2026",
+            "Market": "IT-IT",
+            "Hash": "6990234859",
+            "FullDateString": "1 giugno 2026"
+        }
+    },
+    {
         "startdate": "20260530",
         "fullstartdate": "202605302200",
         "enddate": "20260531",

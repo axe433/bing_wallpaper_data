@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260531",
+        "fullstartdate": "202605312200",
+        "enddate": "20260601",
+        "url": "/th?id=OHR.OlivaPalermo_DE-DE3024542120_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OlivaPalermo_DE-DE3024542120",
+        "copyright": "Skyline von Palermo in der Abenddämmerung, Sizilien, Italien (© Sean Pavone/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Palermo+Sizilien&form=hpcapt&filters=HpDate%3a%2220260531_2200%22",
+        "title": "Geschichten aus Stein und Zeit",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260531_OlivaPalermo%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "89938c673479d0c36d809bacc28259d5",
+        "hsh": "e15da4e9d4d5987b13883e4add2de216",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Wenn sich am Abend die Lichter über Palermo einschalten, wirkt die Stadt wie ein Mosaik aus Zeiten und Kulturen. Zwischen Meer und Bergen entfaltet sich eine Kulisse, in der sich Geschichte nicht nur betrachten, sondern regelrecht „lesen“ lässt – Schicht für Schicht, wie in einem vielschichtigen Gemälde.",
+                "Image": {
+                    "Url": "/th?id=OHR.OlivaPalermo_DE-DE3024542120_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OlivaPalermo_DE-DE3024542120_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Geschichten aus Stein und Zeit",
+                "Title": "Skyline von Palermo in der Abenddämmerung, Sizilien, Italien",
+                "Copyright": "© Sean Pavone/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.121254,13.359494/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=38.121254,13.359494;S9;Palermo, Sizilien, Italien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260601_OlivaPalermo\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Palermo+Sizilien&form=hpcapt&filters=HpDate:\"20260531_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260601_OlivaPalermo"
+            },
+            "Ssd": "20260601",
+            "Name": "OlivaPalermo",
+            "Market": "DE-DE",
+            "Hash": "3024542120",
+            "FullDateString": "1. Juni. 2026"
+        }
+    },
+    {
         "startdate": "20260530",
         "fullstartdate": "202605302200",
         "enddate": "20260531",

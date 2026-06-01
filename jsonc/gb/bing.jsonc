@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260531",
+        "fullstartdate": "202605312300",
+        "enddate": "20260601",
+        "url": "/th?id=OHR.OlivaPalermo_EN-GB8668911302_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OlivaPalermo_EN-GB8668911302",
+        "copyright": "Palermo skyline, Sicily, Italy (© Sean Pavone/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Palermo&form=hpcapt&filters=HpDate%3a%2220260531_2300%22",
+        "title": "Flavours of history",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260531_OlivaPalermo%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "89938c673479d0c36d809bacc28259d5",
+        "hsh": "97103db5a316db4015923b6e4497ebe8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Palermo, the capital of the island of Sicily in southern Italy, is a city where layers of history, art and culture meet in a vivid and sometimes chaotic harmony. Founded by the Phoenicians and later shaped by Romans, Arabs, Normans and Spaniards, it carries traces of many civilisations that passed through the Mediterranean. This rich past is visible in its architecture, from the Arab-Norman palaces and churches recognised by UNESCO to the Baroque facades that define its historic streets.",
+                "Image": {
+                    "Url": "/th?id=OHR.OlivaPalermo_EN-GB8668911302_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OlivaPalermo_EN-GB8668911302_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Flavours of history",
+                "Title": "Palermo skyline, Sicily, Italy",
+                "Copyright": "© Sean Pavone/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.121254,13.359494/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=38.121254,13.359494;S9;Palermo, Sicily, Italy&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260601_OlivaPalermo\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Palermo&form=hpcapt&filters=HpDate:\"20260531_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260601_OlivaPalermo"
+            },
+            "Ssd": "20260601",
+            "Name": "OlivaPalermo",
+            "Market": "EN-GB",
+            "Hash": "8668911302",
+            "FullDateString": "1 Jun 2026"
+        }
+    },
+    {
         "startdate": "20260530",
         "fullstartdate": "202605302300",
         "enddate": "20260531",
