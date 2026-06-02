@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260601",
+        "fullstartdate": "202606010700",
+        "enddate": "20260602",
+        "url": "/th?id=OHR.OlivaPalermo_ROW4355319130_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OlivaPalermo_ROW4355319130",
+        "copyright": "Palermo skyline at dusk, Sicily, Italy (© Sean Pavone/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Palermo&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260601_OlivaPalermo%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "89938c673479d0c36d809bacc28259d5",
+        "hsh": "83ced0f86dd4cc9536e9e06f536d2d9c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Palermo, the capital of the island of Sicily in southern Italy, is a city where layers of history, art and culture meet in a vivid and sometimes chaotic harmony. Founded by the Phoenicians and later shaped by Romans, Arabs, Normans and Spaniards, it carries traces of many civilisations that passed through the Mediterranean. This rich past is visible in its architecture, from the Arab-Norman palaces and churches recognised by UNESCO to the Baroque facades that define its historic streets.",
+                "Image": {
+                    "Url": "/th?id=OHR.OlivaPalermo_ROW4355319130_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OlivaPalermo_ROW4355319130_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Palermo skyline at dusk, Sicily, Italy",
+                "Copyright": "© Sean Pavone/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260601_OlivaPalermo\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Palermo&form=hpcapt&filters=HpDate:\"20260601_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260601_OlivaPalermo"
+            },
+            "Ssd": "20260601",
+            "Name": "OlivaPalermo",
+            "Market": "ROW",
+            "Hash": "4355319130",
+            "FullDateString": "1. jun. 2026"
+        }
+    },
+    {
         "startdate": "20260531",
         "fullstartdate": "202605310700",
         "enddate": "20260601",

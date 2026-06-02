@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260601",
+        "fullstartdate": "202606012200",
+        "enddate": "20260602",
+        "url": "/th?id=OHR.Qinghai_DE-DE2779615258_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Qinghai_DE-DE2779615258",
+        "copyright": "Straße durch den Xitai-Jinaier-See, Provinz Qinghai, China (© Kaicheng Xu/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Qaidam+Becken+China&form=hpcapt&filters=HpDate%3a%2220260601_2200%22",
+        "title": "Wo der Weg das Wasser teilt",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260601_Qinghai%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2eee06ed85916200a0fbe9d16a7ca17a",
+        "hsh": "23ffa29104770ebcabef1042bc65df1d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Wie eine surreal wirkende Linie zieht sich eine Straße durch den Xitai-Jinaier-See im Westen Chinas. Der Salzsee, auch als West Taijinar Lake bekannt, liegt im abgelegenen Qaidam-Becken auf über 2.600 Metern Höhe. Ein Abschnitt der Nationalstraße 315 verläuft direkt durch das seichte Wasser und erzeugt den Eindruck, als würde die Fahrbahn zwischen zwei Farben schweben. Auf der einen Seite schimmert das Wasser tiefblau, auf der anderen in grün‑türkisen Tönen – ein Kontrast, der durch unterschiedliche Mineralkonzentrationen entsteht, etwa durch variierende Salz- und Lithiumgehalte im Wasser.",
+                "Image": {
+                    "Url": "/th?id=OHR.Qinghai_DE-DE2779615258_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Qinghai_DE-DE2779615258_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Wo der Weg das Wasser teilt",
+                "Title": "Straße durch den Xitai-Jinaier-See, Provinz Qinghai, China",
+                "Copyright": "© Kaicheng Xu/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.668594,96.043144/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=35.668594,96.043144;S9;Provinz Qinghai, China&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260602_Qinghai\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Qaidam+Becken+China&form=hpcapt&filters=HpDate:\"20260601_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260602_Qinghai"
+            },
+            "Ssd": "20260602",
+            "Name": "Qinghai",
+            "Market": "DE-DE",
+            "Hash": "2779615258",
+            "FullDateString": "2. Juni. 2026"
+        }
+    },
+    {
         "startdate": "20260531",
         "fullstartdate": "202605312200",
         "enddate": "20260601",

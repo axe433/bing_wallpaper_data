@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260601",
+        "fullstartdate": "202606012200",
+        "enddate": "20260602",
+        "url": "/th?id=OHR.ItaliaRepubblica_IT-IT5373102949_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ItaliaRepubblica_IT-IT5373102949",
+        "copyright": "Colonna Traiana, Roma, Lazio (© Domingo Leiva/Moment/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Festa+della+Repubblica&form=hpcapt",
+        "title": "Viva la Repubblica",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260601_ItaliaRepubblica%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "17d7182fca5b197c20cbb3b4ca3084f8",
+        "hsh": "cad9f99c7e185f2b96419e77d967de3e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Il 2 giugno è la Festa della Repubblica, una ricorrenza che celebra la nascita dell’Italia democratica. Nel 1946, con un referendum istituzionale, gli italiani e le italiane furono chiamati a scegliere la forma dello Stato, segnando l’inizio di una nuova stagione politica e civile. Oggi questa giornata è l’occasione per ricordare il valore della partecipazione, della libertà e della responsabilità condivisa. Dalle cerimonie ufficiali alle iniziative locali, il Paese si ferma per riflettere sul percorso compiuto e sulle sfide ancora aperte.",
+                "Image": {
+                    "Url": "/th?id=OHR.ItaliaRepubblica_IT-IT5373102949_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ItaliaRepubblica_IT-IT5373102949_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Viva la Repubblica",
+                "Title": "Colonna Traiana, Roma, Lazio",
+                "Copyright": "© Domingo Leiva/Moment/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.896201,12.484324/10?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=41.896201,12.484324;S9;Colonna Traiana, Roma, Lazio&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260602_ItaliaRepubblica\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Festa+della+Repubblica&form=hpcapt&filters=HpDate:\"20260601_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260602_ItaliaRepubblica"
+            },
+            "Ssd": "20260602",
+            "Name": "ItaliaRepubblica",
+            "Market": "IT-IT",
+            "Hash": "5373102949",
+            "FullDateString": "2 giugno 2026"
+        }
+    },
+    {
         "startdate": "20260531",
         "fullstartdate": "202605312200",
         "enddate": "20260601",

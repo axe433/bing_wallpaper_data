@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260601",
+        "fullstartdate": "202606011600",
+        "enddate": "20260602",
+        "url": "/th?id=OHR.Qinghai_ZH-CN9899656327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Qinghai_ZH-CN9899656327",
+        "copyright": "穿越西台吉乃尔湖的公路，青海省，中国 (© Kaicheng Xu/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9F%B4%E8%BE%BE%E6%9C%A8%E7%9B%86%E5%9C%B0&form=hpcapt&mkt=zh-cn",
+        "title": "穿行于蓝色之间",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260601_Qinghai%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2eee06ed85916200a0fbe9d16a7ca17a",
+        "hsh": "517ab01bc515a94d6619be1259b11e38",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "在青藏高原北缘、中国西部的荒漠之中，西台吉乃尔湖以一种超现实的姿态横跨在偏远的柴达木盆地。315国道的一段延伸线直接纵贯其浅水区，营造出一种公路悬浮于两个世界之间的视觉错觉。受卤水中矿物质浓度差异的影响，湖水呈现出鲜明的对比：一侧常显深邃的蓝色，另一侧则呈现柔和的绿色。",
+                "Image": {
+                    "Url": "/th?id=OHR.Qinghai_ZH-CN9899656327_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Qinghai_ZH-CN9899656327_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "穿行于蓝色之间",
+                "Title": "穿越西台吉乃尔湖的公路，青海省，中国",
+                "Copyright": "© Kaicheng Xu/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "这种独特的“双色湖”现象源于公路的阻隔作用。虽然湖水两侧均富含锂、铜、镁等矿物元素，但由于两侧的蒸发速率与水深各异，导致其对光的吸收与折射产生了明显的物理差异。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260602_Qinghai\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e4%b8%ad%e5%9b%bd%e6%9f%b4%e8%be%be%e6%9c%a8%e7%9b%86%e5%9c%b0&form=hpcapt&filters=HpDate:\"20260601_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260602_Qinghai"
+            },
+            "Ssd": "20260602",
+            "Name": "Qinghai",
+            "Market": "ZH-CN",
+            "Hash": "9899656327",
+            "FullDateString": "2026 6月 2"
+        }
+    },
+    {
         "startdate": "20260531",
         "fullstartdate": "202605311600",
         "enddate": "20260601",
