@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260602",
+        "fullstartdate": "202606022200",
+        "enddate": "20260603",
+        "url": "/th?id=OHR.BardenasReales_FR-FR5179078081_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BardenasReales_FR-FR5179078081",
+        "copyright": "Cycliste dans le parc naturel des Bardenas Reales, Navarre, Espagne (© Artur Debat/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+mondiale+de+la+bicyclette&form=hpcapt&filters=HpDate%3a%2220260602_2200%22",
+        "title": "Quand on partait de bon matin...",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260602_BardenasReales%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4793bcfc198501f79aad037d94c51fb6",
+        "hsh": "d1958b8153f79483d5a3085f65050318",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Votre trajet quotidien n’a sans doute rien à voir avec celui de l’image du jour, mais il mérite tout autant d’être parcouru à vélo. La Journée mondiale de la bicyclette, célébrée chaque 3 juin sous l’égide de l’ONU, invite à repenser nos déplacements : plus sains, moins polluants et accessibles à tous — sur deux roues.",
+                "Image": {
+                    "Url": "/th?id=OHR.BardenasReales_FR-FR5179078081_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BardenasReales_FR-FR5179078081_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Quand on partait de bon matin...",
+                "Title": "Cycliste dans le parc naturel des Bardenas Reales, Navarre, Espagne",
+                "Copyright": "© Artur Debat/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/42.210213,-1.515728/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=42.210213,-1.515728;S9;Las Bardenas Reales, Navarre, Espagne&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260603_BardenasReales\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Journ%c3%a9e+mondiale+de+la+bicyclette&form=hpcapt&filters=HpDate:\"20260602_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260603_BardenasReales"
+            },
+            "Ssd": "20260603",
+            "Name": "BardenasReales",
+            "Market": "FR-FR",
+            "Hash": "5179078081",
+            "FullDateString": "3 juin 2026"
+        }
+    },
+    {
         "startdate": "20260601",
         "fullstartdate": "202606012200",
         "enddate": "20260602",

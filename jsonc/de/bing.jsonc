@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260602",
+        "fullstartdate": "202606022200",
+        "enddate": "20260603",
+        "url": "/th?id=OHR.BardenasReales_DE-DE2578527889_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BardenasReales_DE-DE2578527889",
+        "copyright": "Radfahrer in den Bardenas Reales, einem Naturpark und Biosphärenreservat in Navarra, Spanien (© Artur Debat/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Weltfahrradtag&form=hpcapt&filters=HpDate%3a%2220260602_2200%22",
+        "title": "Wo die Straße endet, beginnt das Abenteuer",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260602_BardenasReales%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4793bcfc198501f79aad037d94c51fb6",
+        "hsh": "9d5790ac089588987777e06ecd81f05d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ihr Arbeitsweg mag anders aussehen als die Szene in unserem heutigen Bild – doch auch in Deutschland gehört das Fahrrad längst zum Alltag. Aktuelle Studien zeigen, dass immer mehr Menschen regelmäßig aufs Rad steigen, sei es für den Weg zur Arbeit, kurze Erledigungen oder Ausflüge ins Grüne. Am Weltfahrradtag am 3. Juni geht es darum, Mobilität neu zu denken und vertraute Strecken anders zu erleben.",
+                "Image": {
+                    "Url": "/th?id=OHR.BardenasReales_DE-DE2578527889_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BardenasReales_DE-DE2578527889_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Wo die Straße endet, beginnt das Abenteuer",
+                "Title": "Radfahrer in den Bardenas Reales, einem Naturpark und Biosphärenreservat in Navarra, Spanien",
+                "Copyright": "© Artur Debat/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/42.210213,-1.515728/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=42.210213,-1.515728;S9;Bardenas Reales, Navarra, Spanien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260603_BardenasReales\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Weltfahrradtag&form=hpcapt&filters=HpDate:\"20260602_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260603_BardenasReales"
+            },
+            "Ssd": "20260603",
+            "Name": "BardenasReales",
+            "Market": "DE-DE",
+            "Hash": "2578527889",
+            "FullDateString": "3. Juni. 2026"
+        }
+    },
+    {
         "startdate": "20260601",
         "fullstartdate": "202606012200",
         "enddate": "20260602",

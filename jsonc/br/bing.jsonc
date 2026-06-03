@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260602",
+        "fullstartdate": "202606020300",
+        "enddate": "20260603",
+        "url": "/th?id=OHR.Qinghai_PT-BR7641710566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Qinghai_PT-BR7641710566",
+        "copyright": "Rodovia sobre o lago Xitai Jinaier, província de Qinghai, China (© Kaicheng Xu/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Qinghai+China&form=hpcapt&mkt=pt-br",
+        "title": "Uma passagem flutuante",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260602_Qinghai%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2eee06ed85916200a0fbe9d16a7ca17a",
+        "hsh": "c14119695026d0ecd73def7fbc5a2018",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "No meio da Bacia do Qaidam, no oeste da China, o Lago Xitai Jinaier parece ter sido desenhado para desafiar a lógica. O lago salino de alta altitude que vemos na imagem é recortado pela Rodovia Nacional 315, que passa direto por suas águas pouco profundas. O efeito é imediato: asfalto flutuante, deserto ao redor e uma superfície dividida em cores improváveis.",
+                "Image": {
+                    "Url": "/th?id=OHR.Qinghai_PT-BR7641710566_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Qinghai_PT-BR7641710566_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Uma passagem flutuante",
+                "Title": "Rodovia sobre o lago Xitai Jinaier, província de Qinghai, China",
+                "Copyright": "© Kaicheng Xu/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260602_Qinghai\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Qinghai+China&form=hpcapt&filters=HpDate:\"20260602_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260602_Qinghai"
+            },
+            "Ssd": "20260602",
+            "Name": "Qinghai",
+            "Market": "PT-BR",
+            "Hash": "7641710566",
+            "FullDateString": "2 jun. 2026"
+        }
+    },
+    {
         "startdate": "20260601",
         "fullstartdate": "202606010300",
         "enddate": "20260602",

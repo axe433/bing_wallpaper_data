@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260602",
+        "fullstartdate": "202606022200",
+        "enddate": "20260603",
+        "url": "/th?id=OHR.BardenasReales_IT-IT5937080217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BardenasReales_IT-IT5937080217",
+        "copyright": "Ciclista nel parco naturale e riserva della biosfera delle Bardenas Reales, Navarra, Spagna (© Artur Debat/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Giornata+mondiale+della+bicicletta&form=hpcapt",
+        "title": "Oltre i confini",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260602_BardenasReales%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4793bcfc198501f79aad037d94c51fb6",
+        "hsh": "d48cb22768f1fa3b46907e64c5c5d8dc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "L’odierna «Giornata mondiale della bicicletta» invita a ripensare cosa sia possibile su due ruote, tra città e territori più remoti. Celebrata ogni 3 giugno e sostenuta dalle Nazioni Unite, riconosce la bicicletta come un mezzo semplice e concreto, utile per la salute, per ridurre le emissioni e per rendere la mobilità più accessibile. Nell’immagine, un ciclista attraversa il parco naturale delle Bardenas Reales, in Navarra, Spagna, un paesaggio scolpito da vento e acqua nel corso di milioni di anni.",
+                "Image": {
+                    "Url": "/th?id=OHR.BardenasReales_IT-IT5937080217_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BardenasReales_IT-IT5937080217_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Oltre i confini",
+                "Title": "Ciclista nel parco naturale e riserva della biosfera delle Bardenas Reales, Navarra, Spagna",
+                "Copyright": "© Artur Debat/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/42.210213,-1.515728/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=42.210213,-1.515728;S9;Las Bardenas Reales, Navarra, Spagna&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260603_BardenasReales\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Giornata+mondiale+della+bicicletta&form=hpcapt&filters=HpDate:\"20260602_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260603_BardenasReales"
+            },
+            "Ssd": "20260603",
+            "Name": "BardenasReales",
+            "Market": "IT-IT",
+            "Hash": "5937080217",
+            "FullDateString": "3 giugno 2026"
+        }
+    },
+    {
         "startdate": "20260601",
         "fullstartdate": "202606012200",
         "enddate": "20260602",

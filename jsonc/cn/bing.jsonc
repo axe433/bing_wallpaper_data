@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260602",
+        "fullstartdate": "202606021600",
+        "enddate": "20260603",
+        "url": "/th?id=OHR.BardenasReales_ZH-CN0480548935_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BardenasReales_ZH-CN0480548935",
+        "copyright": "骑行者，巴德纳斯雷亚莱斯自然公园与生物圈保护区，纳瓦拉，西班牙 (© Artur Debat/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%97%A5&form=hpcapt&mkt=zh-cn",
+        "title": "路之所止，行之所启",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260602_BardenasReales%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4793bcfc198501f79aad037d94c51fb6",
+        "hsh": "6700d2f2ffa10195590cff04ff0037e9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "虽然日常的通勤之路或许不像今日画面中那般波澜壮阔，但这并不妨碍我们跨上单车，开始蹬踏。在“世界自行车日”到来之际，联合国向全球发出倡议，邀我们重新审视两轮出行的无限可能——无论是在穿梭于现代都市，还是纵贯于偏远荒原。每年的6月3日，这一由联合国发起的国际纪念日旨在认可自行车作为一种务实的出行方式，在促进公众健康、降低碳排放以及提升交通普惠性方面所发挥的关键作用。",
+                "Image": {
+                    "Url": "/th?id=OHR.BardenasReales_ZH-CN0480548935_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BardenasReales_ZH-CN0480548935_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "路之所止，行之所启",
+                "Title": "骑行者，巴德纳斯雷亚莱斯自然公园与生物圈保护区，纳瓦拉，西班牙",
+                "Copyright": "© Artur Debat/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "巴德纳斯雷亚莱斯因其酷似火星地表而闻名，美国国家航空航天局（NASA）的科学家曾利用这里来研究火星地貌是如何在数千年间经受风蚀演化的。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260603_BardenasReales\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e4%b8%96%e7%95%8c%e8%87%aa%e8%a1%8c%e8%bd%a6%e6%97%a5&form=hpcapt&filters=HpDate:\"20260602_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260603_BardenasReales"
+            },
+            "Ssd": "20260603",
+            "Name": "BardenasReales",
+            "Market": "ZH-CN",
+            "Hash": "0480548935",
+            "FullDateString": "2026 6月 3"
+        }
+    },
+    {
         "startdate": "20260601",
         "fullstartdate": "202606011600",
         "enddate": "20260602",
@@ -20,8 +69,8 @@
             "ImageContent": {
                 "Description": "在青藏高原北缘、中国西部的荒漠之中，西台吉乃尔湖以一种超现实的姿态横跨在偏远的柴达木盆地。315国道的一段延伸线直接纵贯其浅水区，营造出一种公路悬浮于两个世界之间的视觉错觉。受卤水中矿物质浓度差异的影响，湖水呈现出鲜明的对比：一侧常显深邃的蓝色，另一侧则呈现柔和的绿色。",
                 "Image": {
-                    "Url": "/th?id=OHR.Qinghai_ZH-CN9899656327_1920x1080.webp",
-                    "Wallpaper": "/th?id=OHR.Qinghai_ZH-CN9899656327_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Url": "/th?id=OHR.Qinghai_ZH-CN7745288142_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Qinghai_ZH-CN7745288142_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
                     "Downloadable": true
                 },
                 "Headline": "穿行于蓝色之间",
@@ -44,7 +93,7 @@
             "Ssd": "20260602",
             "Name": "Qinghai",
             "Market": "ZH-CN",
-            "Hash": "9899656327",
+            "Hash": "7745288142",
             "FullDateString": "2026 6月 2"
         }
     },
