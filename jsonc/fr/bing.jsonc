@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260603",
+        "fullstartdate": "202606032200",
+        "enddate": "20260604",
+        "url": "/th?id=OHR.PreeningEgret_FR-FR5555518390_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PreeningEgret_FR-FR5555518390",
+        "copyright": "Aigrette neigeuse, Floride centrale, États-Unis (© Donald M. Jones/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=aigrette+neigeuse&form=hpcapt&filters=HpDate%3a%2220260603_2200%22",
+        "title": "D’élégantes plumes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260603_PreeningEgret%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0934105add8e263dea74fd4f4d0c5a54",
+        "hsh": "56ca3e5fddbd469e959c65d690e7dff9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nom poétique, allure délicate. L’aigrette neigeuse se distingue par son plumage d’un blanc éclatant et ses étonnantes « pantoufles » jaunes, posées au bout de fines pattes noires. Cette apparence gracieuse a bien failli lui coûter cher : au début du XXᵉ siècle, ses plumes nuptiales, très prisées pour les chapeaux, ont mené l’espèce au bord de la disparition.",
+                "Image": {
+                    "Url": "/th?id=OHR.PreeningEgret_FR-FR5555518390_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PreeningEgret_FR-FR5555518390_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "D'élégantes plumes",
+                "Title": "Aigrette neigeuse, Floride centrale, États-Unis",
+                "Copyright": "© Donald M. Jones/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Les aigrettes neigeuses se nourrissent souvent aux côtés des hérons, profitant de tout mouvement leur permettant de débusquer les proies cachées.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260604_PreeningEgret\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=aigrette+neigeuse&form=hpcapt&filters=HpDate:\"20260603_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260604_PreeningEgret"
+            },
+            "Ssd": "20260604",
+            "Name": "PreeningEgret",
+            "Market": "FR-FR",
+            "Hash": "5555518390",
+            "FullDateString": "4 juin 2026"
+        }
+    },
+    {
         "startdate": "20260602",
         "fullstartdate": "202606022200",
         "enddate": "20260603",

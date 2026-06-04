@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260603",
+        "fullstartdate": "202606032200",
+        "enddate": "20260604",
+        "url": "/th?id=OHR.Qinghai_IT-IT1366157196_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Qinghai_IT-IT1366157196",
+        "copyright": "Strada G315 che attraversa il lago Xitai Jinaier, Qinghai, Cina (© Kaicheng Xu/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Qaidam&form=hpcapt",
+        "title": "Confini liquidi?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260603_Qinghai%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2eee06ed85916200a0fbe9d16a7ca17a",
+        "hsh": "c6392412502868f2dfd98cab59628d53",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Tracciando un percorso quasi surreale tra i deserti d’alta quota della Cina occidentale, il lago Xitai Jinaier (noto anche come West Taijinar Lake) è uno spettacolare lago salato nel remoto bacino di Qaidam. Un tratto della Strada Nazionale 315 attraversa le sue acque basse, creando l’illusione di una strada sospesa tra due mondi. Da un lato, l’acqua si accende di un blu profondo; dall’altro, sfuma in un verde più tenue, un contrasto disegnato dalle diverse concentrazioni minerali della salamoia.",
+                "Image": {
+                    "Url": "/th?id=OHR.Qinghai_IT-IT1366157196_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Qinghai_IT-IT1366157196_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Confini liquidi?",
+                "Title": "Strada G315 che attraversa il lago Xitai Jinaier, Qinghai, Cina",
+                "Copyright": "© Kaicheng Xu/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.668594,96.043144/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=35.668594,96.043144;S9;Provincia del Qinghai, Cina&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260604_Qinghai\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Qaidam&form=hpcapt&filters=HpDate:\"20260603_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260604_Qinghai"
+            },
+            "Ssd": "20260604",
+            "Name": "Qinghai",
+            "Market": "IT-IT",
+            "Hash": "1366157196",
+            "FullDateString": "4 giugno 2026"
+        }
+    },
+    {
         "startdate": "20260602",
         "fullstartdate": "202606022200",
         "enddate": "20260603",
