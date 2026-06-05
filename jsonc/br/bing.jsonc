@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260604",
+        "fullstartdate": "202606040300",
+        "enddate": "20260605",
+        "url": "/th?id=OHR.PreeningEgret_PT-BR8376117124_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PreeningEgret_PT-BR8376117124",
+        "copyright": "Garça-branca-pequena se arrumando, Flórida, EUA (© Donald M. Jones/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=gar%C3%A7a+branca+pequena&form=hpcapt&mkt=pt-br",
+        "title": "Um ícone em branco",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260604_PreeningEgret%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0934105add8e263dea74fd4f4d0c5a54",
+        "hsh": "5109a9c14dcbe2409e6d4f7ffa1f4662",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nome poético, visual inconfundível. A garça-branca-pequena chama atenção pelo branco absoluto das penas e pelos pés amarelos que contrastam com as pernas pretas. Na imagem, ela aparece em um momento de cuidado da plumagem na Flórida, Estados Unidos, um hábito comum também em manguezais, lagoas e rios do Brasil, onde a espécie ocorre amplamente de Norte a Sul.",
+                "Image": {
+                    "Url": "/th?id=OHR.PreeningEgret_PT-BR8376117124_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PreeningEgret_PT-BR8376117124_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Um ícone em branco",
+                "Title": "Garça-branca-pequena se arrumando, Flórida, EUA",
+                "Copyright": "© Donald M. Jones/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260604_PreeningEgret\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=gar%c3%a7a+branca+pequena&form=hpcapt&filters=HpDate:\"20260604_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260604_PreeningEgret"
+            },
+            "Ssd": "20260604",
+            "Name": "PreeningEgret",
+            "Market": "PT-BR",
+            "Hash": "8376117124",
+            "FullDateString": "4 jun. 2026"
+        }
+    },
+    {
         "startdate": "20260603",
         "fullstartdate": "202606030300",
         "enddate": "20260604",

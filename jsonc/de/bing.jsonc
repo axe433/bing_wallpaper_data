@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260604",
+        "fullstartdate": "202606042200",
+        "enddate": "20260605",
+        "url": "/th?id=OHR.WedLapland_DE-DE1297494610_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WedLapland_DE-DE1297494610",
+        "copyright": "Blick vom Skierffe über das Flussdelta des Rapadalen, Nationalpark Sarek, Laponia, Lappland, Schweden (© Robert Haasmann/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Weltumwelttag&form=hpcapt&filters=HpDate%3a%2220260604_2200%22",
+        "title": "Die stille Kraft einer unberührten Welt",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260604_WedLapland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6ce87c690fc6a2ac661c3773e6f54f1c",
+        "hsh": "7b965cf00f94a0ec58e802ca83d14551",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Stellen Sie sich eine Landschaft vor, in der die Natur seit Jahrhunderten ihren eigenen Rhythmus bestimmt – genau das ist der Sarek-Nationalpark. Seit seiner Gründung im Jahr 1909 kommt dieser abgelegene Teil Schwedisch-Lapplands ohne Straßen, Hütten oder markierte Wege aus. Schroffe Gipfel, rund 100 Gletscher und tiefe Täler prägen die Kulisse. Als Teil des UNESCO-Welterbes Laponia ist die Region eng mit der Kultur der Sámi verbunden, deren Rentierherden die Täler bis heute durchziehen.",
+                "Image": {
+                    "Url": "/th?id=OHR.WedLapland_DE-DE1297494610_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WedLapland_DE-DE1297494610_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Die stille Kraft einer unberührten Welt",
+                "Title": "Blick vom Skierffe über das Flussdelta des Rapadalen, Nationalpark Sarek, Laponia, Lappland, Schweden",
+                "Copyright": "© Robert Haasmann/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/67.28834,17.66914/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=67.28834,17.66914;S9;Nationalpark Sarek, Laponia, Lappland, Schweden&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260605_WedLapland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Weltumwelttag&form=hpcapt&filters=HpDate:\"20260604_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260605_WedLapland"
+            },
+            "Ssd": "20260605",
+            "Name": "WedLapland",
+            "Market": "DE-DE",
+            "Hash": "1297494610",
+            "FullDateString": "5. Juni. 2026"
+        }
+    },
+    {
         "startdate": "20260603",
         "fullstartdate": "202606032200",
         "enddate": "20260604",

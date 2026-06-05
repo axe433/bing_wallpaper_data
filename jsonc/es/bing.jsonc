@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260604",
+        "fullstartdate": "202606042200",
+        "enddate": "20260605",
+        "url": "/th?id=OHR.CastillaLaMancha_ES-ES3536382810_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CastillaLaMancha_ES-ES3536382810",
+        "copyright": "Molinos de Consuegra al amanecer, Castilla-La Mancha (© Paulo Costa/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Molinos+de+Consuegra&form=hpcapt&filters=HpDate%3a%2220260604_2200%22",
+        "title": "Horizonte encendido al amanecer",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260604_CastillaLaMancha%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "aaa33697aae80133ea7b3ea30e6c4919",
+        "hsh": "9898bd80c159eac040c4887b11138074",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En la llanura manchega, los molinos de Consuegra se alzan como un símbolo poderoso del paisaje y de la historia de Castilla-La Mancha. Situados sobre el cerro Calderico, dominan el horizonte con sus aspas blancas que evocan escenas del pasado rural y literario. Muchos de estos molinos han sido restaurados y conservan su maquinaria original, lo que permite comprender su función tradicional en la molienda del grano.",
+                "Image": {
+                    "Url": "/th?id=OHR.CastillaLaMancha_ES-ES3536382810_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CastillaLaMancha_ES-ES3536382810_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Horizonte encendido al amanecer",
+                "Title": "Molinos de Consuegra al amanecer, Castilla-La Mancha",
+                "Copyright": "© Paulo Costa/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.4497,-3.6073/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=39.4497,-3.6073;S9;Molinos de Consuegra, Castilla-La Mancha&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260605_CastillaLaMancha\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Molinos+de+Consuegra&form=hpcapt&filters=HpDate:\"20260604_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260605_CastillaLaMancha"
+            },
+            "Ssd": "20260605",
+            "Name": "CastillaLaMancha",
+            "Market": "ES-ES",
+            "Hash": "3536382810",
+            "FullDateString": "5 de jun de 2026"
+        }
+    },
+    {
         "startdate": "20260603",
         "fullstartdate": "202606032200",
         "enddate": "20260604",
