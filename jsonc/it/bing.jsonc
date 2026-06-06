@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260605",
+        "fullstartdate": "202606052200",
+        "enddate": "20260606",
+        "url": "/th?id=OHR.HikingNatchez_IT-IT7003362282_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HikingNatchez_IT-IT7003362282",
+        "copyright": "Natchez Trace Parkway, Tupelo, Mississippi, USA (© The best photo is earned/Getty Images Plus)",
+        "copyrightlink": "https://www.bing.com/search?q=Tupelo+Mississippi&form=hpcapt",
+        "title": "Passo dopo passo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260605_HikingNatchez%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "77e048594a0fb75c393e658b2e0e4dca",
+        "hsh": "a67d945143b7f1e96202a7d4ae48e25d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Immaginate di percorrere la Natchez Trace Parkway, vicino a Tupelo, nel Mississippi, protagonista dell’immagine di oggi. Questo tracciato custodisce secoli di passaggi. Fu battuto dai nativi americani molto prima di accogliere esploratori e commercianti europei e americani tra la fine del Settecento e l’inizio dell’Ottocento. Oggi si estende per circa 715 chilometri e in alcuni tratti conserva le tracce del tempo, con il percorso originario che, consumato dall’uso, è sceso al di sotto del terreno circostante. Lungo la via, pannelli discreti raccontano queste stratificazioni di storia, mentre boschi e radure vi accompagnano, invitandovi a rallentare e ad ascoltare.",
+                "Image": {
+                    "Url": "/th?id=OHR.HikingNatchez_IT-IT7003362282_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HikingNatchez_IT-IT7003362282_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Passo dopo passo",
+                "Title": "Natchez Trace Parkway, Tupelo, Mississippi, USA",
+                "Copyright": "© The best photo is earned/Getty Images Plus",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/31.54333,-91.38306/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=31.54333,-91.38306;S9;Natchez Trace Parkway, Tupelo, Mississippi, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260606_HikingNatchez\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tupelo+Mississippi&form=hpcapt&filters=HpDate:\"20260605_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260606_HikingNatchez"
+            },
+            "Ssd": "20260606",
+            "Name": "HikingNatchez",
+            "Market": "IT-IT",
+            "Hash": "7003362282",
+            "FullDateString": "6 giugno 2026"
+        }
+    },
+    {
         "startdate": "20260604",
         "fullstartdate": "202606042200",
         "enddate": "20260605",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260605",
+        "fullstartdate": "202606051500",
+        "enddate": "20260606",
+        "url": "/th?id=OHR.HikingNatchez_JA-JP9730895087_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HikingNatchez_JA-JP9730895087",
+        "copyright": "ナチェズ・トレース・パークウェイのトレイル, 米国 ミシシッピ州 (© The best photo is earned/Getty Images Plus)",
+        "copyrightlink": "https://www.bing.com/search?q=%E7%B1%B3%E5%9B%BD%E3%81%AE%E3%80%8C%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB%E3%83%87%E3%83%BC%E3%80%8D&form=hpcapt&filters=HpDate%3a%2220260605_1500%22",
+        "title": "今日は米国の「トレイルデー」",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260605_HikingNatchez%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "77e048594a0fb75c393e658b2e0e4dca",
+        "hsh": "9907bc5c7d2a7aec69deb9b62504b04e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 6 月 6 日は、米国の「トレイルデー」。米国ハイキング協会主催のイベントで、毎年 6 月の最初の土曜日に行われています。この日は、ハイキングのほか、トレイルの保護や清掃活動が行われます。そして、今日の画像は、ミシシッピ州テュペロ近郊にあるナチェズ・トレース・パークウェイにあるトレイルです。ナチェズ・トレース・パークウェイは、何世紀ものあいだ先住民によって利用され、18 世紀後半から 19 世紀初頭には、ヨーロッパの探検家や商人たちの交易路としても使われてきました。現在は全長約 710km の自動車用道路がメインの公園です。道路は、トラックやツアーバスなどの通行は禁止されているため、ゆったりと自然の景観を楽しむことができます。",
+                "Image": {
+                    "Url": "/th?id=OHR.HikingNatchez_JA-JP9730895087_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HikingNatchez_JA-JP9730895087_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日は米国の「トレイルデー」",
+                "Title": "ナチェズ・トレース・パークウェイのトレイル, 米国 ミシシッピ州",
+                "Copyright": "© The best photo is earned/Getty Images Plus",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/31.54333,-91.38306/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=31.54333,-91.38306;S9;ナチェズ・トレース・パークウェイ, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260606_HikingNatchez%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260606_HikingNatchez\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e7%b1%b3%e5%9b%bd%e3%81%ae%e3%80%8c%e3%83%88%e3%83%ac%e3%82%a4%e3%83%ab%e3%83%87%e3%83%bc%e3%80%8d&form=hpcapt&filters=HpDate:\"20260605_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260606_HikingNatchez"
+            },
+            "Ssd": "20260606",
+            "Name": "HikingNatchez",
+            "Market": "JA-JP",
+            "Hash": "9730895087",
+            "FullDateString": "2026 年 6月 月 6 日"
+        }
+    },
+    {
         "startdate": "20260604",
         "fullstartdate": "202606041500",
         "enddate": "20260605",
