@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260606",
+        "fullstartdate": "202606062200",
+        "enddate": "20260607",
+        "url": "/th?id=OHR.DunseverickCastle2026_FR-FR5937178493_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DunseverickCastle2026_FR-FR5937178493",
+        "copyright": "Ruines du château de Dunseverick, Antrim, Irlande du Nord (© Krzysztof Rogalski/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ch%C3%A2teau+de+Dunseverick&form=hpcapt&filters=HpDate%3a%2220260606_2200%22",
+        "title": "Il tient encore bon",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260606_DunseverickCastle2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3112a0bbb0a923f8715508380cecfe8c",
+        "hsh": "6434f497af9158fac4a7b96601edc4ba",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Au château de Dunseverick, l’histoire tient encore debout — littéralement. Accrochés à un piton de basalte battu par l’Atlantique, des fragments de murs défient vent et sel. Ici se serait achevée, il y a près de deux mille ans, la Slige Midluachra, l’une des cinq grandes routes d’Irlande, menant vers la colline royale de Tara. Au Ve siècle, Saint-Patrick y aurait baptisé Olcán, ancrant la foi dans cette pierre noire. La tradition raconte aussi que la Lia Fáil, pierre du destin des rois, aurait quitté cette côte pour l’Écosse.",
+                "Image": {
+                    "Url": "/th?id=OHR.DunseverickCastle2026_FR-FR5937178493_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DunseverickCastle2026_FR-FR5937178493_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Il tient encore bon",
+                "Title": "Ruines du château de Dunseverick, Antrim, Irlande du Nord",
+                "Copyright": "© Krzysztof Rogalski/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/55.238358,-6.448198/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=55.238358,-6.448198;S9;Château de Dunseverick, Irlande du Nord&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260607_DunseverickCastle2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ch%c3%a2teau+de+Dunseverick&form=hpcapt&filters=HpDate:\"20260606_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260607_DunseverickCastle2026"
+            },
+            "Ssd": "20260607",
+            "Name": "DunseverickCastle2026",
+            "Market": "FR-FR",
+            "Hash": "5937178493",
+            "FullDateString": "7 juin 2026"
+        }
+    },
+    {
         "startdate": "20260605",
         "fullstartdate": "202606052200",
         "enddate": "20260606",

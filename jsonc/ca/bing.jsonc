@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260606",
+        "fullstartdate": "202606060400",
+        "enddate": "20260607",
+        "url": "/th?id=OHR.HikingNatchez_EN-CA4973547873_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HikingNatchez_EN-CA4973547873",
+        "copyright": "Natchez Trace Parkway, Tupelo, Mississippi, United States (© The best photo is earned/Getty Images Plus)",
+        "copyrightlink": "https://www.bing.com/search?q=Natchez+Trace+Parkway&form=hpcapt&filters=HpDate%3a%2220260606_0400%22",
+        "title": "Wander often, wonder more",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260606_HikingNatchez%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "77e048594a0fb75c393e658b2e0e4dca",
+        "hsh": "5ceefbadd0573e30063577cc836009b6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "If your screen time has been winning lately, today is a good excuse to change that—we suggest hiking. While National Trails Day was created in 1993 by the American Hiking Society in the United States, Canadians can easily use it as a reason to head outdoors too. From mountain routes in the Rockies to forest trails and coastal paths, Canada has plenty of places worth swapping notifications for fresh air.",
+                "Image": {
+                    "Url": "/th?id=OHR.HikingNatchez_EN-CA4973547873_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HikingNatchez_EN-CA4973547873_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Wander often, wonder more",
+                "Title": "Natchez Trace Parkway, Tupelo, Mississippi, United States",
+                "Copyright": "© The best photo is earned/Getty Images Plus",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/31.54333,-91.38306/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=31.54333,-91.38306;S9;Natchez Trace Parkway, Tupelo, Mississippi&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260606_HikingNatchez\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Natchez+Trace+Parkway&form=hpcapt&filters=HpDate:\"20260606_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260606_HikingNatchez"
+            },
+            "Ssd": "20260606",
+            "Name": "HikingNatchez",
+            "Market": "EN-CA",
+            "Hash": "4973547873",
+            "FullDateString": "Jun 6, 2026"
+        }
+    },
+    {
         "startdate": "20260605",
         "fullstartdate": "202606050400",
         "enddate": "20260606",
