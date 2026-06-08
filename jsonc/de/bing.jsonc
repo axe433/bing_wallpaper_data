@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260607",
+        "fullstartdate": "202606072200",
+        "enddate": "20260608",
+        "url": "/th?id=OHR.Cyanea_DE-DE8289927523_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Cyanea_DE-DE8289927523",
+        "copyright": "Gelbe Haarqualle im Ozean (© Alexander Semenov Images/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Welttag+der+Ozeane&form=hpcapt&filters=HpDate%3a%2220260607_2200%22",
+        "title": "Gleiten im Takt der Wellen",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260607_Cyanea%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4851ee08f291a30a43fa6086e452e6da",
+        "hsh": "0122a97a5ee13a8398e76030dca10eea",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Lassen Sie sich heute treiben! Der Welttag der Ozeane lädt dazu ein, dem Rhythmus des Wassers zu folgen. Ein faszinierender Begleiter dabei ist die Gelbe Haarqualle. Sie gilt als die größte Qualle der Welt und lebt in den kalten Meeren des Nordatlantiks und des Nordpazifiks. Ihr glockenförmiger Schirm besteht aus acht Lappen, darunter hängen dichte Büschel aus langen, haarähnlichen Tentakeln. Mit der Strömung gleitend, ernährt sie sich von Plankton, kleinen Fischen und Krebstieren. In arktischen Regionen können Exemplare einen Schirmdurchmesser von über 1,8 Metern erreichen.",
+                "Image": {
+                    "Url": "/th?id=OHR.Cyanea_DE-DE8289927523_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Cyanea_DE-DE8289927523_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Gleiten im Takt der Wellen",
+                "Title": "Gelbe Haarqualle im Ozean",
+                "Copyright": "© Alexander Semenov Images/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Obwohl sie größtenteils aus Wasser besteht, kann die Gelbe Haarqualle bis zu 36 Meter lang werden – länger als ein Blauwal.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260608_Cyanea\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Welttag+der+Ozeane&form=hpcapt&filters=HpDate:\"20260607_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260608_Cyanea"
+            },
+            "Ssd": "20260608",
+            "Name": "Cyanea",
+            "Market": "DE-DE",
+            "Hash": "8289927523",
+            "FullDateString": "8. Juni. 2026"
+        }
+    },
+    {
         "startdate": "20260606",
         "fullstartdate": "202606062200",
         "enddate": "20260607",
