@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260608",
+        "fullstartdate": "202606082200",
+        "enddate": "20260609",
+        "url": "/th?id=OHR.CTNPVernazza_DE-DE9697732049_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CTNPVernazza_DE-DE9697732049",
+        "copyright": "Vernazza, Cinque Terre, Ligurien, Italien (© Kelly Cheng/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Vernazza+Cinque+Terre+Ligurien+Italien&form=hpcapt&filters=HpDate%3a%2220260608_2200%22",
+        "title": "Farben eines ligurischen Abends",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260608_CTNPVernazza%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1adb9aed7890e357de8d0ebf6af36b57",
+        "hsh": "0b48a01a1bb2ac16ad6b6b553d81825c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ein Blick auf das italienische Vernazza genügt und die Zeit scheint langsamer zu fließen. Die pastellfarbenen Häuser drängen sich dicht an den steilen Hang und spiegeln sich im ruhigen Wasser einer geschützten Bucht, dem einzigen natürlichen Hafen der ligurischen Cinque Terre. So ist das Dorf seit Jahrhunderten untrennbar mit dem Meer verbunden. Bereits 1080 erstmals erwähnt, war Vernazza einst ein strategischer Teil der genuesischen Küstenverteidigung – ein Erbe, das in den Ruinen der Doria-Burg und den alten Wachtürmen weiterlebt. Direkt am Ufer erhebt sich die Kirche Santa Margherita d’Antiochia, deren markanter Glockenturm das bunte Treiben am Kai überragt.",
+                "Image": {
+                    "Url": "/th?id=OHR.CTNPVernazza_DE-DE9697732049_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CTNPVernazza_DE-DE9697732049_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Farben eines ligurischen Abends",
+                "Title": "Vernazza, Cinque Terre, Ligurien, Italien",
+                "Copyright": "© Kelly Cheng/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.135512,9.681952/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=44.135512,9.681952;S9;Vernazza, Ligurien, Italien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260609_CTNPVernazza\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Vernazza+Cinque+Terre+Ligurien+Italien&form=hpcapt&filters=HpDate:\"20260608_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260609_CTNPVernazza"
+            },
+            "Ssd": "20260609",
+            "Name": "CTNPVernazza",
+            "Market": "DE-DE",
+            "Hash": "9697732049",
+            "FullDateString": "9. Juni. 2026"
+        }
+    },
+    {
         "startdate": "20260607",
         "fullstartdate": "202606072200",
         "enddate": "20260608",

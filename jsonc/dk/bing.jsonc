@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260608",
+        "fullstartdate": "202606080700",
+        "enddate": "20260609",
+        "url": "/th?id=OHR.Cyanea_ROW5915372220_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Cyanea_ROW5915372220",
+        "copyright": "Lion's mane jellyfish swimming in the ocean (© Alexander Semenov Images/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Lions+mane+jellyfish&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260608_Cyanea%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4851ee08f291a30a43fa6086e452e6da",
+        "hsh": "f81ebdb1f443d0543d1f52daf6d486eb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Today, let's follow the lead of a creature that goes wherever the water takes it. Want to spot a lion's mane jellyfish? Look in cold northern seas. Its bell is divided into eight lobes, and beneath it trail long tentacles and oral arms that can capture plankton, fish and even other jellyfish. Well, a single animal may carry thousands of stinging cells on each tentacle. For humans, the sting can be painful, and even detached tentacles washed ashore may still react on contact. The rule is simple: admire it, then leave it alone.",
+                "Image": {
+                    "Url": "/th?id=OHR.Cyanea_ROW5915372220_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Cyanea_ROW5915372220_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Lion's mane jellyfish swimming in the ocean",
+                "Copyright": "© Alexander Semenov Images/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260608_Cyanea\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lions+mane+jellyfish&form=hpcapt&filters=HpDate:\"20260608_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260608_Cyanea"
+            },
+            "Ssd": "20260608",
+            "Name": "Cyanea",
+            "Market": "ROW",
+            "Hash": "5915372220",
+            "FullDateString": "8. jun. 2026"
+        }
+    },
+    {
         "startdate": "20260607",
         "fullstartdate": "202606070700",
         "enddate": "20260608",

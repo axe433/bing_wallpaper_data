@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260608",
+        "fullstartdate": "202606082200",
+        "enddate": "20260609",
+        "url": "/th?id=OHR.CTNPVernazza_IT-IT7594806802_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CTNPVernazza_IT-IT7594806802",
+        "copyright": "Vernazza, Cinque Terre, Liguria (© Kelly Cheng/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Vernazza+provincia+la+Spezia&form=hpcapt",
+        "title": "Quale delle cinque?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260608_CTNPVernazza%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1adb9aed7890e357de8d0ebf6af36b57",
+        "hsh": "a2ef24ddca662a15ef96773304f0622b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Vernazza sembra nascere direttamente dalla roccia e dal mare. Tra i borghi delle Cinque Terre è forse quello che conserva più chiaramente l’anima marinara della Liguria. Case alte e colorate raccolte attorno al piccolo porto naturale, barche che oscillano lente nell’acqua, vicoli stretti dove il profumo del sale si mescola a quello della focaccia appena sfornata.",
+                "Image": {
+                    "Url": "/th?id=OHR.CTNPVernazza_IT-IT7594806802_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CTNPVernazza_IT-IT7594806802_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Quale delle cinque?",
+                "Title": "Vernazza, Cinque Terre, Liguria",
+                "Copyright": "© Kelly Cheng/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.135512,9.681952/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=44.135512,9.681952;S9;Vernazza, Cinque Terre, Liguria&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260609_CTNPVernazza\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Vernazza+provincia+la+Spezia&form=hpcapt&filters=HpDate:\"20260608_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260609_CTNPVernazza"
+            },
+            "Ssd": "20260609",
+            "Name": "CTNPVernazza",
+            "Market": "IT-IT",
+            "Hash": "7594806802",
+            "FullDateString": "9 giugno 2026"
+        }
+    },
+    {
         "startdate": "20260607",
         "fullstartdate": "202606072200",
         "enddate": "20260608",

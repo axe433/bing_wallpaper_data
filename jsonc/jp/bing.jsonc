@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260608",
+        "fullstartdate": "202606081500",
+        "enddate": "20260609",
+        "url": "/th?id=OHR.CTNPVernazza_JA-JP0736280487_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CTNPVernazza_JA-JP0736280487",
+        "copyright": "ヴェルナッツァ, イタリア (© Kelly Cheng/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%8A%E3%83%83%E3%83%84%E3%82%A1&form=hpcapt&filters=HpDate%3a%2220260608_1500%22",
+        "title": "夕暮れに包まれた海辺の町",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260608_CTNPVernazza%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1adb9aed7890e357de8d0ebf6af36b57",
+        "hsh": "7973514b7b264697023b40e1a1d6775e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ここは、イタリア・リグーリア海岸の港町ヴェルナッツァ。世界遺産である 5 つの村「チンクエ・テッレ」の一つであり、唯一天然港を中心に築かれた村です。1080年に要塞集落として初めて記録に登場しており、その後はジェノヴァ共和国の沿岸防衛拠点として栄えました。湾を見下ろすドーリア城跡や見張り塔がその面影を今に伝えており、海辺にはサンタ・マルゲリータ教会が佇み、鐘楼が港を見守ります。急斜面には石積みの段々畑が広がり、ブドウやオリーブが育まれています。色彩豊かな家並みと港を眺めながら、フォカッチャを味わえば、絵葉書のようなひとときを過ごせます。",
+                "Image": {
+                    "Url": "/th?id=OHR.CTNPVernazza_JA-JP0736280487_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CTNPVernazza_JA-JP0736280487_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "夕暮れに包まれた海辺の町",
+                "Title": "ヴェルナッツァ, イタリア",
+                "Copyright": "© Kelly Cheng/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.135512,9.681952/13?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=44.135512,9.681952;S9;ヴェルナッツァ, イタリア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260609_CTNPVernazza%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260609_CTNPVernazza\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%b4%e3%82%a7%e3%83%ab%e3%83%8a%e3%83%83%e3%83%84%e3%82%a1&form=hpcapt&filters=HpDate:\"20260608_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260609_CTNPVernazza"
+            },
+            "Ssd": "20260609",
+            "Name": "CTNPVernazza",
+            "Market": "JA-JP",
+            "Hash": "0736280487",
+            "FullDateString": "2026 年 6月 月 9 日"
+        }
+    },
+    {
         "startdate": "20260607",
         "fullstartdate": "202606071500",
         "enddate": "20260608",
