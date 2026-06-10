@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260609",
+        "fullstartdate": "202606092200",
+        "enddate": "20260610",
+        "url": "/th?id=OHR.Hnausapollur_FR-FR5863849593_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Hnausapollur_FR-FR5863849593",
+        "copyright": "Lac de Hnausapollur, Réserve naturelle de Fjallabak, Landmannalaugar, Islande (© Juan Maria Coy Vergara/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lac+de+Hnausapollur+Islande&form=hpcapt&filters=HpDate%3a%2220260609_2200%22",
+        "title": "Une touche de bleu",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260609_Hnausapollur%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9bffb69c58bc79273a2537b6bbb3d1ed",
+        "hsh": "3a2e57909fd192d98a236c1dbe81717e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Vu d’en haut, le miroir du lac tranche avec les terres hostiles qui l’entourent. Le Hnausapollur, aussi appelé Bláhylur, repose au cœur de la réserve naturelle de Fjallabak, dans les Hautes Terres d’Islande. Ce monde presque dépourvu d’habitants a été façonné par le feu : le cratère est né lorsque du magma a rencontré des eaux souterraines, provoquant une explosion qui a creusé le bassin circulaire visible aujourd’hui.",
+                "Image": {
+                    "Url": "/th?id=OHR.Hnausapollur_FR-FR5863849593_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Hnausapollur_FR-FR5863849593_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Une touche de bleu",
+                "Title": "Lac de Hnausapollur, Réserve naturelle de Fjallabak, Landmannalaugar, Islande",
+                "Copyright": "© Juan Maria Coy Vergara/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/64.055313,-19.031654/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=64.055313,-19.031654;S9;Hnausapollur, Islande&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260610_Hnausapollur\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lac+de+Hnausapollur+Islande&form=hpcapt&filters=HpDate:\"20260609_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260610_Hnausapollur"
+            },
+            "Ssd": "20260610",
+            "Name": "Hnausapollur",
+            "Market": "FR-FR",
+            "Hash": "5863849593",
+            "FullDateString": "10 juin 2026"
+        }
+    },
+    {
         "startdate": "20260608",
         "fullstartdate": "202606082200",
         "enddate": "20260609",

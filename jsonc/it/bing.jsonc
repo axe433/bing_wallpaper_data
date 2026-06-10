@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260609",
+        "fullstartdate": "202606092200",
+        "enddate": "20260610",
+        "url": "/th?id=OHR.OlivaPalermo_IT-IT7720847835_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OlivaPalermo_IT-IT7720847835",
+        "copyright": "Palermo, Sicilia (© Sean Pavone/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Palermo&form=hpcapt",
+        "title": "Santi misteri",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260609_OlivaPalermo%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "89938c673479d0c36d809bacc28259d5",
+        "hsh": "8b8aea043a8f581c35203e37143960f3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La Festa di Santa Oliva, celebrata a Palermo il 10 giugno, rende omaggio a una delle più antiche e misteriose patrone della città. La sua figura resta sospesa tra storia e leggenda. Alcune tradizioni la collocano nel V secolo, durante le persecuzioni vandaliche, altre tra il IX e il X secolo, in epoca araba. Gli studiosi non hanno mai individuato con certezza il periodo in cui visse davvero.",
+                "Image": {
+                    "Url": "/th?id=OHR.OlivaPalermo_IT-IT7720847835_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OlivaPalermo_IT-IT7720847835_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Santi misteri",
+                "Title": "Palermo, Sicilia",
+                "Copyright": "© Sean Pavone/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Gli studiosi non concordano sulla sua origine, tra una martire nordafricana del periodo vandalico (V-VI secolo) e una figura siciliana dell’epoca islamica (IX-X secolo).",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260610_OlivaPalermo\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Palermo&form=hpcapt&filters=HpDate:\"20260609_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260610_OlivaPalermo"
+            },
+            "Ssd": "20260610",
+            "Name": "OlivaPalermo",
+            "Market": "IT-IT",
+            "Hash": "7720847835",
+            "FullDateString": "10 giugno 2026"
+        }
+    },
+    {
         "startdate": "20260608",
         "fullstartdate": "202606082200",
         "enddate": "20260609",

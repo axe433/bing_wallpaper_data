@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260609",
+        "fullstartdate": "202606090300",
+        "enddate": "20260610",
+        "url": "/th?id=OHR.CTNPVernazza_PT-BR2618024096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CTNPVernazza_PT-BR2618024096",
+        "copyright": "Vernazza, Cinque Terre, Ligúria, Itália (© Kelly Cheng/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Vernazza&form=hpcapt&mkt=pt-br",
+        "title": "Vivendo no limite",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260609_CTNPVernazza%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1adb9aed7890e357de8d0ebf6af36b57",
+        "hsh": "ddb89d5afa21181e02b4ee42b65e5266",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Entre ondas e encostas íngremes, Vernazza aprendeu cedo a negociar espaço. Uma das cinco vilas italianas de Cinque Terre, ela se organizou em torno de um pequeno porto natural que moldou sua história desde a Idade Média. Registros de 1080 já citam Vernazza como assentamento fortificado e base marítima. As ruínas do Castelo Doria, no alto, e a Igreja de Santa Margherita d’Antiochia, quase tocando a água, ainda marcam esse passado. Acima delas, vinhedos e oliveiras ocupam terraços sustentados por muros de pedra. Casas coloridas se espremem, vielas sobem e descem, e o mar nunca sai do enquadramento.",
+                "Image": {
+                    "Url": "/th?id=OHR.CTNPVernazza_PT-BR2618024096_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CTNPVernazza_PT-BR2618024096_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Vivendo no limite",
+                "Title": "Vernazza, Cinque Terre, Ligúria, Itália",
+                "Copyright": "© Kelly Cheng/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260609_CTNPVernazza\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Vernazza&form=hpcapt&filters=HpDate:\"20260609_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260609_CTNPVernazza"
+            },
+            "Ssd": "20260609",
+            "Name": "CTNPVernazza",
+            "Market": "PT-BR",
+            "Hash": "2618024096",
+            "FullDateString": "9 jun. 2026"
+        }
+    },
+    {
         "startdate": "20260608",
         "fullstartdate": "202606080300",
         "enddate": "20260609",

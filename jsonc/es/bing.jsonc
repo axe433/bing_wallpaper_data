@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260609",
+        "fullstartdate": "202606092200",
+        "enddate": "20260610",
+        "url": "/th?id=OHR.Hnausapollur_ES-ES9919226001_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Hnausapollur_ES-ES9919226001",
+        "copyright": "Lago del cráter de Hnausapollur, Landmannalaugar, Islandia (© Juan Maria Coy Vergara/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Landmannalaugar+Islandia&form=hpcapt&filters=HpDate%3a%2220260609_2200%22",
+        "title": "Un destello azul",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260609_Hnausapollur%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9bffb69c58bc79273a2537b6bbb3d1ed",
+        "hsh": "d9915d039998e701fecc48611718a6cc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El lago Hnausapollur se abre como un intenso destello azul en el corazón de la reserva natural de Fjallabak, en la región de Landmannalaugar, al sur de Islandia. Este lago ocupa un cráter volcánico formado hace más de mil años, cuando una erupción explosiva puso en contacto el magma con aguas subterráneas. El resultado fue una depresión amplia y poco profunda que, con el tiempo, se llenó de agua, creando un paisaje tan sereno como sorprendente en medio de montañas de tonos ocres y verdosos.",
+                "Image": {
+                    "Url": "/th?id=OHR.Hnausapollur_ES-ES9919226001_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Hnausapollur_ES-ES9919226001_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un destello azul",
+                "Title": "Lago del cráter de Hnausapollur, Landmannalaugar, Islandia",
+                "Copyright": "© Juan Maria Coy Vergara/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/64.055313,-19.031654/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=64.055313,-19.031654;S9;Hnausapollur Islandia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260610_Hnausapollur\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Landmannalaugar+Islandia&form=hpcapt&filters=HpDate:\"20260609_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260610_Hnausapollur"
+            },
+            "Ssd": "20260610",
+            "Name": "Hnausapollur",
+            "Market": "ES-ES",
+            "Hash": "9919226001",
+            "FullDateString": "10 de jun de 2026"
+        }
+    },
+    {
         "startdate": "20260608",
         "fullstartdate": "202606082200",
         "enddate": "20260609",

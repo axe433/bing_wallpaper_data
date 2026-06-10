@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260609",
+        "fullstartdate": "202606091500",
+        "enddate": "20260610",
+        "url": "/th?id=OHR.Hnausapollur_JA-JP1632213498_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Hnausapollur_JA-JP1632213498",
+        "copyright": "フナウサウポットル, アイスランド (© Juan Maria Coy Vergara/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Hnausapollur&form=hpcapt&filters=HpDate%3a%2220260609_1500%22",
+        "title": "大地に走る一筋の青",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260609_Hnausapollur%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9bffb69c58bc79273a2537b6bbb3d1ed",
+        "hsh": "17b5d9f9967f216ff4c0ea7581b3ef40",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日の写真は、フナウサウポットル。アイスランド高地・フィヤラバク自然保護区に位置するクレーター湖です。火山活動によって形成されたもので、マグマと地下水の接触による爆発によって円形の盆地が生まれた後に、雨水や融雪水が蓄えられることで現在の湖となりました。光や天候によってターコイズから深い青へと表情を変える湖の色彩と、噴火の痕跡を刻む地層は、地球のダイナミックな営みを今に伝えています。未開発の大地が広がるこの場所は、自然の力と美しさを体感できる貴重な風景です。",
+                "Image": {
+                    "Url": "/th?id=OHR.Hnausapollur_JA-JP1632213498_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Hnausapollur_JA-JP1632213498_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "大地に走る一筋の青",
+                "Title": "フナウサウポットル, アイスランド",
+                "Copyright": "© Juan Maria Coy Vergara/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/64.055313,-19.031654/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=64.055313,-19.031654;S9;フナウサウポットル, アイスランド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260610_Hnausapollur%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260610_Hnausapollur\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hnausapollur&form=hpcapt&filters=HpDate:\"20260609_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260610_Hnausapollur"
+            },
+            "Ssd": "20260610",
+            "Name": "Hnausapollur",
+            "Market": "JA-JP",
+            "Hash": "1632213498",
+            "FullDateString": "2026 年 6月 月 10 日"
+        }
+    },
+    {
         "startdate": "20260608",
         "fullstartdate": "202606081500",
         "enddate": "20260609",
