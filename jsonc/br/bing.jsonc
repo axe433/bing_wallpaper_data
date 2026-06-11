@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260610",
+        "fullstartdate": "202606100300",
+        "enddate": "20260611",
+        "url": "/th?id=OHR.BOwl_PT-BR4099408173_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BOwl_PT-BR4099408173",
+        "copyright": "Coruja-buraqueira em sentinela (© Wendy/Jeff Sparks/Torquemada/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=coruja+buraqueira&form=hpcapt&mkt=pt-br",
+        "title": "O chão como mirante",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260610_BOwl%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c1d4d0d7fe000ddada8d55cf53d75168",
+        "hsh": "ee55c5e1d0889221279660076a41a684",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Noturna? Só quando convém. A coruja‑buraqueira da imagem decidiu ignorar o roteiro clássico. Enquanto outras corujas saem à noite, ela assume o turno do dia. Enquanto outras vivem em árvores, ela prefere tocas no chão, escavadas ou reaproveitadas de tatus, que funcionam como abrigo e posto de observação.",
+                "Image": {
+                    "Url": "/th?id=OHR.BOwl_PT-BR4099408173_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BOwl_PT-BR4099408173_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O chão como mirante",
+                "Title": "Coruja-buraqueira em sentinela",
+                "Copyright": "© Wendy/Jeff Sparks/Torquemada/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260610_BOwl\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=coruja+buraqueira&form=hpcapt&filters=HpDate:\"20260610_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260610_BOwl"
+            },
+            "Ssd": "20260610",
+            "Name": "BOwl",
+            "Market": "PT-BR",
+            "Hash": "4099408173",
+            "FullDateString": "10 jun. 2026"
+        }
+    },
+    {
         "startdate": "20260609",
         "fullstartdate": "202606090300",
         "enddate": "20260610",

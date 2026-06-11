@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260610",
+        "fullstartdate": "202606102200",
+        "enddate": "20260611",
+        "url": "/th?id=OHR.Limpets_DE-DE3433588374_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Limpets_DE-DE3433588374",
+        "copyright": "Napfschnecken bei Ebbe an der Küste von Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Praia+da+Ursa+Portugal&form=hpcapt&filters=HpDate%3a%2220260610_2200%22",
+        "title": "Fest im Fels",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260610_Limpets%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "52bb0b2f391bb5db71009f48cc4ccd2c",
+        "hsh": "3744d25fe711e06733e20e3f5410c991",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "An der rauen Westküste Portugals, nahe Cabo da Roca, dem westlichsten Punkt des europäischen Festlands, liegt die Praia da Ursa verborgen unter steilen Felsen. Ein schmaler, teils anspruchsvoller Pfad führt zu diesem abgelegenen Strand am Atlantik, der vor allem von Wind, Gestein und Brandung geprägt ist. Bei Ebbe zieht sich das Meer zurück, die Küstenlinie wirkt für kurze Zeit weiter, und glatte Felsen werden freigelegt. Auf ihnen haften Napfschnecken fest und halten den kräftigen Wellen stand.",
+                "Image": {
+                    "Url": "/th?id=OHR.Limpets_DE-DE3433588374_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Limpets_DE-DE3433588374_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Fest im Fels",
+                "Title": "Napfschnecken bei Ebbe an der Küste von Praia da Ursa, Portugal",
+                "Copyright": "© Theo Bosboom/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.790765,-9.492425/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=38.790765,-9.492425;S9;Praia da Ursa, Sintra, Portugal&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260611_Limpets\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Praia+da+Ursa+Portugal&form=hpcapt&filters=HpDate:\"20260610_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260611_Limpets"
+            },
+            "Ssd": "20260611",
+            "Name": "Limpets",
+            "Market": "DE-DE",
+            "Hash": "3433588374",
+            "FullDateString": "11. Juni. 2026"
+        }
+    },
+    {
         "startdate": "20260609",
         "fullstartdate": "202606092200",
         "enddate": "20260610",

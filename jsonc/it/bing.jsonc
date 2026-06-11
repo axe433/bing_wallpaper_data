@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260610",
+        "fullstartdate": "202606102200",
+        "enddate": "20260611",
+        "url": "/th?id=OHR.Limpets_IT-IT0440243465_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Limpets_IT-IT0440243465",
+        "copyright": "Patelle, costa di Praia da Ursa, Portogallo (© Theo Bosboom/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Praia+da+Ursa&form=hpcapt",
+        "title": "Resistenza silenziosa",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260610_Limpets%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "52bb0b2f391bb5db71009f48cc4ccd2c",
+        "hsh": "a5b5c6c7658dcf368824a6f1e4cf1685",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ai piedi delle alte scogliere che circondano Cabo da Roca — l’estremo occidentale dell’Europa continentale — Praia da Ursa appare come un luogo sospeso tra terra e oceano. Per raggiungerla bisogna seguire un sentiero stretto e selvaggio, scavato nella roccia e nel vento. Qui, lungo la costa atlantica del Portogallo, il paesaggio prende forma grazie alla forza incessante delle onde, alla pietra e all’aria salmastra. Quando la marea si ritrae, la spiaggia si apre per pochi istanti: affiorano rocce lisce e silenziose, insieme a minuscole presenze che resistono al mare. Le patelle rimangono ancorate alla pietra nuda, proprio nei punti dove l’acqua colpisce con più forza.",
+                "Image": {
+                    "Url": "/th?id=OHR.Limpets_IT-IT0440243465_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Limpets_IT-IT0440243465_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Resistenza silenziosa",
+                "Title": "Patelle, costa di Praia da Ursa, Portogallo",
+                "Copyright": "© Theo Bosboom/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.790765,-9.492425/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=38.790765,-9.492425;S9;Praia da Ursa, Sintra, Portogallo&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260611_Limpets\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Praia+da+Ursa&form=hpcapt&filters=HpDate:\"20260610_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260611_Limpets"
+            },
+            "Ssd": "20260611",
+            "Name": "Limpets",
+            "Market": "IT-IT",
+            "Hash": "0440243465",
+            "FullDateString": "11 giugno 2026"
+        }
+    },
+    {
         "startdate": "20260609",
         "fullstartdate": "202606092200",
         "enddate": "20260610",

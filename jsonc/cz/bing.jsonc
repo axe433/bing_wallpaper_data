@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260610",
+        "fullstartdate": "202606100700",
+        "enddate": "20260611",
+        "url": "/th?id=OHR.Hnausapollur_ROW9570499097_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Hnausapollur_ROW9570499097",
+        "copyright": "Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Hnausapollur+Iceland&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260610_Hnausapollur%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9bffb69c58bc79273a2537b6bbb3d1ed",
+        "hsh": "b95a8736bc08cbfe73d5f90e379f1547",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "From above, the lake's smooth surface contrasts sharply with the rugged ground surrounding it. Hnausapollur crater lake—also known as Bláhylur—lies in the heart of Fjallabak Nature Reserve, a remote area of Iceland's highlands shaped more by volcanic activity than by human settlement. The crater formed when magma met groundwater, triggering an explosion that carved out the circular basin visible today.",
+                "Image": {
+                    "Url": "/th?id=OHR.Hnausapollur_ROW9570499097_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Hnausapollur_ROW9570499097_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland",
+                "Copyright": "© Juan Maria Coy Vergara/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260610_Hnausapollur\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hnausapollur+Iceland&form=hpcapt&filters=HpDate:\"20260610_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260610_Hnausapollur"
+            },
+            "Ssd": "20260610",
+            "Name": "Hnausapollur",
+            "Market": "ROW",
+            "Hash": "9570499097",
+            "FullDateString": "10. Jun rrrr"
+        }
+    },
+    {
         "startdate": "20260609",
         "fullstartdate": "202606090700",
         "enddate": "20260610",
