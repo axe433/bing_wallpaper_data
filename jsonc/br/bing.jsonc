@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260611",
+        "fullstartdate": "202606110300",
+        "enddate": "20260612",
+        "url": "/th?id=OHR.Limpets_PT-BR3364231967_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Limpets_PT-BR3364231967",
+        "copyright": "Lapas expostas na maré baixa na costa da Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Praia+da+Ursa&form=hpcapt&mkt=pt-br",
+        "title": "As donas das marés",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260611_Limpets%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "52bb0b2f391bb5db71009f48cc4ccd2c",
+        "hsh": "0b726c2567e1e9126b9e48959db7f985",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A imagem mostra a Praia da Ursa, em Portugal, num daqueles momentos em que o mar dá um passo atrás e deixa o palco livre. É aí que entram as lapas: pequenos moluscos marinhos, de concha baixa e corpo grudado à rocha, especialistas em viver onde as ondas costumam bater mais forte. Elas não passeiam. Elas se fixam. Quando a água cobre tudo, raspam algas para comer; quando recua, voltam ao mesmo ponto com precisão quase obsessiva.",
+                "Image": {
+                    "Url": "/th?id=OHR.Limpets_PT-BR3364231967_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Limpets_PT-BR3364231967_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "As donas das marés",
+                "Title": "Lapas expostas na maré baixa na costa da Praia da Ursa, Portugal",
+                "Copyright": "© Theo Bosboom/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260611_Limpets\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Praia+da+Ursa&form=hpcapt&filters=HpDate:\"20260611_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260611_Limpets"
+            },
+            "Ssd": "20260611",
+            "Name": "Limpets",
+            "Market": "PT-BR",
+            "Hash": "3364231967",
+            "FullDateString": "11 jun. 2026"
+        }
+    },
+    {
         "startdate": "20260610",
         "fullstartdate": "202606100300",
         "enddate": "20260611",

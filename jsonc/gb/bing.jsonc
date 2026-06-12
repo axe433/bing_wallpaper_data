@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260611",
+        "fullstartdate": "202606112300",
+        "enddate": "20260612",
+        "url": "/th?id=OHR.SpainBeeEater_EN-GB0400736039_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpainBeeEater_EN-GB0400736039",
+        "copyright": "European bee-eater in Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=European+bee-eater&form=hpcapt&filters=HpDate%3a%2220260611_2300%22",
+        "title": "A flash in flight",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260611_SpainBeeEater%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "276d50a29b39241a127efc2c0b0f6c2f",
+        "hsh": "ed880117ba3a3213d057fb7c1f04deb4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A streak of colour glides past a blur of wildflowers as a European bee-eater cuts through the air. Turquoise, gold and chestnut shimmer across its wings as it hunts in flight, snatching insects mid-air with swift turns. Bees and wasps are among its favoured prey, and the bird often removes the stinger before feeding—a behaviour that reduces the risk of injury.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpainBeeEater_EN-GB0400736039_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpainBeeEater_EN-GB0400736039_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A flash in flight",
+                "Title": "European bee-eater in Sierra de Grazalema Natural Park, Cádiz, Spain",
+                "Copyright": "© Andres M. Dominguez/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.74794,-5.371703/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=36.74794,-5.371703;S9;Sierra de Grazalema Natural Park, Cádiz, Spain&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260612_SpainBeeEater\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=European+bee-eater&form=hpcapt&filters=HpDate:\"20260611_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260612_SpainBeeEater"
+            },
+            "Ssd": "20260612",
+            "Name": "SpainBeeEater",
+            "Market": "EN-GB",
+            "Hash": "0400736039",
+            "FullDateString": "12 Jun 2026"
+        }
+    },
+    {
         "startdate": "20260610",
         "fullstartdate": "202606102300",
         "enddate": "20260611",

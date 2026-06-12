@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260611",
+        "fullstartdate": "202606112200",
+        "enddate": "20260612",
+        "url": "/th?id=OHR.SpainBeeEater_FR-FR5420456430_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpainBeeEater_FR-FR5420456430",
+        "copyright": "Guêpier d’Europe, Parc naturel de la Sierra de Grazalema, Cadix, Espagne (© Andres M. Dominguez/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=gu%C3%AApier+d%E2%80%99Europe&form=hpcapt&filters=HpDate%3a%2220260611_2200%22",
+        "title": "Comme un éclair de couleurs",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260611_SpainBeeEater%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "276d50a29b39241a127efc2c0b0f6c2f",
+        "hsh": "52d63f47ab44f555c7ae731cb7fb41fb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Un éclair de couleurs fend l’air au-dessus des prairies fleuries : le guêpier d’Europe surgit, agile et lumineux. Turquoise éclatant, or et brun profond se mêlent sur ses ailes alors qu’il chasse en plein vol, capturant des abeilles et des guêpes avec une précision fulgurante. Avant de se nourrir, il ôte le dard — un geste appris, comme un rituel révélant son étonnante intelligence.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpainBeeEater_FR-FR5420456430_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpainBeeEater_FR-FR5420456430_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Comme un éclair de couleurs",
+                "Title": "Guêpier d’Europe, Parc naturel de la Sierra de Grazalema, Cadix, Espagne",
+                "Copyright": "© Andres M. Dominguez/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.74794,-5.371703/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=36.74794,-5.371703;S9;Parc naturel de la Sierra de Grazalema, Cadix, Espagne&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260612_SpainBeeEater\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=gu%c3%aapier+d%e2%80%99Europe&form=hpcapt&filters=HpDate:\"20260611_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260612_SpainBeeEater"
+            },
+            "Ssd": "20260612",
+            "Name": "SpainBeeEater",
+            "Market": "FR-FR",
+            "Hash": "5420456430",
+            "FullDateString": "12 juin 2026"
+        }
+    },
+    {
         "startdate": "20260610",
         "fullstartdate": "202606102200",
         "enddate": "20260611",
