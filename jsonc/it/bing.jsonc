@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260612",
+        "fullstartdate": "202606122200",
+        "enddate": "20260613",
+        "url": "/th?id=OHR.BadSunset_IT-IT7610700468_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BadSunset_IT-IT7610700468",
+        "copyright": "Parco nazionale delle Badlands, South Dakota, USA (© Troy Harrison/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parco+nazionale+delle+Badlands&form=hpcapt",
+        "title": "Terre di cenere",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260612_BadSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d90896e67fb614f6e6801667781bc801",
+        "hsh": "5375f7cbb325748b9861236f5c3b51e6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La terra qui sembra dipinta dal tempo. Nel Dakota del Sud, nel cuore degli Stati Uniti, dorsali stratificate si accendono di rosa, grigio e oro mentre la luce cambia sulle rocce scolpite da vento e acqua. Ogni cresta rivela milioni di anni di storia, con antichi fiumi, ceneri vulcaniche e mari scomparsi impressi nella pietra, in un paesaggio arido e mutevole che sembra appartenere a un altro tempo. Sotto questa superficie aspra si nasconde uno dei più ricchi giacimenti fossiliferi del mondo, custode dei resti di antichi mammiferi, dai primi cavalli ai lontani parenti dei rinoceronti. Oggi, tra le praterie aperte, pascolano bisonti, le pecore bighorn attraversano le creste rocciose e i cani della prateria animano le distese erbose. Strade panoramiche e punti di osservazione seguono i contorni del paesaggio, offrendo vedute ampie e spettacolari. Ancora oggi, gli strati del passato continuano a riaffiorare mentre il territorio si trasforma lentamente.",
+                "Image": {
+                    "Url": "/th?id=OHR.BadSunset_IT-IT7610700468_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BadSunset_IT-IT7610700468_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Terre di cenere",
+                "Title": "Parco nazionale delle Badlands, South Dakota, USA",
+                "Copyright": "© Troy Harrison/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.85538,-102.339666/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=43.85538,-102.339666;S9;Parco nazionale delle Badlands, South Dakota, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260613_BadSunset\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parco+nazionale+delle+Badlands&form=hpcapt&filters=HpDate:\"20260612_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260613_BadSunset"
+            },
+            "Ssd": "20260613",
+            "Name": "BadSunset",
+            "Market": "IT-IT",
+            "Hash": "7610700468",
+            "FullDateString": "13 giugno 2026"
+        }
+    },
+    {
         "startdate": "20260611",
         "fullstartdate": "202606112200",
         "enddate": "20260612",

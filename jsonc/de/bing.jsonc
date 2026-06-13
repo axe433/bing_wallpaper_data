@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260612",
+        "fullstartdate": "202606122200",
+        "enddate": "20260613",
+        "url": "/th?id=OHR.BadSunset_DE-DE9498581527_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BadSunset_DE-DE9498581527",
+        "copyright": "Sonnenuntergang im Badlands-Nationalpark, South Dakota, USA (© Troy Harrison/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Badlands-Nationalpark&form=hpcapt&filters=HpDate%3a%2220260612_2200%22",
+        "title": "Schichten des Wandels",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260612_BadSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d90896e67fb614f6e6801667781bc801",
+        "hsh": "12dd2c0fcd9519269ab2db9b4e42e1ab",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Wenn die Sonne über dem Badlands-Nationalpark in South Dakota, USA, untergeht, erstrahlen die zerfurchten Hügel in Rosé, Ocker und Aschegrau. Im Abendlicht wirken die Kanten fast wie gemalt, und die Schatten zeichnen jede Falte nach. Die Schichtbänder ähneln einem aufgeschlagenen Gesteinsbuch: Sedimente lagerten sich einst in einem flachen Binnenmeer ab und bauten sich über Millionen Jahre wie ein Schichtkuchen auf, bevor Wind und Wasser die weichen Lagen wieder freilegten.",
+                "Image": {
+                    "Url": "/th?id=OHR.BadSunset_DE-DE9498581527_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BadSunset_DE-DE9498581527_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Schichten des Wandels",
+                "Title": "Sonnenuntergang im Badlands-Nationalpark, South Dakota, USA",
+                "Copyright": "© Troy Harrison/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.85538,-102.339666/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=43.85538,-102.339666;S9;Badlands-Nationalpark, South Dakota, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260613_BadSunset\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Badlands-Nationalpark&form=hpcapt&filters=HpDate:\"20260612_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260613_BadSunset"
+            },
+            "Ssd": "20260613",
+            "Name": "BadSunset",
+            "Market": "DE-DE",
+            "Hash": "9498581527",
+            "FullDateString": "13. Juni. 2026"
+        }
+    },
+    {
         "startdate": "20260611",
         "fullstartdate": "202606112200",
         "enddate": "20260612",
