@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260613",
+        "fullstartdate": "202606130700",
+        "enddate": "20260614",
+        "url": "/th?id=OHR.BadSunset_ROW3111301246_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BadSunset_ROW3111301246",
+        "copyright": "Sunset in Badlands National Park, South Dakota, United States (© Troy Harrison/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Badlands+National+Park&form=hpcapt&filters=HpDate%3a%2220260613_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260613_BadSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d90896e67fb614f6e6801667781bc801",
+        "hsh": "ecb12823c433137d0eb7a88da0d13b7d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Layered ridges stretch across Badlands National Park in South Dakota. Their bands of pink, grey and gold shift with the light as eroded peaks and valleys come into view. Wind and water continue to shape this terrain, steadily wearing away soft sedimentary rock and exposing millions of years of Earth's history in layers formed by ancient rivers, volcanic ash and periods when shallow seas covered the region.",
+                "Image": {
+                    "Url": "/th?id=OHR.BadSunset_ROW3111301246_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BadSunset_ROW3111301246_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Sunset in Badlands National Park, South Dakota, United States",
+                "Copyright": "© Troy Harrison/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260613_BadSunset\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Badlands+National+Park&form=hpcapt&filters=HpDate:\"20260613_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260613_BadSunset"
+            },
+            "Ssd": "20260613",
+            "Name": "BadSunset",
+            "Market": "ROW",
+            "Hash": "3111301246",
+            "FullDateString": "13 June 2026"
+        }
+    },
+    {
         "startdate": "20260612",
         "fullstartdate": "202606120700",
         "enddate": "20260613",

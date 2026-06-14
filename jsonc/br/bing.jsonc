@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260613",
+        "fullstartdate": "202606130300",
+        "enddate": "20260614",
+        "url": "/th?id=OHR.SpainBeeEater_PT-BR8358258406_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpainBeeEater_PT-BR8358258406",
+        "copyright": "Abelharuco no Parque Natural Sierra de Grazalema, Cádiz, Espanha (© Andres M. Dominguez/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=abelharuco&form=hpcapt&mkt=pt-br",
+        "title": "O arco-íris ganhou asas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260613_SpainBeeEater%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "276d50a29b39241a127efc2c0b0f6c2f",
+        "hsh": "ecf03ae41536d5753e5f2cf862c126cd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "No abelharuco, nada é decorativo. As cores chamam atenção, mas o essencial está no movimento: ele caça insetos no ar com curvas rápidas e controle fino. Como o nome sugere, abelhas e vespas estão no topo do cardápio. O truque contra picadas? Arrancar o ferrão antes de engolir.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpainBeeEater_PT-BR8358258406_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpainBeeEater_PT-BR8358258406_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O arco-íris ganhou asas",
+                "Title": "Abelharuco no Parque Natural Sierra de Grazalema, Cádiz, Espanha",
+                "Copyright": "© Andres M. Dominguez/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260613_SpainBeeEater\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=abelharuco&form=hpcapt&filters=HpDate:\"20260613_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260613_SpainBeeEater"
+            },
+            "Ssd": "20260613",
+            "Name": "SpainBeeEater",
+            "Market": "PT-BR",
+            "Hash": "8358258406",
+            "FullDateString": "13 jun. 2026"
+        }
+    },
+    {
         "startdate": "20260612",
         "fullstartdate": "202606120300",
         "enddate": "20260613",

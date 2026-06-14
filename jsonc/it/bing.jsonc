@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260613",
+        "fullstartdate": "202606132200",
+        "enddate": "20260614",
+        "url": "/th?id=OHR.DuckPond_IT-IT3562995004_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DuckPond_IT-IT3562995004",
+        "copyright": "Germano reale (© Philippe Paternolli/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Germano+reale&form=hpcapt",
+        "title": "Real-mente elegante",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260613_DuckPond%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "76741cf5edcce86fc6d6e1a8f0edba1d",
+        "hsh": "2221646a8304bbcafd64cae32848e87a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "All’alba, il germano reale scivola sull’acqua immobile come un pennello su una tela. Il suo piumaggio cangiante, testa verde smeraldo nel maschio, mantello marrone maculato nella femmina, cattura la prima luce del giorno. Lo si può osservare dalle paludi della Camargue ai canali e ai laghi d’Italia, fedele compagno dei paesaggi acquatici europei. Opportunista, si nutre principalmente di semi, piante acquatiche e piccoli invertebrati, immergendo talvolta la testa sott’acqua con un elegante movimento. Con l’arrivo della primavera, la femmina sceglie un rifugio discreto, spesso lontano dall’acqua, per covare le uova. I pulcini, avvolti in una morbida peluria dorata, seguono gradualmente la madre, che li guida in una tenera processione. Resistente e adattabile, il germano reale ci ricorda sia la fragilità sia la ricchezza delle zone umide, rifugi in cui la vita, anche nel cuore della città, continua a sussurrare piano.",
+                "Image": {
+                    "Url": "/th?id=OHR.DuckPond_IT-IT3562995004_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DuckPond_IT-IT3562995004_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Real-mente elegante",
+                "Title": "Germano reale",
+                "Copyright": "© Philippe Paternolli/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Grazie alla sua grande capacità di adattamento, il germano reale è l’anatra più diffusa al mondo, capace di vivere sia in zone umide naturali sia in ambienti urbani come parchi e canali.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260614_DuckPond\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Germano+reale&form=hpcapt&filters=HpDate:\"20260613_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260614_DuckPond"
+            },
+            "Ssd": "20260614",
+            "Name": "DuckPond",
+            "Market": "IT-IT",
+            "Hash": "3562995004",
+            "FullDateString": "14 giugno 2026"
+        }
+    },
+    {
         "startdate": "20260612",
         "fullstartdate": "202606122200",
         "enddate": "20260613",

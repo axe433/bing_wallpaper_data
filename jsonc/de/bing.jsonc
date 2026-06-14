@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260613",
+        "fullstartdate": "202606132200",
+        "enddate": "20260614",
+        "url": "/th?id=OHR.MainauFlowers_DE-DE9640558313_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MainauFlowers_DE-DE9640558313",
+        "copyright": "Blumengarten auf der Insel Mainau im Bodensee, Baden-Württemberg (© toriru/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Tag+des+Gartens&form=hpcapt&filters=HpDate%3a%2220260613_2200%22",
+        "title": "Die stille Kunst des Gartens",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260613_MainauFlowers%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "7f4a6965b5d3619d0c3b2bb6a6f1792c",
+        "hsh": "c432ae898abca2e4bfce43eb0816cdab",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Wer durch einen gut gestalteten Garten geht, spürt sofort: Hier steckt mehr dahinter als nur schöne Blumen. Der Tag des Gartens, der am zweiten Sonntag im Juni begangen wird, lenkt den Blick gezielt auf diese stille Kunst und würdigt Orte, an denen Gestaltung, Pflege und Natur ineinandergreifen. Die Insel Mainau im Bodensee ist dafür ein besonders eindrucksvolles Beispiel. Auf der sogenannten Blumeninsel wechseln sich im Rhythmus der Jahreszeiten Farben, Formen und Düfte ab. Frühjahrsblüher gehen nahtlos in sommerliche Arrangements über, wobei jede Pflanzung sorgfältig geplant und kontinuierlich gepflegt wird. Wege und Beete geben Struktur und Orientierung, ohne die Leichtigkeit des Ortes zu stören oder zu überformen.",
+                "Image": {
+                    "Url": "/th?id=OHR.MainauFlowers_DE-DE9640558313_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MainauFlowers_DE-DE9640558313_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Die stille Kunst des Gartens",
+                "Title": "Blumengarten auf der Insel Mainau im Bodensee, Baden-Württemberg",
+                "Copyright": "© toriru/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.756443,9.191174/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=47.756443,9.191174;S9;Insel Mainau, Bodensee, Baden-Württemberg&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260614_MainauFlowers\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tag+des+Gartens&form=hpcapt&filters=HpDate:\"20260613_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260614_MainauFlowers"
+            },
+            "Ssd": "20260614",
+            "Name": "MainauFlowers",
+            "Market": "DE-DE",
+            "Hash": "9640558313",
+            "FullDateString": "14. Juni. 2026"
+        }
+    },
+    {
         "startdate": "20260612",
         "fullstartdate": "202606122200",
         "enddate": "20260613",

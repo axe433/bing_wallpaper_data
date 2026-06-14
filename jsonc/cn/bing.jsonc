@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260613",
+        "fullstartdate": "202606131600",
+        "enddate": "20260614",
+        "url": "/th?id=OHR.DuckPond_ZH-CN1683101997_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DuckPond_ZH-CN1683101997",
+        "copyright": "绿头鸭 (© Philippe Paternolli/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E7%BB%BF%E5%A4%B4%E9%B8%AD&form=hpcapt&mkt=zh-cn",
+        "title": "潜羽探清波",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260613_DuckPond%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "76741cf5edcce86fc6d6e1a8f0edba1d",
+        "hsh": "a2cf6fd7cf0233478012725fb5b7c610",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "拂晓时分，绿头鸭掠过平静的水面，宛如画笔划过画布。其波光粼粼的羽衣在晨光下熠熠生辉——雄鸟那标志性的翠绿色头部与雌鸟斑驳的褐色羽毛形成了鲜明对比。从法国卡马格的沼泽湿地到荷兰阿姆斯特丹的城市运河，随处可见它们的身影，它们堪称欧洲水生生态景观中最为常见的标志性物种。",
+                "Image": {
+                    "Url": "/th?id=OHR.DuckPond_ZH-CN1683101997_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DuckPond_ZH-CN1683101997_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "潜羽探清波",
+                "Title": "绿头鸭",
+                "Copyright": "© Philippe Paternolli/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "绿头鸭具有极强的适应能力，是全球分布最广的鸭科鸟类。从天然湿地到城市公园及运河等人工环境，它们均能良好繁衍。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260614_DuckPond\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e7%bb%bf%e5%a4%b4%e9%b8%ad&form=hpcapt&filters=HpDate:\"20260613_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260614_DuckPond"
+            },
+            "Ssd": "20260614",
+            "Name": "DuckPond",
+            "Market": "ZH-CN",
+            "Hash": "1683101997",
+            "FullDateString": "2026 6月 14"
+        }
+    },
+    {
         "startdate": "20260612",
         "fullstartdate": "202606121600",
         "enddate": "20260613",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260613",
+        "fullstartdate": "202606130700",
+        "enddate": "20260614",
+        "url": "/th?id=OHR.BadSunset_EN-US5981956630_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BadSunset_EN-US5981956630",
+        "copyright": "Sunset in Badlands National Park, South Dakota, USA (© Troy Harrison/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Badlands+National+Park&form=hpcapt&filters=HpDate%3a%2220260613_0700%22",
+        "title": "Layers of change",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260613_BadSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d90896e67fb614f6e6801667781bc801",
+        "hsh": "d8dfa48d1e36f31e2fc8809946f94c1f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Layered ridges stretch across Badlands National Park in South Dakota. Their bands of pink, gray, and gold shift with the light as eroded peaks and valleys come into view. Wind and water continue to shape this terrain, steadily wearing away soft sedimentary rock and exposing millions of years of Earth's history in layers formed by ancient rivers, volcanic ash, and periods when shallow seas covered the region.",
+                "Image": {
+                    "Url": "/th?id=OHR.BadSunset_EN-US5981956630_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BadSunset_EN-US5981956630_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Layers of change",
+                "Title": "Sunset in Badlands National Park, South Dakota, USA",
+                "Copyright": "© Troy Harrison/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.85538,-102.339666/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=43.85538,-102.339666;S9;Badlands National Park, South Dakota&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260613_BadSunset\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Badlands+National+Park&form=hpcapt&filters=HpDate:\"20260613_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260613_BadSunset"
+            },
+            "Ssd": "20260613",
+            "Name": "BadSunset",
+            "Market": "EN-US",
+            "Hash": "5981956630",
+            "FullDateString": "Jun 13, 2026"
+        }
+    },
+    {
         "startdate": "20260612",
         "fullstartdate": "202606120700",
         "enddate": "20260613",
