@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260614",
+        "fullstartdate": "202606142200",
+        "enddate": "20260615",
+        "url": "/th?id=OHR.ParkEstd_IT-IT3908775482_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ParkEstd_IT-IT3908775482",
+        "copyright": "Parco nazionale delle Great Smoky Mountains, Tennessee, USA (© Mint Images/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parco+nazionale+delle+Great+Smoky+Mountains&form=hpcapt",
+        "title": "Valli nella nebbia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260614_ParkEstd%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "93731f58bcf3966f611ab537b608940c",
+        "hsh": "b7ae675f8fa48cb6ee35cd260ba17adb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sembrano galleggiare tra le nuvole, non trovate? Nel cuore dei Monti Appalachi, si estende il parco nazionale delle Great Smoky Mountains, un territorio vasto dove foreste antichissime ricoprono valli, crinali e torrenti nascosti. Queste montagne hanno più di 300 milioni di anni e custodiscono alcuni dei paesaggi più antichi del Nord America.",
+                "Image": {
+                    "Url": "/th?id=OHR.ParkEstd_IT-IT3908775482_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ParkEstd_IT-IT3908775482_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Valli nella nebbia",
+                "Title": "Parco nazionale delle Great Smoky Mountains, Tennessee, USA",
+                "Copyright": "© Mint Images/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.613045,-83.553131/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=35.613045,-83.553131;S9;Parco nazionale delle Great Smoky Mountains, Tennessee, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260615_ParkEstd\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parco+nazionale+delle+Great+Smoky+Mountains&form=hpcapt&filters=HpDate:\"20260614_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260615_ParkEstd"
+            },
+            "Ssd": "20260615",
+            "Name": "ParkEstd",
+            "Market": "IT-IT",
+            "Hash": "3908775482",
+            "FullDateString": "15 giugno 2026"
+        }
+    },
+    {
         "startdate": "20260613",
         "fullstartdate": "202606132200",
         "enddate": "20260614",

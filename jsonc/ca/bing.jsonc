@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260614",
+        "fullstartdate": "202606140400",
+        "enddate": "20260615",
+        "url": "/th?id=OHR.DuckPond_EN-CA5165691235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DuckPond_EN-CA5165691235",
+        "copyright": "Mallard duck (© Philippe Paternolli/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mallard+duck&form=hpcapt&filters=HpDate%3a%2220260614_0400%22",
+        "title": "Drift and paddle",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260614_DuckPond%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "76741cf5edcce86fc6d6e1a8f0edba1d",
+        "hsh": "a70feb4d61b88e9d86caaf099954e895",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "At daybreak, the mallard glides over the still water like a brush across a canvas. Its shimmering plumage—emerald-green head in the male, speckled brown coat in the female—catches the first light. It can be seen from the marshes of the Camargue to the urban canals of Amsterdam, a faithful companion of Europe's aquatic landscapes.",
+                "Image": {
+                    "Url": "/th?id=OHR.DuckPond_EN-CA5165691235_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DuckPond_EN-CA5165691235_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Drift and paddle",
+                "Title": "Mallard duck",
+                "Copyright": "© Philippe Paternolli/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Highly adaptable, the mallard is the most widespread duck species in the world, thriving from natural wetlands to city environments like parks and canals.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260614_DuckPond\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Mallard+duck&form=hpcapt&filters=HpDate:\"20260614_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260614_DuckPond"
+            },
+            "Ssd": "20260614",
+            "Name": "DuckPond",
+            "Market": "EN-CA",
+            "Hash": "5165691235",
+            "FullDateString": "Jun 14, 2026"
+        }
+    },
+    {
         "startdate": "20260613",
         "fullstartdate": "202606130400",
         "enddate": "20260614",

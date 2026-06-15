@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260614",
+        "fullstartdate": "202606142200",
+        "enddate": "20260615",
+        "url": "/th?id=OHR.ParkEstd_FR-FR1451638947_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ParkEstd_FR-FR1451638947",
+        "copyright": "Parc national des Great Smoky Mountains, Tennessee, États-Unis (© Mint Images/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Great+Smoky+Mountains+National+Park&form=hpcapt&filters=HpDate%3a%2220260614_2200%22",
+        "title": "Le silence des vallées",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260614_ParkEstd%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "93731f58bcf3966f611ab537b608940c",
+        "hsh": "2523eb26d4eea7a316b652874bfd343f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Façonnées par le temps, les Great Smoky Mountains sont protégées depuis le 15 juin 1934, date de la création du parc national situé entre le Tennessee et la Caroline du Nord, aux États-Unis. S’étendant sur environ 211 000 hectares, il abrite des roches des Appalaches datant de plus de 300 millions d’années, qui se fondent dans la brume bleutée à l’origine de leur nom.",
+                "Image": {
+                    "Url": "/th?id=OHR.ParkEstd_FR-FR1451638947_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ParkEstd_FR-FR1451638947_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Le silence des vallées",
+                "Title": "Parc national des Great Smoky Mountains, Tennessee, États-Unis",
+                "Copyright": "© Mint Images/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.613045,-83.553131/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=35.613045,-83.553131;S9;Parc national des Great Smoky Mountains, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260615_ParkEstd\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Great+Smoky+Mountains+National+Park&form=hpcapt&filters=HpDate:\"20260614_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260615_ParkEstd"
+            },
+            "Ssd": "20260615",
+            "Name": "ParkEstd",
+            "Market": "FR-FR",
+            "Hash": "1451638947",
+            "FullDateString": "15 juin 2026"
+        }
+    },
+    {
         "startdate": "20260613",
         "fullstartdate": "202606132200",
         "enddate": "20260614",

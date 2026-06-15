@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260614",
+        "fullstartdate": "202606140700",
+        "enddate": "20260615",
+        "url": "/th?id=OHR.DuckPond_ROW8945252603_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DuckPond_ROW8945252603",
+        "copyright": "Mallard duck (© Philippe Paternolli/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mallard+duck&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260614_DuckPond%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "76741cf5edcce86fc6d6e1a8f0edba1d",
+        "hsh": "6267ecf8d222ff1b4f8faa3b3bf76ac3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "At daybreak, the mallard glides over the still water like a brush across a canvas. Its shimmering plumage—emerald-green head in the male, speckled brown coat in the female—catches the first light. It can be seen from the marshes of the Camargue to the urban canals of Amsterdam, a faithful companion of Europe's aquatic landscapes.",
+                "Image": {
+                    "Url": "/th?id=OHR.DuckPond_ROW8945252603_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DuckPond_ROW8945252603_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Mallard duck",
+                "Copyright": "© Philippe Paternolli/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260614_DuckPond\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Mallard+duck&form=hpcapt&filters=HpDate:\"20260614_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260614_DuckPond"
+            },
+            "Ssd": "20260614",
+            "Name": "DuckPond",
+            "Market": "ROW",
+            "Hash": "8945252603",
+            "FullDateString": "14 cze 2026"
+        }
+    },
+    {
         "startdate": "20260613",
         "fullstartdate": "202606130700",
         "enddate": "20260614",
