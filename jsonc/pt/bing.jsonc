@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260615",
+        "fullstartdate": "202606150700",
+        "enddate": "20260616",
+        "url": "/th?id=OHR.ParkEstd_ROW8995340148_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ParkEstd_ROW8995340148",
+        "copyright": "Great Smoky Mountains National Park, Tennessee, United States (© Mint Images/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Great+Smoky+Mountains+National+Park&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260615_ParkEstd%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "93731f58bcf3966f611ab537b608940c",
+        "hsh": "ae52703c997b9d7dbfbbcf745375daf1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "These mountains were shaped over time—and June 15, 1934, helped protect them. That's when the Great Smoky Mountains National Park was established in Tennessee and North Carolina. Covering over 2,112 square kilometres, the park takes its name from the natural smoky haze drifting over its ridgelines. Part of the Appalachian Mountains, these peaks are over 300 million years old.",
+                "Image": {
+                    "Url": "/th?id=OHR.ParkEstd_ROW8995340148_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ParkEstd_ROW8995340148_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Great Smoky Mountains National Park, Tennessee, United States",
+                "Copyright": "© Mint Images/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260615_ParkEstd\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Great+Smoky+Mountains+National+Park&form=hpcapt&filters=HpDate:\"20260615_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260615_ParkEstd"
+            },
+            "Ssd": "20260615",
+            "Name": "ParkEstd",
+            "Market": "ROW",
+            "Hash": "8995340148",
+            "FullDateString": "15 jun. 2026"
+        }
+    },
+    {
         "startdate": "20260614",
         "fullstartdate": "202606140700",
         "enddate": "20260615",

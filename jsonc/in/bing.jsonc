@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260615",
+        "fullstartdate": "202606151830",
+        "enddate": "20260616",
+        "url": "/th?id=OHR.SevenMileTurtle_EN-IN0218913418_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SevenMileTurtle_EN-IN0218913418",
+        "copyright": "Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=World+Sea+Turtle+Day&form=hpcapt&filters=HpDate%3a%2220260615_1830%22",
+        "title": "Nature's reef keepers",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260615_SevenMileTurtle%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "978b75143deb275d77a98a77a556ceb2",
+        "hsh": "a2ed32d2a775f095cfd43aebd6740690",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sea Turtle Day highlights some of the ocean's most ancient mariners—reptiles that have existed for over 100 million years. Observed each year on 16 June, it raises awareness of their ecological importance and the growing threats they face. Sea turtles play a vital role in maintaining healthy seagrass beds and coral reefs, ecosystems that support diverse marine life. Long migrations between feeding and nesting areas are central to their life cycle. Despite their resilience, all species are threatened by habitat loss, plastic pollution, climate change and accidental capture in fishing gear.",
+                "Image": {
+                    "Url": "/th?id=OHR.SevenMileTurtle_EN-IN0218913418_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SevenMileTurtle_EN-IN0218913418_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Nature's reef keepers",
+                "Title": "Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands",
+                "Copyright": "© Alex Mustard/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "The temperature of the sand where sea turtle eggs incubate determines whether the hatchlings are male or female.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260616_SevenMileTurtle\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=World+Sea+Turtle+Day&form=hpcapt&filters=HpDate:\"20260615_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260616_SevenMileTurtle"
+            },
+            "Ssd": "20260616",
+            "Name": "SevenMileTurtle",
+            "Market": "EN-IN",
+            "Hash": "0218913418",
+            "FullDateString": "16 Jun, 2026"
+        }
+    },
+    {
         "startdate": "20260614",
         "fullstartdate": "202606141830",
         "enddate": "20260615",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260615",
+        "fullstartdate": "202606152200",
+        "enddate": "20260616",
+        "url": "/th?id=OHR.SevenMileTurtle_DE-DE3122799407_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SevenMileTurtle_DE-DE3122799407",
+        "copyright": "Zwei Echte Karettschildkröten in der Nähe des Seven Mile Beach, Grand Cayman, Kaimaninseln (© Alex Mustard/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+der+Meeresschildkr%C3%B6ten&form=hpcapt&filters=HpDate%3a%2220260615_2200%22",
+        "title": "Hüter der Korallenriffe",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260615_SevenMileTurtle%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "978b75143deb275d77a98a77a556ceb2",
+        "hsh": "5ffc3259a28a83e666a46ba314ef70fd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Seit über 100 Millionen Jahren durchqueren Meeresschildkröten die Ozeane und prägen bis heute empfindliche Meeresökosysteme. Am 16. Juni, dem Internationalen Tag der Meeresschildkröten, rückt ihr Schutz in den Mittelpunkt. Fast alle Arten gelten inzwischen als bedroht, da ihnen Plastikverschmutzung, Klimawandel, Lebensraumverlust und Beifang weltweit zu schaffen machen. Dabei spielen sie eine entscheidende Rolle für das Gleichgewicht der Meere, beispielsweise indem sie Seegraswiesen pflegen, Nährstoffe transportieren und Korallenriffe stabilisieren. Viele Arten legen dabei erstaunliche Distanzen zurück und kehren zur Eiablage an genau jene Strände zurück, an denen sie selbst geschlüpft sind.",
+                "Image": {
+                    "Url": "/th?id=OHR.SevenMileTurtle_DE-DE3122799407_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SevenMileTurtle_DE-DE3122799407_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Hüter der Korallenriffe",
+                "Title": "Zwei Echte Karettschildkröten in der Nähe des Seven Mile Beach, Grand Cayman, Kaimaninseln",
+                "Copyright": "© Alex Mustard/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Bei Meeresschildkröten bestimmt die Temperatur des Sandes während der Brutzeit das Geschlecht der Jungtiere.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260616_SevenMileTurtle\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Internationaler+Tag+der+Meeresschildkr%c3%b6ten&form=hpcapt&filters=HpDate:\"20260615_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260616_SevenMileTurtle"
+            },
+            "Ssd": "20260616",
+            "Name": "SevenMileTurtle",
+            "Market": "DE-DE",
+            "Hash": "3122799407",
+            "FullDateString": "16. Juni. 2026"
+        }
+    },
+    {
         "startdate": "20260614",
         "fullstartdate": "202606142200",
         "enddate": "20260615",
