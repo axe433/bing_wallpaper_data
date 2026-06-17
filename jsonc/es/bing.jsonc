@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260616",
+        "fullstartdate": "202606162200",
+        "enddate": "20260617",
+        "url": "/th?id=OHR.TremolaRoad_ES-ES9122055819_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TremolaRoad_ES-ES9122055819",
+        "copyright": "Carretera Tremola en el paso de San Gotardo, en Airolo, Suiza (© Sandro Bisaro/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Carretera+Tremola&form=hpcapt&filters=HpDate%3a%2220260616_2200%22",
+        "title": "Un ascenso de vértigo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260616_TremolaRoad%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9fe7fa640dfe7d89772ac251efc583b2",
+        "hsh": "a7c2c27c326c9190e46b2ad319a8ddef",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La carretera Tremola, situada en el paso de San Gotardo en Airolo, Suiza, es una de las rutas más emblemáticas de los Alpes. Conserva su trazado histórico de adoquines y una sucesión de curvas cerradas que serpentean por la ladera, ofreciendo una experiencia de conducción única. A lo largo del ascenso, el paisaje combina praderas alpinas, rocas y vistas abiertas que cambian con cada giro.",
+                "Image": {
+                    "Url": "/th?id=OHR.TremolaRoad_ES-ES9122055819_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TremolaRoad_ES-ES9122055819_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un ascenso de vértigo",
+                "Title": "Carretera Tremola en el paso de San Gotardo, en Airolo, Suiza",
+                "Copyright": "© Sandro Bisaro/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.557487,8.562773/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=46.557487,8.562773;S9;Paso de San Gotardo, Airolo, Suiza&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260617_TremolaRoad\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Carretera+Tremola&form=hpcapt&filters=HpDate:\"20260616_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260617_TremolaRoad"
+            },
+            "Ssd": "20260617",
+            "Name": "TremolaRoad",
+            "Market": "ES-ES",
+            "Hash": "9122055819",
+            "FullDateString": "17 de jun de 2026"
+        }
+    },
+    {
         "startdate": "20260615",
         "fullstartdate": "202606152200",
         "enddate": "20260616",

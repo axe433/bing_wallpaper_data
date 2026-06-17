@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260616",
+        "fullstartdate": "202606162200",
+        "enddate": "20260617",
+        "url": "/th?id=OHR.TremolaRoad_FR-FR5199411184_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TremolaRoad_FR-FR5199411184",
+        "copyright": "Route de la Tremola sur le col du Saint-Gothard, Airolo, Suisse (© Sandro Bisaro/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Route+de+la+Tremola&form=hpcapt&filters=HpDate%3a%2220260616_2200%22",
+        "title": "Prêt pour une échappée ?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260616_TremolaRoad%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9fe7fa640dfe7d89772ac251efc583b2",
+        "hsh": "252490662d3d8d4eb1b58b8d56444cc1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Suivez le ruban lumineux et découvrez l’une des routes les plus mythiques des Alpes suisses : la Tremola, ancien accès sud du col du Saint-Gothard au-dessus d’Airolo. Créée au début du XIXe siècle, puis magnifiée lors d’une reconstruction en 1951, elle s’étire tel un monument d’ingénierie routière. La montée gagne environ 300 mètres d’altitude sur près de 4 km, serpentant à travers 24 virages en épingle pavés de granit, bordés de murs de soutènement robustes. Au total, ce ruban de pierre suspendu entre roches, mousses et pâturages alpins compte environ 11 km et 37 courbes.",
+                "Image": {
+                    "Url": "/th?id=OHR.TremolaRoad_FR-FR5199411184_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TremolaRoad_FR-FR5199411184_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Prêt pour une échappée ?",
+                "Title": "Route de la Tremola sur le col du Saint-Gothard, Airolo, Suisse",
+                "Copyright": "© Sandro Bisaro/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.557487,8.562773/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=46.557487,8.562773;S9;Col du Saint-Gothard, Airolo, Suisse&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260617_TremolaRoad\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Route+de+la+Tremola&form=hpcapt&filters=HpDate:\"20260616_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260617_TremolaRoad"
+            },
+            "Ssd": "20260617",
+            "Name": "TremolaRoad",
+            "Market": "FR-FR",
+            "Hash": "5199411184",
+            "FullDateString": "17 juin 2026"
+        }
+    },
+    {
         "startdate": "20260615",
         "fullstartdate": "202606152200",
         "enddate": "20260616",

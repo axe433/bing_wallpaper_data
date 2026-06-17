@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260616",
+        "fullstartdate": "202606160700",
+        "enddate": "20260617",
+        "url": "/th?id=OHR.SevenMileTurtle_ROW9119311274_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SevenMileTurtle_ROW9119311274",
+        "copyright": "Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Hawksbill+sea+turtle&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260616_SevenMileTurtle%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "978b75143deb275d77a98a77a556ceb2",
+        "hsh": "e7680a3b78ab51b65f5cddcecac66f6b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sea turtles have been navigating Earth's oceans for more than 100 million years. Imagine crossing vast stretches of open water and returning to the same beach decades later. Long migrations between feeding and nesting grounds are central to their lives, with some travelling thousands of kilometres across the oceans. They also play an important role in marine ecosystems by maintaining seagrass beds and helping to keep coral reefs healthy. Despite their resilience, all sea turtle species face threats including habitat loss, plastic pollution, climate change and accidental capture in fishing gear.",
+                "Image": {
+                    "Url": "/th?id=OHR.SevenMileTurtle_ROW9119311274_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SevenMileTurtle_ROW9119311274_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands",
+                "Copyright": "© Alex Mustard/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260616_SevenMileTurtle\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hawksbill+sea+turtle&form=hpcapt&filters=HpDate:\"20260616_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260616_SevenMileTurtle"
+            },
+            "Ssd": "20260616",
+            "Name": "SevenMileTurtle",
+            "Market": "ROW",
+            "Hash": "9119311274",
+            "FullDateString": "16 juni 2026"
+        }
+    },
+    {
         "startdate": "20260615",
         "fullstartdate": "202606150700",
         "enddate": "20260616",
