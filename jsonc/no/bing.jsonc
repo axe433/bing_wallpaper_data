@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260617",
+        "fullstartdate": "202606170700",
+        "enddate": "20260618",
+        "url": "/th?id=OHR.TremolaRoad_ROW9264574129_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TremolaRoad_ROW9264574129",
+        "copyright": "Tremola Road on the Saint Gotthard Pass in Airolo, Switzerland (© Sandro Bisaro/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Tremola+Road&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260617_TremolaRoad%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9fe7fa640dfe7d89772ac251efc583b2",
+        "hsh": "63d57aacd24a4696ed7e6327119f5fb0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Follow the glowing ribbon of switchbacks and you'll find one of Switzerland's most legendary drives: Tremola Road, the historic southern approach to the Saint Gotthard Pass, above Airolo. Built in the early 1800s and largely shaped by a 1951 reconstruction, this route is celebrated as Switzerland's longest monument to historic road construction. Its showstopper stretch climbs about 299 metres in just 4 kilometres, curling through 24 named hairpin bends on granite cobblestones, with sturdy retaining walls edging the way. Overall, it runs about 11 kilometres and features 37 bends in total. Take it slow—every curve feels like a step back in time, trading speed for sweeping mountain scenery and big views toward the upper Leventina Valley. Whether you're driving, cycling or pulling over for photos, look for the Grand Tour of Switzerland photo spot framing those iconic zigzags.",
+                "Image": {
+                    "Url": "/th?id=OHR.TremolaRoad_ROW9264574129_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TremolaRoad_ROW9264574129_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Tremola Road on the Saint Gotthard Pass in Airolo, Switzerland",
+                "Copyright": "© Sandro Bisaro/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260617_TremolaRoad\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tremola+Road&form=hpcapt&filters=HpDate:\"20260617_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260617_TremolaRoad"
+            },
+            "Ssd": "20260617",
+            "Name": "TremolaRoad",
+            "Market": "ROW",
+            "Hash": "9264574129",
+            "FullDateString": "17. jun. 2026"
+        }
+    },
+    {
         "startdate": "20260616",
         "fullstartdate": "202606160700",
         "enddate": "20260617",
