@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260618",
+        "fullstartdate": "202606181500",
+        "enddate": "20260619",
+        "url": "/th?id=OHR.GrandPlace_JA-JP0571812680_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrandPlace_JA-JP0571812680",
+        "copyright": "グラン＝プラス, ベルギー (© Vladislav Zolotov/Getty Images Plus)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%B0%E3%83%A9%E3%83%B3%EF%BC%9D%E3%83%97%E3%83%A9%E3%82%B9%EF%BC%88%E3%83%96%E3%83%AA%E3%83%A5%E3%83%83%E3%82%BB%E3%83%AB%EF%BC%89&form=hpcapt&filters=HpDate%3a%2220260618_1500%22",
+        "title": "装飾美が際立つ歴史的街並み",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260618_GrandPlace%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "52cbe3c1517645a01992bb92edf1aabc",
+        "hsh": "8834f7bfa1a3a35e8d5265483b10d854",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日の画像は「グラン＝プラス」。ベルギーの首都、ブリュッセルの中心地にある大広場です。世界で最も美しい広場のひとつとも称され、ユネスコの世界遺産にも登録されています。かつてこの広場を囲む建物の多くは木造でしたが、大同盟戦争中の 1695 年に、フランスの砲撃によって大半が破壊されました。その後、様々な職業別組合（ギルド）によって、現在のような石造りの建物に再建されました。建物の壁に飾られた樽や手押し車などの紋章は、それぞれの職業を象徴しています。",
+                "Image": {
+                    "Url": "/th?id=OHR.GrandPlace_JA-JP0571812680_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GrandPlace_JA-JP0571812680_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "装飾美が際立つ歴史的街並み",
+                "Title": "グラン＝プラス, ベルギー",
+                "Copyright": "© Vladislav Zolotov/Getty Images Plus",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.84685,4.352454/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=50.84685,4.352454;S9;グラン＝プラス, ベルギー&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260619_GrandPlace%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260619_GrandPlace\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%b0%e3%83%a9%e3%83%b3%ef%bc%9d%e3%83%97%e3%83%a9%e3%82%b9%ef%bc%88%e3%83%96%e3%83%aa%e3%83%a5%e3%83%83%e3%82%bb%e3%83%ab%ef%bc%89&form=hpcapt&filters=HpDate:\"20260618_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260619_GrandPlace"
+            },
+            "Ssd": "20260619",
+            "Name": "GrandPlace",
+            "Market": "JA-JP",
+            "Hash": "0571812680",
+            "FullDateString": "2026 年 6月 月 19 日"
+        }
+    },
+    {
         "startdate": "20260617",
         "fullstartdate": "202606171500",
         "enddate": "20260618",

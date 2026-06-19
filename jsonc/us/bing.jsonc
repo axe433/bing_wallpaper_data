@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260618",
+        "fullstartdate": "202606180700",
+        "enddate": "20260619",
+        "url": "/th?id=OHR.Saqsaywaman_EN-US6250260694_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Saqsaywaman_EN-US6250260694",
+        "copyright": "Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)",
+        "copyrightlink": "https://www.bing.com/search?q=Sacsayhuaman+Cusco+Peru&form=hpcapt&filters=HpDate%3a%2220260618_0700%22",
+        "title": "A rock-solid marvel",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260618_Saqsaywaman%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a2da6b837bc52dd1de40e2762459c725",
+        "hsh": "d5c2374b182f79a587a5211ff1adcc10",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Set high above Cusco in Peru, Sacsayhuamán reveals the ambition of the Inca Empire in stone. Built in the 15th century, this vast complex once formed part of the sacred capital of the Incas. From above, the layout becomes clear: terraces, open plazas, and the remains of towers forming a carefully planned citadel. The largest walls, built from enormous blocks, still stand strong today. Some stones rise more than 27 feet tall and were fitted together so precisely—without mortar—that the structure has endured centuries of earthquakes.",
+                "Image": {
+                    "Url": "/th?id=OHR.Saqsaywaman_EN-US6250260694_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Saqsaywaman_EN-US6250260694_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A rock-solid marvel",
+                "Title": "Aerial view of the ruins of Sacsayhuamán, Cusco, Peru",
+                "Copyright": "© Creative-Family/Getty Images Plus",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-13.50778,-71.98222/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=-13.50778,-71.98222;S9;Sacsayhuamán, Cusco, Peru&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260618_Saqsaywaman\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Sacsayhuaman+Cusco+Peru&form=hpcapt&filters=HpDate:\"20260618_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260618_Saqsaywaman"
+            },
+            "Ssd": "20260618",
+            "Name": "Saqsaywaman",
+            "Market": "EN-US",
+            "Hash": "6250260694",
+            "FullDateString": "Jun 18, 2026"
+        }
+    },
+    {
         "startdate": "20260617",
         "fullstartdate": "202606170700",
         "enddate": "20260618",

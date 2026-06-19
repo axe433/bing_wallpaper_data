@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260618",
+        "fullstartdate": "202606181600",
+        "enddate": "20260619",
+        "url": "/th?id=OHR.DragonBoatFestivalY26_ZH-CN3070279417_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DragonBoatFestivalY26_ZH-CN3070279417",
+        "copyright": "湖中的龙舟，中国 (©  Zhonghui Bao/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E7%AB%AF%E5%8D%88%E8%8A%82&form=hpcapt&mkt=zh-cn",
+        "title": "龙吟古韵",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260618_DragonBoatFestivalY26%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "99612521b10e3c4517ebf3b28f2402be",
+        "hsh": "bdc5eebdc6dcf00bbeeefcb4144d54eb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "在华夏大地的万顷碧波上，龙舟竞渡已绵延了两千多年。这项如今享誉全球的体育活动，不仅是一场速度与力量的博弈，更是一枚深深烙印在中华儿女血脉中的文化符号。龙舟的起源众说纷纭，融汇了神话、历史与军事的多重色彩，共同构成了端午文化的底蕴。",
+                "Image": {
+                    "Url": "/th?id=OHR.DragonBoatFestivalY26_ZH-CN3070279417_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DragonBoatFestivalY26_ZH-CN3070279417_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "龙吟古韵",
+                "Title": "湖中的龙舟，中国",
+                "Copyright": "©  Zhonghui Bao/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "流体力学原理在龙舟竞渡中表现显著，其细长的船体设计能有效减少水的阻力，使训练有素的团队能够实现惊人的航行速度。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260619_DragonBoatFestivalY26\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e7%ab%af%e5%8d%88%e8%8a%82&form=hpcapt&filters=HpDate:\"20260618_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260619_DragonBoatFestivalY26"
+            },
+            "Ssd": "20260619",
+            "Name": "DragonBoatFestivalY26",
+            "Market": "ZH-CN",
+            "Hash": "3070279417",
+            "FullDateString": "2026 6月 19"
+        }
+    },
+    {
         "startdate": "20260617",
         "fullstartdate": "202606171600",
         "enddate": "20260618",

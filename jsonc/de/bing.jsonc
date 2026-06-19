@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260618",
+        "fullstartdate": "202606182200",
+        "enddate": "20260619",
+        "url": "/th?id=OHR.IsolaElba_DE-DE0710166341_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IsolaElba_DE-DE0710166341",
+        "copyright": "Leuchtturm „La Rocchetta“, Piombino, Italien (© StevanZZ/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=La+Rocchetta+Leuchtturm&form=hpcapt&filters=HpDate%3a%2220260618_2200%22",
+        "title": "Meer, Licht und Weite",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260618_IsolaElba%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "db6d705a5f8a5a28e4ab477fd9c75aed",
+        "hsh": "97db13f2aab80a449c0a8fcaad4eaac7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Am Rand der Piazza Bovio, im Herzen von Piombino in der Toskana, erhebt sich ein Leuchtturm über der Küste. Der Leuchtturm von Piombino, auch „La Rocchetta“ genannt, steht an einem Punkt, an dem sich der Blick zur Insel Elba öffnet. Errichtet im 20. Jahrhundert auf den Resten einer älteren Befestigung, präsentiert sich der kleine Bau im neugotischen Stil. Bis heute dient er als Orientierung für Schiffe im Kanal des toskanischen Archipels – sein Licht ist weit sichtbar über dem Meer.",
+                "Image": {
+                    "Url": "/th?id=OHR.IsolaElba_DE-DE0710166341_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.IsolaElba_DE-DE0710166341_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Meer, Licht und Weite",
+                "Title": "Leuchtturm „La Rocchetta“, Piombino, Italien",
+                "Copyright": "© StevanZZ/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/42.936254,10.54206/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=42.936254,10.54206;S9;Leuchtturm La Rocchetta, Piombino, Italien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260619_IsolaElba\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=La+Rocchetta+Leuchtturm&form=hpcapt&filters=HpDate:\"20260618_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260619_IsolaElba"
+            },
+            "Ssd": "20260619",
+            "Name": "IsolaElba",
+            "Market": "DE-DE",
+            "Hash": "0710166341",
+            "FullDateString": "19. Juni. 2026"
+        }
+    },
+    {
         "startdate": "20260617",
         "fullstartdate": "202606172200",
         "enddate": "20260618",
