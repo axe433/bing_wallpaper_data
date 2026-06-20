@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260619",
+        "fullstartdate": "202606192200",
+        "enddate": "20260620",
+        "url": "/th?id=OHR.ArchedIceberg_FR-FR8603937918_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ArchedIceberg_FR-FR8603937918",
+        "copyright": "Arche naturelle sculptée dans un iceberg, Océan Antarctique (© Steven Kazlowski/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Iceberg&form=hpcapt&filters=HpDate%3a%2220260619_2200%22",
+        "title": "Sculpté dans la glace",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260619_ArchedIceberg%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2768d26e384e8c6cd6f5014232daa725",
+        "hsh": "2ceee5200c4367e7a4789a4974e41293",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Une arche sculptée de glace surgit des eaux froides de l’océan Austral, le long de la péninsule Antarctique, région particulièrement touchée par le réchauffement climatique. Cette matière figée s’est formée il y a des millénaires, lorsque la neige s’est lentement comprimée pour devenir de la glace. Un jour, sous l’effet de contraintes mécaniques liées à des fractures internes, un fragment de glacier ou de plateforme flottante se détache : ce phénomène, appelé vêlage, donne naissance à un iceberg voyageur.",
+                "Image": {
+                    "Url": "/th?id=OHR.ArchedIceberg_FR-FR8603937918_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ArchedIceberg_FR-FR8603937918_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Sculpté dans la glace",
+                "Title": "Arche naturelle sculptée dans un iceberg, Océan Antarctique",
+                "Copyright": "© Steven Kazlowski/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-69.5,-65/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=-69.5,-65;S9;Antarctique&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260620_ArchedIceberg\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Iceberg&form=hpcapt&filters=HpDate:\"20260619_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260620_ArchedIceberg"
+            },
+            "Ssd": "20260620",
+            "Name": "ArchedIceberg",
+            "Market": "FR-FR",
+            "Hash": "8603937918",
+            "FullDateString": "20 juin 2026"
+        }
+    },
+    {
         "startdate": "20260618",
         "fullstartdate": "202606182200",
         "enddate": "20260619",

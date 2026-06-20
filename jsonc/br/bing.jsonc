@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260619",
+        "fullstartdate": "202606190300",
+        "enddate": "20260620",
+        "url": "/th?id=OHR.IsolaElba_PT-BR4257374246_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IsolaElba_PT-BR4257374246",
+        "copyright": "Farol La Rocchetta, Piombino, Toscana, Itália (© StevanZZ/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Farol+La+Rocchetta+na+Italia&form=hpcapt&mkt=pt-br",
+        "title": "Um final em aberto",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260619_IsolaElba%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "db6d705a5f8a5a28e4ab477fd9c75aed",
+        "hsh": "66755bb72ab640e66f6a3f9905af052c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nem todo final precisa de ponto. Em Piombino, na região da Toscana, a Itália decidiu terminar em forma de península. Ali, na extremidade da Piazza Bovio, o pequeno farol de Piombino, também conhecido como La Rocchetta, observa o vai e vem entre o continente e a ilha de Elba, a poucos quilômetros dali. Pequeno, quase modesto, ele surgiu no século XX sobre vestígios de uma antiga fortificação, como quem assume o turno seguinte de vigia sem interromper a história.",
+                "Image": {
+                    "Url": "/th?id=OHR.IsolaElba_PT-BR4257374246_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.IsolaElba_PT-BR4257374246_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Um final em aberto",
+                "Title": "Farol La Rocchetta, Piombino, Toscana, Itália",
+                "Copyright": "© StevanZZ/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260619_IsolaElba\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Farol+La+Rocchetta+na+Italia&form=hpcapt&filters=HpDate:\"20260619_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260619_IsolaElba"
+            },
+            "Ssd": "20260619",
+            "Name": "IsolaElba",
+            "Market": "PT-BR",
+            "Hash": "4257374246",
+            "FullDateString": "19 jun. 2026"
+        }
+    },
+    {
         "startdate": "20260618",
         "fullstartdate": "202606180300",
         "enddate": "20260619",

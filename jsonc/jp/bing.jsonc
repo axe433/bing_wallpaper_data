@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260619",
+        "fullstartdate": "202606191500",
+        "enddate": "20260620",
+        "url": "/th?id=OHR.ArchedIceberg_JA-JP0865478817_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ArchedIceberg_JA-JP0865478817",
+        "copyright": "アーチ状の氷山, 南極半島西部 (© Steven Kazlowski/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%83%BC%E3%83%81%E7%8A%B6%E3%81%AE%E6%B0%B7%E5%B1%B1&form=hpcapt&filters=HpDate%3a%2220260619_1500%22",
+        "title": "氷山に穿たれた天然のアーチ",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260619_ArchedIceberg%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2768d26e384e8c6cd6f5014232daa725",
+        "hsh": "397bfd64933556bd64b3dcd7c1739965",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "氷山は、南極に降り積もった雪が氷となり、海へ移動して割れることで形成されます。南極海で主に見られるのは、上面が平らな卓状氷山ですが、画像のように、浸食によって不規則な形に形成された氷山なども存在します。一見するとただの氷の塊の氷山ですが、実際には生態系を支える重要な存在です。海中部分には藻類が付着しており、オキアミなどのプランクトンが餌としています。そして、そのプランクトンは、魚やアザラシ、クジラなどの食料となります。また、氷が溶けるとその栄養分が周囲の海へと放出され、周辺海域の生態系を豊かにしています。このように氷山は、「移動する生態系」ともいえる役割を果たしています。",
+                "Image": {
+                    "Url": "/th?id=OHR.ArchedIceberg_JA-JP0865478817_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ArchedIceberg_JA-JP0865478817_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "氷山に穿たれた天然のアーチ",
+                "Title": "アーチ状の氷山, 南極半島西部",
+                "Copyright": "© Steven Kazlowski/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-69.5,-65/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=-69.5,-65;S9;南極半島&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260620_ ArchedIceberg%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260620_ArchedIceberg\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%a2%e3%83%bc%e3%83%81%e7%8a%b6%e3%81%ae%e6%b0%b7%e5%b1%b1&form=hpcapt&filters=HpDate:\"20260619_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260620_ArchedIceberg"
+            },
+            "Ssd": "20260620",
+            "Name": "ArchedIceberg",
+            "Market": "JA-JP",
+            "Hash": "0865478817",
+            "FullDateString": "2026 年 6月 月 20 日"
+        }
+    },
+    {
         "startdate": "20260618",
         "fullstartdate": "202606181500",
         "enddate": "20260619",

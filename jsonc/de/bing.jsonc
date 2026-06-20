@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260619",
+        "fullstartdate": "202606192200",
+        "enddate": "20260620",
+        "url": "/th?id=OHR.KielSailing_DE-DE0980571166_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KielSailing_DE-DE0980571166",
+        "copyright": "Windjammerparade zur Kieler Woche in Kiel, Schleswig-Holstein (© Snapshot freddy/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Kieler+Woche&form=hpcapt&filters=HpDate%3a%2220260619_2200%22",
+        "title": "Unter vollen Segeln",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260619_KielSailing%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "90f06e19950c7784f98bcf7d68f74dc4",
+        "hsh": "838622184c099061c164b0d5ad39506a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "„Leinen los!“ – so beginnt in Kiel jedes Jahr eines der größten und traditionsreichsten Segelereignisse der Welt: die Kieler Woche. Das renommierte Festival in Schleswig-Holstein verbindet internationale Regatten mit einem maritimen Volksfest, das die Stadt neun Tage lang prägt. Auf der Kieler Förde treffen moderne Yachten, historische Segelschiffe sowie zahlreiche kleinere Boote aufeinander und bestimmen das Bild der Küste.",
+                "Image": {
+                    "Url": "/th?id=OHR.KielSailing_DE-DE0980571166_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KielSailing_DE-DE0980571166_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Unter vollen Segeln",
+                "Title": "Windjammerparade zur Kieler Woche in Kiel, Schleswig-Holstein",
+                "Copyright": "© Snapshot freddy/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/54.429897,10.117243/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=54.429897,10.117243;S9;Kiel, Schleswig-Holstein&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260620_KielSailing\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Kieler+Woche&form=hpcapt&filters=HpDate:\"20260619_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260620_KielSailing"
+            },
+            "Ssd": "20260620",
+            "Name": "KielSailing",
+            "Market": "DE-DE",
+            "Hash": "0980571166",
+            "FullDateString": "20. Juni. 2026"
+        }
+    },
+    {
         "startdate": "20260618",
         "fullstartdate": "202606182200",
         "enddate": "20260619",

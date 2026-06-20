@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260619",
+        "fullstartdate": "202606190700",
+        "enddate": "20260620",
+        "url": "/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628",
+        "copyright": "National Museum of African American History and Culture, Washington, DC (© Walter Bibikow/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Juneteenth&form=hpcapt&filters=HpDate%3a%2220260619_0700%22",
+        "title": "A story rising in bronze",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260619_JuneteenthNMAAHC%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "eba33a67fdd218eb49353ee664679f8d",
+        "hsh": "2f8485f54e2cc46741e560b706882277",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Across the National Mall in Washington, DC, the National Museum of African American History and Culture rises with a striking bronze-colored exterior. This powerful landmark reflects the story of Juneteenth, a holiday marking June 19, 1865, when Union troops arrived in Galveston, Texas, and finally announced freedom for more than 250,000 enslaved people—more than two years after the Emancipation Proclamation took effect.",
+                "Image": {
+                    "Url": "/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A story rising in bronze",
+                "Title": "National Museum of African American History and Culture, Washington, DC",
+                "Copyright": "© Walter Bibikow/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.891068,-77.032616/12?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=38.891068,-77.032616;S9;National Museum of African American History and Culture, Washington, DC&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260619_JuneteenthNMAAHC\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Juneteenth&form=hpcapt&filters=HpDate:\"20260619_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260619_JuneteenthNMAAHC"
+            },
+            "Ssd": "20260619",
+            "Name": "JuneteenthNMAAHC",
+            "Market": "EN-US",
+            "Hash": "6306942628",
+            "FullDateString": "Jun 19, 2026"
+        }
+    },
+    {
         "startdate": "20260618",
         "fullstartdate": "202606180700",
         "enddate": "20260619",

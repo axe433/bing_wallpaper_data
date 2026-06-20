@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260619",
+        "fullstartdate": "202606191600",
+        "enddate": "20260620",
+        "url": "/th?id=OHR.ArchedIceberg_ZH-CN2698040371_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ArchedIceberg_ZH-CN2698040371",
+        "copyright": "漂浮在南极半岛西部海域的拱形冰山, 南大洋 (© Steven Kazlowski/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%86%B0%E5%B1%B1&form=hpcapt&mkt=zh-cn",
+        "title": "海洋中冰封的大教堂",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260619_ArchedIceberg%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2768d26e384e8c6cd6f5014232daa725",
+        "hsh": "626556ae8a7c43c8db6642478c21b7b4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "在南极半岛沿岸，一道冰雕般的拱形结构从南大洋拔地而起，而南极半岛是地球上变暖速度最快的地区之一。这道拱形结构最初是由积雪压实而成，历经数千年演变为冰川。最终，冰川或漂浮冰架的一部分断裂脱落——这一过程被称为冰崩——形成了漂浮的冰山。",
+                "Image": {
+                    "Url": "/th?id=OHR.ArchedIceberg_ZH-CN2698040371_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ArchedIceberg_ZH-CN2698040371_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "海洋中冰封的大教堂",
+                "Title": "漂浮在南极半岛西部海域的拱形冰山, 南大洋",
+                "Copyright": "© Steven Kazlowski/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "冰山在融化过程中可能因重心变化突然翻转，其释放的能量甚至足以在平静海面上掀起较大波浪。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260620_ArchedIceberg\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%86%b0%e5%b1%b1&form=hpcapt&filters=HpDate:\"20260619_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260620_ArchedIceberg"
+            },
+            "Ssd": "20260620",
+            "Name": "ArchedIceberg",
+            "Market": "ZH-CN",
+            "Hash": "2698040371",
+            "FullDateString": "2026 6月 20"
+        }
+    },
+    {
         "startdate": "20260618",
         "fullstartdate": "202606181600",
         "enddate": "20260619",
@@ -18,10 +67,10 @@
         "hs": [],
         "MediaContent": {
             "ImageContent": {
-                "Description": "在华夏大地的万顷碧波上，龙舟竞渡已绵延了两千多年。这项如今享誉全球的体育活动，不仅是一场速度与力量的博弈，更是一枚深深烙印在中华儿女血脉中的文化符号。龙舟的起源众说纷纭，融汇了神话、历史与军事的多重色彩，共同构成了端午文化的底蕴。",
+                "Description": "在华夏大地的万顷碧波上，龙舟竞渡已绵延了两千多年。这项如今享誉全球的体育活动，不仅是一场速度与力量的博弈，更是一枚深深烙印在中华儿女血脉中的文化符号。龙舟的起源众说纷纭，融汇了神话、历史等多重色彩，共同构成了端午文化的底蕴。",
                 "Image": {
-                    "Url": "/th?id=OHR.DragonBoatFestivalY26_ZH-CN3070279417_1920x1080.webp",
-                    "Wallpaper": "/th?id=OHR.DragonBoatFestivalY26_ZH-CN3070279417_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Url": "/th?id=OHR.DragonBoatFestivalY26_ZH-CN5532138555_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DragonBoatFestivalY26_ZH-CN5532138555_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
                     "Downloadable": true
                 },
                 "Headline": "龙吟古韵",
@@ -44,7 +93,7 @@
             "Ssd": "20260619",
             "Name": "DragonBoatFestivalY26",
             "Market": "ZH-CN",
-            "Hash": "3070279417",
+            "Hash": "5532138555",
             "FullDateString": "2026 6月 19"
         }
     },

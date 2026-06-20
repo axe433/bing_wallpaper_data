@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260619",
+        "fullstartdate": "202606190700",
+        "enddate": "20260620",
+        "url": "/th?id=OHR.IsolaElba_ROW4135146629_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IsolaElba_ROW4135146629",
+        "copyright": "La Rocchetta Lighthouse, Piombino, Tuscany, Italy (© StevanZZ/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=La+Rocchetta+Lighthouse&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260619_IsolaElba%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "db6d705a5f8a5a28e4ab477fd9c75aed",
+        "hsh": "c0eb5ad081a73fde9be2e6c6aaef4dd1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Perched at the far edge of Piazza Bovio in Piombino, Tuscany, Italy, is the Piombino Lighthouse. Locally, it is known as 'Faro di Piombino' or 'La Rocchetta Lighthouse.' It overlooks the point where the Tuscan coast faces the island of Elba.",
+                "Image": {
+                    "Url": "/th?id=OHR.IsolaElba_ROW4135146629_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.IsolaElba_ROW4135146629_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "La Rocchetta Lighthouse, Piombino, Tuscany, Italy",
+                "Copyright": "© StevanZZ/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260619_IsolaElba\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=La+Rocchetta+Lighthouse&form=hpcapt&filters=HpDate:\"20260619_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260619_IsolaElba"
+            },
+            "Ssd": "20260619",
+            "Name": "IsolaElba",
+            "Market": "ROW",
+            "Hash": "4135146629",
+            "FullDateString": "Jun 19, jjjj"
+        }
+    },
+    {
         "startdate": "20260618",
         "fullstartdate": "202606180700",
         "enddate": "20260619",
