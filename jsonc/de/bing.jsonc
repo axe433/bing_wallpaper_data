@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260620",
+        "fullstartdate": "202606202200",
+        "enddate": "20260621",
+        "url": "/th?id=OHR.EggDad_DE-DE1185821144_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EggDad_DE-DE1185821144",
+        "copyright": "Ein Königspinguin-Männchen schaut nach seinem Ei (© McDonald Wildlife Photography Inc./Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=K%C3%B6nigspinguin&form=hpcapt&filters=HpDate%3a%2220260620_2200%22",
+        "title": "Wächter im Eis",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260620_EggDad%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c2e0a5dab73db40e9f4d46bb919464aa",
+        "hsh": "f4eea450a211d71bb606156df8c656fd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Inmitten einer dicht gedrängten Kolonie hebt sich ein einzelnes Männchen der Königspinguine kaum vom Gewimmel ab. Mit gesenktem Kopf hält es ein Ei sicher auf seinen Füßen, das unter einer warmen, gut durchbluteten Hautfalte verborgen ist. Ein Nest gibt es nicht – alles hängt davon ab, die empfindliche Last vor dem eisigen Wind zu schützen und konstant warmzuhalten.",
+                "Image": {
+                    "Url": "/th?id=OHR.EggDad_DE-DE1185821144_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EggDad_DE-DE1185821144_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Wächter im Eis",
+                "Title": "Ein Königspinguin-Männchen schaut nach seinem Ei",
+                "Copyright": "© McDonald Wildlife Photography Inc./Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Weltweit gibt es 18 Pinguinarten – der Königspinguin ist nach dem Kaiserpinguin die zweitgrößte.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260621_EggDad\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=K%c3%b6nigspinguin&form=hpcapt&filters=HpDate:\"20260620_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260621_EggDad"
+            },
+            "Ssd": "20260621",
+            "Name": "EggDad",
+            "Market": "DE-DE",
+            "Hash": "1185821144",
+            "FullDateString": "21. Juni. 2026"
+        }
+    },
+    {
         "startdate": "20260619",
         "fullstartdate": "202606192200",
         "enddate": "20260620",

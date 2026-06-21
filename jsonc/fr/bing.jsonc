@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260620",
+        "fullstartdate": "202606202200",
+        "enddate": "20260621",
+        "url": "/th?id=OHR.SeineRiverside_FR-FR9034174472_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SeineRiverside_FR-FR9034174472",
+        "copyright": "Notre-Dame de Paris et les quais de Seine, Paris (© RudyBalasko/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=f%C3%AAte+de+la+musique&form=hpcapt&filters=HpDate%3a%2220260620_2200%22",
+        "title": "Tous en chœur !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260620_SeineRiverside%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "09b93258aabe9474f3a868562b77555e",
+        "hsh": "107c0545863f8bf96fffe62598d00552",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Chaque 21 juin, alors que la lumière s’étire jusqu’au crépuscule, la Fête de la musique transforme villes et villages en scènes ouvertes. Née en 1982 en France, cette célébration coïncide avec le solstice d’été, moment où la nature elle-même vibre au rythme du jour le plus long. Dans les rues, sous les platanes encore tièdes de soleil, amateurs et professionnels mêlent leurs notes : guitare, jazz, chorales, musiques du monde.",
+                "Image": {
+                    "Url": "/th?id=OHR.SeineRiverside_FR-FR9034174472_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SeineRiverside_FR-FR9034174472_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Tous en chœur !",
+                "Title": "Notre-Dame de Paris et les quais de Seine, Paris",
+                "Copyright": "© RudyBalasko/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "La Fête de la musique a été créée en 1982 à l’initiative du ministre de la Culture Jack Lang, avec l’idée de rendre la musique accessible à tous.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260621_SeineRiverside\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=f%c3%aate+de+la+musique&form=hpcapt&filters=HpDate:\"20260620_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260621_SeineRiverside"
+            },
+            "Ssd": "20260621",
+            "Name": "SeineRiverside",
+            "Market": "FR-FR",
+            "Hash": "9034174472",
+            "FullDateString": "21 juin 2026"
+        }
+    },
+    {
         "startdate": "20260619",
         "fullstartdate": "202606192200",
         "enddate": "20260620",

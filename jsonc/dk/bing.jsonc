@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260620",
+        "fullstartdate": "202606200700",
+        "enddate": "20260621",
+        "url": "/th?id=OHR.ArchedIceberg_ROW4666187976_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ArchedIceberg_ROW4666187976",
+        "copyright": "Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Iceberg&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260620_ArchedIceberg%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2768d26e384e8c6cd6f5014232daa725",
+        "hsh": "d9a262548f691b07ec341576998ad66a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A sculpted arch of ice rises from the Southern Ocean along the Antarctic Peninsula, one of the fastest-warming regions on Earth. This formation began as compacted snow that turned into glacial ice over thousands of years. Eventually, part of a glacier or floating ice shelf fractured and broke free—a process known as calving—creating a drifting iceberg.",
+                "Image": {
+                    "Url": "/th?id=OHR.ArchedIceberg_ROW4666187976_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ArchedIceberg_ROW4666187976_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean",
+                "Copyright": "© Steven Kazlowski/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260620_ArchedIceberg\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Iceberg&form=hpcapt&filters=HpDate:\"20260620_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260620_ArchedIceberg"
+            },
+            "Ssd": "20260620",
+            "Name": "ArchedIceberg",
+            "Market": "ROW",
+            "Hash": "4666187976",
+            "FullDateString": "20. jun. 2026"
+        }
+    },
+    {
         "startdate": "20260619",
         "fullstartdate": "202606190700",
         "enddate": "20260620",

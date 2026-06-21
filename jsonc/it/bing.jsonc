@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260620",
+        "fullstartdate": "202606202200",
+        "enddate": "20260621",
+        "url": "/th?id=OHR.Cesenatico_IT-IT1478062900_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Cesenatico_IT-IT1478062900",
+        "copyright": "Barche a vela tradizionali, Porto Canale Leonardesco, Cesenatico, Emilia-Romagna (© Francesco Riccardo Iacomino/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Porto+Canale+Leonardesco&form=hpcapt",
+        "title": "Tracce leonardiane",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260620_Cesenatico%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "7535da5770173c2162f4318c4780f93d",
+        "hsh": "0f791dcfe7e881eddffa5c61dc7464cd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Il Porto Canale Leonardesco è il cuore storico di Cesenatico e il luogo attorno a cui la città ha preso forma nei secoli. Nel tratto più interno conserva ancora le linee progettate nel 1502 da Leonardo da Vinci, chiamato da Cesare Borgia per migliorare l’antico approdo della città. Oggi il canale è molto più di un’opera d’ingegneria ed è anche una passeggiata tra case colorate, vecchie banchine, piazze storiche e tradizioni marinare ancora vive. Qui si trovano il Museo Galleggiante della Marineria, le antiche conserve per il pesce e le imponenti porte vinciane che proteggono il centro dalle mareggiate, ispirate proprio ai progetti di Leonardo. Tra barche storiche, riflessi sull’acqua e profumo di mare, il porto continua a essere il punto d’incontro di Cesenatico. E forse è proprio questo il suo fascino più grande e sembra ancora un luogo dove il tempo rallenta insieme alla marea.",
+                "Image": {
+                    "Url": "/th?id=OHR.Cesenatico_IT-IT1478062900_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Cesenatico_IT-IT1478062900_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Tracce leonardiane",
+                "Title": "Barche a vela tradizionali, Porto Canale Leonardesco, Cesenatico, Emilia-Romagna",
+                "Copyright": "© Francesco Riccardo Iacomino/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.198803,12.394918/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=44.198803,12.394918;S9;Porto Canale Leonardesco, Cesenatico, Emilia-Romagna&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260621_Cesenatico\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Porto+Canale+Leonardesco&form=hpcapt&filters=HpDate:\"20260620_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260621_Cesenatico"
+            },
+            "Ssd": "20260621",
+            "Name": "Cesenatico",
+            "Market": "IT-IT",
+            "Hash": "1478062900",
+            "FullDateString": "21 giugno 2026"
+        }
+    },
+    {
         "startdate": "20260619",
         "fullstartdate": "202606192200",
         "enddate": "20260620",

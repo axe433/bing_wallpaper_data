@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260620",
+        "fullstartdate": "202606200300",
+        "enddate": "20260621",
+        "url": "/th?id=OHR.ArchedIceberg_PT-BR4679375878_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ArchedIceberg_PT-BR4679375878",
+        "copyright": "Iceberg flutuando na Antártica Ocidental, oceano Antártico (© Steven Kazlowski/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Iceberg&form=hpcapt&mkt=pt-br",
+        "title": "Além da ponta do iceberg",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260620_ArchedIceberg%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2768d26e384e8c6cd6f5014232daa725",
+        "hsh": "00aa6546320c570608117d0e872e7706",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "No extremo da Península Antártica, um arco de gelo emerge do oceano como se a água tivesse aprendido arquitetura. Mas essa escultura nasceu de um processo lento: ela começou como neve comprimida ao longo de milhares de anos, formando lentamente uma geleira, até que um pedaço se soltou e saiu navegando pelo oceano Antártico.",
+                "Image": {
+                    "Url": "/th?id=OHR.ArchedIceberg_PT-BR4679375878_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ArchedIceberg_PT-BR4679375878_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Além da ponta do iceberg",
+                "Title": "Iceberg flutuando na Antártica Ocidental, oceano Antártico",
+                "Copyright": "© Steven Kazlowski/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260620_ArchedIceberg\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Iceberg&form=hpcapt&filters=HpDate:\"20260620_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260620_ArchedIceberg"
+            },
+            "Ssd": "20260620",
+            "Name": "ArchedIceberg",
+            "Market": "PT-BR",
+            "Hash": "4679375878",
+            "FullDateString": "20 jun. 2026"
+        }
+    },
+    {
         "startdate": "20260619",
         "fullstartdate": "202606190300",
         "enddate": "20260620",
