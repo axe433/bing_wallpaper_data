@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260621",
+        "fullstartdate": "202606211500",
+        "enddate": "20260622",
+        "url": "/th?id=OHR.Fujisan_JA-JP1483326201_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Fujisan_JA-JP1483326201",
+        "copyright": "富士山 (© phutthiseth thongtae/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%AF%8C%E5%A3%AB%E5%B1%B1%E3%81%8C%E4%B8%96%E7%95%8C%E6%96%87%E5%8C%96%E9%81%BA%E7%94%A3%E3%81%AB%E7%99%BB%E9%8C%B2%E3%81%95%E3%82%8C%E3%81%9F%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260621_1500%22",
+        "title": "今日は富士山が世界文化遺産に登録された日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260621_Fujisan%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6b04861b2bc54ba0ed9cb3d05f8b169c",
+        "hsh": "41c134bdf9293b46a8cfd36e9e1a93e9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 6 月 22 日は、富士山が世界文化遺産に登録された日です。古くから日本では霊峰とされてきた富士山ですが、1992 年の日本最初の世界遺産暫定一覧表には選ばれないなど、世界遺産登録までには長い年月を要しました。1994 年の 100 万人署名運動や、1998 年の富士山憲章制定など、20 年以上に渡る世界遺産登録運動を経て、2007 年に世界遺産暫定一覧表に登録。そして、2013 年 6 月 22 日、カンボジアで開催されたユネスコ世界遺産委員会において、「富士山―信仰の対象と芸術の源泉」として世界文化遺産に登録されました。この登録は、景観の美しさに加え、人々の信仰や芸術に与えてきた文化的価値が認められたものです。",
+                "Image": {
+                    "Url": "/th?id=OHR.Fujisan_JA-JP1483326201_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Fujisan_JA-JP1483326201_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日は富士山が世界文化遺産に登録された日",
+                "Title": "富士山",
+                "Copyright": "© phutthiseth thongtae/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.362812,138.730911/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=35.362812,138.730911;S9;富士山&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260622_Fujisan%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260622_Fujisan\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%af%8c%e5%a3%ab%e5%b1%b1%e3%81%8c%e4%b8%96%e7%95%8c%e6%96%87%e5%8c%96%e9%81%ba%e7%94%a3%e3%81%ab%e7%99%bb%e9%8c%b2%e3%81%95%e3%82%8c%e3%81%9f%e6%97%a5&form=hpcapt&filters=HpDate:\"20260621_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260622_Fujisan"
+            },
+            "Ssd": "20260622",
+            "Name": "Fujisan",
+            "Market": "JA-JP",
+            "Hash": "1483326201",
+            "FullDateString": "2026 年 6月 月 22 日"
+        }
+    },
+    {
         "startdate": "20260620",
         "fullstartdate": "202606201500",
         "enddate": "20260621",

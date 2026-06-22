@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260621",
+        "fullstartdate": "202606212200",
+        "enddate": "20260622",
+        "url": "/th?id=OHR.QuinaultFerns_FR-FR2142936548_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.QuinaultFerns_FR-FR2142936548",
+        "copyright": "Forêt humide de Quinault, Parc national Olympique, État de Washington, États-Unis (© Chris Moore/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=journ%C3%A9e+mondiale+des+for%C3%AAts+tropicales&form=hpcapt&filters=HpDate%3a%2220260621_2200%22",
+        "title": "Un royaume humide",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260621_QuinaultFerns%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e739328d1b1732fc8346010e41ef5d66",
+        "hsh": "db550d462114682f0d8e5955d6cb45b9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Le 22 juin, la Journée mondiale des forêts tropicales nous invite à protéger ces mondes vivants, principalement présents sous les tropiques, mais ne couvrant qu’environ 6 % des terres émergées. De l’Amazonie au bassin du Congo, jusqu’aux forêts d’Asie du Sud-Est, ces écosystèmes foisonnent de vie et régulent le climat. Leur richesse ne se mesure pas seulement en hectares, mais en chants d’oiseaux, cycles d’eau et équilibres fragiles.",
+                "Image": {
+                    "Url": "/th?id=OHR.QuinaultFerns_FR-FR2142936548_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.QuinaultFerns_FR-FR2142936548_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un royaume humide",
+                "Title": "Forêt humide de Quinault, Parc national Olympique, État de Washington, États-Unis",
+                "Copyright": "© Chris Moore/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Les forêts tropicales abritent plus de la moitié des espèces de la planète, bien qu'elles ne couvrent que 6 % de la surface terrestre.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260622_QuinaultFerns\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=journ%c3%a9e+mondiale+des+for%c3%aats+tropicales&form=hpcapt&filters=HpDate:\"20260621_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260622_QuinaultFerns"
+            },
+            "Ssd": "20260622",
+            "Name": "QuinaultFerns",
+            "Market": "FR-FR",
+            "Hash": "2142936548",
+            "FullDateString": "22 juin 2026"
+        }
+    },
+    {
         "startdate": "20260620",
         "fullstartdate": "202606202200",
         "enddate": "20260621",

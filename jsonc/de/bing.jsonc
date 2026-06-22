@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260621",
+        "fullstartdate": "202606212200",
+        "enddate": "20260622",
+        "url": "/th?id=OHR.QuinaultFerns_DE-DE3985266590_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.QuinaultFerns_DE-DE3985266590",
+        "copyright": "Quinault‑Regenwald im Olympic‑Nationalpark, Washington, USA (© Chris Moore/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Welttag+des+Regenwaldes&form=hpcapt&filters=HpDate%3a%2220260621_2200%22",
+        "title": "Regenwälder voller Leben",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260621_QuinaultFerns%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e739328d1b1732fc8346010e41ef5d66",
+        "hsh": "283816ba0367b4683cb891dfab22a7cc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Am 22. Juni rückt der Welttag des Regenwaldes die letzten Regenwälder der Erde in den Fokus. Diese komplexen Ökosysteme bedecken nur rund sechs Prozent der Erdoberfläche. Sie liegen vor allem in tropischen Regionen wie dem Amazonasbecken, dem Kongobecken und in Südostasien und spielen eine zentrale Rolle für Klima, Wasserhaushalt und Artenvielfalt weltweit. Sie speichern große Mengen Kohlenstoff und beeinflussen regionale wie globale Wetter- und Klimasysteme.",
+                "Image": {
+                    "Url": "/th?id=OHR.QuinaultFerns_DE-DE3985266590_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.QuinaultFerns_DE-DE3985266590_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Regenwälder voller Leben",
+                "Title": "Quinault‑Regenwald im Olympic‑Nationalpark, Washington, USA",
+                "Copyright": "© Chris Moore/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Obwohl sie nur rund 6 % der Erdoberfläche bedecken, beherbergen Regenwälder mehr als die Hälfte der weltweiten Artenvielfalt.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260622_QuinaultFerns\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Welttag+des+Regenwaldes&form=hpcapt&filters=HpDate:\"20260621_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260622_QuinaultFerns"
+            },
+            "Ssd": "20260622",
+            "Name": "QuinaultFerns",
+            "Market": "DE-DE",
+            "Hash": "3985266590",
+            "FullDateString": "22. Juni. 2026"
+        }
+    },
+    {
         "startdate": "20260620",
         "fullstartdate": "202606202200",
         "enddate": "20260621",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260621",
+        "fullstartdate": "202606210700",
+        "enddate": "20260622",
+        "url": "/th?id=OHR.MillauViaductFrance_ROW0201721820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MillauViaductFrance_ROW0201721820",
+        "copyright": "Millau Viaduct, France (© Sergi Reboredo/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Millau+Viaduct&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260621_MillauViaductFrance%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9c572ecc0dfb1c34fe92084d969c7118",
+        "hsh": "21a80934ff15e7233fdad695ba33c9c7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Above the Tarn Valley, the Millau Viaduct seems to brush the sky. At 343 metres, its highest pylons rise taller than the Eiffel Tower. At dawn, light mist often drifts between the hills of the Larzac plateau and Aveyron, wrapping steel and concrete in an almost unreal softness. From some viewpoints, the bridge can appear to float above the clouds rather than standing upon them.",
+                "Image": {
+                    "Url": "/th?id=OHR.MillauViaductFrance_ROW0201721820_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MillauViaductFrance_ROW0201721820_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Millau Viaduct, France",
+                "Copyright": "© Sergi Reboredo/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260621_MillauViaductFrance\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Millau+Viaduct&form=hpcapt&filters=HpDate:\"20260621_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260621_MillauViaductFrance"
+            },
+            "Ssd": "20260621",
+            "Name": "MillauViaductFrance",
+            "Market": "ROW",
+            "Hash": "0201721820",
+            "FullDateString": "Jun 21, jjjj"
+        }
+    },
+    {
         "startdate": "20260620",
         "fullstartdate": "202606200700",
         "enddate": "20260621",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260621",
+        "fullstartdate": "202606212300",
+        "enddate": "20260622",
+        "url": "/th?id=OHR.QuinaultFerns_EN-GB3562324915_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.QuinaultFerns_EN-GB3562324915",
+        "copyright": "Quinault rainforest, Olympic National Park, Washington, United States (© Chris Moore/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=World+Rainforest+Day&form=hpcapt&filters=HpDate%3a%2220260621_2300%22",
+        "title": "A lush kingdom",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260621_QuinaultFerns%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e739328d1b1732fc8346010e41ef5d66",
+        "hsh": "55b00c2263f0fa83e00c6f36eaa4ca0f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "22 June is World Rainforest Day, a global moment and a year-round call to protect the world's remaining rainforests. These ecosystems aren't just dots on the map. They thrive across the tropics and beyond yet cover only about 6% of Earth's surface. Think of the Amazon in South America, the Congo Basin in Africa and the forests of Southeast Asia.",
+                "Image": {
+                    "Url": "/th?id=OHR.QuinaultFerns_EN-GB3562324915_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.QuinaultFerns_EN-GB3562324915_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A lush kingdom",
+                "Title": "Quinault rainforest, Olympic National Park, Washington, United States",
+                "Copyright": "© Chris Moore/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Rainforests are home to more than half of the world's species, despite covering only 6% of the Earth's surface.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260622_QuinaultFerns\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=World+Rainforest+Day&form=hpcapt&filters=HpDate:\"20260621_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260622_QuinaultFerns"
+            },
+            "Ssd": "20260622",
+            "Name": "QuinaultFerns",
+            "Market": "EN-GB",
+            "Hash": "3562324915",
+            "FullDateString": "22 Jun 2026"
+        }
+    },
+    {
         "startdate": "20260620",
         "fullstartdate": "202606202300",
         "enddate": "20260621",
