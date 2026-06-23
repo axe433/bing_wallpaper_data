@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260622",
+        "fullstartdate": "202606221600",
+        "enddate": "20260623",
+        "url": "/th?id=OHR.Fujisan_ZH-CN7203975085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Fujisan_ZH-CN7203975085",
+        "copyright": "本州岛上的富士山, 日本 (© phutthiseth thongtae/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%AF%8C%E5%A3%AB%E5%B1%B1&form=hpcapt&mkt=zh-cn",
+        "title": "天际线上的印记",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260622_Fujisan%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6b04861b2bc54ba0ed9cb3d05f8b169c",
+        "hsh": "6b06bae5372406012a27a9185c430395",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "富士山是日本最高峰，海拔12,389英尺（约3700米），耸立于本州岛，位于东京西南约60英里（约97公里）处。这座近乎完美的锥形山峰是一座火山——自1707年12月最后一次喷发后便一直处于休眠状态，但仍被归类为活火山。那次大规模喷发被称为宝荣喷发，火山灰和其他火山碎屑喷涌而出，席卷日本东部，甚至远至江户（今东京）。除了地质学意义之外，富士山长期以来被视为神圣的景观和朝圣登山的目的地，这体现了日本自然、宗教和日常生活的交融。这种经久不衰的文化魅力也是它于2013年被联合国教科文组织列为世界遗产的原因之一，被誉为“神圣之地和艺术灵感的源泉”。众所周知，在晴朗的日子里，富士山从远处就能清晰可见，但这并非必然——云层可能在几分钟内将其遮蔽。无论您是徒步攀登，还是只是从火车车窗瞥见它，它依然是日本地平线上的标志性景观。",
+                "Image": {
+                    "Url": "/th?id=OHR.Fujisan_ZH-CN7203975085_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Fujisan_ZH-CN7203975085_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "天际线上的印记",
+                "Title": "本州岛上的富士山, 日本",
+                "Copyright": "© phutthiseth thongtae/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "富士山通常从10月开始积雪，山顶白雪往往能持续半年以上，也因此成为日本“四季景观”意象的重要组成部分。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260623_Fujisan\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%af%8c%e5%a3%ab%e5%b1%b1&form=hpcapt&filters=HpDate:\"20260622_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260623_Fujisan"
+            },
+            "Ssd": "20260623",
+            "Name": "Fujisan",
+            "Market": "ZH-CN",
+            "Hash": "7203975085",
+            "FullDateString": "2026 6月 23"
+        }
+    },
+    {
         "startdate": "20260621",
         "fullstartdate": "202606211600",
         "enddate": "20260622",

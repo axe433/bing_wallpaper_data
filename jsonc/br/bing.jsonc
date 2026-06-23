@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260622",
+        "fullstartdate": "202606220300",
+        "enddate": "20260623",
+        "url": "/th?id=OHR.QuinaultFerns_PT-BR5147575881_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.QuinaultFerns_PT-BR5147575881",
+        "copyright": "Floresta tropical de Quinault, Parque Nacional Olímpico, estado de Washington, Estados Unidos (© Chris Moore/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+Mundial+das+Florestas+Tropicais&form=hpcapt&mkt=pt-br",
+        "title": "Um reino movido a chuva",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260622_QuinaultFerns%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e739328d1b1732fc8346010e41ef5d66",
+        "hsh": "9b864b5b7ba948ebdff6896401ba471f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Em algumas matas, até o silêncio parece úmido. O Dia Mundial das Florestas Tropicais, celebrado em 22 de junho, só dá nome ao que já está em pleno funcionamento.",
+                "Image": {
+                    "Url": "/th?id=OHR.QuinaultFerns_PT-BR5147575881_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.QuinaultFerns_PT-BR5147575881_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Um reino movido a chuva",
+                "Title": "Floresta tropical de Quinault, Parque Nacional Olímpico, estado de Washington, Estados Unidos",
+                "Copyright": "© Chris Moore/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260622_QuinaultFerns\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dia+Mundial+das+Florestas+Tropicais&form=hpcapt&filters=HpDate:\"20260622_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260622_QuinaultFerns"
+            },
+            "Ssd": "20260622",
+            "Name": "QuinaultFerns",
+            "Market": "PT-BR",
+            "Hash": "5147575881",
+            "FullDateString": "22 jun. 2026"
+        }
+    },
+    {
         "startdate": "20260621",
         "fullstartdate": "202606210300",
         "enddate": "20260622",

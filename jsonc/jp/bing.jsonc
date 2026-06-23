@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260622",
+        "fullstartdate": "202606221500",
+        "enddate": "20260623",
+        "url": "/th?id=OHR.QuinaultFerns_JA-JP6908853562_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.QuinaultFerns_JA-JP6908853562",
+        "copyright": "キノート・レイン・フォレスト, 米国 ワシントン州 (© Chris Moore/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%AD%E3%83%8E%E3%83%BC%E3%83%88%E3%83%BB%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A9%E3%83%AC%E3%82%B9%E3%83%88&form=hpcapt&filters=HpDate%3a%2220260622_1500%22",
+        "title": "陽光が貫く密林",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260622_QuinaultFerns%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e739328d1b1732fc8346010e41ef5d66",
+        "hsh": "07071317cb4c146c3f892599d810552a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ここは、米国ワシントン州のオリンピック国立公園南西部に位置するキノート・レイン・フォレスト。年間降水量は 5,200mm にも達する温帯雨林です。湿ったコケやシダに覆われたオオバカエデやマウンテンヘムロックなどの樹木が見られ、林床には菌類や昆虫、両生類が生息しています。また、この森の中では、オリンピック国立公園内で最大の陸生哺乳類であるルーズベルトエルクの姿を見ることもできます。",
+                "Image": {
+                    "Url": "/th?id=OHR.QuinaultFerns_JA-JP6908853562_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.QuinaultFerns_JA-JP6908853562_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "陽光が貫く密林",
+                "Title": "キノート・レイン・フォレスト, 米国 ワシントン州",
+                "Copyright": "© Chris Moore/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.505886,-123.820313/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=47.505886,-123.820313;S9;キノート・レイン・フォレスト, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260623_QuinaultFerns%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260623_QuinaultFerns\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%ad%e3%83%8e%e3%83%bc%e3%83%88%e3%83%bb%e3%83%ac%e3%82%a4%e3%83%b3%e3%83%bb%e3%83%95%e3%82%a9%e3%83%ac%e3%82%b9%e3%83%88&form=hpcapt&filters=HpDate:\"20260622_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260623_QuinaultFerns"
+            },
+            "Ssd": "20260623",
+            "Name": "QuinaultFerns",
+            "Market": "JA-JP",
+            "Hash": "6908853562",
+            "FullDateString": "2026 年 6月 月 23 日"
+        }
+    },
+    {
         "startdate": "20260621",
         "fullstartdate": "202606211500",
         "enddate": "20260622",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260622",
+        "fullstartdate": "202606222200",
+        "enddate": "20260623",
+        "url": "/th?id=OHR.SanJuanFuegos_ES-ES0457674498_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SanJuanFuegos_ES-ES0457674498",
+        "copyright": "Fuegos artificiales en la Noche de San Juan (© rui_noronha/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=San+Juan+v%C3%ADspera&form=hpcapt&filters=HpDate%3a%2220260622_2200%22",
+        "title": "Noche de deseos y hogueras",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260622_SanJuanFuegos%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d0275c4584fb7267e9ee800194280489",
+        "hsh": "b0697978ae8159d3eb21520acaafbfcb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La Noche de San Juan, celebrada cada 23 de junio, marca uno de los momentos más esperados del inicio del verano en muchos lugares de España y de la costa mediterránea. Con la llegada de la noche, playas y plazas se llenan de hogueras, luces y reuniones que combinan tradición y ambiente festivo. El fuego actúa como símbolo de renovación y se convierte en el centro de encuentros familiares y sociales.",
+                "Image": {
+                    "Url": "/th?id=OHR.SanJuanFuegos_ES-ES0457674498_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SanJuanFuegos_ES-ES0457674498_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Noche de deseos y hogueras",
+                "Title": "Fuegos artificiales en la Noche de San Juan",
+                "Copyright": "© rui_noronha/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "La Noche de San Juan, celebrada el 23 de junio, tiene origen en antiguos rituales paganos que usaban el fuego para celebrar el día más largo del año y ahuyentar energías negativas.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260623_SanJuanFuegos\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=San+Juan+v%c3%adspera&form=hpcapt&filters=HpDate:\"20260622_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260623_SanJuanFuegos"
+            },
+            "Ssd": "20260623",
+            "Name": "SanJuanFuegos",
+            "Market": "ES-ES",
+            "Hash": "0457674498",
+            "FullDateString": "23 de jun de 2026"
+        }
+    },
+    {
         "startdate": "20260621",
         "fullstartdate": "202606212200",
         "enddate": "20260622",

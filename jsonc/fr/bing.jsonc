@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260622",
+        "fullstartdate": "202606222200",
+        "enddate": "20260623",
+        "url": "/th?id=OHR.Fujisan_FR-FR9764365414_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Fujisan_FR-FR9764365414",
+        "copyright": "Mont Fuji sur l’île de Honshū, Japon (© phutthiseth thongtae/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mont+Fuji&form=hpcapt&filters=HpDate%3a%2220260622_2200%22",
+        "title": "Empreinte intemporelle à l’horizon",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260622_Fujisan%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6b04861b2bc54ba0ed9cb3d05f8b169c",
+        "hsh": "30bf16b8b97ac621a161a4a1e8d52bb0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Le mont Fuji, plus haut sommet du Japon, s’élève à 3 776 mètres d’altitude sur l’île de Honshū, à environ 100 km au sud-ouest de Tokyo. Sa silhouette quasi parfaite révèle sa nature volcanique : un géant endormi depuis l’éruption de Hōei en décembre 1707, bien que toujours considéré comme actif. À l’époque, ses cendres avaient recouvert une large partie de l’est du pays, jusqu’à Edo, l’actuelle Tokyo. Aujourd’hui encore, il incarne la rencontre entre forces naturelles puissantes et mémoire collective.",
+                "Image": {
+                    "Url": "/th?id=OHR.Fujisan_FR-FR9764365414_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Fujisan_FR-FR9764365414_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Empreinte intemporelle à l'horizon",
+                "Title": "Mont Fuji sur l’île de Honshū, Japon",
+                "Copyright": "© phutthiseth thongtae/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.365403,138.730373/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=35.365403,138.730373;S9;Mont Fuji sur l’île de Honshū, Japon&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260623_Fujisan\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Mont+Fuji&form=hpcapt&filters=HpDate:\"20260622_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260623_Fujisan"
+            },
+            "Ssd": "20260623",
+            "Name": "Fujisan",
+            "Market": "FR-FR",
+            "Hash": "9764365414",
+            "FullDateString": "23 juin 2026"
+        }
+    },
+    {
         "startdate": "20260621",
         "fullstartdate": "202606212200",
         "enddate": "20260622",
