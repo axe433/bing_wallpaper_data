@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260623",
+        "fullstartdate": "202606232200",
+        "enddate": "20260624",
+        "url": "/th?id=OHR.BFPollin_FR-FR2895321472_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BFPollin_FR-FR2895321472",
+        "copyright": "Papillon sur une fleur jaune (© lzh/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=pollinisateur&form=hpcapt&filters=HpDate%3a%2220260623_2200%22",
+        "title": "Silence, ça butine !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260623_BFPollin%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "809298eda1b7ec1e94e41e19ab18d113",
+        "hsh": "8faca51a4a4f4852bc30b9b9fd022335",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Observer de près un geste minuscule, c’est parfois découvrir tout un univers, comme celui de ce papillon posé sur une fleur jaune, y puisant son nectar. En se nourrissant, il emporte avec lui une fine poussière de pollen qu’il déposera sur une autre corolle. Ce cycle discret permet aux plantes de se reproduire et de perdurer. Les pollinisateurs ne se limitent pas aux abeilles : papillons, oiseaux, chauves-souris et coléoptères participent tous à cet échange vital, soutenant la diversité des plantes sauvages comme celle des fruits et légumes qui garnissent nos assiettes.",
+                "Image": {
+                    "Url": "/th?id=OHR.BFPollin_FR-FR2895321472_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BFPollin_FR-FR2895321472_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Silence, ça butine !",
+                "Title": "Papillon sur une fleur jaune",
+                "Copyright": "© lzh/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Les pollinisateurs sont à l'origine d'environ un tiers de ce que nous mangeons.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260624_BFPollin\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=pollinisateur&form=hpcapt&filters=HpDate:\"20260623_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260624_BFPollin"
+            },
+            "Ssd": "20260624",
+            "Name": "BFPollin",
+            "Market": "FR-FR",
+            "Hash": "2895321472",
+            "FullDateString": "24 juin 2026"
+        }
+    },
+    {
         "startdate": "20260622",
         "fullstartdate": "202606222200",
         "enddate": "20260623",

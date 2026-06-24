@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260623",
+        "fullstartdate": "202606232300",
+        "enddate": "20260624",
+        "url": "/th?id=OHR.BFPollin_EN-GB9787494533_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BFPollin_EN-GB9787494533",
+        "copyright": "Butterfly pollinating on yellow flower (© lzh/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Pollinator+Week&form=hpcapt&filters=HpDate%3a%2220260623_2300%22",
+        "title": "Pollen meets wings",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260623_BFPollin%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "809298eda1b7ec1e94e41e19ab18d113",
+        "hsh": "ef3f7650615dd29db1516a3eb00281ab",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Zoom in on the small transaction that keeps landscapes alive: a butterfly on a yellow flower, sipping nectar. While it feeds, pollen dusts its body and hitches a ride to the next bloom—one of the quiet ways flowering plants reproduce. Pollinators are not only bees. Butterflies, birds, bats, beetles and many others help move pollen, supporting wild plants and many of the fruits and vegetables we eat.",
+                "Image": {
+                    "Url": "/th?id=OHR.BFPollin_EN-GB9787494533_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BFPollin_EN-GB9787494533_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Pollen meets wings",
+                "Title": "Butterfly pollinating on yellow flower",
+                "Copyright": "© lzh/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Pollinators are responsible for about one out of three bites of food we eat.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260624_BFPollin\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Pollinator+Week&form=hpcapt&filters=HpDate:\"20260623_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260624_BFPollin"
+            },
+            "Ssd": "20260624",
+            "Name": "BFPollin",
+            "Market": "EN-GB",
+            "Hash": "9787494533",
+            "FullDateString": "24 Jun 2026"
+        }
+    },
+    {
         "startdate": "20260622",
         "fullstartdate": "202606222300",
         "enddate": "20260623",

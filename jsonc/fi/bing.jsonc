@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260623",
+        "fullstartdate": "202606230700",
+        "enddate": "20260624",
+        "url": "/th?id=OHR.Fujisan_ROW9816660784_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Fujisan_ROW9816660784",
+        "copyright": "Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mount+Fuji&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260623_Fujisan%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6b04861b2bc54ba0ed9cb3d05f8b169c",
+        "hsh": "5772383aae85659699124d228556c99f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Mount Fuji, Japan's highest mountain, rises to 3,776 metres on Honshu Island, about 97 kilometres southwest of Tokyo. Its near-perfect cone is a volcano—dormant since its last eruption in December 1707 yet still classed as active. That last major event is known as the Hōei eruption. It blasted ash and other tephra across eastern Japan, reaching Edo (today's Tokyo). Beyond geology, Fuji has long been treated as a sacred landscape and a destination for pilgrimage climbs, reflecting how nature, religion and daily life overlap in Japan. That enduring cultural appeal is one reason it was designated a UNESCO World Heritage Site in 2013 as 'a sacred place and source of artistic inspiration.' Fuji is famously visible from far away on clear days but never guaranteed—clouds can hide it in minutes. Whether you hike it or just catch a glimpse from a train window, it still feels like Japan's signature on the horizon.",
+                "Image": {
+                    "Url": "/th?id=OHR.Fujisan_ROW9816660784_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Fujisan_ROW9816660784_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Mount Fuji on Honshu Island, Japan",
+                "Copyright": "© phutthiseth thongtae/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260623_Fujisan\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Mount+Fuji&form=hpcapt&filters=HpDate:\"20260623_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260623_Fujisan"
+            },
+            "Ssd": "20260623",
+            "Name": "Fujisan",
+            "Market": "ROW",
+            "Hash": "9816660784",
+            "FullDateString": "23. kesäk. 2026"
+        }
+    },
+    {
         "startdate": "20260622",
         "fullstartdate": "202606220700",
         "enddate": "20260623",

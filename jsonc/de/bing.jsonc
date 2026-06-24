@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260623",
+        "fullstartdate": "202606232200",
+        "enddate": "20260624",
+        "url": "/th?id=OHR.BFPollin_DE-DE1648202484_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BFPollin_DE-DE1648202484",
+        "copyright": "Schmetterling beim Bestäuben einer gelben Blüte (© lzh/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Best%C3%A4uber+Insekten+&form=hpcapt&filters=HpDate%3a%2220260623_2200%22",
+        "title": "Kleine Flügel, große Wirkung",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260623_BFPollin%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "809298eda1b7ec1e94e41e19ab18d113",
+        "hsh": "1e062d4e7efaddae0db0149e9f0dbee5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ein Schmetterling flattert von Blüte zu Blüte und setzt dabei einen unscheinbaren Kreislauf in Bewegung: Beim Nektarsammeln bleibt Blütenstaub an ihm haften und wird weitergetragen. So können viele Pflanzen überhaupt Samen und Früchte bilden. Besonders tagaktive Schmetterlinge bestäuben oft farbenreiche Wildblumen und tragen so zur Artenvielfalt vieler Wiesen bei.",
+                "Image": {
+                    "Url": "/th?id=OHR.BFPollin_DE-DE1648202484_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BFPollin_DE-DE1648202484_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Kleine Flügel, große Wirkung",
+                "Title": "Schmetterling beim Bestäuben einer gelben Blüte",
+                "Copyright": "© lzh/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Etwa jeder dritte Bissen Nahrung hängt von Bestäubern ab.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260624_BFPollin\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Best%c3%a4uber+Insekten+&form=hpcapt&filters=HpDate:\"20260623_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260624_BFPollin"
+            },
+            "Ssd": "20260624",
+            "Name": "BFPollin",
+            "Market": "DE-DE",
+            "Hash": "1648202484",
+            "FullDateString": "24. Juni. 2026"
+        }
+    },
+    {
         "startdate": "20260622",
         "fullstartdate": "202606222200",
         "enddate": "20260623",

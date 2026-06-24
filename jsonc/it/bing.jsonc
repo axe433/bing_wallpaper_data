@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260623",
+        "fullstartdate": "202606232200",
+        "enddate": "20260624",
+        "url": "/th?id=OHR.BFPollin_IT-IT1968773839_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BFPollin_IT-IT1968773839",
+        "copyright": "Farfalla che impollina un fiore giallo (© lzh/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Impollinazione&form=hpcapt",
+        "title": "Impollinare il mondo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260623_BFPollin%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "809298eda1b7ec1e94e41e19ab18d113",
+        "hsh": "1bff7c5244bc51bcfd3c106c7e2f4a37",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Si posa leggera su un fiore giallo, e per un istante sembra che il mondo resti in equilibrio sulle sue ali. La farfalla sfiora i petali con delicatezza, come se seguisse una mappa invisibile fatta di luce e profumi. È in questo gesto semplice che si intreccia uno dei processi più importanti per la vita sulla Terra. Mentre si sposta di fiore in fiore, trasporta il polline e contribuisce alla riproduzione di molte piante, incluse quelle da cui dipende gran parte della nostra alimentazione. Non solo farfalle, ma anche api, bombi, sirfidi, altri insetti e persino alcuni pipistrelli svolgono questo lavoro silenzioso e continuo. Gli impollinatori sono essenziali per la biodiversità e per la stabilità degli ecosistemi, ma sono sempre più minacciati da pesticidi, perdita di habitat e cambiamenti climatici. Un battito d’ali, un passaggio invisibile, e la vita che si rinnova, un fiore alla volta.",
+                "Image": {
+                    "Url": "/th?id=OHR.BFPollin_IT-IT1968773839_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BFPollin_IT-IT1968773839_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Impollinare il mondo",
+                "Title": "Farfalla che impollina un fiore giallo",
+                "Copyright": "© lzh/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Gli impollinatori sono responsabili di circa un terzo del cibo che mangiamo.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260624_BFPollin\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Impollinazione&form=hpcapt&filters=HpDate:\"20260623_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260624_BFPollin"
+            },
+            "Ssd": "20260624",
+            "Name": "BFPollin",
+            "Market": "IT-IT",
+            "Hash": "1968773839",
+            "FullDateString": "24 giugno 2026"
+        }
+    },
+    {
         "startdate": "20260622",
         "fullstartdate": "202606222200",
         "enddate": "20260623",
