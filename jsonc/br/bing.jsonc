@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260624",
+        "fullstartdate": "202606240300",
+        "enddate": "20260625",
+        "url": "/th?id=OHR.BFPollin_PT-BR5634257849_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BFPollin_PT-BR5634257849",
+        "copyright": "Borboleta polinizando uma flor amarela (© lzh/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=polinizadores&form=hpcapt&mkt=pt-br",
+        "title": "O pit-stop dos jardins",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260624_BFPollin%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "809298eda1b7ec1e94e41e19ab18d113",
+        "hsh": "b08ee6504e8a9522520fb10036055e95",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A imagem parece banal: a borboleta pousa, bebe néctar e segue seu caminho. Mas aqui acontece um dos processos mais eficientes da natureza: ao mergulhar na flor, a borboleta se cobre de pólen. Ao visitar outra, parte desse material é transferido para a nova planta, permitindo que flores que jamais se tocariam troquem informação genética e produzam sementes.",
+                "Image": {
+                    "Url": "/th?id=OHR.BFPollin_PT-BR5634257849_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BFPollin_PT-BR5634257849_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O pit-stop dos jardins",
+                "Title": "Borboleta polinizando uma flor amarela",
+                "Copyright": "© lzh/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260624_BFPollin\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=polinizadores&form=hpcapt&filters=HpDate:\"20260624_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260624_BFPollin"
+            },
+            "Ssd": "20260624",
+            "Name": "BFPollin",
+            "Market": "PT-BR",
+            "Hash": "5634257849",
+            "FullDateString": "24 jun. 2026"
+        }
+    },
+    {
         "startdate": "20260623",
         "fullstartdate": "202606230300",
         "enddate": "20260624",

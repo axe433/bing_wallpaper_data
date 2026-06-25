@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260624",
+        "fullstartdate": "202606242300",
+        "enddate": "20260625",
+        "url": "/th?id=OHR.GrandPlace_EN-GB4788838849_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrandPlace_EN-GB4788838849",
+        "copyright": "Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)",
+        "copyrightlink": "https://www.bing.com/search?q=Grand+Place+Brussels&form=hpcapt&filters=HpDate%3a%2220260624_2300%22",
+        "title": "Square up to history",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260624_GrandPlace%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "52cbe3c1517645a01992bb92edf1aabc",
+        "hsh": "f4294d14e5ee64645b0e4896a550a70a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Few squares in Belgium wear history as well as the Grand‑Place. The surrounding buildings, seen here, began as guild houses, each funded by a specific trade. Brewers, bakers, merchants and craftsmen treated architecture as language, translating work, status and rivalry into stone through reliefs, coats of arms and generous gold leaf. Styles meet without caution. Gothic verticals rise beside Baroque curves, while the Town Hall, older than its neighbours and unapologetically asymmetrical, holds the composition together.",
+                "Image": {
+                    "Url": "/th?id=OHR.GrandPlace_EN-GB4788838849_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GrandPlace_EN-GB4788838849_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Square up to history",
+                "Title": "Buildings on Grand-Place Square in Brussels, Belgium",
+                "Copyright": "© Vladislav Zolotov/Getty Images Plus",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.846851,4.352454/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=50.846851,4.352454;S9;Grand-Place Square, Brussels, Belgium&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260625_GrandPlace\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Grand+Place+Brussels&form=hpcapt&filters=HpDate:\"20260624_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260625_GrandPlace"
+            },
+            "Ssd": "20260625",
+            "Name": "GrandPlace",
+            "Market": "EN-GB",
+            "Hash": "4788838849",
+            "FullDateString": "25 Jun 2026"
+        }
+    },
+    {
         "startdate": "20260623",
         "fullstartdate": "202606232300",
         "enddate": "20260624",

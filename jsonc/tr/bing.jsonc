@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260624",
+        "fullstartdate": "202606240700",
+        "enddate": "20260625",
+        "url": "/th?id=OHR.BFPollin_ROW9877719219_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BFPollin_ROW9877719219",
+        "copyright": "Butterfly pollinating on yellow flower (© lzh/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Butterfly&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260624_BFPollin%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "809298eda1b7ec1e94e41e19ab18d113",
+        "hsh": "7cdd5c0d62d11e3c5906dfeac973b86a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Zoom in on the small interaction that helps keep landscapes alive: a butterfly on a yellow flower, pausing for nectar. While it feeds, pollen dusts its body and hitches a ride to the next bloom—one of the quiet ways flowering plants reproduce. Pollinators are not only bees. Butterflies, birds, bats, beetles and many other animals help move pollen, supporting wild plants and many of the fruits and vegetables people eat.",
+                "Image": {
+                    "Url": "/th?id=OHR.BFPollin_ROW9877719219_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BFPollin_ROW9877719219_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Butterfly pollinating on yellow flower",
+                "Copyright": "© lzh/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260624_BFPollin\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Butterfly&form=hpcapt&filters=HpDate:\"20260624_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260624_BFPollin"
+            },
+            "Ssd": "20260624",
+            "Name": "BFPollin",
+            "Market": "ROW",
+            "Hash": "9877719219",
+            "FullDateString": "24 Haz, 2026"
+        }
+    },
+    {
         "startdate": "20260623",
         "fullstartdate": "202606230700",
         "enddate": "20260624",

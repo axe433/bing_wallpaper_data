@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260624",
+        "fullstartdate": "202606242200",
+        "enddate": "20260625",
+        "url": "/th?id=OHR.GrandPlace_FR-FR1172312712_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrandPlace_FR-FR1172312712",
+        "copyright": "Bâtiments sur la Grand-Place de Bruxelles, Belgique (© Vladislav Zolotov/Getty Images Plus)",
+        "copyrightlink": "https://www.bing.com/search?q=Grand-Place+Bruxelles&form=hpcapt&filters=HpDate%3a%2220260624_2200%22",
+        "title": "Grande et incontournable",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260624_GrandPlace%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "52cbe3c1517645a01992bb92edf1aabc",
+        "hsh": "ade4111e420d7f5893d70e116e522f1a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Peu de places en Belgique racontent leur histoire avec autant d’éloquence que la Grand-Place de Bruxelles. Tout autour, la plupart des façades abritaient autrefois des commerces. Brasseurs, boulangers, marchands ou artisans, tous façonnaient la pierre comme un langage, y inscrivant symboles, blasons et dorures pour affirmer leur rang et rivaliser avec leurs voisins. Les styles dialoguent librement : les élans gothiques côtoient les courbes baroques, tandis que l’Hôtel de Ville, plus ancien et asymétrique, semble orchestrer l’ensemble avec assurance.",
+                "Image": {
+                    "Url": "/th?id=OHR.GrandPlace_FR-FR1172312712_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GrandPlace_FR-FR1172312712_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Grande et incontournable",
+                "Title": "Bâtiments sur la Grand-Place de Bruxelles, Belgique",
+                "Copyright": "© Vladislav Zolotov/Getty Images Plus",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.846851,4.352454/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=50.846851,4.352454;S9;Grand-Place, Bruxelles, Belgique&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260625_GrandPlace\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Grand-Place+Bruxelles&form=hpcapt&filters=HpDate:\"20260624_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260625_GrandPlace"
+            },
+            "Ssd": "20260625",
+            "Name": "GrandPlace",
+            "Market": "FR-FR",
+            "Hash": "1172312712",
+            "FullDateString": "25 juin 2026"
+        }
+    },
+    {
         "startdate": "20260623",
         "fullstartdate": "202606232200",
         "enddate": "20260624",
