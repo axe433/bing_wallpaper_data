@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260625",
+        "fullstartdate": "202606250300",
+        "enddate": "20260626",
+        "url": "/th?id=OHR.IbiSP_PT-BR5842175553_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IbiSP_PT-BR5842175553",
+        "copyright": "Parque Ibirapuera, São Paulo, estado de São Paulo (© Brasil2/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ibirapuera&form=hpcapt&mkt=pt-br",
+        "title": "Entre um corre e outro",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260625_IbiSP%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8b6606537cec08e7c63bdf8e61f9fe91",
+        "hsh": "ced9790ca94afac3c6c0c5dcf1b973f0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "O Parque Ibirapuera faz o que parece impossível: abrir uma brecha na velocidade crônica de São Paulo. Inaugurado em 1954 numa antiga área alagadiça para celebrar os 400 anos da capital, ele nasceu ambicioso, com jardins de Burle Marx, edifícios de Oscar Niemeyer e uma ideia rara para a época — reservar uma grande área verde no coração da metrópole antes que o concreto fechasse o cerco.",
+                "Image": {
+                    "Url": "/th?id=OHR.IbiSP_PT-BR5842175553_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.IbiSP_PT-BR5842175553_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Entre um corre e outro",
+                "Title": "Parque Ibirapuera, São Paulo, estado de São Paulo",
+                "Copyright": "© Brasil2/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260625_IbiSP\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ibirapuera&form=hpcapt&filters=HpDate:\"20260625_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260625_IbiSP"
+            },
+            "Ssd": "20260625",
+            "Name": "IbiSP",
+            "Market": "PT-BR",
+            "Hash": "5842175553",
+            "FullDateString": "25 jun. 2026"
+        }
+    },
+    {
         "startdate": "20260624",
         "fullstartdate": "202606240300",
         "enddate": "20260625",

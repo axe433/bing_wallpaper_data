@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260625",
+        "fullstartdate": "202606252200",
+        "enddate": "20260626",
+        "url": "/th?id=OHR.ThamesSummer_ES-ES8043595451_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ThamesSummer_ES-ES8043595451",
+        "copyright": "El río Támesis, Londres, Inglaterra (© Daniel Lange/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Londres+ciudad&form=hpcapt&filters=HpDate%3a%2220260625_2200%22",
+        "title": "Recorriendo la actualidad",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260625_ThamesSummer%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "127411e3ed260d75f0f73d79c148d916",
+        "hsh": "b76a44a0cda500f8d99c77a23ef26b91",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En Londres, Reino Unido, el río Támesis reúne algunos de los iconos más reconocibles de Europa en una escena casi cinematográfica. A un lado, el Palacio de Westminster—reconstruido tras el incendio de 1834 en estilo neogótico—marca el pulso político del país, mientras la torre Elizabeth guarda en su interior la campana del Big Ben, cuyas horas resuenan desde 1859. Frente a él, la silueta moderna del London Eye aporta una mirada tranquila y elevada sobre la ciudad.",
+                "Image": {
+                    "Url": "/th?id=OHR.ThamesSummer_ES-ES8043595451_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ThamesSummer_ES-ES8043595451_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Recorriendo la actualidad",
+                "Title": "El río Támesis, Londres, Inglaterra",
+                "Copyright": "© Daniel Lange/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.50382,-0.121258/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=51.50382,-0.121258;S9;Río Támesis, Londres, Inglaterra&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260626_ThamesSummer\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Londres+ciudad&form=hpcapt&filters=HpDate:\"20260625_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260626_ThamesSummer"
+            },
+            "Ssd": "20260626",
+            "Name": "ThamesSummer",
+            "Market": "ES-ES",
+            "Hash": "8043595451",
+            "FullDateString": "26 de jun de 2026"
+        }
+    },
+    {
         "startdate": "20260624",
         "fullstartdate": "202606242200",
         "enddate": "20260625",

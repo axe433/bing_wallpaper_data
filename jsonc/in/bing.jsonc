@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260625",
+        "fullstartdate": "202606251830",
+        "enddate": "20260626",
+        "url": "/th?id=OHR.ThamesSummer_EN-IN8289570374_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ThamesSummer_EN-IN8289570374",
+        "copyright": "The River Thames, London, England (© Daniel Lange/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=River+Thames&form=hpcapt&filters=HpDate%3a%2220260625_1830%22",
+        "title": "Current affairs",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260625_ThamesSummer%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "127411e3ed260d75f0f73d79c148d916",
+        "hsh": "3942539cd447b818ed67a323080057e4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
+                "Image": {
+                    "Url": "/th?id=OHR.ThamesSummer_EN-IN8289570374_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ThamesSummer_EN-IN8289570374_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Current affairs",
+                "Title": "The River Thames, London, England",
+                "Copyright": "© Daniel Lange/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.50382,-0.121258/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=51.50382,-0.121258;S9;The River Thames, London, Greater London, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260626_ThamesSummer\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=River+Thames&form=hpcapt&filters=HpDate:\"20260625_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260626_ThamesSummer"
+            },
+            "Ssd": "20260626",
+            "Name": "ThamesSummer",
+            "Market": "EN-IN",
+            "Hash": "8289570374",
+            "FullDateString": "26 Jun, 2026"
+        }
+    },
+    {
         "startdate": "20260624",
         "fullstartdate": "202606241830",
         "enddate": "20260625",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260625",
+        "fullstartdate": "202606251600",
+        "enddate": "20260626",
+        "url": "/th?id=OHR.ThamesSummer_ZH-CN5292532714_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ThamesSummer_ZH-CN5292532714",
+        "copyright": "泰晤士河, 伦敦, 英格兰 (© Daniel Lange/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E6%B3%B0%E6%99%A4%E5%A3%AB%E6%B2%B3&form=hpcapt&mkt=zh-cn",
+        "title": "时事",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260625_ThamesSummer%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "127411e3ed260d75f0f73d79c148d916",
+        "hsh": "919b8a22e34363f642b09389f3991d6c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "议会大厦、钟楼和巨型摩天轮有什么共同之处？它们都矗立在泰晤士河畔，仿佛伦敦为了营造戏剧性效果而精心布局了这些标志性建筑。",
+                "Image": {
+                    "Url": "/th?id=OHR.ThamesSummer_ZH-CN5292532714_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ThamesSummer_ZH-CN5292532714_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "时事",
+                "Title": "泰晤士河, 伦敦, 英格兰",
+                "Copyright": "© Daniel Lange/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "泰晤士河防洪闸于1984年建成，是世界上规模最大的可移动防洪设施之一，用于保护伦敦免受北海风暴潮引发的洪水威胁。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260626_ThamesSummer\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e6%b3%b0%e6%99%a4%e5%a3%ab%e6%b2%b3&form=hpcapt&filters=HpDate:\"20260625_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260626_ThamesSummer"
+            },
+            "Ssd": "20260626",
+            "Name": "ThamesSummer",
+            "Market": "ZH-CN",
+            "Hash": "5292532714",
+            "FullDateString": "2026 6月 26"
+        }
+    },
+    {
         "startdate": "20260624",
         "fullstartdate": "202606241600",
         "enddate": "20260625",

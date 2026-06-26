@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260625",
+        "fullstartdate": "202606250700",
+        "enddate": "20260626",
+        "url": "/th?id=OHR.GrandPlace_ROW9942052634_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrandPlace_ROW9942052634",
+        "copyright": "Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)",
+        "copyrightlink": "https://www.bing.com/search?q=Grand+Place+Brussels&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260625_GrandPlace%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "52cbe3c1517645a01992bb92edf1aabc",
+        "hsh": "3fe32710c0638622e396c3d9db5019d9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Few squares in Belgium wear history as well as the Grand Place. The surrounding buildings, seen here, began as guild houses, each funded by a specific trade. Brewers, bakers, merchants and craftsmen treated architecture as language, translating work, status and rivalry into stone through reliefs, coats of arms and generous gold leaf. Styles meet without caution. Gothic verticals rise beside Baroque curves, while the Town Hall, older than its neighbours and unapologetically asymmetrical, holds the composition together.",
+                "Image": {
+                    "Url": "/th?id=OHR.GrandPlace_ROW9942052634_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GrandPlace_ROW9942052634_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Buildings on Grand-Place Square in Brussels, Belgium",
+                "Copyright": "© Vladislav Zolotov/Getty Images Plus",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260625_GrandPlace\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Grand+Place+Brussels&form=hpcapt&filters=HpDate:\"20260625_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260625_GrandPlace"
+            },
+            "Ssd": "20260625",
+            "Name": "GrandPlace",
+            "Market": "ROW",
+            "Hash": "9942052634",
+            "FullDateString": "25 jun, 2026"
+        }
+    },
+    {
         "startdate": "20260624",
         "fullstartdate": "202606240700",
         "enddate": "20260625",
