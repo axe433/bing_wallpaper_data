@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260626",
+        "fullstartdate": "202606262200",
+        "enddate": "20260627",
+        "url": "/th?id=OHR.BoneyardBeach_IT-IT9837372965_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BoneyardBeach_IT-IT9837372965",
+        "copyright": "Spiaggia di Boneyard Beach, Hunting Island, Carolina del Sud, USA (© Frances/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Hunting+Island+Carolina+del+Sud%2c+USA&form=hpcapt",
+        "title": "Gli alberi che hanno perso terreno",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260626_BoneyardBeach%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1fb5b27f1c3728746adbe2421277cb5f",
+        "hsh": "1570ac00dea148ebc5423133eb109c4e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A Boneyard Beach, nel South Carolina, Stati Uniti, gli alberi nudi e scoloriti sulla sabbia raccontano una storia che cattura subito lo sguardo. Qui la costa si ritira da decenni: l’erosione, in alcuni tratti, supera i nove metri l’anno, trasformando un’antica foresta marittima in un paesaggio sospeso tra vita e memoria. Tronchi levigati, radici scoperte e legno consumato disegnano una scena quasi surreale, metà lezione di geologia, metà installazione naturale.",
+                "Image": {
+                    "Url": "/th?id=OHR.BoneyardBeach_IT-IT9837372965_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BoneyardBeach_IT-IT9837372965_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Gli alberi che hanno perso terreno",
+                "Title": "Spiaggia di Boneyard Beach, Hunting Island, Carolina del Sud, USA",
+                "Copyright": "© Frances/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/32.40758,-80.445631/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=32.40758,-80.445631;S9;Parco Statale di Hunting Island, Carolina del Sud, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260627_BoneyardBeach\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hunting+Island+Carolina+del+Sud%2c+USA&form=hpcapt&filters=HpDate:\"20260626_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260627_BoneyardBeach"
+            },
+            "Ssd": "20260627",
+            "Name": "BoneyardBeach",
+            "Market": "IT-IT",
+            "Hash": "9837372965",
+            "FullDateString": "27 giugno 2026"
+        }
+    },
+    {
         "startdate": "20260625",
         "fullstartdate": "202606252200",
         "enddate": "20260626",

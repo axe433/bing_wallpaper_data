@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260626",
+        "fullstartdate": "202606262200",
+        "enddate": "20260627",
+        "url": "/th?id=OHR.Westerheversand_DE-DE9270031466_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Westerheversand_DE-DE9270031466",
+        "copyright": "Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein (© bluejayphoto/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Leuchtturm+Westerheversand&form=hpcapt&filters=HpDate%3a%2220260626_2200%22",
+        "title": "Rot‑weiß am Horizont",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260626_Westerheversand%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4d5e9ea46cce65b1070a7ea0de4c03cc",
+        "hsh": "2385c7a57c5495634a9ed44b87ef2515",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Mitten in den Salzwiesen von Westerheversand erhebt sich ein Leuchtturm mit markanten rot-weißen Streifen über die weitläufige Küstenlandschaft. Seit mehr als hundert Jahren prägt das Bauwerk die Halbinsel Eiderstedt und dient bis heute als wichtiger Orientierungspunkt für die Schifffahrt. Der zwischen 1906 und 1908 errichtete Leuchtturm zählt zu den bekanntesten Wahrzeichen der nordfriesischen Küste. Das Highlight ist die Aussichtsplattform des rund 41 Meter hohen Turms, die über 157 Stufen erreicht werden kann.",
+                "Image": {
+                    "Url": "/th?id=OHR.Westerheversand_DE-DE9270031466_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Westerheversand_DE-DE9270031466_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Rot‑weiß am Horizont",
+                "Title": "Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein",
+                "Copyright": "© bluejayphoto/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/54.373402,8.6399/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=54.373402,8.6399;S9;Leuchtturm Westerheversand, Schleswig-Holstein&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260627_Westerheversand\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Leuchtturm+Westerheversand&form=hpcapt&filters=HpDate:\"20260626_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260627_Westerheversand"
+            },
+            "Ssd": "20260627",
+            "Name": "Westerheversand",
+            "Market": "DE-DE",
+            "Hash": "9270031466",
+            "FullDateString": "27. Juni. 2026"
+        }
+    },
+    {
         "startdate": "20260625",
         "fullstartdate": "202606252200",
         "enddate": "20260626",

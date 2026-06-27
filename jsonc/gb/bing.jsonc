@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260626",
+        "fullstartdate": "202606262300",
+        "enddate": "20260627",
+        "url": "/th?id=OHR.BoneyardBeach_EN-GB1157661849_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BoneyardBeach_EN-GB1157661849",
+        "copyright": "Driftwood on Boneyard Beach, Hunting Island, South Carolina, United States (© Frances/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Hunting+Island&form=hpcapt&filters=HpDate%3a%2220260626_2300%22",
+        "title": "The trees that lost ground",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260626_BoneyardBeach%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1fb5b27f1c3728746adbe2421277cb5f",
+        "hsh": "60878eaf6c29b2498b89ecfa87c0c57d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas.",
+                "Image": {
+                    "Url": "/th?id=OHR.BoneyardBeach_EN-GB1157661849_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BoneyardBeach_EN-GB1157661849_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "The trees that lost ground",
+                "Title": "Driftwood on Boneyard Beach, Hunting Island, South Carolina, United States",
+                "Copyright": "© Frances/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/32.40758,-80.445631/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=32.40758,-80.445631;S9;Hunting Island State Park, South Carolina, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260627_BoneyardBeach\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hunting+Island&form=hpcapt&filters=HpDate:\"20260626_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260627_BoneyardBeach"
+            },
+            "Ssd": "20260627",
+            "Name": "BoneyardBeach",
+            "Market": "EN-GB",
+            "Hash": "1157661849",
+            "FullDateString": "27 Jun 2026"
+        }
+    },
+    {
         "startdate": "20260625",
         "fullstartdate": "202606252300",
         "enddate": "20260626",

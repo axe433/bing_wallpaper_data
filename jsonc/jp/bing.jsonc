@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260626",
+        "fullstartdate": "202606261500",
+        "enddate": "20260627",
+        "url": "/th?id=OHR.Ajisai2026_JA-JP5953428145_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Ajisai2026_JA-JP5953428145",
+        "copyright": "あじさいの花房, 岩手県 奥州市 (© nattya3714/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%81%82%E3%81%98%E3%81%95%E3%81%84%E3%81%AE%E8%8A%B1%E6%88%BF&form=hpcapt&filters=HpDate%3a%2220260626_1500%22",
+        "title": "青い花に包まれた小道",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260626_Ajisai2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "fb6c6d6a3d2f19586047fdd5eb519d6c",
+        "hsh": "54c2d4bef95ac2baef71b9ae7fe42d5f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "あじさい（紫陽花）は、梅雨の時期を代表する美しい花です。今日の画像は、岩手県奥州市で撮影されたあじさい。例年、6 月下旬から 7 月下旬ごろにかけて見頃を迎えます。あじさいは、画像のような青以外にも様々な色がありますが、これは土壌の酸性度によって変化するものです。日本は、弱酸性の土壌が広く分布しているため、青や紫の花が多く見られます。梅雨の曇り空の下に広がる爽やかな青いあじさいが、ジメジメとした梅雨の空気を和らげてくれます。",
+                "Image": {
+                    "Url": "/th?id=OHR.Ajisai2026_JA-JP5953428145_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Ajisai2026_JA-JP5953428145_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "青い花に包まれた小道",
+                "Title": "あじさいの花房, 岩手県 奥州市",
+                "Copyright": "© nattya3714/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.144413,141.13916/11?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=39.144413,141.13916;S9;岩手県奥州市&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260627_Ajisai2026%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260627_Ajisai2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%81%82%e3%81%98%e3%81%95%e3%81%84%e3%81%ae%e8%8a%b1%e6%88%bf&form=hpcapt&filters=HpDate:\"20260626_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260627_Ajisai2026"
+            },
+            "Ssd": "20260627",
+            "Name": "Ajisai2026",
+            "Market": "JA-JP",
+            "Hash": "5953428145",
+            "FullDateString": "2026 年 6月 月 27 日"
+        }
+    },
+    {
         "startdate": "20260625",
         "fullstartdate": "202606251500",
         "enddate": "20260626",
