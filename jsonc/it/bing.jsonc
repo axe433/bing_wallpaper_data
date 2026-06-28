@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260627",
+        "fullstartdate": "202606272200",
+        "enddate": "20260628",
+        "url": "/th?id=OHR.SaguaroSun_IT-IT8055685927_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SaguaroSun_IT-IT8055685927",
+        "copyright": "Cactus Saguaro vicino al Passo Windgate, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Il+saguaro&form=hpcapt",
+        "title": "Pieni di spine, ma belli!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260627_SaguaroSun%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "32cca062bbe6ec4ff54b468b85214eca",
+        "hsh": "9f9509bf404a3cf0b9071b6daf82e7f1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nel deserto di Sonora, il saguaro trasforma l’idea di immobilità in una straordinaria strategia di vita. Con le sue silhouette ramificate rivolte al cielo, questo cactus iconico domina paesaggi tra Arizona, California e Messico, dove cresce esclusivamente. Può superare i dodici metri d’altezza e vivere oltre centocinquanta anni, ma i primi passi sono quasi impercettibili: nei primi anni aumenta di pochi centimetri e attende fino a settanta anni prima di sviluppare i suoi caratteristici «bracci».",
+                "Image": {
+                    "Url": "/th?id=OHR.SaguaroSun_IT-IT8055685927_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SaguaroSun_IT-IT8055685927_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Pieni di spine, ma belli!",
+                "Title": "Cactus Saguaro vicino al Passo Windgate, McDowell Range, Arizona, USA",
+                "Copyright": "© Eric Mischke/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/33.796104,-111.810696/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=33.796104,-111.810696;S9;Passo Windgate, McDowell Range, Arizona, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260628_SaguaroSun\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Il+saguaro&form=hpcapt&filters=HpDate:\"20260627_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260628_SaguaroSun"
+            },
+            "Ssd": "20260628",
+            "Name": "SaguaroSun",
+            "Market": "IT-IT",
+            "Hash": "8055685927",
+            "FullDateString": "28 giugno 2026"
+        }
+    },
+    {
         "startdate": "20260626",
         "fullstartdate": "202606262200",
         "enddate": "20260627",

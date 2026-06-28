@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260627",
+        "fullstartdate": "202606270300",
+        "enddate": "20260628",
+        "url": "/th?id=OHR.BoneyardBeach_PT-BR8811510135_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BoneyardBeach_PT-BR8811510135",
+        "copyright": "Troncos na Boneyard Beach, Hunting Island, Carolina do Sul, Estados Unidos (© Frances/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Carolina+do+Sul&form=hpcapt&mkt=pt-br",
+        "title": "A floresta que o mar redesenhou",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260627_BoneyardBeach%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1fb5b27f1c3728746adbe2421277cb5f",
+        "hsh": "915e023ab716c486861c4660a5ab1e46",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A primeira impressão desta praia é a que fica: troncos claros expostos pela areia como ossos gigantescos. Depois vem a curiosidade: o que aconteceu aqui?",
+                "Image": {
+                    "Url": "/th?id=OHR.BoneyardBeach_PT-BR8811510135_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BoneyardBeach_PT-BR8811510135_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A floresta que o mar redesenhou",
+                "Title": "Troncos na Boneyard Beach, Hunting Island, Carolina do Sul, Estados Unidos",
+                "Copyright": "© Frances/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260627_BoneyardBeach\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Carolina+do+Sul&form=hpcapt&filters=HpDate:\"20260627_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260627_BoneyardBeach"
+            },
+            "Ssd": "20260627",
+            "Name": "BoneyardBeach",
+            "Market": "PT-BR",
+            "Hash": "8811510135",
+            "FullDateString": "27 jun. 2026"
+        }
+    },
+    {
         "startdate": "20260626",
         "fullstartdate": "202606260300",
         "enddate": "20260627",

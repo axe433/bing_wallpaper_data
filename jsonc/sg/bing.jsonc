@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260627",
+        "fullstartdate": "202606270700",
+        "enddate": "20260628",
+        "url": "/th?id=OHR.BoneyardBeach_ROW5980184079_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BoneyardBeach_ROW5980184079",
+        "copyright": "Driftwood on Boneyard Beach, Hunting Island, South Carolina, USA (© Frances/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Hunting+Island&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260627_BoneyardBeach%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1fb5b27f1c3728746adbe2421277cb5f",
+        "hsh": "defa3388c54ae6215a2595033cc72ae9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas.",
+                "Image": {
+                    "Url": "/th?id=OHR.BoneyardBeach_ROW5980184079_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BoneyardBeach_ROW5980184079_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Driftwood on Boneyard Beach, Hunting Island, South Carolina, USA",
+                "Copyright": "© Frances/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260627_BoneyardBeach\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hunting+Island&form=hpcapt&filters=HpDate:\"20260627_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260627_BoneyardBeach"
+            },
+            "Ssd": "20260627",
+            "Name": "BoneyardBeach",
+            "Market": "ROW",
+            "Hash": "5980184079",
+            "FullDateString": "Jun 27, 2026"
+        }
+    },
+    {
         "startdate": "20260626",
         "fullstartdate": "202606260700",
         "enddate": "20260627",

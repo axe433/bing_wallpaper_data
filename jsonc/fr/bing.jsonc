@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260627",
+        "fullstartdate": "202606272200",
+        "enddate": "20260628",
+        "url": "/th?id=OHR.SaguaroSun_FR-FR5935266298_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SaguaroSun_FR-FR5935266298",
+        "copyright": "Cactus saguaro près de Windgate Pass, chaîne des McDowell, Arizona, États‑Unis (© Eric Mischke/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=cactus+Saguaro&form=hpcapt&filters=HpDate%3a%2220260627_2200%22",
+        "title": "Un piquant sans égal",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260627_SaguaroSun%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "32cca062bbe6ec4ff54b468b85214eca",
+        "hsh": "7d443bd66ecf0a9ea96048787d43cb04",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "L’expression « rester dans les parages » prend un tout autre sens dans le désert de Sonora aux États-Unis, où le saguaro s’est imposé comme symbole grâce à sa longévité. Avec ses troncs et ses bras dressés dans toutes les directions, ce cactus géant incarne le Sud-Ouest américain.",
+                "Image": {
+                    "Url": "/th?id=OHR.SaguaroSun_FR-FR5935266298_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SaguaroSun_FR-FR5935266298_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un piquant sans égal",
+                "Title": "Cactus saguaro près de Windgate Pass, chaîne des McDowell, Arizona, États‑Unis",
+                "Copyright": "© Eric Mischke/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/33.796104,-111.810696/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=33.796104,-111.810696;S9;Windgate Pass, chaîne des McDowell, Arizona, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260628_SaguaroSun\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=cactus+Saguaro&form=hpcapt&filters=HpDate:\"20260627_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260628_SaguaroSun"
+            },
+            "Ssd": "20260628",
+            "Name": "SaguaroSun",
+            "Market": "FR-FR",
+            "Hash": "5935266298",
+            "FullDateString": "28 juin 2026"
+        }
+    },
+    {
         "startdate": "20260626",
         "fullstartdate": "202606262200",
         "enddate": "20260627",
