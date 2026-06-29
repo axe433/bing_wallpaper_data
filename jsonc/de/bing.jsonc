@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260628",
+        "fullstartdate": "202606282200",
+        "enddate": "20260629",
+        "url": "/th?id=OHR.BoraBoraLagoon_DE-DE4940738686_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BoraBoraLagoon_DE-DE4940738686",
+        "copyright": "Bora Bora und ihre Lagune, Südpazifik, Französisch-Polynesien (© Frederick Millett/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Bora+Bora&form=hpcapt&filters=HpDate%3a%2220260628_2200%22",
+        "title": "Aus Feuer geboren, vom Wasser gehalten",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260628_BoraBoraLagoon%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a4709ecc682c728aa65074399b8ee7f2",
+        "hsh": "2ea61dafe714c89b7b3bece40bec1d51",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Bora Bora im Südpazifik in Französisch-Polynesien gehört zu den eindrucksvollsten Landschaften der Erde. Die Insel entstand aus einem erloschenen Vulkan, dessen dunkle Gipfel sich steil über das Meer erheben. Ringförmig umgeben von einem Korallenriff liegt eine ruhige Lagune mit schimmernden Blautönen, die sich je nach Licht und Tiefe verändern. Palmen, weiße Strände und kristallklares Wasser prägen das Bild und verleihen dem Ort eine fast unwirkliche Schönheit. Besonders bei Sonnenaufgang und Sonnenuntergang entfaltet die Lagune eine beeindruckende Farbvielfalt, die Besucher immer wieder aufs Neue fasziniert.",
+                "Image": {
+                    "Url": "/th?id=OHR.BoraBoraLagoon_DE-DE4940738686_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BoraBoraLagoon_DE-DE4940738686_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Aus Feuer geboren, vom Wasser gehalten",
+                "Title": "Bora Bora und ihre Lagune, Südpazifik, Französisch-Polynesien",
+                "Copyright": "© Frederick Millett/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-16.498926,-151.73819/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=-16.498926,-151.73819;S9;Bora Bora, Französisch-Polynesien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260629_BoraBoraLagoon\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Bora+Bora&form=hpcapt&filters=HpDate:\"20260628_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260629_BoraBoraLagoon"
+            },
+            "Ssd": "20260629",
+            "Name": "BoraBoraLagoon",
+            "Market": "DE-DE",
+            "Hash": "4940738686",
+            "FullDateString": "29. Juni. 2026"
+        }
+    },
+    {
         "startdate": "20260627",
         "fullstartdate": "202606272200",
         "enddate": "20260628",

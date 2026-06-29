@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260628",
+        "fullstartdate": "202606282200",
+        "enddate": "20260629",
+        "url": "/th?id=OHR.SanPietroPaolo_IT-IT6089431696_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SanPietroPaolo_IT-IT6089431696",
+        "copyright": "Castel Sant’Angelo, Roma (© Domenico Cippitelli/NurPhoto via Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Santi+Pietro+e+Paolo&form=hpcapt",
+        "title": "Notte della Girandola",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260628_SanPietroPaolo%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c59475c46cd282059a08a4fcde8c7dc1",
+        "hsh": "3e24d8ad6cc12438e6c4d26a350c2167",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Il 29 giugno Roma celebra i Santi Pietro e Paolo, patroni della città, con una delle ricorrenze più sentite del calendario romano. Accanto alle celebrazioni religiose, la festa è famosa per la «Girandola», lo storico spettacolo pirotecnico che illumina il cielo sopra Castel Sant'Angelo. La tradizione della Girandola risale al XV secolo e si sviluppò sotto il pontificato di papa Sisto IV, che affidò ai migliori artisti dell’epoca la progettazione delle spettacolari «macchine per i fuochi».",
+                "Image": {
+                    "Url": "/th?id=OHR.SanPietroPaolo_IT-IT6089431696_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SanPietroPaolo_IT-IT6089431696_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Notte della Girandola",
+                "Title": "Castel Sant’Angelo, Roma",
+                "Copyright": "© Domenico Cippitelli/NurPhoto via Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.903357,12.466295/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=41.903357,12.466295;S9;Santi Pietro e Paolo&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260629_SanPietroPaolo\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Santi+Pietro+e+Paolo&form=hpcapt&filters=HpDate:\"20260628_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260629_SanPietroPaolo"
+            },
+            "Ssd": "20260629",
+            "Name": "SanPietroPaolo",
+            "Market": "IT-IT",
+            "Hash": "6089431696",
+            "FullDateString": "29 giugno 2026"
+        }
+    },
+    {
         "startdate": "20260627",
         "fullstartdate": "202606272200",
         "enddate": "20260628",
