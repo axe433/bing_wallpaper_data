@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260629",
+        "fullstartdate": "202606292200",
+        "enddate": "20260630",
+        "url": "/th?id=OHR.MasaiGiraffe_DE-DE5053384610_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MasaiGiraffe_DE-DE5053384610",
+        "copyright": "Giraffen bei Sonnenuntergang im Masai-Mara-Nationalreservat, Kenia (© danm/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Masai+Mara+Nationalreservat&form=hpcapt&filters=HpDate%3a%2220260629_2200%22",
+        "title": "Wo sich die Schatten in die Länge ziehen",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260629_MasaiGiraffe%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "230cf7d32d4164d30f42caffefece719",
+        "hsh": "d1943c54217a41091adc8d6f4632797c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Das Masai-Mara-Nationalreservat im Südwesten Kenias umfasst etwa 1500 Quadratkilometer und grenzt direkt an die Serengeti in Tansania. Es zählt zu den bedeutendsten Schutzgebieten für Wildtiere weltweit. Die Landschaft besteht aus offenen Grasflächen, locker verteilten Akazien und dem Mara-Fluss als zentraler Wasserquelle. Diese Bedingungen ermöglichen eine hohe Artenvielfalt und prägen das ökologische Gleichgewicht. In den Abendstunden, wenn die Sonne sinkt, verbessern sich die Sichtverhältnisse und viele Tiere werden in der weiten Savanne deutlich erkennbar.",
+                "Image": {
+                    "Url": "/th?id=OHR.MasaiGiraffe_DE-DE5053384610_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MasaiGiraffe_DE-DE5053384610_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Wo sich die Schatten in die Länge ziehen",
+                "Title": "Giraffen bei Sonnenuntergang im Masai-Mara-Nationalreservat, Kenia",
+                "Copyright": "© danm/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-1.529493,35.170876/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=-1.529493,35.170876;S9;Masai-Mara-Nationalreservat, Kenia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260630_MasaiGiraffe\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Masai+Mara+Nationalreservat&form=hpcapt&filters=HpDate:\"20260629_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260630_MasaiGiraffe"
+            },
+            "Ssd": "20260630",
+            "Name": "MasaiGiraffe",
+            "Market": "DE-DE",
+            "Hash": "5053384610",
+            "FullDateString": "30. Juni. 2026"
+        }
+    },
+    {
         "startdate": "20260628",
         "fullstartdate": "202606282200",
         "enddate": "20260629",

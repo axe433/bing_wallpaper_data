@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260629",
+        "fullstartdate": "202606291500",
+        "enddate": "20260630",
+        "url": "/th?id=OHR.MasaiGiraffe_JA-JP6554855892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MasaiGiraffe_JA-JP6554855892",
+        "copyright": "マサイキリン, ケニヤ (© danm/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%9E%E3%82%B5%E3%82%A4%E3%82%AD%E3%83%AA%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220260629_1500%22",
+        "title": "夕焼けに浮かぶキリンの影",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260629_MasaiGiraffe%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "230cf7d32d4164d30f42caffefece719",
+        "hsh": "00eb240719c20cd82c05ead660e70933",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日の画像は、ケニアのマサイマラ国立保護区で撮影されたマサイキリンです。マサイキリンは、他のキリン同様体に模様があり、ギザギザとした葉のような形をしているのが特徴です。この模様は、人間の指紋のように、個体ごとに異なります。彼らは、一日の大半を食事に充てており、長い舌を器用に使って鋭い棘の間から葉を摘み取って食べています。普段は穏やかで優雅に過ごしていますが、捕食者から逃げる際などは時速約 55km に達する速さで走れます。",
+                "Image": {
+                    "Url": "/th?id=OHR.MasaiGiraffe_JA-JP6554855892_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MasaiGiraffe_JA-JP6554855892_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "夕焼けに浮かぶキリンの影",
+                "Title": "マサイキリン, ケニヤ",
+                "Copyright": "© danm/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-1.529493,35.170876/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=-1.529493,35.170876;S9;マサイマラ国立保護区, ケニヤ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260630_MasaiGiraffe%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260630_MasaiGiraffe\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%9e%e3%82%b5%e3%82%a4%e3%82%ad%e3%83%aa%e3%83%b3&form=hpcapt&filters=HpDate:\"20260629_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260630_MasaiGiraffe"
+            },
+            "Ssd": "20260630",
+            "Name": "MasaiGiraffe",
+            "Market": "JA-JP",
+            "Hash": "6554855892",
+            "FullDateString": "2026 年 6月 月 30 日"
+        }
+    },
+    {
         "startdate": "20260628",
         "fullstartdate": "202606281500",
         "enddate": "20260629",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260629",
+        "fullstartdate": "202606292200",
+        "enddate": "20260630",
+        "url": "/th?id=OHR.MasaiGiraffe_FR-FR7072948459_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MasaiGiraffe_FR-FR7072948459",
+        "copyright": "Girafes au coucher du soleil, Masai Mara, Kenya (© danm/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=r%C3%A9serve+Masai+Mara&form=hpcapt&filters=HpDate%3a%2220260629_2200%22",
+        "title": "Jouer à l’ombre la plus longue",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260629_MasaiGiraffe%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "230cf7d32d4164d30f42caffefece719",
+        "hsh": "e11d7ccee6a7d2f3f77c0b137077ec6d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Alors que le soleil décline sur la réserve nationale du Masai Mara, les girafes masaï se découpent sur un ciel flamboyant et des plaines infinies. Située au sud-ouest du Kenya, à la frontière du parc national du Serengeti en Tanzanie, cette réserve d’environ 1 500 km² est l’un des plus grands sanctuaires animaliers au monde. Ses prairies vallonnées, ses acacias dispersés et la rivière Mara, essentielle à l’écosystème, en font un lieu privilégié pour observer la faune.",
+                "Image": {
+                    "Url": "/th?id=OHR.MasaiGiraffe_FR-FR7072948459_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MasaiGiraffe_FR-FR7072948459_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Jouer à l'ombre la plus longue",
+                "Title": "Girafes au coucher du soleil, Masai Mara, Kenya",
+                "Copyright": "© danm/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-1.529493,35.170876/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=-1.529493,35.170876;S9;Réserve nationale du Masai Mara, Kenya&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260630_MasaiGiraffe\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=r%c3%a9serve+Masai+Mara&form=hpcapt&filters=HpDate:\"20260629_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260630_MasaiGiraffe"
+            },
+            "Ssd": "20260630",
+            "Name": "MasaiGiraffe",
+            "Market": "FR-FR",
+            "Hash": "7072948459",
+            "FullDateString": "30 juin 2026"
+        }
+    },
+    {
         "startdate": "20260628",
         "fullstartdate": "202606282200",
         "enddate": "20260629",

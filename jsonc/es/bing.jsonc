@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260629",
+        "fullstartdate": "202606292200",
+        "enddate": "20260630",
+        "url": "/th?id=OHR.MasaiGiraffe_ES-ES0604244262_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MasaiGiraffe_ES-ES0604244262",
+        "copyright": "Jirafas al atardecer en la Reserva Nacional Masai Mara, Kenia (© danm/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Reserva+Nacional+Masai+Mara&form=hpcapt&filters=HpDate%3a%2220260629_2200%22",
+        "title": "¡Una vista fascinante!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260629_MasaiGiraffe%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "230cf7d32d4164d30f42caffefece719",
+        "hsh": "5bc538bd4447d10f8a47c3c4c88fe8bf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En la Reserva Nacional Masai Mara, en Kenia, las jirafas masái dominan el horizonte cuando el sol se funde con la sabana en tonos ardientes. Este santuario natural, que se extiende por unos 1.500 km² en el suroeste del país, forma parte de uno de los grandes escenarios de vida salvaje del planeta, conectado con el Serengeti. Entre praderas abiertas, acacias dispersas y el río Mara, la naturaleza marca un ritmo que impresiona por su escala y su intensidad.",
+                "Image": {
+                    "Url": "/th?id=OHR.MasaiGiraffe_ES-ES0604244262_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MasaiGiraffe_ES-ES0604244262_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "¡Una vista fascinante!",
+                "Title": "Jirafas al atardecer en la Reserva Nacional Masai Mara, Kenia",
+                "Copyright": "© danm/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260630_MasaiGiraffe\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Reserva+Nacional+Masai+Mara&form=hpcapt&filters=HpDate:\"20260629_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260630_MasaiGiraffe"
+            },
+            "Ssd": "20260630",
+            "Name": "MasaiGiraffe",
+            "Market": "ES-ES",
+            "Hash": "0604244262",
+            "FullDateString": "30 de jun de 2026"
+        }
+    },
+    {
         "startdate": "20260628",
         "fullstartdate": "202606282200",
         "enddate": "20260629",
