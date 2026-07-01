@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260630",
+        "fullstartdate": "202606300300",
+        "enddate": "20260701",
+        "url": "/th?id=OHR.MasaiGiraffe_PT-BR8199198867_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MasaiGiraffe_PT-BR8199198867",
+        "copyright": "Girafas ao pôr do sol na Reserva Nacional Masai Mara, Quênia (© danm/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Reserva+Nacional+Masai+Mara+Quenia&form=hpcapt&mkt=pt-br",
+        "title": "O entardecer das gigantes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260630_MasaiGiraffe%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "230cf7d32d4164d30f42caffefece719",
+        "hsh": "474684fc37455510fc7f7d2032a2c2bb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "À medida que o sol se aproxima do horizonte, as girafas‑masai vistas na imagem ganham forma em contraste com o céu quente do Quênia. A cena acontece na Reserva Nacional de Masai Mara, um mosaico de campos abertos, acácias espaçadas e o rio Mara, que mantém a vida circulando em um dos maiores palcos naturais do planeta.",
+                "Image": {
+                    "Url": "/th?id=OHR.MasaiGiraffe_PT-BR8199198867_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MasaiGiraffe_PT-BR8199198867_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O entardecer das gigantes",
+                "Title": "Girafas ao pôr do sol na Reserva Nacional Masai Mara, Quênia",
+                "Copyright": "© danm/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260630_MasaiGiraffe\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Reserva+Nacional+Masai+Mara+Quenia&form=hpcapt&filters=HpDate:\"20260630_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260630_MasaiGiraffe"
+            },
+            "Ssd": "20260630",
+            "Name": "MasaiGiraffe",
+            "Market": "PT-BR",
+            "Hash": "8199198867",
+            "FullDateString": "30 jun. 2026"
+        }
+    },
+    {
         "startdate": "20260629",
         "fullstartdate": "202606290300",
         "enddate": "20260630",

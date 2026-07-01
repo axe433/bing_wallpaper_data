@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260630",
+        "fullstartdate": "202606302300",
+        "enddate": "20260701",
+        "url": "/th?id=OHR.KaysersbergVillage_EN-GB9678795742_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KaysersbergVillage_EN-GB9678795742",
+        "copyright": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Kaysersberg+Alsace&form=hpcapt&filters=HpDate%3a%2220260630_2300%22",
+        "title": "This is your detour",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260630_KaysersbergVillage%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "611d46e97e22c7e4625e24a4a74fea61",
+        "hsh": "fd50412107c993e32408298b7037c66f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Set along the Weiss River, about 7 miles northwest of Colmar, the village of Kaysersberg, in the Alsace region of France, rests on the eastern slopes of the Vosges Mountains. This historic settlement combines medieval charm with a rich architectural heritage.",
+                "Image": {
+                    "Url": "/th?id=OHR.KaysersbergVillage_EN-GB9678795742_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KaysersbergVillage_EN-GB9678795742_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "This is your detour",
+                "Title": "Kaysersberg, Alsace, France",
+                "Copyright": "© Federica Gentile/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.18747,7.215853/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=48.18747,7.215853;S9;Kaysersberg, France&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260701_KaysersbergVillage\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Kaysersberg+Alsace&form=hpcapt&filters=HpDate:\"20260630_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260701_KaysersbergVillage"
+            },
+            "Ssd": "20260701",
+            "Name": "KaysersbergVillage",
+            "Market": "EN-GB",
+            "Hash": "9678795742",
+            "FullDateString": "1 Jul 2026"
+        }
+    },
+    {
         "startdate": "20260629",
         "fullstartdate": "202606292300",
         "enddate": "20260630",

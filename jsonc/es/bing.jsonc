@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260630",
+        "fullstartdate": "202606302200",
+        "enddate": "20260701",
+        "url": "/th?id=OHR.DungeonPark_ES-ES4904785525_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DungeonPark_ES-ES4904785525",
+        "copyright": "Dungeon Provincial Park, Terranova y Labrador, Canadá (© Kaitlyn McLachlan/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+de+Canada&form=hpcapt&filters=HpDate%3a%2220260630_2200%22",
+        "title": "Canadá, tallado por el Atlántico",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260630_DungeonPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b9923412ee4f92b849559423c64cd2cb",
+        "hsh": "22803a5b4e491a7df763f0f3e9fde3ad",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El Dungeon Provincial Park, en Canadá, revela una costa indómita donde el Atlántico sigue moldeando el paisaje con una fuerza imparable. Cada 1 de julio, el país celebra su día nacional, recordando la unión de sus primeras colonias en 1867 y una identidad que hoy se vive entre conciertos, encuentros y fuegos artificiales.",
+                "Image": {
+                    "Url": "/th?id=OHR.DungeonPark_ES-ES4904785525_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DungeonPark_ES-ES4904785525_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Canadá, tallado por el Atlántico",
+                "Title": "Dungeon Provincial Park, Terranova y Labrador, Canadá",
+                "Copyright": "© Kaitlyn McLachlan/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.666842,-53.084148/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=48.666842,-53.084148;S9;Dungeon Provincial Park, Terranova y Labrador, Canadá&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260701_DungeonPark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=D%c3%ada+de+Canada&form=hpcapt&filters=HpDate:\"20260630_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260701_DungeonPark"
+            },
+            "Ssd": "20260701",
+            "Name": "DungeonPark",
+            "Market": "ES-ES",
+            "Hash": "4904785525",
+            "FullDateString": "1 de jul de 2026"
+        }
+    },
+    {
         "startdate": "20260629",
         "fullstartdate": "202606292200",
         "enddate": "20260630",

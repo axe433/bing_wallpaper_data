@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260630",
+        "fullstartdate": "202606302200",
+        "enddate": "20260701",
+        "url": "/th?id=OHR.NeckarVineyards_DE-DE0300601892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NeckarVineyards_DE-DE0300601892",
+        "copyright": "Sonnenuntergang über den Weinbergen von Steinhaldenfeld im Neckartal bei Stuttgart, Baden-Württemberg (© Cyril Gosselin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Stuttgart+Neckar&form=hpcapt&filters=HpDate%3a%2220260630_2200%22",
+        "title": "Rebhänge im Abendlicht",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260630_NeckarVineyards%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8e3a82f45545dd7dc3cf0380b9c7871f",
+        "hsh": "7866e38cb7aeebcbdd4e2ea78e02a61e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Oberhalb des Neckars bei Stuttgart ziehen sich terrassierte Weinberge die Hänge hinauf und prägen eine der charakteristischsten Kulturlandschaften des Neckartals. Beim Blick über den Fluss zeichnen sich die markanten Linien der Rebreihen und Trockenmauern ab. Sie schmiegen sich harmonisch an die Hänge und werden vielerorts noch in aufwendiger Handarbeit von den sogenannten Wengertern gepflegt. Das milde Klima begünstigt traditionelle Rebsorten wie Trollinger und Riesling, die bis heute eng mit der Weinbaugeschichte Württembergs verbunden sind.",
+                "Image": {
+                    "Url": "/th?id=OHR.NeckarVineyards_DE-DE0300601892_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NeckarVineyards_DE-DE0300601892_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Rebhänge im Abendlicht",
+                "Title": "Sonnenuntergang über den Weinbergen von Steinhaldenfeld im Neckartal bei Stuttgart, Baden-Württemberg",
+                "Copyright": "© Cyril Gosselin/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.828049,9.232/10?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=48.828049,9.232;S9;Steinhaldenfeld, Stuttgart, Baden-Württemberg&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260701_NeckarVineyards\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Stuttgart+Neckar&form=hpcapt&filters=HpDate:\"20260630_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260701_NeckarVineyards"
+            },
+            "Ssd": "20260701",
+            "Name": "NeckarVineyards",
+            "Market": "DE-DE",
+            "Hash": "0300601892",
+            "FullDateString": "1. Juli. 2026"
+        }
+    },
+    {
         "startdate": "20260629",
         "fullstartdate": "202606292200",
         "enddate": "20260630",
