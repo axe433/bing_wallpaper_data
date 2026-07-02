@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260701",
+        "fullstartdate": "202607010700",
+        "enddate": "20260702",
+        "url": "/th?id=OHR.DungeonPark_ROW7201602273_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DungeonPark_ROW7201602273",
+        "copyright": "Dungeon Provincial Park, Newfoundland and Labrador, Canada (© Kaitlyn McLachlan/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dungeon+Provincial+Park+Canada&form=hpcapt&filters=HpDate%3a%2220260701_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260701_DungeonPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b9923412ee4f92b849559423c64cd2cb",
+        "hsh": "e37bb93ccf2bfed7d29553290653c080",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Today's image takes us to Dungeon Provincial Park on the rugged coast of Newfoundland and Labrador, Canada, where nature tells a much older story. Atlantic waves carved a sea cave with two openings, gradually widening it until the roof gave way. What remains is a striking collapsed formation known as a 'gloup,' surrounded by steep cliffs and crashing surf.",
+                "Image": {
+                    "Url": "/th?id=OHR.DungeonPark_ROW7201602273_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DungeonPark_ROW7201602273_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Dungeon Provincial Park, Newfoundland and Labrador, Canada",
+                "Copyright": "© Kaitlyn McLachlan/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260701_DungeonPark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dungeon+Provincial+Park+Canada&form=hpcapt&filters=HpDate:\"20260701_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260701_DungeonPark"
+            },
+            "Ssd": "20260701",
+            "Name": "DungeonPark",
+            "Market": "ROW",
+            "Hash": "7201602273",
+            "FullDateString": "1 July 2026"
+        }
+    },
+    {
         "startdate": "20260630",
         "fullstartdate": "202606300700",
         "enddate": "20260701",

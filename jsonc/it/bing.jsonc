@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260701",
+        "fullstartdate": "202607012200",
+        "enddate": "20260702",
+        "url": "/th?id=OHR.SienaPalioToscana_IT-IT6720555051_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SienaPalioToscana_IT-IT6720555051",
+        "copyright": "Palio di Siena, Italia (© Dave Benett/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Palio+di+Siena&form=hpcapt",
+        "title": "Una corsa fra contrade",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260701_SienaPalioToscana%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5007e5c6d1cc65e4205c684e8c32528f",
+        "hsh": "56d4efb2db4724f52d2cc87dc295454e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A Siena, in Toscana, il Palio di Siena non è solo una corsa: è un’esplosione di storia, identità e passione che trasforma Piazza del Campo in un palcoscenico unico.",
+                "Image": {
+                    "Url": "/th?id=OHR.SienaPalioToscana_IT-IT6720555051_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SienaPalioToscana_IT-IT6720555051_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Una corsa fra contrade",
+                "Title": "Palio di Siena, Italia",
+                "Copyright": "© Dave Benett/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.550045,11.262136/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=43.550045,11.262136;S9;Palio di Siena, Italia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260702_SienaPalioToscana\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Palio+di+Siena&form=hpcapt&filters=HpDate:\"20260701_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260702_SienaPalioToscana"
+            },
+            "Ssd": "20260702",
+            "Name": "SienaPalioToscana",
+            "Market": "IT-IT",
+            "Hash": "6720555051",
+            "FullDateString": "2 luglio 2026"
+        }
+    },
+    {
         "startdate": "20260630",
         "fullstartdate": "202606302200",
         "enddate": "20260701",

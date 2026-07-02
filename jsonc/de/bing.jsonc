@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260701",
+        "fullstartdate": "202607012200",
+        "enddate": "20260702",
+        "url": "/th?id=OHR.TempleEsna_DE-DE2277338406_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TempleEsna_DE-DE2277338406",
+        "copyright": "Decke des Tempels von Esna, Ägypten (© Nick Brundle Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Tempel+von+Esna&form=hpcapt&filters=HpDate%3a%2220260701_2200%22",
+        "title": "Ein Blick in Esnas Universum",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260701_TempleEsna%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9c019a722b77737c7fe0dc585e6b6b98",
+        "hsh": "de8e340c23cbd24df7fea83434242bdc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Die Decke des Tempels von Esna in Ägypten gehört zu den beeindruckendsten Zeugnissen der spätantiken ägyptischen Baukunst und fasziniert durch ihre außergewöhnlich gut erhaltenen Reliefs und Farben. Nach umfassenden Restaurierungsarbeiten treten heute wieder lebendige Darstellungen von Sternbildern, Göttern und rituellen Symbolen hervor, die lange unter Ruß und Schmutz verborgen waren. Besonders auffällig sind die sorgfältig ausgearbeiteten Tierkreiszeichen, die einen wichtigen Hinweis auf das damalige Weltverständnis und die Verbindung von Religion und Astronomie liefern.",
+                "Image": {
+                    "Url": "/th?id=OHR.TempleEsna_DE-DE2277338406_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TempleEsna_DE-DE2277338406_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ein Blick in Esnas Universum",
+                "Title": "Decke des Tempels von Esna, Ägypten",
+                "Copyright": "© Nick Brundle Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/25.293581,32.556398/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=25.293581,32.556398;S9;Tempel von Esna, Ägypten&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260702_TempleEsna\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tempel+von+Esna&form=hpcapt&filters=HpDate:\"20260701_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260702_TempleEsna"
+            },
+            "Ssd": "20260702",
+            "Name": "TempleEsna",
+            "Market": "DE-DE",
+            "Hash": "2277338406",
+            "FullDateString": "2. Juli. 2026"
+        }
+    },
+    {
         "startdate": "20260630",
         "fullstartdate": "202606302200",
         "enddate": "20260701",

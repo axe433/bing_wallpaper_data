@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260701",
+        "fullstartdate": "202607010300",
+        "enddate": "20260702",
+        "url": "/th?id=OHR.DungeonPark_PT-BR3960378944_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DungeonPark_PT-BR3960378944",
+        "copyright": "Dungeon Provincial Park, Terra Nova e Labrador, Canadá (© Kaitlyn McLachlan/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+do+Canada&form=hpcapt&mkt=pt-br",
+        "title": "A costa que o Atlântico moldou",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260701_DungeonPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b9923412ee4f92b849559423c64cd2cb",
+        "hsh": "affa41c52ad75031eeff8e8d17ee9542",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "O dia 1º de julho de 1867 marca a fundação do Canadá como país, uma data que virou feriado nacional e hoje reúne gente de ponta a ponta em shows, encontros e fogos de artifício. Cada região coloca seu tempero nessa celebração que mistura história e pertencimento. Mas na imagem, o clima é outro: estamos no Dungeon Provincial Park, na província de Terra Nova e Labrador, onde o oceano já era protagonista muito antes do Canadá existir.",
+                "Image": {
+                    "Url": "/th?id=OHR.DungeonPark_PT-BR3960378944_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DungeonPark_PT-BR3960378944_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A costa que o Atlântico moldou",
+                "Title": "Dungeon Provincial Park, Terra Nova e Labrador, Canadá",
+                "Copyright": "© Kaitlyn McLachlan/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260701_DungeonPark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dia+do+Canada&form=hpcapt&filters=HpDate:\"20260701_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260701_DungeonPark"
+            },
+            "Ssd": "20260701",
+            "Name": "DungeonPark",
+            "Market": "PT-BR",
+            "Hash": "3960378944",
+            "FullDateString": "1 jul. 2026"
+        }
+    },
+    {
         "startdate": "20260630",
         "fullstartdate": "202606300300",
         "enddate": "20260701",

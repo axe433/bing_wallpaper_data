@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260701",
+        "fullstartdate": "202607011600",
+        "enddate": "20260702",
+        "url": "/th?id=OHR.TempleEsna_ZH-CN9834689523_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TempleEsna_ZH-CN9834689523",
+        "copyright": "埃斯纳神庙穹顶天花板, 埃及 (© Nick Brundle Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%9F%83%E5%8F%8A%E5%9F%83%E6%96%AF%E7%BA%B3%E7%A5%9E%E5%BA%99&form=hpcapt&mkt=zh-cn",
+        "title": "走进埃斯纳神圣的世界",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260701_TempleEsna%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9c019a722b77737c7fe0dc585e6b6b98",
+        "hsh": "f65ddd6a84f4c169a15d0c462c0b3498",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "在埃及卢克索以南的埃斯纳神庙（Temple of Esna），游客将步入一个充满生机的世界，这里供奉着公羊头神——赫努姆（Khnum）；传说他曾用尼罗河的黏土塑造了人类。这座神庙主要建于托勒密王朝和罗马统治时期，其现存的大厅由24根高耸的石柱支撑，每根柱子上都雕刻着精美的浮雕与颂扬诸神的仪式铭文。",
+                "Image": {
+                    "Url": "/th?id=OHR.TempleEsna_ZH-CN9834689523_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TempleEsna_ZH-CN9834689523_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "走进埃斯纳神圣的世界",
+                "Title": "埃斯纳神庙穹顶天花板, 埃及",
+                "Copyright": "© Nick Brundle Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "数个世纪以来，埃斯纳神庙的大部分区域曾被淤泥和周边建筑掩埋，这在一定程度上减少了风化作用，使许多雕刻得以较好保存。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260702_TempleEsna\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%9f%83%e5%8f%8a%e5%9f%83%e6%96%af%e7%ba%b3%e7%a5%9e%e5%ba%99&form=hpcapt&filters=HpDate:\"20260701_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260702_TempleEsna"
+            },
+            "Ssd": "20260702",
+            "Name": "TempleEsna",
+            "Market": "ZH-CN",
+            "Hash": "9834689523",
+            "FullDateString": "2026 7月 2"
+        }
+    },
+    {
         "startdate": "20260630",
         "fullstartdate": "202606301600",
         "enddate": "20260701",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260701",
+        "fullstartdate": "202607011500",
+        "enddate": "20260702",
+        "url": "/th?id=OHR.TempleEsna_JA-JP0629204284_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TempleEsna_JA-JP0629204284",
+        "copyright": "クヌム神に捧げられたエスナ神殿の天井, エジプト (© Nick Brundle Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%A8%E3%82%B9%E3%83%8A%E7%A5%9E%E6%AE%BF&form=hpcapt&filters=HpDate%3a%2220260701_1500%22",
+        "title": "古代神殿の壮麗な内部空間",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260701_TempleEsna%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9c019a722b77737c7fe0dc585e6b6b98",
+        "hsh": "a7acaa0878d5418566b9b2994f3a4859",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日の画像は、古代エジプトにあるエスナ神殿（クヌム神殿）の天井です。エスナ神殿は、エジプト南部のナイル川西岸に位置し、主にプトレマイオス朝からローマ時代にかけて建設されました。現在残っている柱廊ホールは、24本の巨大な柱に支えられ、その柱や壁面には宗教的な文様が刻まれています。また、天井には黄道十二宮（星座）や天体図、神々などの天文学的装飾が描かれています。それらの装飾は儀礼や宇宙の循環などを象徴し、参拝者を神聖な世界へと導く役割を果たしていたと考えられています。",
+                "Image": {
+                    "Url": "/th?id=OHR.TempleEsna_JA-JP0629204284_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TempleEsna_JA-JP0629204284_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "古代神殿の壮麗な内部空間",
+                "Title": "クヌム神に捧げられたエスナ神殿の天井, エジプト",
+                "Copyright": "© Nick Brundle Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/25.293581,32.556398/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=25.293581,32.556398;S9;エスナ神殿, エジプト&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260702_TempleEsna%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260702_TempleEsna\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%a8%e3%82%b9%e3%83%8a%e7%a5%9e%e6%ae%bf&form=hpcapt&filters=HpDate:\"20260701_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260702_TempleEsna"
+            },
+            "Ssd": "20260702",
+            "Name": "TempleEsna",
+            "Market": "JA-JP",
+            "Hash": "0629204284",
+            "FullDateString": "2026 年 7月 月 2 日"
+        }
+    },
+    {
         "startdate": "20260630",
         "fullstartdate": "202606301500",
         "enddate": "20260701",

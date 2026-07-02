@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260701",
+        "fullstartdate": "202607010400",
+        "enddate": "20260702",
+        "url": "/th?id=OHR.DungeonPark_EN-CA5716185591_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DungeonPark_EN-CA5716185591",
+        "copyright": "Dungeon Provincial Park, Newfoundland and Labrador (© Kaitlyn McLachlan/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Canada+Day&form=hpcapt&filters=HpDate%3a%2220260701_0400%22",
+        "title": "Canada, carved by the Atlantic",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260701_DungeonPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b9923412ee4f92b849559423c64cd2cb",
+        "hsh": "c7c041a250991b186d7e53f0bdc2ddb3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "On July 1, Canada celebrates its national day, marking the events of 1867, when the British North America Act (now called the Constitution Act, 1867) united three British colonies into one Dominion.",
+                "Image": {
+                    "Url": "/th?id=OHR.DungeonPark_EN-CA5716185591_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DungeonPark_EN-CA5716185591_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Canada, carved by the Atlantic",
+                "Title": "Dungeon Provincial Park, Newfoundland and Labrador",
+                "Copyright": "© Kaitlyn McLachlan/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.666842,-53.084148/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=48.666842,-53.084148;S9;Dungeon Provincial Park, Newfoundland and Labrador&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260701_DungeonPark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Canada+Day&form=hpcapt&filters=HpDate:\"20260701_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260701_DungeonPark"
+            },
+            "Ssd": "20260701",
+            "Name": "DungeonPark",
+            "Market": "EN-CA",
+            "Hash": "5716185591",
+            "FullDateString": "Jul 1, 2026"
+        }
+    },
+    {
         "startdate": "20260630",
         "fullstartdate": "202606300400",
         "enddate": "20260701",

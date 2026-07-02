@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260701",
+        "fullstartdate": "202607012200",
+        "enddate": "20260702",
+        "url": "/th?id=OHR.TempleEsna_ES-ES5295149663_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TempleEsna_ES-ES5295149663",
+        "copyright": "Techo del Templo de Jnum en Esna, Egipto (© Nick Brundle Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=El+Templo+de+Jnum+en+Esna&form=hpcapt&filters=HpDate%3a%2220260701_2200%22",
+        "title": "Dentro del universo sagrado de Esna",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260701_TempleEsna%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9c019a722b77737c7fe0dc585e6b6b98",
+        "hsh": "e126a4239c0ea3682ca31dd396fa716f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El Templo de Jnum en Esna, al sur de Luxor (Egipto), envuelve al visitante en un universo simbólico donde dioses y cielo parecen dialogar. Dedicado a Khnum, el dios con cabeza de carnero que, según la creencia, modelaba a los humanos con arcilla del Nilo, este espacio conserva una sala monumental sostenida por veinticuatro columnas cubiertas de relieves y textos sagrados.",
+                "Image": {
+                    "Url": "/th?id=OHR.TempleEsna_ES-ES5295149663_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TempleEsna_ES-ES5295149663_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Dentro del universo sagrado de Esna",
+                "Title": "Techo del Templo de Jnum en Esna, Egipto",
+                "Copyright": "© Nick Brundle Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/25.293581,32.556398/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=25.293581,32.556398;S9;Templo de Jnum en Esna, Egipto&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260702_TempleEsna\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=El+Templo+de+Jnum+en+Esna&form=hpcapt&filters=HpDate:\"20260701_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260702_TempleEsna"
+            },
+            "Ssd": "20260702",
+            "Name": "TempleEsna",
+            "Market": "ES-ES",
+            "Hash": "5295149663",
+            "FullDateString": "2 de jul de 2026"
+        }
+    },
+    {
         "startdate": "20260630",
         "fullstartdate": "202606302200",
         "enddate": "20260701",

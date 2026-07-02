@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260701",
+        "fullstartdate": "202607012200",
+        "enddate": "20260702",
+        "url": "/th?id=OHR.TempleEsna_FR-FR7122811032_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TempleEsna_FR-FR7122811032",
+        "copyright": "Plafond du temple d'Esna, Égypte (© Nick Brundle Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Temple+Khnoum+Esna+Egypte&form=hpcapt&filters=HpDate%3a%2220260701_2200%22",
+        "title": "Dans l'univers sacré d'Esna",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260701_TempleEsna%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9c019a722b77737c7fe0dc585e6b6b98",
+        "hsh": "88258a0dbc8b9e34a0de243d53049119",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Au sud de Louxor, en Égypte, le temple d’Esna plonge les visiteurs dans le culte de Khnoum, dieu à tête de bélier associé à la création de l’Humanité à partir de l’argile du Nil. Principalement construit à l’époque ptolémaïque puis romaine, il possède une salle hypostyle remarquablement conservée, grâce à la poussière qui l’a couvert pendant des siècles.",
+                "Image": {
+                    "Url": "/th?id=OHR.TempleEsna_FR-FR7122811032_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TempleEsna_FR-FR7122811032_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Dans l'univers sacré d'Esna",
+                "Title": "Plafond du temple d'Esna, Égypte",
+                "Copyright": "© Nick Brundle Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/25.293581,32.556398/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=25.293581,32.556398;S9;Temple d'Esna, Égypte&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260702_TempleEsna\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Temple+Khnoum+Esna+Egypte&form=hpcapt&filters=HpDate:\"20260701_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260702_TempleEsna"
+            },
+            "Ssd": "20260702",
+            "Name": "TempleEsna",
+            "Market": "FR-FR",
+            "Hash": "7122811032",
+            "FullDateString": "2 juil. 2026"
+        }
+    },
+    {
         "startdate": "20260630",
         "fullstartdate": "202606302200",
         "enddate": "20260701",
