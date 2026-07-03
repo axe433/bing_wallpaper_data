@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260702",
+        "fullstartdate": "202607022200",
+        "enddate": "20260703",
+        "url": "/th?id=OHR.FirefliesJapan_IT-IT1298859269_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FirefliesJapan_IT-IT1298859269",
+        "copyright": "Lucciole che brillano sopra un ruscello, Prefettura di Okayama, Giappone (© tdub303/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lampyridae&form=hpcapt",
+        "title": "La poesia della luce che svanisce",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260702_FirefliesJapan%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "42d559df42a9e061f3b341adb5bc182b",
+        "hsh": "b8b3c054330d857840594680d524bbff",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nella prefettura di Okayama, in Giappone, le lucciole «hotaru» trasformano i ruscelli in un cielo stellato sospeso tra acqua e aria.",
+                "Image": {
+                    "Url": "/th?id=OHR.FirefliesJapan_IT-IT1298859269_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FirefliesJapan_IT-IT1298859269_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La poesia della luce che svanisce",
+                "Title": "Lucciole che brillano sopra un ruscello, Prefettura di Okayama, Giappone",
+                "Copyright": "© tdub303/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/34.822845,133.813507/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=34.822845,133.813507;S9;Prefettura di Okayama, Giappone&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260703_FirefliesJapan\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lampyridae&form=hpcapt&filters=HpDate:\"20260702_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260703_FirefliesJapan"
+            },
+            "Ssd": "20260703",
+            "Name": "FirefliesJapan",
+            "Market": "IT-IT",
+            "Hash": "1298859269",
+            "FullDateString": "3 luglio 2026"
+        }
+    },
+    {
         "startdate": "20260701",
         "fullstartdate": "202607012200",
         "enddate": "20260702",
