@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260703",
+        "fullstartdate": "202607032200",
+        "enddate": "20260704",
+        "url": "/th?id=OHR.KaysersbergVillage_ES-ES2312486084_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KaysersbergVillage_ES-ES2312486084",
+        "copyright": "Kaysersberg, Alsacia, Francia (© Federica Gentile/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Kaysersberg+Francia&form=hpcapt&filters=HpDate%3a%2220260703_2200%22",
+        "title": "Este es tu desvío",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260703_KaysersbergVillage%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "611d46e97e22c7e4625e24a4a74fea61",
+        "hsh": "6be7a04a871dfda995bcadae101cca32",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Kaysersberg, en Alsacia (Francia), luce su encanto justo cuando el Tour de Francia arranca este mes de julio, llenando de energía esta región del noreste. A unos doce kilómetros de Colmar, este pueblo se extiende junto al río Weiss, entre viñedos y colinas suaves, en un paisaje que combina historia y naturaleza.",
+                "Image": {
+                    "Url": "/th?id=OHR.KaysersbergVillage_ES-ES2312486084_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KaysersbergVillage_ES-ES2312486084_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Este es tu desvío",
+                "Title": "Kaysersberg, Alsacia, Francia",
+                "Copyright": "© Federica Gentile/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260704_KaysersbergVillage\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Kaysersberg+Francia&form=hpcapt&filters=HpDate:\"20260703_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260704_KaysersbergVillage"
+            },
+            "Ssd": "20260704",
+            "Name": "KaysersbergVillage",
+            "Market": "ES-ES",
+            "Hash": "2312486084",
+            "FullDateString": "4 de jul de 2026"
+        }
+    },
+    {
         "startdate": "20260702",
         "fullstartdate": "202607022200",
         "enddate": "20260703",

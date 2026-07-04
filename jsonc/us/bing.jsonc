@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260703",
+        "fullstartdate": "202607030700",
+        "enddate": "20260704",
+        "url": "/th?id=OHR.FirefliesJapan_EN-US2315956275_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FirefliesJapan_EN-US2315956275",
+        "copyright": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=firefly+insect&form=hpcapt&filters=HpDate%3a%2220260703_0700%22",
+        "title": "The poetry of vanishing light",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260703_FirefliesJapan%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "42d559df42a9e061f3b341adb5bc182b",
+        "hsh": "ed2378c77a79f32b2c4f5565afb8b6a7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signaling. On warm, windless evenings, they often start glowing about two hours after sunset under favorable conditions, inviting silence beside water.",
+                "Image": {
+                    "Url": "/th?id=OHR.FirefliesJapan_EN-US2315956275_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FirefliesJapan_EN-US2315956275_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "The poetry of vanishing light",
+                "Title": "Fireflies glowing above a stream, Okayama Prefecture, Japan",
+                "Copyright": "© tdub303/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/34.822845,133.813507/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=34.822845,133.813507;S9;Okayama Prefecture, Japan&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260703_FirefliesJapan\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=firefly+insect&form=hpcapt&filters=HpDate:\"20260703_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260703_FirefliesJapan"
+            },
+            "Ssd": "20260703",
+            "Name": "FirefliesJapan",
+            "Market": "EN-US",
+            "Hash": "2315956275",
+            "FullDateString": "Jul 3, 2026"
+        }
+    },
+    {
         "startdate": "20260702",
         "fullstartdate": "202607020700",
         "enddate": "20260703",

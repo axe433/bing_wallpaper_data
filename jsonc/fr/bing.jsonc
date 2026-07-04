@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260703",
+        "fullstartdate": "202607032200",
+        "enddate": "20260704",
+        "url": "/th?id=OHR.KaysersbergVillage_FR-FR8479653154_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KaysersbergVillage_FR-FR8479653154",
+        "copyright": "Kaysersberg, Alsace (© Federica Gentile/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Kaysersberg+Alsace&form=hpcapt&filters=HpDate%3a%2220260703_2200%22",
+        "title": "Faire un Tour au village",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260703_KaysersbergVillage%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "611d46e97e22c7e4625e24a4a74fea61",
+        "hsh": "194d9c22392893893a11df2c47bdc8d9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "C’est le Grand Départ pour le Tour de France 2026 ! Le parcours s’élance depuis Barcelone, mais au fil des étapes, il traverse de nombreux villages français. Nous avons choisi l’Alsace avec Kaysersberg, niché sur les rives de la Weiss, près de Colmar et au pied des Vosges. Ce bourg historique semble suspendu entre rivière et montagnes.",
+                "Image": {
+                    "Url": "/th?id=OHR.KaysersbergVillage_FR-FR8479653154_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KaysersbergVillage_FR-FR8479653154_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Faire un Tour au village",
+                "Title": "Kaysersberg, Alsace",
+                "Copyright": "© Federica Gentile/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.18747,7.215853/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=48.18747,7.215853;S9;Kaysersberg&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260704_KaysersbergVillage\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Kaysersberg+Alsace&form=hpcapt&filters=HpDate:\"20260703_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260704_KaysersbergVillage"
+            },
+            "Ssd": "20260704",
+            "Name": "KaysersbergVillage",
+            "Market": "FR-FR",
+            "Hash": "8479653154",
+            "FullDateString": "4 juil. 2026"
+        }
+    },
+    {
         "startdate": "20260702",
         "fullstartdate": "202607022200",
         "enddate": "20260703",

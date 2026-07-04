@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260703",
+        "fullstartdate": "202607032200",
+        "enddate": "20260704",
+        "url": "/th?id=OHR.KaysersbergVillage_DE-DE1031882295_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KaysersbergVillage_DE-DE1031882295",
+        "copyright": "Kaysersberg, Elsass, Frankreich (© Federica Gentile/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Kaysersberg&form=hpcapt&filters=HpDate%3a%2220260703_2200%22",
+        "title": "Im Herzen des Elsass",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260703_KaysersbergVillage%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "611d46e97e22c7e4625e24a4a74fea61",
+        "hsh": "0ffd73faa8eeb5a7727e4301b48c5559",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Fachwerkhäuser säumen die Ufer der Weiss im elsässischen Kaysersberg in Frankreich. Entlang des schmalen Flusslaufs drängen sich Giebel und Fensterläden dicht aneinander, während sich darüber die bewaldeten Hänge der Vogesen erheben. Das Dorf liegt rund zwölf Kilometer nordwestlich von Colmar und zählt zu den charakteristischen Weinorten der Region.",
+                "Image": {
+                    "Url": "/th?id=OHR.KaysersbergVillage_DE-DE1031882295_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KaysersbergVillage_DE-DE1031882295_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Im Herzen des Elsass",
+                "Title": "Kaysersberg, Elsass, Frankreich",
+                "Copyright": "© Federica Gentile/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.18747,7.215853/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=48.18747,7.215853;S9;Kaysersberg, Frankreich&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260704_KaysersbergVillage\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Kaysersberg&form=hpcapt&filters=HpDate:\"20260703_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260704_KaysersbergVillage"
+            },
+            "Ssd": "20260704",
+            "Name": "KaysersbergVillage",
+            "Market": "DE-DE",
+            "Hash": "1031882295",
+            "FullDateString": "4. Juli. 2026"
+        }
+    },
+    {
         "startdate": "20260702",
         "fullstartdate": "202607022200",
         "enddate": "20260703",

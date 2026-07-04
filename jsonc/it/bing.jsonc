@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260703",
+        "fullstartdate": "202607032200",
+        "enddate": "20260704",
+        "url": "/th?id=OHR.TempleEsna_IT-IT9484438188_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TempleEsna_IT-IT9484438188",
+        "copyright": "Soffitto del Tempio di Khnum ad Esna, Egitto (© Nick Brundle Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Tempio+di+Khnum+ad+Esna&form=hpcapt",
+        "title": "All'interno dell'universo sacro di Esna",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260703_TempleEsna%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9c019a722b77737c7fe0dc585e6b6b98",
+        "hsh": "2b589b4386c6e7998b330a0fdcb8db2d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nel Tempio di Khnum ad Esna, in Egitto, si entra in un universo dove arte, mito e cielo si intrecciano in modo sorprendente. Dedicato al dio dalla testa d’ariete che, secondo la tradizione, plasmava l’umanità con l’argilla del Nilo, il santuario custodisce una sala sostenuta da ventiquattro colonne monumentali, ricche di rilievi e iscrizioni sacre.",
+                "Image": {
+                    "Url": "/th?id=OHR.TempleEsna_IT-IT9484438188_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TempleEsna_IT-IT9484438188_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "All'interno dell'universo sacro di Esna",
+                "Title": "Soffitto del Tempio di Khnum ad Esna, Egitto",
+                "Copyright": "© Nick Brundle Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/25.293581,32.556398/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=25.293581,32.556398;S9;Tempio di Khnum ad Esna, Egitto&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260704_TempleEsna\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tempio+di+Khnum+ad+Esna&form=hpcapt&filters=HpDate:\"20260703_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260704_TempleEsna"
+            },
+            "Ssd": "20260704",
+            "Name": "TempleEsna",
+            "Market": "IT-IT",
+            "Hash": "9484438188",
+            "FullDateString": "4 luglio 2026"
+        }
+    },
+    {
         "startdate": "20260702",
         "fullstartdate": "202607022200",
         "enddate": "20260703",
