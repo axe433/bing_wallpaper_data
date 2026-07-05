@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260704",
+        "fullstartdate": "202607040700",
+        "enddate": "20260705",
+        "url": "/th?id=OHR.LibertyHall_EN-US2562041614_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LibertyHall_EN-US2562041614",
+        "copyright": "Liberty Bell and Independence Hall, Independence National Historical Park, Philadelphia, Pennsylvania (© f11photo/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Fourth+of+July&form=hpcapt&filters=HpDate%3a%2220260704_0700%22",
+        "title": "The story continues",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260704_LibertyHall%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "70349360412179651093ff6a6f104c92",
+        "hsh": "2305647bd26b9ac3970297aaa8dc4d10",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Today, the United States marks 250 years since the adoption of the Declaration of Independence—a milestone known as the 'semiquincentennial.' This anniversary commemorates 1776, when the Declaration articulated the idea that a nation could be defined by shared principles rather than inherited rule. Two and a half centuries later, this date is marked not only as an anniversary but also as an opportunity to reflect on the nation's long and evolving story.",
+                "Image": {
+                    "Url": "/th?id=OHR.LibertyHall_EN-US2562041614_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LibertyHall_EN-US2562041614_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "The story continues",
+                "Title": "Liberty Bell and Independence Hall, Independence National Historical Park, Philadelphia, Pennsylvania",
+                "Copyright": "© f11photo/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Most of the Declaration's signers did not sign it on July 4, but nearly a month later—primarily on August 2, 1776.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260704_LibertyHall\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Fourth+of+July&form=hpcapt&filters=HpDate:\"20260704_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260704_LibertyHall"
+            },
+            "Ssd": "20260704",
+            "Name": "LibertyHall",
+            "Market": "EN-US",
+            "Hash": "2562041614",
+            "FullDateString": "Jul 4, 2026"
+        }
+    },
+    {
         "startdate": "20260703",
         "fullstartdate": "202607030700",
         "enddate": "20260704",

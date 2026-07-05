@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260704",
+        "fullstartdate": "202607040300",
+        "enddate": "20260705",
+        "url": "/th?id=OHR.KaysersbergVillage_PT-BR5158585338_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KaysersbergVillage_PT-BR5158585338",
+        "copyright": "Kaysersberg, Alsácia, França (© Federica Gentile/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Alsacia+Franca&form=hpcapt&mkt=pt-br",
+        "title": "Do império à enoteca",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260704_KaysersbergVillage%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "611d46e97e22c7e4625e24a4a74fea61",
+        "hsh": "ff03ab0fb5cda27040278985b3f1e909",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Na imagem de hoje vemos Kaysersberg, uma vila na região francesa da Alsácia que deixou de ser ponto de defesa e virou ponto de degustação. Casas em enxaimel — estruturas de madeira com vãos preenchidos por tijolo ou argamassa — acompanham o curso do rio Weiss, enquanto pontes de pedra conectam ruas estreitas e vinhedos cobrem tudo como se a paisagem tivesse sido criada para a harmonia.",
+                "Image": {
+                    "Url": "/th?id=OHR.KaysersbergVillage_PT-BR5158585338_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KaysersbergVillage_PT-BR5158585338_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Do império à enoteca",
+                "Title": "Kaysersberg, Alsácia, França",
+                "Copyright": "© Federica Gentile/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260704_KaysersbergVillage\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Alsacia+Franca&form=hpcapt&filters=HpDate:\"20260704_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260704_KaysersbergVillage"
+            },
+            "Ssd": "20260704",
+            "Name": "KaysersbergVillage",
+            "Market": "PT-BR",
+            "Hash": "5158585338",
+            "FullDateString": "4 jul. 2026"
+        }
+    },
+    {
         "startdate": "20260703",
         "fullstartdate": "202607030300",
         "enddate": "20260704",

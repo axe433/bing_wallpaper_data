@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260704",
+        "fullstartdate": "202607042200",
+        "enddate": "20260705",
+        "url": "/th?id=OHR.LavenderRows_ES-ES6518419327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LavenderRows_ES-ES6518419327",
+        "copyright": "Plantaciones de lavanda, Plateau de Valensole, Provenza, Francia (© Robert Harding/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Lavanda&form=hpcapt&filters=HpDate%3a%2220260704_2200%22",
+        "title": "Un mar púrpura",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260704_LavenderRows%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "00fad6f938002288fe9f67a2797ec50b",
+        "hsh": "808642c7c954c13b5bb4d5d83d2b659b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La meseta de Valensole, en el sureste de Francia, se transforma cada verano en un mar ondulante de lavanda que tiñe el paisaje de púrpura y azul. Entre mediados de junio y principios de julio, sus campos en flor, situados entre los valles del Durance y del Asse y cerca de las Gargantas del Verdon, ofrecen una de las estampas más reconocibles de la Provenza, acompañada de un aroma seco e intensamente mediterráneo.",
+                "Image": {
+                    "Url": "/th?id=OHR.LavenderRows_ES-ES6518419327_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LavenderRows_ES-ES6518419327_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un mar púrpura",
+                "Title": "Plantaciones de lavanda, Plateau de Valensole, Provenza, Francia",
+                "Copyright": "© Robert Harding/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.857636,5.974437/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=43.857636,5.974437;S9;Plateau de Valensole, Provenza, Francia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260705_LavenderRows\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lavanda&form=hpcapt&filters=HpDate:\"20260704_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260705_LavenderRows"
+            },
+            "Ssd": "20260705",
+            "Name": "LavenderRows",
+            "Market": "ES-ES",
+            "Hash": "6518419327",
+            "FullDateString": "5 de jul de 2026"
+        }
+    },
+    {
         "startdate": "20260703",
         "fullstartdate": "202607032200",
         "enddate": "20260704",

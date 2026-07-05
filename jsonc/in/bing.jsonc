@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260704",
+        "fullstartdate": "202607041830",
+        "enddate": "20260705",
+        "url": "/th?id=OHR.LavenderRows_EN-IN4483122586_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LavenderRows_EN-IN4483122586",
+        "copyright": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Lavandula&form=hpcapt&filters=HpDate%3a%2220260704_1830%22",
+        "title": "Sea of purple",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260704_LavenderRows%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "00fad6f938002288fe9f67a2797ec50b",
+        "hsh": "0ee588aa468478b3ff94af02b86b7c4c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognisable sights. The air carries a sharp, dry and unmistakably Mediterranean scent.",
+                "Image": {
+                    "Url": "/th?id=OHR.LavenderRows_EN-IN4483122586_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LavenderRows_EN-IN4483122586_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Sea of purple",
+                "Title": "Lavender rows, Plateau de Valensole, Provence, France",
+                "Copyright": "© Robert Harding/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.857636,5.974437/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=43.857636,5.974437;S9;Plateau de Valensole, Provence, France&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260705_LavenderRows\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lavandula&form=hpcapt&filters=HpDate:\"20260704_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260705_LavenderRows"
+            },
+            "Ssd": "20260705",
+            "Name": "LavenderRows",
+            "Market": "EN-IN",
+            "Hash": "4483122586",
+            "FullDateString": "5 Jul, 2026"
+        }
+    },
+    {
         "startdate": "20260703",
         "fullstartdate": "202607031830",
         "enddate": "20260704",

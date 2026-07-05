@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260704",
+        "fullstartdate": "202607041600",
+        "enddate": "20260705",
+        "url": "/th?id=OHR.LavenderRows_ZH-CN0676810895_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LavenderRows_ZH-CN0676810895",
+        "copyright": "瓦朗索勒高原的薰衣草行，普罗旺斯，法国 (© Robert Harding/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E8%96%B0%E8%A1%A3%E8%8D%89%E5%B1%9E&form=hpcapt&mkt=zh-cn",
+        "title": "紫色花海",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260704_LavenderRows%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "00fad6f938002288fe9f67a2797ec50b",
+        "hsh": "490c9611f01ef2aaa93c8291872d30a4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "在法国东南部，瓦朗索勒高原（Valensole Plateau）的夏季伴随着阵阵紫蓝色的波浪而至。瓦朗索勒作为该地区最大的高原之一，坐落在迪朗斯河（Durance）与阿斯河（Asse）流域之间的韦尔东地区自然公园（Verdon Regional Natural Park）内，毗邻韦尔东大峡谷（Gorges du Verdon）及其湖泊。从6月中旬到7月初，受海拔和天气影响，薰衣草与杂交薰衣草（Lavandin）竞相绽放，将大地转化为普罗旺斯最具标志性的景观之一。空气中弥漫着清冽、干爽且极具地中海特色的香气。",
+                "Image": {
+                    "Url": "/th?id=OHR.LavenderRows_ZH-CN0676810895_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LavenderRows_ZH-CN0676810895_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "紫色花海",
+                "Title": "瓦朗索勒高原的薰衣草行，普罗旺斯，法国",
+                "Copyright": "© Robert Harding/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "独特的碱性石质土壤在瓦朗索勒高原，普罗旺斯，法国为植物提供了卓越的排水性能，这种地质特性对于薰衣草在高海拔地中海气候下生存至关重要，能有效防止冬季根部腐烂并提升精油品质。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260705_LavenderRows\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e8%96%b0%e8%a1%a3%e8%8d%89%e5%b1%9e&form=hpcapt&filters=HpDate:\"20260704_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260705_LavenderRows"
+            },
+            "Ssd": "20260705",
+            "Name": "LavenderRows",
+            "Market": "ZH-CN",
+            "Hash": "0676810895",
+            "FullDateString": "2026 7月 5"
+        }
+    },
+    {
         "startdate": "20260703",
         "fullstartdate": "202607031600",
         "enddate": "20260704",

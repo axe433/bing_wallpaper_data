@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260704",
+        "fullstartdate": "202607041500",
+        "enddate": "20260705",
+        "url": "/th?id=OHR.LavenderRows_JA-JP9275300496_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LavenderRows_JA-JP9275300496",
+        "copyright": "ヴァランソール高原, フランス (© Robert Harding/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%B4%E3%82%A1%E3%83%A9%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB%E9%AB%98%E5%8E%9F&form=hpcapt&filters=HpDate%3a%2220260704_1500%22",
+        "title": "一面に広がる紫色のラベンダー畑",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260704_LavenderRows%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "00fad6f938002288fe9f67a2797ec50b",
+        "hsh": "9182db6c4601f6da73fb8b367f6bc60a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ここは、南フランスのプロヴァンス地方に位置するヴァランソール高原。ラベンダー畑で知られる名所です。例年、6月中旬から7月中旬にかけて見頃を迎え、一面が紫や青の花で彩られます。ラベンダーはシソ科の常緑低木で、地中海沿岸地域を原産とします。そのさわやかな香りは、花や葉、茎にある油腺から放たれるもので、古くから香水や石鹸、サシェ、エッセンシャルオイルの原料として利用されてきました。",
+                "Image": {
+                    "Url": "/th?id=OHR.LavenderRows_JA-JP9275300496_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LavenderRows_JA-JP9275300496_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "一面に広がる紫色のラベンダー畑",
+                "Title": "ヴァランソール高原, フランス",
+                "Copyright": "© Robert Harding/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.857636,5.974437/13?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=43.857636,5.974437;S9;ヴァランソール高原, フランス&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260705_LavenderRows%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260705_LavenderRows\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%b4%e3%82%a1%e3%83%a9%e3%83%b3%e3%82%bd%e3%83%bc%e3%83%ab%e9%ab%98%e5%8e%9f&form=hpcapt&filters=HpDate:\"20260704_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260705_LavenderRows"
+            },
+            "Ssd": "20260705",
+            "Name": "LavenderRows",
+            "Market": "JA-JP",
+            "Hash": "9275300496",
+            "FullDateString": "2026 年 7月 月 5 日"
+        }
+    },
+    {
         "startdate": "20260703",
         "fullstartdate": "202607031500",
         "enddate": "20260704",
