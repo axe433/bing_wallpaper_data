@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260705",
+        "fullstartdate": "202607051500",
+        "enddate": "20260706",
+        "url": "/th?id=OHR.SyracuseItaly_JA-JP9524720514_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SyracuseItaly_JA-JP9524720514",
+        "copyright": "シラクサ, イタリア (© Balate Dorin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%B7%E3%83%A9%E3%82%AF%E3%82%B5&form=hpcapt&filters=HpDate%3a%2220260705_1500%22",
+        "title": "夕焼けに染まる海に突き出た石造要塞",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260705_SyracuseItaly%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5cb4ff7d33d187d1dbd6268e65880941",
+        "hsh": "c9c1e82263a3bb4eb6219f3eab132563",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ここは、イタリア・シチリア島にある都市シラクサです。紀元前 734 年頃、ギリシャのコリントスから来た人々によって築かれ、古代地中海世界を代表する大都市の一つへと発展しました。古代ギリシャの数学者、アルキメデスの生誕地としても知られ、歴史的な遺跡をはじめ、多くの見どころがあります。2005年には、市内と周辺の遺跡が「シラクサとパンターリカの岩壁墓地遺跡」の名でユネスコの世界遺産に登録されました。",
+                "Image": {
+                    "Url": "/th?id=OHR.SyracuseItaly_JA-JP9524720514_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SyracuseItaly_JA-JP9524720514_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "夕焼けに染まる海に突き出た石造要塞",
+                "Title": "シラクサ, イタリア",
+                "Copyright": "© Balate Dorin/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.067122,15.285311/12?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=37.067122,15.285311;S9;シラクサ, イタリア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260706_SyracuseItaly%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260706_SyracuseItaly\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%b7%e3%83%a9%e3%82%af%e3%82%b5&form=hpcapt&filters=HpDate:\"20260705_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260706_SyracuseItaly"
+            },
+            "Ssd": "20260706",
+            "Name": "SyracuseItaly",
+            "Market": "JA-JP",
+            "Hash": "9524720514",
+            "FullDateString": "2026 年 7月 月 6 日"
+        }
+    },
+    {
         "startdate": "20260704",
         "fullstartdate": "202607041500",
         "enddate": "20260705",

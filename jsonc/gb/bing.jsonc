@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260705",
+        "fullstartdate": "202607052300",
+        "enddate": "20260706",
+        "url": "/th?id=OHR.SyracuseItaly_EN-GB9688094986_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SyracuseItaly_EN-GB9688094986",
+        "copyright": "Syracuse, Sicily, Italy (© Balate Dorin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Syracuse+Sicily&form=hpcapt&filters=HpDate%3a%2220260705_2300%22",
+        "title": "A city written in centuries",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260705_SyracuseItaly%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5cb4ff7d33d187d1dbd6268e65880941",
+        "hsh": "40d560fc3ab7bf39c21aba7b883c72ae",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
+                "Image": {
+                    "Url": "/th?id=OHR.SyracuseItaly_EN-GB9688094986_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SyracuseItaly_EN-GB9688094986_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A city written in centuries",
+                "Title": "Syracuse, Sicily, Italy",
+                "Copyright": "© Balate Dorin/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.067122,15.285311/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=37.067122,15.285311;S9;Syracuse, Sicily, Italy&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260706_SyracuseItaly\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Syracuse+Sicily&form=hpcapt&filters=HpDate:\"20260705_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260706_SyracuseItaly"
+            },
+            "Ssd": "20260706",
+            "Name": "SyracuseItaly",
+            "Market": "EN-GB",
+            "Hash": "9688094986",
+            "FullDateString": "6 Jul 2026"
+        }
+    },
+    {
         "startdate": "20260704",
         "fullstartdate": "202607042300",
         "enddate": "20260705",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260705",
+        "fullstartdate": "202607052200",
+        "enddate": "20260706",
+        "url": "/th?id=OHR.SyracuseItaly_FR-FR9604430573_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SyracuseItaly_FR-FR9604430573",
+        "copyright": "Syracuse au coucher du soleil, Sicile, Italie (© Balate Dorin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Syracuse+Sicile&form=hpcapt&filters=HpDate%3a%2220260705_2200%22",
+        "title": "Des siècles d’Histoire",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260705_SyracuseItaly%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5cb4ff7d33d187d1dbd6268e65880941",
+        "hsh": "3d3e735aa9108e589a4dc1fe522f25e1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Fondée par des colons grecs de Corinthe vers 734 avant J.C., Syracuse (Sicile, Italie) fut l’une des grandes puissances de la Méditerranée antique. Aujourd’hui inscrite au patrimoine mondial de l’UNESCO avec la nécropole rocheuse de Pantalica, la ville reste associée à Archimède et à Platon, qui y séjourna dans l’espoir de rapprocher philosophie et pouvoir.",
+                "Image": {
+                    "Url": "/th?id=OHR.SyracuseItaly_FR-FR9604430573_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SyracuseItaly_FR-FR9604430573_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Des siècles d'Histoire",
+                "Title": "Syracuse au coucher du soleil, Sicile, Italie",
+                "Copyright": "© Balate Dorin/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.067122,15.285311/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=37.067122,15.285311;S9;Syracuse, Sicile, Italie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260706_SyracuseItaly\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Syracuse+Sicile&form=hpcapt&filters=HpDate:\"20260705_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260706_SyracuseItaly"
+            },
+            "Ssd": "20260706",
+            "Name": "SyracuseItaly",
+            "Market": "FR-FR",
+            "Hash": "9604430573",
+            "FullDateString": "6 juil. 2026"
+        }
+    },
+    {
         "startdate": "20260704",
         "fullstartdate": "202607042200",
         "enddate": "20260705",
