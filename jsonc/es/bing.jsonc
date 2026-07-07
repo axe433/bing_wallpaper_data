@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260706",
+        "fullstartdate": "202607062200",
+        "enddate": "20260707",
+        "url": "/th?id=OHR.GranCanaria_ES-ES7578658409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GranCanaria_ES-ES7578658409",
+        "copyright": "Vista aérea del paisaje urbano y las dunas de arena en Maspalomas, Gran Canaria, España (© Marco Bottigelli/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Maspalomas&form=hpcapt&filters=HpDate%3a%2220260706_2200%22",
+        "title": "Dos épocas, mismo lugar",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260706_GranCanaria%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "7294a871032186241d383a727d51436a",
+        "hsh": "681999ad33437829967e2797271d7f39",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Maspalomas, en Gran Canaria, España, sorprende con un paisaje donde la ciudad y el desierto parecen tocarse sin mezclarse. Desde el aire, el trazado ordenado de calles y edificios se detiene de forma abrupta ante un mar de dunas doradas que se extiende junto al Atlántico, creando un contraste único en el archipiélago.",
+                "Image": {
+                    "Url": "/th?id=OHR.GranCanaria_ES-ES7578658409_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GranCanaria_ES-ES7578658409_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Dos épocas, mismo lugar",
+                "Title": "Vista aérea del paisaje urbano y las dunas de arena en Maspalomas, Gran Canaria, España",
+                "Copyright": "© Marco Bottigelli/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260707_GranCanaria\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Maspalomas&form=hpcapt&filters=HpDate:\"20260706_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260707_GranCanaria"
+            },
+            "Ssd": "20260707",
+            "Name": "GranCanaria",
+            "Market": "ES-ES",
+            "Hash": "7578658409",
+            "FullDateString": "7 de jul de 2026"
+        }
+    },
+    {
         "startdate": "20260705",
         "fullstartdate": "202607052200",
         "enddate": "20260706",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260706",
+        "fullstartdate": "202607061830",
+        "enddate": "20260707",
+        "url": "/th?id=OHR.MountainToucanOrchids_EN-IN1662413935_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MountainToucanOrchids_EN-IN1662413935",
+        "copyright": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Plate-billed+mountain+toucan&form=hpcapt&filters=HpDate%3a%2220260706_1830%22",
+        "title": "Colour, craft and canopy life",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260706_MountainToucanOrchids%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3bcfb14734468dddd7951946b7e2a9e7",
+        "hsh": "94da0044e3e7710255b5f1b7a0e3671d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
+                "Image": {
+                    "Url": "/th?id=OHR.MountainToucanOrchids_EN-IN1662413935_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MountainToucanOrchids_EN-IN1662413935_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Colour, craft and canopy life",
+                "Title": "Plate-billed mountain toucan with orchids, Ecuador",
+                "Copyright": "© Murray Cooper/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "The plate-billed mountain toucan's colourful bill features a pale yellow 'plate,' a rare trait that gives this species its name.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260707_MountainToucanOrchids\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Plate-billed+mountain+toucan&form=hpcapt&filters=HpDate:\"20260706_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260707_MountainToucanOrchids"
+            },
+            "Ssd": "20260707",
+            "Name": "MountainToucanOrchids",
+            "Market": "EN-IN",
+            "Hash": "1662413935",
+            "FullDateString": "7 Jul, 2026"
+        }
+    },
+    {
         "startdate": "20260705",
         "fullstartdate": "202607051830",
         "enddate": "20260706",

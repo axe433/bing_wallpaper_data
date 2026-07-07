@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260706",
+        "fullstartdate": "202607062200",
+        "enddate": "20260707",
+        "url": "/th?id=OHR.MountainToucanOrchids_FR-FR9785340325_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MountainToucanOrchids_FR-FR9785340325",
+        "copyright": "Toucan montagnard à bec plat avec des orchidées, Équateur (© Murray Cooper/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=toucan+montagnard&form=hpcapt&filters=HpDate%3a%2220260706_2200%22",
+        "title": "Un bec pas si plat",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260706_MountainToucanOrchids%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3bcfb14734468dddd7951946b7e2a9e7",
+        "hsh": "91336be912df85cd57286309a99c702e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Un bec multifonction et un plumage aux couleurs chatoyantes : le toucan montagnard est l’un des oiseaux les plus emblématiques des Andes. Il vit dans les forêts humides d’altitude d’Équateur et du sud-ouest de la Colombie, parfaitement adapté à la vie dans la canopée.",
+                "Image": {
+                    "Url": "/th?id=OHR.MountainToucanOrchids_FR-FR9785340325_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MountainToucanOrchids_FR-FR9785340325_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un bec pas si plat",
+                "Title": "Toucan montagnard à bec plat avec des orchidées, Équateur",
+                "Copyright": "© Murray Cooper/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Le toucan montagnard à bec plat possède un bec coloré orné d'une « plaque » jaune pâle, une caractéristique rare qui donne son nom à cette espèce.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260707_MountainToucanOrchids\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=toucan+montagnard&form=hpcapt&filters=HpDate:\"20260706_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260707_MountainToucanOrchids"
+            },
+            "Ssd": "20260707",
+            "Name": "MountainToucanOrchids",
+            "Market": "FR-FR",
+            "Hash": "9785340325",
+            "FullDateString": "7 juil. 2026"
+        }
+    },
+    {
         "startdate": "20260705",
         "fullstartdate": "202607052200",
         "enddate": "20260706",

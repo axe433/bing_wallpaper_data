@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260706",
+        "fullstartdate": "202607060700",
+        "enddate": "20260707",
+        "url": "/th?id=OHR.SyracuseItaly_ROW8772538423_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SyracuseItaly_ROW8772538423",
+        "copyright": "Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Syracuse+Sicily&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260706_SyracuseItaly%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5cb4ff7d33d187d1dbd6268e65880941",
+        "hsh": "6bcf61216a57b43c709a134948c5674f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Founded by Greek settlers from Corinth around 734 BCE, the Italian city of Syracuse, on the island of Sicily, grew into one of the ancient Mediterranean's great powers and is now part of a UNESCO World Heritage Site, 'Syracuse and the Rocky Necropolis of Pantalica.' It is forever linked to Archimedes, whose genius still shapes its identity, and to Plato, who came to Syracuse hoping philosophy might shape political life. That layered past still feels tangible at Castello Maniace, a seafront fortress built for Holy Roman Emperor Frederick II in the 13th century, which can still be admired today.",
+                "Image": {
+                    "Url": "/th?id=OHR.SyracuseItaly_ROW8772538423_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SyracuseItaly_ROW8772538423_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Syracuse at sunset, Sicily, Italy",
+                "Copyright": "© Balate Dorin/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260706_SyracuseItaly\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Syracuse+Sicily&form=hpcapt&filters=HpDate:\"20260706_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260706_SyracuseItaly"
+            },
+            "Ssd": "20260706",
+            "Name": "SyracuseItaly",
+            "Market": "ROW",
+            "Hash": "8772538423",
+            "FullDateString": "6 juli 2026"
+        }
+    },
+    {
         "startdate": "20260705",
         "fullstartdate": "202607050700",
         "enddate": "20260706",
