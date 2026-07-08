@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260707",
+        "fullstartdate": "202607070700",
+        "enddate": "20260708",
+        "url": "/th?id=OHR.MountainToucanOrchids_ROW9033619580_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MountainToucanOrchids_ROW9033619580",
+        "copyright": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Plate-billed+mountain+toucan&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260707_MountainToucanOrchids%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3bcfb14734468dddd7951946b7e2a9e7",
+        "hsh": "007568cba3370e1210e7d792b06fa60c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
+                "Image": {
+                    "Url": "/th?id=OHR.MountainToucanOrchids_ROW9033619580_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MountainToucanOrchids_ROW9033619580_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Plate-billed mountain toucan with orchids, Ecuador",
+                "Copyright": "© Murray Cooper/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260707_MountainToucanOrchids\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Plate-billed+mountain+toucan&form=hpcapt&filters=HpDate:\"20260707_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260707_MountainToucanOrchids"
+            },
+            "Ssd": "20260707",
+            "Name": "MountainToucanOrchids",
+            "Market": "ROW",
+            "Hash": "9033619580",
+            "FullDateString": "7. jul. 2026"
+        }
+    },
+    {
         "startdate": "20260706",
         "fullstartdate": "202607060700",
         "enddate": "20260707",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260707",
+        "fullstartdate": "202607072200",
+        "enddate": "20260708",
+        "url": "/th?id=OHR.LakeAtitlan_FR-FR9789294273_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LakeAtitlan_FR-FR9789294273",
+        "copyright": "Lever du soleil sur le lac Atitlán, Guatemala (© shayes17/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=lac+atitlan+guatemala&form=hpcapt&filters=HpDate%3a%2220260707_2200%22",
+        "title": "Échos d'un passé volcanique",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260707_LakeAtitlan%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d9997b3705e37584a29da5aca4da9ddf",
+        "hsh": "a3a903c1b4f05b9a55d28cee92f7a09d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Situé dans les hauts plateaux de l'ouest du Guatemala, le lac Atitlán occupe une vaste caldeira volcanique. Ses eaux d'un bleu profond sont encadrées par les parois abruptes du cratère et les volcans coniques Atitlán, Tolimán et San Pedro. Des jetées en bois s'avancent dans les eaux calmes du lac, soulignant le contraste entre sa surface paisible et le relief accidenté façonné par l'activité volcanique.",
+                "Image": {
+                    "Url": "/th?id=OHR.LakeAtitlan_FR-FR9789294273_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LakeAtitlan_FR-FR9789294273_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Échos d'un passé volcanique",
+                "Title": "Lever du soleil sur le lac Atitlán, Guatemala",
+                "Copyright": "© shayes17/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/14.702858,-91.194628/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=14.702858,-91.194628;S9;Lac Atitlán, Guatemala&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260708_LakeAtitlan\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=lac+atitlan+guatemala&form=hpcapt&filters=HpDate:\"20260707_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260708_LakeAtitlan"
+            },
+            "Ssd": "20260708",
+            "Name": "LakeAtitlan",
+            "Market": "FR-FR",
+            "Hash": "9789294273",
+            "FullDateString": "8 juil. 2026"
+        }
+    },
+    {
         "startdate": "20260706",
         "fullstartdate": "202607062200",
         "enddate": "20260707",

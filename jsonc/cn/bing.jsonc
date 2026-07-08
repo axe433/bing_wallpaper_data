@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260707",
+        "fullstartdate": "202607071600",
+        "enddate": "20260708",
+        "url": "/th?id=OHR.LakeAtitlan_ZH-CN1920221893_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LakeAtitlan_ZH-CN1920221893",
+        "copyright": "阿蒂特兰湖的日出，危地马拉 (© shayes17/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%8D%B1%E5%9C%B0%E9%A9%AC%E6%8B%89+%E9%98%BF%E8%92%82%E7%89%B9%E5%85%B0%E6%B9%96&form=hpcapt&mkt=zh-cn",
+        "title": "远古火山的回响",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260707_LakeAtitlan%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d9997b3705e37584a29da5aca4da9ddf",
+        "hsh": "ec9c5dabe6aea83191bc1ec9373b10e5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "阿蒂特兰湖（Lake Atitlán）坐落于危地马拉西部高地，占据了一处巨大的破火山口。其深蓝色的湖水被陡峭的火山口壁以及阿蒂特兰（Atitlán）、托利曼（Tolimán）和圣佩德罗（San Pedro）这三座锥形火山所环绕。木质码头向静谧的湖面延伸，勾勒出平静水面与火山活动造就的崎岖地形之间的强烈对比。",
+                "Image": {
+                    "Url": "/th?id=OHR.LakeAtitlan_ZH-CN1920221893_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LakeAtitlan_ZH-CN1920221893_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "远古火山的回响",
+                "Title": "阿蒂特兰湖的日出，危地马拉",
+                "Copyright": "© shayes17/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "独特的内流盆地机制在阿蒂特兰湖，危地马拉表现显著，该湖泊没有通往海洋的天然地表出口，其水位主要依靠自然蒸发和地下的火山裂缝网络进行调节。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260708_LakeAtitlan\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%8d%b1%e5%9c%b0%e9%a9%ac%e6%8b%89+%e9%98%bf%e8%92%82%e7%89%b9%e5%85%b0%e6%b9%96&form=hpcapt&filters=HpDate:\"20260707_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260708_LakeAtitlan"
+            },
+            "Ssd": "20260708",
+            "Name": "LakeAtitlan",
+            "Market": "ZH-CN",
+            "Hash": "1920221893",
+            "FullDateString": "2026 7月 8"
+        }
+    },
+    {
         "startdate": "20260706",
         "fullstartdate": "202607061600",
         "enddate": "20260707",

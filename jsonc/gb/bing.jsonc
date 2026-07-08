@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260707",
+        "fullstartdate": "202607072300",
+        "enddate": "20260708",
+        "url": "/th?id=OHR.LakeAtitlan_EN-GB6255247922_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LakeAtitlan_EN-GB6255247922",
+        "copyright": "Lake Atitlán, Guatemala (© shayes17/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lake+Atitlan+Guatemala&form=hpcapt&filters=HpDate%3a%2220260707_2300%22",
+        "title": "Echoes of a volcanic past",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260707_LakeAtitlan%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d9997b3705e37584a29da5aca4da9ddf",
+        "hsh": "e10c0c2860fd785deb24f5a4e329703e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
+                "Image": {
+                    "Url": "/th?id=OHR.LakeAtitlan_EN-GB6255247922_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LakeAtitlan_EN-GB6255247922_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Echoes of a volcanic past",
+                "Title": "Lake Atitlán, Guatemala",
+                "Copyright": "© shayes17/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/14.702858,-91.194628/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=14.702858,-91.194628;S9;Lake Atitlán, Sololá, Guatemala&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260708_LakeAtitlan\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lake+Atitlan+Guatemala&form=hpcapt&filters=HpDate:\"20260707_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260708_LakeAtitlan"
+            },
+            "Ssd": "20260708",
+            "Name": "LakeAtitlan",
+            "Market": "EN-GB",
+            "Hash": "6255247922",
+            "FullDateString": "8 Jul 2026"
+        }
+    },
+    {
         "startdate": "20260706",
         "fullstartdate": "202607062300",
         "enddate": "20260707",

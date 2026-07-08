@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260707",
+        "fullstartdate": "202607070300",
+        "enddate": "20260708",
+        "url": "/th?id=OHR.MountainToucanOrchids_PT-BR7821851838_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MountainToucanOrchids_PT-BR7821851838",
+        "copyright": "Tucano “Andigena laminirostris” com orquídeas, Equador (© Murray Cooper/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=o+tucano&form=hpcapt&mkt=pt-br",
+        "title": "Voos que espalham futuro",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260707_MountainToucanOrchids%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3bcfb14734468dddd7951946b7e2a9e7",
+        "hsh": "e6e0592a9e389b32d47ca3129439bffa",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Às vezes, a evolução resolve se divertir. Prova disso é o tucano da imagem, o “Andigena laminirostris”, fotografado no Equador: peito azul, detalhes dourados e um bico tão grande que parece desafiar a aerodinâmica. Só parece.",
+                "Image": {
+                    "Url": "/th?id=OHR.MountainToucanOrchids_PT-BR7821851838_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MountainToucanOrchids_PT-BR7821851838_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Voos que espalham futuro",
+                "Title": "Tucano “Andigena laminirostris” com orquídeas, Equador",
+                "Copyright": "© Murray Cooper/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260707_MountainToucanOrchids\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=o+tucano&form=hpcapt&filters=HpDate:\"20260707_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260707_MountainToucanOrchids"
+            },
+            "Ssd": "20260707",
+            "Name": "MountainToucanOrchids",
+            "Market": "PT-BR",
+            "Hash": "7821851838",
+            "FullDateString": "7 jul. 2026"
+        }
+    },
+    {
         "startdate": "20260706",
         "fullstartdate": "202607060300",
         "enddate": "20260707",

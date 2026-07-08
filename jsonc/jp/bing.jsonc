@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260707",
+        "fullstartdate": "202607071500",
+        "enddate": "20260708",
+        "url": "/th?id=OHR.LakeAtitlan_JA-JP9857275970_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LakeAtitlan_JA-JP9857275970",
+        "copyright": "アティトラン湖, グアテマラ (© shayes17/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%83%86%E3%82%A3%E3%83%88%E3%83%A9%E3%83%B3%E6%B9%96&form=hpcapt&filters=HpDate%3a%2220260707_1500%22",
+        "title": "静けさにしずむ湖",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260707_LakeAtitlan%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d9997b3705e37584a29da5aca4da9ddf",
+        "hsh": "430a88ce7ab0f2db2d441442bbb2b26d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "グアテマラ西部高地に位置するアティトラン湖は、約 8 万 4 千年前の大噴火によって形成された火山カルデラ湖です。深い青色の湖面は、切り立った火口壁とアティトラン山・トリマン山・サンペドロ山といった火山に囲まれており、湖の静けさと火山の荒々しい地形が、対照的な美しい景観を生み出しています。水深は中米でも有数の深さを誇り、湖底には 1500 年以上前のマヤ遺跡が沈んでいます。周辺では今もカクチケル族やツトゥヒル族などのマヤ系住民が暮らし、言語や織物の伝統を守り受け継ぎながら、この豊かな自然と深く結びついた生活を続けています。",
+                "Image": {
+                    "Url": "/th?id=OHR.LakeAtitlan_JA-JP9857275970_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LakeAtitlan_JA-JP9857275970_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "静けさにしずむ湖",
+                "Title": "アティトラン湖, グアテマラ",
+                "Copyright": "© shayes17/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/14.702858,-91.194628/13?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=14.702858,-91.194628;S9;アティトラン湖, グアテマラ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260708_LakeAtitlan%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260708_LakeAtitlan\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%a2%e3%83%86%e3%82%a3%e3%83%88%e3%83%a9%e3%83%b3%e6%b9%96&form=hpcapt&filters=HpDate:\"20260707_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260708_LakeAtitlan"
+            },
+            "Ssd": "20260708",
+            "Name": "LakeAtitlan",
+            "Market": "JA-JP",
+            "Hash": "9857275970",
+            "FullDateString": "2026 年 7月 月 8 日"
+        }
+    },
+    {
         "startdate": "20260706",
         "fullstartdate": "202607061500",
         "enddate": "20260707",
