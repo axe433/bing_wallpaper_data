@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260708",
+        "fullstartdate": "202607080700",
+        "enddate": "20260709",
+        "url": "/th?id=OHR.LakeAtitlan_ROW9281108051_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LakeAtitlan_ROW9281108051",
+        "copyright": "Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lake+Atitlan+Guatemala&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260708_LakeAtitlan%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d9997b3705e37584a29da5aca4da9ddf",
+        "hsh": "ef71c2bc5e89aff57ee92ab639505547",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
+                "Image": {
+                    "Url": "/th?id=OHR.LakeAtitlan_ROW9281108051_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LakeAtitlan_ROW9281108051_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Sunrise at Lake Atitlán, Guatemala",
+                "Copyright": "© shayes17/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260708_LakeAtitlan\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lake+Atitlan+Guatemala&form=hpcapt&filters=HpDate:\"20260708_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260708_LakeAtitlan"
+            },
+            "Ssd": "20260708",
+            "Name": "LakeAtitlan",
+            "Market": "ROW",
+            "Hash": "9281108051",
+            "FullDateString": "8 lip 2026"
+        }
+    },
+    {
         "startdate": "20260707",
         "fullstartdate": "202607070700",
         "enddate": "20260708",

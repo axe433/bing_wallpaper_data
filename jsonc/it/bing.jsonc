@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260708",
+        "fullstartdate": "202607082200",
+        "enddate": "20260709",
+        "url": "/th?id=OHR.SapaVietnam_IT-IT8377161369_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SapaVietnam_IT-IT8377161369",
+        "copyright": "Risaie a Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=L%C3%A0o+Cai+Vietnam&form=hpcapt",
+        "title": "La tradizione in ogni passo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260708_SapaVietnam%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3190ba9f8aa3268f25edcb125c5d7556",
+        "hsh": "bb7d5feac38e86c06d955887391fc50e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A Sapa, nel nord del Vietnam, le risaie terrazzate scendono lungo le montagne come una scalinata vivente, illuminate da una luce che filtra tra le nuvole. Nella provincia di Lào Cai, ogni gradone è il frutto di secoli di lavoro delle comunità locali, come gli Hmong, che hanno modellato i pendii per guidare l’acqua e coltivare il riso, alimento centrale nella vita quotidiana e nella cultura di tutta l’Asia.",
+                "Image": {
+                    "Url": "/th?id=OHR.SapaVietnam_IT-IT8377161369_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SapaVietnam_IT-IT8377161369_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La tradizione in ogni passo",
+                "Title": "Risaie a Sapa, Lào Cai, Vietnam",
+                "Copyright": "© Anujak Jaimook/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/22.374456,103.842076/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=22.374456,103.842076;S9;Sapa, Lào Cai, Vietnam&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260709_SapaVietnam\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=L%c3%a0o+Cai+Vietnam&form=hpcapt&filters=HpDate:\"20260708_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260709_SapaVietnam"
+            },
+            "Ssd": "20260709",
+            "Name": "SapaVietnam",
+            "Market": "IT-IT",
+            "Hash": "8377161369",
+            "FullDateString": "9 luglio 2026"
+        }
+    },
+    {
         "startdate": "20260707",
         "fullstartdate": "202607072200",
         "enddate": "20260708",

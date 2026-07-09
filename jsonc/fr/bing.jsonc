@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260708",
+        "fullstartdate": "202607082200",
+        "enddate": "20260709",
+        "url": "/th?id=OHR.SapaVietnam_FR-FR9797558235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SapaVietnam_FR-FR9797558235",
+        "copyright": "Champs de riz à Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=L%C3%A0o+Cai+Vietnam&form=hpcapt&filters=HpDate%3a%2220260708_2200%22",
+        "title": "Une autre montée des marches",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260708_SapaVietnam%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3190ba9f8aa3268f25edcb125c5d7556",
+        "hsh": "641788c45a461f7857cadad3372c30e2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La lumière du soleil perce les nuages et éclaire les rizières en terrasses de Sapa, qui dévalent les montagnes comme un immense escalier vivant. Située dans la province de Lào Cai, au Vietnam, cette région spectaculaire a été façonnée au fil des siècles par les communautés ethniques locales, notamment les Hmong. Génération après génération, elles ont aménagé ces terrasses et mis au point un ingénieux réseau d'irrigation permettant de cultiver le riz sur des pentes escarpées.",
+                "Image": {
+                    "Url": "/th?id=OHR.SapaVietnam_FR-FR9797558235_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SapaVietnam_FR-FR9797558235_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Une autre montée des marches",
+                "Title": "Champs de riz à Sapa, Lào Cai, Vietnam",
+                "Copyright": "© Anujak Jaimook/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/22.374456,103.842076/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=22.374456,103.842076;S9;Sapa, Lào Cai, Vietnam&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260709_SapaVietnam\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=L%c3%a0o+Cai+Vietnam&form=hpcapt&filters=HpDate:\"20260708_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260709_SapaVietnam"
+            },
+            "Ssd": "20260709",
+            "Name": "SapaVietnam",
+            "Market": "FR-FR",
+            "Hash": "9797558235",
+            "FullDateString": "9 juil. 2026"
+        }
+    },
+    {
         "startdate": "20260707",
         "fullstartdate": "202607072200",
         "enddate": "20260708",
