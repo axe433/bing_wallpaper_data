@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260709",
+        "fullstartdate": "202607090400",
+        "enddate": "20260710",
+        "url": "/th?id=OHR.SapaVietnam_EN-CA1120759597_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SapaVietnam_EN-CA1120759597",
+        "copyright": "Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=L%C3%A0o+Cai+Vietnam&form=hpcapt&filters=HpDate%3a%2220260709_0400%22",
+        "title": "Tradition in every step",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260709_SapaVietnam%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3190ba9f8aa3268f25edcb125c5d7556",
+        "hsh": "b849f8db10b190f28a0cc5be22a7d0bf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "The morning mist begins to lift as sunlight cuts through, revealing rows of green terraces climbing the mountainsides. Soon, the sound of running water and farm work replaces the silence. This is a familiar scene in Sapa, northern Vietnam, where generations of ethnic communities have shaped steep hills into rice fields that continue to support local families today. Using knowledge refined over centuries, farmers in Lào Cai province built terraces that slow water flowing downhill, helping to protect the soil while creating space to grow rice in challenging terrain.",
+                "Image": {
+                    "Url": "/th?id=OHR.SapaVietnam_EN-CA1120759597_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SapaVietnam_EN-CA1120759597_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Tradition in every step",
+                "Title": "Rice fields at Sapa, Lào Cai, Vietnam",
+                "Copyright": "© Anujak Jaimook/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/22.374456,103.842076/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=22.374456,103.842076;S9;Sapa, Lào Cai, Vietnam&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260709_SapaVietnam\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=L%c3%a0o+Cai+Vietnam&form=hpcapt&filters=HpDate:\"20260709_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260709_SapaVietnam"
+            },
+            "Ssd": "20260709",
+            "Name": "SapaVietnam",
+            "Market": "EN-CA",
+            "Hash": "1120759597",
+            "FullDateString": "Jul 9, 2026"
+        }
+    },
+    {
         "startdate": "20260708",
         "fullstartdate": "202607080400",
         "enddate": "20260709",

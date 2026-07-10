@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260709",
+        "fullstartdate": "202607091500",
+        "enddate": "20260710",
+        "url": "/th?id=OHR.VictoriaBeach_JA-JP5622574083_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VictoriaBeach_JA-JP5622574083",
+        "copyright": "ビクトリア州にあるビーチ, オーストラリア (© Nearmap/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%93%E3%82%AF%E3%83%88%E3%83%AA%E3%82%A2%E5%B7%9E%E3%81%AB%E3%81%82%E3%82%8B%E3%83%93%E3%83%BC%E3%83%81&form=hpcapt&filters=HpDate%3a%2220260709_1500%22",
+        "title": "浜辺に打ち寄せる波",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260709_VictoriaBeach%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "44d834b94d496b9aeb549544aa060403",
+        "hsh": "71bcd16ec3fc8aab3cae42a191bb2ae0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ここは、オーストラリア南東部に位置するビクトリア州。南極海に面しており、2000km 以上に渡る海岸線には、ターコイズブルーの海と切り立った崖が織りなす壮大な景観が広がっています。特に、海岸線に沿って走る絶景ドライブコース「グレート・オーシャン・ロード」は、「世界で最も美しい海岸道路」として有名です。全長約 250km にも及ぶドライブルートで、人気のサーフスポットや緑豊かな岬、個性豊かな街並みなど、移り変わる海岸の風景を楽しむことができます。",
+                "Image": {
+                    "Url": "/th?id=OHR.VictoriaBeach_JA-JP5622574083_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VictoriaBeach_JA-JP5622574083_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "浜辺に打ち寄せる波",
+                "Title": "ビクトリア州にあるビーチ, オーストラリア",
+                "Copyright": "© Nearmap/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-36.850086,144.304291/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=-36.850086,144.304291;S9;ビクトリア州&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260710_ VictoriaBeach%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260710_VictoriaBeach\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%93%e3%82%af%e3%83%88%e3%83%aa%e3%82%a2%e5%b7%9e%e3%81%ab%e3%81%82%e3%82%8b%e3%83%93%e3%83%bc%e3%83%81&form=hpcapt&filters=HpDate:\"20260709_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260710_VictoriaBeach"
+            },
+            "Ssd": "20260710",
+            "Name": "VictoriaBeach",
+            "Market": "JA-JP",
+            "Hash": "5622574083",
+            "FullDateString": "2026 年 7月 月 10 日"
+        }
+    },
+    {
         "startdate": "20260708",
         "fullstartdate": "202607081500",
         "enddate": "20260709",

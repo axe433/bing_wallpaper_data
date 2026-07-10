@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260709",
+        "fullstartdate": "202607092200",
+        "enddate": "20260710",
+        "url": "/th?id=OHR.VictoriaBeach_FR-FR3702097800_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VictoriaBeach_FR-FR3702097800",
+        "copyright": "Vue aérienne des terres et de l'océan, Victoria, Australie (© Nearmap/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Victoria+Australie&form=hpcapt&filters=HpDate%3a%2220260709_2200%22",
+        "title": "Le pays des rivages mouvants",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260709_VictoriaBeach%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "44d834b94d496b9aeb549544aa060403",
+        "hsh": "3c681c3037c605e75dde1f576bcd447a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Vue du ciel, la côte de Victoria déploie de longues plages dorées, des eaux turquoise et des falaises sculptées par les vents du puissant océan Austral. Sur plus de 1 800 kilomètres de littoral, la terre et la mer façonnent depuis des millénaires les paysages du sud‑est australien.",
+                "Image": {
+                    "Url": "/th?id=OHR.VictoriaBeach_FR-FR3702097800_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VictoriaBeach_FR-FR3702097800_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Le pays des rivages mouvants",
+                "Title": "Vue aérienne des terres et de l'océan, Victoria, Australie",
+                "Copyright": "© Nearmap/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-36.850086,144.304291/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=-36.850086,144.304291;S9;Victoria, Australie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260710_VictoriaBeach\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Victoria+Australie&form=hpcapt&filters=HpDate:\"20260709_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260710_VictoriaBeach"
+            },
+            "Ssd": "20260710",
+            "Name": "VictoriaBeach",
+            "Market": "FR-FR",
+            "Hash": "3702097800",
+            "FullDateString": "10 juil. 2026"
+        }
+    },
+    {
         "startdate": "20260708",
         "fullstartdate": "202607082200",
         "enddate": "20260709",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260709",
+        "fullstartdate": "202607092200",
+        "enddate": "20260710",
+        "url": "/th?id=OHR.VictoriaBeach_IT-IT7530420052_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VictoriaBeach_IT-IT7530420052",
+        "copyright": "Veduta aerea di terra e oceano, Victoria, Australia (© Nearmap/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Victoria+Australia&form=hpcapt",
+        "title": "La terra delle coste in movimento",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260709_VictoriaBeach%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "44d834b94d496b9aeb549544aa060403",
+        "hsh": "4f086bde431cc99bc43053de7ada0d4c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Victoria, stato nel sud-est dell’Australia, si estende lungo oltre 1.800 km di costa modellata dall’Oceano Meridionale: dall’alto, le sue spiagge appaiono come nastri chiari tra acque turchesi e scogliere scolpite. Questo dialogo continuo tra terra e mare ricorda, per intensità e varietà, alcuni tratti della Sardegna o della Costiera Amalfitana, pur con un carattere più selvaggio e ventoso. La celebre Great Ocean Road percorre circa 240 km di litorale, tra spot di surf, promontori boscosi e piccoli centri affacciati sull’oceano.",
+                "Image": {
+                    "Url": "/th?id=OHR.VictoriaBeach_IT-IT7530420052_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VictoriaBeach_IT-IT7530420052_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La terra delle coste in movimento",
+                "Title": "Veduta aerea di terra e oceano, Victoria, Australia",
+                "Copyright": "© Nearmap/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-36.850086,144.304291/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=-36.850086,144.304291;S9;Victoria, Australia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260710_VictoriaBeach\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Victoria+Australia&form=hpcapt&filters=HpDate:\"20260709_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260710_VictoriaBeach"
+            },
+            "Ssd": "20260710",
+            "Name": "VictoriaBeach",
+            "Market": "IT-IT",
+            "Hash": "7530420052",
+            "FullDateString": "10 luglio 2026"
+        }
+    },
+    {
         "startdate": "20260708",
         "fullstartdate": "202607082200",
         "enddate": "20260709",
