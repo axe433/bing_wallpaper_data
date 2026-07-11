@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260710",
+        "fullstartdate": "202607102300",
+        "enddate": "20260711",
+        "url": "/th?id=OHR.AurayBrittany_EN-GB4284557242_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AurayBrittany_EN-GB4284557242",
+        "copyright": "Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Auray+Saint-Goustan+France&form=hpcapt&filters=HpDate%3a%2220260710_2300%22",
+        "title": "Just across the channel: Port de Saint-Goustan",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260710_AurayBrittany%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "aff6c580173732519e13f377c64bee17",
+        "hsh": "97ec13ffd6d96f50ec4b1747456107fb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "In France, Port de Saint-Goustan lies just below Auray’s upper town, where a narrow inlet meets the estuary leading into the Gulf of Morbihan. The harbour sits along the Auray River In the 13th century, the Dukes of Brittany built a bridge, a port and a castle here; the fortress has vanished, but cobbled quays and timber-framed houses still line the waterfront.",
+                "Image": {
+                    "Url": "/th?id=OHR.AurayBrittany_EN-GB4284557242_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AurayBrittany_EN-GB4284557242_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Just across the channel: Port de Saint-Goustan",
+                "Title": "Port de Saint-Goustan, Auray, Brittany, France",
+                "Copyright": "© Rolf E. Staerk/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.664311,-2.977482/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=47.664311,-2.977482;S9;Port de Saint-Goustan, Auray, France&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260711_AurayBrittany\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Auray+Saint-Goustan+France&form=hpcapt&filters=HpDate:\"20260710_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260711_AurayBrittany"
+            },
+            "Ssd": "20260711",
+            "Name": "AurayBrittany",
+            "Market": "EN-GB",
+            "Hash": "4284557242",
+            "FullDateString": "11 Jul 2026"
+        }
+    },
+    {
         "startdate": "20260709",
         "fullstartdate": "202607092300",
         "enddate": "20260710",
@@ -20,8 +69,8 @@
             "ImageContent": {
                 "Description": "Some monasteries begin with a grand plan. Llanthony Priory, however, owes its origin to a knight who lost his way. Nestled in the Vale of Ewyas beneath the Black Mountains, the priory is a 900-year-old Augustinian ruin. History has it that a Norman knight, William de Lacy, stumbled upon a ruined chapel dedicated to St David while hunting. Captivated by the solitude, he abandoned his military life to become a hermit, leading to the foundation of the monastery around 1100.",
                 "Image": {
-                    "Url": "/th?id=OHR.LlanthonyPriory2026_EN-GB4079729139_1920x1080.webp",
-                    "Wallpaper": "/th?id=OHR.LlanthonyPriory2026_EN-GB4079729139_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Url": "/th?id=OHR.LlanthonyPriory2026_EN-GB5365093988_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LlanthonyPriory2026_EN-GB5365093988_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
                     "Downloadable": true
                 },
                 "Headline": "A valley of ruins and legends",
@@ -44,7 +93,7 @@
             "Ssd": "20260710",
             "Name": "LlanthonyPriory2026",
             "Market": "EN-GB",
-            "Hash": "4079729139",
+            "Hash": "5365093988",
             "FullDateString": "10 Jul 2026"
         }
     },

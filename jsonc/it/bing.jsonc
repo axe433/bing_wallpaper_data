@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260710",
+        "fullstartdate": "202607102200",
+        "enddate": "20260711",
+        "url": "/th?id=OHR.IsolaBella_IT-IT9517303219_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IsolaBella_IT-IT9517303219",
+        "copyright": "Veduta aerea di Isola Bella a Taormina, Sicilia, Italia (© DaLiu/iStock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Taormina+Sicilia&form=hpcapt",
+        "title": "Il luogo perfetto per riposarsi",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260710_IsolaBella%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f1e304f64ead0c26a544382d24f4b3bb",
+        "hsh": "f93ead0133889bb13bab4e7e179d4613",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Isola Bella a Taormina, Sicilia, sorprende al primo sguardo: un minuscolo gioiello immerso nel blu del Mar Ionio, collegato alla costa da una sottile lingua di sabbia che appare e scompare con le maree.",
+                "Image": {
+                    "Url": "/th?id=OHR.IsolaBella_IT-IT9517303219_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.IsolaBella_IT-IT9517303219_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Il luogo perfetto per riposarsi",
+                "Title": "Veduta aerea di Isola Bella a Taormina, Sicilia, Italia",
+                "Copyright": "© DaLiu/iStock/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.853065,15.287916/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=37.853065,15.287916;S9;Isola Bella, Taormina, Sicilia, Italia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260711_IsolaBella\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Taormina+Sicilia&form=hpcapt&filters=HpDate:\"20260710_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260711_IsolaBella"
+            },
+            "Ssd": "20260711",
+            "Name": "IsolaBella",
+            "Market": "IT-IT",
+            "Hash": "9517303219",
+            "FullDateString": "11 luglio 2026"
+        }
+    },
+    {
         "startdate": "20260709",
         "fullstartdate": "202607092200",
         "enddate": "20260710",

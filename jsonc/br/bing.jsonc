@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260710",
+        "fullstartdate": "202607100300",
+        "enddate": "20260711",
+        "url": "/th?id=OHR.VictoriaBeach_PT-BR0308396736_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VictoriaBeach_PT-BR0308396736",
+        "copyright": "Vista aérea da costa de Vitória, Austrália (© Nearmap/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Vitoria+Australia&form=hpcapt&mkt=pt-br",
+        "title": "A arte lenta das marés",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260710_VictoriaBeach%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "44d834b94d496b9aeb549544aa060403",
+        "hsh": "f7e34f4a0144e7b0fe343bdd5716383a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A imagem do dia traz o litoral do estado australiano de Vitória, onde o encontro entre terra e mar está sempre sendo redesenhado. Faixas de areia clara se alternam com água azul intensa e paredões que parecem ter sido recortados com cuidado, em um cenário marcado pela ação contínua do oceano.",
+                "Image": {
+                    "Url": "/th?id=OHR.VictoriaBeach_PT-BR0308396736_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VictoriaBeach_PT-BR0308396736_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A arte lenta das marés",
+                "Title": "Vista aérea da costa de Vitória, Austrália",
+                "Copyright": "© Nearmap/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260710_VictoriaBeach\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Vitoria+Australia&form=hpcapt&filters=HpDate:\"20260710_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260710_VictoriaBeach"
+            },
+            "Ssd": "20260710",
+            "Name": "VictoriaBeach",
+            "Market": "PT-BR",
+            "Hash": "0308396736",
+            "FullDateString": "10 jul. 2026"
+        }
+    },
+    {
         "startdate": "20260709",
         "fullstartdate": "202607090300",
         "enddate": "20260710",

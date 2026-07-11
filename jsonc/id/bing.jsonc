@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260710",
+        "fullstartdate": "202607100700",
+        "enddate": "20260711",
+        "url": "/th?id=OHR.LemonShark_ROW1540729665_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LemonShark_ROW1540729665",
+        "copyright": "Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Lemon+shark&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260710_LemonShark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0b954865be022ddce889d8d303e04b44",
+        "hsh": "889fa7c7b63e7bca0f42d006178be606",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sharks have patrolled the seas for more than 420 million years, and as apex predators, they help keep marine ecosystems in balance. The tiny explorer in today's image—a lemon shark pup weaving through a mangrove forest in Eleuthera, the Bahamas—offers a perfect reminder that their stories don't begin with drama but with nurseries and survival. Lemon sharks give birth to live young, and their pups spend years in shallow mangroves, where calm, sheltered waters provide a safe place to grow. As adults, they can reach about 3.4 metres in length and females often return to the same nursery sites to breed. Hunting mainly at night, they use specialised electroreceptors to detect prey hidden beneath sand or in murky water. They also benefit from living in groups, which can improve communication, courtship, hunting success and protection. Yet lemon sharks are considered near threatened, and sharks worldwide face growing pressure from overfishing, fear-driven killing and habitat loss.",
+                "Image": {
+                    "Url": "/th?id=OHR.LemonShark_ROW1540729665_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LemonShark_ROW1540729665_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Lemon shark pup in mangrove forest, Eleuthera, Bahamas",
+                "Copyright": "© Shane Gross/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260710_LemonShark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lemon+shark&form=hpcapt&filters=HpDate:\"20260710_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260710_LemonShark"
+            },
+            "Ssd": "20260710",
+            "Name": "LemonShark",
+            "Market": "ROW",
+            "Hash": "1540729665",
+            "FullDateString": "10 Jul 2026"
+        }
+    },
+    {
         "startdate": "20260709",
         "fullstartdate": "202607090700",
         "enddate": "20260710",

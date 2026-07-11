@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260710",
+        "fullstartdate": "202607102200",
+        "enddate": "20260711",
+        "url": "/th?id=OHR.AurayBrittany_FR-FR2151221761_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AurayBrittany_FR-FR2151221761",
+        "copyright": "Port de Saint-Goustan, Auray, Bretagne (© Rolf E. Staerk/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Auray+Saint-Goustan+France&form=hpcapt&filters=HpDate%3a%2220260710_2200%22",
+        "title": "Niché au creux du Loc’h",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260710_AurayBrittany%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "aff6c580173732519e13f377c64bee17",
+        "hsh": "f8bc0e2194ecdb0e37a02e1635102d51",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Au sud d’Auray, le port de Saint-Goustan s’étend là où le Loc’h rejoint la rivière d’Auray avant de s’ouvrir vers le golfe du Morbihan. Ce havre pittoresque, protégé par les méandres de l’estuaire, conserve l’atmosphère d’un ancien port breton. Dès le XIIIᵉ siècle, les ducs de Bretagne y firent bâtir un pont, un port et une forteresse aujourd’hui disparue, mais les quais pavés, les ruelles étroites et les maisons à pans de bois témoignent encore de ce passé.",
+                "Image": {
+                    "Url": "/th?id=OHR.AurayBrittany_FR-FR2151221761_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AurayBrittany_FR-FR2151221761_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Niché au creux du Loc'h",
+                "Title": "Port de Saint-Goustan, Auray, Bretagne",
+                "Copyright": "© Rolf E. Staerk/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.664311,-2.977482/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=47.664311,-2.977482;S9;Port de Saint-Goustan, Auray&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260711_AurayBrittany\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Auray+Saint-Goustan+France&form=hpcapt&filters=HpDate:\"20260710_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260711_AurayBrittany"
+            },
+            "Ssd": "20260711",
+            "Name": "AurayBrittany",
+            "Market": "FR-FR",
+            "Hash": "2151221761",
+            "FullDateString": "11 juil. 2026"
+        }
+    },
+    {
         "startdate": "20260709",
         "fullstartdate": "202607092200",
         "enddate": "20260710",
