@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260711",
+        "fullstartdate": "202607112200",
+        "enddate": "20260712",
+        "url": "/th?id=OHR.KatahdinWWNM_FR-FR2337328139_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KatahdinWWNM_FR-FR2337328139",
+        "copyright": "Monument national des bois et des eaux de Katahdin, Maine, États-Unis (© Cavan Images/Offset/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Monument+des+bois+et+des+eaux+Katahdin&form=hpcapt&filters=HpDate%3a%2220260711_2200%22",
+        "title": "Le côté sauvage du Maine",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260711_KatahdinWWNM%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bc7fb80d8ece2700b8199ad55558a773",
+        "hsh": "b749c69c51682d042f5ccb12a89a5f77",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Pour découvrir le Maine (États-Unis) dans ce qu’il a de plus sauvage, il faut venir ici. Le monument national des Bois et des Eaux de Katahdin couvre près de 35 000 hectares de forêts profondes, où étangs silencieux et pistes isolées composent un paysage brut et préservé.",
+                "Image": {
+                    "Url": "/th?id=OHR.KatahdinWWNM_FR-FR2337328139_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KatahdinWWNM_FR-FR2337328139_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Le côté sauvage du Maine",
+                "Title": "Monument national des bois et des eaux de Katahdin, Maine, États-Unis",
+                "Copyright": "© Cavan Images/Offset/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.156481,-68.717751/2?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=46.156481,-68.717751;S9;Monument national de Katahdin, Maine, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260712_KatahdinWWNM\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Monument+des+bois+et+des+eaux+Katahdin&form=hpcapt&filters=HpDate:\"20260711_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260712_KatahdinWWNM"
+            },
+            "Ssd": "20260712",
+            "Name": "KatahdinWWNM",
+            "Market": "FR-FR",
+            "Hash": "2337328139",
+            "FullDateString": "12 juil. 2026"
+        }
+    },
+    {
         "startdate": "20260710",
         "fullstartdate": "202607102200",
         "enddate": "20260711",

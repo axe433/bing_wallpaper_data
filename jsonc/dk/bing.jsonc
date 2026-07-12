@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260711",
+        "fullstartdate": "202607110700",
+        "enddate": "20260712",
+        "url": "/th?id=OHR.CoralAwareness_ROW1949077077_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CoralAwareness_ROW1949077077",
+        "copyright": "Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Raja+Ampat&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260711_CoralAwareness%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bf67c6394e73d9953d2c706c91104288",
+        "hsh": "7bcc8161b5c35076f3dd3227bf57a27e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Imagine a city built by animals, glowing in the sunlight and bustling with life beneath the waves. That is a coral reef. Coral reefs cover less than 1% of the ocean floor, yet they support roughly 25% of all marine life. What looks like colourful rocks are actually colonies of tiny animals called coral polyps. Together, they build vast limestone structures that can last for thousands of years. Stretching about 2,300 kilometres along Australia's coast, the Great Barrier Reef is the largest living structure on Earth.",
+                "Image": {
+                    "Url": "/th?id=OHR.CoralAwareness_ROW1949077077_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CoralAwareness_ROW1949077077_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Coral reef and beach in Raja Ampat, Indonesia",
+                "Copyright": "© SergeUWPhoto/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260711_CoralAwareness\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Raja+Ampat&form=hpcapt&filters=HpDate:\"20260711_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260711_CoralAwareness"
+            },
+            "Ssd": "20260711",
+            "Name": "CoralAwareness",
+            "Market": "ROW",
+            "Hash": "1949077077",
+            "FullDateString": "11. jul. 2026"
+        }
+    },
+    {
         "startdate": "20260710",
         "fullstartdate": "202607100700",
         "enddate": "20260711",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260711",
+        "fullstartdate": "202607110300",
+        "enddate": "20260712",
+        "url": "/th?id=OHR.AurayBrittany_PT-BR2396626414_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AurayBrittany_PT-BR2396626414",
+        "copyright": "Porto de Saint-Goustan, Auray, Bretanha, França (© Rolf E. Staerk/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Auray+Bretanha+Fran%C3%A7a&form=hpcapt&mkt=pt-br",
+        "title": "A cidade que ancorou no tempo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260711_AurayBrittany%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "aff6c580173732519e13f377c64bee17",
+        "hsh": "9deb27f1b529c284d1ec4fe39d0ce0f4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Na imagem, o Porto de Saint‑Goustan parece decidido a envelhecer bem. Ele ocupa uma curva protegida da cidade francesa de Auray, onde o estuário encontra os rios Auray e Loc’h. Não por acaso, duques da região da Bretanha ergueram ali, no século XIII, um castelo e toda uma estrutura portuária para controlar a região. O castelo virou memória: o resto, charme. Casas em enxaimel, fachadas de pedra e ruas estreitas acompanham a descida da Place de la République pela Rue du Château, num percurso que termina inevitavelmente à beira d’água. O que antes servia à defesa hoje abriga ateliês, galerias e cafés, enquanto antigas muralhas oferecem alguns dos melhores mirantes do porto.",
+                "Image": {
+                    "Url": "/th?id=OHR.AurayBrittany_PT-BR2396626414_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AurayBrittany_PT-BR2396626414_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A cidade que ancorou no tempo",
+                "Title": "Porto de Saint-Goustan, Auray, Bretanha, França",
+                "Copyright": "© Rolf E. Staerk/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260711_AurayBrittany\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Auray+Bretanha+Fran%c3%a7a&form=hpcapt&filters=HpDate:\"20260711_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260711_AurayBrittany"
+            },
+            "Ssd": "20260711",
+            "Name": "AurayBrittany",
+            "Market": "PT-BR",
+            "Hash": "2396626414",
+            "FullDateString": "11 jul. 2026"
+        }
+    },
+    {
         "startdate": "20260710",
         "fullstartdate": "202607100300",
         "enddate": "20260711",
