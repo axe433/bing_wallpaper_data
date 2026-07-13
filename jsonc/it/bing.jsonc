@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260712",
+        "fullstartdate": "202607122200",
+        "enddate": "20260713",
+        "url": "/th?id=OHR.NavajoSandstone_IT-IT0263432431_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NavajoSandstone_IT-IT0263432431",
+        "copyright": "Antelope Canyon sulla Nazione Navajo, a est di Page, Arizona, USA (© Mark Skalny/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=L%27Antelope+Canyon+sulla+Nazione+Navajo&form=hpcapt",
+        "title": "Levigato per millenni",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260712_NavajoSandstone%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "48e320a0c604b2ea9be6d2ad5a363bec",
+        "hsh": "2c743725a9d695c8c00a322788871c75",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nell'Antelope Canyon, in Arizona, situato su territorio della Nazione Navajo, la roccia prende vita in un intreccio di forme fluide scolpite da acqua e tempo. Questo stretto canyon, inciso nell'arenaria Navajo, rivela pareti ondulate che catturano la luce in fasci luminosi, accendendosi di tonalità calde dal rosso all'arancione.",
+                "Image": {
+                    "Url": "/th?id=OHR.NavajoSandstone_IT-IT0263432431_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NavajoSandstone_IT-IT0263432431_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Levigato per millenni",
+                "Title": "Antelope Canyon sulla Nazione Navajo, a est di Page, Arizona, USA",
+                "Copyright": "© Mark Skalny/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.837774,-118.280526/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=40.837774,-118.280526;S9;Antelope Canyon sulla Nazione Navajo, Arizona, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260713_NavajoSandstone\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=L%27Antelope+Canyon+sulla+Nazione+Navajo&form=hpcapt&filters=HpDate:\"20260712_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260713_NavajoSandstone"
+            },
+            "Ssd": "20260713",
+            "Name": "NavajoSandstone",
+            "Market": "IT-IT",
+            "Hash": "0263432431",
+            "FullDateString": "13 luglio 2026"
+        }
+    },
+    {
         "startdate": "20260711",
         "fullstartdate": "202607112200",
         "enddate": "20260712",

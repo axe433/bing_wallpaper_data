@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260712",
+        "fullstartdate": "202607121830",
+        "enddate": "20260713",
+        "url": "/th?id=OHR.NavajoSandstone_EN-IN8391264023_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NavajoSandstone_EN-IN8391264023",
+        "copyright": "Antelope Canyon on the Navajo Nation, east of Page, Arizona, United States (© Mark Skalny/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=International+Rock+Day+geology&form=hpcapt&filters=HpDate%3a%2220260712_1830%22",
+        "title": "Born to rock",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260712_NavajoSandstone%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "48e320a0c604b2ea9be6d2ad5a363bec",
+        "hsh": "3913740c4590fdfe7bda12e864d6d66f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "International Rock Day, observed on 13 July, celebrates the geological building blocks beneath our feet and encourages curiosity about how rocks shape Earth's landscapes and history. From ancient tools to modern mineral uses, rocks hold clues to volcanic eruptions, shifting continents and the evolution of life over millions of years. In India, the vast Deccan Traps stand as a dramatic reminder of the powerful volcanic forces that have shaped our planet.",
+                "Image": {
+                    "Url": "/th?id=OHR.NavajoSandstone_EN-IN8391264023_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NavajoSandstone_EN-IN8391264023_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Born to rock",
+                "Title": "Antelope Canyon on the Navajo Nation, east of Page, Arizona, United States",
+                "Copyright": "© Mark Skalny/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.837774,-118.280526/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=40.837774,-118.280526;S9;Antelope Canyon, Arizona, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260713_NavajoSandstone\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=International+Rock+Day+geology&form=hpcapt&filters=HpDate:\"20260712_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260713_NavajoSandstone"
+            },
+            "Ssd": "20260713",
+            "Name": "NavajoSandstone",
+            "Market": "EN-IN",
+            "Hash": "8391264023",
+            "FullDateString": "13 Jul, 2026"
+        }
+    },
+    {
         "startdate": "20260711",
         "fullstartdate": "202607111830",
         "enddate": "20260712",

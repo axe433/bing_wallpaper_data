@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260712",
+        "fullstartdate": "202607122200",
+        "enddate": "20260713",
+        "url": "/th?id=OHR.MunichTwilight_DE-DE5540064188_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MunichTwilight_DE-DE5540064188",
+        "copyright": "München mit der Frauenkirche vor den Alpen, Bayern (© MarcelStrelow/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=M%C3%BCnchner+Opernfestspiele&form=hpcapt&filters=HpDate%3a%2220260712_2200%22",
+        "title": "Im Festspielglanz",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260712_MunichTwilight%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5b2261109c3d9cae7e20d44a06e14e82",
+        "hsh": "f3416c278f8f871d864ee38ab57f7e08",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Münchens Skyline leuchtet in der Dämmerung, während sich die Türme der Frauenkirche markant vor der Silhouette der Alpen abzeichnen und der Himmel langsam in tiefe Blau- und Violetttöne übergeht. In dieser eindrucksvollen Kulisse finden jeden Sommer die Münchner Opernfestspiele statt, eines der bedeutendsten Klassikfestivals Europas. Über mehrere Wochen hinweg verwandelt sich die Stadt in einen kulturellen Mittelpunkt, an dem die Bayerische Staatsoper ein vielseitiges Programm aus Opern, Konzerten und Ballettaufführungen präsentiert und damit Besucherinnen und Besucher aus aller Welt anzieht.",
+                "Image": {
+                    "Url": "/th?id=OHR.MunichTwilight_DE-DE5540064188_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MunichTwilight_DE-DE5540064188_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Im Festspielglanz",
+                "Title": "München mit der Frauenkirche vor den Alpen, Bayern",
+                "Copyright": "© MarcelStrelow/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.139126,11.580219/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=48.139126,11.580219;S9;München, Bayern&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260713_MunichTwilight\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=M%c3%bcnchner+Opernfestspiele&form=hpcapt&filters=HpDate:\"20260712_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260713_MunichTwilight"
+            },
+            "Ssd": "20260713",
+            "Name": "MunichTwilight",
+            "Market": "DE-DE",
+            "Hash": "5540064188",
+            "FullDateString": "13. Juli. 2026"
+        }
+    },
+    {
         "startdate": "20260711",
         "fullstartdate": "202607112200",
         "enddate": "20260712",

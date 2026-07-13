@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260712",
+        "fullstartdate": "202607120700",
+        "enddate": "20260713",
+        "url": "/th?id=OHR.KatahdinWWNM_ROW0056133161_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KatahdinWWNM_ROW0056133161",
+        "copyright": "Katahdin Woods and Waters National Monument, Maine, United States (© Cavan Images/Offset/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Katahdin+Woods+and+Waters+National+Monument&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260712_KatahdinWWNM%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bc7fb80d8ece2700b8199ad55558a773",
+        "hsh": "4752418a3bfb2f9d07f2a34466459e28",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "If you're looking for Maine at its most untamed, this is it. Katahdin Woods and Waters National Monument spans more than 350 square kilometres of the rugged North Woods, where quiet ponds mirror the sky and dense forests seem to swallow sound. Here, the East Branch of the Penobscot River threads through forests and wetlands, adding to the sense of space and solitude that defines the North Woods.",
+                "Image": {
+                    "Url": "/th?id=OHR.KatahdinWWNM_ROW0056133161_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KatahdinWWNM_ROW0056133161_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Katahdin Woods and Waters National Monument, Maine, United States",
+                "Copyright": "© Cavan Images/Offset/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260712_KatahdinWWNM\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Katahdin+Woods+and+Waters+National+Monument&form=hpcapt&filters=HpDate:\"20260712_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260712_KatahdinWWNM"
+            },
+            "Ssd": "20260712",
+            "Name": "KatahdinWWNM",
+            "Market": "ROW",
+            "Hash": "0056133161",
+            "FullDateString": "12 июл. 2026 г."
+        }
+    },
+    {
         "startdate": "20260711",
         "fullstartdate": "202607110700",
         "enddate": "20260712",

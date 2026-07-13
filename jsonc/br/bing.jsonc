@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260712",
+        "fullstartdate": "202607120300",
+        "enddate": "20260713",
+        "url": "/th?id=OHR.KatahdinWWNM_PT-BR2485169040_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KatahdinWWNM_PT-BR2485169040",
+        "copyright": "Monumento Nacional Katahdin Woods and Waters, Maine, Estados Unidos (© Cavan Images/Offset/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Maine&form=hpcapt&mkt=pt-br",
+        "title": "Zero barras, mil estrelas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260712_KatahdinWWNM%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bc7fb80d8ece2700b8199ad55558a773",
+        "hsh": "abc6e8a307c8ee5b2ecdc3c136716d0e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "O Monumento Nacional Katahdin Woods and Waters, visto na imagem de hoje, mostra um lado dos Estados Unidos que raramente aparece nos cartões-postais. São mais de 35 mil hectares de florestas, lagoas e rios no estado do Maine, no extremo nordeste do país, uma região onde a mata engole estradas, sons e distrações com a mesma facilidade.",
+                "Image": {
+                    "Url": "/th?id=OHR.KatahdinWWNM_PT-BR2485169040_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KatahdinWWNM_PT-BR2485169040_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Zero barras, mil estrelas",
+                "Title": "Monumento Nacional Katahdin Woods and Waters, Maine, Estados Unidos",
+                "Copyright": "© Cavan Images/Offset/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260712_KatahdinWWNM\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Maine&form=hpcapt&filters=HpDate:\"20260712_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260712_KatahdinWWNM"
+            },
+            "Ssd": "20260712",
+            "Name": "KatahdinWWNM",
+            "Market": "PT-BR",
+            "Hash": "2485169040",
+            "FullDateString": "12 jul. 2026"
+        }
+    },
+    {
         "startdate": "20260711",
         "fullstartdate": "202607110300",
         "enddate": "20260712",

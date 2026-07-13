@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260712",
+        "fullstartdate": "202607120400",
+        "enddate": "20260713",
+        "url": "/th?id=OHR.KatahdinWWNM_EN-CA7288146923_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KatahdinWWNM_EN-CA7288146923",
+        "copyright": "Katahdin Woods and Waters National Monument, Maine, United States (© Cavan Images/Offset/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Katahdin+Woods+and+Waters+National+Monument&form=hpcapt&filters=HpDate%3a%2220260712_0400%22",
+        "title": "A wilder side of Maine",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260712_KatahdinWWNM%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bc7fb80d8ece2700b8199ad55558a773",
+        "hsh": "896436160d5746ed3847714c1506f360",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "If you're looking for Maine at its most untamed, this is it. Katahdin Woods and Waters National Monument stretches across more than 350 square kilometres of the rugged North Woods, where quiet ponds mirror the sky and dense forests seem to swallow sound.",
+                "Image": {
+                    "Url": "/th?id=OHR.KatahdinWWNM_EN-CA7288146923_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KatahdinWWNM_EN-CA7288146923_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A wilder side of Maine",
+                "Title": "Katahdin Woods and Waters National Monument, Maine, United States",
+                "Copyright": "© Cavan Images/Offset/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.156481,-68.717751/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=46.156481,-68.717751;S9;Katahdin Woods and Waters National Monument, Maine, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260712_KatahdinWWNM\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Katahdin+Woods+and+Waters+National+Monument&form=hpcapt&filters=HpDate:\"20260712_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260712_KatahdinWWNM"
+            },
+            "Ssd": "20260712",
+            "Name": "KatahdinWWNM",
+            "Market": "EN-CA",
+            "Hash": "7288146923",
+            "FullDateString": "Jul 12, 2026"
+        }
+    },
+    {
         "startdate": "20260711",
         "fullstartdate": "202607110400",
         "enddate": "20260712",
