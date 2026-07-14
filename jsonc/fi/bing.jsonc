@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260713",
+        "fullstartdate": "202607130700",
+        "enddate": "20260714",
+        "url": "/th?id=OHR.NavajoSandstone_ROW2504391338_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NavajoSandstone_ROW2504391338",
+        "copyright": "Antelope Canyon on the Navajo Nation, east of Page, Arizona, United States (© Mark Skalny/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Antelope+Canyon&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260713_NavajoSandstone%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "48e320a0c604b2ea9be6d2ad5a363bec",
+        "hsh": "ce9d25655bb668b599c681bce2db49d9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "The geological building blocks beneath our feet encourage curiosity about how rocks shape the Earth's landscapes and history. Few places display that story as vividly as Antelope Canyon, a narrow slot canyon on Navajo Nation land, east of Page, Arizona. Carved from Navajo Sandstone by flash floods and erosion, its walls reveal how water and sediment sculpt rock over time.",
+                "Image": {
+                    "Url": "/th?id=OHR.NavajoSandstone_ROW2504391338_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NavajoSandstone_ROW2504391338_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Antelope Canyon on the Navajo Nation, east of Page, Arizona, United States",
+                "Copyright": "© Mark Skalny/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260713_NavajoSandstone\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Antelope+Canyon&form=hpcapt&filters=HpDate:\"20260713_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260713_NavajoSandstone"
+            },
+            "Ssd": "20260713",
+            "Name": "NavajoSandstone",
+            "Market": "ROW",
+            "Hash": "2504391338",
+            "FullDateString": "13. heinäk. 2026"
+        }
+    },
+    {
         "startdate": "20260712",
         "fullstartdate": "202607120700",
         "enddate": "20260713",

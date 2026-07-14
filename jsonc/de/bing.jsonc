@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260713",
+        "fullstartdate": "202607132200",
+        "enddate": "20260714",
+        "url": "/th?id=OHR.LemonShark_DE-DE6087754416_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LemonShark_DE-DE6087754416",
+        "copyright": "Zitronenhai-Jungtier im Mangrovenwald, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Tag+der+Haie&form=hpcapt&filters=HpDate%3a%2220260713_2200%22",
+        "title": "Könige der Meere",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260713_LemonShark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0b954865be022ddce889d8d303e04b44",
+        "hsh": "060632636809febf8f57a7ebfb92abef",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Am 14. Juli wird weltweit der Tag der Haie gefeiert. Dieser Tag soll das Bild dieser Tiere verändern und Wissen vermitteln. Haie durchstreifen die Meere seit mehr als 420 Millionen Jahren und gehören zu den ältesten Bewohnern unseres Planeten. Dieser Tag rückt Wissen, Faszination und die Bedeutung dieser Tiere für gesunde Meere in den Mittelpunkt.",
+                "Image": {
+                    "Url": "/th?id=OHR.LemonShark_DE-DE6087754416_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LemonShark_DE-DE6087754416_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Könige der Meere",
+                "Title": "Zitronenhai-Jungtier im Mangrovenwald, Eleuthera, Bahamas",
+                "Copyright": "© Shane Gross/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Der Grönlandhai kann bis zu 400 Jahre alt werden und gehört damit zu den langlebigsten Wirbeltieren überhaupt.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260714_LemonShark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tag+der+Haie&form=hpcapt&filters=HpDate:\"20260713_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260714_LemonShark"
+            },
+            "Ssd": "20260714",
+            "Name": "LemonShark",
+            "Market": "DE-DE",
+            "Hash": "6087754416",
+            "FullDateString": "14. Juli. 2026"
+        }
+    },
+    {
         "startdate": "20260712",
         "fullstartdate": "202607122200",
         "enddate": "20260713",

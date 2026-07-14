@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260713",
+        "fullstartdate": "202607130400",
+        "enddate": "20260714",
+        "url": "/th?id=OHR.NavajoSandstone_EN-CA9245641235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NavajoSandstone_EN-CA9245641235",
+        "copyright": "Antelope Canyon on the Navajo Nation, east of Page, Arizona, United States (© Mark Skalny/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=International+Rock+Day+geology&form=hpcapt&filters=HpDate%3a%2220260713_0400%22",
+        "title": "Born to rock",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260713_NavajoSandstone%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "48e320a0c604b2ea9be6d2ad5a363bec",
+        "hsh": "383fdfdeb80e91b814fc6d25fbee58ee",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "International Rock Day, observed on 13 July, celebrates the geological building blocks beneath our feet and the stories they preserve. From ancient tools to towering mountains, rocks reveal clues about shifting continents, changing climates and the evolution of life over millions of years. Few places showcase nature's artistry as vividly as Antelope Canyon on Navajo Nation land in Arizona, seen in today's image. Formed as flash floods gradually eroded Navajo Sandstone over thousands of years, the canyon's graceful, curving walls showcase the slow but relentless force of nature.",
+                "Image": {
+                    "Url": "/th?id=OHR.NavajoSandstone_EN-CA9245641235_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NavajoSandstone_EN-CA9245641235_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Born to rock",
+                "Title": "Antelope Canyon on the Navajo Nation, east of Page, Arizona, United States",
+                "Copyright": "© Mark Skalny/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.837774,-118.280526/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=40.837774,-118.280526;S9;Antelope Canyon, Arizona, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260713_NavajoSandstone\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=International+Rock+Day+geology&form=hpcapt&filters=HpDate:\"20260713_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260713_NavajoSandstone"
+            },
+            "Ssd": "20260713",
+            "Name": "NavajoSandstone",
+            "Market": "EN-CA",
+            "Hash": "9245641235",
+            "FullDateString": "Jul 13, 2026"
+        }
+    },
+    {
         "startdate": "20260712",
         "fullstartdate": "202607120400",
         "enddate": "20260713",
@@ -167,8 +216,8 @@
             "ImageContent": {
                 "Description": "The morning mist begins to lift as sunlight cuts through, revealing rows of green terraces climbing the mountainsides. Soon, the sound of running water and farm work replaces the silence. This is a familiar scene in Sapa, northern Vietnam, where generations of ethnic communities have shaped steep hills into rice fields that continue to support local families today. Using knowledge refined over centuries, farmers in Lào Cai province built terraces that slow water flowing downhill, helping to protect the soil while creating space to grow rice in challenging terrain.",
                 "Image": {
-                    "Url": "/th?id=OHR.SapaVietnam_EN-CA1120759597_1920x1080.webp",
-                    "Wallpaper": "/th?id=OHR.SapaVietnam_EN-CA1120759597_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Url": "/th?id=OHR.SapaVietnam_EN-CA8786405123_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SapaVietnam_EN-CA8786405123_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
                     "Downloadable": true
                 },
                 "Headline": "Tradition in every step",
@@ -191,7 +240,7 @@
             "Ssd": "20260709",
             "Name": "SapaVietnam",
             "Market": "EN-CA",
-            "Hash": "1120759597",
+            "Hash": "8786405123",
             "FullDateString": "Jul 9, 2026"
         }
     },
@@ -216,8 +265,8 @@
             "ImageContent": {
                 "Description": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
                 "Image": {
-                    "Url": "/th?id=OHR.LakeAtitlan_EN-CA6427862489_1920x1080.webp",
-                    "Wallpaper": "/th?id=OHR.LakeAtitlan_EN-CA6427862489_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Url": "/th?id=OHR.LakeAtitlan_EN-CA2759659537_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LakeAtitlan_EN-CA2759659537_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
                     "Downloadable": true
                 },
                 "Headline": "Echoes of a volcanic past",
@@ -240,7 +289,7 @@
             "Ssd": "20260708",
             "Name": "LakeAtitlan",
             "Market": "EN-CA",
-            "Hash": "6427862489",
+            "Hash": "2759659537",
             "FullDateString": "Jul 8, 2026"
         }
     },

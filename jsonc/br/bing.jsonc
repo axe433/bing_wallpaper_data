@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260713",
+        "fullstartdate": "202607130300",
+        "enddate": "20260714",
+        "url": "/th?id=OHR.NavajoSandstone_PT-BR2813210432_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NavajoSandstone_PT-BR2813210432",
+        "copyright": "Antelope Canyon, leste de Page, Arizona, Estados Unidos (© Mark Skalny/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Antelope+Canyon+no+Arizona&form=hpcapt&mkt=pt-br",
+        "title": "A pedra que aprendeu a fluir",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260713_NavajoSandstone%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "48e320a0c604b2ea9be6d2ad5a363bec",
+        "hsh": "90fde1f46e06f39eb7451623564e0b50",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "O Antelope Canyon, no Arizona, Estados Unidos, parece ter esquecido que é feito de rocha. As paredes que vemos aqui se dobram e ondulam em curvas tão suaves que lembram tecido em movimento. Mas nasceram de um processo nada delicado: começaram como dunas de areia em um deserto antigo, compactadas ao longo do tempo. Depois, enxurradas repentinas atravessaram fendas estreitas no arenito, remodelando sua forma enchente após enchente.",
+                "Image": {
+                    "Url": "/th?id=OHR.NavajoSandstone_PT-BR2813210432_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NavajoSandstone_PT-BR2813210432_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A pedra que aprendeu a fluir",
+                "Title": "Antelope Canyon, leste de Page, Arizona, Estados Unidos",
+                "Copyright": "© Mark Skalny/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260713_NavajoSandstone\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Antelope+Canyon+no+Arizona&form=hpcapt&filters=HpDate:\"20260713_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260713_NavajoSandstone"
+            },
+            "Ssd": "20260713",
+            "Name": "NavajoSandstone",
+            "Market": "PT-BR",
+            "Hash": "2813210432",
+            "FullDateString": "13 jul. 2026"
+        }
+    },
+    {
         "startdate": "20260712",
         "fullstartdate": "202607120300",
         "enddate": "20260713",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260713",
+        "fullstartdate": "202607131830",
+        "enddate": "20260714",
+        "url": "/th?id=OHR.LemonShark_EN-IN7069732478_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LemonShark_EN-IN7069732478",
+        "copyright": "Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Shark+Awareness+Day&form=hpcapt&filters=HpDate%3a%2220260713_1830%22",
+        "title": "Fin-tastic truths",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260713_LemonShark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0b954865be022ddce889d8d303e04b44",
+        "hsh": "f6587f7a640adcf4b7db3902ced438f4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "On 14 July, Shark Awareness Day asks us to trade movie panic for ocean truth. Sharks have patrolled the seas for more than 420 million years, and as apex predators, they help keep marine ecosystems in balance.",
+                "Image": {
+                    "Url": "/th?id=OHR.LemonShark_EN-IN7069732478_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LemonShark_EN-IN7069732478_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Fin-tastic truths",
+                "Title": "Lemon shark pup in mangrove forest, Eleuthera, Bahamas",
+                "Copyright": "© Shane Gross/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "The Greenland shark can live up to 400 years, one of the longest lifespans of any vertebrate.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260714_LemonShark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Shark+Awareness+Day&form=hpcapt&filters=HpDate:\"20260713_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260714_LemonShark"
+            },
+            "Ssd": "20260714",
+            "Name": "LemonShark",
+            "Market": "EN-IN",
+            "Hash": "7069732478",
+            "FullDateString": "14 Jul, 2026"
+        }
+    },
+    {
         "startdate": "20260712",
         "fullstartdate": "202607121830",
         "enddate": "20260713",

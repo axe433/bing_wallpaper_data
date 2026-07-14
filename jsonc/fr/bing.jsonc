@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260713",
+        "fullstartdate": "202607132200",
+        "enddate": "20260714",
+        "url": "/th?id=OHR.BastilleSacreCoeur_FR-FR3878699722_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BastilleSacreCoeur_FR-FR3878699722",
+        "copyright": "Feux d’artifice face à la basilique du Sacré-Cœur, Montmartre, Paris (© marc_land/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=F%C3%AAte+nationale+fran%C3%A7aise&form=hpcapt&filters=HpDate%3a%2220260713_2200%22",
+        "title": "Allons, enfants sur le parvis",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260713_BastilleSacreCoeur%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d3675a5ad1dba60182c0e3538d0e904e",
+        "hsh": "a8cad59324bb037e96d905adebaf4366",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Chaque année, le 14 juillet, la nuit s’illumine aux quatre coins du pays. Des plus petits villages aux grandes métropoles, les feux d’artifice rassemblent des millions de personnes venues célébrer la Fête nationale, souvenir de la prise de la Bastille en 1789, événement fondateur de la Révolution française.",
+                "Image": {
+                    "Url": "/th?id=OHR.BastilleSacreCoeur_FR-FR3878699722_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BastilleSacreCoeur_FR-FR3878699722_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Allons, enfants sur le parvis",
+                "Title": "Feux d’artifice face à la basilique du Sacré-Cœur, Montmartre, Paris",
+                "Copyright": "© marc_land/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.886379,2.343062/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=48.886379,2.343062;S9;Basilique du Sacré-Cœur, Montmartre, Paris&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260714_BastilleSacreCoeur\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=F%c3%aate+nationale+fran%c3%a7aise&form=hpcapt&filters=HpDate:\"20260713_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260714_BastilleSacreCoeur"
+            },
+            "Ssd": "20260714",
+            "Name": "BastilleSacreCoeur",
+            "Market": "FR-FR",
+            "Hash": "3878699722",
+            "FullDateString": "14 juil. 2026"
+        }
+    },
+    {
         "startdate": "20260712",
         "fullstartdate": "202607122200",
         "enddate": "20260713",
