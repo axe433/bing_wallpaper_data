@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260714",
+        "fullstartdate": "202607142200",
+        "enddate": "20260715",
+        "url": "/th?id=OHR.LemonShark_FR-FR4291742004_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LemonShark_FR-FR4291742004",
+        "copyright": "Jeune requin-citron dans la mangrove, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Requin+citron&form=hpcapt&filters=HpDate%3a%2220260714_2200%22",
+        "title": "Des racines et des zestes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260714_LemonShark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0b954865be022ddce889d8d303e04b44",
+        "hsh": "58fd90432c5aa534396abe1dd7078e5c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dans les eaux peu profondes d’Eleuthera, aux Bahamas, un jeune requin-citron glisse entre les racines entrelacées des mangroves. Ici, la lumière danse à la surface tandis que l’eau tiède filtre doucement entre ces arbres étonnants, dont les racines offrent un refuge à d’innombrables poissons, crustacés et juvéniles marins.",
+                "Image": {
+                    "Url": "/th?id=OHR.LemonShark_FR-FR4291742004_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LemonShark_FR-FR4291742004_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Des racines et des zestes",
+                "Title": "Jeune requin-citron dans la mangrove, Eleuthera, Bahamas",
+                "Copyright": "© Shane Gross/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Le requin-citron naît indépendant, capable de chasser seul dès sa sortie du ventre.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260715_LemonShark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Requin+citron&form=hpcapt&filters=HpDate:\"20260714_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260715_LemonShark"
+            },
+            "Ssd": "20260715",
+            "Name": "LemonShark",
+            "Market": "FR-FR",
+            "Hash": "4291742004",
+            "FullDateString": "15 juil. 2026"
+        }
+    },
+    {
         "startdate": "20260713",
         "fullstartdate": "202607132200",
         "enddate": "20260714",

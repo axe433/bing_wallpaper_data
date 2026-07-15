@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260714",
+        "fullstartdate": "202607142200",
+        "enddate": "20260715",
+        "url": "/th?id=OHR.MarieLake_IT-IT8390636002_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MarieLake_IT-IT8390636002",
+        "copyright": "Marie Lake, Area selvaggia John Muir vicino a Bishop, California, USA (© Steve Dunleavy/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Area+selvaggia+John+Muir&form=hpcapt",
+        "title": "La ricompensa dopo la scalata",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260714_MarieLake%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "14f94c1532e22ec768ae8ba6c69a7c7d",
+        "hsh": "d42b51e203e2cab943cfd298e869e684",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nell'Area selvaggia John Muir, vicino a Bishop, in California, la montagna racconta milioni di anni di storia attraverso valli, laghi e imponenti formazioni granitiche. Istituita nel 1964, questa vasta zona protetta si estende per oltre 263.000 ettari nella Sierra Nevada. Sentieri iconici come il Pacific Crest Trail attraversano questi paesaggi d'alta quota, offrendo un'esperienza che, per isolamento e natura intatta, può ricordare le aree più remote del Parco Nazionale dello Stelvio.",
+                "Image": {
+                    "Url": "/th?id=OHR.MarieLake_IT-IT8390636002_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MarieLake_IT-IT8390636002_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La ricompensa dopo la scalata",
+                "Title": "Marie Lake, Area selvaggia John Muir vicino a Bishop, California, USA",
+                "Copyright": "© Steve Dunleavy/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.97615,-118.812278/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=36.97615,-118.812278;S9;Area selvaggia John Muir, California, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260715_MarieLake\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Area+selvaggia+John+Muir&form=hpcapt&filters=HpDate:\"20260714_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260715_MarieLake"
+            },
+            "Ssd": "20260715",
+            "Name": "MarieLake",
+            "Market": "IT-IT",
+            "Hash": "8390636002",
+            "FullDateString": "15 luglio 2026"
+        }
+    },
+    {
         "startdate": "20260713",
         "fullstartdate": "202607132200",
         "enddate": "20260714",

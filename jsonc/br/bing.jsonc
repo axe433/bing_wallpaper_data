@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260714",
+        "fullstartdate": "202607140300",
+        "enddate": "20260715",
+        "url": "/th?id=OHR.LemonShark_PT-BR3191818241_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LemonShark_PT-BR3191818241",
+        "copyright": "Filhote de tubarão-limão em floresta de mangue, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+da+Conscientizacao+sobre+Tubaroes&form=hpcapt&mkt=pt-br",
+        "title": "O mar em modo incubadora",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260714_LemonShark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0b954865be022ddce889d8d303e04b44",
+        "hsh": "a0b2ff3e711f5d64d389a27a22af6b64",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Na ilha de Eleuthera, nas Bahamas, este pequeno tubarão-limão testa o mundo pela primeira vez, protegido por labirintos de raízes submersas. A espécie ocorre ao longo do Atlântico ocidental, do Caribe à América do Sul, em áreas como recifes de coral, manguezais, baías e desembocaduras de rios. No Brasil, alguns dos principais berçários conhecidos ficam em áreas oceânicas como Fernando de Noronha e o Atol das Rocas, onde filhotes encontram águas rasas que funcionam como refúgios naturais. Ali, ganham tempo para crescer antes de encarar mar aberto.",
+                "Image": {
+                    "Url": "/th?id=OHR.LemonShark_PT-BR3191818241_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LemonShark_PT-BR3191818241_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O mar em modo incubadora",
+                "Title": "Filhote de tubarão-limão em floresta de mangue, Eleuthera, Bahamas",
+                "Copyright": "© Shane Gross/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260714_LemonShark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dia+da+Conscientizacao+sobre+Tubaroes&form=hpcapt&filters=HpDate:\"20260714_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260714_LemonShark"
+            },
+            "Ssd": "20260714",
+            "Name": "LemonShark",
+            "Market": "PT-BR",
+            "Hash": "3191818241",
+            "FullDateString": "14 jul. 2026"
+        }
+    },
+    {
         "startdate": "20260713",
         "fullstartdate": "202607130300",
         "enddate": "20260714",

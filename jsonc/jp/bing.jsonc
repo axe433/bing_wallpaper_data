@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260714",
+        "fullstartdate": "202607141500",
+        "enddate": "20260715",
+        "url": "/th?id=OHR.MarieLake_JA-JP9898730602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MarieLake_JA-JP9898730602",
+        "copyright": "マリー・レイク, 米国 カリフォルニア州 (© Steve Dunleavy/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%82%A2%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%80%E3%83%8D%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220260714_1500%22",
+        "title": "山々に囲まれた湖",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260714_MarieLake%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "14f94c1532e22ec768ae8ba6c69a7c7d",
+        "hsh": "94139723b1d0d0b5bf070cb6b6eba153",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ジョン・ミュア・ウィルダネスは、1964 年に設立された約 2600km² の面積を誇る広大な原生自然の保護区域です。米国カリフォルニア州のシエラネバダ山脈中央部に位置しています。4000m を超える山々が連なる米国最大級の高地原生地域の一つであり、多くのハイカーを惹きつけています。そして、今日の画像は、保護区域内の標高約 3200m に位置するマリー・レイク。静かな高山湖として、バックパッカーに人気の撮影スポットです。",
+                "Image": {
+                    "Url": "/th?id=OHR.MarieLake_JA-JP9898730602_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MarieLake_JA-JP9898730602_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "山々に囲まれた湖",
+                "Title": "マリー・レイク, 米国 カリフォルニア州",
+                "Copyright": "© Steve Dunleavy/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.97615,-118.812278/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=36.97615,-118.812278;S9;ジョン・ミュア・ウィルダネス, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260715_MarieLake%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260715_MarieLake\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%83%bb%e3%83%9f%e3%83%a5%e3%82%a2%e3%83%bb%e3%82%a6%e3%82%a3%e3%83%ab%e3%83%80%e3%83%8d%e3%82%b9&form=hpcapt&filters=HpDate:\"20260714_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260715_MarieLake"
+            },
+            "Ssd": "20260715",
+            "Name": "MarieLake",
+            "Market": "JA-JP",
+            "Hash": "9898730602",
+            "FullDateString": "2026 年 7月 月 15 日"
+        }
+    },
+    {
         "startdate": "20260713",
         "fullstartdate": "202607131500",
         "enddate": "20260714",
