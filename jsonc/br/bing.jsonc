@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260715",
+        "fullstartdate": "202607150300",
+        "enddate": "20260716",
+        "url": "/th?id=OHR.Tanager_PT-BR3453059902_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Tanager_PT-BR3453059902",
+        "copyright": "Saíra-sete-cores pousada em um galho em São Paulo (© Juan Carlos Vindas/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=saira+sete+cores&form=hpcapt&mkt=pt-br",
+        "title": "Sete cores, zero discrição",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260715_Tanager%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "92ffb5308ada3a4a47cbfff4ca7569df",
+        "hsh": "e815f1c3ef152a2bf0fe26413071157b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Em boa parte do Brasil, julho é sinônimo de frio, neblina e tons discretos. A saíra-sete-cores vai na direção contrária. Verde, azul, turquesa, amarelo e toques de violeta se combinam em um corpo de pouco mais de 13 centímetros, que surge entre os galhos como um argumento vivo a favor da extravagância. Não à toa, ela é figura frequente em listas das aves mais bonitas do mundo.",
+                "Image": {
+                    "Url": "/th?id=OHR.Tanager_PT-BR3453059902_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Tanager_PT-BR3453059902_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Sete cores, zero discrição",
+                "Title": "Saíra-sete-cores pousada em um galho em São Paulo",
+                "Copyright": "© Juan Carlos Vindas/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260715_Tanager\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=saira+sete+cores&form=hpcapt&filters=HpDate:\"20260715_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260715_Tanager"
+            },
+            "Ssd": "20260715",
+            "Name": "Tanager",
+            "Market": "PT-BR",
+            "Hash": "3453059902",
+            "FullDateString": "15 jul. 2026"
+        }
+    },
+    {
         "startdate": "20260714",
         "fullstartdate": "202607140300",
         "enddate": "20260715",

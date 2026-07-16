@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260715",
+        "fullstartdate": "202607152200",
+        "enddate": "20260716",
+        "url": "/th?id=OHR.NavyPier_DE-DE6672447932_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NavyPier_DE-DE6672447932",
+        "copyright": "Navy Pier in Chicago, Illinois, USA (© Christopher.F Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Navy+Pier+Chicago+Vereinigte+Staaten&form=hpcapt&filters=HpDate%3a%2220260715_2200%22",
+        "title": "Ein Wahrzeichen Chicagos",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260715_NavyPier%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1b74e9a95c0be6698984389dc29aa01e",
+        "hsh": "637ec8b8ddaba2a65979ee6a6a1f2a65",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Der Navy Pier am Ufer des Michigansees in Chicago, USA, gilt als eines der bekanntesten Wahrzeichen der Stadt und steht exemplarisch für ihren Wandel. Seine Planung geht auf das Jahr 1909 zurück, als Daniel Burnham und Edward H. Bennett einen umfassenden Stadtplan entwickelten. Der Pier wurde 1916 eröffnet und diente zunächst als Umschlagplatz für Waren, als Anlegestelle für Passagiere sowie als Erholungsort für die Bevölkerung.",
+                "Image": {
+                    "Url": "/th?id=OHR.NavyPier_DE-DE6672447932_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NavyPier_DE-DE6672447932_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ein Wahrzeichen Chicagos",
+                "Title": "Navy Pier in Chicago, Illinois, USA",
+                "Copyright": "© Christopher.F Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.892227,-87.605187/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=41.892227,-87.605187;S9;Navy Pier in Chicago, Illinois, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260716_NavyPier\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Navy+Pier+Chicago+Vereinigte+Staaten&form=hpcapt&filters=HpDate:\"20260715_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260716_NavyPier"
+            },
+            "Ssd": "20260716",
+            "Name": "NavyPier",
+            "Market": "DE-DE",
+            "Hash": "6672447932",
+            "FullDateString": "16. Juli. 2026"
+        }
+    },
+    {
         "startdate": "20260714",
         "fullstartdate": "202607142200",
         "enddate": "20260715",

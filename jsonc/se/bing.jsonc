@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260715",
+        "fullstartdate": "202607150700",
+        "enddate": "20260716",
+        "url": "/th?id=OHR.MarieLake_ROW3037907828_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MarieLake_ROW3037907828",
+        "copyright": "Marie Lake, John Muir Wilderness near Bishop, California, United States (© Steve Dunleavy/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=John+Muir+Wilderness&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260715_MarieLake%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "14f94c1532e22ec768ae8ba6c69a7c7d",
+        "hsh": "204a494ebc4ecff1cfcc510494323d35",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "If mountains could keep a record of the past, the John Muir Wilderness near Bishop, California, would have plenty to share. Its valleys, lakes and granite formations reveal a history shaped over millions of years. Established in 1964, this vast protected area spans more than 2,630 square kilometres of the Sierra Nevada and is named after naturalist John Muir. Today, parts of the Pacific Crest Trail and John Muir Trail pass through the area, drawing hikers into one of the largest high-elevation wilderness regions in the contiguous United States.",
+                "Image": {
+                    "Url": "/th?id=OHR.MarieLake_ROW3037907828_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MarieLake_ROW3037907828_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Marie Lake, John Muir Wilderness near Bishop, California, United States",
+                "Copyright": "© Steve Dunleavy/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260715_MarieLake\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=John+Muir+Wilderness&form=hpcapt&filters=HpDate:\"20260715_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260715_MarieLake"
+            },
+            "Ssd": "20260715",
+            "Name": "MarieLake",
+            "Market": "ROW",
+            "Hash": "3037907828",
+            "FullDateString": "15 juli 2026"
+        }
+    },
+    {
         "startdate": "20260714",
         "fullstartdate": "202607140700",
         "enddate": "20260715",

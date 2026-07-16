@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260715",
+        "fullstartdate": "202607152200",
+        "enddate": "20260716",
+        "url": "/th?id=OHR.DeerGrass_FR-FR3634474861_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DeerGrass_FR-FR3634474861",
+        "copyright": "Cerf sika dans l’herbe, parc de Merlet, Haute-Savoie (© porojnicu/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=cerf+sika&form=hpcapt&filters=HpDate%3a%2220260715_2200%22",
+        "title": "Sieste estivale",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260715_DeerGrass%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f633a0a104d2be5aad71307e374ea4c3",
+        "hsh": "b478fdd10c9f3e7763f6a322ca2774b9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Perché à 1 563 mètres d'altitude au-dessus de Chamonix, le parc Merlet abrite une espèce venue d'Asie de l'Est : le cerf sika (Cervus nippon), introduit en Europe à la fin du XIXᵉ siècle à des fins d'élevage et d'agrément.",
+                "Image": {
+                    "Url": "/th?id=OHR.DeerGrass_FR-FR3634474861_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DeerGrass_FR-FR3634474861_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Sieste estivale",
+                "Title": "Cerf sika dans l’herbe, parc de Merlet, Haute-Savoie",
+                "Copyright": "© porojnicu/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.907714,6.818746/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=45.907714,6.818746;S9;Parc de Merlet, Haute-Savoie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260716_DeerGrass\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=cerf+sika&form=hpcapt&filters=HpDate:\"20260715_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260716_DeerGrass"
+            },
+            "Ssd": "20260716",
+            "Name": "DeerGrass",
+            "Market": "FR-FR",
+            "Hash": "3634474861",
+            "FullDateString": "16 juil. 2026"
+        }
+    },
+    {
         "startdate": "20260714",
         "fullstartdate": "202607142200",
         "enddate": "20260715",

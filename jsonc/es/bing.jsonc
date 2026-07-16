@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260715",
+        "fullstartdate": "202607152200",
+        "enddate": "20260716",
+        "url": "/th?id=OHR.NavyPier_ES-ES1489693745_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NavyPier_ES-ES1489693745",
+        "copyright": "Muelle de la Armada, Chicago, Illinois, EE. UU. (© Christopher.F Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Muelle+de+la+Armada+Chicago&form=hpcapt&filters=HpDate%3a%2220260715_2200%22",
+        "title": "Un camaleón en el puerto",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260715_NavyPier%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1b74e9a95c0be6698984389dc29aa01e",
+        "hsh": "1338483233d35d231a0107aad5c8e0ad",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En el Muelle de la Armada, en Chicago, Estados Unidos, una pasarela histórica se adentra más de 900 m en el lago Míchigan y muestra cómo un espacio puede reinventarse sin dejar atrás su pasado. Diseñado dentro del Plan de Chicago de 1909 y abierto en 1916, nació como punto estratégico para transporte, ocio y comercio, además de rendir homenaje a los veteranos navales de la Primera Guerra Mundial.",
+                "Image": {
+                    "Url": "/th?id=OHR.NavyPier_ES-ES1489693745_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NavyPier_ES-ES1489693745_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un camaleón en el puerto",
+                "Title": "Muelle de la Armada, Chicago, Illinois, EE. UU.",
+                "Copyright": "© Christopher.F Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.892227,-87.605187/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=41.892227,-87.605187;S9;Muelle de la Armada, Chicago, Illinois, EE. UU.&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260716_NavyPier\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Muelle+de+la+Armada+Chicago&form=hpcapt&filters=HpDate:\"20260715_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260716_NavyPier"
+            },
+            "Ssd": "20260716",
+            "Name": "NavyPier",
+            "Market": "ES-ES",
+            "Hash": "1489693745",
+            "FullDateString": "16 de jul de 2026"
+        }
+    },
+    {
         "startdate": "20260714",
         "fullstartdate": "202607142200",
         "enddate": "20260715",
