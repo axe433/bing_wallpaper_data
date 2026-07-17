@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260717",
+        "fullstartdate": "202607170400",
+        "enddate": "20260718",
+        "url": "/th?id=OHR.GrainSilosSK_EN-CA7421778186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrainSilosSK_EN-CA7421778186",
+        "copyright": "A prairie storm gathers over grain silos in Saskatchewan (© mysticenergy/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Saskatchewan&form=hpcapt&filters=HpDate%3a%2220260717_0400%22",
+        "title": "The breadbasket of Canada",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260717_GrainSilosSK%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c8c0b924f8e83a84fcfaf6636e78b87f",
+        "hsh": "c72a3c3df06c15b664fc27b97e3bf517",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Picture a farmer watching dark clouds build over the Saskatchewan plains. The crops have already been harvested, but the weather still matters. Where does the grain go next? Often, into grain elevators and storage bins beside fields and railway lines, where it stays protected from rain, moisture and the powerful prairie storms that can arrive with little warning. These storage structures have supported Saskatchewan agriculture for generations, helping to preserve grain quality until it is ready for transport or sale. This is one reason the province has earned the nickname 'Canada's breadbasket.'",
+                "Image": {
+                    "Url": "/th?id=OHR.GrainSilosSK_EN-CA7421778186_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GrainSilosSK_EN-CA7421778186_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "The breadbasket of Canada",
+                "Title": "A prairie storm gathers over grain silos in Saskatchewan",
+                "Copyright": "© mysticenergy/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "In 2025, Saskatchewan produced 92 per cent of Canada's chickpeas.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260717_GrainSilosSK\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Saskatchewan&form=hpcapt&filters=HpDate:\"20260717_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260717_GrainSilosSK"
+            },
+            "Ssd": "20260717",
+            "Name": "GrainSilosSK",
+            "Market": "EN-CA",
+            "Hash": "7421778186",
+            "FullDateString": "Jul 17, 2026"
+        }
+    },
+    {
         "startdate": "20260716",
         "fullstartdate": "202607160400",
         "enddate": "20260717",

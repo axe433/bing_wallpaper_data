@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260717",
+        "fullstartdate": "202607172300",
+        "enddate": "20260718",
+        "url": "/th?id=OHR.DevilsBridge_EN-GB3657419694_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DevilsBridge_EN-GB3657419694",
+        "copyright": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Devils+Bridge+Kromlau&form=hpcapt&filters=HpDate%3a%2220260717_2300%22",
+        "title": "Going full circle",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260717_DevilsBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0599daee6b0149a1e00232856773b30a",
+        "hsh": "4a26f5b1d4221ab328dd4b21f70f2e9a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from locally sourced volcanic stone, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
+                "Image": {
+                    "Url": "/th?id=OHR.DevilsBridge_EN-GB3657419694_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DevilsBridge_EN-GB3657419694_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Going full circle",
+                "Title": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany",
+                "Copyright": "© Mike Mareen/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.53661,14.640453/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=51.53661,14.640453;S9;Devil's Bridge, Kromlau, Saxony, Germany&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260718_DevilsBridge\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Devils+Bridge+Kromlau&form=hpcapt&filters=HpDate:\"20260717_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260718_DevilsBridge"
+            },
+            "Ssd": "20260718",
+            "Name": "DevilsBridge",
+            "Market": "EN-GB",
+            "Hash": "3657419694",
+            "FullDateString": "18 Jul 2026"
+        }
+    },
+    {
         "startdate": "20260716",
         "fullstartdate": "202607162300",
         "enddate": "20260717",

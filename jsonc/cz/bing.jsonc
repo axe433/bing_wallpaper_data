@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260717",
+        "fullstartdate": "202607170700",
+        "enddate": "20260718",
+        "url": "/th?id=OHR.VaiUmbrellas_ROW3620558002_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VaiUmbrellas_ROW3620558002",
+        "copyright": "Blue sunbeds on a sandy beach in Vai, Crete, Greece (© borchee/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Crete+Greece&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260717_VaiUmbrellas%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "84f5c1a034bcc194bdeeb17915223e0f",
+        "hsh": "d1f1fc09c3b01d45b323612864de602d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "On the remote northeastern tip of Crete, Greece, lies a quiet corner far from typical tourist routes. Today's image shows Vai Beach, a broad curve of golden sand bordered by calm, shallow waters of the Aegean Sea. With sunbeds, umbrellas and showers, it's ideal for swimming, relaxing or enjoying the peaceful atmosphere. But what truly sets Vai apart is just beyond the sand: Europe's largest natural palm grove. It consists of more than 5,000 Cretan date palm trees, a species native to Crete and parts of Turkey.",
+                "Image": {
+                    "Url": "/th?id=OHR.VaiUmbrellas_ROW3620558002_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VaiUmbrellas_ROW3620558002_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Blue sunbeds on a sandy beach in Vai, Crete, Greece",
+                "Copyright": "© borchee/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260717_VaiUmbrellas\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Crete+Greece&form=hpcapt&filters=HpDate:\"20260717_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260717_VaiUmbrellas"
+            },
+            "Ssd": "20260717",
+            "Name": "VaiUmbrellas",
+            "Market": "ROW",
+            "Hash": "3620558002",
+            "FullDateString": "17. Jul rrrr"
+        }
+    },
+    {
         "startdate": "20260716",
         "fullstartdate": "202607160700",
         "enddate": "20260717",

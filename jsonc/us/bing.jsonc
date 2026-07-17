@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260717",
+        "fullstartdate": "202607170700",
+        "enddate": "20260718",
+        "url": "/th?id=OHR.VaiUmbrellas_EN-US8985051242_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VaiUmbrellas_EN-US8985051242",
+        "copyright": "Sunbeds on the beach at Vai, Crete, Greece (© borchee/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Crete+Greece&form=hpcapt&filters=HpDate%3a%2220260717_0700%22",
+        "title": "A Greek escape",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260717_VaiUmbrellas%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "84f5c1a034bcc194bdeeb17915223e0f",
+        "hsh": "6650bf41fb3dfbac9b3f76fc00d1b8c3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "On the remote northeastern tip of the island of Crete in Greece lies Vai—a quiet corner far from the usual tourist trail. At the heart of this region is its beach, a broad curve of golden sand kissed by the calm, shallow waters of the Aegean. With sunbeds, umbrellas, and showers, it's an ideal spot for swimming, relaxing, or simply soaking in the peaceful atmosphere. But what truly sets Vai apart lies just behind the sand: Europe's largest natural palm grove. It is made up of over 5,000 Cretan date palm trees, a species unique to Crete and parts of Türkiye.",
+                "Image": {
+                    "Url": "/th?id=OHR.VaiUmbrellas_EN-US8985051242_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VaiUmbrellas_EN-US8985051242_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A Greek escape",
+                "Title": "Sunbeds on the beach at Vai, Crete, Greece",
+                "Copyright": "© borchee/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.30972,24.89333/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=35.30972,24.89333;S9;Crete&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260717_VaiUmbrellas\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Crete+Greece&form=hpcapt&filters=HpDate:\"20260717_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260717_VaiUmbrellas"
+            },
+            "Ssd": "20260717",
+            "Name": "VaiUmbrellas",
+            "Market": "EN-US",
+            "Hash": "8985051242",
+            "FullDateString": "Jul 17, 2026"
+        }
+    },
+    {
         "startdate": "20260716",
         "fullstartdate": "202607160700",
         "enddate": "20260717",

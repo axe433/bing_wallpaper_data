@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260717",
+        "fullstartdate": "202607172200",
+        "enddate": "20260718",
+        "url": "/th?id=OHR.FestaVenezia_IT-IT8709585056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FestaVenezia_IT-IT8709585056",
+        "copyright": "Le case colorate di Burano, Venezia, Veneto, Italia (© Nick Brundle Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Burano+Venezia&form=hpcapt",
+        "title": "L'isola colorata di Venezia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260717_FestaVenezia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f36d61d320cd8923a20f7da530734d02",
+        "hsh": "d285913348dec36e43a4e57564f9144a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Burano, Italia, incanta con le sue case dai colori vivaci che si riflettono nei canali, un’isola della Laguna di Venezia che sembra uscita da una fiaba. A pochi minuti da Venezia, questo villaggio di pescatori conserva una tradizione secolare di merletti fatti a mano e un ritmo lento, tra botteghe artigiane e piccoli caffè. Chi ama borghi autentici ritrova la stessa atmosfera anche in luoghi italiani come Chioggia, dove il legame con l’acqua scandisce la vita quotidiana.",
+                "Image": {
+                    "Url": "/th?id=OHR.FestaVenezia_IT-IT8709585056_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FestaVenezia_IT-IT8709585056_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "L'isola colorata di Venezia",
+                "Title": "Le case colorate di Burano, Venezia, Veneto, Italia",
+                "Copyright": "© Nick Brundle Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.485481,12.417399/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=45.485481,12.417399;S9;Burano, Venezia, Veneto, Italia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260718_FestaVenezia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Burano+Venezia&form=hpcapt&filters=HpDate:\"20260717_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260718_FestaVenezia"
+            },
+            "Ssd": "20260718",
+            "Name": "FestaVenezia",
+            "Market": "IT-IT",
+            "Hash": "8709585056",
+            "FullDateString": "18 luglio 2026"
+        }
+    },
+    {
         "startdate": "20260716",
         "fullstartdate": "202607162200",
         "enddate": "20260717",
