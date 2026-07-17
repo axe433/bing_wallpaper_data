@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260716",
+        "fullstartdate": "202607160700",
+        "enddate": "20260717",
+        "url": "/th?id=OHR.NavyPier_ROW3320288892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NavyPier_ROW3320288892",
+        "copyright": "Navy Pier, Chicago, Illinois, United States (© Christopher.F Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Navy+Pier+Chicago&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260716_NavyPier%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1b74e9a95c0be6698984389dc29aa01e",
+        "hsh": "7737477015ed408722e2fa4ba4f61091",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Some places are built for a single purpose; others keep reinventing themselves. Navy Pier in Chicago, Illinois, United States, falls into the second category. The structure stretches more than 915 metres into the lake and was designed as part of Edward H. Bennett's and Daniel Burnham's 1909 Plan of Chicago. Opened in 1916, the pier was built for shipping, recreation and passenger travel on Lake Michigan. It was renamed Navy Pier in honour of World War I naval veterans.",
+                "Image": {
+                    "Url": "/th?id=OHR.NavyPier_ROW3320288892_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NavyPier_ROW3320288892_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Navy Pier, Chicago, Illinois, United States",
+                "Copyright": "© Christopher.F Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260716_NavyPier\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Navy+Pier+Chicago&form=hpcapt&filters=HpDate:\"20260716_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260716_NavyPier"
+            },
+            "Ssd": "20260716",
+            "Name": "NavyPier",
+            "Market": "ROW",
+            "Hash": "3320288892",
+            "FullDateString": "2026 年 7月 月 16 日"
+        }
+    },
+    {
         "startdate": "20260715",
         "fullstartdate": "202607150700",
         "enddate": "20260716",

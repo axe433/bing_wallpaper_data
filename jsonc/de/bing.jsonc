@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260716",
+        "fullstartdate": "202607162200",
+        "enddate": "20260717",
+        "url": "/th?id=OHR.VaiUmbrellas_DE-DE2887576952_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VaiUmbrellas_DE-DE2887576952",
+        "copyright": "Liegestühle am Sandstrand von Vai, Kreta, Griechenland (© borchee/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Kreta+Griechenland&form=hpcapt&filters=HpDate%3a%2220260716_2200%22",
+        "title": "Karibik-Flair im Mittelmeer",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260716_VaiUmbrellas%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "84f5c1a034bcc194bdeeb17915223e0f",
+        "hsh": "aecd510251658bb7c08844219f2dca53",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Im Osten der griechischen Insel Kreta liegt ein echtes Naturparadies: Vai. Der idyllische Küstenort, 94 Kilometer östlich von Agios Nikolaos und 24 Kilometer von Sitia entfernt, begeistert mit hellem Sand, türkisfarbenem Wasser und mediterranem Flair. Auf unserem heutigen Bild setzen die in Reihen angeordneten blauen Sonnenschirme farbenfrohe Akzente auf dem goldenen Sand und vermitteln die entspannte Atmosphäre dieses beliebten Strandes. Besonders beeindruckend ist der natürliche Palmenhain mit mehr als 5.000 kretischen Dattelpalmen – der größte seiner Art in Europa. Einer Legende zufolge wuchsen die Palmen aus Dattelkernen, die Piraten hier einst zurückließen.",
+                "Image": {
+                    "Url": "/th?id=OHR.VaiUmbrellas_DE-DE2887576952_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VaiUmbrellas_DE-DE2887576952_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Karibik-Flair im Mittelmeer",
+                "Title": "Liegestühle am Sandstrand von Vai, Kreta, Griechenland",
+                "Copyright": "© borchee/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.30972,24.89333/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=35.30972,24.89333;S9;Kreta, Griechenland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=crete%20greece&satid=id.sid%3Aa898a116-f402-c866-449a-1e49d7c0585b&vdpid=7247538364818128897&mb=36.013862~23.514471~34.598793~26.318979&cardbg=%23F98745&dt=1749198600000&tt=Crete%2C%20Crete%2C%20Greece&tsts0=%2526ty%253D30%2526q%253Dcrete%252520greece%2526satid%253Did.sid%25253Aa898a116-f402-c866-449a-1e49d7c0585b%2526vdpid%253D7247538364818128897%2526mb%253D36.013862~23.514471~34.598793~26.318979%2526cardbg%253D%252523F98745%2526dt%253D1749198600000&tstt0=Crete%2C%20Crete%2C%20Greece&cp=34.85975~13.56328&lvl=4.98&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260717_VaiUmbrellas\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Kreta+Griechenland&form=hpcapt&filters=HpDate:\"20260716_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260717_VaiUmbrellas"
+            },
+            "Ssd": "20260717",
+            "Name": "VaiUmbrellas",
+            "Market": "DE-DE",
+            "Hash": "2887576952",
+            "FullDateString": "17. Juli. 2026"
+        }
+    },
+    {
         "startdate": "20260715",
         "fullstartdate": "202607152200",
         "enddate": "20260716",

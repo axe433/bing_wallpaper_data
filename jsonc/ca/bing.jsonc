@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260716",
+        "fullstartdate": "202607160400",
+        "enddate": "20260717",
+        "url": "/th?id=OHR.NavyPier_EN-CA7051482723_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NavyPier_EN-CA7051482723",
+        "copyright": "Navy Pier, Chicago, Illinois, United States (© Christopher.F Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Navy+Pier+Chicago&form=hpcapt&filters=HpDate%3a%2220260716_0400%22",
+        "title": "A waterfront chameleon",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260716_NavyPier%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1b74e9a95c0be6698984389dc29aa01e",
+        "hsh": "57a2fd5fc2c185387924f8d4b2669d37",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Some places are built for a single purpose; others keep reinventing themselves. Navy Pier in Chicago, Illinois, United States, falls into the second category. The structure stretches more than 915 metres into the lake and was designed as part of Edward H. Bennett's and Daniel Burnham's 1909 Plan of Chicago. Opened in 1916, the pier was built for shipping, recreation and passenger travel on Lake Michigan. It was renamed Navy Pier in honour of World War I naval veterans.",
+                "Image": {
+                    "Url": "/th?id=OHR.NavyPier_EN-CA7051482723_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NavyPier_EN-CA7051482723_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A waterfront chameleon",
+                "Title": "Navy Pier, Chicago, Illinois, United States",
+                "Copyright": "© Christopher.F Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.892227,-87.605187/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=41.892227,-87.605187;S9;Navy Pier, Chicago, Illinois, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260716_NavyPier\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Navy+Pier+Chicago&form=hpcapt&filters=HpDate:\"20260716_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260716_NavyPier"
+            },
+            "Ssd": "20260716",
+            "Name": "NavyPier",
+            "Market": "EN-CA",
+            "Hash": "7051482723",
+            "FullDateString": "Jul 16, 2026"
+        }
+    },
+    {
         "startdate": "20260715",
         "fullstartdate": "202607150400",
         "enddate": "20260716",

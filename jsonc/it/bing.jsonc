@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260716",
+        "fullstartdate": "202607162200",
+        "enddate": "20260717",
+        "url": "/th?id=OHR.VaiUmbrellas_IT-IT8454370780_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VaiUmbrellas_IT-IT8454370780",
+        "copyright": "Ombrelloni blu su una spiaggia sabbiosa a Vai, Creta, Grecia (© borchee/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=L%27isola+Creta+Grecia&form=hpcapt",
+        "title": "Hellas e Geometria",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260716_VaiUmbrellas%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "84f5c1a034bcc194bdeeb17915223e0f",
+        "hsh": "a496b9aaf9660f3ebad5b273d93722f2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nel nord-est di Creta, la spiaggia di Vai si distingue dall'alto per un dettaglio sorprendente: file ordinate di ombrelloni azzurri che punteggiano una mezzaluna di sabbia dorata lambita dalle acque calme dell'Egeo. Appena oltre la riva, si estende la più grande palmaia naturale d'Europa, con oltre cinquemila palme da dattero cretesi, specie endemica dell'isola.",
+                "Image": {
+                    "Url": "/th?id=OHR.VaiUmbrellas_IT-IT8454370780_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VaiUmbrellas_IT-IT8454370780_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Hellas e Geometria",
+                "Title": "Ombrelloni blu su una spiaggia sabbiosa a Vai, Creta, Grecia",
+                "Copyright": "© borchee/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.30972,24.89333/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=35.30972,24.89333;S9;Spiaggia di Vai, Creta, Grecia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=crete%20greece&satid=id.sid%3Aa898a116-f402-c866-449a-1e49d7c0585b&vdpid=7247538364818128897&mb=36.013862~23.514471~34.598793~26.318979&cardbg=%23F98745&dt=1749198600000&tt=Crete%2C%20Crete%2C%20Greece&tsts0=%2526ty%253D30%2526q%253Dcrete%252520greece%2526satid%253Did.sid%25253Aa898a116-f402-c866-449a-1e49d7c0585b%2526vdpid%253D7247538364818128897%2526mb%253D36.013862~23.514471~34.598793~26.318979%2526cardbg%253D%252523F98745%2526dt%253D1749198600000&tstt0=Crete%2C%20Crete%2C%20Greece&cp=34.85975~13.56328&lvl=4.98&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260717_VaiUmbrellas\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=L%27isola+Creta+Grecia&form=hpcapt&filters=HpDate:\"20260716_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260717_VaiUmbrellas"
+            },
+            "Ssd": "20260717",
+            "Name": "VaiUmbrellas",
+            "Market": "IT-IT",
+            "Hash": "8454370780",
+            "FullDateString": "17 luglio 2026"
+        }
+    },
+    {
         "startdate": "20260715",
         "fullstartdate": "202607152200",
         "enddate": "20260716",

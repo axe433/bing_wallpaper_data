@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260716",
+        "fullstartdate": "202607160300",
+        "enddate": "20260717",
+        "url": "/th?id=OHR.NavyPier_PT-BR4218227814_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NavyPier_PT-BR4218227814",
+        "copyright": "Navy Pier, Chicago, Illinois, Estados Unidos (© Christopher.F Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Navy+Pier+Estados+Unidos&form=hpcapt&mkt=pt-br",
+        "title": "Um cais camaleônico",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260716_NavyPier%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1b74e9a95c0be6698984389dc29aa01e",
+        "hsh": "aa3a12af9dc4d0639d22a40fbba48881",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "O Navy Pier, em Chicago, tem um currículo que poucos lugares conseguem igualar. Avançando mais de 1 quilômetro sobre as águas do Lago Michigan, ele foi inaugurado em 1916 como um dos maiores píeres do mundo. Recebia cargas, passageiros e atividades de lazer em uma cidade que crescia diante de um dos Grandes Lagos.",
+                "Image": {
+                    "Url": "/th?id=OHR.NavyPier_PT-BR4218227814_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NavyPier_PT-BR4218227814_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Um cais camaleônico",
+                "Title": "Navy Pier, Chicago, Illinois, Estados Unidos",
+                "Copyright": "© Christopher.F Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260716_NavyPier\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Navy+Pier+Estados+Unidos&form=hpcapt&filters=HpDate:\"20260716_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260716_NavyPier"
+            },
+            "Ssd": "20260716",
+            "Name": "NavyPier",
+            "Market": "PT-BR",
+            "Hash": "4218227814",
+            "FullDateString": "16 jul. 2026"
+        }
+    },
+    {
         "startdate": "20260715",
         "fullstartdate": "202607150300",
         "enddate": "20260716",

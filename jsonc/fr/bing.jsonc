@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260716",
+        "fullstartdate": "202607162200",
+        "enddate": "20260717",
+        "url": "/th?id=OHR.VaiUmbrellas_FR-FR3414218342_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VaiUmbrellas_FR-FR3414218342",
+        "copyright": "Chaises longues sur la plage de Vaï, Crète, Grèce (© borchee/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Cr%C3%A8te&form=hpcapt&filters=HpDate%3a%2220260716_2200%22",
+        "title": "Quand l’évasion rime avec préservation",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260716_VaiUmbrellas%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "84f5c1a034bcc194bdeeb17915223e0f",
+        "hsh": "6ca5b1b0141cdfb1a34af72bb4b578b4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sur la pointe nord‑est de la Crète, loin de l’agitation touristique, la plage de Vaï déroule son croissant de sable doré, ses eaux turquoise et ses rangées de parasols qui invitent à la détente. Derrière ce décor se cache pourtant un trésor unique en Europe : la plus grande palmeraie de palmiers dattiers du continent, avec plus de 5 000 Phoenix theophrasti, une espèce endémique. Selon la légende, cette oasis serait née des noyaux jetés par des pirates arabes ou des soldats égyptiens.",
+                "Image": {
+                    "Url": "/th?id=OHR.VaiUmbrellas_FR-FR3414218342_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VaiUmbrellas_FR-FR3414218342_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Quand l'évasion rime avec préservation",
+                "Title": "Chaises longues sur la plage de Vaï, Crète, Grèce",
+                "Copyright": "© borchee/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.30972,24.89333/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=35.30972,24.89333;S9;Crète, Grèce&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/maps?ty=30&q=crete%20greece&satid=id.sid%3Aa898a116-f402-c866-449a-1e49d7c0585b&vdpid=7247538364818128897&mb=36.013862~23.514471~34.598793~26.318979&cardbg=%23F98745&dt=1749198600000&tt=Crete%2C%20Crete%2C%20Greece&tsts0=%2526ty%253D30%2526q%253Dcrete%252520greece%2526satid%253Did.sid%25253Aa898a116-f402-c866-449a-1e49d7c0585b%2526vdpid%253D7247538364818128897%2526mb%253D36.013862~23.514471~34.598793~26.318979%2526cardbg%253D%252523F98745%2526dt%253D1749198600000&tstt0=Crete%2C%20Crete%2C%20Greece&cp=34.85975~13.56328&lvl=4.98&pi=0&ftst=0&ftics=False&v=2&sV=2&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260717_VaiUmbrellas\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Cr%c3%a8te&form=hpcapt&filters=HpDate:\"20260716_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260717_VaiUmbrellas"
+            },
+            "Ssd": "20260717",
+            "Name": "VaiUmbrellas",
+            "Market": "FR-FR",
+            "Hash": "3414218342",
+            "FullDateString": "17 juil. 2026"
+        }
+    },
+    {
         "startdate": "20260715",
         "fullstartdate": "202607152200",
         "enddate": "20260716",
