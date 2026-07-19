@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260718",
+        "fullstartdate": "202607180700",
+        "enddate": "20260719",
+        "url": "/th?id=OHR.DevilsBridge_ROW3900508213_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DevilsBridge_ROW3900508213",
+        "copyright": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Devils+Bridge+Kromlau&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260718_DevilsBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0599daee6b0149a1e00232856773b30a",
+        "hsh": "dd730e76c6c4cb15dff72713cf8a1a70",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Reflected in still water, the Rakotzbrücke—commonly known as the Devil's Bridge—forms a near-perfect stone circle in Saxony, Germany. Commissioned in 1860, the narrow basalt structure was carefully engineered so that its arch and reflection align to form a seamless ring when the lake is still. Made from basalt, a volcanic rock, it reflects precise design rather than practical function, its striking geometry intended purely for visual effect. A popular photo subject, it has also appeared in films, including 'The Matrix Resurrections' (2021). Today, the fragile bridge can only be admired from the shore, as crossing is prohibited to preserve it.",
+                "Image": {
+                    "Url": "/th?id=OHR.DevilsBridge_ROW3900508213_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DevilsBridge_ROW3900508213_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany",
+                "Copyright": "© Mike Mareen/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260718_DevilsBridge\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Devils+Bridge+Kromlau&form=hpcapt&filters=HpDate:\"20260718_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260718_DevilsBridge"
+            },
+            "Ssd": "20260718",
+            "Name": "DevilsBridge",
+            "Market": "ROW",
+            "Hash": "3900508213",
+            "FullDateString": "18. Jul rrrr"
+        }
+    },
+    {
         "startdate": "20260717",
         "fullstartdate": "202607170700",
         "enddate": "20260718",

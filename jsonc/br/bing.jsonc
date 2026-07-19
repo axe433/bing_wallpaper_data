@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260718",
+        "fullstartdate": "202607180300",
+        "enddate": "20260719",
+        "url": "/th?id=OHR.DevilsBridge_PT-BR5443302606_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DevilsBridge_PT-BR5443302606",
+        "copyright": "Ponte do Diabo no Parque dos Rododendros de Kromlau, Saxônia, Alemanha (© Mike Mareen/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ponte+do+Diabo+Rakotzbr%C3%BCcke&form=hpcapt&mkt=pt-br",
+        "title": "A arte de fechar o círculo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260718_DevilsBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0599daee6b0149a1e00232856773b30a",
+        "hsh": "52e0916bc1039b38f1d0c5012e347d62",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A Rakotzbrücke parece ter sido construída por alguém que acordou com uma missão muito específica: transformar um lago em ilusão de ótica. A ponte vista na imagem, erguida com pedras vulcânicas em 1860, não foi feita para encurtar caminhos, mas para produzir uma das ilusões mais famosas da Alemanha.",
+                "Image": {
+                    "Url": "/th?id=OHR.DevilsBridge_PT-BR5443302606_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DevilsBridge_PT-BR5443302606_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A arte de fechar o círculo",
+                "Title": "Ponte do Diabo no Parque dos Rododendros de Kromlau, Saxônia, Alemanha",
+                "Copyright": "© Mike Mareen/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260718_DevilsBridge\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ponte+do+Diabo+Rakotzbr%c3%bccke&form=hpcapt&filters=HpDate:\"20260718_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260718_DevilsBridge"
+            },
+            "Ssd": "20260718",
+            "Name": "DevilsBridge",
+            "Market": "PT-BR",
+            "Hash": "5443302606",
+            "FullDateString": "18 jul. 2026"
+        }
+    },
+    {
         "startdate": "20260717",
         "fullstartdate": "202607170300",
         "enddate": "20260718",

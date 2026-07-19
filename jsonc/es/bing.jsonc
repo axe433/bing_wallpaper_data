@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260718",
+        "fullstartdate": "202607182200",
+        "enddate": "20260719",
+        "url": "/th?id=OHR.HirundoRustica_ES-ES1865458756_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HirundoRustica_ES-ES1865458756",
+        "copyright": "Golondrinas descansando juntas (© Oscar Dominguez/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Golondrinas&form=hpcapt&filters=HpDate%3a%2220260718_2200%22",
+        "title": "Reposando el aleteo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260718_HirundoRustica%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f136aebe702bfcea4965ec03ecfb0845",
+        "hsh": "3cdb114a81ee76be038bfd7abc300507",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En estas golondrinas comunes, posadas sobre juncos en algún humedal de Europa, la quietud resulta casi sorprendente en aves hechas para el vuelo constante. Reconocibles por sus colas ahorquilladas y su agilidad en el aire, pasan la mayor parte de su vida cazando insectos mientras surcan el cielo, en un equilibrio perfecto entre velocidad y precisión.",
+                "Image": {
+                    "Url": "/th?id=OHR.HirundoRustica_ES-ES1865458756_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HirundoRustica_ES-ES1865458756_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Reposando el aleteo",
+                "Title": "Golondrinas descansando juntas",
+                "Copyright": "© Oscar Dominguez/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260719_HirundoRustica\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Golondrinas&form=hpcapt&filters=HpDate:\"20260718_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260719_HirundoRustica"
+            },
+            "Ssd": "20260719",
+            "Name": "HirundoRustica",
+            "Market": "ES-ES",
+            "Hash": "1865458756",
+            "FullDateString": "19 de jul de 2026"
+        }
+    },
+    {
         "startdate": "20260717",
         "fullstartdate": "202607172200",
         "enddate": "20260718",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260718",
+        "fullstartdate": "202607182200",
+        "enddate": "20260719",
+        "url": "/th?id=OHR.HirundoRustica_FR-FR5403619513_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HirundoRustica_FR-FR5403619513",
+        "copyright": "Hirondelles rustiques de différentes sous-espèces se reposant ensemble (© Oscar Dominguez/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=hirondelle+rustique&form=hpcapt&filters=HpDate%3a%2220260718_2200%22",
+        "title": "Ailes de repos",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260718_HirundoRustica%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f136aebe702bfcea4965ec03ecfb0845",
+        "hsh": "159f83c722957a918c1c9fd4e6e65b66",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Perchées sur de fines tiges de roseaux, des hirondelles rustiques s’accordent une pause étonnamment immobile. Leur silhouette légère contraste avec la fulgurance habituelle de leur vol, fait de virages serrés et de poursuites aériennes au‑dessus des champs et des plans d’eau. Ici, dans ce calme suspendu, elles semblent écouter le silence.",
+                "Image": {
+                    "Url": "/th?id=OHR.HirundoRustica_FR-FR5403619513_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HirundoRustica_FR-FR5403619513_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ailes de repos",
+                "Title": "Hirondelles rustiques de différentes sous-espèces se reposant ensemble",
+                "Copyright": "© Oscar Dominguez/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Les hirondelles rustiques parcourent chaque année des milliers de kilomètres entre leurs zones de reproduction et d’hivernage.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260719_HirundoRustica\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=hirondelle+rustique&form=hpcapt&filters=HpDate:\"20260718_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260719_HirundoRustica"
+            },
+            "Ssd": "20260719",
+            "Name": "HirundoRustica",
+            "Market": "FR-FR",
+            "Hash": "5403619513",
+            "FullDateString": "19 juil. 2026"
+        }
+    },
+    {
         "startdate": "20260717",
         "fullstartdate": "202607172200",
         "enddate": "20260718",

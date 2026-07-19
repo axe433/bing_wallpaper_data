@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260718",
+        "fullstartdate": "202607181600",
+        "enddate": "20260719",
+        "url": "/th?id=OHR.HirundoRustica_ZH-CN2798518247_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HirundoRustica_ZH-CN2798518247",
+        "copyright": "不同亚种的家燕聚在一起休息 (© Oscar Dominguez/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%AE%B6%E7%87%95&form=hpcapt&mkt=zh-cn",
+        "title": "敛羽栖时",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260718_HirundoRustica%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f136aebe702bfcea4965ec03ecfb0845",
+        "hsh": "ef758ac23a9da9f9c491b1830a271c16",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "一群家燕栖息在纤细的芦苇上，在片刻的宁静中聚集，与其往常疾速的身影形成了鲜明对比。这些鸟类以迅捷且极具灵动性的飞行能力及标志性的深叉状尾羽著称，其生理构造天生便高度适应不间断的飞行生活。它们能在半空中精准捕食昆虫，并在各大洲之间长途跋涉。羽色与斑纹的细微差异暗示此处可能聚集了多个亚种，这有力地证明了家燕广泛的全球分布范围。",
+                "Image": {
+                    "Url": "/th?id=OHR.HirundoRustica_ZH-CN2798518247_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HirundoRustica_ZH-CN2798518247_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "敛羽栖时",
+                "Title": "不同亚种的家燕聚在一起休息",
+                "Copyright": "© Oscar Dominguez/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "家燕每年在繁殖地与越冬地之间往返迁徙，其行程可达数千英里。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260719_HirundoRustica\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%ae%b6%e7%87%95&form=hpcapt&filters=HpDate:\"20260718_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260719_HirundoRustica"
+            },
+            "Ssd": "20260719",
+            "Name": "HirundoRustica",
+            "Market": "ZH-CN",
+            "Hash": "2798518247",
+            "FullDateString": "2026 7月 19"
+        }
+    },
+    {
         "startdate": "20260717",
         "fullstartdate": "202607171600",
         "enddate": "20260718",
