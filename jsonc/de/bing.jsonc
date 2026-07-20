@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260719",
+        "fullstartdate": "202607192200",
+        "enddate": "20260720",
+        "url": "/th?id=OHR.Artemis_DE-DE7510070152_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Artemis_DE-DE7510070152",
+        "copyright": "Mond und Erde, aufgenommen von der Artemis-II-Crew (© NASA)",
+        "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+des+Mondes&form=hpcapt&filters=HpDate%3a%2220260719_2200%22",
+        "title": "Aus der Perspektive des Mondes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260719_Artemis%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0dc8624c647cb545f8b791f0707b3ceb",
+        "hsh": "38cebf1f767bea0003e76fa23958ac5b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ein Blick vom Mond aus eröffnet eine ungewohnte Perspektive: Die Erde erscheint dort lediglich als schmale, leuchtende Sichel vor dem dunklen Hintergrund des Alls. Die von Kratern übersäte Mondoberfläche ist das Ergebnis von Milliarden Jahren kosmischer Einschläge und bewahrt Spuren aus der Frühzeit des Sonnensystems. Am 20. Juli wird der Internationale Mondtag begangen. Er erinnert an die Apollo-11-Landung von 1969, als erstmals Menschen den Mond betraten. Die Vereinten Nationen führten den Gedenktag 2021 ein, um sowohl historische Errungenschaften als auch die fortlaufende Erforschung des Mondes in den Fokus zu rücken.",
+                "Image": {
+                    "Url": "/th?id=OHR.Artemis_DE-DE7510070152_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Artemis_DE-DE7510070152_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Aus der Perspektive des Mondes",
+                "Title": "Mond und Erde, aufgenommen von der Artemis-II-Crew",
+                "Copyright": "© NASA",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Der Mond rotiert mit derselben Geschwindigkeit um seine eigene Achse, mit der er die Erde umkreist. Deshalb sehen wir von der Erde aus immer dieselbe Seite des Mondes.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260720_Artemis\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Internationaler+Tag+des+Mondes&form=hpcapt&filters=HpDate:\"20260719_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260720_Artemis"
+            },
+            "Ssd": "20260720",
+            "Name": "Artemis",
+            "Market": "DE-DE",
+            "Hash": "7510070152",
+            "FullDateString": "20. Juli. 2026"
+        }
+    },
+    {
         "startdate": "20260718",
         "fullstartdate": "202607182200",
         "enddate": "20260719",

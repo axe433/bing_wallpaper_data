@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260719",
+        "fullstartdate": "202607192200",
+        "enddate": "20260720",
+        "url": "/th?id=OHR.Artemis_IT-IT9087187961_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Artemis_IT-IT9087187961",
+        "copyright": "Luna e Terra catturate dall'equipaggio di Artemis II (© NASA)",
+        "copyrightlink": "https://www.bing.com/search?q=Giornata+Internazionale+della+Luna&form=hpcapt",
+        "title": "L'altro lato della luna",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260719_Artemis%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0dc8624c647cb545f8b791f0707b3ceb",
+        "hsh": "ce5bf38cd1bd1e81981e314898ca80d3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sulla superficie craterizzata della Luna, la Terra appare come una sottile falce luminosa sospesa nel buio: una prospettiva rara catturata dall'equipaggio della missione Artemis II, la prima missione con astronauti a circumnavigare la Luna dopo il programma Apollo",
+                "Image": {
+                    "Url": "/th?id=OHR.Artemis_IT-IT9087187961_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Artemis_IT-IT9087187961_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "L'altro lato della luna",
+                "Title": "Luna e Terra catturate dall'equipaggio di Artemis II",
+                "Copyright": "© NASA",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260720_Artemis\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Giornata+Internazionale+della+Luna&form=hpcapt&filters=HpDate:\"20260719_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260720_Artemis"
+            },
+            "Ssd": "20260720",
+            "Name": "Artemis",
+            "Market": "IT-IT",
+            "Hash": "9087187961",
+            "FullDateString": "20 luglio 2026"
+        }
+    },
+    {
         "startdate": "20260718",
         "fullstartdate": "202607182200",
         "enddate": "20260719",
