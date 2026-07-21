@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260720",
+        "fullstartdate": "202607202200",
+        "enddate": "20260721",
+        "url": "/th?id=OHR.SantaCatalina_IT-IT4012109567_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SantaCatalina_IT-IT4012109567",
+        "copyright": "L'Arco di Santa Catalina, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=L%27Arco+di+Santa+Catalina+Guatemala&form=hpcapt",
+        "title": "Senza entrare in strada",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260720_SantaCatalina%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "57c8ffbd5f256d43c9d3eabf8dc3abd8",
+        "hsh": "ae42f2fb1de39a531c42198dd32d6d6d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "All’alba ad Antigua, in Guatemala, l’Arco di Santa Catalina si accende di luce dorata, incorniciando le strade di ciottoli con il profilo del vulcano Agua sullo sfondo. Costruito nel XVII secolo, nacque per un’esigenza pratica: permettere alle monache di passare tra edifici senza essere viste. Da soluzione discreta a simbolo iconico, il passo è stato sorprendentemente breve.",
+                "Image": {
+                    "Url": "/th?id=OHR.SantaCatalina_IT-IT4012109567_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SantaCatalina_IT-IT4012109567_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Senza entrare in strada",
+                "Title": "L'Arco di Santa Catalina, Antigua, Guatemala",
+                "Copyright": "© Filippo Maria Bianchi/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/14.559567,-90.73426/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=14.559567,-90.73426;S9;L'Arco di Santa Catalina, Antigua, Guatemala&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260721_SantaCatalina\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=L%27Arco+di+Santa+Catalina+Guatemala&form=hpcapt&filters=HpDate:\"20260720_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260721_SantaCatalina"
+            },
+            "Ssd": "20260721",
+            "Name": "SantaCatalina",
+            "Market": "IT-IT",
+            "Hash": "4012109567",
+            "FullDateString": "21 luglio 2026"
+        }
+    },
+    {
         "startdate": "20260719",
         "fullstartdate": "202607192200",
         "enddate": "20260720",

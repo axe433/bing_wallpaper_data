@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260720",
+        "fullstartdate": "202607201500",
+        "enddate": "20260721",
+        "url": "/th?id=OHR.Kawagoe2026_JA-JP2060864918_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Kawagoe2026_JA-JP2060864918",
+        "copyright": "川越氷川神社, 埼玉県 川越市 (© kudosstudio/Adobe)",
+        "copyrightlink": "https://www.bing.com/search?q=%E7%B8%81%E7%B5%90%E3%81%B3%E3%81%B5%E9%A2%A8%E9%88%B4&form=hpcapt&filters=HpDate%3a%2220260720_1500%22",
+        "title": "「縁結び風鈴」開催中",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260720_Kawagoe2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ad43def6c0f14d211ddf03e63e6b6f85",
+        "hsh": "1d8590e91cf8f021ad9d0b03a9455ea3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "照りつける夏の日差しの中、埼玉県川越市にある氷川神社では「縁結び風鈴」が開催されています。今年 2026 年は、6 月 26 日から 9 月 6 日までの間、神社の境内には、およそ 2000 個の江戸風鈴が飾られ、涼やかな音色を響かせています。風鈴に願い事を書いた短冊を結びつけることで、縁結びの神様へ風に乗って思いが運ばれていく、とされています。",
+                "Image": {
+                    "Url": "/th?id=OHR.Kawagoe2026_JA-JP2060864918_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Kawagoe2026_JA-JP2060864918_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "「縁結び風鈴」開催中",
+                "Title": "川越氷川神社, 埼玉県 川越市",
+                "Copyright": "© kudosstudio/Adobe",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.927586,139.488525/20?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=35.927586,139.488525;S9;川越氷川神社&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260721_ Kawagoe2026%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260721_Kawagoe2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e7%b8%81%e7%b5%90%e3%81%b3%e3%81%b5%e9%a2%a8%e9%88%b4&form=hpcapt&filters=HpDate:\"20260720_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260721_Kawagoe2026"
+            },
+            "Ssd": "20260721",
+            "Name": "Kawagoe2026",
+            "Market": "JA-JP",
+            "Hash": "2060864918",
+            "FullDateString": "2026 年 7月 月 21 日"
+        }
+    },
+    {
         "startdate": "20260719",
         "fullstartdate": "202607191500",
         "enddate": "20260720",
