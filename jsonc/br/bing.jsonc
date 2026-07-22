@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260721",
+        "fullstartdate": "202607210300",
+        "enddate": "20260722",
+        "url": "/th?id=OHR.SantaCatalina_PT-BR6725083050_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SantaCatalina_PT-BR6725083050",
+        "copyright": "Arco de Santa Catalina, Antígua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Arco+de+Santa+Catalina&form=hpcapt&mkt=pt-br",
+        "title": "Um portal para outra época",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260721_SantaCatalina%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "57c8ffbd5f256d43c9d3eabf8dc3abd8",
+        "hsh": "a4ce900fc9d6c1938bd4f9dc07710326",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A ideia era simples: não chamar atenção. Mas o tempo tinha outros planos. Na imagem de hoje, o Arco de Santa Catalina domina a rua de pedra de Antígua, sua fachada amarela capturando o sol da manhã enquanto o Vulcão Agua observa tudo à distância. Mas sua origem é bem menos estética e mais prática: o arco foi construído no século XVII para freiras enclausuradas que precisavam cruzar entre conventos sem serem vistas da rua. O que nasceu da necessidade de discrição acabou virando um dos pontos mais fotografados da Guatemala.",
+                "Image": {
+                    "Url": "/th?id=OHR.SantaCatalina_PT-BR6725083050_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SantaCatalina_PT-BR6725083050_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Um portal para outra época",
+                "Title": "Arco de Santa Catalina, Antígua, Guatemala",
+                "Copyright": "© Filippo Maria Bianchi/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260721_SantaCatalina\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Arco+de+Santa+Catalina&form=hpcapt&filters=HpDate:\"20260721_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260721_SantaCatalina"
+            },
+            "Ssd": "20260721",
+            "Name": "SantaCatalina",
+            "Market": "PT-BR",
+            "Hash": "6725083050",
+            "FullDateString": "21 jul. 2026"
+        }
+    },
+    {
         "startdate": "20260720",
         "fullstartdate": "202607200300",
         "enddate": "20260721",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260721",
+        "fullstartdate": "202607211500",
+        "enddate": "20260722",
+        "url": "/th?id=OHR.CoralAwareness_JA-JP2408708579_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CoralAwareness_JA-JP2408708579",
+        "copyright": "サンゴ礁, インドネシア (© SergeUWPhoto/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E7%B1%B3%E5%9B%BD%E3%81%AE%E3%82%B5%E3%83%B3%E3%82%B4%E7%A4%81%E5%95%93%E7%99%BA%E9%80%B1%E9%96%93&form=hpcapt&filters=HpDate%3a%2220260721_1500%22",
+        "title": "今週は米国のサンゴ礁啓発週間",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260721_CoralAwareness%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bf67c6394e73d9953d2c706c91104288",
+        "hsh": "c3b8bf8d89f2e8497a4797a4ee2b0882",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今週は米国のサンゴ礁啓発週間。サンゴ礁は、太陽の光に輝き、多くの生き物でにぎわう海の中の街のような存在です。地球の海洋面積に対してサンゴ礁が占めている割合は約 1% 未満ですが、海洋生物全体の約 25% を支えています。一見すると岩のようですが、実はサンゴポリプと呼ばれる小さな動物が集まって形作られています。そして、今日の画像は、インドネシアのラジャ・アンパット諸島で撮影されたサンゴ礁。この地域には既知のサンゴ種の 75％ 以上が生息し、多種多様な海洋生物が暮らす豊かな生態系が広がっています。",
+                "Image": {
+                    "Url": "/th?id=OHR.CoralAwareness_JA-JP2408708579_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CoralAwareness_JA-JP2408708579_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今週は米国のサンゴ礁啓発週間",
+                "Title": "サンゴ礁, インドネシア",
+                "Copyright": "© SergeUWPhoto/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/1.050448,131.267654/14?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=1.050448,131.267654;S9;アンパット諸島, インドネシア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260722_CoralAwareness%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260722_CoralAwareness\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e7%b1%b3%e5%9b%bd%e3%81%ae%e3%82%b5%e3%83%b3%e3%82%b4%e7%a4%81%e5%95%93%e7%99%ba%e9%80%b1%e9%96%93&form=hpcapt&filters=HpDate:\"20260721_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260722_CoralAwareness"
+            },
+            "Ssd": "20260722",
+            "Name": "CoralAwareness",
+            "Market": "JA-JP",
+            "Hash": "2408708579",
+            "FullDateString": "2026 年 7月 月 22 日"
+        }
+    },
+    {
         "startdate": "20260720",
         "fullstartdate": "202607201500",
         "enddate": "20260721",

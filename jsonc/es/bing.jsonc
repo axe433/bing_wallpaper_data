@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260721",
+        "fullstartdate": "202607212200",
+        "enddate": "20260722",
+        "url": "/th?id=OHR.CoralAwareness_ES-ES8867891901_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CoralAwareness_ES-ES8867891901",
+        "copyright": "Arrecife de coral y playa en Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Raja+Ampat+Archipi%C3%A9lago+de+Indonesia&form=hpcapt&filters=HpDate%3a%2220260721_2200%22",
+        "title": "Pequeña huella, gran impacto",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260721_CoralAwareness%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bf67c6394e73d9953d2c706c91104288",
+        "hsh": "3b15aefd51820306994ff17ae434e004",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En los arrecifes de Raja Ampat, en Indonesia, el océano se transforma en una vibrante ciudad submarina donde miles de especies conviven en equilibrio. Estos ecosistemas, que cubren menos del uno por ciento del fondo marino, albergan aproximadamente el veinticinco por ciento de la vida oceánica, convirtiéndose en uno de los entornos más diversos del planeta.",
+                "Image": {
+                    "Url": "/th?id=OHR.CoralAwareness_ES-ES8867891901_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CoralAwareness_ES-ES8867891901_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Pequeña huella, gran impacto",
+                "Title": "Arrecife de coral y playa en Raja Ampat, Indonesia",
+                "Copyright": "© SergeUWPhoto/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/1.050448,131.267654/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=1.050448,131.267654;S9;Raja Ampat, Suroeste de Papúa, Indonesia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260722_CoralAwareness\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Raja+Ampat+Archipi%c3%a9lago+de+Indonesia&form=hpcapt&filters=HpDate:\"20260721_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260722_CoralAwareness"
+            },
+            "Ssd": "20260722",
+            "Name": "CoralAwareness",
+            "Market": "ES-ES",
+            "Hash": "8867891901",
+            "FullDateString": "22 de jul de 2026"
+        }
+    },
+    {
         "startdate": "20260720",
         "fullstartdate": "202607202200",
         "enddate": "20260721",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260721",
+        "fullstartdate": "202607212200",
+        "enddate": "20260722",
+        "url": "/th?id=OHR.EibseeSummer_DE-DE7644945564_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EibseeSummer_DE-DE7644945564",
+        "copyright": "Sommer am Eibsee bei Garmisch-Partenkirchen mit Blick auf die Zugspitze, Bayern (© DieterMeyrl/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Eibsee&form=hpcapt&filters=HpDate%3a%2220260721_2200%22",
+        "title": "Wo Berg und See verschmelzen",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260721_EibseeSummer%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e4b619039d77e5f0e3eede8210e32fda",
+        "hsh": "c5634e5022fb719580f75610b5cf8cfe",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Kristallklares Wasser, bewaldete Ufer und das beeindruckende Panorama der Zugspitze verleihen dem Eibsee eine beinahe märchenhafte Atmosphäre. Der See liegt südwestlich von Garmisch-Partenkirchen am Fuß von Deutschlands höchstem Berg und zählt zu den beliebtesten Naturzielen Bayerns. Seine intensive türkisgrüne Farbe verdankt er feinen Mineralien im Wasser, die besonders an ruhigen Tagen für eindrucksvolle Spiegelungen sorgen. Von den Uferwegen aus eröffnen sich immer wieder neue Ausblicke auf die umliegenden Gipfel, Inseln und Wälder.",
+                "Image": {
+                    "Url": "/th?id=OHR.EibseeSummer_DE-DE7644945564_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EibseeSummer_DE-DE7644945564_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Wo Berg und See verschmelzen",
+                "Title": "Sommer am Eibsee bei Garmisch-Partenkirchen mit Blick auf die Zugspitze, Bayern",
+                "Copyright": "© DieterMeyrl/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.457474,10.974035/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=47.457474,10.974035;S9;Eibsee, Bayern&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260722_EibseeSummer\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Eibsee&form=hpcapt&filters=HpDate:\"20260721_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260722_EibseeSummer"
+            },
+            "Ssd": "20260722",
+            "Name": "EibseeSummer",
+            "Market": "DE-DE",
+            "Hash": "7644945564",
+            "FullDateString": "22. Juli. 2026"
+        }
+    },
+    {
         "startdate": "20260720",
         "fullstartdate": "202607202200",
         "enddate": "20260721",
