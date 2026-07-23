@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260722",
+        "fullstartdate": "202607221600",
+        "enddate": "20260723",
+        "url": "/th?id=OHR.PinkDahlia_ZH-CN2259107800_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PinkDahlia_ZH-CN2259107800",
+        "copyright": "粉红色大丽花 (© Harald Biebel/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E4%B8%BD%E8%8A%B1%E5%B1%9E%E6%A4%8D%E7%89%A9&form=hpcapt&mkt=zh-cn",
+        "title": "瓣叠交响",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260722_PinkDahlia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1c7659029c6ec4b0b350225076c001ff",
+        "hsh": "b681a287ffe2ec9c04f9519765a33c33",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "有些花卉静谧地装点着花园，而大丽花（Dahlias）的登场则宛如领衔主演。这些原产于墨西哥的菊科（Asteraceae）成员拥有超过5.7万个培育品种，这在很大程度上归功于其独特的遗传特征。大丽花是典型的八倍体（Octoploids），意味着它们拥有八组染色体，这种多倍体特征使其花朵形态极具多样性，既有如纽扣般娇小的品种，也有直径达14英寸的巨型花冠。",
+                "Image": {
+                    "Url": "/th?id=OHR.PinkDahlia_ZH-CN2259107800_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PinkDahlia_ZH-CN2259107800_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "瓣叠交响",
+                "Title": "粉红色大丽花",
+                "Copyright": "© Harald Biebel/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "大丽花的一个阿兹特克语名称常被译为“水管花”，这源于该植物细长且中空的茎部特征，这种中空茎在古代曾被用作输送水分的管道。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260723_PinkDahlia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%a4%a7%e4%b8%bd%e8%8a%b1%e5%b1%9e%e6%a4%8d%e7%89%a9&form=hpcapt&filters=HpDate:\"20260722_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260723_PinkDahlia"
+            },
+            "Ssd": "20260723",
+            "Name": "PinkDahlia",
+            "Market": "ZH-CN",
+            "Hash": "2259107800",
+            "FullDateString": "2026 7月 23"
+        }
+    },
+    {
         "startdate": "20260721",
         "fullstartdate": "202607211600",
         "enddate": "20260722",

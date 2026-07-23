@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260722",
+        "fullstartdate": "202607220300",
+        "enddate": "20260723",
+        "url": "/th?id=OHR.CoralAwareness_PT-BR7463277144_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CoralAwareness_PT-BR7463277144",
+        "copyright": "Recife de coral e praia em Raja Ampat, Indonésia (© SergeUWPhoto/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=recife+de+coral&form=hpcapt&mkt=pt-br",
+        "title": "Cidades que respiram sob as ondas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260722_CoralAwareness%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bf67c6394e73d9953d2c706c91104288",
+        "hsh": "1c585fa3c8de6253070b3b81b4a3bb9e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Imagine uma metrópole erguida por milhões de animais do tamanho de uma borracha de lápis, trabalhando sem descanso no coração do oceano. Bem-vindo ao recife: não rocha, mas arquitetura viva. Cada estrutura nasce de colônias de corais que secretam carbonato de cálcio e, camada sobre camada, constroem cidades submersas capazes de atravessar milênios.",
+                "Image": {
+                    "Url": "/th?id=OHR.CoralAwareness_PT-BR7463277144_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CoralAwareness_PT-BR7463277144_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Cidades que respiram sob as ondas",
+                "Title": "Recife de coral e praia em Raja Ampat, Indonésia",
+                "Copyright": "© SergeUWPhoto/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260722_CoralAwareness\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=recife+de+coral&form=hpcapt&filters=HpDate:\"20260722_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260722_CoralAwareness"
+            },
+            "Ssd": "20260722",
+            "Name": "CoralAwareness",
+            "Market": "PT-BR",
+            "Hash": "7463277144",
+            "FullDateString": "22 jul. 2026"
+        }
+    },
+    {
         "startdate": "20260721",
         "fullstartdate": "202607210300",
         "enddate": "20260722",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260722",
+        "fullstartdate": "202607220700",
+        "enddate": "20260723",
+        "url": "/th?id=OHR.CoralAwareness_EN-US1824657819_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CoralAwareness_EN-US1824657819",
+        "copyright": "Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Coral+Reef+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220260722_0700%22",
+        "title": "Small footprint, big impact",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260722_CoralAwareness%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bf67c6394e73d9953d2c706c91104288",
+        "hsh": "58ae11a40a0ac1ba1031eaee103aa5a5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Imagine a city built by animals, glowing in the sunlight, and bustling with life beneath the waves. That is a coral reef. During Coral Reef Awareness Week, we celebrate these remarkable ecosystems and the countless species that depend on them.",
+                "Image": {
+                    "Url": "/th?id=OHR.CoralAwareness_EN-US1824657819_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CoralAwareness_EN-US1824657819_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Small footprint, big impact",
+                "Title": "Coral reef and beach in Raja Ampat, Indonesia",
+                "Copyright": "© SergeUWPhoto/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/1.050448,131.267654/12?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=1.050448,131.267654;S9;Raja Ampat, Southwest Papua, Indonesia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260722_CoralAwareness\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Coral+Reef+Awareness+Week&form=hpcapt&filters=HpDate:\"20260722_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260722_CoralAwareness"
+            },
+            "Ssd": "20260722",
+            "Name": "CoralAwareness",
+            "Market": "EN-US",
+            "Hash": "1824657819",
+            "FullDateString": "Jul 22, 2026"
+        }
+    },
+    {
         "startdate": "20260721",
         "fullstartdate": "202607210700",
         "enddate": "20260722",

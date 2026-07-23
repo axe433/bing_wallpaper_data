@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260722",
+        "fullstartdate": "202607222300",
+        "enddate": "20260723",
+        "url": "/th?id=OHR.PinkDahlia_EN-GB5279918343_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PinkDahlia_EN-GB5279918343",
+        "copyright": "Pink dahlia flower (© Harald Biebel/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dahlia+genus+plant&form=hpcapt&filters=HpDate%3a%2220260722_2300%22",
+        "title": "A symphony of petals",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260722_PinkDahlia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1c7659029c6ec4b0b350225076c001ff",
+        "hsh": "2bd2cfec2818ddcb80279b9a4943432e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Some flowers quietly fill a garden. Dahlias arrive as if they have been cast in the lead role. Native to Mexico, these members of the daisy family come in more than 57,000 cultivated varieties, thanks in part to their unusual genetics. Dahlias are octoploids, meaning they have eight sets of chromosomes, which helps create blooms that range from tiny buttons to 36 centimetres across.",
+                "Image": {
+                    "Url": "/th?id=OHR.PinkDahlia_EN-GB5279918343_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PinkDahlia_EN-GB5279918343_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A symphony of petals",
+                "Title": "Pink dahlia flower",
+                "Copyright": "© Harald Biebel/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "One Aztec name for the dahlia, often translated as 'water‑pipe flower,' refers to the plant's long, hollow stems, which were used to transport water.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260723_PinkDahlia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dahlia+genus+plant&form=hpcapt&filters=HpDate:\"20260722_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260723_PinkDahlia"
+            },
+            "Ssd": "20260723",
+            "Name": "PinkDahlia",
+            "Market": "EN-GB",
+            "Hash": "5279918343",
+            "FullDateString": "23 Jul 2026"
+        }
+    },
+    {
         "startdate": "20260721",
         "fullstartdate": "202607212300",
         "enddate": "20260722",

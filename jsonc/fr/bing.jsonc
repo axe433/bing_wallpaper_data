@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260722",
+        "fullstartdate": "202607222200",
+        "enddate": "20260723",
+        "url": "/th?id=OHR.PinkDahlia_FR-FR6134462708_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PinkDahlia_FR-FR6134462708",
+        "copyright": "Dahlia rose (© Harald Biebel/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dahlia+plante&form=hpcapt&filters=HpDate%3a%2220260722_2200%22",
+        "title": "La symphonie des pétales",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260722_PinkDahlia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1c7659029c6ec4b0b350225076c001ff",
+        "hsh": "c309e7bcf6921a73af327250f98a3b46",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dans un jardin d’été, le dahlia rose capte aussitôt le regard. Originaire du Mexique, cette fleur de la famille des astéracées impose sa présence avec ses pétales ordonnés et ses formes presque infinies. Des variétés miniatures aux fleurs dépassant parfois trente centimètres, le dahlia doit cette diversité à une particularité génétique rare : il possède huit jeux de chromosomes, d’où la richesse de ses couleurs et de ses silhouettes.",
+                "Image": {
+                    "Url": "/th?id=OHR.PinkDahlia_FR-FR6134462708_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PinkDahlia_FR-FR6134462708_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La symphonie des pétales",
+                "Title": "Dahlia rose",
+                "Copyright": "© Harald Biebel/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Un nom aztèque du dahlia, souvent traduit par « fleur tuyau d’eau », fait référence aux longues tiges creuses de la plante, qui étaient utilisées pour transporter l’eau.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260723_PinkDahlia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dahlia+plante&form=hpcapt&filters=HpDate:\"20260722_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260723_PinkDahlia"
+            },
+            "Ssd": "20260723",
+            "Name": "PinkDahlia",
+            "Market": "FR-FR",
+            "Hash": "6134462708",
+            "FullDateString": "23 juil. 2026"
+        }
+    },
+    {
         "startdate": "20260721",
         "fullstartdate": "202607212200",
         "enddate": "20260722",
