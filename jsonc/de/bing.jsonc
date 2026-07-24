@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260723",
+        "fullstartdate": "202607232200",
+        "enddate": "20260724",
+        "url": "/th?id=OHR.GalapagosFlamingos_DE-DE1918476943_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GalapagosFlamingos_DE-DE1918476943",
+        "copyright": "Schwarm von Kubaflamingos, Insel Isabela, Galápagos-Inseln, Ecuador (© Tui De Roy/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Kubaflamingo&form=hpcapt&filters=HpDate%3a%2220260723_2200%22",
+        "title": "In voller Farbe",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260723_GalapagosFlamingos%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4aa98b69889afa204c008a38699b96b3",
+        "hsh": "9e5a147992d388c3bdb6d37fdf148a58",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Auf der Insel Isabela lebt ein Schwarm Kubaflamingos in den flachen Lagunen der Galápagos-Inseln, die zu Ecuador gehören. Die eleganten Vögel bewegen sich oft gemeinsam durch das seichte Wasser und suchen dort nach kleinen Krebstieren, Insekten und anderen Nahrungsquellen. Mit ihren langen Beinen und geschwungenen Hälsen prägen sie das Bild vieler Feuchtgebiete der Insel. Vor der Kulisse dunkler Lavafelder und vulkanischer Landschaften bieten sie einen besonders eindrucksvollen Anblick und zählen zu den bekanntesten Vogelarten des Archipels.",
+                "Image": {
+                    "Url": "/th?id=OHR.GalapagosFlamingos_DE-DE1918476943_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GalapagosFlamingos_DE-DE1918476943_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "In voller Farbe",
+                "Title": "Schwarm von Kubaflamingos, Insel Isabela, Galápagos-Inseln, Ecuador",
+                "Copyright": "© Tui De Roy/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Kubaflamingos verdanken ihre rosa Färbung den Carotinoiden in ihrer Nahrung. Jungtiere kommen grau zur Welt und entwickeln ihre typische Farbe erst nach und nach.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260724_GalapagosFlamingos\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Kubaflamingo&form=hpcapt&filters=HpDate:\"20260723_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260724_GalapagosFlamingos"
+            },
+            "Ssd": "20260724",
+            "Name": "GalapagosFlamingos",
+            "Market": "DE-DE",
+            "Hash": "1918476943",
+            "FullDateString": "24. Juli. 2026"
+        }
+    },
+    {
         "startdate": "20260722",
         "fullstartdate": "202607222200",
         "enddate": "20260723",

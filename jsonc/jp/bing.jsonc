@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260723",
+        "fullstartdate": "202607231500",
+        "enddate": "20260724",
+        "url": "/th?id=OHR.GalapagosFlamingos_JA-JP2749729014_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GalapagosFlamingos_JA-JP2749729014",
+        "copyright": "ベニイロフラミンゴ, エクアドル (© Tui De Roy/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=%E7%B1%B3%E5%9B%BD%E3%81%AE%E3%81%84%E3%81%A8%E3%81%93%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260723_1500%22",
+        "title": "今日は米国いとこの日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260723_GalapagosFlamingos%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4aa98b69889afa204c008a38699b96b3",
+        "hsh": "d73f1967cb7ebc6b5facc36455f14fc7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 7 月 24 日は米国いとこの日。兄弟姉妹のようでありながら、友人のような存在でもある「いとこ」という繋がりを祝う日です。そして画像は、エクアドルのガラパゴス諸島に生息するフラミンゴの群れ。彼らは、単独で行動するのではなく、群れをなして集まり、一緒に餌を食べ、仲間と動きを揃えて移動します。直接的な血の繋がりがなくとも「家族」のように繋がっているという、いとこという関係性を思わせる光景です。",
+                "Image": {
+                    "Url": "/th?id=OHR.GalapagosFlamingos_JA-JP2749729014_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GalapagosFlamingos_JA-JP2749729014_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日は米国いとこの日",
+                "Title": "ベニイロフラミンゴ, エクアドル",
+                "Copyright": "© Tui De Roy/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-0.858929,-91.215883/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=-0.858929,-91.215883;S9;イサベラ島, エクアドル&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260724_GalapagosFlamingos%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260724_GalapagosFlamingos\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e7%b1%b3%e5%9b%bd%e3%81%ae%e3%81%84%e3%81%a8%e3%81%93%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate:\"20260723_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260724_GalapagosFlamingos"
+            },
+            "Ssd": "20260724",
+            "Name": "GalapagosFlamingos",
+            "Market": "JA-JP",
+            "Hash": "2749729014",
+            "FullDateString": "2026 年 7月 月 24 日"
+        }
+    },
+    {
         "startdate": "20260722",
         "fullstartdate": "202607221500",
         "enddate": "20260723",

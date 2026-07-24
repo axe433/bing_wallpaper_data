@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260723",
+        "fullstartdate": "202607232200",
+        "enddate": "20260724",
+        "url": "/th?id=OHR.ChicagoTiffany_ES-ES2128020420_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ChicagoTiffany_ES-ES2128020420",
+        "copyright": "Tiffany Dome, Chicago Cultural Center, Illinois, EE. UU.  (© Felix Lipov/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Tiffany+Dome+Chicago+Cultural+Center&form=hpcapt&filters=HpDate%3a%2220260723_2200%22",
+        "title": "¡Chicago, mira hacia arriba!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260723_ChicagoTiffany%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "983eb770b60a8fc2df2f7ffad6555ae2",
+        "hsh": "7b5ad21ea5a9188b5243cb31f6408565",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En el corazón de Chicago, Estados Unidos, una cúpula de vidrio parece transformar la luz en arte. Suspendida sobre el Preston Bradley Hall del Chicago Cultural Center, la famosa Tiffany Dome deslumbra con sus tonos azules y dorados, creados por unas 30.000 piezas de vidrio Favrile dispuestas como escamas. A medida que la luz natural atraviesa la estructura, los colores cambian y llenan el espacio de reflejos que convierten cada visita en una experiencia diferente.",
+                "Image": {
+                    "Url": "/th?id=OHR.ChicagoTiffany_ES-ES2128020420_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ChicagoTiffany_ES-ES2128020420_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "¡Chicago, mira hacia arriba!",
+                "Title": "Tiffany Dome, Chicago Cultural Center, Illinois, EE. UU.",
+                "Copyright": "© Felix Lipov/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.88388,-87.62498/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=41.88388,-87.62498;S9;Tiffany Dome, Chicago Cultural Center, Illinois, EE. UU.&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260724_ChicagoTiffany\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tiffany+Dome+Chicago+Cultural+Center&form=hpcapt&filters=HpDate:\"20260723_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260724_ChicagoTiffany"
+            },
+            "Ssd": "20260724",
+            "Name": "ChicagoTiffany",
+            "Market": "ES-ES",
+            "Hash": "2128020420",
+            "FullDateString": "24 de jul de 2026"
+        }
+    },
+    {
         "startdate": "20260722",
         "fullstartdate": "202607222200",
         "enddate": "20260723",

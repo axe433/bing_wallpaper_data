@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260723",
+        "fullstartdate": "202607230300",
+        "enddate": "20260724",
+        "url": "/th?id=OHR.PinkDahlia_PT-BR7612133818_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PinkDahlia_PT-BR7612133818",
+        "copyright": "Dália rosa (© Harald Biebel/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=d%C3%A1lia&form=hpcapt&mkt=pt-br",
+        "title": "Um universo em flor",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260723_PinkDahlia%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1c7659029c6ec4b0b350225076c001ff",
+        "hsh": "f865fd0d3158c98ec271025b24fbc830",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A dália parece ter recebido uma instrução simples da natureza: chamar atenção. E levou isso a sério. Vista na imagem, ela exibe camadas de pétalas organizadas com tanta precisão que lembra um origami complexo. Nativa do México, a planta acumula mais de 57 mil variedades cultivadas e oito conjuntos de cromossomos, uma combinação rara que abriu caminho para uma diversidade extraordinária de formas, tamanhos e cores.",
+                "Image": {
+                    "Url": "/th?id=OHR.PinkDahlia_PT-BR7612133818_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PinkDahlia_PT-BR7612133818_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Um universo em flor",
+                "Title": "Dália rosa",
+                "Copyright": "© Harald Biebel/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260723_PinkDahlia\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=d%c3%a1lia&form=hpcapt&filters=HpDate:\"20260723_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260723_PinkDahlia"
+            },
+            "Ssd": "20260723",
+            "Name": "PinkDahlia",
+            "Market": "PT-BR",
+            "Hash": "7612133818",
+            "FullDateString": "23 jul. 2026"
+        }
+    },
+    {
         "startdate": "20260722",
         "fullstartdate": "202607220300",
         "enddate": "20260723",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260723",
+        "fullstartdate": "202607232200",
+        "enddate": "20260724",
+        "url": "/th?id=OHR.GalapagosFlamingos_FR-FR0682662624_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GalapagosFlamingos_FR-FR0682662624",
+        "copyright": "Flamboyance de flamants des Caraïbes, île Isabela, îles Galápagos, Équateur (© Tui De Roy/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Flamant+des+Cara%C3%AFbes&form=hpcapt&filters=HpDate%3a%2220260723_2200%22",
+        "title": "Ça flame rose",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260723_GalapagosFlamingos%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4aa98b69889afa204c008a38699b96b3",
+        "hsh": "2a3d6364d1467c9d5642bf3c93c640c9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La langue française réserve parfois ses plus belles trouvailles aux assemblées d’animaux. Sur l’île Isabela, dans l’archipel des Galápagos, en Équateur, les lagunes saumâtres accueillent ainsi une « flamboyance » de flamants roses des Caraïbes — terme aussi vif que leur plumage, teinté de corail par les crevettes et algues qu’ils filtrent dans la boue tiède.",
+                "Image": {
+                    "Url": "/th?id=OHR.GalapagosFlamingos_FR-FR0682662624_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GalapagosFlamingos_FR-FR0682662624_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ça flame rose",
+                "Title": "Flamboyance de flamants des Caraïbes, île Isabela, îles Galápagos, Équateur",
+                "Copyright": "© Tui De Roy/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Un groupe de loutres se rassemble en \"romance\", l'un des noms collectifs les plus poétiques du règne animal.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260724_GalapagosFlamingos\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Flamant+des+Cara%c3%afbes&form=hpcapt&filters=HpDate:\"20260723_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260724_GalapagosFlamingos"
+            },
+            "Ssd": "20260724",
+            "Name": "GalapagosFlamingos",
+            "Market": "FR-FR",
+            "Hash": "0682662624",
+            "FullDateString": "24 juil. 2026"
+        }
+    },
+    {
         "startdate": "20260722",
         "fullstartdate": "202607222200",
         "enddate": "20260723",
