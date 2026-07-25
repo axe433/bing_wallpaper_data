@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260724",
+        "fullstartdate": "202607240700",
+        "enddate": "20260725",
+        "url": "/th?id=OHR.GalapagosFlamingos_ROW2731476245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GalapagosFlamingos_ROW2731476245",
+        "copyright": "Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=American+flamingos&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260724_GalapagosFlamingos%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4aa98b69889afa204c008a38699b96b3",
+        "hsh": "373c0694485223abbb03d2501401c93c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "The first thing you notice is the colour. A flock of American flamingos stands in the shallow water on Isabela Island, Galápagos Islands, and the water seems to borrow a hint of pink from their feathers. Those feathers were not always that colour. Flamingos hatch grey and gradually turn pink as pigments from algae and small crustaceans accumulate in their bodies.",
+                "Image": {
+                    "Url": "/th?id=OHR.GalapagosFlamingos_ROW2731476245_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GalapagosFlamingos_ROW2731476245_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador",
+                "Copyright": "© Tui De Roy/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260724_GalapagosFlamingos\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=American+flamingos&form=hpcapt&filters=HpDate:\"20260724_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260724_GalapagosFlamingos"
+            },
+            "Ssd": "20260724",
+            "Name": "GalapagosFlamingos",
+            "Market": "ROW",
+            "Hash": "2731476245",
+            "FullDateString": "24 Tem, 2026"
+        }
+    },
+    {
         "startdate": "20260723",
         "fullstartdate": "202607230700",
         "enddate": "20260724",

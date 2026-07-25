@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260724",
+        "fullstartdate": "202607242200",
+        "enddate": "20260725",
+        "url": "/th?id=OHR.GaliciaBeach_ES-ES2298992138_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GaliciaBeach_ES-ES2298992138",
+        "copyright": "Playa de las Catedrales, Galicia, España (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+de+Galicia&form=hpcapt&filters=HpDate%3a%2220260724_2200%22",
+        "title": "La sinfonía de las olas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260724_GaliciaBeach%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "100543ab02a73ca60cb480d26a4c5315",
+        "hsh": "6df2695a4c99002e96c9fe6243c836ef",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El norte de Galicia guarda uno de los rincones más impresionantes del litoral español: la Playa de las Catedrales, en Ribadeo, donde el Atlántico ha esculpido durante milenios una arquitectura de piedra que rivaliza con cualquier catedral gótica. Con arcos naturales que alcanzan los treinta metros de altura, esta franja de costa transforma el concepto mismo de playa en algo cercano a lo sublime. Solo con la marea baja el mar se retira lo suficiente para revelar este laberinto de bóvedas, columnas y covachas talladas por las olas.",
+                "Image": {
+                    "Url": "/th?id=OHR.GaliciaBeach_ES-ES2298992138_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GaliciaBeach_ES-ES2298992138_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La sinfonía de las olas",
+                "Title": "Playa de las Catedrales, Galicia, España",
+                "Copyright": "© Tui De Roy/Amazing Aerial Agency/Abobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.554231,-7.157587/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=43.554231,-7.157587;S9;Playa de las Catedrales, Galicia, España&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260725_GaliciaBeach\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=D%c3%ada+de+Galicia&form=hpcapt&filters=HpDate:\"20260724_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260725_GaliciaBeach"
+            },
+            "Ssd": "20260725",
+            "Name": "GaliciaBeach",
+            "Market": "ES-ES",
+            "Hash": "2298992138",
+            "FullDateString": "25 de jul de 2026"
+        }
+    },
+    {
         "startdate": "20260723",
         "fullstartdate": "202607232200",
         "enddate": "20260724",

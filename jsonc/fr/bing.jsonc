@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260724",
+        "fullstartdate": "202607242200",
+        "enddate": "20260725",
+        "url": "/th?id=OHR.GaliciaBeach_FR-FR6503602591_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GaliciaBeach_FR-FR6503602591",
+        "copyright": "Plage des Cathédrales, Galice, Espagne (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Galice+Espagne&form=hpcapt&filters=HpDate%3a%2220260724_2200%22",
+        "title": "Les arches cachées de la Galice",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260724_GaliciaBeach%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "100543ab02a73ca60cb480d26a4c5315",
+        "hsh": "763b96abee41a1e4c885a1279ce7bfa4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "À l’extrême nord‑ouest de l’Espagne, la Galice déploie ses falaises sombres face au golfe de Gascogne. Là, près de Ribadeo, l’océan a sculpté dans la roche ce que l’architecture gothique n’a fait qu’évoquer : des arches immenses, des voûtes ouvertes au ciel, des nefs de pierre traversées par la lumière atlantique. La plage des Cathédrales porte son nom avec une gravité méritée.",
+                "Image": {
+                    "Url": "/th?id=OHR.GaliciaBeach_FR-FR6503602591_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GaliciaBeach_FR-FR6503602591_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Les arches cachées de la Galice",
+                "Title": "Plage des Cathédrales, Galice, Espagne",
+                "Copyright": "© Tui De Roy/Amazing Aerial Agency/Abobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.554231,-7.157587/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=43.554231,-7.157587;S9;Plage des Cathédrales, Galice, Espagne&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260725_GaliciaBeach\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Galice+Espagne&form=hpcapt&filters=HpDate:\"20260724_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260725_GaliciaBeach"
+            },
+            "Ssd": "20260725",
+            "Name": "GaliciaBeach",
+            "Market": "FR-FR",
+            "Hash": "6503602591",
+            "FullDateString": "25 juil. 2026"
+        }
+    },
+    {
         "startdate": "20260723",
         "fullstartdate": "202607232200",
         "enddate": "20260724",

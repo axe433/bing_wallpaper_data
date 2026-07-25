@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260724",
+        "fullstartdate": "202607240300",
+        "enddate": "20260725",
+        "url": "/th?id=OHR.GalapagosFlamingos_PT-BR5022467535_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GalapagosFlamingos_PT-BR5022467535",
+        "copyright": "Bando de flamingos-americanos, Ilha Isabela, Ilhas Galápagos, Equador (© Tui De Roy/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=flamingos+americanos&form=hpcapt&mkt=pt-br",
+        "title": "Em boa companhia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260724_GalapagosFlamingos%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4aa98b69889afa204c008a38699b96b3",
+        "hsh": "daf9d512d7dd7d996c0834acd4c826c0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Antes de existir rede social, os flamingos já dominavam a arte de andar em grupo. Na imagem, estes exemplares das Ilhas Galápagos transformam uma área alagada numa convenção colorida. Raramente estão sozinhos: comem, voam e até descansam juntos, formando grandes concentrações que podem ser vistas a quilômetros de distância.",
+                "Image": {
+                    "Url": "/th?id=OHR.GalapagosFlamingos_PT-BR5022467535_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GalapagosFlamingos_PT-BR5022467535_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Em boa companhia",
+                "Title": "Bando de flamingos-americanos, Ilha Isabela, Ilhas Galápagos, Equador",
+                "Copyright": "© Tui De Roy/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260724_GalapagosFlamingos\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=flamingos+americanos&form=hpcapt&filters=HpDate:\"20260724_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260724_GalapagosFlamingos"
+            },
+            "Ssd": "20260724",
+            "Name": "GalapagosFlamingos",
+            "Market": "PT-BR",
+            "Hash": "5022467535",
+            "FullDateString": "24 jul. 2026"
+        }
+    },
+    {
         "startdate": "20260723",
         "fullstartdate": "202607230300",
         "enddate": "20260724",
