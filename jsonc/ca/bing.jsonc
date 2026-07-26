@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260725",
+        "fullstartdate": "202607250400",
+        "enddate": "20260726",
+        "url": "/th?id=OHR.GaliciaBeach_EN-CA4896799144_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GaliciaBeach_EN-CA4896799144",
+        "copyright": "Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Galicia+Spain&form=hpcapt&filters=HpDate%3a%2220260725_0400%22",
+        "title": "Into Galicia's hidden arches",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260725_GaliciaBeach%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "100543ab02a73ca60cb480d26a4c5315",
+        "hsh": "0e34f4919c5cb0c0e7d119b5dee41d93",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "In Spain's far northwest, Galicia meets the Atlantic with force—its long coastline carved by waves into cliffs, inlets and wave-cut platforms. Rain-fed hills and dense forests spill toward the sea, creating a landscape that feels closer to Ireland than southern Spain, with shifting skies and a distinctly Atlantic mood.",
+                "Image": {
+                    "Url": "/th?id=OHR.GaliciaBeach_EN-CA4896799144_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GaliciaBeach_EN-CA4896799144_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Into Galicia's hidden arches",
+                "Title": "Praia das Catedrais, Galicia, Spain",
+                "Copyright": "© Tui De Roy/Amazing Aerial Agency/Abobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.554231,-7.157587/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=43.554231,-7.157587;S9;Praia das Catedrais, Galicia, Spain&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260725_GaliciaBeach\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Galicia+Spain&form=hpcapt&filters=HpDate:\"20260725_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260725_GaliciaBeach"
+            },
+            "Ssd": "20260725",
+            "Name": "GaliciaBeach",
+            "Market": "EN-CA",
+            "Hash": "4896799144",
+            "FullDateString": "Jul 25, 2026"
+        }
+    },
+    {
         "startdate": "20260724",
         "fullstartdate": "202607240400",
         "enddate": "20260725",

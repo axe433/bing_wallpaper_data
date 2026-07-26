@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260725",
+        "fullstartdate": "202607252200",
+        "enddate": "20260726",
+        "url": "/th?id=OHR.RedMangroveSunrise_DE-DE1889746547_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RedMangroveSunrise_DE-DE1889746547",
+        "copyright": "Sonnenaufgang an einer roten Mangrove auf den Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+zur+Erhaltung+des+Mangroven-%C3%96kosystems&form=hpcapt&filters=HpDate%3a%2220260725_2200%22",
+        "title": "Zwischen Land und Meer beginnt das Leben",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260725_RedMangroveSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "eafbe1ee1f227888072c5ffaae4707f2",
+        "hsh": "ee116b939662f61a84102eb518363faf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Am 26. Juli rückt der Internationale Tag zur Erhaltung des Mangroven-Ökosystems die Bedeutung dieser außergewöhnlichen Küstenlandschaften in den Mittelpunkt. Mangroven wachsen dort, wo Land und Meer aufeinandertreffen, und schaffen Lebensräume für zahlreiche Tier- und Pflanzenarten. Zugleich schützen sie Küsten vor Erosion und tragen dazu bei, große Mengen Kohlenstoff zu speichern. Der Aktionstag macht auf ihre ökologische Bedeutung aufmerksam und erinnert daran, wie wichtig ihr langfristiger Schutz für Mensch und Natur ist.",
+                "Image": {
+                    "Url": "/th?id=OHR.RedMangroveSunrise_DE-DE1889746547_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RedMangroveSunrise_DE-DE1889746547_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Zwischen Land und Meer beginnt das Leben",
+                "Title": "Sonnenaufgang an einer roten Mangrove auf den Pig Keys, Honduras",
+                "Copyright": "© Mac Stone/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/14.822356,-86.5979/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=14.822356,-86.5979;S9;Honduras&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260726_RedMangroveSunrise\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Internationaler+Tag+zur+Erhaltung+des+Mangroven-%c3%96kosystems&form=hpcapt&filters=HpDate:\"20260725_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260726_RedMangroveSunrise"
+            },
+            "Ssd": "20260726",
+            "Name": "RedMangroveSunrise",
+            "Market": "DE-DE",
+            "Hash": "1889746547",
+            "FullDateString": "26. Juli. 2026"
+        }
+    },
+    {
         "startdate": "20260724",
         "fullstartdate": "202607242200",
         "enddate": "20260725",

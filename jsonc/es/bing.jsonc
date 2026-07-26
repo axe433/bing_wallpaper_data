@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260725",
+        "fullstartdate": "202607252200",
+        "enddate": "20260726",
+        "url": "/th?id=OHR.RedMangroveSunrise_ES-ES2463781861_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RedMangroveSunrise_ES-ES2463781861",
+        "copyright": "Amanecer en un mangle rojo en los Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+Internacional+de+Conservaci%C3%B3n+del+Ecosistema+de+Manglares&form=hpcapt&filters=HpDate%3a%2220260725_2200%22",
+        "title": "Entre la tierra y el mar",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260725_RedMangroveSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "eafbe1ee1f227888072c5ffaae4707f2",
+        "hsh": "c41acc43fb39e1d525b996d09f15a749",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En los Islotes de Pig Keys, en Honduras, el amanecer transforma el agua en un espejo donde las raíces aéreas del mangle rojo emergen retorcidas y solemnes, como si sostuvieran el mundo entre sus brazos.",
+                "Image": {
+                    "Url": "/th?id=OHR.RedMangroveSunrise_ES-ES2463781861_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RedMangroveSunrise_ES-ES2463781861_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Entre la tierra y el mar",
+                "Title": "Amanecer en un mangle rojo en los Pig Keys, Honduras",
+                "Copyright": "© Mac Stone/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/14.822356,-86.5979/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=14.822356,-86.5979;S9;Honduras&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260726_RedMangroveSunrise\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=D%c3%ada+Internacional+de+Conservaci%c3%b3n+del+Ecosistema+de+Manglares&form=hpcapt&filters=HpDate:\"20260725_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260726_RedMangroveSunrise"
+            },
+            "Ssd": "20260726",
+            "Name": "RedMangroveSunrise",
+            "Market": "ES-ES",
+            "Hash": "2463781861",
+            "FullDateString": "26 de jul de 2026"
+        }
+    },
+    {
         "startdate": "20260724",
         "fullstartdate": "202607242200",
         "enddate": "20260725",

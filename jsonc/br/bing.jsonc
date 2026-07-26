@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260725",
+        "fullstartdate": "202607250300",
+        "enddate": "20260726",
+        "url": "/th?id=OHR.GaliciaBeach_PT-BR6668206229_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GaliciaBeach_PT-BR6668206229",
+        "copyright": "Praia das Catedrais, Galícia, Espanha (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Gal%C3%ADcia+na+Espanha&form=hpcapt&mkt=pt-br",
+        "title": "O templo construído pelo mar",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260725_GaliciaBeach%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "100543ab02a73ca60cb480d26a4c5315",
+        "hsh": "4c6f82b6e6c5bb2fd35c47ace1ffd3d8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Na Espanha, existe uma praia em que o principal ponto turístico passa parte do dia submerso. Nossa imagem de hoje mostra um cenário que só existe quando a maré baixa: arcos monumentais, corredores de pedra e grutas moldados pelo Atlântico por incontáveis ciclos de ondas, vento e sal.",
+                "Image": {
+                    "Url": "/th?id=OHR.GaliciaBeach_PT-BR6668206229_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GaliciaBeach_PT-BR6668206229_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O templo construído pelo mar",
+                "Title": "Praia das Catedrais, Galícia, Espanha",
+                "Copyright": "© Tui De Roy/Amazing Aerial Agency/Abobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260725_GaliciaBeach\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Gal%c3%adcia+na+Espanha&form=hpcapt&filters=HpDate:\"20260725_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260725_GaliciaBeach"
+            },
+            "Ssd": "20260725",
+            "Name": "GaliciaBeach",
+            "Market": "PT-BR",
+            "Hash": "6668206229",
+            "FullDateString": "25 jul. 2026"
+        }
+    },
+    {
         "startdate": "20260724",
         "fullstartdate": "202607240300",
         "enddate": "20260725",
