@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260726",
+        "fullstartdate": "202607260400",
+        "enddate": "20260727",
+        "url": "/th?id=OHR.RedMangroveSunrise_EN-CA8849634199_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RedMangroveSunrise_EN-CA8849634199",
+        "copyright": "Sunrise on a red mangrove in the Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=International+Day+for+Conservation+of+the+Mangrove+Ecosystem&form=hpcapt&filters=HpDate%3a%2220260726_0400%22",
+        "title": "Between land and sea, life begins",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260726_RedMangroveSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "eafbe1ee1f227888072c5ffaae4707f2",
+        "hsh": "3f2bdd3719f6a0c2424e86ea3a59d8fe",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "At sunrise in Honduras' Pig Keys—small, low-lying coastal islets tucked within mangrove-rich wetlands—a red mangrove lifts its tangled roots above glassy water. This striking scene captures what July 26 celebrates: the International Day for the Conservation of the Mangrove Ecosystem, created to spotlight these vital coastal forests.",
+                "Image": {
+                    "Url": "/th?id=OHR.RedMangroveSunrise_EN-CA8849634199_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RedMangroveSunrise_EN-CA8849634199_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Between land and sea, life begins",
+                "Title": "Sunrise on a red mangrove in the Pig Keys, Honduras",
+                "Copyright": "© Mac Stone/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/0.822356,-86.5979/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=0.822356,-86.5979;S9;Honduras&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260726_RedMangroveSunrise\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=International+Day+for+Conservation+of+the+Mangrove+Ecosystem&form=hpcapt&filters=HpDate:\"20260726_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260726_RedMangroveSunrise"
+            },
+            "Ssd": "20260726",
+            "Name": "RedMangroveSunrise",
+            "Market": "EN-CA",
+            "Hash": "8849634199",
+            "FullDateString": "Jul 26, 2026"
+        }
+    },
+    {
         "startdate": "20260725",
         "fullstartdate": "202607250400",
         "enddate": "20260726",

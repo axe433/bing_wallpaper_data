@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260726",
+        "fullstartdate": "202607262200",
+        "enddate": "20260727",
+        "url": "/th?id=OHR.VerdonKayaks_FR-FR6935931270_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VerdonKayaks_FR-FR6935931270",
+        "copyright": "Canoë-kayaks au cœur des gorges du Verdon, Provence-Alpes-Côte d'Azur (© Joran Maaswinkel Fotografie/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lacs+et+gorges+du+Verdon&form=hpcapt&filters=HpDate%3a%2220260726_2200%22",
+        "title": "Le canyon bleu",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260726_VerdonKayaks%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "27bc6a375ff0cd30eaa18da5f13f21a3",
+        "hsh": "6fdf468f324af21758a03fd2798baf64",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Vu du ciel, le Verdon ressemble à une veine de jade glissée entre les falaises calcaires de Provence. Sur près de 25 kilomètres, ce canyon — l’un des plus profonds d’Europe, avec des parois atteignant 700 mètres — s’est creusé pendant des millions d’années sous l’érosion patiente de la rivière.",
+                "Image": {
+                    "Url": "/th?id=OHR.VerdonKayaks_FR-FR6935931270_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VerdonKayaks_FR-FR6935931270_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Le canyon bleu",
+                "Title": "Canoë-kayaks au cœur des gorges du Verdon, Provence-Alpes-Côte d'Azur",
+                "Copyright": "© Joran Maaswinkel Fotografie/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.631023,6.221218/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=43.631023,6.221218;S9;Les gorges du Verdon, Provence-Alpes-Côte d'Azur&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260727_VerdonKayaks\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lacs+et+gorges+du+Verdon&form=hpcapt&filters=HpDate:\"20260726_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260727_VerdonKayaks"
+            },
+            "Ssd": "20260727",
+            "Name": "VerdonKayaks",
+            "Market": "FR-FR",
+            "Hash": "6935931270",
+            "FullDateString": "27 juil. 2026"
+        }
+    },
+    {
         "startdate": "20260725",
         "fullstartdate": "202607252200",
         "enddate": "20260726",

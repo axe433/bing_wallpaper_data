@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260726",
+        "fullstartdate": "202607260300",
+        "enddate": "20260727",
+        "url": "/th?id=OHR.RedMangroveSunrise_PT-BR7414229565_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RedMangroveSunrise_PT-BR7414229565",
+        "copyright": "Nascer do sol sobre um mangue-vermelho em Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+Internacional+para+a+Conservacao+do+Ecossistema+de+Manguezais&form=hpcapt&mkt=pt-br",
+        "title": "Onde a vida cria raízes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260726_RedMangroveSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "eafbe1ee1f227888072c5ffaae4707f2",
+        "hsh": "6ff32ed2c4f1b1a3819ef2a113e3c3f9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Manguezais crescem onde o solo parece ter desistido: salgado, instável e pobre em oxigênio. Mas encontraram uma solução engenhosa: raízes que emergem acima da água, captam oxigênio diretamente do ar e estabilizam o sedimento que o mar insiste em deslocar. O resultado é um dos ecossistemas mais eficientes do planeta. Entre o labirinto de raízes, a água desacelera, sedimentos se acumulam e surge um ambiente protegido onde peixes, caranguejos e moluscos passam as fases iniciais da vida.",
+                "Image": {
+                    "Url": "/th?id=OHR.RedMangroveSunrise_PT-BR7414229565_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RedMangroveSunrise_PT-BR7414229565_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Onde a vida cria raízes",
+                "Title": "Nascer do sol sobre um mangue-vermelho em Pig Keys, Honduras",
+                "Copyright": "© Mac Stone/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260726_RedMangroveSunrise\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dia+Internacional+para+a+Conservacao+do+Ecossistema+de+Manguezais&form=hpcapt&filters=HpDate:\"20260726_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260726_RedMangroveSunrise"
+            },
+            "Ssd": "20260726",
+            "Name": "RedMangroveSunrise",
+            "Market": "PT-BR",
+            "Hash": "7414229565",
+            "FullDateString": "26 jul. 2026"
+        }
+    },
+    {
         "startdate": "20260725",
         "fullstartdate": "202607250300",
         "enddate": "20260726",

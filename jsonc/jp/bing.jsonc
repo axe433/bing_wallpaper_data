@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260726",
+        "fullstartdate": "202607261500",
+        "enddate": "20260727",
+        "url": "/th?id=OHR.ChicagoTiffany_JA-JP4240566318_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ChicagoTiffany_JA-JP4240566318",
+        "copyright": "シカゴ文化センター, 米国 イリノイ州 (© Felix Lipov/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%B7%E3%82%AB%E3%82%B4%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220260726_1500%22",
+        "title": "灯りゆれる大空間",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260726_ChicagoTiffany%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "983eb770b60a8fc2df2f7ffad6555ae2",
+        "hsh": "a22927f73d37a8027b111d0bcaa39cbe",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ここは米国のシカゴ文化センターにあるプレストン・ブラッドリー・ホール。一歩足を踏み入れれば、視線はたちまちティファニー・ドームの輝く天蓋へと引き寄せられます。ドームの直径はおよそ 11m で、魚の鱗のような形をしたティファニー製ガラス片を約 3 万個組み合わせて作られています。シカゴ文化センターは、1897 年にシカゴ初の公共図書館として開館しました。1978 年に芸術文化センターとなり、以降現在まで何度か改修されながら、地域の文化拠点として親しまれています。",
+                "Image": {
+                    "Url": "/th?id=OHR.ChicagoTiffany_JA-JP4240566318_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ChicagoTiffany_JA-JP4240566318_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "灯りゆれる大空間",
+                "Title": "シカゴ文化センター, 米国 イリノイ州",
+                "Copyright": "© Felix Lipov/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.884043,-87.624956/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=41.884043,-87.624956;S9;ティファニー・ドーム, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260727_ChicagoTiffany%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260727_ChicagoTiffany\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%b7%e3%82%ab%e3%82%b4%e6%96%87%e5%8c%96%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc&form=hpcapt&filters=HpDate:\"20260726_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260727_ChicagoTiffany"
+            },
+            "Ssd": "20260727",
+            "Name": "ChicagoTiffany",
+            "Market": "JA-JP",
+            "Hash": "4240566318",
+            "FullDateString": "2026 年 7月 月 27 日"
+        }
+    },
+    {
         "startdate": "20260725",
         "fullstartdate": "202607251500",
         "enddate": "20260726",

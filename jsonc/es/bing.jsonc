@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260726",
+        "fullstartdate": "202607262200",
+        "enddate": "20260727",
+        "url": "/th?id=OHR.GaliciaSpain_ES-ES2553115650_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GaliciaSpain_ES-ES2553115650",
+        "copyright": "Veleros cerca de las Islas Cíes en Galicia, España (© AndresGarciaM/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Islas+C%C3%ADes&form=hpcapt&filters=HpDate%3a%2220260726_2200%22",
+        "title": "El paraíso secreto de Galicia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260726_GaliciaSpain%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3bc586c07cf295c8dedc7d96068e78d4",
+        "hsh": "d942e4bf096f5fa6d4243e5805196631",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Las Islas Cíes, frente a las costas de Pontevedra, forman uno de los archipiélagos más espectaculares de España: playas de arena blanca, aguas de un azul imposible y veleros que danzan al ritmo de la brisa atlántica. Declaradas Parque Nacional Marítimo-Terrestre, estas islas gallegas ofrecen un refugio natural donde el tiempo parece detenerse. Y si el paisaje ya enamora, la gastronomía remata la faena.",
+                "Image": {
+                    "Url": "/th?id=OHR.GaliciaSpain_ES-ES2553115650_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GaliciaSpain_ES-ES2553115650_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "El paraíso secreto de Galicia",
+                "Title": "Veleros cerca de las Islas Cíes en Galicia, España",
+                "Copyright": "© AndresGarciaM/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/42.221058,-8.901154/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=42.221058,-8.901154;S9;Islas Cíes en Galicia, España&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260727_GaliciaSpain\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Islas+C%c3%ades&form=hpcapt&filters=HpDate:\"20260726_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260727_GaliciaSpain"
+            },
+            "Ssd": "20260727",
+            "Name": "GaliciaSpain",
+            "Market": "ES-ES",
+            "Hash": "2553115650",
+            "FullDateString": "27 de jul de 2026"
+        }
+    },
+    {
         "startdate": "20260725",
         "fullstartdate": "202607252200",
         "enddate": "20260726",

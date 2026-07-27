@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260726",
+        "fullstartdate": "202607262200",
+        "enddate": "20260727",
+        "url": "/th?id=OHR.GaliciaBeach_IT-IT8238080614_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GaliciaBeach_IT-IT8238080614",
+        "copyright": "Spiaggia delle Cattedrali, Galizia, Spagna (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Galizia+Spagna&form=hpcapt",
+        "title": "Gli archi nascosti della Galizia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260726_GaliciaBeach%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "100543ab02a73ca60cb480d26a4c5315",
+        "hsh": "bcfb64b8d4277ffd00eeb709b90b6193",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nel remoto angolo nord-occidentale della Spagna, la Galizia incontra l'Atlantico con forza: scogliere scolpite dal mare, insenature nascoste e formazioni rocciose che emergono solo quando la marea si ritira. La Spiaggia delle Cattedrali, vicino a Ribadeo, deve il suo nome agli archi monumentali modellati dall'oceano nel corso dei millenni — architetture naturali che ricordano le navate di una cattedrale gotica.",
+                "Image": {
+                    "Url": "/th?id=OHR.GaliciaBeach_IT-IT8238080614_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GaliciaBeach_IT-IT8238080614_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Gli archi nascosti della Galizia",
+                "Title": "Spiaggia delle Cattedrali, Galizia, Spagna",
+                "Copyright": "© Tui De Roy/Amazing Aerial Agency/Abobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.554231,-7.157587/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=43.554231,-7.157587;S9;Spiaggia delle Cattedrali, Galizia, Spagna&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260727_GaliciaBeach\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Galizia+Spagna&form=hpcapt&filters=HpDate:\"20260726_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260727_GaliciaBeach"
+            },
+            "Ssd": "20260727",
+            "Name": "GaliciaBeach",
+            "Market": "IT-IT",
+            "Hash": "8238080614",
+            "FullDateString": "27 luglio 2026"
+        }
+    },
+    {
         "startdate": "20260725",
         "fullstartdate": "202607252200",
         "enddate": "20260726",
