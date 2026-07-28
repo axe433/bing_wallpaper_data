@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260727",
+        "fullstartdate": "202607272200",
+        "enddate": "20260728",
+        "url": "/th?id=OHR.ChannelKelp_IT-IT8356704681_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ChannelKelp_IT-IT8356704681",
+        "copyright": "Una foresta di alghe al largo dell'isola di Anacapa, Parco Nazionale delle Isole del Canale, California, USA (© Ian Shive/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Giornata+Mondiale+per+la+Conservazione+della+Natura&form=hpcapt",
+        "title": "Un equilibrio in movimento",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260727_ChannelKelp%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2bc07249f93f34d03a1ee193e36952fd",
+        "hsh": "ff320282a317eba30d15a5b24641fd31",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Al largo dell'isola di Anacapa, in California, l'oceano ha costruito le proprie foreste. Nelle acque del Parco Nazionale delle Isole del Canale — soprannominato le \"Galápagos del Nord America\" — le alghe giganti si estendono per oltre trenta metri in lunghezza, formando nastri ondeggianti sostenuti da vesciche d'aria e ancorati al fondale da strutture simili a radici.",
+                "Image": {
+                    "Url": "/th?id=OHR.ChannelKelp_IT-IT8356704681_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ChannelKelp_IT-IT8356704681_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un equilibrio in movimento",
+                "Title": "Una foresta di alghe al largo dell'isola di Anacapa, Parco Nazionale delle Isole del Canale, California, USA",
+                "Copyright": "© Ian Shive/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/34.004342,-119.391995/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=34.004342,-119.391995;S9;Parco Nazionale delle Isole del Canale, California, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260728_ChannelKelp\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Giornata+Mondiale+per+la+Conservazione+della+Natura&form=hpcapt&filters=HpDate:\"20260727_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260728_ChannelKelp"
+            },
+            "Ssd": "20260728",
+            "Name": "ChannelKelp",
+            "Market": "IT-IT",
+            "Hash": "8356704681",
+            "FullDateString": "28 luglio 2026"
+        }
+    },
+    {
         "startdate": "20260726",
         "fullstartdate": "202607262200",
         "enddate": "20260727",

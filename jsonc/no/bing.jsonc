@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260727",
+        "fullstartdate": "202607270700",
+        "enddate": "20260728",
+        "url": "/th?id=OHR.SummerBC_ROW3830675043_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SummerBC_ROW3830675043",
+        "copyright": "Emerald Lake, Yoho National Park, British Columbia, Canada (© Olga Matveeva/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Yoho+National+Park&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260727_SummerBC%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6e758d2baec9b8880d2796b3887d5146",
+        "hsh": "954a07196467679b0cd87d8235cff910",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Some places are best introduced with one word: Yoho. It is a Cree expression of wonder, which is exactly the reaction most people have. Established in 1886, Yoho National Park protects part of the Canadian Rockies in British Columbia. Visitors can stop at Takakkaw Falls, where water plunges more than 370 metres, or explore the world-famous Burgess Shale fossil sites. These rocks preserve the remains of marine animals that lived more than 500 million years ago.",
+                "Image": {
+                    "Url": "/th?id=OHR.SummerBC_ROW3830675043_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SummerBC_ROW3830675043_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Emerald Lake, Yoho National Park, British Columbia, Canada",
+                "Copyright": "© Olga Matveeva/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260727_SummerBC\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Yoho+National+Park&form=hpcapt&filters=HpDate:\"20260727_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260727_SummerBC"
+            },
+            "Ssd": "20260727",
+            "Name": "SummerBC",
+            "Market": "ROW",
+            "Hash": "3830675043",
+            "FullDateString": "27. jul. 2026"
+        }
+    },
+    {
         "startdate": "20260726",
         "fullstartdate": "202607260700",
         "enddate": "20260727",

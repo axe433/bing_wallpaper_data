@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260727",
+        "fullstartdate": "202607270300",
+        "enddate": "20260728",
+        "url": "/th?id=OHR.ChicagoTiffany_PT-BR8094909459_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ChicagoTiffany_PT-BR8094909459",
+        "copyright": "Cúpula Tiffany, Centro Cultural de Chicago, Illinois, Estados Unidos (© Felix Lipov/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=C%C3%BApula+Tiffany+Centro+Cultural+de+Chicago&form=hpcapt&mkt=pt-br",
+        "title": "O céu de vidro de Chicago",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260727_ChicagoTiffany%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "983eb770b60a8fc2df2f7ffad6555ae2",
+        "hsh": "e40bbdb530336a1b97a2182bd3eca559",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Se algum dia você visitar o Centro Cultural de Chicago, em Illinois, Estados Unidos, olhe para cima. A imagem mostra a impressionante Cúpula Tiffany, um círculo de quase 12 metros formado por cerca de 30 mil peças de vidro encaixadas como escamas. Quando o sol atravessa esse quebra-cabeça colorido, o ambiente inteiro muda de humor.",
+                "Image": {
+                    "Url": "/th?id=OHR.ChicagoTiffany_PT-BR8094909459_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ChicagoTiffany_PT-BR8094909459_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "O céu de vidro de Chicago",
+                "Title": "Cúpula Tiffany, Centro Cultural de Chicago, Illinois, Estados Unidos",
+                "Copyright": "© Felix Lipov/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260727_ChicagoTiffany\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=C%c3%bapula+Tiffany+Centro+Cultural+de+Chicago&form=hpcapt&filters=HpDate:\"20260727_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260727_ChicagoTiffany"
+            },
+            "Ssd": "20260727",
+            "Name": "ChicagoTiffany",
+            "Market": "PT-BR",
+            "Hash": "8094909459",
+            "FullDateString": "27 jul. 2026"
+        }
+    },
+    {
         "startdate": "20260726",
         "fullstartdate": "202607260300",
         "enddate": "20260727",

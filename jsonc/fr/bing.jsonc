@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260727",
+        "fullstartdate": "202607272200",
+        "enddate": "20260728",
+        "url": "/th?id=OHR.ChannelKelp_FR-FR7114923921_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ChannelKelp_FR-FR7114923921",
+        "copyright": "Une forêt de varech au large d'Anacapa Island, Parc national des Channel Islands, Californie, États-Unis (© Ian Shive/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Conservation+de+la+nature&form=hpcapt&filters=HpDate%3a%2220260727_2200%22",
+        "title": "Équilibre en mouvement",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260727_ChannelKelp%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2bc07249f93f34d03a1ee193e36952fd",
+        "hsh": "820ad446f5085b61e73fd710c3f74a8c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Au large d'Anacapa Island, dans le parc national des Channel Islands, aux États-Unis, la lumière californienne se fragmente sous la surface en milliers d'éclats verts et dorés. La mer a sculpté ses propres cathédrales : des forêts de varech géant s'élevant à plus de trente mètres du fond, leurs frondes ondulant comme des rubans de soie, maintenues en surface par de petits flotteurs remplis d'air.",
+                "Image": {
+                    "Url": "/th?id=OHR.ChannelKelp_FR-FR7114923921_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ChannelKelp_FR-FR7114923921_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Équilibre en mouvement",
+                "Title": "Une forêt de varech au large d'Anacapa Island, Parc national des Channel Islands, Californie, États-Unis",
+                "Copyright": "© Ian Shive/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/34.004342,-119.391995/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=34.004342,-119.391995;S9;Anacapa Island, Californie, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260728_ChannelKelp\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Conservation+de+la+nature&form=hpcapt&filters=HpDate:\"20260727_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260728_ChannelKelp"
+            },
+            "Ssd": "20260728",
+            "Name": "ChannelKelp",
+            "Market": "FR-FR",
+            "Hash": "7114923921",
+            "FullDateString": "28 juil. 2026"
+        }
+    },
+    {
         "startdate": "20260726",
         "fullstartdate": "202607262200",
         "enddate": "20260727",
