@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260728",
+        "fullstartdate": "202607282200",
+        "enddate": "20260729",
+        "url": "/th?id=OHR.TigerFamily_IT-IT8529991341_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TigerFamily_IT-IT8529991341",
+        "copyright": "Una famiglia di tigri del Bengala al Parco Nazionale di Ranthambore, Rajasthan, India (© Archna Singh/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Giornata+Internazionale+della+Tigre&form=hpcapt",
+        "title": "Sulle tracce della tigre",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260728_TigerFamily%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ec1075fd64e0b3366db4aafbf073229b",
+        "hsh": "164c94d9e6cd292f7faaebabed387937",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nella Giornata Internazionale della Tigre, questa famiglia si muove con sicurezza nel Parco Nazionale di Ranthambore, in Rajasthan, India. Sono tigri del Bengala: un esemplare adulto può superare i tre metri di lunghezza dalla testa alla coda e pesare oltre 200 kg, eppure cammina nel silenzio più assoluto. Le strisce non sono solo decorative — confondono la preda in un paesaggio dove la visibilità è un'arma a doppio taglio.",
+                "Image": {
+                    "Url": "/th?id=OHR.TigerFamily_IT-IT8529991341_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TigerFamily_IT-IT8529991341_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Sulle tracce della tigre",
+                "Title": "Una famiglia di tigri del Bengala al Parco Nazionale di Ranthambore, Rajasthan, India",
+                "Copyright": "© Archna Singh/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/25.977797,76.553258/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=25.977797,76.553258;S9;Parco Nazionale di Ranthambore, Rajasthan, India&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260729_TigerFamily\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Giornata+Internazionale+della+Tigre&form=hpcapt&filters=HpDate:\"20260728_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260729_TigerFamily"
+            },
+            "Ssd": "20260729",
+            "Name": "TigerFamily",
+            "Market": "IT-IT",
+            "Hash": "8529991341",
+            "FullDateString": "29 luglio 2026"
+        }
+    },
+    {
         "startdate": "20260727",
         "fullstartdate": "202607272200",
         "enddate": "20260728",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260728",
+        "fullstartdate": "202607281830",
+        "enddate": "20260729",
+        "url": "/th?id=OHR.GuruPurnima2026_EN-IN0332794905_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GuruPurnima2026_EN-IN0332794905",
+        "copyright": "Dhamek Stupa, Sarnath, Varanasi, Uttar Pradesh (© franck metois/Moment/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Guru+Purnima&form=hpcapt&filters=HpDate%3a%2220260728_1830%22",
+        "title": "Where a lesson changed the world",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260728_GuruPurnima2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d4f7067b95f964f76a17fde319bf2977",
+        "hsh": "6da9b44f960ecffba3e6a3deda3586e8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "One of the world's most influential teachings was delivered in the open nearly 2,500 years ago, and its legacy still stands in stone. Guru Purnima celebrates spiritual and academic teachers who shape our lives, and few places capture that spirit better than Dhamek Stupa in Sarnath, Uttar Pradesh.",
+                "Image": {
+                    "Url": "/th?id=OHR.GuruPurnima2026_EN-IN0332794905_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GuruPurnima2026_EN-IN0332794905_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Where a lesson changed the world",
+                "Title": "Dhamek Stupa, Sarnath, Varanasi, Uttar Pradesh",
+                "Copyright": "© franck metois/Moment/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/25.3808,83.024498/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=25.3808,83.024498;S9;Dhamek Stupa, Uttar Pradesh&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260729_GuruPurnima2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Guru+Purnima&form=hpcapt&filters=HpDate:\"20260728_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260729_GuruPurnima2026"
+            },
+            "Ssd": "20260729",
+            "Name": "GuruPurnima2026",
+            "Market": "EN-IN",
+            "Hash": "0332794905",
+            "FullDateString": "29 Jul, 2026"
+        }
+    },
+    {
         "startdate": "20260727",
         "fullstartdate": "202607271830",
         "enddate": "20260728",

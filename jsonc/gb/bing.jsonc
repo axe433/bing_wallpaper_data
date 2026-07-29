@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260728",
+        "fullstartdate": "202607282300",
+        "enddate": "20260729",
+        "url": "/th?id=OHR.TigerFamily_EN-GB5813190934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TigerFamily_EN-GB5813190934",
+        "copyright": "A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=International+Tiger+Day&form=hpcapt&filters=HpDate%3a%2220260728_2300%22",
+        "title": "A comeback with claws",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260728_TigerFamily%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ec1075fd64e0b3366db4aafbf073229b",
+        "hsh": "ff98901976c3f081301ee8c5c33e5310",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "On International Tiger Day, this family moves through Ranthambore National Park in Rajasthan, India, with the confidence of those who know exactly where they stand in the food chain. These are Bengal tigers, built for both stealth and power: an adult can stretch over 3 metres from nose to tail and weigh around 230 kilograms, yet walk without making a sound. Their stripes also play a part in a landscape where visibility is a double-edged sword, camouflaging their bodies in patterns that prey struggle to read.",
+                "Image": {
+                    "Url": "/th?id=OHR.TigerFamily_EN-GB5813190934_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TigerFamily_EN-GB5813190934_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A comeback with claws",
+                "Title": "A family of Bengal tigers at Ranthambore National Park, Rajasthan, India",
+                "Copyright": "© Archna Singh/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/25.977797,76.553258/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=25.977797,76.553258;S9;Ranthambore National Park, Rajasthan, India&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260729_TigerFamily\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=International+Tiger+Day&form=hpcapt&filters=HpDate:\"20260728_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260729_TigerFamily"
+            },
+            "Ssd": "20260729",
+            "Name": "TigerFamily",
+            "Market": "EN-GB",
+            "Hash": "5813190934",
+            "FullDateString": "29 Jul 2026"
+        }
+    },
+    {
         "startdate": "20260727",
         "fullstartdate": "202607272300",
         "enddate": "20260728",

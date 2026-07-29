@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260728",
+        "fullstartdate": "202607282200",
+        "enddate": "20260729",
+        "url": "/th?id=OHR.TigerFamily_DE-DE3531108966_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TigerFamily_DE-DE3531108966",
+        "copyright": "Eine Bengaltigerfamilie im Ranthambore-Nationalpark in Rajasthan, Indien (© Archna Singh/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+des+Tigers&form=hpcapt&filters=HpDate%3a%2220260728_2200%22",
+        "title": "Ein Comeback mit Krallen",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260728_TigerFamily%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ec1075fd64e0b3366db4aafbf073229b",
+        "hsh": "b7e7ee1a55394a07ec4346bb0f42f1f8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Am Internationalen Tag des Tigers steht diese Bengaltigerfamilie im Ranthambore-Nationalpark in Rajasthan im Mittelpunkt. Die mächtigen Raubkatzen gehören zu den bekanntesten Bewohnern Indiens und faszinieren durch ihre Kombination aus Kraft und Eleganz. Ein ausgewachsener Tiger kann von der Nase bis zur Schwanzspitze mehr als drei Meter lang werden und rund 230 Kilogramm wiegen. Trotz ihrer Größe bewegen sich die Tiere erstaunlich lautlos durch Wälder und Graslandschaften. Ihr charakteristisches Streifenmuster dient nicht nur der Wiedererkennung, sondern auch der Tarnung, da es die Körperkonturen im wechselnden Licht der Vegetation auflöst.",
+                "Image": {
+                    "Url": "/th?id=OHR.TigerFamily_DE-DE3531108966_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TigerFamily_DE-DE3531108966_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ein Comeback mit Krallen",
+                "Title": "Eine Bengaltigerfamilie im Ranthambore-Nationalpark in Rajasthan, Indien",
+                "Copyright": "© Archna Singh/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/25.977797,76.553258/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=25.977797,76.553258;S9;Ranthambore-Nationalpark, Rajasthan, Indien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260729_TigerFamily\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Internationaler+Tag+des+Tigers&form=hpcapt&filters=HpDate:\"20260728_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260729_TigerFamily"
+            },
+            "Ssd": "20260729",
+            "Name": "TigerFamily",
+            "Market": "DE-DE",
+            "Hash": "3531108966",
+            "FullDateString": "29. Juli. 2026"
+        }
+    },
+    {
         "startdate": "20260727",
         "fullstartdate": "202607272200",
         "enddate": "20260728",

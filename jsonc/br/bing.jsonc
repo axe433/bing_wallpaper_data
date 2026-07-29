@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260728",
+        "fullstartdate": "202607280300",
+        "enddate": "20260729",
+        "url": "/th?id=OHR.ChannelKelp_PT-BR8544444735_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ChannelKelp_PT-BR8544444735",
+        "copyright": "Floresta de kelp perto da Ilha Anacapa, Parque Nacional das Ilhas do Canal, Califórnia, Estados Unidos (© Ian Shive/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+Mundial+da+Conserva%C3%A7%C3%A3o+da+Natureza&form=hpcapt&mkt=pt-br",
+        "title": "A floresta que dança sob as ondas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260728_ChannelKelp%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2bc07249f93f34d03a1ee193e36952fd",
+        "hsh": "f31befd44cf431fc1030946e389fa181",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Quem imagina uma floresta costuma pensar em troncos, folhas e canto de pássaros. Mas perto da Ilha Anacapa, na Califórnia, a imagem revela uma versão completamente diferente. Sob a superfície, algas-gigantes conhecidas como kelps formam uma floresta vertical capaz de crescer mais de 60 centímetros por dia e passar dos 30 metros de altura. Cheias de pequenas bolsas de ar, elas sobem em direção à luz enquanto permanecem ancoradas ao fundo do mar.",
+                "Image": {
+                    "Url": "/th?id=OHR.ChannelKelp_PT-BR8544444735_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ChannelKelp_PT-BR8544444735_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A floresta que dança sob as ondas",
+                "Title": "Floresta de kelp perto da Ilha Anacapa, Parque Nacional das Ilhas do Canal, Califórnia, Estados Unidos",
+                "Copyright": "© Ian Shive/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260728_ChannelKelp\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dia+Mundial+da+Conserva%c3%a7%c3%a3o+da+Natureza&form=hpcapt&filters=HpDate:\"20260728_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260728_ChannelKelp"
+            },
+            "Ssd": "20260728",
+            "Name": "ChannelKelp",
+            "Market": "PT-BR",
+            "Hash": "8544444735",
+            "FullDateString": "28 jul. 2026"
+        }
+    },
+    {
         "startdate": "20260727",
         "fullstartdate": "202607270300",
         "enddate": "20260728",

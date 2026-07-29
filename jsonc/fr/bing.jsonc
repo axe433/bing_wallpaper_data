@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260728",
+        "fullstartdate": "202607282200",
+        "enddate": "20260729",
+        "url": "/th?id=OHR.TigerFamily_FR-FR7284476347_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TigerFamily_FR-FR7284476347",
+        "copyright": "Une famille de tigres du Bengale au parc national de Ranthambore, Rajasthan, Inde (© Archna Singh/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+mondiale+Tigre&form=hpcapt&filters=HpDate%3a%2220260728_2200%22",
+        "title": "Un retour en force",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260728_TigerFamily%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ec1075fd64e0b3366db4aafbf073229b",
+        "hsh": "da1164b7082dceb07e6dc3d1136ef98a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dans la lumière dorée du matin, une famille de tigres du Bengale traverse la forêt sèche du parc national de Ranthambore, en Inde, avec une assurance tranquille. L'adulte — long de plus de trois mètres et fort de 250 kilos de puissance silencieuse — pose chaque patte sans un bruit. Ses rayures, uniques comme des empreintes digitales, se fondent dans les ombres mouvantes des acacias et des dhok, arbres emblématiques du Rajasthan.",
+                "Image": {
+                    "Url": "/th?id=OHR.TigerFamily_FR-FR7284476347_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TigerFamily_FR-FR7284476347_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un retour en force",
+                "Title": "Une famille de tigres du Bengale au parc national de Ranthambore, Rajasthan, Inde",
+                "Copyright": "© Archna Singh/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/25.977797,76.553258/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=25.977797,76.553258;S9;Parc national de Ranthambore, district de Sawai Madhopur, Rajasthan, Inde&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260729_TigerFamily\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Journ%c3%a9e+mondiale+Tigre&form=hpcapt&filters=HpDate:\"20260728_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260729_TigerFamily"
+            },
+            "Ssd": "20260729",
+            "Name": "TigerFamily",
+            "Market": "FR-FR",
+            "Hash": "7284476347",
+            "FullDateString": "29 juil. 2026"
+        }
+    },
+    {
         "startdate": "20260727",
         "fullstartdate": "202607272200",
         "enddate": "20260728",
