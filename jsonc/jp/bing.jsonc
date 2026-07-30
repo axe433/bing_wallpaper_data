@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260729",
+        "fullstartdate": "202607291500",
+        "enddate": "20260730",
+        "url": "/th?id=OHR.NavajoNation_JA-JP5174852282_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NavajoNation_JA-JP5174852282",
+        "copyright": "モニュメント・バレー, 米国 アリゾナ州 (© Westend61/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%A2%E3%83%8B%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%E3%83%BB%E3%83%90%E3%83%AC%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220260729_1500%22",
+        "title": "夕暮れの砂漠を貫く道",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260729_NavajoNation%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d6a80f970439d281b37cb204b74f062f",
+        "hsh": "00922ec652cf93bb0a3886be794122b3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ここはモニュメント・バレー。米国のアリゾナ州とユタ州にまたがるナバホ族の準自治領「ナバホ・ネイション」内に広がる地域です。テーブル状の台地「メサ」や、侵食によって形成された「ビュート」という孤立丘が点在しているのが特徴です。これらが独特の景観を生み出し、世界中から観光客が訪れる景勝地となっています。また、西部劇映画の定番のロケ地として知られており、映画監督ジョン・フォードが撮影を行った場所は「ジョン・フォード・ポイント」と呼ばれる人気の写真撮影スポットとなっています。",
+                "Image": {
+                    "Url": "/th?id=OHR.NavajoNation_JA-JP5174852282_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NavajoNation_JA-JP5174852282_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "夕暮れの砂漠を貫く道",
+                "Title": "モニュメント・バレー, 米国 アリゾナ州",
+                "Copyright": "© Westend61/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.938513,-110.091637/20?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=36.938513,-110.091637;S9;モニュメント・バレー, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260730_NavajoNation%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260730_NavajoNation\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%a2%e3%83%8b%e3%83%a5%e3%83%a1%e3%83%b3%e3%83%88%e3%83%bb%e3%83%90%e3%83%ac%e3%83%bc&form=hpcapt&filters=HpDate:\"20260729_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260730_NavajoNation"
+            },
+            "Ssd": "20260730",
+            "Name": "NavajoNation",
+            "Market": "JA-JP",
+            "Hash": "5174852282",
+            "FullDateString": "2026 年 7月 月 30 日"
+        }
+    },
+    {
         "startdate": "20260728",
         "fullstartdate": "202607281500",
         "enddate": "20260729",

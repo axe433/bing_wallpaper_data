@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260729",
+        "fullstartdate": "202607292200",
+        "enddate": "20260730",
+        "url": "/th?id=OHR.BearBavaria_DE-DE3681217161_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BearBavaria_DE-DE3681217161",
+        "copyright": "Braunbärenjunges auf einem Felsen, Bayern (© Raimund Linke/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Braunb%C3%A4r+Tier&form=hpcapt&filters=HpDate%3a%2220260729_2200%22",
+        "title": "Wild und wachsam",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260729_BearBavaria%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9489b941eef62a545e5064ff4fcb8c5c",
+        "hsh": "3b6cd5eb3dc6cfaca26147f3bf570009",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Der Braunbär ist eines der größten an Land lebenden Raubtiere Europas und ein Symbol für wilde, unberührte Landschaften. Als anpassungsfähiger Allesfresser ernährt er sich von Beeren, Kräutern, Insekten, Aas und gelegentlich größeren Beutetieren. Trotz seiner beeindruckenden Größe meidet er Menschen meist und streift auf der Suche nach Nahrung oft weite Strecken durch Wälder und Gebirge.",
+                "Image": {
+                    "Url": "/th?id=OHR.BearBavaria_DE-DE3681217161_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BearBavaria_DE-DE3681217161_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Wild und wachsam",
+                "Title": "Braunbärenjunges auf einem Felsen, Bayern",
+                "Copyright": "© Raimund Linke/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Trotz ihrer Größe können Braunbären Geschwindigkeiten von bis zu 50 km/h erreichen.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260730_BearBavaria\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Braunb%c3%a4r+Tier&form=hpcapt&filters=HpDate:\"20260729_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260730_BearBavaria"
+            },
+            "Ssd": "20260730",
+            "Name": "BearBavaria",
+            "Market": "DE-DE",
+            "Hash": "3681217161",
+            "FullDateString": "30. Juli. 2026"
+        }
+    },
+    {
         "startdate": "20260728",
         "fullstartdate": "202607282200",
         "enddate": "20260729",
