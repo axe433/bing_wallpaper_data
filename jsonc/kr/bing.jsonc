@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260730",
+        "fullstartdate": "202607300700",
+        "enddate": "20260731",
+        "url": "/th?id=OHR.NavajoNation_ROW6898030800_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NavajoNation_ROW6898030800",
+        "copyright": "Monument Valley, Navajo Nation, Arizona, United States (© Westend61/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Monument+Valley&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260730_NavajoNation%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d6a80f970439d281b37cb204b74f062f",
+        "hsh": "03e5d37c9c74419f212d13169b04262a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Some landscapes are famous. Monument Valley is legendary. Straddling the Arizona–Utah border within the Navajo Nation, this desert wonder is shaped by towering sandstone buttes that rise as much as 305 metres above the valley floor. Known in Navajo as Tsé Bii' Ndzisgaii—'valley of the rocks'—the region blends dramatic geology with living culture.",
+                "Image": {
+                    "Url": "/th?id=OHR.NavajoNation_ROW6898030800_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NavajoNation_ROW6898030800_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Monument Valley, Navajo Nation, Arizona, United States",
+                "Copyright": "© Westend61/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260730_NavajoNation\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Monument+Valley&form=hpcapt&filters=HpDate:\"20260730_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260730_NavajoNation"
+            },
+            "Ssd": "20260730",
+            "Name": "NavajoNation",
+            "Market": "ROW",
+            "Hash": "6898030800",
+            "FullDateString": "2026 7월 30"
+        }
+    },
+    {
         "startdate": "20260729",
         "fullstartdate": "202607290700",
         "enddate": "20260730",

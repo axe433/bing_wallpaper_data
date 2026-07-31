@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260730",
+        "fullstartdate": "202607302200",
+        "enddate": "20260731",
+        "url": "/th?id=OHR.VirginiaTrail_DE-DE3922991438_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VirginiaTrail_DE-DE3922991438",
+        "copyright": "Luftaufnahme des Virginia Creeper Trail in Damascus, Virginia, USA (© Eifel Kreutz/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Virginia+Creeper+Trail+Wanderung+Informationen&form=hpcapt&filters=HpDate%3a%2220260730_2200%22",
+        "title": "Eine Reise durch die Zeit",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260730_VirginiaTrail%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e1204f7e788defe27ae56c9bd805c20b",
+        "hsh": "2d671878986f27c02c367500d5eaf9c1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Aus der Luft zeigt sich der Virginia Creeper Trail als grünes Band, das sich durch die bewaldeten Landschaften im Südwesten des US-Bundesstaates Virginia schlängelt. Die heute beliebte Freizeitroute verläuft auf einer ehemaligen Eisenbahnstrecke, die einst für den Transport von Holz und Eisenerz durch die Appalachen genutzt wurde. Ihren ungewöhnlichen Namen verdankt die Strecke den Dampflokomotiven, die zu Beginn des 20. Jahrhunderts die steilen Anstiege nur langsam bewältigen konnten. Auf einer Länge von rund 55 Kilometern verbindet der Weg reizvolle Natur mit einem Stück regionaler Geschichte und bietet immer wieder weite Ausblicke auf Berge, Täler und Flüsse in den Vereinigten Staaten.",
+                "Image": {
+                    "Url": "/th?id=OHR.VirginiaTrail_DE-DE3922991438_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VirginiaTrail_DE-DE3922991438_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Eine Reise durch die Zeit",
+                "Title": "Luftaufnahme des Virginia Creeper Trail in Damascus, Virginia, USA",
+                "Copyright": "© Eifel Kreutz/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.631287,-81.783826/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=36.631287,-81.783826;S9;Virginia Creeper Trail, Damascus, Virginia, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260731_VirginiaTrail\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Virginia+Creeper+Trail+Wanderung+Informationen&form=hpcapt&filters=HpDate:\"20260730_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260731_VirginiaTrail"
+            },
+            "Ssd": "20260731",
+            "Name": "VirginiaTrail",
+            "Market": "DE-DE",
+            "Hash": "3922991438",
+            "FullDateString": "31. Juli. 2026"
+        }
+    },
+    {
         "startdate": "20260729",
         "fullstartdate": "202607292200",
         "enddate": "20260730",
