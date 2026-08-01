@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260731",
+        "fullstartdate": "202607310300",
+        "enddate": "20260801",
+        "url": "/th?id=OHR.VirginiaTrail_PT-BR9310516852_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VirginiaTrail_PT-BR9310516852",
+        "copyright": "Vista aérea da Virginia Creeper Trail, Damascus, Virgínia, Estados Unidos (© Eifel Kreutz/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Damascus+na+Virginia&form=hpcapt&mkt=pt-br",
+        "title": "Dos trilhos às trilhas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260731_VirginiaTrail%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e1204f7e788defe27ae56c9bd805c20b",
+        "hsh": "f9f8f0b0a19a4a715ba02b7037efde82",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Algumas ferrovias encerram as atividades. A Virginia Creeper Trail reinventou a viagem. A imagem mostra parte dessa antiga linha férrea de 55 quilômetros, que por décadas levou madeira, minério e passageiros pelos Montes Apalaches. Hoje, quem passa por suas 47 pontes de madeira, rios e vales são ciclistas e caminhantes.",
+                "Image": {
+                    "Url": "/th?id=OHR.VirginiaTrail_PT-BR9310516852_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VirginiaTrail_PT-BR9310516852_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Dos trilhos às trilhas",
+                "Title": "Vista aérea da Virginia Creeper Trail, Damascus, Virgínia, Estados Unidos",
+                "Copyright": "© Eifel Kreutz/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260731_VirginiaTrail\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Damascus+na+Virginia&form=hpcapt&filters=HpDate:\"20260731_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260731_VirginiaTrail"
+            },
+            "Ssd": "20260731",
+            "Name": "VirginiaTrail",
+            "Market": "PT-BR",
+            "Hash": "9310516852",
+            "FullDateString": "31 jul. 2026"
+        }
+    },
+    {
         "startdate": "20260730",
         "fullstartdate": "202607300300",
         "enddate": "20260731",

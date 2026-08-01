@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260731",
+        "fullstartdate": "202607310700",
+        "enddate": "20260801",
+        "url": "/th?id=OHR.VirginiaTrail_EN-US9403114082_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VirginiaTrail_EN-US9403114082",
+        "copyright": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia (© Eifel Kreutz/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Virginia+Creeper+Trail&form=hpcapt&filters=HpDate%3a%2220260731_0700%22",
+        "title": "Trailing through time",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260731_VirginiaTrail%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e1204f7e788defe27ae56c9bd805c20b",
+        "hsh": "63c379b1c3d7476e8a34692d93f0c1f7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Some railways retire. The Virginia Creeper Trail simply changed gears. Stretching 34.3 miles through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that labored up steep grades in the early 1900s.",
+                "Image": {
+                    "Url": "/th?id=OHR.VirginiaTrail_EN-US9403114082_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VirginiaTrail_EN-US9403114082_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Trailing through time",
+                "Title": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia",
+                "Copyright": "© Eifel Kreutz/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.631287,-81.783826/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=36.631287,-81.783826;S9;Virginia Creeper Trail, Damascus, Virginia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260731_VirginiaTrail\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Virginia+Creeper+Trail&form=hpcapt&filters=HpDate:\"20260731_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260731_VirginiaTrail"
+            },
+            "Ssd": "20260731",
+            "Name": "VirginiaTrail",
+            "Market": "EN-US",
+            "Hash": "9403114082",
+            "FullDateString": "Jul 31, 2026"
+        }
+    },
+    {
         "startdate": "20260730",
         "fullstartdate": "202607300700",
         "enddate": "20260731",

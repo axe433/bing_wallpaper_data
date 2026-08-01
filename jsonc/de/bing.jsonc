@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260731",
+        "fullstartdate": "202607312200",
+        "enddate": "20260801",
+        "url": "/th?id=OHR.HawaiiLava_DE-DE4111997666_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HawaiiLava_DE-DE4111997666",
+        "copyright": "Eine Reihe von Lavaströmen mündet ins Meer, Big Island, Hawaii, USA (© Ken McCurdy/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Hawai%27i-Volcanoes-Nationalpark+%C3%9Cbersicht&form=hpcapt&filters=HpDate%3a%2220260731_2200%22",
+        "title": "Die Kraft des Kīlauea",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260731_HawaiiLava%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8653c4a6ec6b317f9292d8145852d5d0",
+        "hsh": "8c7a47dca6202932fcf0dbe4939e1765",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Im Hawaiʻi-Volcanoes-Nationalpark auf der Big Island im US-Bundesstaat Hawaii verändern vulkanische Kräfte die Landschaft bis heute. Während viele Regionen der Erde ihr Erscheinungsbild erst über Jahrtausende hinweg wandeln, können Ausbrüche hier innerhalb kurzer Zeit neue Formen schaffen. Der Nationalpark in den Vereinigten Staaten wurde am 1. August 1916 gegründet, um dieses außergewöhnliche Naturgebiet zu schützen. Auf einer Fläche von mehr als 350.000 Acres umfasst er Lavafelder, einheimische Wälder und Lebensräume seltener Tierarten, die sich an die besonderen Bedingungen der Insel angepasst haben.",
+                "Image": {
+                    "Url": "/th?id=OHR.HawaiiLava_DE-DE4111997666_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HawaiiLava_DE-DE4111997666_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Die Kraft des Kīlauea",
+                "Title": "Eine Reihe von Lavaströmen mündet ins Meer, Big Island, Hawaii, USA",
+                "Copyright": "© Ken McCurdy/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/19.61087,-155.52742/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=19.61087,-155.52742;S9;Hawaii, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260801_HawaiiLava\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hawai%27i-Volcanoes-Nationalpark+%c3%9cbersicht&form=hpcapt&filters=HpDate:\"20260731_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260801_HawaiiLava"
+            },
+            "Ssd": "20260801",
+            "Name": "HawaiiLava",
+            "Market": "DE-DE",
+            "Hash": "4111997666",
+            "FullDateString": "1. Aug.. 2026"
+        }
+    },
+    {
         "startdate": "20260730",
         "fullstartdate": "202607302200",
         "enddate": "20260731",

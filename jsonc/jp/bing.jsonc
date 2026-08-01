@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260731",
+        "fullstartdate": "202607311500",
+        "enddate": "20260801",
+        "url": "/th?id=OHR.HirosakiNeputa2026_JA-JP5726503053_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HirosakiNeputa2026_JA-JP5726503053",
+        "copyright": "変わり種の金魚ねぷた, 青森県 弘前市 (© David Parker/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%BC%98%E5%89%8D%E3%81%AD%E3%81%B7%E3%81%9F%E3%81%BE%E3%81%A4%E3%82%8A&form=hpcapt&filters=HpDate%3a%2220260731_1500%22",
+        "title": "今日から弘前ねぷたまつり",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260731_HirosakiNeputa2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3de518f700b3fab82e62a4928cfbac59",
+        "hsh": "86063fa87f6e87db4e554d0256a068e5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 8 月 1 日から 7 日まで、青森県弘前市では「弘前ねぷたまつり」が開催されます。「ヤーヤドー」の掛け声とともに、大小約 80 台の山車が市内を練り歩くというもので、「弘前四大まつり」の一つにも数えられています。「ねぷた」という言葉の由来は諸説ありますが、かつて農民たちが夏に行っていた「眠り流し」という行事から生まれたといわれています。そして、様々なねぷたのなかでも、欠かすことのできないものの一つが金魚ねぷた。江戸時代、金魚は高級魚であり、庶民にとっては憧れの存在であったため、それをねぷたにしてお祭りで子どもたちに持たせたとされています。近年は、祭りのみならずお土産としても人気となっています。",
+                "Image": {
+                    "Url": "/th?id=OHR.HirosakiNeputa2026_JA-JP5726503053_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HirosakiNeputa2026_JA-JP5726503053_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日から弘前ねぷたまつり",
+                "Title": "変わり種の金魚ねぷた, 青森県 弘前市",
+                "Copyright": "© David Parker/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.603123,140.463928/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=40.603123,140.463928;S9;青森県弘前市&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260801_HirosakiNeputa2026%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260801_HirosakiNeputa2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%bc%98%e5%89%8d%e3%81%ad%e3%81%b7%e3%81%9f%e3%81%be%e3%81%a4%e3%82%8a&form=hpcapt&filters=HpDate:\"20260731_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260801_HirosakiNeputa2026"
+            },
+            "Ssd": "20260801",
+            "Name": "HirosakiNeputa2026",
+            "Market": "JA-JP",
+            "Hash": "5726503053",
+            "FullDateString": "2026 年 8月 月 1 日"
+        }
+    },
+    {
         "startdate": "20260730",
         "fullstartdate": "202607301500",
         "enddate": "20260731",
