@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260801",
+        "fullstartdate": "202608010300",
+        "enddate": "20260802",
+        "url": "/th?id=OHR.Maracatu_PT-BR9312687500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Maracatu_PT-BR9312687500",
+        "copyright": "Ornamentos, cores e detalhes do Maracatu Rural, Pernambuco (© FerreiraSilva/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=o+maracatu&form=hpcapt&mkt=pt-br",
+        "title": "A arte de desfilar histórias",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260801_Maracatu%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "74f8b632da3c1fdcda6876478f2335d0",
+        "hsh": "611f243f6a50a945874bd72b9bf1589e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Quando o Maracatu entra em cena, boa parte do espetáculo já aconteceu. Meses antes do primeiro desfile, mãos já bordam golas, prendem lantejoulas, lustram espelhos e ornamentam lanças com milhares de peças brilhantes.",
+                "Image": {
+                    "Url": "/th?id=OHR.Maracatu_PT-BR9312687500_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Maracatu_PT-BR9312687500_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A arte de desfilar histórias",
+                "Title": "Ornamentos, cores e detalhes do Maracatu Rural, Pernambuco",
+                "Copyright": "© FerreiraSilva/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260801_Maracatu\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=o+maracatu&form=hpcapt&filters=HpDate:\"20260801_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260801_Maracatu"
+            },
+            "Ssd": "20260801",
+            "Name": "Maracatu",
+            "Market": "PT-BR",
+            "Hash": "9312687500",
+            "FullDateString": "1 ago. 2026"
+        }
+    },
+    {
         "startdate": "20260731",
         "fullstartdate": "202607310300",
         "enddate": "20260801",

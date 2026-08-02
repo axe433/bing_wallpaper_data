@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260801",
+        "fullstartdate": "202608012200",
+        "enddate": "20260802",
+        "url": "/th?id=OHR.HelsinkiBlue_FR-FR8717266334_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HelsinkiBlue_FR-FR8717266334",
+        "copyright": "Le littoral d'Helsinki pendant l'heure bleue, Uusimaa, Finlande (© Miemo Penttinen/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260801_2200%22",
+        "title": "Fille de la Baltique",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260801_HelsinkiBlue%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e74eeb357080613f0117e44e19f19285",
+        "hsh": "4f81ca9e59e99d396a372d16f91fed84",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Il est un moment, entre chien et loup, où Helsinki retient son souffle. Le ciel vire à l’indigo, les eaux de la Baltique s’apaisent, et la ville se reflète dans un calme presque irréel. C’est l’heure bleue — fugace, envoûtante.",
+                "Image": {
+                    "Url": "/th?id=OHR.HelsinkiBlue_FR-FR8717266334_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HelsinkiBlue_FR-FR8717266334_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Fille de la Baltique",
+                "Title": "Le littoral d'Helsinki pendant l'heure bleue, Uusimaa, Finlande",
+                "Copyright": "© Miemo Penttinen/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/60.208715,25.004253/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=60.208715,25.004253;S9;Helsinki, Uusimaa, Finlande&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260802_HelsinkiBlue\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Helsinki&form=hpcapt&filters=HpDate:\"20260801_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260802_HelsinkiBlue"
+            },
+            "Ssd": "20260802",
+            "Name": "HelsinkiBlue",
+            "Market": "FR-FR",
+            "Hash": "8717266334",
+            "FullDateString": "2 août 2026"
+        }
+    },
+    {
         "startdate": "20260731",
         "fullstartdate": "202607312200",
         "enddate": "20260801",

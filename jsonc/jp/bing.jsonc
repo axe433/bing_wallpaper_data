@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260801",
+        "fullstartdate": "202608011500",
+        "enddate": "20260802",
+        "url": "/th?id=OHR.HelsinkiBlue_JA-JP6468131752_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HelsinkiBlue_JA-JP6468131752",
+        "copyright": "ヘルシンキ, フィンランド (© Miemo Penttinen/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%98%E3%83%AB%E3%82%B7%E3%83%B3%E3%82%AD&form=hpcapt&filters=HpDate%3a%2220260801_1500%22",
+        "title": "ブルーアワーに輝く湾岸の街",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260801_HelsinkiBlue%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e74eeb357080613f0117e44e19f19285",
+        "hsh": "a9ef68a06a3d62c5a699bb4208b77694",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ここはフィンランドの首都ヘルシンキ。1550 年、当時のスウェーデン国王グスタフ 1 世によって交易の街として整備され、1812 年に首都となりました。フィンランド湾沿岸に位置し、300 以上の島々を有しているため、街の総面積の約 7 割が海域となっていますが、同時に緑豊かな森にも恵まれています。フィンランドには「自然享受権」という権利があるため、誰でも気軽に森を散策することが可能であり、ベリーやキノコなどを自由に採集することができます。",
+                "Image": {
+                    "Url": "/th?id=OHR.HelsinkiBlue_JA-JP6468131752_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HelsinkiBlue_JA-JP6468131752_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "ブルーアワーに輝く湾岸の街",
+                "Title": "ヘルシンキ, フィンランド",
+                "Copyright": "© Miemo Penttinen/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/60.166622,24.943541/11?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=60.166622,24.943541;S9;ヘルシンキ, フィンランド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260802_HelsinkiBlue%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260802_HelsinkiBlue\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%98%e3%83%ab%e3%82%b7%e3%83%b3%e3%82%ad&form=hpcapt&filters=HpDate:\"20260801_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260802_HelsinkiBlue"
+            },
+            "Ssd": "20260802",
+            "Name": "HelsinkiBlue",
+            "Market": "JA-JP",
+            "Hash": "6468131752",
+            "FullDateString": "2026 年 8月 月 2 日"
+        }
+    },
+    {
         "startdate": "20260731",
         "fullstartdate": "202607311500",
         "enddate": "20260801",

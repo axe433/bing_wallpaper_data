@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260801",
+        "fullstartdate": "202608012200",
+        "enddate": "20260802",
+        "url": "/th?id=OHR.HelsinkiBlue_DE-DE4461850043_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HelsinkiBlue_DE-DE4461850043",
+        "copyright": "Helsinkis Küste zur blauen Stunde, Uusimaa, Finnland (© Miemo Penttinen/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260801_2200%22",
+        "title": "Tochter der Ostsee",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260801_HelsinkiBlue%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e74eeb357080613f0117e44e19f19285",
+        "hsh": "056d75c4d3711ddee0b0fe073d0cde47",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Helsinki, die Hauptstadt Finnlands, verbindet Geschichte, Design und die Nähe zur Ostsee auf einzigartige Weise. Die Stadt wurde 1550 von Gustav I. von Schweden gegründet und ist seit 1812 die Hauptstadt des Landes. Entlang der Küste prägen elegante Gebäude, lebendige Hafenviertel und die ruhige Weite des Meeres das Stadtbild. Zur blauen Stunde spiegeln sich die letzten Farben des Tages im Wasser, während die Lichter der Stadt allmählich aufleuchten und eine besondere Atmosphäre schaffen.",
+                "Image": {
+                    "Url": "/th?id=OHR.HelsinkiBlue_DE-DE4461850043_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HelsinkiBlue_DE-DE4461850043_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Tochter der Ostsee",
+                "Title": "Helsinkis Küste zur blauen Stunde, Uusimaa, Finnland",
+                "Copyright": "© Miemo Penttinen/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/60.208715,25.004253/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=60.208715,25.004253;S9;Helsinki, Uusimaa, Finnland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260802_HelsinkiBlue\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Helsinki&form=hpcapt&filters=HpDate:\"20260801_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260802_HelsinkiBlue"
+            },
+            "Ssd": "20260802",
+            "Name": "HelsinkiBlue",
+            "Market": "DE-DE",
+            "Hash": "4461850043",
+            "FullDateString": "2. Aug.. 2026"
+        }
+    },
+    {
         "startdate": "20260731",
         "fullstartdate": "202607312200",
         "enddate": "20260801",

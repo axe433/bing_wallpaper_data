@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260801",
+        "fullstartdate": "202608010700",
+        "enddate": "20260802",
+        "url": "/th?id=OHR.HawaiiLava_ROW7372744216_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HawaiiLava_ROW7372744216",
+        "copyright": "A series of lava flows spill into the ocean, Big Island, Hawaii, United States (© Ken McCurdy/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Hawaii+Volcanoes+National+Park&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260801_HawaiiLava%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8653c4a6ec6b317f9292d8145852d5d0",
+        "hsh": "10465e917de28efc0bdfb1bcccecdc77",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Most landscapes change over thousands of years. Volcanoes can reshape them in a matter of hours, and on Hawaii's Big Island, they continue to do just that. Recognising the scientific and natural importance of this ever-changing environment, Hawaii Volcanoes National Park was established in 1916. For more than a century, it has protected more than 1,430 square kilometres of volcanic terrain, native forests and rare wildlife.",
+                "Image": {
+                    "Url": "/th?id=OHR.HawaiiLava_ROW7372744216_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HawaiiLava_ROW7372744216_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "A series of lava flows spill into the ocean, Big Island, Hawaii, United States",
+                "Copyright": "© Ken McCurdy/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260801_HawaiiLava\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hawaii+Volcanoes+National+Park&form=hpcapt&filters=HpDate:\"20260801_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260801_HawaiiLava"
+            },
+            "Ssd": "20260801",
+            "Name": "HawaiiLava",
+            "Market": "ROW",
+            "Hash": "7372744216",
+            "FullDateString": "Aug 1, jjjj"
+        }
+    },
+    {
         "startdate": "20260731",
         "fullstartdate": "202607310700",
         "enddate": "20260801",
