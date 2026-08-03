@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260802",
+        "fullstartdate": "202608020300",
+        "enddate": "20260803",
+        "url": "/th?id=OHR.HelsinkiBlue_PT-BR0340824647_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HelsinkiBlue_PT-BR0340824647",
+        "copyright": "Orla de Helsinque na hora azul, Uusimaa, Finlândia (© Miemo Penttinen/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Helsinque+Finl%C3%A2ndia&form=hpcapt&mkt=pt-br",
+        "title": "A cidade que abraça o mar",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260802_HelsinkiBlue%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e74eeb357080613f0117e44e19f19285",
+        "hsh": "09394f6f3f142d1e801675b4675e75af",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Vista na imagem, Helsinque parece uma cidade que nunca conseguiu decidir se prefere terra ou mar. O resultado? Mais de 300 ilhas, quilômetros de litoral e uma capital onde o azul aparece em praticamente qualquer direção. Fundada em 1550 como um centro comercial do reino da Suécia, ela virou capital finlandesa em 1812 e, desde então, coleciona um talento raro: combinar prédios elegantes, natureza e uma vida urbana que anda sem pressa.",
+                "Image": {
+                    "Url": "/th?id=OHR.HelsinkiBlue_PT-BR0340824647_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HelsinkiBlue_PT-BR0340824647_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A cidade que abraça o mar",
+                "Title": "Orla de Helsinque na hora azul, Uusimaa, Finlândia",
+                "Copyright": "© Miemo Penttinen/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260802_HelsinkiBlue\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Helsinque+Finl%c3%a2ndia&form=hpcapt&filters=HpDate:\"20260802_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260802_HelsinkiBlue"
+            },
+            "Ssd": "20260802",
+            "Name": "HelsinkiBlue",
+            "Market": "PT-BR",
+            "Hash": "0340824647",
+            "FullDateString": "2 ago. 2026"
+        }
+    },
+    {
         "startdate": "20260801",
         "fullstartdate": "202608010300",
         "enddate": "20260802",

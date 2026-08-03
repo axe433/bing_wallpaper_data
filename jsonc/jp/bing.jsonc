@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260802",
+        "fullstartdate": "202608021500",
+        "enddate": "20260803",
+        "url": "/th?id=OHR.BoatsMalta_JA-JP6685221242_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BoatsMalta_JA-JP6685221242",
+        "copyright": "マルサシュロック, マルタ (© Klubovy/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%9E%E3%83%AB%E3%82%B5%E3%82%B7%E3%83%A5%E3%83%AD%E3%83%83%E3%82%AF&form=hpcapt&filters=HpDate%3a%2220260802_1500%22",
+        "title": "エメラルドの海に浮かぶ色とりどりの船",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260802_BoatsMalta%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "50fb3657664d8a2d1874f0a08b6bbaae",
+        "hsh": "9b3ff05ea4f72d7e0be7a9374bee2689",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "マルタ本島最大の漁師町、マルサシュロック。マルタ島の南東部に位置し、日曜日に開催されるフィッシュマーケットで知られています。そして画像は、町の港に並ぶ伝統的な漁船「ルッツ」です。青や黄、赤などの鮮やかな色で彩られた木製の船で、船首には「オシリスの目」と呼ばれる装飾が施されています。これは、航海の安全を見守るお守りとされ、2000 年以上前から受け継がれています。地中海の青い海と長い歴史が息づく町並みが調和する風景は、訪れる人々を魅了します。",
+                "Image": {
+                    "Url": "/th?id=OHR.BoatsMalta_JA-JP6685221242_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BoatsMalta_JA-JP6685221242_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "エメラルドの海に浮かぶ色とりどりの船",
+                "Title": "マルサシュロック, マルタ",
+                "Copyright": "© Klubovy/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.841105,14.544731/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=35.841105,14.544731;S9;マルサシュロック, マルタ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260803_BoatsMalta%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260803_BoatsMalta\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%9e%e3%83%ab%e3%82%b5%e3%82%b7%e3%83%a5%e3%83%ad%e3%83%83%e3%82%af&form=hpcapt&filters=HpDate:\"20260802_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260803_BoatsMalta"
+            },
+            "Ssd": "20260803",
+            "Name": "BoatsMalta",
+            "Market": "JA-JP",
+            "Hash": "6685221242",
+            "FullDateString": "2026 年 8月 月 3 日"
+        }
+    },
+    {
         "startdate": "20260801",
         "fullstartdate": "202608011500",
         "enddate": "20260802",

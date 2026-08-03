@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260802",
+        "fullstartdate": "202608020700",
+        "enddate": "20260803",
+        "url": "/th?id=OHR.HelsinkiBlue_ROW0990097537_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HelsinkiBlue_ROW0990097537",
+        "copyright": "Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Helsinki&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260802_HelsinkiBlue%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e74eeb357080613f0117e44e19f19285",
+        "hsh": "e63ecbb1c301dec5400c8462d8b5e677",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Finland is famous for the northern lights, its high happiness rankings, saunas and thousands of lakes. Helsinki adds history, design and the Baltic Sea to that list. The story begins in 1550, when King Gustav I of Sweden founded a trading town that would become Finland's capital in 1812. Today, a walk through the city can take you from Senate Square and the white-domed Helsinki Cathedral to the sea fortress of Suomenlinna, a UNESCO World Heritage Site accessible by ferry.",
+                "Image": {
+                    "Url": "/th?id=OHR.HelsinkiBlue_ROW0990097537_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HelsinkiBlue_ROW0990097537_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Helsinki's shoreline during blue hour, Uusimaa, Finland",
+                "Copyright": "© Miemo Penttinen/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260802_HelsinkiBlue\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Helsinki&form=hpcapt&filters=HpDate:\"20260802_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260802_HelsinkiBlue"
+            },
+            "Ssd": "20260802",
+            "Name": "HelsinkiBlue",
+            "Market": "ROW",
+            "Hash": "0990097537",
+            "FullDateString": "Aug 2, jjjj"
+        }
+    },
+    {
         "startdate": "20260801",
         "fullstartdate": "202608010700",
         "enddate": "20260802",

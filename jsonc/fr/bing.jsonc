@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260802",
+        "fullstartdate": "202608022200",
+        "enddate": "20260803",
+        "url": "/th?id=OHR.BoatsMalta_FR-FR8096449869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BoatsMalta_FR-FR8096449869",
+        "copyright": "Bateaux colorés dans le port de Marsaxlokk, Malte (© Klubovy/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Marsaxlokk+Malte&form=hpcapt&filters=HpDate%3a%2220260802_2200%22",
+        "title": "Les couleurs de la tradition",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260802_BoatsMalta%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "50fb3657664d8a2d1874f0a08b6bbaae",
+        "hsh": "22e4c4ec6d57e3d58545b60a7c98b2d1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Les luzzus apportent leurs couleurs au paysage. Ces barques de pêche traditionnelles maltaises animent le port abrité de Marsaxlokk, village côtier du sud‑est de Malte, leurs coques peintes en bleu cobalt, jaune vif, rouge et vert composant une palette que la Méditerranée semble avoir créée elle‑même.",
+                "Image": {
+                    "Url": "/th?id=OHR.BoatsMalta_FR-FR8096449869_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BoatsMalta_FR-FR8096449869_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Les couleurs de la tradition",
+                "Title": "Bateaux colorés dans le port de Marsaxlokk, Malte",
+                "Copyright": "© Klubovy/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.842987,14.54532/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=35.842987,14.54532;S9;Marsaxlokk, Malte&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260803_BoatsMalta\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Marsaxlokk+Malte&form=hpcapt&filters=HpDate:\"20260802_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260803_BoatsMalta"
+            },
+            "Ssd": "20260803",
+            "Name": "BoatsMalta",
+            "Market": "FR-FR",
+            "Hash": "8096449869",
+            "FullDateString": "3 août 2026"
+        }
+    },
+    {
         "startdate": "20260801",
         "fullstartdate": "202608012200",
         "enddate": "20260802",
