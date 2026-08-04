@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260803",
+        "fullstartdate": "202608032200",
+        "enddate": "20260804",
+        "url": "/th?id=OHR.AdorableOwlet_DE-DE5484057022_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AdorableOwlet_DE-DE5484057022",
+        "copyright": "Florida-Kanincheneule, Cape Coral, Florida, USA (© mlorenzphotography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Eulen+Vogel&form=hpcapt&filters=HpDate%3a%2220260803_2200%22",
+        "title": "Neugierig und aufmerksam",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260803_AdorableOwlet%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8ee53f6ee71cf68aa149ede6871f4bf9",
+        "hsh": "16658d0b3cc39401116c7e32610174f8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Der Internationale Tag der Eule am 4. August lenkt die Aufmerksamkeit auf eine Vogelgruppe, die seit Jahrhunderten Menschen fasziniert. Eulen kommen in vielen Regionen der Welt vor und haben erstaunliche Anpassungen entwickelt. Ihr besonders empfindliches Gehör hilft ihnen, selbst leise Geräusche wahrzunehmen, während ihr weicher Federaufbau einen nahezu lautlosen Flug ermöglicht. Da ihre Augen fest in den Augenhöhlen sitzen, gleichen sie dies mit einer außergewöhnlichen Beweglichkeit des Halses aus. So können sie ihre Umgebung aufmerksam beobachten und auch bei schlechten Lichtverhältnissen erfolgreich jagen.",
+                "Image": {
+                    "Url": "/th?id=OHR.AdorableOwlet_DE-DE5484057022_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AdorableOwlet_DE-DE5484057022_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Neugierig und aufmerksam",
+                "Title": "Florida-Kanincheneule, Cape Coral, Florida, USA",
+                "Copyright": "© mlorenzphotography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Eulen können ihren Kopf um bis zu 270° drehen, um auszugleichen, dass ihre Augen fest in den Augenhöhlen sitzen.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260804_AdorableOwlet\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Eulen+Vogel&form=hpcapt&filters=HpDate:\"20260803_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260804_AdorableOwlet"
+            },
+            "Ssd": "20260804",
+            "Name": "AdorableOwlet",
+            "Market": "DE-DE",
+            "Hash": "5484057022",
+            "FullDateString": "4. Aug.. 2026"
+        }
+    },
+    {
         "startdate": "20260802",
         "fullstartdate": "202608022200",
         "enddate": "20260803",
