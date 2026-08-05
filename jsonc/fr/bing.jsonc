@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260804",
+        "fullstartdate": "202608042200",
+        "enddate": "20260805",
+        "url": "/th?id=OHR.FezMorocco_FR-FR8577168535_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FezMorocco_FR-FR8577168535",
+        "copyright": "Porte décorée du Palais Royal de Fès, Maroc (© cgst26/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Palais+royal+de+F%C3%A8s&form=hpcapt&filters=HpDate%3a%2220260804_2200%22",
+        "title": "Les portes d'un royaume caché",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260804_FezMorocco%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "990acf6fea8029100af49b55d9b8b0db",
+        "hsh": "263c591c89edae45210292a74a009819",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Il y a des portes qui ne s’ouvrent pas — et qui n’en disent que plus. À Fès, au Maroc, sur la place des Alaouites, sept vantaux de laiton doré dominent l’espace par leur hauteur et leur éclat. Zelliges géométriques, arches sculptées dans le cèdre, symétries minutieuses : l’artisanat marocain atteint ici une forme d’absolu. Derrière ces murs, le Dar al‑Makhzen, palais royal depuis le XIIIᵉ siècle, abrite encore jardins, mosquées et résidences en activité.",
+                "Image": {
+                    "Url": "/th?id=OHR.FezMorocco_FR-FR8577168535_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FezMorocco_FR-FR8577168535_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Les portes d'un royaume caché",
+                "Title": "Porte décorée du Palais Royal de Fès, Maroc",
+                "Copyright": "© cgst26/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/34.05306,-4.99361/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=34.05306,-4.99361;S9;Fès, Maroc&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260805_FezMorocco\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Palais+royal+de+F%c3%a8s&form=hpcapt&filters=HpDate:\"20260804_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260805_FezMorocco"
+            },
+            "Ssd": "20260805",
+            "Name": "FezMorocco",
+            "Market": "FR-FR",
+            "Hash": "8577168535",
+            "FullDateString": "5 août 2026"
+        }
+    },
+    {
         "startdate": "20260803",
         "fullstartdate": "202608032200",
         "enddate": "20260804",

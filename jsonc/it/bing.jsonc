@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260804",
+        "fullstartdate": "202608042200",
+        "enddate": "20260805",
+        "url": "/th?id=OHR.FezMorocco_IT-IT9988975389_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FezMorocco_IT-IT9988975389",
+        "copyright": "Porta decorata del Palazzo Reale di Fès, Marocco (© cgst26/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Palazzo+Reale+di+F%C3%A8s+Marocco&form=hpcapt",
+        "title": "Porte di un regno nascosto",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260804_FezMorocco%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "990acf6fea8029100af49b55d9b8b0db",
+        "hsh": "1c0f8a5a1f30b8e4151771b841ce306c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A Fès, in Marocco, le sette porte in ottone del Dar al-Makhzen si aprono su Place des Alaouites con una presenza che non lascia indifferenti. Il Palazzo Reale esiste in questa forma dal XIII secolo, quando i sovrani del Marocco costruirono attorno a esso una vera e propria città fortezza. Dietro le mura alte si celano giardini, cortili, moschee e residenze reali ancora oggi in uso dal re — un complesso vivo, non un museo.",
+                "Image": {
+                    "Url": "/th?id=OHR.FezMorocco_IT-IT9988975389_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FezMorocco_IT-IT9988975389_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Porte di un regno nascosto",
+                "Title": "Porta decorata del Palazzo Reale di Fès, Marocco",
+                "Copyright": "© cgst26/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/34.05306,-4.99361/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=34.05306,-4.99361;S9;Fès, Marocco&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260805_FezMorocco\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Palazzo+Reale+di+F%c3%a8s+Marocco&form=hpcapt&filters=HpDate:\"20260804_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260805_FezMorocco"
+            },
+            "Ssd": "20260805",
+            "Name": "FezMorocco",
+            "Market": "IT-IT",
+            "Hash": "9988975389",
+            "FullDateString": "5 agosto 2026"
+        }
+    },
+    {
         "startdate": "20260803",
         "fullstartdate": "202608032200",
         "enddate": "20260804",

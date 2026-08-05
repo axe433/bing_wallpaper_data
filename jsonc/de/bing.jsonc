@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260804",
+        "fullstartdate": "202608042200",
+        "enddate": "20260805",
+        "url": "/th?id=OHR.FezMorocco_DE-DE5645521719_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FezMorocco_DE-DE5645521719",
+        "copyright": "Verziertes Tor des Königspalasts von Fès, Marokko (© cgst26/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=K%C3%B6nigspalast+F%C3%A8s&form=hpcapt&filters=HpDate%3a%2220260804_2200%22",
+        "title": "Tore eines verborgenen Königreichs",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260804_FezMorocco%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "990acf6fea8029100af49b55d9b8b0db",
+        "hsh": "ce1ee4039a6176daf23ab099e9c238a6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Manchmal genügt ein Blick, um Geschichte zu spüren und ihre besondere Atmosphäre zu erleben – so wie vor dem Königspalast von Fès. Der Dar al-Makhzen geht auf das 13. Jahrhundert zurück und dient bis heute als eine offizielle Residenz des marokkanischen Königs. Hinter seinen Mauern verbirgt sich ein weitläufiger Komplex aus Gärten, Höfen und religiösen Bauten.",
+                "Image": {
+                    "Url": "/th?id=OHR.FezMorocco_DE-DE5645521719_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FezMorocco_DE-DE5645521719_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Tore eines verborgenen Königreichs",
+                "Title": "Verziertes Tor des Königspalasts von Fès, Marokko",
+                "Copyright": "© cgst26/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/34.05306,-4.99361/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=34.05306,-4.99361;S9;Fès, Marokko&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260805_FezMorocco\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=K%c3%b6nigspalast+F%c3%a8s&form=hpcapt&filters=HpDate:\"20260804_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260805_FezMorocco"
+            },
+            "Ssd": "20260805",
+            "Name": "FezMorocco",
+            "Market": "DE-DE",
+            "Hash": "5645521719",
+            "FullDateString": "5. Aug.. 2026"
+        }
+    },
+    {
         "startdate": "20260803",
         "fullstartdate": "202608032200",
         "enddate": "20260804",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260804",
+        "fullstartdate": "202608041500",
+        "enddate": "20260805",
+        "url": "/th?id=OHR.FezMorocco_JA-JP7567982886_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FezMorocco_JA-JP7567982886",
+        "copyright": "フェズ王宮, モロッコ (© cgst26/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%95%E3%82%A7%E3%82%BA%E7%8E%8B%E5%AE%AE&form=hpcapt&filters=HpDate%3a%2220260804_1500%22",
+        "title": "宮殿の門",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260804_FezMorocco%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "990acf6fea8029100af49b55d9b8b0db",
+        "hsh": "2dac29051b6c6af2bbcaaea8270a1a3e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "モロッコの古都フェズにある王宮「ダル・アル・マフゼン」は、13 世紀に建設された歴史ある宮殿です。写真に映る宮殿の門は、精巧な真鍮細工と色鮮やかな幾何学模様のタイルで彩られ、モロッコ建築の美しさを象徴しています。現在も王族の居住地として使用されているため、内部は一般公開されていませんが、この壮麗な門の前には近づくことができるため、長い歴史と王室文化の重みを間近に感じることができます。",
+                "Image": {
+                    "Url": "/th?id=OHR.FezMorocco_JA-JP7567982886_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FezMorocco_JA-JP7567982886_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "宮殿の門",
+                "Title": "フェズ王宮, モロッコ",
+                "Copyright": "© cgst26/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/34.034653,-5.016192/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=34.034653,-5.016192;S9;フェズ王宮, モロッコ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260805_FezMorocco%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260805_FezMorocco\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%95%e3%82%a7%e3%82%ba%e7%8e%8b%e5%ae%ae&form=hpcapt&filters=HpDate:\"20260804_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260805_FezMorocco"
+            },
+            "Ssd": "20260805",
+            "Name": "FezMorocco",
+            "Market": "JA-JP",
+            "Hash": "7567982886",
+            "FullDateString": "2026 年 8月 月 5 日"
+        }
+    },
+    {
         "startdate": "20260803",
         "fullstartdate": "202608031500",
         "enddate": "20260804",
