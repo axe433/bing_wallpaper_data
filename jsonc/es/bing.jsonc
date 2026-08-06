@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260805",
+        "fullstartdate": "202608052200",
+        "enddate": "20260806",
+        "url": "/th?id=OHR.MaraCrossing_ES-ES3801561108_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MaraCrossing_ES-ES3801561108",
+        "copyright": "Ñus migratorios cruzando el río Mara en Masai Mara, Kenia (© Manoj Shah/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%C3%91u+animal&form=hpcapt&filters=HpDate%3a%2220260805_2200%22",
+        "title": "Un río de valientes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260805_MaraCrossing%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ae5cfd11815f7cfbc920781b6d803def",
+        "hsh": "f2ea190dfea5e10f7c485ee8ed027d75",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En la Reserva Masái Mara, en Kenia, la tierra parece cobrar vida propia. Cada año, más de 1,5 millones de ñus emprenden una de las travesías más espectaculares del planeta: la Gran Migración, un ciclo imparable impulsado por la búsqueda de hierba fresca y agua renovada por las lluvias estacionales. Junto a ellos viajan cebras y gacelas, formando una marea de vida que transforma el paisaje africano.",
+                "Image": {
+                    "Url": "/th?id=OHR.MaraCrossing_ES-ES3801561108_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MaraCrossing_ES-ES3801561108_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un río de valientes",
+                "Title": "Ñus migratorios cruzando el río Mara en Masai Mara, Kenia",
+                "Copyright": "© Manoj Shah/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260806_MaraCrossing\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%c3%91u+animal&form=hpcapt&filters=HpDate:\"20260805_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260806_MaraCrossing"
+            },
+            "Ssd": "20260806",
+            "Name": "MaraCrossing",
+            "Market": "ES-ES",
+            "Hash": "3801561108",
+            "FullDateString": "6 de ago de 2026"
+        }
+    },
+    {
         "startdate": "20260804",
         "fullstartdate": "202608042200",
         "enddate": "20260805",

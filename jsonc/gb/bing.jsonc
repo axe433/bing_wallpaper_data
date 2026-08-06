@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260805",
+        "fullstartdate": "202608052300",
+        "enddate": "20260806",
+        "url": "/th?id=OHR.MaraCrossing_EN-GB8480696688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MaraCrossing_EN-GB8480696688",
+        "copyright": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Wildebeest&form=hpcapt&filters=HpDate%3a%2220260805_2300%22",
+        "title": "Where the river tests the brave",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260805_MaraCrossing%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ae5cfd11815f7cfbc920781b6d803def",
+        "hsh": "34fb3fb973dd26218e26cad265ccf0f1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "In the Masai Mara, Kenya, the ground seems to move. A vast surge of wildebeest—hoofed grazers built for endurance—travel s in tightly packed herds, drawn by fresh grass and water replenished by seasonal rains.",
+                "Image": {
+                    "Url": "/th?id=OHR.MaraCrossing_EN-GB8480696688_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MaraCrossing_EN-GB8480696688_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Where the river tests the brave",
+                "Title": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya",
+                "Copyright": "© Manoj Shah/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Weighing as much as 275 kilograms, adult wildebeests rank among the larger herbivorous antelope species.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260806_MaraCrossing\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Wildebeest&form=hpcapt&filters=HpDate:\"20260805_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260806_MaraCrossing"
+            },
+            "Ssd": "20260806",
+            "Name": "MaraCrossing",
+            "Market": "EN-GB",
+            "Hash": "8480696688",
+            "FullDateString": "6 Aug 2026"
+        }
+    },
+    {
         "startdate": "20260804",
         "fullstartdate": "202608042300",
         "enddate": "20260805",

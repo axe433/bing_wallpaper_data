@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260805",
+        "fullstartdate": "202608052200",
+        "enddate": "20260806",
+        "url": "/th?id=OHR.MaraCrossing_IT-IT0069962871_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MaraCrossing_IT-IT0069962871",
+        "copyright": "Gnu migratori che attraversano il fiume Mara a Masai Mara, Kenya (© Manoj Shah/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lo+Gnu&form=hpcapt",
+        "title": "La prova dei coraggiosi",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260805_MaraCrossing%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ae5cfd11815f7cfbc920781b6d803def",
+        "hsh": "fe328d4a5b73277151ca1b10dd56059f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A Masai Mara, in Kenya, il suolo sembra prendere vita. Un'onda di gnu — erbivori resistenti costruiti per la distanza — avanza in branchi compatti verso le rive del fiume Mara, richiamati dall'erba fresca nata con le piogge stagionali. Poi, all'improvviso, il salto: corni in avanti, corpi che si scontrano, spruzzi che esplodono mentre il branco si lancia attraverso le correnti vorticose.",
+                "Image": {
+                    "Url": "/th?id=OHR.MaraCrossing_IT-IT0069962871_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MaraCrossing_IT-IT0069962871_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La prova dei coraggiosi",
+                "Title": "Gnu migratori che attraversano il fiume Mara a Masai Mara, Kenya",
+                "Copyright": "© Manoj Shah/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260806_MaraCrossing\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lo+Gnu&form=hpcapt&filters=HpDate:\"20260805_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260806_MaraCrossing"
+            },
+            "Ssd": "20260806",
+            "Name": "MaraCrossing",
+            "Market": "IT-IT",
+            "Hash": "0069962871",
+            "FullDateString": "6 agosto 2026"
+        }
+    },
+    {
         "startdate": "20260804",
         "fullstartdate": "202608042200",
         "enddate": "20260805",

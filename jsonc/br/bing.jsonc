@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260805",
+        "fullstartdate": "202608050300",
+        "enddate": "20260806",
+        "url": "/th?id=OHR.FezMorocco_PT-BR3389215453_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FezMorocco_PT-BR3389215453",
+        "copyright": "Porta decorada do Palácio Real de Fez, Marrocos (© cgst26/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Pal%C3%A1cio+Real+de+Fez+Dar+al+Makhzen&form=hpcapt&mkt=pt-br",
+        "title": "Um mistério guardado a sete chaves",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260805_FezMorocco%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "990acf6fea8029100af49b55d9b8b0db",
+        "hsh": "c1f8076639532b6071ae1d3bb9fc4968",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nossa imagem de hoje desperta a pergunta: o que existe atrás desta porta? Os sete portões do Palácio Real de Fez, conhecido como Dar al-Makhzen, guardam muito mais do que uma construção. Atrás dos altos muros funciona uma verdadeira cidade, com jardins, mesquitas, pátios e residências que continuam servindo à família real do Marrocos quase oito séculos depois de sua fundação.",
+                "Image": {
+                    "Url": "/th?id=OHR.FezMorocco_PT-BR3389215453_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FezMorocco_PT-BR3389215453_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Um mistério guardado a sete chaves",
+                "Title": "Porta decorada do Palácio Real de Fez, Marrocos",
+                "Copyright": "© cgst26/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260805_FezMorocco\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Pal%c3%a1cio+Real+de+Fez+Dar+al+Makhzen&form=hpcapt&filters=HpDate:\"20260805_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260805_FezMorocco"
+            },
+            "Ssd": "20260805",
+            "Name": "FezMorocco",
+            "Market": "PT-BR",
+            "Hash": "3389215453",
+            "FullDateString": "5 ago. 2026"
+        }
+    },
+    {
         "startdate": "20260804",
         "fullstartdate": "202608040300",
         "enddate": "20260805",
