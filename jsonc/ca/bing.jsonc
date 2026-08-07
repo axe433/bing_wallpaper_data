@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260806",
+        "fullstartdate": "202608060400",
+        "enddate": "20260807",
+        "url": "/th?id=OHR.EDMFolkFest_EN-CA4302918547_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EDMFolkFest_EN-CA4302918547",
+        "copyright": "Edmonton at night, Alberta (© Tetyana Babiy/iStock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Edmonton+Folk+Festival&form=hpcapt&filters=HpDate%3a%2220260806_0400%22",
+        "title": "Meet me on the hill",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260806_EDMFolkFest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bce98ac97a0e3c7cb9ebca5d082f5728",
+        "hsh": "790e019852141da17545c7083f2c734e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "The best seats don't have seat numbers. They start with a blanket spread out on the hill and someone nearby trying to guess the first song of the evening while sharing snacks. Sound familiar? It must be Folk Fest. From today until 9 August, Gallagher Park once again becomes a gathering place for Edmonton music lovers. What keeps people coming back year after year? It's rarely just one artist. Across the festival's stages, musicians perform solo sets, then join others for workshop sessions that create one-off collaborations.",
+                "Image": {
+                    "Url": "/th?id=OHR.EDMFolkFest_EN-CA4302918547_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.EDMFolkFest_EN-CA4302918547_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Meet me on the hill",
+                "Title": "Edmonton at night, Alberta",
+                "Copyright": "© Tetyana Babiy/iStock/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/53.535797,-113.4705/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=53.535797,-113.4705;S9;Gallagher Park, Edmonton, Alberta&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260806_EDMFolkFest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Edmonton+Folk+Festival&form=hpcapt&filters=HpDate:\"20260806_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260806_EDMFolkFest"
+            },
+            "Ssd": "20260806",
+            "Name": "EDMFolkFest",
+            "Market": "EN-CA",
+            "Hash": "4302918547",
+            "FullDateString": "Aug 6, 2026"
+        }
+    },
+    {
         "startdate": "20260805",
         "fullstartdate": "202608050400",
         "enddate": "20260806",

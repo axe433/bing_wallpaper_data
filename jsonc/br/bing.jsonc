@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260806",
+        "fullstartdate": "202608060300",
+        "enddate": "20260807",
+        "url": "/th?id=OHR.MaraCrossing_PT-BR3865870931_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MaraCrossing_PT-BR3865870931",
+        "copyright": "Migração de gnus cruzando o Rio Mara na Reserva Nacional Masai Mara, Quênia (© Manoj Shah/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=gnus&form=hpcapt&mkt=pt-br",
+        "title": "O efeito manada da coragem",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260806_MaraCrossing%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ae5cfd11815f7cfbc920781b6d803def",
+        "hsh": "9823d04a0e6602d1dc0ec37cebffe2f2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Quase dá pra sentir a terra tremer. Na cena de hoje, milhares de gnus hesitam às margens do Rio Mara, no Quênia. Mas a pausa dura pouco. Um salto, depois outro, e logo a margem desaba em uma corrente viva de cascos, poeira e respingos. Este é um dos momentos mais eletrizantes da maior migração terrestre do planeta. Todo ano, mais de 1 milhão de gnus, zebras e gazelas cruzam centenas de quilômetros entre o Serengeti, na Tanzânia, e o Masai Mara, no Quênia, atrás de pastagens mais verdes.",
+                "Image": {
+                    "Url": "/th?id=OHR.MaraCrossing_PT-BR3865870931_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MaraCrossing_PT-BR3865870931_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O efeito manada da coragem",
+                "Title": "Migração de gnus cruzando o Rio Mara na Reserva Nacional Masai Mara, Quênia",
+                "Copyright": "© Manoj Shah/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260806_MaraCrossing\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=gnus&form=hpcapt&filters=HpDate:\"20260806_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260806_MaraCrossing"
+            },
+            "Ssd": "20260806",
+            "Name": "MaraCrossing",
+            "Market": "PT-BR",
+            "Hash": "3865870931",
+            "FullDateString": "6 ago. 2026"
+        }
+    },
+    {
         "startdate": "20260805",
         "fullstartdate": "202608050300",
         "enddate": "20260806",

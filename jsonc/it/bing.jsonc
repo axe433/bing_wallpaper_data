@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260806",
+        "fullstartdate": "202608062200",
+        "enddate": "20260807",
+        "url": "/th?id=OHR.CabilaoClowns_IT-IT2689259702_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CabilaoClowns_IT-IT2689259702",
+        "copyright": "Pesci pagliaccio in un anemone di mare, isola di Cabilao, Bohol, Filippine (© Franco Banfi/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Pesci+pagliaccio&form=hpcapt",
+        "title": "Pronti per i festeggiamenti",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260806_CabilaoClowns%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "02d57d5935a3be357cc9a99240254e48",
+        "hsh": "22619067b47d2ff699beb71902c0db15",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nelle acque della barriera corallina dell'isola di Cabilao, a Bohol, nelle Filippine, i pesci pagliaccio hanno trovato la casa definitiva: un anemone di mare armato di migliaia di cellule urticanti microscopiche, in grado di tenere lontano qualsiasi intruso. Per la maggior parte dei pesci, avvicinarsi a un anemone equivale a entrare in un campo minato; per questi piccoli abitanti dai colori vivaci, è semplicemente il loro indirizzo di casa.",
+                "Image": {
+                    "Url": "/th?id=OHR.CabilaoClowns_IT-IT2689259702_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CabilaoClowns_IT-IT2689259702_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Pronti per i festeggiamenti",
+                "Title": "Pesci pagliaccio in un anemone di mare, isola di Cabilao, Bohol, Filippine",
+                "Copyright": "© Franco Banfi/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/9.881099,123.771501/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=9.881099,123.771501;S9;Isola di Cabilao, Bohol, Filippine&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260807_CabilaoClowns\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Pesci+pagliaccio&form=hpcapt&filters=HpDate:\"20260806_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260807_CabilaoClowns"
+            },
+            "Ssd": "20260807",
+            "Name": "CabilaoClowns",
+            "Market": "IT-IT",
+            "Hash": "2689259702",
+            "FullDateString": "7 agosto 2026"
+        }
+    },
+    {
         "startdate": "20260805",
         "fullstartdate": "202608052200",
         "enddate": "20260806",

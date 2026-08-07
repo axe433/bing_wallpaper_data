@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260806",
+        "fullstartdate": "202608061500",
+        "enddate": "20260807",
+        "url": "/th?id=OHR.LimeKiln_JA-JP2506397292_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LimeKiln_JA-JP2506397292",
+        "copyright": "ライム・キルン灯台, 米国 ワシントン州 (© Edmund Lowe Photography/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E7%B1%B3%E5%9B%BD%E7%81%AF%E5%8F%B0%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260806_1500%22",
+        "title": "今日は米国灯台の日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260806_LimeKiln%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "810d27f039a29389aefe5d0923ffc7ee",
+        "hsh": "7ea2a7b8799f228f40a16ff9ed96ce89",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 8 月 7 日は米国灯台の日。ジョージ・ワシントン大統領の署名によって 1789 年に成立した「灯台法」を記念して制定された日であり、灯台の歴史と役割をたたえる日です。そして画像は、米国ワシントン州のサンファン島にあるライム・キルン灯台。1919 年に建設され、現在も船舶を導き続けています。航行技術の発展とともに進化を続けてきた灯台は、歴史的建造物や絶景スポットとしても親しまれながら、今もなお、安全と不屈の精神、そして大海原への冒険を象徴する存在であり続けています。",
+                "Image": {
+                    "Url": "/th?id=OHR.LimeKiln_JA-JP2506397292_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LimeKiln_JA-JP2506397292_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日は米国灯台の日",
+                "Title": "ライム・キルン灯台, 米国 ワシントン州",
+                "Copyright": "© Edmund Lowe Photography/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.515855,-123.152649/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=48.515855,-123.152649;S9;ライム・キルン灯台, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260807_ LimeKiln%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260807_LimeKiln\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e7%b1%b3%e5%9b%bd%e7%81%af%e5%8f%b0%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate:\"20260806_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260807_LimeKiln"
+            },
+            "Ssd": "20260807",
+            "Name": "LimeKiln",
+            "Market": "JA-JP",
+            "Hash": "2506397292",
+            "FullDateString": "2026 年 8月 月 7 日"
+        }
+    },
+    {
         "startdate": "20260805",
         "fullstartdate": "202608051500",
         "enddate": "20260806",

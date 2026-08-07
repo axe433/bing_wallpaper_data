@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260806",
+        "fullstartdate": "202608062300",
+        "enddate": "20260807",
+        "url": "/th?id=OHR.BristolBalloonFiesta2026_EN-GB3752871643_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BristolBalloonFiesta2026_EN-GB3752871643",
+        "copyright": "Hot air balloons above Bristol city centre, England (© Rich Jones Photography/Moment/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Bristol+International+Balloon+Fiesta&form=hpcapt&filters=HpDate%3a%2220260806_2300%22",
+        "title": "Up, up and hooray!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260806_BristolBalloonFiesta2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ebfbe085a509697cd867591de2875d0c",
+        "hsh": "400cfb3bfb2da2bb92c62427d7a3a7ab",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "It all started with an idea shared over a pint. Today, that conversation has grown into Europe's largest annual hot air balloon festival. Every summer, the Bristol International Balloon Fiesta fills the skies above Ashton Court Estate with more than 100 colourful balloons, attracting over half a million visitors.",
+                "Image": {
+                    "Url": "/th?id=OHR.BristolBalloonFiesta2026_EN-GB3752871643_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BristolBalloonFiesta2026_EN-GB3752871643_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Up, up and hooray!",
+                "Title": "Hot air balloons above Bristol city centre, England",
+                "Copyright": "© Rich Jones Photography/Moment/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.453133,-2.600982/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=51.453133,-2.600982;S9;Bristol, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260807_BristolBalloonFiesta2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Bristol+International+Balloon+Fiesta&form=hpcapt&filters=HpDate:\"20260806_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260807_BristolBalloonFiesta2026"
+            },
+            "Ssd": "20260807",
+            "Name": "BristolBalloonFiesta2026",
+            "Market": "EN-GB",
+            "Hash": "3752871643",
+            "FullDateString": "7 Aug 2026"
+        }
+    },
+    {
         "startdate": "20260805",
         "fullstartdate": "202608052300",
         "enddate": "20260806",
