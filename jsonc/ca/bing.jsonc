@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260807",
+        "fullstartdate": "202608070400",
+        "enddate": "20260808",
+        "url": "/th?id=OHR.LimeKiln_EN-CA4364402853_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LimeKiln_EN-CA4364402853",
+        "copyright": "Lime Kiln Lighthouse on San Juan Island, Washington state, United States (© Edmund Lowe Photography/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Lime+Kiln+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260807_0400%22",
+        "title": "Guiding ships through history",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260807_LimeKiln%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "810d27f039a29389aefe5d0923ffc7ee",
+        "hsh": "ee9a52c4a4a31e6079f37efccb52418d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ships, storms and changing technology have come and gone, but the light remains. On Washington's San Juan Island, Lime Kiln Lighthouse has overlooked Haro Strait since 1919. Perched on a rocky bluff, its white flash continues to guide vessels through a major inland marine waterway in the Pacific Northwest. The lighthouse stands within Lime Kiln Point State Park, which is recognised as one of the world's best places to watch wild orcas from shore, with whales sometimes passing remarkably close to the coast.",
+                "Image": {
+                    "Url": "/th?id=OHR.LimeKiln_EN-CA4364402853_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LimeKiln_EN-CA4364402853_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Guiding ships through history",
+                "Title": "Lime Kiln Lighthouse on San Juan Island, Washington state, United States",
+                "Copyright": "© Edmund Lowe Photography/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.516128,-123.152644/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=48.516128,-123.152644;S9;Lime Kiln Lighthouse, San Juan Island, Washington State, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260807_LimeKiln\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lime+Kiln+Lighthouse&form=hpcapt&filters=HpDate:\"20260807_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260807_LimeKiln"
+            },
+            "Ssd": "20260807",
+            "Name": "LimeKiln",
+            "Market": "EN-CA",
+            "Hash": "4364402853",
+            "FullDateString": "Aug 7, 2026"
+        }
+    },
+    {
         "startdate": "20260806",
         "fullstartdate": "202608060400",
         "enddate": "20260807",

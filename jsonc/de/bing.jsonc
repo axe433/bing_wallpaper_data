@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260807",
+        "fullstartdate": "202608072200",
+        "enddate": "20260808",
+        "url": "/th?id=OHR.RhineFlames_DE-DE7527393403_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RhineFlames_DE-DE7527393403",
+        "copyright": "Rhein in Flammen vor Schloss Stolzenfels bei Koblenz, Rheinland-Pfalz (© Jule_Berlin/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Rhein+in+Flammen&form=hpcapt&filters=HpDate%3a%2220260807_2200%22",
+        "title": "Feuerzauber über dem Rhein",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260807_RhineFlames%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d320482df9f8dc9fc0c0f792e5ff9e77",
+        "hsh": "ff535d95b0153e13c97c64aecf600c01",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Wenn über dem Rhein die ersten Feuerwerksfarben aufleuchten, beginnt eines der bekanntesten Sommerereignisse Deutschlands. Bei „Rhein in Flammen“ verwandeln sich Burgen, Weinorte und Uferlandschaften entlang des Mittelrheins in eine Kulisse aus Licht und Farbe. Heute richtet sich der Blick auf die Region rund um Koblenz. Hier zieht ein festlich beleuchteter Schiffskonvoi den Fluss entlang, begleitet von mehreren Feuerwerken, deren Farben sich im Wasser spiegeln. Zwischen Spay, Braubach, Rhens und Koblenz werden Burgen und Rheinufer illuminiert, bevor das große Abschlussfeuerwerk den Höhepunkt des Abends bildet.",
+                "Image": {
+                    "Url": "/th?id=OHR.RhineFlames_DE-DE7527393403_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RhineFlames_DE-DE7527393403_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Feuerzauber über dem Rhein",
+                "Title": "Rhein in Flammen vor Schloss Stolzenfels bei Koblenz, Rheinland-Pfalz",
+                "Copyright": "© Jule_Berlin/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.303465,7.592035/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=50.303465,7.592035;S9;Schloss Stolzenfels, Koblenz, Rheinland-Pfalz&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260808_RhineFlames\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Rhein+in+Flammen&form=hpcapt&filters=HpDate:\"20260807_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260808_RhineFlames"
+            },
+            "Ssd": "20260808",
+            "Name": "RhineFlames",
+            "Market": "DE-DE",
+            "Hash": "7527393403",
+            "FullDateString": "8. Aug.. 2026"
+        }
+    },
+    {
         "startdate": "20260806",
         "fullstartdate": "202608062200",
         "enddate": "20260807",

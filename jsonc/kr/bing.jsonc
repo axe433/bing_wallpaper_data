@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260807",
+        "fullstartdate": "202608070700",
+        "enddate": "20260808",
+        "url": "/th?id=OHR.ColorfulCop_ROW6097405388_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ColorfulCop_ROW6097405388",
+        "copyright": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Nyhavn+Canal+Copenhagen&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260807_ColorfulCop%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "93156bcefa29fbde419f410e66216144",
+        "hsh": "d7958adaf91abd095d8376d8c49da62c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "In Copenhagen, Nyhavn Canal is a burst of colour and history. In Denmark's capital, bright, gabled houses lean toward the water, their reflections rippling beside old wooden ships. Carved out in the 1670s under King Christian V, this 17th-century canal once served as a busy gateway where cargo vessels unloaded goods straight into the city's heart. Sailors crowded its taverns, and the harbour gained a rough reputation long before it became the postcard-perfect place seen today.",
+                "Image": {
+                    "Url": "/th?id=OHR.ColorfulCop_ROW6097405388_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ColorfulCop_ROW6097405388_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark",
+                "Copyright": "© emicristea/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260807_ColorfulCop\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Nyhavn+Canal+Copenhagen&form=hpcapt&filters=HpDate:\"20260807_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260807_ColorfulCop"
+            },
+            "Ssd": "20260807",
+            "Name": "ColorfulCop",
+            "Market": "ROW",
+            "Hash": "6097405388",
+            "FullDateString": "2026 8월 7"
+        }
+    },
+    {
         "startdate": "20260806",
         "fullstartdate": "202608060700",
         "enddate": "20260807",

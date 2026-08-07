@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260807",
+        "fullstartdate": "202608070300",
+        "enddate": "20260808",
+        "url": "/th?id=OHR.LimeKiln_PT-BR0696520524_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LimeKiln_PT-BR0696520524",
+        "copyright": "Farol de Lime Kiln, Ilha San Juan, Washington, Estados Unidos (© Edmund Lowe Photography/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Farol+de+Lime+Kiln+nos+EUA&form=hpcapt&mkt=pt-br",
+        "title": "Uma luz no fim do oceano",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260807_LimeKiln%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "810d27f039a29389aefe5d0923ffc7ee",
+        "hsh": "5be3ae6cd783cf320b8eae96f83d2c36",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Quando o céu escurece e o mar perde as referências, uma luz piscando vale mais do que qualquer mapa. Na imagem, o Farol de Lime Kiln, na Ilha San Juan, Estados Unidos, guia, desde 1919, cargueiros, balsas e barcos por uma das rotas marítimas mais movimentadas do noroeste do Pacífico.",
+                "Image": {
+                    "Url": "/th?id=OHR.LimeKiln_PT-BR0696520524_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LimeKiln_PT-BR0696520524_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Uma luz no fim do oceano",
+                "Title": "Farol de Lime Kiln, Ilha San Juan, Washington, Estados Unidos",
+                "Copyright": "© Edmund Lowe Photography/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260807_LimeKiln\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Farol+de+Lime+Kiln+nos+EUA&form=hpcapt&filters=HpDate:\"20260807_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260807_LimeKiln"
+            },
+            "Ssd": "20260807",
+            "Name": "LimeKiln",
+            "Market": "PT-BR",
+            "Hash": "0696520524",
+            "FullDateString": "7 ago. 2026"
+        }
+    },
+    {
         "startdate": "20260806",
         "fullstartdate": "202608060300",
         "enddate": "20260807",

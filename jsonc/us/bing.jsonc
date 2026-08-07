@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260807",
+        "fullstartdate": "202608070700",
+        "enddate": "20260808",
+        "url": "/th?id=OHR.LimeKiln_EN-US2748515593_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LimeKiln_EN-US2748515593",
+        "copyright": "Lime Kiln Lighthouse on San Juan Island, Washington State (© Edmund Lowe Photography/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=National+Lighthouse+Day&form=hpcapt&filters=HpDate%3a%2220260807_0700%22",
+        "title": "Guiding ships through history",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260807_LimeKiln%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "810d27f039a29389aefe5d0923ffc7ee",
+        "hsh": "5becc77210847ca229d4f45832cf3205",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Every August 7, National Lighthouse Day shines a light on the beacons that have guided ships safely along America's coasts for centuries. The date commemorates the Lighthouse Act of 1789, signed into law by President George Washington.",
+                "Image": {
+                    "Url": "/th?id=OHR.LimeKiln_EN-US2748515593_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LimeKiln_EN-US2748515593_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Guiding ships through history",
+                "Title": "Lime Kiln Lighthouse on San Juan Island, Washington State",
+                "Copyright": "© Edmund Lowe Photography/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.516128,-123.152644/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=48.516128,-123.152644;S9;Lime Kiln Lighthouse, San Juan Island, Washington State&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260807_LimeKiln\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=National+Lighthouse+Day&form=hpcapt&filters=HpDate:\"20260807_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260807_LimeKiln"
+            },
+            "Ssd": "20260807",
+            "Name": "LimeKiln",
+            "Market": "EN-US",
+            "Hash": "2748515593",
+            "FullDateString": "Aug 7, 2026"
+        }
+    },
+    {
         "startdate": "20260806",
         "fullstartdate": "202608060700",
         "enddate": "20260807",

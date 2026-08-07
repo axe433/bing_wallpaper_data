@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260807",
+        "fullstartdate": "202608072200",
+        "enddate": "20260808",
+        "url": "/th?id=OHR.ClothesBarjols_FR-FR4425384248_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ClothesBarjols_FR-FR4425384248",
+        "copyright": "Du linge qui sèche aux fenêtres d’une maison, Barjols, Var, Provence-Alpes-Côtes d'Azur (© mammuth/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Provence-Alpes-C%C3%B4tes+d%E2%80%99Azur&form=hpcapt&filters=HpDate%3a%2220260807_2200%22",
+        "title": "L’art de prendre le temps",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260807_ClothesBarjols%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "04afc226a6cc6b64ec32c439192362fd",
+        "hsh": "2725cf553a1538b37943b68c518b0233",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sous le soleil doré du Midi, le temps semble s’étirer doucement, comme lors d’une sieste à l’ombre des platanes. Dans les ruelles étroites de Provence ou le long des façades pastel d’un village catalan, le linge ondule entre deux fenêtres, porté par une brise tiède venue de la mer. Les cigales, fidèles gardiennes de l’été, rythment ces heures suspendues où l’on pratique l’art du « dolce far niente », hérité des cultures méditerranéennes.",
+                "Image": {
+                    "Url": "/th?id=OHR.ClothesBarjols_FR-FR4425384248_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ClothesBarjols_FR-FR4425384248_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "L'art de prendre le temps",
+                "Title": "Du linge qui sèche aux fenêtres d’une maison, Barjols, Var, Provence-Alpes-Côtes d'Azur",
+                "Copyright": "© mammuth/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Le « dolce far niente » est un art de vivre italien qui célèbre les plaisirs du repos. Prendre le temps de ne rien faire peut aussi réduire le stress et stimuler la créativité.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260808_ClothesBarjols\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Provence-Alpes-C%c3%b4tes+d%e2%80%99Azur&form=hpcapt&filters=HpDate:\"20260807_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260808_ClothesBarjols"
+            },
+            "Ssd": "20260808",
+            "Name": "ClothesBarjols",
+            "Market": "FR-FR",
+            "Hash": "4425384248",
+            "FullDateString": "8 août 2026"
+        }
+    },
+    {
         "startdate": "20260806",
         "fullstartdate": "202608062200",
         "enddate": "20260807",
