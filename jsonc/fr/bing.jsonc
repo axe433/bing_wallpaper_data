@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260808",
+        "fullstartdate": "202608082200",
+        "enddate": "20260809",
+        "url": "/th?id=OHR.JMTjibaou_FR-FR6204350565_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JMTjibaou_FR-FR6204350565",
+        "copyright": "Centre culturel Tjibaou, Nouvelle-Calédonie (© Fabien Astre/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+internationale+des+peuples+autochtones&form=hpcapt&filters=HpDate%3a%2220260808_2200%22",
+        "title": "Quand architecture et identité vont de pair",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260808_JMTjibaou%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "fed6988f9dee37e59679ddcc8b8c3249",
+        "hsh": "a1eaeac9cea2d58c0cbe509383fc4524",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Aujourd’hui, l’attention se porte sur les peuples autochtones du monde, dont les racines plongent bien au-delà des archives écrites. Depuis son institution par l’ONU en 1994, cette journée rappelle un tournant amorcé en 1982 pour la reconnaissance de leurs droits. Plus de 476 millions de femmes et d’hommes, répartis dans environ 90 pays, perpétuent des milliers de cultures et utilisent une part importante des quelque 7 000 langues parlées dans le monde. Leurs savoirs, intimement liés aux territoires, constituent une mémoire vivante de la planète.",
+                "Image": {
+                    "Url": "/th?id=OHR.JMTjibaou_FR-FR6204350565_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.JMTjibaou_FR-FR6204350565_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Quand architecture et identité vont de pair",
+                "Title": "Centre culturel Tjibaou, Nouvelle-Calédonie",
+                "Copyright": "© Fabien Astre/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-22.256,166.482/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=-22.256,166.482;S9;Centre culturel Tjibaou, Nouvelle-Calédonie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260809_JMTjibaou\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Journ%c3%a9e+internationale+des+peuples+autochtones&form=hpcapt&filters=HpDate:\"20260808_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260809_JMTjibaou"
+            },
+            "Ssd": "20260809",
+            "Name": "JMTjibaou",
+            "Market": "FR-FR",
+            "Hash": "6204350565",
+            "FullDateString": "9 août 2026"
+        }
+    },
+    {
         "startdate": "20260807",
         "fullstartdate": "202608072200",
         "enddate": "20260808",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260808",
+        "fullstartdate": "202608080700",
+        "enddate": "20260809",
+        "url": "/th?id=OHR.ValleyDreams_ROW6376883591_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ValleyDreams_ROW6376883591",
+        "copyright": "Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico, United States (© Westend61/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ah+Shi+Sle+Pah+Wilderness&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260808_ValleyDreams%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "be1803d9a44ec5d077d7a2c4d0944509",
+        "hsh": "9dc47dc728e54f8da3cd682bfacbef52",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness, towering hoodoos perch hefty rock caps on slender stems. Wind, water and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial.",
+                "Image": {
+                    "Url": "/th?id=OHR.ValleyDreams_ROW6376883591_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ValleyDreams_ROW6376883591_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico, United States",
+                "Copyright": "© Westend61/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260808_ValleyDreams\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ah+Shi+Sle+Pah+Wilderness&form=hpcapt&filters=HpDate:\"20260808_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260808_ValleyDreams"
+            },
+            "Ssd": "20260808",
+            "Name": "ValleyDreams",
+            "Market": "ROW",
+            "Hash": "6376883591",
+            "FullDateString": "8. aug. 2026"
+        }
+    },
+    {
         "startdate": "20260807",
         "fullstartdate": "202608070700",
         "enddate": "20260808",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260808",
+        "fullstartdate": "202608080700",
+        "enddate": "20260809",
+        "url": "/th?id=OHR.StocktonInfinity_EN-US3006724421_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.StocktonInfinity_EN-US3006724421",
+        "copyright": "Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=International+Infinity+Day&form=hpcapt&filters=HpDate%3a%2220260808_0700%22",
+        "title": "Crossing into infinity",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260808_StocktonInfinity%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "edbdb35e6996d6945cc8c2e7d2e46a2e",
+        "hsh": "da278f1e0606cede9227d19db7668a68",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "On August 8, curiosity takes center stage on International Infinity Day—a celebration inspired by the sideways figure 8, a symbol of something without end. Founded in 1987 by New York–based philosopher Jean-Pierre Ady Fenyo, the day invites everyone to explore big ideas through science, art, and imagination. It's not just about math—it's also about possibilities, from the vastness of space to the limits of human creativity.",
+                "Image": {
+                    "Url": "/th?id=OHR.StocktonInfinity_EN-US3006724421_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.StocktonInfinity_EN-US3006724421_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Crossing into infinity",
+                "Title": "Infinity Bridge in Stockton-on-Tees, England",
+                "Copyright": "© Bahadir Yeniceri/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/54.5647944,-1.2991917/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=54.5647944,-1.2991917;S9;Infinity Bridge, Stockton-on-Tees, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260808_StocktonInfinity\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=International+Infinity+Day&form=hpcapt&filters=HpDate:\"20260808_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260808_StocktonInfinity"
+            },
+            "Ssd": "20260808",
+            "Name": "StocktonInfinity",
+            "Market": "EN-US",
+            "Hash": "3006724421",
+            "FullDateString": "Aug 8, 2026"
+        }
+    },
+    {
         "startdate": "20260807",
         "fullstartdate": "202608070700",
         "enddate": "20260808",

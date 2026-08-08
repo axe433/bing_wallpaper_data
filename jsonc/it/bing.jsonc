@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260808",
+        "fullstartdate": "202608082200",
+        "enddate": "20260809",
+        "url": "/th?id=OHR.JMTjibaou_IT-IT2902729380_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JMTjibaou_IT-IT2902729380",
+        "copyright": "Jean-Marie Tjibaou Cultural Centre, Nuova Caledonia (© Fabien Astre/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Giornata+Internazionale+dei+Popoli+Indigeni+del+Mondo&form=hpcapt",
+        "title": "Architettura dell'identità",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260808_JMTjibaou%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "fed6988f9dee37e59679ddcc8b8c3249",
+        "hsh": "fcdb52b21d4b448d26ee0b3bdb885676",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sulla penisola di Tina, in Nuova Caledonia, il Centro Culturale Jean-Marie Tjibaou si erge nel paesaggio come un gesto architettonico senza precedenti. Progettato da Renzo Piano e inaugurato nel 1998, le sue grandi strutture curve evocano le capanne tradizionali del popolo Kanak, pur essendo costruite con materiali e tecniche modernissime. I sentieri che collegano gli spazi dedicati all'arte, alla ricerca e alle performance tessono un racconto in cui cultura, territorio e comunità sono inseparabili.",
+                "Image": {
+                    "Url": "/th?id=OHR.JMTjibaou_IT-IT2902729380_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.JMTjibaou_IT-IT2902729380_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Architettura dell'identità",
+                "Title": "Jean-Marie Tjibaou Cultural Centre, Nuova Caledonia",
+                "Copyright": "© Fabien Astre/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-22.256,166.482/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=-22.256,166.482;S9;Jean-Marie Tjibaou Cultural Centre, Nuova Caledonia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260809_JMTjibaou\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Giornata+Internazionale+dei+Popoli+Indigeni+del+Mondo&form=hpcapt&filters=HpDate:\"20260808_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260809_JMTjibaou"
+            },
+            "Ssd": "20260809",
+            "Name": "JMTjibaou",
+            "Market": "IT-IT",
+            "Hash": "2902729380",
+            "FullDateString": "9 agosto 2026"
+        }
+    },
+    {
         "startdate": "20260807",
         "fullstartdate": "202608072200",
         "enddate": "20260808",

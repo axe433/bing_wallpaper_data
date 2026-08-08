@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260808",
+        "fullstartdate": "202608080300",
+        "enddate": "20260809",
+        "url": "/th?id=OHR.StocktonInfinity_PT-BR1264731427_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.StocktonInfinity_PT-BR1264731427",
+        "copyright": "Infinity Bridge, Stockton-on-Tees, Inglaterra (© Bahadir Yeniceri/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=o+infinito&form=hpcapt&mkt=pt-br",
+        "title": "Uma obra sem começo nem fim",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260808_StocktonInfinity%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "edbdb35e6996d6945cc8c2e7d2e46a2e",
+        "hsh": "7107bf477ab34db5e9c6d88513ddacfa",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Existe uma data em que até o calendário faz uma piada matemática: 8 de agosto, ou 8/8. Virado de lado, o algarismo 8 se transforma no símbolo do infinito, usado para representar algo sem limite. Essa é a inspiração do Dia Internacional do Infinito, criado em 1987 pelo filósofo Jean-Pierre Ady Fenyo para despertar curiosidade sobre conceitos que atravessam números, descobertas e imaginação.",
+                "Image": {
+                    "Url": "/th?id=OHR.StocktonInfinity_PT-BR1264731427_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.StocktonInfinity_PT-BR1264731427_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Uma obra sem começo nem fim",
+                "Title": "Infinity Bridge, Stockton-on-Tees, Inglaterra",
+                "Copyright": "© Bahadir Yeniceri/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260808_StocktonInfinity\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=o+infinito&form=hpcapt&filters=HpDate:\"20260808_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260808_StocktonInfinity"
+            },
+            "Ssd": "20260808",
+            "Name": "StocktonInfinity",
+            "Market": "PT-BR",
+            "Hash": "1264731427",
+            "FullDateString": "8 ago. 2026"
+        }
+    },
+    {
         "startdate": "20260807",
         "fullstartdate": "202608070300",
         "enddate": "20260808",
