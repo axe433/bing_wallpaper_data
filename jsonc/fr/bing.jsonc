@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260809",
+        "fullstartdate": "202608092200",
+        "enddate": "20260810",
+        "url": "/th?id=OHR.SandPath_FR-FR7702357138_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SandPath_FR-FR7702357138",
+        "copyright": "Parc national Joshua Tree, Californie, États-Unis (© JJ Landscapes/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parc+national+Joshua+Tree+&form=hpcapt&filters=HpDate%3a%2220260809_2200%22",
+        "title": "Un point de rencontre aride",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260809_SandPath%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "98998e7f6a6c37501e705e0baaceb28d",
+        "hsh": "b5f9d95340618b852310de449802fd44",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "À l’endroit où se rencontrent deux grands déserts du sud de la Californie (États-Unis), le parc national Joshua Tree révèle un paysage spectaculaire façonné par les vents, les contrastes climatiques et les millénaires. Le désert de Mojave, situé en altitude, rejoint le désert du Colorado, plus chaud, créant une remarquable diversité de milieux naturels.",
+                "Image": {
+                    "Url": "/th?id=OHR.SandPath_FR-FR7702357138_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SandPath_FR-FR7702357138_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un point de rencontre aride",
+                "Title": "Parc national Joshua Tree, Californie, États-Unis",
+                "Copyright": "© JJ Landscapes/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/33.951965,-115.942135/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=33.951965,-115.942135;S9;Parc national Joshua Tree, Californie, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260810_SandPath\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parc+national+Joshua+Tree+&form=hpcapt&filters=HpDate:\"20260809_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260810_SandPath"
+            },
+            "Ssd": "20260810",
+            "Name": "SandPath",
+            "Market": "FR-FR",
+            "Hash": "7702357138",
+            "FullDateString": "10 août 2026"
+        }
+    },
+    {
         "startdate": "20260808",
         "fullstartdate": "202608082200",
         "enddate": "20260809",

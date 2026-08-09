@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260809",
+        "fullstartdate": "202608092200",
+        "enddate": "20260810",
+        "url": "/th?id=OHR.DolomitiAgosto_IT-IT3030401591_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DolomitiAgosto_IT-IT3030401591",
+        "copyright": "Il Lago di Carezza nelle Dolomiti all'alba, Bolzano, Italia (© Putt Sakdhnagool/Moment/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lago+di+Carezza&form=hpcapt",
+        "title": "Ideale per una visita in famiglia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260809_DolomitiAgosto%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ab3a6f97176d953b138637cdc777b51b",
+        "hsh": "f51cd065227a0126a2824c57e567f0e1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nella notte di San Lorenzo, il 10 agosto, gli italiani alzano gli occhi al cielo per le Perseidi — le stelle cadenti più attese dell'anno — e ognuno si porta dietro un desiderio. Pochi luoghi in Italia offrono un cielo così limpido come quello sopra il Lago di Carezza, a 1.534 metri di quota nella Val d'Ega, a soli 25 km da Bolzano.",
+                "Image": {
+                    "Url": "/th?id=OHR.DolomitiAgosto_IT-IT3030401591_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DolomitiAgosto_IT-IT3030401591_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ideale per una visita in famiglia",
+                "Title": "Il Lago di Carezza nelle Dolomiti all'alba, Bolzano, Italia",
+                "Copyright": "© Putt Sakdhnagool/Moment/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.496716,11.358005/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=46.496716,11.358005;S9;Lago di Carezza nelle Dolomiti, Bolzano, Italia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260810_DolomitiAgosto\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lago+di+Carezza&form=hpcapt&filters=HpDate:\"20260809_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260810_DolomitiAgosto"
+            },
+            "Ssd": "20260810",
+            "Name": "DolomitiAgosto",
+            "Market": "IT-IT",
+            "Hash": "3030401591",
+            "FullDateString": "10 agosto 2026"
+        }
+    },
+    {
         "startdate": "20260808",
         "fullstartdate": "202608082200",
         "enddate": "20260809",

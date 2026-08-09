@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260809",
+        "fullstartdate": "202608091600",
+        "enddate": "20260810",
+        "url": "/th?id=OHR.SandPath_ZH-CN7820825668_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SandPath_ZH-CN7820825668",
+        "copyright": "约书亚树国家公园，加利福尼亚州，美国 (© JJ Landscapes/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E7%BA%A6%E4%B9%A6%E4%BA%9A%E6%A0%91%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+        "title": "两片沙漠交汇之地",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260809_SandPath%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "98998e7f6a6c37501e705e0baaceb28d",
+        "hsh": "b9b17059d70786c24109988b6885a0e6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "两片大沙漠交汇之处，约书亚树国家公园展现出由风、时间和极端环境塑造的冷峻迷人景观。在南加利福尼亚州，海拔较高的莫哈韦沙漠与更炎热、地势更低的科罗拉多沙漠相融，形成独特的生态系统组合与非凡的生物多样性。",
+                "Image": {
+                    "Url": "/th?id=OHR.SandPath_ZH-CN7820825668_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SandPath_ZH-CN7820825668_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "两片沙漠交汇之地",
+                "Title": "约书亚树国家公园，加利福尼亚州，美国",
+                "Copyright": "© JJ Landscapes/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "约书亚树地区的二长花岗岩最初是熔融岩体，在一亿多年前于地下冷却形成。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260810_SandPath\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e7%ba%a6%e4%b9%a6%e4%ba%9a%e6%a0%91%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&filters=HpDate:\"20260809_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260810_SandPath"
+            },
+            "Ssd": "20260810",
+            "Name": "SandPath",
+            "Market": "ZH-CN",
+            "Hash": "7820825668",
+            "FullDateString": "2026 8月 10"
+        }
+    },
+    {
         "startdate": "20260808",
         "fullstartdate": "202608081600",
         "enddate": "20260809",
