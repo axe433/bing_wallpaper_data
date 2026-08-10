@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260810",
+        "fullstartdate": "202608102200",
+        "enddate": "20260811",
+        "url": "/th?id=OHR.ColorfulCop_IT-IT3126463813_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ColorfulCop_IT-IT3126463813",
+        "copyright": "Case colorate lungo il Canale di Nyhavn, Copenaghen, Danimarca (© emicristea/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Copenaghen&form=hpcapt",
+        "title": "Copenaghen a colori",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260810_ColorfulCop%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "93156bcefa29fbde419f410e66216144",
+        "hsh": "6024300a3707ef5e27472c40f272af11",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Il Canale di Nyhavn, a Copenaghen, in Danimarca, è il luogo in cui la storia si deposita con i colori di una tavolozza di pittore. Le case a timpano dai colori rossi, ocra e blu si inclinano sull'acqua, e i loro riflessi si mescolano alle sagome di vecchie imbarcazioni di legno ormeggiate lungo la banchina. Scavato tra il 1670 e il 1673 per volere del re Cristiano V, questo canale lungo circa 450 metri fu per secoli il cuore commerciale e portuale della capitale danese.",
+                "Image": {
+                    "Url": "/th?id=OHR.ColorfulCop_IT-IT3126463813_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ColorfulCop_IT-IT3126463813_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Copenaghen a colori",
+                "Title": "Case colorate lungo il Canale di Nyhavn, Copenaghen, Danimarca",
+                "Copyright": "© emicristea/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/55.680387,12.589468/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=55.680387,12.589468;S9;Canale di Nyhavn, Copenaghen, Danimarca&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260811_ColorfulCop\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Copenaghen&form=hpcapt&filters=HpDate:\"20260810_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260811_ColorfulCop"
+            },
+            "Ssd": "20260811",
+            "Name": "ColorfulCop",
+            "Market": "IT-IT",
+            "Hash": "3126463813",
+            "FullDateString": "11 agosto 2026"
+        }
+    },
+    {
         "startdate": "20260809",
         "fullstartdate": "202608092200",
         "enddate": "20260810",

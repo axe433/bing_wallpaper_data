@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260810",
+        "fullstartdate": "202608102200",
+        "enddate": "20260811",
+        "url": "/th?id=OHR.LloretdeMar_ES-ES9587440947_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LloretdeMar_ES-ES9587440947",
+        "copyright": "Camino de Ronda, Lloret de Mar, Girona, Cataluña (© MEDITERRANEAN/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Girona&form=hpcapt&filters=HpDate%3a%2220260810_2200%22",
+        "title": "Donde las rocas se transforman",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260810_LloretdeMar%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6bff0b56ae939645b3ea9287484cec09",
+        "hsh": "dc33fb1e240cd69b203a81cb8a2b458c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Desde los acantilados de Lloret de Mar, en Girona, Cataluña, el Camino de Ronda serpentea por una costa brava en el sentido más literal del término: salvaje, recortada y sorprendente. Esta ruta histórica, que recorre calas escondidas, peñascos batidos por el Mediterráneo y bosques de pinos que llegan hasta el mar, fue trazada originalmente para que los carabineros vigilaran el litoral ante el contrabando. Hoy es uno de los paseos costeros más espectaculares de España.",
+                "Image": {
+                    "Url": "/th?id=OHR.LloretdeMar_ES-ES9587440947_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LloretdeMar_ES-ES9587440947_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Donde las rocas se transforman",
+                "Title": "Camino de Ronda, Lloret de Mar, Girona, Cataluña",
+                "Copyright": "© MEDITERRANEAN/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.698761,2.847559/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=41.698761,2.847559;S9;Lloret de Mar, Girona, Cataluña, España&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260811_LloretdeMar\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Girona&form=hpcapt&filters=HpDate:\"20260810_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260811_LloretdeMar"
+            },
+            "Ssd": "20260811",
+            "Name": "LloretdeMar",
+            "Market": "ES-ES",
+            "Hash": "9587440947",
+            "FullDateString": "11 de ago de 2026"
+        }
+    },
+    {
         "startdate": "20260809",
         "fullstartdate": "202608092200",
         "enddate": "20260810",

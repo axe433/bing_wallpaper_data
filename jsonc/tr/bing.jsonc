@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260810",
+        "fullstartdate": "202608100700",
+        "enddate": "20260811",
+        "url": "/th?id=OHR.WhyteCliffP_ROW6700227959_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WhyteCliffP_ROW6700227959",
+        "copyright": "Whytecliff Park, West Vancouver, Canada (© Aolin Chen/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Whytecliff+Park&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260810_WhyteCliffP%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b43fc2ee8a3565e4a25ec866bbab2454",
+        "hsh": "180ff25acbbb1666dd5ce7c55821f734",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "The best route here isn't built with concrete. Instead, the tide reveals a rocky path leading from Whytecliff Park to Whyte Islet in West Vancouver, Canada. A few hours later, the sea quietly covers the crossing again, making timing part of the experience. This shoreline has drawn visitors for generations. The tide opens the path; wet rocks keep you humble. The reward is a sweeping view back towards the beach and the hillside homes of Gleneagles.",
+                "Image": {
+                    "Url": "/th?id=OHR.WhyteCliffP_ROW6700227959_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WhyteCliffP_ROW6700227959_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Whytecliff Park, West Vancouver, Canada",
+                "Copyright": "© Aolin Chen/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260810_WhyteCliffP\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Whytecliff+Park&form=hpcapt&filters=HpDate:\"20260810_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260810_WhyteCliffP"
+            },
+            "Ssd": "20260810",
+            "Name": "WhyteCliffP",
+            "Market": "ROW",
+            "Hash": "6700227959",
+            "FullDateString": "10 Ağu, 2026"
+        }
+    },
+    {
         "startdate": "20260809",
         "fullstartdate": "202608090700",
         "enddate": "20260810",

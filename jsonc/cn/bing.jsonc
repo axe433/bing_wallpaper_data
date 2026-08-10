@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260810",
+        "fullstartdate": "202608101600",
+        "enddate": "20260811",
+        "url": "/th?id=OHR.ColorfulCop_ZH-CN8015611442_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ColorfulCop_ZH-CN8015611442",
+        "copyright": "哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦 (© emicristea/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%93%A5%E6%9C%AC%E5%93%88%E6%A0%B9%E6%96%B0%E6%B8%AF%E8%BF%90%E6%B2%B3&form=hpcapt&mkt=zh-cn",
+        "title": "绚丽多彩的哥本哈根",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260810_ColorfulCop%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "93156bcefa29fbde419f410e66216144",
+        "hsh": "dcfa2d97f6cd81e7b4065979cd5a8d73",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "哥本哈根新港运河是一条标志性水道，鲜艳色彩与深厚历史在此交融。它于17世纪70年代在克里斯蒂安五世统治时期挖建，曾是重要门户，货船可由此将货物直接卸入城市中心。远在成为今天明信片般完美的地标之前，这座港口曾以粗犷闻名：水手云集、酒馆喧闹，与色彩明快的山墙联排屋并立。",
+                "Image": {
+                    "Url": "/th?id=OHR.ColorfulCop_ZH-CN8015611442_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ColorfulCop_ZH-CN8015611442_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "绚丽多彩的哥本哈根",
+                "Title": "哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦",
+                "Copyright": "© emicristea/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "汉斯·克里斯蒂安·安徒生一生中曾在新港的18号、20号和67号三个不同地址居住。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260811_ColorfulCop\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%93%a5%e6%9c%ac%e5%93%88%e6%a0%b9%e6%96%b0%e6%b8%af%e8%bf%90%e6%b2%b3&form=hpcapt&filters=HpDate:\"20260810_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260811_ColorfulCop"
+            },
+            "Ssd": "20260811",
+            "Name": "ColorfulCop",
+            "Market": "ZH-CN",
+            "Hash": "8015611442",
+            "FullDateString": "2026 8月 11"
+        }
+    },
+    {
         "startdate": "20260809",
         "fullstartdate": "202608091600",
         "enddate": "20260810",

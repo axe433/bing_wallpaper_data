@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260810",
+        "fullstartdate": "202608102200",
+        "enddate": "20260811",
+        "url": "/th?id=OHR.ColorfulCop_DE-DE9077062253_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ColorfulCop_DE-DE9077062253",
+        "copyright": "Bunte Häuser säumen den Nyhavn-Kanal in Kopenhagen, Dänemark (© emicristea/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Nyhavn-Kanal+Kopenhagen&form=hpcapt&filters=HpDate%3a%2220260810_2200%22",
+        "title": "Kopenhagen in voller Farbe",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260810_ColorfulCop%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "93156bcefa29fbde419f410e66216144",
+        "hsh": "ff3aa3c552259ef469f3a31b65a177ea",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Bunte Fassaden spiegeln sich im Wasser des Nyhavn und verleihen einem der bekanntesten Orte Kopenhagens seinen unverwechselbaren Charakter. Entlang des Kanals reihen sich historische Giebelhäuser, deren kräftige Farben selbst an grauen Tagen auffallen. Die Atmosphäre wirkt zugleich lebendig und entspannt und macht das Viertel zu einem beliebten Treffpunkt für Einheimische und Besucher.",
+                "Image": {
+                    "Url": "/th?id=OHR.ColorfulCop_DE-DE9077062253_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ColorfulCop_DE-DE9077062253_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Kopenhagen in voller Farbe",
+                "Title": "Bunte Häuser säumen den Nyhavn-Kanal in Kopenhagen, Dänemark",
+                "Copyright": "© emicristea/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/55.680387,12.589468/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=55.680387,12.589468;S9;Nyhavn, Kopenhagen, Dänemark&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260811_ColorfulCop\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Nyhavn-Kanal+Kopenhagen&form=hpcapt&filters=HpDate:\"20260810_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260811_ColorfulCop"
+            },
+            "Ssd": "20260811",
+            "Name": "ColorfulCop",
+            "Market": "DE-DE",
+            "Hash": "9077062253",
+            "FullDateString": "11. Aug.. 2026"
+        }
+    },
+    {
         "startdate": "20260809",
         "fullstartdate": "202608092200",
         "enddate": "20260810",

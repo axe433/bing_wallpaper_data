@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260810",
+        "fullstartdate": "202608100300",
+        "enddate": "20260811",
+        "url": "/th?id=OHR.Golfinhos_PT-BR2634808905_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Golfinhos_PT-BR2634808905",
+        "copyright": "Golfinhos-rotadores no mar azul de Fernando de Noronha, Pernambuco (© cabuscaa/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Noronha+Pernambuco&form=hpcapt&mkt=pt-br",
+        "title": "Coreografias sob as ondas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260810_Golfinhos%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "7481faf6584c41ee7d09a80e02a1ec20",
+        "hsh": "ef471a1b84d794cd2acb227bbbbfa631",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Alguns visitantes de Fernando de Noronha chegam de avião. Outros aparecem sem fazer reserva, mas nunca faltam ao compromisso. Os golfinhos-rotadores seguem uma rotina tão previsível que, em muitas manhãs, basta olhar para a Baía dos Golfinhos para encontrá-los descansando depois de uma noite inteira de caça em mar aberto.",
+                "Image": {
+                    "Url": "/th?id=OHR.Golfinhos_PT-BR2634808905_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Golfinhos_PT-BR2634808905_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Coreografias sob as ondas",
+                "Title": "Golfinhos-rotadores no mar azul de Fernando de Noronha, Pernambuco",
+                "Copyright": "© cabuscaa/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260810_Golfinhos\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Noronha+Pernambuco&form=hpcapt&filters=HpDate:\"20260810_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260810_Golfinhos"
+            },
+            "Ssd": "20260810",
+            "Name": "Golfinhos",
+            "Market": "PT-BR",
+            "Hash": "2634808905",
+            "FullDateString": "10 ago. 2026"
+        }
+    },
+    {
         "startdate": "20260809",
         "fullstartdate": "202608090300",
         "enddate": "20260810",
