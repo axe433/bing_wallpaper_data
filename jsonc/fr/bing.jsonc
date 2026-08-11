@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260811",
+        "fullstartdate": "202608112200",
+        "enddate": "20260812",
+        "url": "/th?id=OHR.ElephantDay_FR-FR9760624892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ElephantDay_FR-FR9760624892",
+        "copyright": "Un troupeau d’éléphants, Parc national d’Amboseli, Kenya (© Ibrahim Suha Derbent/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+mondiale+de+l%E2%80%99%C3%A9l%C3%A9phant&form=hpcapt&filters=HpDate%3a%2220260811_2200%22",
+        "title": "Des géants au cœur tendre",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260811_ElephantDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d558573e1cbdc71cd0e4ddb7194f7296",
+        "hsh": "0aba29dfa3c70d8f5bdc366c74ff49ea",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Chaque 12 août, la Journée mondiale de l’éléphant rappelle que ces géants sont bien plus que d’imposants mammifères. Dans le parc national d’Amboseli, au Kenya, les troupeaux traversent les paysages ouverts avec calme et détermination. Les matriarches guident leur troupeau vers les sources d’eau grâce à une mémoire acquise et enrichie au fil des années. Chez les éléphants, les déplacements témoignent d’une histoire de transmission autant que de survie.",
+                "Image": {
+                    "Url": "/th?id=OHR.ElephantDay_FR-FR9760624892_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ElephantDay_FR-FR9760624892_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Des géants au cœur tendre",
+                "Title": "Un troupeau d’éléphants, Parc national d’Amboseli, Kenya",
+                "Copyright": "© Ibrahim Suha Derbent/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-2.6527,37.26058/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=-2.6527,37.26058;S9;Parc national d’Amboseli, Kenya&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260812_ElephantDay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Journ%c3%a9e+mondiale+de+l%e2%80%99%c3%a9l%c3%a9phant&form=hpcapt&filters=HpDate:\"20260811_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260812_ElephantDay"
+            },
+            "Ssd": "20260812",
+            "Name": "ElephantDay",
+            "Market": "FR-FR",
+            "Hash": "9760624892",
+            "FullDateString": "12 août 2026"
+        }
+    },
+    {
         "startdate": "20260810",
         "fullstartdate": "202608102200",
         "enddate": "20260811",

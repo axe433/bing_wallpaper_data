@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260811",
+        "fullstartdate": "202608112200",
+        "enddate": "20260812",
+        "url": "/th?id=OHR.ElephantDay_IT-IT3230857791_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ElephantDay_IT-IT3230857791",
+        "copyright": "Un gruppo di elefanti, Parco Nazionale di Amboseli, Kenya (© Ibrahim Suha Derbent/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Giornata+Mondiale+dell%27Elefante&form=hpcapt",
+        "title": "Gianti che vale la pena proteggere",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260811_ElephantDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d558573e1cbdc71cd0e4ddb7194f7296",
+        "hsh": "dcfb9250f9076677c60ad930aae5a8c9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Una mandria di elefanti in cammino nel Parco Nazionale di Amboseli, in Kenya, non si sposta a caso: percorre rotte impresse per generazioni nella memoria delle matriarche, che conoscono ogni fonte d'acqua e ogni rifugio all'ombra del Kilimangiaro. Ogni 12 agosto, la Giornata Mondiale dell'Elefante — celebrata dal 2012 — invita a fermarsi davanti alla profondità di questi animali, la cui intelligenza, i legami sociali e la capacità emotiva rivaleggiano con quelli di molti primati.",
+                "Image": {
+                    "Url": "/th?id=OHR.ElephantDay_IT-IT3230857791_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ElephantDay_IT-IT3230857791_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Gianti che vale la pena proteggere",
+                "Title": "Un gruppo di elefanti, Parco Nazionale di Amboseli, Kenya",
+                "Copyright": "© Ibrahim Suha Derbent/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-2.6527,37.26058/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=-2.6527,37.26058;S9;Parco Nazionale di Amboseli, Kenya&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260812_ElephantDay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Giornata+Mondiale+dell%27Elefante&form=hpcapt&filters=HpDate:\"20260811_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260812_ElephantDay"
+            },
+            "Ssd": "20260812",
+            "Name": "ElephantDay",
+            "Market": "IT-IT",
+            "Hash": "3230857791",
+            "FullDateString": "12 agosto 2026"
+        }
+    },
+    {
         "startdate": "20260810",
         "fullstartdate": "202608102200",
         "enddate": "20260811",

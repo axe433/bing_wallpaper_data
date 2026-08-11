@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260811",
+        "fullstartdate": "202608110300",
+        "enddate": "20260812",
+        "url": "/th?id=OHR.StuDay_PT-BR3798231635_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.StuDay_PT-BR3798231635",
+        "copyright": "Real Gabinete Português de Leitura, Rio de Janeiro, Rio de Janeiro (© Pulsar Imagens/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+do+Estudante&form=hpcapt&mkt=pt-br",
+        "title": "Ler para crer",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260811_StuDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "707a7fa4536c5e760543b749e340564b",
+        "hsh": "302c4d7536e7ae4d940907cea294a977",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "No centro da cidade do Rio de Janeiro, existe uma máquina do tempo que não faz barulho, não usa combustível e funciona desde o século XIX. Nossa imagem revela o Real Gabinete Português de Leitura, fundado por imigrantes portugueses em 1837 para ampliar o acesso ao conhecimento em um Brasil recém-independente. Ali repousam cerca de 350 mil volumes, incluindo obras raras que ajudaram a moldar a nossa história.",
+                "Image": {
+                    "Url": "/th?id=OHR.StuDay_PT-BR3798231635_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.StuDay_PT-BR3798231635_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ler para crer",
+                "Title": "Real Gabinete Português de Leitura, Rio de Janeiro, Rio de Janeiro",
+                "Copyright": "© Pulsar Imagens/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260811_StuDay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dia+do+Estudante&form=hpcapt&filters=HpDate:\"20260811_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260811_StuDay"
+            },
+            "Ssd": "20260811",
+            "Name": "StuDay",
+            "Market": "PT-BR",
+            "Hash": "3798231635",
+            "FullDateString": "11 ago. 2026"
+        }
+    },
+    {
         "startdate": "20260810",
         "fullstartdate": "202608100300",
         "enddate": "20260811",
