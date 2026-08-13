@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260813",
+        "fullstartdate": "202608132200",
+        "enddate": "20260814",
+        "url": "/th?id=OHR.WildlifeCrossingPoland_DE-DE6173480409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WildlifeCrossingPoland_DE-DE6173480409",
+        "copyright": "Luftaufnahme einer Grünbrücke bei Zakrzów, Polen (© bbsferrari/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Gr%C3%BCnbr%C3%BCcke&form=hpcapt&filters=HpDate%3a%2220260813_2200%22",
+        "title": "Für Pfoten gebaut",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260813_WildlifeCrossingPoland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f7dbaeac59502eb15a6021d76f29a237",
+        "hsh": "007a4364762afda616621c1827314e6e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Die Luftaufnahme zeigt eine Grünbrücke bei Zakrzów in Polen, die eine stark befahrene Verkehrsachse überspannt. Solche Bauwerke verbinden Lebensräume, die durch Straßen und Autobahnen voneinander getrennt wurden. Für viele Tierarten schaffen sie sichere Wege zwischen Futtergebieten, Rückzugsorten und Wanderkorridoren. Dadurch sinkt nicht nur das Risiko von Wildunfällen, sondern auch die Gefahr, dass Populationen durch die Zerschneidung ihrer Lebensräume isoliert werden. Grünbrücken gelten heute als wichtiger Bestandteil moderner Naturschutzmaßnahmen.",
+                "Image": {
+                    "Url": "/th?id=OHR.WildlifeCrossingPoland_DE-DE6173480409_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WildlifeCrossingPoland_DE-DE6173480409_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Für Pfoten gebaut",
+                "Title": "Luftaufnahme einer Grünbrücke bei Zakrzów, Polen",
+                "Copyright": "© bbsferrari/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "In Frankreich entstanden die ersten Grünbrücken in den 1950er Jahren. Sie ermöglichten Tieren die Durchquerung von Landschaften, die durch neue Straßen zerschnitten worden waren.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260814_WildlifeCrossingPoland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Gr%c3%bcnbr%c3%bccke&form=hpcapt&filters=HpDate:\"20260813_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260814_WildlifeCrossingPoland"
+            },
+            "Ssd": "20260814",
+            "Name": "WildlifeCrossingPoland",
+            "Market": "DE-DE",
+            "Hash": "6173480409",
+            "FullDateString": "14. Aug.. 2026"
+        }
+    },
+    {
         "startdate": "20260812",
         "fullstartdate": "202608122200",
         "enddate": "20260813",

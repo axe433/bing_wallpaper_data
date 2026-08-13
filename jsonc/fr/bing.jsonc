@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260813",
+        "fullstartdate": "202608132200",
+        "enddate": "20260814",
+        "url": "/th?id=OHR.DolmenRoche_FR-FR1513962303_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DolmenRoche_FR-FR1513962303",
+        "copyright": "Dolmen, La Roche-Aux-Fées, Bretagne (© Michal Boubin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ren%C3%A9+Goscinny&form=hpcapt&filters=HpDate%3a%2220260813_2200%22",
+        "title": "« Par Toutatis ! »",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260813_DolmenRoche%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d1fd68b73f4b04acb65d7c484179f649",
+        "hsh": "c3bf8db7b891084b1099676b32e3be5b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "À l’occasion du 100ᵉ anniversaire de la naissance de René Goscinny, la Bretagne évoque naturellement l’univers d’Astérix. Car, comme il est souvent rappelé dans la célèbre bande dessinée, le village des irréductibles Gaulois se situe sur les côtes armoricaines, au cœur de cette péninsule battue par les vents et les embruns.",
+                "Image": {
+                    "Url": "/th?id=OHR.DolmenRoche_FR-FR1513962303_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DolmenRoche_FR-FR1513962303_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "« Par Toutatis ! »",
+                "Title": "Dolmen, La Roche-Aux-Fées, Bretagne",
+                "Copyright": "© Michal Boubin/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Le village d’Astérix est souvent associé à la Pointe des Trois Pierres d’Erquy, dans les Côtes-d’Armor, qui ressemblent au dessin de la loupe dans les albums et aurait inspiré l’artiste Albert Uderzo.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260814_DolmenRoche\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ren%c3%a9+Goscinny&form=hpcapt&filters=HpDate:\"20260813_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260814_DolmenRoche"
+            },
+            "Ssd": "20260814",
+            "Name": "DolmenRoche",
+            "Market": "FR-FR",
+            "Hash": "1513962303",
+            "FullDateString": "14 août 2026"
+        }
+    },
+    {
         "startdate": "20260812",
         "fullstartdate": "202608122200",
         "enddate": "20260813",

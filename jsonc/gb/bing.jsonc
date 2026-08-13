@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260813",
+        "fullstartdate": "202608132300",
+        "enddate": "20260814",
+        "url": "/th?id=OHR.WildlifeCrossingPoland_EN-GB5514216597_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WildlifeCrossingPoland_EN-GB5514216597",
+        "copyright": "Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Wildlife+crossing&form=hpcapt&filters=HpDate%3a%2220260813_2300%22",
+        "title": "Built for paws, not people",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260813_WildlifeCrossingPoland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f7dbaeac59502eb15a6021d76f29a237",
+        "hsh": "6c44383e1ff7e99fcc1445b44e5f681d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Roads solved one problem but quietly created another. People could travel faster than ever, while wildlife now faced highways cutting across routes they had followed for generations. The result was more collisions, fragmented habitats and isolated wildlife populations. That challenge led to building wildlife crossings called ecoducts: bridges or tunnels designed to reconnect habitats and give animals a safe way across busy roads. Some of the earliest modern examples appeared in France during the 1950s, while countries such as the Netherlands refined the concept with broad, vegetation-covered bridges that blend into the surrounding landscape.",
+                "Image": {
+                    "Url": "/th?id=OHR.WildlifeCrossingPoland_EN-GB5514216597_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WildlifeCrossingPoland_EN-GB5514216597_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Built for paws, not people",
+                "Title": "Aerial view of a wildlife crossing near Zakrzów, Poland",
+                "Copyright": "© bbsferrari/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "In 1950s France, the first wildlife crossings took shape, offering animals a way through landscapes newly divided by roads.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260814_WildlifeCrossingPoland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Wildlife+crossing&form=hpcapt&filters=HpDate:\"20260813_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260814_WildlifeCrossingPoland"
+            },
+            "Ssd": "20260814",
+            "Name": "WildlifeCrossingPoland",
+            "Market": "EN-GB",
+            "Hash": "5514216597",
+            "FullDateString": "14 Aug 2026"
+        }
+    },
+    {
         "startdate": "20260812",
         "fullstartdate": "202608122300",
         "enddate": "20260813",

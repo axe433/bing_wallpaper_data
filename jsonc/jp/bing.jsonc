@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260813",
+        "fullstartdate": "202608131500",
+        "enddate": "20260814",
+        "url": "/th?id=OHR.Shimoda2026_JA-JP6266826592_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Shimoda2026_JA-JP6266826592",
+        "copyright": "下田港, 静岡県 下田市 (© Sean Pavone/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E4%B8%8B%E7%94%B0%E6%B8%AF&form=hpcapt&filters=HpDate%3a%2220260813_1500%22",
+        "title": "灯りに彩られた歴史ある港町",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260813_Shimoda2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d5175090a2aa91eecfab6d2800123588",
+        "hsh": "413966a3ae667605703cdaceca25684e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "下田港は、静岡県伊豆半島の南端に位置する歴史ある港です。幕末にペリー艦隊が来航した港でもあり、1854 年の日米和親条約により函館港とともに日本初の開港地となりました。山と海に囲まれた美しい景観が魅力で、現在は観光港や漁港として親しまれています。毎年 8 月 14 日と 15 日に約 400 年の歴史を誇る「下田八幡神社例大祭（下田太鼓祭り）」が開催され、勇壮な太鼓の音とともに町全体が活気に包まれます。夕暮れには港町の灯りが水面に映り、歴史、自然、そして伝統文化が織りなす魅力的な風景が広がります。",
+                "Image": {
+                    "Url": "/th?id=OHR.Shimoda2026_JA-JP6266826592_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Shimoda2026_JA-JP6266826592_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "灯りに彩られた歴史ある港町",
+                "Title": "下田港, 静岡県 下田市",
+                "Copyright": "© Sean Pavone/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/34.67457,138.956552/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=34.67457,138.956552;S9;下田港&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260814_Shimoda2026%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260814_Shimoda2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e4%b8%8b%e7%94%b0%e6%b8%af&form=hpcapt&filters=HpDate:\"20260813_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260814_Shimoda2026"
+            },
+            "Ssd": "20260814",
+            "Name": "Shimoda2026",
+            "Market": "JA-JP",
+            "Hash": "6266826592",
+            "FullDateString": "2026 年 8月 月 14 日"
+        }
+    },
+    {
         "startdate": "20260812",
         "fullstartdate": "202608121500",
         "enddate": "20260813",

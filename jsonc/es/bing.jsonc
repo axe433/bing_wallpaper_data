@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260813",
+        "fullstartdate": "202608132200",
+        "enddate": "20260814",
+        "url": "/th?id=OHR.WildlifeCrossingPoland_ES-ES1906561817_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WildlifeCrossingPoland_ES-ES1906561817",
+        "copyright": "Vista aérea de un ecoducto cerca de Zakrzów, Polonia (© bbsferrari/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ecoducto&form=hpcapt&filters=HpDate%3a%2220260813_2200%22",
+        "title": "Hecho para patas, no para personas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260813_WildlifeCrossingPoland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f7dbaeac59502eb15a6021d76f29a237",
+        "hsh": "212c248c8fbacb327cf338bef41ce4b9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Las carreteras resolvieron un problema y crearon otro sin querer: mientras las personas viajaban más rápido que nunca, la fauna silvestre veía cómo las autopistas partían en dos los territorios que había recorrido durante generaciones. La respuesta llegó en forma de ecoducto —puentes o túneles diseñados para que los animales crucen las vías de tráfico con seguridad— y los primeros ejemplos modernos surgieron precisamente en Francia durante los años cincuenta, extendiéndose después por toda Europa.",
+                "Image": {
+                    "Url": "/th?id=OHR.WildlifeCrossingPoland_ES-ES1906561817_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WildlifeCrossingPoland_ES-ES1906561817_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Hecho para patas, no para personas",
+                "Title": "Vista aérea de un ecoducto cerca de Zakrzów, Polonia",
+                "Copyright": "© bbsferrari/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260814_WildlifeCrossingPoland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ecoducto&form=hpcapt&filters=HpDate:\"20260813_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260814_WildlifeCrossingPoland"
+            },
+            "Ssd": "20260814",
+            "Name": "WildlifeCrossingPoland",
+            "Market": "ES-ES",
+            "Hash": "1906561817",
+            "FullDateString": "14 de ago de 2026"
+        }
+    },
+    {
         "startdate": "20260812",
         "fullstartdate": "202608122200",
         "enddate": "20260813",
