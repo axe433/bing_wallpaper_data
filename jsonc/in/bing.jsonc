@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260814",
+        "fullstartdate": "202608141830",
+        "enddate": "20260815",
+        "url": "/th?id=OHR.IndependenceDay2026_EN-IN1491568628_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IndependenceDay2026_EN-IN1491568628",
+        "copyright": "The India Gate, New Delhi (© Arnav Pratap Singh/iStock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=India+Independence+Day&form=hpcapt&filters=HpDate%3a%2220260814_1830%22",
+        "title": "Beneath the tricolour sky",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260814_IndependenceDay2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e65e4fb5f6c6926a63f540d71c251335",
+        "hsh": "b5bd0084e5b01118ed89efc4f0ead308",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Every 15 August, India celebrates its independence with flag-hoisting ceremonies, patriotic songs, skies dotted with colourful kites and visitors gathering around iconic places like India Gate in New Delhi, pictured here. Behind the festivities, however, are fascinating stories that make the day even more memorable.",
+                "Image": {
+                    "Url": "/th?id=OHR.IndependenceDay2026_EN-IN1491568628_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.IndependenceDay2026_EN-IN1491568628_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Beneath the tricolour sky",
+                "Title": "The India Gate, New Delhi",
+                "Copyright": "© Arnav Pratap Singh/iStock/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/28.61408,77.205587/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=28.61408,77.205587;S9;India Gate, New Delhi&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260815_IndependenceDay2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=India+Independence+Day&form=hpcapt&filters=HpDate:\"20260814_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260815_IndependenceDay2026"
+            },
+            "Ssd": "20260815",
+            "Name": "IndependenceDay2026",
+            "Market": "EN-IN",
+            "Hash": "1491568628",
+            "FullDateString": "15 Aug, 2026"
+        }
+    },
+    {
         "startdate": "20260813",
         "fullstartdate": "202608131830",
         "enddate": "20260814",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260814",
+        "fullstartdate": "202608140400",
+        "enddate": "20260815",
+        "url": "/th?id=OHR.WildlifeCrossingPoland_EN-CA5559253434_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WildlifeCrossingPoland_EN-CA5559253434",
+        "copyright": "Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Wildlife+crossing&form=hpcapt&filters=HpDate%3a%2220260814_0400%22",
+        "title": "Built for paws, not people",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260814_WildlifeCrossingPoland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f7dbaeac59502eb15a6021d76f29a237",
+        "hsh": "8246595bdfb42f65647301791b31b5cb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Roads solved one problem but quietly created another. People could travel faster than ever, while wildlife faced highways cutting across routes they had followed for generations. The result was more collisions, fragmented habitats and isolated wildlife populations. That challenge led to wildlife crossings called ecoducts: bridges or tunnels designed to reconnect habitats and give animals a safe way across busy roads. Some of the earliest modern examples appeared in France during the 1950s, while the Netherlands later refined the concept with broad, green bridges covered in soil and native vegetation.",
+                "Image": {
+                    "Url": "/th?id=OHR.WildlifeCrossingPoland_EN-CA5559253434_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WildlifeCrossingPoland_EN-CA5559253434_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Built for paws, not people",
+                "Title": "Aerial view of a wildlife crossing near Zakrzów, Poland",
+                "Copyright": "© bbsferrari/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Highway fencing in Banff National Park has cut wildlife-vehicle collisions by over 80%, including more than 96% for elk and deer.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260814_WildlifeCrossingPoland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Wildlife+crossing&form=hpcapt&filters=HpDate:\"20260814_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260814_WildlifeCrossingPoland"
+            },
+            "Ssd": "20260814",
+            "Name": "WildlifeCrossingPoland",
+            "Market": "EN-CA",
+            "Hash": "5559253434",
+            "FullDateString": "Aug 14, 2026"
+        }
+    },
+    {
         "startdate": "20260813",
         "fullstartdate": "202608130400",
         "enddate": "20260814",

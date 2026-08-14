@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260814",
+        "fullstartdate": "202608141500",
+        "enddate": "20260815",
+        "url": "/th?id=OHR.ValleyDreams_JA-JP6579828761_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ValleyDreams_JA-JP6579828761",
+        "copyright": "ア・シ・スレ・パ自然保護区, 米国 ニューメキシコ州 (© Westend61/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3%E5%B7%9E%E3%81%AE%E3%83%95%E3%83%BC%E3%83%89%E3%82%A5%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220260814_1500%22",
+        "title": "夕陽を浴びる奇岩群",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260814_ValleyDreams%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "be1803d9a44ec5d077d7a2c4d0944509",
+        "hsh": "8975080e55bb876a08b0a64285de3e13",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ここは米国ニューメキシコ州のア・シ・スレ・パ自然保護区。水と風の浸食により約 7500 万年かけて形成された奇岩群「フードゥー」が広がっています。岩の大きさや形はさまざまで、なかでも「エイリアン・スローン（異星人の玉座）」と呼ばれる奇岩は、人気の撮影スポットです。また、この地域は化石の宝庫としても知られており、北米に生息した恐竜ペンタケラトプスをはじめ、先史時代のワニやカメ、魚類などの化石が発見されています。",
+                "Image": {
+                    "Url": "/th?id=OHR.ValleyDreams_JA-JP6579828761_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ValleyDreams_JA-JP6579828761_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "夕陽を浴びる奇岩群",
+                "Title": "ア・シ・スレ・パ自然保護区, 米国 ニューメキシコ州",
+                "Copyright": "© Westend61/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.155601,-107.935318/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=36.155601,-107.935318;S9;ア・シ・スレ・パ自然保護区, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260815_ ValleyDreams%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260815_ValleyDreams\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%8b%e3%83%a5%e3%83%bc%e3%83%a1%e3%82%ad%e3%82%b7%e3%82%b3%e5%b7%9e%e3%81%ae%e3%83%95%e3%83%bc%e3%83%89%e3%82%a5%e3%83%bc&form=hpcapt&filters=HpDate:\"20260814_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260815_ValleyDreams"
+            },
+            "Ssd": "20260815",
+            "Name": "ValleyDreams",
+            "Market": "JA-JP",
+            "Hash": "6579828761",
+            "FullDateString": "2026 年 8月 月 15 日"
+        }
+    },
+    {
         "startdate": "20260813",
         "fullstartdate": "202608131500",
         "enddate": "20260814",

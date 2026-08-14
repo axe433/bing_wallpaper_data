@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260814",
+        "fullstartdate": "202608142200",
+        "enddate": "20260815",
+        "url": "/th?id=OHR.SellinSunrise_DE-DE6501539287_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SellinSunrise_DE-DE6501539287",
+        "copyright": "Sonnenaufgang an der Seebrücke Sellin, Rügen, Mecklenburg-Vorpommern (© bluejayphoto/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Seebr%C3%BCcke+Sellin&form=hpcapt&filters=HpDate%3a%2220260814_2200%22",
+        "title": "Im goldenen Licht der Ostsee",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260814_SellinSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f7177ee0a39d9e0e403ec471029ed4de",
+        "hsh": "adde25cb1e21256ab6d63956e7f145fb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Wenn die ersten Sonnenstrahlen den Horizont vergolden, zeigt sich die Seebrücke Sellin von ihrer besonders eindrucksvollen Seite. An der Ostküste der Insel Rügen in Mecklenburg-Vorpommern gelegen, zählt dieses Bauwerk zu den bekanntesten Wahrzeichen der deutschen Ostsee. Ihre Geschichte reicht bis ins Jahr 1906 zurück, als die erste Seebrücke eröffnet wurde. Im Laufe der Jahrzehnte wurde die Anlage durch Stürme und andere Schäden mehrfach beeinträchtigt und schließlich abgerissen.",
+                "Image": {
+                    "Url": "/th?id=OHR.SellinSunrise_DE-DE6501539287_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SellinSunrise_DE-DE6501539287_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Im goldenen Licht der Ostsee",
+                "Title": "Sonnenaufgang an der Seebrücke Sellin, Rügen, Mecklenburg-Vorpommern",
+                "Copyright": "© bluejayphoto/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/54.383957,13.699495/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=54.383957,13.699495;S9;Seebrücke Sellin, Rügen&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260815_SellinSunrise\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Seebr%c3%bccke+Sellin&form=hpcapt&filters=HpDate:\"20260814_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260815_SellinSunrise"
+            },
+            "Ssd": "20260815",
+            "Name": "SellinSunrise",
+            "Market": "DE-DE",
+            "Hash": "6501539287",
+            "FullDateString": "15. Aug.. 2026"
+        }
+    },
+    {
         "startdate": "20260813",
         "fullstartdate": "202608132200",
         "enddate": "20260814",

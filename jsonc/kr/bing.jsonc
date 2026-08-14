@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260814",
+        "fullstartdate": "202608140700",
+        "enddate": "20260815",
+        "url": "/th?id=OHR.Palmanova_ROW7371050659_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Palmanova_ROW7371050659",
+        "copyright": "Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Palmanova+Italy&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260814_Palmanova%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8b36caecf82a7b81676f17af745acc7a",
+        "hsh": "f76c7f9f7fcfe2e0a2fe6ac9115c9664",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "From above, Palmanova looks less like a town and more like a carefully drawn star set into the plains of Friuli-Venezia Giulia, Italy. Founded by the Republic of Venice in 1593, this fortress city was designed for defence, order and spectacle. Its streets radiate from a central square, while its walls are shaped into a precise nine-pointed pattern. That geometry was no accident. Palmanova became one of the most influential models of early modern military architecture. It was protected by concentric fortifications built first under Venice and later strengthened and expanded during the Napoleonic period.",
+                "Image": {
+                    "Url": "/th?id=OHR.Palmanova_ROW7371050659_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Palmanova_ROW7371050659_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Aerial view of Palmanova, a fortress city in Friuli, Italy",
+                "Copyright": "© Riccardo Saponi/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260814_Palmanova\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Palmanova+Italy&form=hpcapt&filters=HpDate:\"20260814_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260814_Palmanova"
+            },
+            "Ssd": "20260814",
+            "Name": "Palmanova",
+            "Market": "ROW",
+            "Hash": "7371050659",
+            "FullDateString": "2026 8월 14"
+        }
+    },
+    {
         "startdate": "20260813",
         "fullstartdate": "202608130700",
         "enddate": "20260814",
