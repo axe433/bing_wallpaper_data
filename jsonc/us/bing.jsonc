@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260815",
+        "fullstartdate": "202608150700",
+        "enddate": "20260816",
+        "url": "/th?id=OHR.ValleyDreams_EN-US5250331985_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ValleyDreams_EN-US5250331985",
+        "copyright": "Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico (© Westend61/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ah+Shi+Sle+Pah+Wilderness&form=hpcapt&filters=HpDate%3a%2220260815_0700%22",
+        "title": "The great balancing act",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260815_ValleyDreams%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "be1803d9a44ec5d077d7a2c4d0944509",
+        "hsh": "0c6e30e6789f750ea9ed359854e42db3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness, towering hoodoos perch hefty rock caps on slender stems. Wind, water, and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial.",
+                "Image": {
+                    "Url": "/th?id=OHR.ValleyDreams_EN-US5250331985_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ValleyDreams_EN-US5250331985_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "The great balancing act",
+                "Title": "Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico",
+                "Copyright": "© Westend61/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.155291,-107.935427/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=36.155291,-107.935427;S9;Ah Shi Sle Pah Wilderness, New Mexico&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260815_ValleyDreams\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ah+Shi+Sle+Pah+Wilderness&form=hpcapt&filters=HpDate:\"20260815_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260815_ValleyDreams"
+            },
+            "Ssd": "20260815",
+            "Name": "ValleyDreams",
+            "Market": "EN-US",
+            "Hash": "5250331985",
+            "FullDateString": "Aug 15, 2026"
+        }
+    },
+    {
         "startdate": "20260814",
         "fullstartdate": "202608140700",
         "enddate": "20260815",

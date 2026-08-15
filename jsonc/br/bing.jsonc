@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260815",
+        "fullstartdate": "202608150300",
+        "enddate": "20260816",
+        "url": "/th?id=OHR.ColorfulCop_PT-BR4548843545_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ColorfulCop_PT-BR4548843545",
+        "copyright": "Casas coloridas às margens do Canal Nyhavn, Copenhague, Dinamarca (© emicristea/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Canal+Nyhavn+Dinamarca&form=hpcapt&mkt=pt-br",
+        "title": "Um porto entre capítulos",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260815_ColorfulCop%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "93156bcefa29fbde419f410e66216144",
+        "hsh": "79f988529133d594b99f316bd4ff9c15",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Alguns lugares parecem ter saído de um livro. Outros ajudaram a escrevê-los. No Canal de Nyhavn, em Copenhague, na Dinamarca, cada uma dessas casas estreitas e vibrantes parece ter escolhido uma cor diferente para contar sua própria história. Não foi à toa que Hans Christian Andersen, criador de histórias como A Pequena Sereia e O Patinho Feio, encontrou inspiração por aqui.",
+                "Image": {
+                    "Url": "/th?id=OHR.ColorfulCop_PT-BR4548843545_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ColorfulCop_PT-BR4548843545_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Um porto entre capítulos",
+                "Title": "Casas coloridas às margens do Canal Nyhavn, Copenhague, Dinamarca",
+                "Copyright": "© emicristea/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260815_ColorfulCop\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Canal+Nyhavn+Dinamarca&form=hpcapt&filters=HpDate:\"20260815_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260815_ColorfulCop"
+            },
+            "Ssd": "20260815",
+            "Name": "ColorfulCop",
+            "Market": "PT-BR",
+            "Hash": "4548843545",
+            "FullDateString": "15 ago. 2026"
+        }
+    },
+    {
         "startdate": "20260814",
         "fullstartdate": "202608140300",
         "enddate": "20260815",

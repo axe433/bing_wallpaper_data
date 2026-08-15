@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260815",
+        "fullstartdate": "202608150700",
+        "enddate": "20260816",
+        "url": "/th?id=OHR.StocktonInfinity_ROW7557207458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.StocktonInfinity_ROW7557207458",
+        "copyright": "Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Infinity+Bridge+England&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260815_StocktonInfinity%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "edbdb35e6996d6945cc8c2e7d2e46a2e",
+        "hsh": "973e4d6984e6e90d948cdd822c9d25dc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "At first glance, it's just a bridge. Then the reflection changes everything. Infinity Bridge spans the River Tees in Stockton-on-Tees, England, where its two striking steel arches and their reflections create the shape of an infinity symbol, inspiring its name. Opened in 2009, the pedestrian and cycle bridge was designed by Expedition Engineering with architect Spence Associates as part of the regeneration of the town's riverside. Stretching 240 metres, its tied-arch structure combines engineering efficiency with a distinctive visual identity.",
+                "Image": {
+                    "Url": "/th?id=OHR.StocktonInfinity_ROW7557207458_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.StocktonInfinity_ROW7557207458_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Infinity Bridge in Stockton-on-Tees, England",
+                "Copyright": "© Bahadir Yeniceri/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260815_StocktonInfinity\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Infinity+Bridge+England&form=hpcapt&filters=HpDate:\"20260815_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260815_StocktonInfinity"
+            },
+            "Ssd": "20260815",
+            "Name": "StocktonInfinity",
+            "Market": "ROW",
+            "Hash": "7557207458",
+            "FullDateString": "15 Aug 2026"
+        }
+    },
+    {
         "startdate": "20260814",
         "fullstartdate": "202608140700",
         "enddate": "20260815",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260815",
+        "fullstartdate": "202608152200",
+        "enddate": "20260816",
+        "url": "/th?id=OHR.RossErrillyRuins_DE-DE7983217751_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RossErrillyRuins_DE-DE7983217751",
+        "copyright": "Ruinen des Klosters Ross Errilly, Grafschaft Galway, Irland (© Maria Janus/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Kloster+Ross+Errilly+Irland&form=hpcapt&filters=HpDate%3a%2220260815_2200%22",
+        "title": "Wo eine Legende mit Schwänen begann",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260815_RossErrillyRuins%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "a9f327baf738b210de824cfc1880846c",
+        "hsh": "3506495508a1e511b09848b52cba569a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Im Westen Irlands erhebt sich das Kloster Ross Errilly als eine der eindrucksvollsten mittelalterlichen Klosteranlagen des Landes. Die Franziskanerniederlassung entstand in der heutigen Grafschaft Galway und beeindruckt noch immer mit ihren gut erhaltenen Mauern, Kreuzgängen und steinernen Details. Obwohl die Anlage oft als Ross Abbey bezeichnet wird, handelte es sich nie um eine Abtei. Über Jahrhunderte war sie jedoch ein bedeutendes religiöses Zentrum, das zahlreiche Ordensbrüder anzog.",
+                "Image": {
+                    "Url": "/th?id=OHR.RossErrillyRuins_DE-DE7983217751_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RossErrillyRuins_DE-DE7983217751_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Wo eine Legende mit Schwänen begann",
+                "Title": "Ruinen des Klosters Ross Errilly, Grafschaft Galway, Irland",
+                "Copyright": "© Maria Janus/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/53.47966,-9.131635/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=53.47966,-9.131635;S9;Kloster Ross Errilly, Grafschaft Galway, Irland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260816_RossErrillyRuins\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Kloster+Ross+Errilly+Irland&form=hpcapt&filters=HpDate:\"20260815_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260816_RossErrillyRuins"
+            },
+            "Ssd": "20260816",
+            "Name": "RossErrillyRuins",
+            "Market": "DE-DE",
+            "Hash": "7983217751",
+            "FullDateString": "16. Aug.. 2026"
+        }
+    },
+    {
         "startdate": "20260814",
         "fullstartdate": "202608142200",
         "enddate": "20260815",

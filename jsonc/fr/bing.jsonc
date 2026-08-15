@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260815",
+        "fullstartdate": "202608152200",
+        "enddate": "20260816",
+        "url": "/th?id=OHR.RossErrillyRuins_FR-FR6708321048_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RossErrillyRuins_FR-FR6708321048",
+        "copyright": "Monastère de Ross Errilly, Comté de Galway, Irlande (© Maria Janus/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=monast%C3%A8re+de+Ross+Errilly+Friary+Irlande&form=hpcapt&filters=HpDate%3a%2220260815_2200%22",
+        "title": "Guidé par des cygnes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260815_RossErrillyRuins%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "a9f327baf738b210de824cfc1880846c",
+        "hsh": "41d48ffb1430b1d0c26325a5c973324c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "À environ 75 km à l'Est du Connemara, en Irlande, le couvent de Ross Errilly se dresse au milieu des herbes sauvages et des pierres séculaires. Fondé vers 1351, ce monastère franciscain, souvent appelé à tort abbaye, n’abrita jamais d’abbé. Une légende raconte qu’un évêque choisit ce lieu après avoir suivi trois cygnes portant des graines de lin, comme guidé par la nature elle-même.",
+                "Image": {
+                    "Url": "/th?id=OHR.RossErrillyRuins_FR-FR6708321048_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RossErrillyRuins_FR-FR6708321048_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Guidé par des cygnes",
+                "Title": "Monastère de Ross Errilly, Comté de Galway, Irlande",
+                "Copyright": "© Maria Janus/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/53.47966,-9.131635/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=53.47966,-9.131635;S9;Monastère de Ross Errilly, Irlande&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260816_RossErrillyRuins\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=monast%c3%a8re+de+Ross+Errilly+Friary+Irlande&form=hpcapt&filters=HpDate:\"20260815_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260816_RossErrillyRuins"
+            },
+            "Ssd": "20260816",
+            "Name": "RossErrillyRuins",
+            "Market": "FR-FR",
+            "Hash": "6708321048",
+            "FullDateString": "16 août 2026"
+        }
+    },
+    {
         "startdate": "20260814",
         "fullstartdate": "202608142200",
         "enddate": "20260815",
