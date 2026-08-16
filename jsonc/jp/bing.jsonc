@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260816",
+        "fullstartdate": "202608161500",
+        "enddate": "20260817",
+        "url": "/th?id=OHR.CabilaoClowns_JA-JP7034609036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CabilaoClowns_JA-JP7034609036",
+        "copyright": "カクレクマノミ, フィリピン (© Franco Banfi/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%AB%E3%82%AF%E3%83%AC%E3%82%AF%E3%83%9E%E3%83%8E%E3%83%9F&form=hpcapt&filters=HpDate%3a%2220260816_1500%22",
+        "title": "イソギンチャクにすむ小魚たち",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260816_CabilaoClowns%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "02d57d5935a3be357cc9a99240254e48",
+        "hsh": "89d9a207a0b78500367a6400a9a077a0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日の画像は、フィリピン・ボホール州のカビラオ島で撮影されたイソギンチャクにすむカクレクマノミ。多くの魚にとってイソギンチャクは刺胞を持つ危険な存在ですが、クマノミは特殊な粘液によって身体を守っているため、触手の間を安全な住処として利用できます。一方で、捕食者を追い払ったり食べ残しを与えたりすることでイソギンチャクにも利益をもたらすという共生関係を築いています。クマノミは、すべてオスとして生まれたあと、群れからメスがいなくなると最も大きなオスが性転換してメスになるという特徴があります。",
+                "Image": {
+                    "Url": "/th?id=OHR.CabilaoClowns_JA-JP7034609036_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CabilaoClowns_JA-JP7034609036_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "イソギンチャクにすむ小魚たち",
+                "Title": "カクレクマノミ, フィリピン",
+                "Copyright": "© Franco Banfi/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/9.881099,123.771501/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=9.881099,123.771501;S9;カビラオ島, フィリピン&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260817_CabilaoClowns%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260817_CabilaoClowns\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%ab%e3%82%af%e3%83%ac%e3%82%af%e3%83%9e%e3%83%8e%e3%83%9f&form=hpcapt&filters=HpDate:\"20260816_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260817_CabilaoClowns"
+            },
+            "Ssd": "20260817",
+            "Name": "CabilaoClowns",
+            "Market": "JA-JP",
+            "Hash": "7034609036",
+            "FullDateString": "2026 年 8月 月 17 日"
+        }
+    },
+    {
         "startdate": "20260815",
         "fullstartdate": "202608151500",
         "enddate": "20260816",

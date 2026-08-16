@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260816",
+        "fullstartdate": "202608162200",
+        "enddate": "20260817",
+        "url": "/th?id=OHR.LimeKiln_IT-IT6111794447_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LimeKiln_IT-IT6111794447",
+        "copyright": "Faro Lime Kiln sull'isola di San Juan, stato di Washington, USA (© Edmund Lowe Photography/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Giornata+Internazionale+dei+Fari&form=hpcapt",
+        "title": "La luce che illumina il cammino",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260816_LimeKiln%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "810d27f039a29389aefe5d0923ffc7ee",
+        "hsh": "9bd11aefe9c522abcc266b7a9b6c0d77",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Il Faro Lime Kiln, acceso per la prima volta il 30 giugno 1919 sulla roccia viva dell'isola di San Juan, nello stato di Washington, USA, continua a lanciare il suo lampo bianco sullo stretto di Haro con la stessa precisione del primo giorno. Ogni 17 agosto, la Giornata Internazionale dei Fari celebra queste strutture che per secoli hanno guidato le navi lungo le coste di mezzo mondo.",
+                "Image": {
+                    "Url": "/th?id=OHR.LimeKiln_IT-IT6111794447_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LimeKiln_IT-IT6111794447_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La luce che illumina il cammino",
+                "Title": "Faro Lime Kiln sull'isola di San Juan, stato di Washington, USA",
+                "Copyright": "© Edmund Lowe Photography/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.516128,-123.152644/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=48.516128,-123.152644;S9;Faro Lime Kiln sull'isola di San Juan, Washington, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260817_LimeKiln\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Giornata+Internazionale+dei+Fari&form=hpcapt&filters=HpDate:\"20260816_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260817_LimeKiln"
+            },
+            "Ssd": "20260817",
+            "Name": "LimeKiln",
+            "Market": "IT-IT",
+            "Hash": "6111794447",
+            "FullDateString": "17 agosto 2026"
+        }
+    },
+    {
         "startdate": "20260815",
         "fullstartdate": "202608152200",
         "enddate": "20260816",
