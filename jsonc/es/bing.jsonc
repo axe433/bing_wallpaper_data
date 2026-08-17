@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260817",
+        "fullstartdate": "202608172200",
+        "enddate": "20260818",
+        "url": "/th?id=OHR.Palmanova_ES-ES2137780663_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Palmanova_ES-ES2137780663",
+        "copyright": "Vista aérea de Palmanova, una ciudad fortaleza en Friul-Venecia Julia, Italia (© Riccardo Saponi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Palmanova+Italia&form=hpcapt&filters=HpDate%3a%2220260817_2200%22",
+        "title": "Geometría de una ciudad estelar",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260817_Palmanova%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8b36caecf82a7b81676f17af745acc7a",
+        "hsh": "a12d1faa3d77a29a2af24fd0b30aedd9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Vista desde el aire, Palmanova no parece una ciudad: parece el plano de una estrella de nueve puntas trazado con escuadra y compás sobre las llanuras de Friul-Venecia Julia, Italia. Fundada por la República de Venecia el 7 de octubre de 1593, esta ciudad fortaleza fue concebida desde cero como modelo de defensa, orden y belleza: sus calles irradian desde una plaza central hexagonal hacia las murallas, que forman un anillo de bastiones en perfección matemática.",
+                "Image": {
+                    "Url": "/th?id=OHR.Palmanova_ES-ES2137780663_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Palmanova_ES-ES2137780663_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Geometría de una ciudad estelar",
+                "Title": "Vista aérea de Palmanova, una ciudad fortaleza en Friul-Venecia Julia, Italia",
+                "Copyright": "© Riccardo Saponi/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.907204,13.311111/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=45.907204,13.311111;S9;Palmanova, Friul-Venecia Julia, Italia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260818_Palmanova\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Palmanova+Italia&form=hpcapt&filters=HpDate:\"20260817_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260818_Palmanova"
+            },
+            "Ssd": "20260818",
+            "Name": "Palmanova",
+            "Market": "ES-ES",
+            "Hash": "2137780663",
+            "FullDateString": "18 de ago de 2026"
+        }
+    },
+    {
         "startdate": "20260816",
         "fullstartdate": "202608162200",
         "enddate": "20260817",

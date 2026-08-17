@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260817",
+        "fullstartdate": "202608171500",
+        "enddate": "20260818",
+        "url": "/th?id=OHR.Palmanova_JA-JP7271854286_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Palmanova_JA-JP7271854286",
+        "copyright": "パルマノーヴァ, イタリア (© Riccardo Saponi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%91%E3%83%AB%E3%83%9E%E3%83%8E%E3%83%BC%E3%83%B4%E3%82%A1&form=hpcapt&filters=HpDate%3a%2220260817_1500%22",
+        "title": "上空から見る星形要塞都市",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260817_Palmanova%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8b36caecf82a7b81676f17af745acc7a",
+        "hsh": "53cf786537bd047faabe94b09970b6d3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ここは、イタリア北東部にある要塞都市パルマノーヴァ。東の国境を守るため、ヴェネツィア共和国によって 16 世紀末に築かれた計画都市です。上空から見ると、都市の中心に六角形の広場があり、そこから放射状に伸びる道路と城壁が、九つの突起を持つ美しい星形を描いています。幾何学的な都市設計で知られ、近世ヨーロッパの軍事建築を代表する存在です。また、2017 年には「 16 ～ 17 世紀のヴェネツィア防衛施設群」の一部として世界遺産に登録されました。",
+                "Image": {
+                    "Url": "/th?id=OHR.Palmanova_JA-JP7271854286_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Palmanova_JA-JP7271854286_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "上空から見る星形要塞都市",
+                "Title": "パルマノーヴァ, イタリア",
+                "Copyright": "© Riccardo Saponi/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.907204,13.311111/14?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=45.907204,13.311111;S9;パルマノーヴァ, イタリア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260818_ Palmanova%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260818_Palmanova\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%91%e3%83%ab%e3%83%9e%e3%83%8e%e3%83%bc%e3%83%b4%e3%82%a1&form=hpcapt&filters=HpDate:\"20260817_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260818_Palmanova"
+            },
+            "Ssd": "20260818",
+            "Name": "Palmanova",
+            "Market": "JA-JP",
+            "Hash": "7271854286",
+            "FullDateString": "2026 年 8月 月 18 日"
+        }
+    },
+    {
         "startdate": "20260816",
         "fullstartdate": "202608161500",
         "enddate": "20260817",
