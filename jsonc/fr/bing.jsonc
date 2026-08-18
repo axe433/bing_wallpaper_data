@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260818",
+        "fullstartdate": "202608182200",
+        "enddate": "20260819",
+        "url": "/th?id=OHR.WhyteCliffP_FR-FR1858775924_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WhyteCliffP_FR-FR1858775924",
+        "copyright": "Whytecliff Park, West Vancouver, Colombie-Britannique, Canada (© Aolin Chen/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Whytecliff+Park+Colombie-Britannique&form=hpcapt&filters=HpDate%3a%2220260818_2200%22",
+        "title": "Un chemin entre les vagues",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260818_WhyteCliffP%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b43fc2ee8a3565e4a25ec866bbab2454",
+        "hsh": "19a58b61a3f4208d5579375f2be5963c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "À marée basse, la nature trace ici un chemin éphémère. Depuis Whytecliff Park, sur la côte de West Vancouver (Canada), une bande rocheuse émerge progressivement et relie le rivage à Whyte Islet. Quelques heures plus tard, l’océan reprend discrètement possession du passage. Cette traversée exige prudence et respect, car les pierres humides rappellent que le paysage demeure vivant. Au terme de la traversée, la récompense est saisissante : une vue dégagée sur la plage, les eaux du détroit et les maisons accrochées aux collines de Gleneagles.",
+                "Image": {
+                    "Url": "/th?id=OHR.WhyteCliffP_FR-FR1858775924_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WhyteCliffP_FR-FR1858775924_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un chemin entre les vagues",
+                "Title": "Whytecliff Park, West Vancouver, Colombie-Britannique, Canada",
+                "Copyright": "© Aolin Chen/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/49.375514,-123.288861/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=49.375514,-123.288861;S9;Whytecliff Park, Colombie-Britannique, Canada&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260819_WhyteCliffP\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Whytecliff+Park+Colombie-Britannique&form=hpcapt&filters=HpDate:\"20260818_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260819_WhyteCliffP"
+            },
+            "Ssd": "20260819",
+            "Name": "WhyteCliffP",
+            "Market": "FR-FR",
+            "Hash": "1858775924",
+            "FullDateString": "19 août 2026"
+        }
+    },
+    {
         "startdate": "20260817",
         "fullstartdate": "202608172200",
         "enddate": "20260818",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260818",
+        "fullstartdate": "202608182300",
+        "enddate": "20260819",
+        "url": "/th?id=OHR.WhyteCliffP_EN-GB6122204864_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WhyteCliffP_EN-GB6122204864",
+        "copyright": "Whytecliff Park in West Vancouver, British Columbia, Canada (© Aolin Chen/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Whytecliff+Park&form=hpcapt&filters=HpDate%3a%2220260818_2300%22",
+        "title": "A path between the waves",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260818_WhyteCliffP%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b43fc2ee8a3565e4a25ec866bbab2454",
+        "hsh": "81bed4b1e6c61eca07f4822df5c59af3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "The best route here isn't built with concrete. Instead, the tide reveals a rocky path leading from Whytecliff Park to Whyte Islet in West Vancouver, Canada. A few hours later, the sea quietly covers the crossing again, making timing part of the experience. This shoreline has drawn visitors for generations. The tide opens the path; wet rocks keep you humble. The reward is a sweeping view back towards the beach and the hillside homes of Gleneagles.",
+                "Image": {
+                    "Url": "/th?id=OHR.WhyteCliffP_EN-GB6122204864_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WhyteCliffP_EN-GB6122204864_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A path between the waves",
+                "Title": "Whytecliff Park in West Vancouver, British Columbia, Canada",
+                "Copyright": "© Aolin Chen/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/49.375514,-123.288861/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=49.375514,-123.288861;S9;Whytecliff Park, West Vancouver, British Columbia, Canada&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260819_WhyteCliffP\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Whytecliff+Park&form=hpcapt&filters=HpDate:\"20260818_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260819_WhyteCliffP"
+            },
+            "Ssd": "20260819",
+            "Name": "WhyteCliffP",
+            "Market": "EN-GB",
+            "Hash": "6122204864",
+            "FullDateString": "19 Aug 2026"
+        }
+    },
+    {
         "startdate": "20260817",
         "fullstartdate": "202608172300",
         "enddate": "20260818",

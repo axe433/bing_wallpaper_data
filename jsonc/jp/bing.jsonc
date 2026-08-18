@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260818",
+        "fullstartdate": "202608181500",
+        "enddate": "20260819",
+        "url": "/th?id=OHR.WildlifeCrossingPoland_JA-JP7553811306_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WildlifeCrossingPoland_JA-JP7553811306",
+        "copyright": "エコダクト, ポーランド (© bbsferrari/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%8B%95%E7%89%A9%E7%94%A8%E3%81%AE%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220260818_1500%22",
+        "title": "森をつなぐ動物専用橋",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260818_WildlifeCrossingPoland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f7dbaeac59502eb15a6021d76f29a237",
+        "hsh": "9b7d9169be67742d1a3a4104abd5937b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "道路の整備により、人間が素早く快適に移動できるようになった一方で、野生動物は移動ルートを分断されたことで、道路を横断する際に車などとの衝突事故に遭うようになってしまいました。こうした課題を解決するために建設されたのが人工的なけもの道ともいえる「エコダクト」です。今日の画像はポーランドのザクルフにあるエコダクトで、分断された生息地を再びつなぎ、動物たちが交通量の多い道路を安全に横断できるようにしています。現在では、このような橋が世界各地に設置され、野生動物と人の共生を支えています。",
+                "Image": {
+                    "Url": "/th?id=OHR.WildlifeCrossingPoland_JA-JP7553811306_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WildlifeCrossingPoland_JA-JP7553811306_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "森をつなぐ動物専用橋",
+                "Title": "エコダクト, ポーランド",
+                "Copyright": "© bbsferrari/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.215935,19.134422/11?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=52.215935,19.134422;S9;ポーランド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260819_ WildlifeCrossing %22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260819_WildlifeCrossingPoland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%8b%95%e7%89%a9%e7%94%a8%e3%81%ae%e6%a9%8b&form=hpcapt&filters=HpDate:\"20260818_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260819_WildlifeCrossingPoland"
+            },
+            "Ssd": "20260819",
+            "Name": "WildlifeCrossingPoland",
+            "Market": "JA-JP",
+            "Hash": "7553811306",
+            "FullDateString": "2026 年 8月 月 19 日"
+        }
+    },
+    {
         "startdate": "20260817",
         "fullstartdate": "202608171500",
         "enddate": "20260818",

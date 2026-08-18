@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260818",
+        "fullstartdate": "202608180700",
+        "enddate": "20260819",
+        "url": "/th?id=OHR.WildlifeCrossingPoland_ROW8094277128_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WildlifeCrossingPoland_ROW8094277128",
+        "copyright": "Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Wildlife+crossing&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260818_WildlifeCrossingPoland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f7dbaeac59502eb15a6021d76f29a237",
+        "hsh": "f33bdc06555794cad5c3abc2d0e61f12",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Roads have made travel faster for people but created new challenges for wildlife. Highways often cut across their regular migration routes, increasing collisions, fragmenting habitats and isolating animal populations. Wildlife crossings, also known as ecoducts, were developed to reconnect these landscapes. They include vegetated bridges over roads and tunnels beneath them, allowing animals to cross safely while reducing the risk of vehicle collisions. Some of the earliest modern examples appeared in France during the 1950s, while the Netherlands later expanded the idea with wide, green bridges designed to blend into the surrounding landscape.",
+                "Image": {
+                    "Url": "/th?id=OHR.WildlifeCrossingPoland_ROW8094277128_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WildlifeCrossingPoland_ROW8094277128_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Aerial view of a wildlife crossing near Zakrzów, Poland",
+                "Copyright": "© bbsferrari/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260818_WildlifeCrossingPoland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Wildlife+crossing&form=hpcapt&filters=HpDate:\"20260818_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260818_WildlifeCrossingPoland"
+            },
+            "Ssd": "20260818",
+            "Name": "WildlifeCrossingPoland",
+            "Market": "ROW",
+            "Hash": "8094277128",
+            "FullDateString": "18 авг. 2026 г."
+        }
+    },
+    {
         "startdate": "20260817",
         "fullstartdate": "202608170700",
         "enddate": "20260818",

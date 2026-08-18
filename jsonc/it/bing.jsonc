@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260818",
+        "fullstartdate": "202608182200",
+        "enddate": "20260819",
+        "url": "/th?id=OHR.WhyteCliffP_IT-IT4080399787_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WhyteCliffP_IT-IT4080399787",
+        "copyright": "Parco Whytecliff, West Vancouver, Canada (© Aolin Chen/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parco+Whytecliff+Vancouver+Canada&form=hpcapt",
+        "title": "Un isolotto particolare",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260818_WhyteCliffP%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b43fc2ee8a3565e4a25ec866bbab2454",
+        "hsh": "c979172550602c37dc5e8859773b1fc9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A West Vancouver, in Canada, la marea detta il ritmo di una delle escursioni più singolari del litorale del Pacifico: a ogni bassa marea, il mare rivela un sentiero roccioso che collega il Parco Whytecliff all'isolotto di Whyte, una piccola formazione rocciosa con una vista privilegiata sulla spiaggia e sulle case di Gleneagles. Poche ore dopo, l'acqua ricopre nuovamente il passaggio, rendendo il momento scelto per attraversare parte essenziale dell'esperienza. Le rocce bagnate impongono di andarci piano; la ricompensa, arrivati in cima, vale ogni cautela.",
+                "Image": {
+                    "Url": "/th?id=OHR.WhyteCliffP_IT-IT4080399787_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WhyteCliffP_IT-IT4080399787_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un isolotto particolare",
+                "Title": "Parco Whytecliff, West Vancouver, Canada",
+                "Copyright": "© Aolin Chen/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/49.375514,-123.288861/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=49.375514,-123.288861;S9;Parco Whytecliff, West Vancouver, Canada&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260819_WhyteCliffP\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parco+Whytecliff+Vancouver+Canada&form=hpcapt&filters=HpDate:\"20260818_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260819_WhyteCliffP"
+            },
+            "Ssd": "20260819",
+            "Name": "WhyteCliffP",
+            "Market": "IT-IT",
+            "Hash": "4080399787",
+            "FullDateString": "19 agosto 2026"
+        }
+    },
+    {
         "startdate": "20260817",
         "fullstartdate": "202608172200",
         "enddate": "20260818",

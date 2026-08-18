@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260818",
+        "fullstartdate": "202608180400",
+        "enddate": "20260819",
+        "url": "/th?id=OHR.Palmanova_EN-CA6466747249_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Palmanova_EN-CA6466747249",
+        "copyright": "Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Palmanova+Italy&form=hpcapt&filters=HpDate%3a%2220260818_0400%22",
+        "title": "Geometry of a star city",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260818_Palmanova%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8b36caecf82a7b81676f17af745acc7a",
+        "hsh": "afcff1abf5b1c4bb657e6eb5295c2e8f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "From above, Palmanova looks less like a town and more like a carefully drawn star set into the plains of Friuli-Venezia Giulia, Italy. Founded by the Republic of Venice in 1593, this fortress city was designed for defence, order and spectacle. Its streets radiate from a central square, while its walls are shaped into a precise nine-pointed pattern. That geometry was no accident. Palmanova became one of the most influential models of early modern military architecture. It was protected by concentric fortifications built first under Venice and later strengthened and expanded during the Napoleonic period.",
+                "Image": {
+                    "Url": "/th?id=OHR.Palmanova_EN-CA6466747249_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Palmanova_EN-CA6466747249_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Geometry of a star city",
+                "Title": "Aerial view of Palmanova, a fortress city in Friuli, Italy",
+                "Copyright": "© Riccardo Saponi/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.907204,13.311111/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=45.907204,13.311111;S9;Palmanova, Friuli-Venezia Giulia, Italy&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260818_Palmanova\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Palmanova+Italy&form=hpcapt&filters=HpDate:\"20260818_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260818_Palmanova"
+            },
+            "Ssd": "20260818",
+            "Name": "Palmanova",
+            "Market": "EN-CA",
+            "Hash": "6466747249",
+            "FullDateString": "Aug 18, 2026"
+        }
+    },
+    {
         "startdate": "20260817",
         "fullstartdate": "202608170400",
         "enddate": "20260818",
