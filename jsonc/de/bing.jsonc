@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260819",
+        "fullstartdate": "202608192200",
+        "enddate": "20260820",
+        "url": "/th?id=OHR.LynnCanalOrca_DE-DE7566722719_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LynnCanalOrca_DE-DE7566722719",
+        "copyright": "Ein Schwertwal im Lynn Canal nahe den Chilkat Mountains in Alaska, USA (© John Hyde/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Schwertwal&form=hpcapt&filters=HpDate%3a%2220260819_2200%22",
+        "title": "Klänge der Schwertwale",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260819_LynnCanalOrca%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cba901babe8ef83b4c5924b9b0d18c54",
+        "hsh": "e429954273baaa9e2ffe0d5c8f6ce087",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Im Lynn Canal nahe der Chilkat Mountains im US-Bundesstaat Alaska durchbricht ein Schwertwal die ruhige Wasseroberfläche. Für einen kurzen Moment zieht die markante Rückenflosse alle Blicke auf sich, bevor das Tier wieder in den Tiefen verschwindet. Die geschützten Gewässer dieser Region der Vereinigten Staaten zählen zu den artenreichsten Lebensräumen des Nordpazifiks und bieten Schwertwalen, Buckelwalen und zahlreichen Seevögeln ideale Bedingungen. Vor der Kulisse bewaldeter Hänge und schneebedeckter Gipfel entsteht ein eindrucksvolles Bild, das die Kraft und Eleganz dieser Meeressäuger besonders deutlich macht.",
+                "Image": {
+                    "Url": "/th?id=OHR.LynnCanalOrca_DE-DE7566722719_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LynnCanalOrca_DE-DE7566722719_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Klänge der Schwertwale",
+                "Title": "Ein Schwertwal im Lynn Canal nahe den Chilkat Mountains in Alaska, USA",
+                "Copyright": "© John Hyde/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/58.69194,-135.097504/2?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=58.69194,-135.097504;S9;Lynn Canal, Alaska, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260820_LynnCanalOrca\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Schwertwal&form=hpcapt&filters=HpDate:\"20260819_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260820_LynnCanalOrca"
+            },
+            "Ssd": "20260820",
+            "Name": "LynnCanalOrca",
+            "Market": "DE-DE",
+            "Hash": "7566722719",
+            "FullDateString": "20. Aug.. 2026"
+        }
+    },
+    {
         "startdate": "20260818",
         "fullstartdate": "202608182200",
         "enddate": "20260819",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260819",
+        "fullstartdate": "202608192200",
+        "enddate": "20260820",
+        "url": "/th?id=OHR.LynnCanalOrca_ES-ES3652598331_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LynnCanalOrca_ES-ES3652598331",
+        "copyright": "Una orca emerge en el canal Lynn cerca de las montañas Chilkat, Alaska, EE. UU. (© John Hyde/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Orca+animal&form=hpcapt&filters=HpDate%3a%2220260819_2200%22",
+        "title": "El juego como forma de caza",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260819_LynnCanalOrca%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cba901babe8ef83b4c5924b9b0d18c54",
+        "hsh": "383cb68e66e863c7a372ae2cb07f6080",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Una orca emerge en las aguas del canal Lynn, en el sureste de Alaska, EE. UU., con las montañas Chilkat nevadas como telón de fondo: la escena resume en una imagen la escala y la belleza de este fiordo de más de 100 kilómetros de longitud, uno de los más profundos de América del Norte. El mayor miembro de la familia de los delfines no es solo el depredador más reconocible del océano, sino también uno de los animales socialmente más complejos del planeta.",
+                "Image": {
+                    "Url": "/th?id=OHR.LynnCanalOrca_ES-ES3652598331_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LynnCanalOrca_ES-ES3652598331_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "El juego como forma de caza",
+                "Title": "Una orca emerge en el canal Lynn cerca de las montañas Chilkat, Alaska, EE. UU.",
+                "Copyright": "© John Hyde/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/58.69194,-135.097504/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=58.69194,-135.097504;S9;Canal Lynn, Alaska, EE. UU.&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260820_LynnCanalOrca\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Orca+animal&form=hpcapt&filters=HpDate:\"20260819_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260820_LynnCanalOrca"
+            },
+            "Ssd": "20260820",
+            "Name": "LynnCanalOrca",
+            "Market": "ES-ES",
+            "Hash": "3652598331",
+            "FullDateString": "20 de ago de 2026"
+        }
+    },
+    {
         "startdate": "20260818",
         "fullstartdate": "202608182200",
         "enddate": "20260819",

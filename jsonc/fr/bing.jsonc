@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260819",
+        "fullstartdate": "202608192200",
+        "enddate": "20260820",
+        "url": "/th?id=OHR.LynnCanalOrca_FR-FR3710534707_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LynnCanalOrca_FR-FR3710534707",
+        "copyright": "Une orque à la surface du canal de Lynn, près des montagnes Chilkat, Alaska, États-Unis (© John Hyde/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=orque+animal&form=hpcapt&filters=HpDate%3a%2220260819_2200%22",
+        "title": "Les voix du canal",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260819_LynnCanalOrca%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cba901babe8ef83b4c5924b9b0d18c54",
+        "hsh": "047d5ee68485e06cb44199bcadb5a7de",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dans les eaux froides du Lynn Canal, au sud-est de l’Alaska (États-Unis), une silhouette noire et blanche surgit soudain à la surface. Derrière elle s’élèvent les sommets enneigés des monts Chilkat, formant un décor d’une saisissante majesté. L’orque, souvent appelée épaulard, est le plus grand représentant de la famille des dauphins. Les eaux riches de l’Inside Passage lui offrent un habitat exceptionnel, alimenté par les remontées de nutriments et les importantes migrations de saumons. Ici, chaque saison favorise une abondance de vie marine qui fait de cette région l’un des refuges les plus précieux pour les grands prédateurs de l’océan.",
+                "Image": {
+                    "Url": "/th?id=OHR.LynnCanalOrca_FR-FR3710534707_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LynnCanalOrca_FR-FR3710534707_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Les voix du canal",
+                "Title": "Une orque à la surface du canal de Lynn, près des montagnes Chilkat, Alaska, États-Unis",
+                "Copyright": "© John Hyde/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/58.69194,-135.097504/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=58.69194,-135.097504;S9;Canal de Lynn, Alaska, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260820_LynnCanalOrca\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=orque+animal&form=hpcapt&filters=HpDate:\"20260819_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260820_LynnCanalOrca"
+            },
+            "Ssd": "20260820",
+            "Name": "LynnCanalOrca",
+            "Market": "FR-FR",
+            "Hash": "3710534707",
+            "FullDateString": "20 août 2026"
+        }
+    },
+    {
         "startdate": "20260818",
         "fullstartdate": "202608182200",
         "enddate": "20260819",

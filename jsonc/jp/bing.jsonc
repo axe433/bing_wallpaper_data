@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260819",
+        "fullstartdate": "202608191500",
+        "enddate": "20260820",
+        "url": "/th?id=OHR.LynnCanalOrca_JA-JP7810665550_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LynnCanalOrca_JA-JP7810665550",
+        "copyright": "シャチ, 米国 アラスカ州 (© John Hyde/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%B7%E3%83%A3%E3%83%81&form=hpcapt&filters=HpDate%3a%2220260819_1500%22",
+        "title": "雪山を望む海に現れたシャチ",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260819_LynnCanalOrca%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cba901babe8ef83b4c5924b9b0d18c54",
+        "hsh": "bf257559d25d81f94c7ff1ea805b567e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ここは米国アラスカ南東部のリン運河。雪を頂くチルカット山脈を背景にシャチが力強く海面へ姿を現します。シャチは海を代表する捕食動物であり、マイルカ科の中では最大の種です。アラスカの冷たく栄養豊富な海はサケをはじめとする多様な生物を育み、シャチに豊かな餌場を提供しています。そしてシャチは、人間の方言のような群れごとに異なる鳴き声を持ち、家族の絆を大切にしながら暮す高い知能を持つ生物として知られています。リン運河は、そんなシャチたちを野生のまま観察できる貴重な場所です。",
+                "Image": {
+                    "Url": "/th?id=OHR.LynnCanalOrca_JA-JP7810665550_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LynnCanalOrca_JA-JP7810665550_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "雪山を望む海に現れたシャチ",
+                "Title": "シャチ, 米国 アラスカ州",
+                "Copyright": "© John Hyde/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/58.69219,-135.097525/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=58.69219,-135.097525;S9;リン運河, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260820_ LynnCanalOrca%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260820_LynnCanalOrca\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%b7%e3%83%a3%e3%83%81&form=hpcapt&filters=HpDate:\"20260819_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260820_LynnCanalOrca"
+            },
+            "Ssd": "20260820",
+            "Name": "LynnCanalOrca",
+            "Market": "JA-JP",
+            "Hash": "7810665550",
+            "FullDateString": "2026 年 8月 月 20 日"
+        }
+    },
+    {
         "startdate": "20260818",
         "fullstartdate": "202608181500",
         "enddate": "20260819",
