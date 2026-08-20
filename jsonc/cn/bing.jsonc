@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260820",
+        "fullstartdate": "202608201600",
+        "enddate": "20260821",
+        "url": "/th?id=OHR.JulierPass_ZH-CN3064797820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JulierPass_ZH-CN3064797820",
+        "copyright": "尤利尔山口蜿蜒的公路，瑞士 (© Westend61/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E7%91%9E%E5%A3%AB%E5%B0%A4%E5%88%A9%E5%B0%94%E5%B1%B1%E5%8F%A3&form=hpcapt&mkt=zh-cn",
+        "title": "攀登在召唤",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260820_JulierPass%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "73aec8861f140575a7e6defd774b532a",
+        "hsh": "6493dbb9c1e720aeaf52af3ddffe7f6e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "有些山路本身就会成为旅行目的地，尤利尔山口正是其中之一。这座瑞士山口海拔高达7,493英尺，近2,000年来一直沿着一条路线连接着阿尔卑斯山的各个山谷。它的故事早在现代交通出现之前便已开始。没有护栏，也没有路面——只有一条供罗马时代的旅行者、商人和信使使用的路线。山顶附近的考古发现，包括无数枚硬币和两根罗马时期的皂石柱，表明这里可能曾有一处供攀越山口的人使用的圣所或歇脚处。",
+                "Image": {
+                    "Url": "/th?id=OHR.JulierPass_ZH-CN3064797820_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.JulierPass_ZH-CN3064797820_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "攀登在召唤",
+                "Title": "尤利尔山口蜿蜒的公路，瑞士",
+                "Copyright": "© Westend61/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "尤利尔山口公路全年开放，但冬季路况下可能需要安装防滑链以确保安全通行。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260821_JulierPass\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e7%91%9e%e5%a3%ab%e5%b0%a4%e5%88%a9%e5%b0%94%e5%b1%b1%e5%8f%a3&form=hpcapt&filters=HpDate:\"20260820_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260821_JulierPass"
+            },
+            "Ssd": "20260821",
+            "Name": "JulierPass",
+            "Market": "ZH-CN",
+            "Hash": "3064797820",
+            "FullDateString": "2026 8月 21"
+        }
+    },
+    {
         "startdate": "20260819",
         "fullstartdate": "202608191600",
         "enddate": "20260820",

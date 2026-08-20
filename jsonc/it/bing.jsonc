@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260820",
+        "fullstartdate": "202608202200",
+        "enddate": "20260821",
+        "url": "/th?id=OHR.JulierPass_IT-IT0417165500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JulierPass_IT-IT0417165500",
+        "copyright": "Passo del Giulio, Svizzera (© Westend61/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Passo+del+Giulio&form=hpcapt",
+        "title": "Paesaggi garantiti",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260820_JulierPass%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "73aec8861f140575a7e6defd774b532a",
+        "hsh": "7d369d81aacf42ce0db3acc77377a05c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Il Passo del Giulio, in Svizzera, è una di quelle strade di montagna che diventano esse stesse una destinazione. A oltre 2.200 metri di quota, collega le valli alpine lungo un percorso frequentato da quasi duemila anni: prima di guardrail e asfalto, romani, mercanti e messaggeri lo attraversavano a piedi. Vicino alla cima, gli archeologi hanno rinvenuto monete antiche e due colonne di steatite di epoca romana, indizi di un luogo di sosta o santuario lungo la salita.",
+                "Image": {
+                    "Url": "/th?id=OHR.JulierPass_IT-IT0417165500_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.JulierPass_IT-IT0417165500_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Paesaggi garantiti",
+                "Title": "Passo del Giulio, Svizzera",
+                "Copyright": "© Westend61/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.471172,9.725359/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=46.471172,9.725359;S9;Passo del Giulio, Svizzera&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260821_JulierPass\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Passo+del+Giulio&form=hpcapt&filters=HpDate:\"20260820_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260821_JulierPass"
+            },
+            "Ssd": "20260821",
+            "Name": "JulierPass",
+            "Market": "IT-IT",
+            "Hash": "0417165500",
+            "FullDateString": "21 agosto 2026"
+        }
+    },
+    {
         "startdate": "20260819",
         "fullstartdate": "202608192200",
         "enddate": "20260820",

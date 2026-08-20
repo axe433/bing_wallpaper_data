@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260820",
+        "fullstartdate": "202608202200",
+        "enddate": "20260821",
+        "url": "/th?id=OHR.JulierPass_ES-ES7799772209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JulierPass_ES-ES7799772209",
+        "copyright": "Carretera sinuosa del Paso de Julier, Grisones, Suiza (© Westend61/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Paso+de+Julier+Suiza&form=hpcapt&filters=HpDate%3a%2220260820_2200%22",
+        "title": "Tomando la curva perfecta",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260820_JulierPass%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "73aec8861f140575a7e6defd774b532a",
+        "hsh": "d9a9d9738fcdf30f1d3221db8b83ded3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El Paso de Julier, en Suiza, es una de esas carreteras que se convierten en destino por sí solas. A más de 2.200 metros de altitud, este paso alpino conecta valles a través de una ruta transitada durante casi dos milenios: romanos, mercaderes y mensajeros ya lo cruzaban sin asfalto ni barreras de protección. Cerca de la cima, los arqueólogos han hallado monedas y dos columnas de esteatita que apuntan a la existencia de un santuario donde los viajeros buscaban amparo.",
+                "Image": {
+                    "Url": "/th?id=OHR.JulierPass_ES-ES7799772209_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.JulierPass_ES-ES7799772209_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Tomando la curva perfecta",
+                "Title": "Carretera sinuosa del Paso de Julier, Grisones, Suiza",
+                "Copyright": "© Westend61/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.471172,9.725359/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=46.471172,9.725359;S9;Paso de Julier, Grisones, Suiza&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260821_JulierPass\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Paso+de+Julier+Suiza&form=hpcapt&filters=HpDate:\"20260820_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260821_JulierPass"
+            },
+            "Ssd": "20260821",
+            "Name": "JulierPass",
+            "Market": "ES-ES",
+            "Hash": "7799772209",
+            "FullDateString": "21 de ago de 2026"
+        }
+    },
+    {
         "startdate": "20260819",
         "fullstartdate": "202608192200",
         "enddate": "20260820",

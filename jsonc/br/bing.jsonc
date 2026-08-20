@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260820",
+        "fullstartdate": "202608200300",
+        "enddate": "20260821",
+        "url": "/th?id=OHR.LynnCanalOrca_PT-BR5511829673_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LynnCanalOrca_PT-BR5511829673",
+        "copyright": "Orca no Canal Lynn, próximo às Montanhas Chilkat, Alasca, Estados Unidos (© John Hyde/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=orca&form=hpcapt&mkt=pt-br",
+        "title": "Sociedades submarinas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260820_LynnCanalOrca%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cba901babe8ef83b4c5924b9b0d18c54",
+        "hsh": "db91d88b4ab3f145a1f112000e4421a2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Primeiro surge a nadadeira. Depois, um sopro poderoso. Na imagem, uma orca emerge do Canal Lynn, no Alasca, Estados Unidos. Conhecida como baleia-assassina, ela é, na verdade, o maior integrante da família dos golfinhos e um predador sofisticado.",
+                "Image": {
+                    "Url": "/th?id=OHR.LynnCanalOrca_PT-BR5511829673_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LynnCanalOrca_PT-BR5511829673_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Sociedades submarinas",
+                "Title": "Orca no Canal Lynn, próximo às Montanhas Chilkat, Alasca, Estados Unidos",
+                "Copyright": "© John Hyde/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260820_LynnCanalOrca\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=orca&form=hpcapt&filters=HpDate:\"20260820_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260820_LynnCanalOrca"
+            },
+            "Ssd": "20260820",
+            "Name": "LynnCanalOrca",
+            "Market": "PT-BR",
+            "Hash": "5511829673",
+            "FullDateString": "20 ago. 2026"
+        }
+    },
+    {
         "startdate": "20260819",
         "fullstartdate": "202608190300",
         "enddate": "20260820",

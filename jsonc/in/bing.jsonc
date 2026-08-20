@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260820",
+        "fullstartdate": "202608201830",
+        "enddate": "20260821",
+        "url": "/th?id=OHR.JulierPass_EN-IN9398665018_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JulierPass_EN-IN9398665018",
+        "copyright": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Julier+Pass+Switzerland&form=hpcapt&filters=HpDate%3a%2220260820_1830%22",
+        "title": "The climb is calling",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260820_JulierPass%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "73aec8861f140575a7e6defd774b532a",
+        "hsh": "08f6c08f084b0ddde7305f83f1614c92",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. Rising to 2,284 metres, this Swiss mountain pass has linked Alpine valleys for nearly 2,000 years. Long before modern traffic, Roman travellers, merchants and messengers crossed its summit. Archaeological discoveries, including hundreds of Roman coins and the remains of two stone columns, suggest there was once a sanctuary or resting place for those making the climb. The summit also marks the major European watershed dividing the Rhine and Danube river basins.",
+                "Image": {
+                    "Url": "/th?id=OHR.JulierPass_EN-IN9398665018_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.JulierPass_EN-IN9398665018_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "The climb is calling",
+                "Title": "Winding road of Julier Pass, Switzerland",
+                "Copyright": "© Westend61/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.471172,9.725359/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=46.471172,9.725359;S9;Julier Pass, Switzerland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260821_JulierPass\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Julier+Pass+Switzerland&form=hpcapt&filters=HpDate:\"20260820_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260821_JulierPass"
+            },
+            "Ssd": "20260821",
+            "Name": "JulierPass",
+            "Market": "EN-IN",
+            "Hash": "9398665018",
+            "FullDateString": "21 Aug, 2026"
+        }
+    },
+    {
         "startdate": "20260819",
         "fullstartdate": "202608191830",
         "enddate": "20260820",
