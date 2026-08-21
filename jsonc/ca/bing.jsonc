@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260821",
+        "fullstartdate": "202608210400",
+        "enddate": "20260822",
+        "url": "/th?id=OHR.CanadaNE_EN-CA9090606067_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CanadaNE_EN-CA9090606067",
+        "copyright": "Aerial view of Canadian National Exhibition in Toronto (© Wirestock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Canadian+National+Exhibition+2026&form=hpcapt&filters=HpDate%3a%2220260821_0400%22",
+        "title": "One last summer spin",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260821_CanadaNE%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d6300fb2fff72b9108dd00062e4ee5d2",
+        "hsh": "b76bba43c45bc9ff73c1512447a02c5f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "You arrive while the sky is turning blue-grey, hear the first burst of music from the midway and realise the Canadian National Exhibition has opened for another season. The event began in 1879 as the Toronto Industrial Exhibition, designed to bring together farming, industry and new ideas from across Canada. More than a century later, that purpose still survives in the exhibits and demonstrations spread across the grounds.",
+                "Image": {
+                    "Url": "/th?id=OHR.CanadaNE_EN-CA9090606067_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CanadaNE_EN-CA9090606067_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "One last summer spin",
+                "Title": "Aerial view of Canadian National Exhibition in Toronto",
+                "Copyright": "© Wirestock/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.636243,-79.412343/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=43.636243,-79.412343;S9;Exhibition Place, Toronto, Ontario&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260821_CanadaNE\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Canadian+National+Exhibition+2026&form=hpcapt&filters=HpDate:\"20260821_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260821_CanadaNE"
+            },
+            "Ssd": "20260821",
+            "Name": "CanadaNE",
+            "Market": "EN-CA",
+            "Hash": "9090606067",
+            "FullDateString": "Aug 21, 2026"
+        }
+    },
+    {
         "startdate": "20260820",
         "fullstartdate": "202608200400",
         "enddate": "20260821",

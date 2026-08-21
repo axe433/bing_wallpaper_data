@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260821",
+        "fullstartdate": "202608212200",
+        "enddate": "20260822",
+        "url": "/th?id=OHR.NotteTaranta_IT-IT0811899295_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NotteTaranta_IT-IT0811899295",
+        "copyright": "Torre Sant'Andrea, Salento, Puglia, Italia (© Balate.Dorin/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=La+Notte+della+Taranta&form=hpcapt",
+        "title": "Il suono della Taranta",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260821_NotteTaranta%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3d086938f3ab7bdfb2a9dd390256e8e1",
+        "hsh": "37ba5e672606b3910747dbfc7620df7d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Le acque turchesi di Torre Sant'Andrea, nel Salento pugliese, con i loro faraglioni di roccia bianca levigata dal mare, sono una delle coste più spettacolari d'Italia. Ed è proprio in questo lembo di Puglia che stasera si accende la 29ª edizione de La Notte della Taranta, il più grande festival di musica popolare d'Europa: nato a Melpignano nel 1998, ogni anno attraversa venti borghi del Salento prima del Concertone finale.",
+                "Image": {
+                    "Url": "/th?id=OHR.NotteTaranta_IT-IT0811899295_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NotteTaranta_IT-IT0811899295_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Il suono della Taranta",
+                "Title": "Torre Sant'Andrea, Salento, Puglia, Italia",
+                "Copyright": "© Balate.Dorin/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.509556,17.979829/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=40.509556,17.979829;S9;Salento, Puglia, Italia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260822_NotteTaranta\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=La+Notte+della+Taranta&form=hpcapt&filters=HpDate:\"20260821_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260822_NotteTaranta"
+            },
+            "Ssd": "20260822",
+            "Name": "NotteTaranta",
+            "Market": "IT-IT",
+            "Hash": "0811899295",
+            "FullDateString": "22 agosto 2026"
+        }
+    },
+    {
         "startdate": "20260820",
         "fullstartdate": "202608202200",
         "enddate": "20260821",

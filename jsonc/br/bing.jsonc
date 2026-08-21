@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260821",
+        "fullstartdate": "202608210300",
+        "enddate": "20260822",
+        "url": "/th?id=OHR.JulierPass_PT-BR6496661993_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JulierPass_PT-BR6496661993",
+        "copyright": "Estrada sinuosa da Passagem de Julier, Suíça (© Westend61/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Passagem+de+Julier+Su%C3%AD%C3%A7a&form=hpcapt&mkt=pt-br",
+        "title": "A estrada que conquista montanhas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260821_JulierPass%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "73aec8861f140575a7e6defd774b532a",
+        "hsh": "28819e9ff3dd8f1055b7ce8626e05349",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Algumas estradas fazem tanta questão de aparecer quanto o lugar para onde levam. A imagem mostra o Passo de Julier, nos Alpes da Suíça, a cerca de 2.284 metros de altitude, ligando vales alpinos por um caminho usado há quase dois milênios. Muito antes do asfalto, romanos, mercadores e mensageiros já cruzavam essa montanha. Perto do ponto mais alto, arqueólogos encontraram moedas e colunas de pedra-sabão que sugerem um antigo santuário ou ponto de descanso para quem encarava a travessia.",
+                "Image": {
+                    "Url": "/th?id=OHR.JulierPass_PT-BR6496661993_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.JulierPass_PT-BR6496661993_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A estrada que conquista montanhas",
+                "Title": "Estrada sinuosa da Passagem de Julier, Suíça",
+                "Copyright": "© Westend61/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260821_JulierPass\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Passagem+de+Julier+Su%c3%ad%c3%a7a&form=hpcapt&filters=HpDate:\"20260821_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260821_JulierPass"
+            },
+            "Ssd": "20260821",
+            "Name": "JulierPass",
+            "Market": "PT-BR",
+            "Hash": "6496661993",
+            "FullDateString": "21 ago. 2026"
+        }
+    },
+    {
         "startdate": "20260820",
         "fullstartdate": "202608200300",
         "enddate": "20260821",
