@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260822",
+        "fullstartdate": "202608222200",
+        "enddate": "20260823",
+        "url": "/th?id=OHR.KatmaiBear_IT-IT0998174582_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KatmaiBear_IT-IT0998174582",
+        "copyright": "Pesca dell'orso bruno, Parco Nazionale e Riserva di Katmai, Alaska, USA (© Pal Hermansen/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Parco+Nazionale+e+Riserva+di+Katmai&form=hpcapt",
+        "title": "Un pescatore professionista",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260822_KatmaiBear%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "535c91369fc414b8dd69b86c22784cac",
+        "hsh": "615beb527fe8a15d42d6dd5cb4af7147",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nel Parco Nazionale di Katmai, in Alaska, Stati Uniti, lo spettacolo non ha bisogno di un palcoscenico: gli orsi bruni aspettano lungo il fiume e, quando il salmone salta, la scena ha inizio. Il parco ospita circa 2.200 orsi bruni, una delle concentrazioni più alte al mondo; durante la migrazione del salmone rosso, fino a quaranta esemplari si radunano alle cascate del fiume Brooks per pescare, alcuni afferrando il pesce in volo, altri tuffandosi direttamente.",
+                "Image": {
+                    "Url": "/th?id=OHR.KatmaiBear_IT-IT0998174582_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KatmaiBear_IT-IT0998174582_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un pescatore professionista",
+                "Title": "Pesca dell'orso bruno, Parco Nazionale e Riserva di Katmai, Alaska, USA",
+                "Copyright": "© Pal Hermansen/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/58.585845,-154.920897/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=58.585845,-154.920897;S9;Parco Nazionale e Riserva di Katmai, Alaska, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260823_KatmaiBear\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parco+Nazionale+e+Riserva+di+Katmai&form=hpcapt&filters=HpDate:\"20260822_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260823_KatmaiBear"
+            },
+            "Ssd": "20260823",
+            "Name": "KatmaiBear",
+            "Market": "IT-IT",
+            "Hash": "0998174582",
+            "FullDateString": "23 agosto 2026"
+        }
+    },
+    {
         "startdate": "20260821",
         "fullstartdate": "202608212200",
         "enddate": "20260822",

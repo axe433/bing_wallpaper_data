@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260822",
+        "fullstartdate": "202608220300",
+        "enddate": "20260823",
+        "url": "/th?id=OHR.FolkRJ_PT-BR6598036806_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FolkRJ_PT-BR6598036806",
+        "copyright": "Integrantes da Salgueiro na Marquês de Sapucaí em 2022, Rio de Janeiro (© MAURO PIMENTEL/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+do+Folclore&form=hpcapt&mkt=pt-br",
+        "title": "A longa dança da história",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260822_FolkRJ%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4b044f9f2761e74e05f71d84c4080d0f",
+        "hsh": "cbfa1279e156fb99dc9c00fd0aab0191",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Algumas histórias vivem no papel. O Dia do Folclore celebra as que atravessam gerações cantadas, dançadas, bordadas e reinventadas. A palavra \"folklore\" nasceu na Inglaterra, em 1846, para definir os saberes de um povo, mas no Brasil ganhou ritmos, cores e vozes moldados por séculos de encontros entre indígenas, africanos e europeus. Por aqui, o Saci apronta, a Iara encanta rios, o Boto muda de forma e o Curupira insiste em despistar quem entra na mata. Bumba Meu Boi, frevo, maracatu, carimbó, fandango, cordel, capoeira, repentes, cantigas e receitas continuam circulando de voz em voz, de mãos em mãos e de festa em festa.",
+                "Image": {
+                    "Url": "/th?id=OHR.FolkRJ_PT-BR6598036806_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FolkRJ_PT-BR6598036806_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A longa dança da história",
+                "Title": "Integrantes da Salgueiro na Marquês de Sapucaí em 2022, Rio de Janeiro",
+                "Copyright": "© MAURO PIMENTEL/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260822_FolkRJ\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dia+do+Folclore&form=hpcapt&filters=HpDate:\"20260822_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260822_FolkRJ"
+            },
+            "Ssd": "20260822",
+            "Name": "FolkRJ",
+            "Market": "PT-BR",
+            "Hash": "6598036806",
+            "FullDateString": "22 ago. 2026"
+        }
+    },
+    {
         "startdate": "20260821",
         "fullstartdate": "202608210300",
         "enddate": "20260822",

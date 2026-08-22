@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260822",
+        "fullstartdate": "202608222200",
+        "enddate": "20260823",
+        "url": "/th?id=OHR.KatmaiBear_FR-FR3593143405_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KatmaiBear_FR-FR3593143405",
+        "copyright": "Ours brun en pleine pêche au saumon rouge, Parc national de Katmai, Alaska, États-Unis (© Pal Hermansen/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Ours+brun&form=hpcapt&filters=HpDate%3a%2220260822_2200%22",
+        "title": "Que la pêche commence !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260822_KatmaiBear%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "535c91369fc414b8dd69b86c22784cac",
+        "hsh": "8663e49d2b2c621da5d68beea7ee4b75",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dans le parc national de Katmai, au sud-ouest de l’Alaska, l’été offre un véritable spectacle aux visiteurs. Durant la Semaine des parcs nationaux célébrée aux États-Unis, les regards se tournent vers la rivière Brooks. Les saumons rouges remontent le courant et bondissent hors de l’eau — une incroyable scène rythmée par les éclaboussures.",
+                "Image": {
+                    "Url": "/th?id=OHR.KatmaiBear_FR-FR3593143405_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KatmaiBear_FR-FR3593143405_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Que la pêche commence !",
+                "Title": "Ours brun en pleine pêche au saumon rouge, Parc national de Katmai, Alaska, États-Unis",
+                "Copyright": "© Pal Hermansen/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/58.585845,-154.920897/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=58.585845,-154.920897;S9;Parc national de Katmai, Alaska, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260823_KatmaiBear\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ours+brun&form=hpcapt&filters=HpDate:\"20260822_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260823_KatmaiBear"
+            },
+            "Ssd": "20260823",
+            "Name": "KatmaiBear",
+            "Market": "FR-FR",
+            "Hash": "3593143405",
+            "FullDateString": "23 août 2026"
+        }
+    },
+    {
         "startdate": "20260821",
         "fullstartdate": "202608212200",
         "enddate": "20260822",

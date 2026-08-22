@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260822",
+        "fullstartdate": "202608222200",
+        "enddate": "20260823",
+        "url": "/th?id=OHR.KatmaiBear_ES-ES8288785894_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KatmaiBear_ES-ES8288785894",
+        "copyright": "Oso pardo pescando en el río, Parque Nacional Katmai, Alaska, EE. UU. (© Pal Hermansen/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+Katmai+Alaska&form=hpcapt&filters=HpDate%3a%2220260822_2200%22",
+        "title": "Un pescador experto en manjares",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260822_KatmaiBear%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "535c91369fc414b8dd69b86c22784cac",
+        "hsh": "e62949f773b41ed4b3e4ae15a82c6d16",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En el Parque Nacional de Katmai, en Alaska, Estados Unidos, el espectáculo no necesita escenario: los osos pardos esperan junto al río y, cuando el salmón salta, la función comienza. Este parque alberga una de las mayores concentraciones de osos pardos del planeta —unos 2.200 ejemplares—, y durante el paso del salmón rojo pueden llegar a reunirse hasta cuarenta de ellos en las cataratas del río Brooks para pescar: algunos atrapan el salmón en el aire, otros se sumergen directamente en busca del bocado.",
+                "Image": {
+                    "Url": "/th?id=OHR.KatmaiBear_ES-ES8288785894_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KatmaiBear_ES-ES8288785894_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un pescador experto en manjares",
+                "Title": "Oso pardo pescando en el río, Parque Nacional Katmai, Alaska, EE. UU.",
+                "Copyright": "© Pal Hermansen/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/58.585845,-154.920897/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=58.585845,-154.920897;S9;Parque Nacional Katmai, Alaska, EE. UU.&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260823_KatmaiBear\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parque+Nacional+Katmai+Alaska&form=hpcapt&filters=HpDate:\"20260822_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260823_KatmaiBear"
+            },
+            "Ssd": "20260823",
+            "Name": "KatmaiBear",
+            "Market": "ES-ES",
+            "Hash": "8288785894",
+            "FullDateString": "23 de ago de 2026"
+        }
+    },
+    {
         "startdate": "20260821",
         "fullstartdate": "202608212200",
         "enddate": "20260822",
