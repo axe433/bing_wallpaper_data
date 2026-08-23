@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260823",
+        "fullstartdate": "202608232200",
+        "enddate": "20260824",
+        "url": "/th?id=OHR.BKBridge_IT-IT1092253957_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BKBridge_IT-IT1092253957",
+        "copyright": "Ponte di Brooklyn, New York City, USA (© shayes17/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ponte+di+Brooklyn&form=hpcapt",
+        "title": "Attraversare la storia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260823_BKBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8c8b0ddb4ae355c04169ce82e7de78f2",
+        "hsh": "1e0049a73543b36e9ecffa8e508112af",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Il Ponte di Brooklyn, a New York, Stati Uniti, non collega soltanto Manhattan e Brooklyn: unisce storia, ingegneria e qualche storia sorprendente. Inaugurato nel 1883 dopo quattordici anni di lavori, fu il primo ponte sospeso con cavi d'acciaio al mondo. La sua costruzione ebbe un risvolto inatteso: quando il progettista John A. Roebling morì e il figlio Washington si ammalò gravemente, fu la moglie Emily Warren Roebling a studiare ingegneria e matematica per portare a termine il progetto.",
+                "Image": {
+                    "Url": "/th?id=OHR.BKBridge_IT-IT1092253957_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BKBridge_IT-IT1092253957_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Attraversare la storia",
+                "Title": "Ponte di Brooklyn, New York City, USA",
+                "Copyright": "© shayes17/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.706376,-73.996938/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=40.706376,-73.996938;S9;Ponte di Brooklyn, New York City, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260824_BKBridge\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ponte+di+Brooklyn&form=hpcapt&filters=HpDate:\"20260823_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260824_BKBridge"
+            },
+            "Ssd": "20260824",
+            "Name": "BKBridge",
+            "Market": "IT-IT",
+            "Hash": "1092253957",
+            "FullDateString": "24 agosto 2026"
+        }
+    },
+    {
         "startdate": "20260822",
         "fullstartdate": "202608222200",
         "enddate": "20260823",

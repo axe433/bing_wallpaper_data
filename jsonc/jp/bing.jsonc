@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260823",
+        "fullstartdate": "202608231500",
+        "enddate": "20260824",
+        "url": "/th?id=OHR.BKBridge_JA-JP9540004516_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BKBridge_JA-JP9540004516",
+        "copyright": "ブルックリン橋, 米国 ニューヨーク州 (© shayes17/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%83%AA%E3%83%B3%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220260823_1500%22",
+        "title": "イースト川を彩る歴史の架け橋",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260823_BKBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8c8b0ddb4ae355c04169ce82e7de78f2",
+        "hsh": "bbe0bff3156e917606c7c66a7b93c1ae",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日の画像は、米国・ニューヨークのランドマークとして親しまれているブルックリン橋。設計者はジョン・A・ローブリングで、彼の死後、その遺志を継いだ息子夫婦が、14年の歳月をかけて 1883 年に完成させました。世界初の鋼鉄製吊り橋であり、ニューヨーク市のマンハッタン区とブルックリン区を結ぶ米国内で最も古い吊橋の一つです。その美しい景観から人気の観光地・撮影スポットとして知られるほか、古くから様々な映画のロケ地としても使用されています。",
+                "Image": {
+                    "Url": "/th?id=OHR.BKBridge_JA-JP9540004516_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BKBridge_JA-JP9540004516_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "イースト川を彩る歴史の架け橋",
+                "Title": "ブルックリン橋, 米国 ニューヨーク州",
+                "Copyright": "© shayes17/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.706496,-73.996869/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=40.706496,-73.996869;S9;ブルックリン橋, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260824_BKBridge%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260824_BKBridge\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%96%e3%83%ab%e3%83%83%e3%82%af%e3%83%aa%e3%83%b3%e6%a9%8b&form=hpcapt&filters=HpDate:\"20260823_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260824_BKBridge"
+            },
+            "Ssd": "20260824",
+            "Name": "BKBridge",
+            "Market": "JA-JP",
+            "Hash": "9540004516",
+            "FullDateString": "2026 年 8月 月 24 日"
+        }
+    },
+    {
         "startdate": "20260822",
         "fullstartdate": "202608221500",
         "enddate": "20260823",
