@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260824",
+        "fullstartdate": "202608242200",
+        "enddate": "20260825",
+        "url": "/th?id=OHR.KitesurfersSunset_DE-DE3980635203_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KitesurfersSunset_DE-DE3980635203",
+        "copyright": "Kitesurfer bei Sonnenuntergang in Deutschland (© Jens Breuer/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Kite+Worldcup+Sylt+2026&form=hpcapt&filters=HpDate%3a%2220260824_2200%22",
+        "title": "Wellen, Wind, Weltklasse",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260824_KitesurfersSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6d436992a7955b2e7b55b8d3982eb7ec",
+        "hsh": "c1df0bcff9b2df91b4464f1d2cddb836",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Im goldenen Licht der untergehenden Sonne gleiten Kitesurfer über das Wasser. Die Sportart verbindet Elemente des Surfens, Segelns und Wakeboardens: Ein großer Lenkdrachen sorgt für den Antrieb, während die Fahrer über die Wellen rasen und spektakuläre Sprünge und Tricks ausführen. Kitesurfen entstand in den 1990er-Jahren und hat sich seitdem zu einer beliebten Wassersportart entwickelt. Ob auf dem Meer, an Seen oder in Lagunen – entscheidend sind ausreichend Wind, Geschicklichkeit und ein gutes Gespür für die Bedingungen auf dem Wasser.",
+                "Image": {
+                    "Url": "/th?id=OHR.KitesurfersSunset_DE-DE3980635203_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KitesurfersSunset_DE-DE3980635203_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Wellen, Wind, Weltklasse",
+                "Title": "Kitesurfer bei Sonnenuntergang in Deutschland",
+                "Copyright": "© Jens Breuer/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Seit seiner Premiere bei den Olympischen Spielen 2024 in Paris gehört das Kitesurfen offiziell zum olympischen Programm und gilt dort als eine der schnellsten Sportarten überhaupt.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260825_KitesurfersSunset\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Kite+Worldcup+Sylt+2026&form=hpcapt&filters=HpDate:\"20260824_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260825_KitesurfersSunset"
+            },
+            "Ssd": "20260825",
+            "Name": "KitesurfersSunset",
+            "Market": "DE-DE",
+            "Hash": "3980635203",
+            "FullDateString": "25. Aug.. 2026"
+        }
+    },
+    {
         "startdate": "20260823",
         "fullstartdate": "202608232200",
         "enddate": "20260824",

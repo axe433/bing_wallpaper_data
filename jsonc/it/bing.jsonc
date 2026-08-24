@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260824",
+        "fullstartdate": "202608242200",
+        "enddate": "20260825",
+        "url": "/th?id=OHR.RedwoodPark_IT-IT1204038943_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RedwoodPark_IT-IT1204038943",
+        "copyright": "Parchi Nazionali e Statali di Redwood, California, USA (© HadelProductions/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parco+nazionale+di+Redwood&form=hpcapt",
+        "title": "Giganti antichi",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260824_RedwoodPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e3005270018b15f16bc39b64a4d197a1",
+        "hsh": "47eace6150f8ea7a11942b4fe7517b0c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Camminare tra le sequoie giganti del Parco Nazionale e Statale di Redwood, nel nord della California, Stati Uniti, è un'esperienza che ridimensiona la scala umana. Le sequoie costiere sono gli alberi più alti della Terra: alcuni esemplari superano i 115 metri di altezza e possono vivere più di duemila anni. Crescono su un tappeto di felci e muschi, creando una foresta che sembra antica e viva allo stesso tempo.",
+                "Image": {
+                    "Url": "/th?id=OHR.RedwoodPark_IT-IT1204038943_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RedwoodPark_IT-IT1204038943_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Giganti antichi",
+                "Title": "Parchi Nazionali e Statali di Redwood, California, USA",
+                "Copyright": "© HadelProductions/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.401711,-124.041727/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=41.401711,-124.041727;S9;Parchi Nazionali e Statali di Redwood, California, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260825_RedwoodPark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parco+nazionale+di+Redwood&form=hpcapt&filters=HpDate:\"20260824_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260825_RedwoodPark"
+            },
+            "Ssd": "20260825",
+            "Name": "RedwoodPark",
+            "Market": "IT-IT",
+            "Hash": "1204038943",
+            "FullDateString": "25 agosto 2026"
+        }
+    },
+    {
         "startdate": "20260823",
         "fullstartdate": "202608232200",
         "enddate": "20260824",

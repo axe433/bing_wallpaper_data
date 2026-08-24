@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260824",
+        "fullstartdate": "202608242200",
+        "enddate": "20260825",
+        "url": "/th?id=OHR.GlenanSummer_FR-FR4786744371_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GlenanSummer_FR-FR4786744371",
+        "copyright": "Plage de sable blanc sur l’archipel des Glénan, Bretagne (© HadelProductions/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=archipel+des+Gl%C3%A9nan&form=hpcapt&filters=HpDate%3a%2220260824_2200%22",
+        "title": "Sable blanc et lagons bretons",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260824_GlenanSummer%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b6b1de6e7a378df9c100fc9df056c080",
+        "hsh": "0a6e1f6fe9ec57d67aa99349873a7eea",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Au large de la côte sud du Finistère, l’archipel des Glénan déploie un chapelet d’îlots aux eaux turquoise, si limpides qu’elles évoquent parfois des lagons lointains. Pourtant, nous sommes bien en Bretagne. Façonnées par les vents, les marées et les tempêtes, ces terres de sable blanc et de granite abritent un patrimoine naturel exceptionnel.",
+                "Image": {
+                    "Url": "/th?id=OHR.GlenanSummer_FR-FR4786744371_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GlenanSummer_FR-FR4786744371_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Sable blanc et lagons bretons",
+                "Title": "Plage de sable blanc sur l’archipel des Glénan, Bretagne",
+                "Copyright": "© HadelProductions/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.723829,-4.003061/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=47.723829,-4.003061;S9;Archipel des Glénan, Bretagne&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260825_GlenanSummer\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=archipel+des+Gl%c3%a9nan&form=hpcapt&filters=HpDate:\"20260824_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260825_GlenanSummer"
+            },
+            "Ssd": "20260825",
+            "Name": "GlenanSummer",
+            "Market": "FR-FR",
+            "Hash": "4786744371",
+            "FullDateString": "25 août 2026"
+        }
+    },
+    {
         "startdate": "20260823",
         "fullstartdate": "202608232200",
         "enddate": "20260824",
