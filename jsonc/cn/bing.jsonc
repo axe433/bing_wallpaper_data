@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260825",
+        "fullstartdate": "202608251600",
+        "enddate": "20260826",
+        "url": "/th?id=OHR.AurorasIceland_ZH-CN9781322454_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AurorasIceland_ZH-CN9781322454",
+        "copyright": "基尔丘山上空的极光，冰岛 (© Cavan Images/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%8C%97%E6%9E%81%E5%85%89&form=hpcapt&mkt=zh-cn",
+        "title": "流光溢彩的天空",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260825_AurorasIceland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a6ccf33781c442d55ca7e64e45272f6a",
+        "hsh": "3b620c7399820c5bdb0a11f6100d3ebe",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "随着冰岛的夜晚再次变长，游客很快又会仰望天空，期待一睹北极光。北极光是一种发光现象，当来自太阳的粒子与地球高层大气中的气体相互作用时，便会形成闪烁的绿色、粉色、紫色，有时甚至是红色光带。冰岛地处北方，秋冬季夜晚日益漫长而黑暗，因此成为全球首屈一指的极光观赏地之一。",
+                "Image": {
+                    "Url": "/th?id=OHR.AurorasIceland_ZH-CN9781322454_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AurorasIceland_ZH-CN9781322454_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "流光溢彩的天空",
+                "Title": "基尔丘山上空的极光，冰岛",
+                "Copyright": "© Cavan Images/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "极光有时还可能伴随微弱声响，不过相关报告较少，其形成机制仍在研究中。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260826_AurorasIceland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%8c%97%e6%9e%81%e5%85%89&form=hpcapt&filters=HpDate:\"20260825_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260826_AurorasIceland"
+            },
+            "Ssd": "20260826",
+            "Name": "AurorasIceland",
+            "Market": "ZH-CN",
+            "Hash": "9781322454",
+            "FullDateString": "2026 8月 26"
+        }
+    },
+    {
         "startdate": "20260824",
         "fullstartdate": "202608241600",
         "enddate": "20260825",

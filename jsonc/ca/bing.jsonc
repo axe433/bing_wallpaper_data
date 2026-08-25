@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260825",
+        "fullstartdate": "202608250400",
+        "enddate": "20260826",
+        "url": "/th?id=OHR.PurplePuffin_EN-CA8959604660_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PurplePuffin_EN-CA8959604660",
+        "copyright": "Atlantic puffin holding a wild iris in his beak in Elliston, Newfoundland (© mlorenzphotography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Atlantic+puffin&form=hpcapt&filters=HpDate%3a%2220260825_0400%22",
+        "title": "Clifftop flower carrier",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260825_PurplePuffin%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "13fc564e789cb510fb43aac9ac9a0767",
+        "hsh": "5180d41bfe29aa6da8242f056b94b37d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "As morning breaks over Elliston, a small seabird appears with a wild iris held across its bill. The scene looks almost like a gift, yet biologists say Atlantic puffins are not known to offer flowers to their mates during courtship. The colourful bill, which becomes brightest in the breeding season and fades later in the year, helps make the photograph memorable. Even their feet turn brighter.",
+                "Image": {
+                    "Url": "/th?id=OHR.PurplePuffin_EN-CA8959604660_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PurplePuffin_EN-CA8959604660_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Clifftop flower carrier",
+                "Title": "Atlantic puffin holding a wild iris in his beak in Elliston, Newfoundland",
+                "Copyright": "© mlorenzphotography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.652341,-53.045912/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=48.652341,-53.045912;S9;Eliston, Newfoundland and Labrador&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260825_PurplePuffin\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Atlantic+puffin&form=hpcapt&filters=HpDate:\"20260825_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260825_PurplePuffin"
+            },
+            "Ssd": "20260825",
+            "Name": "PurplePuffin",
+            "Market": "EN-CA",
+            "Hash": "8959604660",
+            "FullDateString": "Aug 25, 2026"
+        }
+    },
+    {
         "startdate": "20260824",
         "fullstartdate": "202608240400",
         "enddate": "20260825",

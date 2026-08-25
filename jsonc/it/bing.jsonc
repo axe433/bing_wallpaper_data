@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260825",
+        "fullstartdate": "202608252200",
+        "enddate": "20260826",
+        "url": "/th?id=OHR.AurorasIceland_IT-IT1298284038_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AurorasIceland_IT-IT1298284038",
+        "copyright": "L'aurora boreale su Kirkjufell, Islanda (© Cavan Images/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Aurora+boreale&form=hpcapt",
+        "title": "Una tempesta di colori",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260825_AurorasIceland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a6ccf33781c442d55ca7e64e45272f6a",
+        "hsh": "3cbf493497e5c9959e440db1ceed6eba",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sopra il monte Kirkjufell, nella penisola di Snæfellsnes, Islanda, il cielo notturno si trasforma in uno spettacolo di luci verdi, rosa e viola: è l'aurora boreale, il fenomeno che si produce quando le particelle solari collidono con i gas dell'atmosfera terrestre ad alta quota. La posizione settentrionale dell'Islanda e le lunghe notti autunnali e invernali la rendono una delle mete privilegiate al mondo per osservarla.",
+                "Image": {
+                    "Url": "/th?id=OHR.AurorasIceland_IT-IT1298284038_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AurorasIceland_IT-IT1298284038_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Una tempesta di colori",
+                "Title": "L'aurora boreale su Kirkjufell, Islanda",
+                "Copyright": "© Cavan Images/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/64.939949,-23.307478/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=64.939949,-23.307478;S9;Kirkjufell, Islanda&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260826_AurorasIceland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Aurora+boreale&form=hpcapt&filters=HpDate:\"20260825_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260826_AurorasIceland"
+            },
+            "Ssd": "20260826",
+            "Name": "AurorasIceland",
+            "Market": "IT-IT",
+            "Hash": "1298284038",
+            "FullDateString": "26 agosto 2026"
+        }
+    },
+    {
         "startdate": "20260824",
         "fullstartdate": "202608242200",
         "enddate": "20260825",

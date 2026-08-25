@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260825",
+        "fullstartdate": "202608250700",
+        "enddate": "20260826",
+        "url": "/th?id=OHR.RedwoodPark_ROW5740708229_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RedwoodPark_ROW5740708229",
+        "copyright": "Sunrise in Redwood National and State Parks, California, United States (© HadelProductions/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Redwood+National+and+State+Parks&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260825_RedwoodPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e3005270018b15f16bc39b64a4d197a1",
+        "hsh": "2f5a39a355f318602663e0c9c8bc5e48",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "The walk begins with a patch of sunlight on the trail, then the redwoods seem to close around the path. Today's image from Redwood National and State Parks in California, USA, shows the scene many visitors remember most: towering trunks, ferns underfoot and moss clinging to fallen wood. The parks take their name from the coast redwood, Sequoia sempervirens, whose thick, reddish bark helps protect it from fire. After decades of extensive logging, Redwood National Park was created in 1968 and later expanded in 1978 to strengthen protection for old-growth forests.",
+                "Image": {
+                    "Url": "/th?id=OHR.RedwoodPark_ROW5740708229_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RedwoodPark_ROW5740708229_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Sunrise in Redwood National and State Parks, California, United States",
+                "Copyright": "© HadelProductions/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260825_RedwoodPark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Redwood+National+and+State+Parks&form=hpcapt&filters=HpDate:\"20260825_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260825_RedwoodPark"
+            },
+            "Ssd": "20260825",
+            "Name": "RedwoodPark",
+            "Market": "ROW",
+            "Hash": "5740708229",
+            "FullDateString": "25 ago. 2026"
+        }
+    },
+    {
         "startdate": "20260824",
         "fullstartdate": "202608240700",
         "enddate": "20260825",

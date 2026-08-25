@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260825",
+        "fullstartdate": "202608251500",
+        "enddate": "20260826",
+        "url": "/th?id=OHR.AurorasIceland_JA-JP9970815507_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AurorasIceland_JA-JP9970815507",
+        "copyright": "オーロラ, アイスランド (© Cavan Images/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9&form=hpcapt&filters=HpDate%3a%2220260825_1500%22",
+        "title": "オーロラが描く幻想の空",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260825_AurorasIceland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a6ccf33781c442d55ca7e64e45272f6a",
+        "hsh": "b8401df2e318eba70155f055025e126c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "アイスランドでは秋の訪れとともに夜が長くなり、オーロラ観測に適した季節が近づいています。オーロラで見られる青や緑、紫などに揺らめく光は、太陽から飛来した電気を帯びた粒子（プラズマ）が地球の高層大気中のガスと衝突することで発生します。そして、今日の画像はその幻想的な光の下にそびえるキルキュフェットル山。「教会の山」を意味する山で、晴れた夜には、この山と滝、そしてオーロラが織りなす絶景が多くの人々を魅了します。",
+                "Image": {
+                    "Url": "/th?id=OHR.AurorasIceland_JA-JP9970815507_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AurorasIceland_JA-JP9970815507_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "オーロラが描く幻想の空",
+                "Title": "オーロラ, アイスランド",
+                "Copyright": "© Cavan Images/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/64.947731,-23.310894/14?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=64.947731,-23.310894;S9;キルキュフェットル山, アイスランド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260826_AurorasIceland%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260826_AurorasIceland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%aa%e3%83%bc%e3%83%ad%e3%83%a9&form=hpcapt&filters=HpDate:\"20260825_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260826_AurorasIceland"
+            },
+            "Ssd": "20260826",
+            "Name": "AurorasIceland",
+            "Market": "JA-JP",
+            "Hash": "9970815507",
+            "FullDateString": "2026 年 8月 月 26 日"
+        }
+    },
+    {
         "startdate": "20260824",
         "fullstartdate": "202608241500",
         "enddate": "20260825",

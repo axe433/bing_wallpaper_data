@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260825",
+        "fullstartdate": "202608250700",
+        "enddate": "20260826",
+        "url": "/th?id=OHR.RedwoodPark_EN-US3199427613_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RedwoodPark_EN-US3199427613",
+        "copyright": "Sunrise in Redwood National and State Parks, California (© HadelProductions/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=National+Park+Service&form=hpcapt&filters=HpDate%3a%2220260825_0700%22",
+        "title": "Protecting America's treasures",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260825_RedwoodPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e3005270018b15f16bc39b64a4d197a1",
+        "hsh": "20024898d303f86c2fdebb478a0c8456",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "For 110 years, America's greatest outdoor classroom has been open for exploration. On August 25, the National Park Service marks over a century of protecting the nation's natural and cultural treasures. Established in 1916 when President Woodrow Wilson signed the Organic Act into law, the agency now cares for hundreds of parks, monuments, seashores, and historic sites across the country. Ranger-led programs, family activities, and educational events invite visitors to connect with the landscapes and stories that define the national park system.",
+                "Image": {
+                    "Url": "/th?id=OHR.RedwoodPark_EN-US3199427613_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RedwoodPark_EN-US3199427613_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Protecting America's treasures",
+                "Title": "Sunrise in Redwood National and State Parks, California",
+                "Copyright": "© HadelProductions/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.401711,-124.041727/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=41.401711,-124.041727;S9;Redwood National and State Parks, California&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260825_RedwoodPark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=National+Park+Service&form=hpcapt&filters=HpDate:\"20260825_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260825_RedwoodPark"
+            },
+            "Ssd": "20260825",
+            "Name": "RedwoodPark",
+            "Market": "EN-US",
+            "Hash": "3199427613",
+            "FullDateString": "Aug 25, 2026"
+        }
+    },
+    {
         "startdate": "20260824",
         "fullstartdate": "202608240700",
         "enddate": "20260825",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260825",
+        "fullstartdate": "202608252200",
+        "enddate": "20260826",
+        "url": "/th?id=OHR.AurorasIceland_DE-DE5182720309_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AurorasIceland_DE-DE5182720309",
+        "copyright": "Polarlichter über dem Kirkjufell, Island (© Cavan Images/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Polarlicht&form=hpcapt&filters=HpDate%3a%2220260825_2200%22",
+        "title": "Farbspiele am Himmel",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260825_AurorasIceland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a6ccf33781c442d55ca7e64e45272f6a",
+        "hsh": "8f988c1eb74437ee8b63b26b16dfd926",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Der Kirkjufell zählt zu den bekanntesten Bergen Islands und bietet eine eindrucksvolle Kulisse für die Beobachtung von Polarlichtern. Wenn die Nächte im Herbst und Winter langsam dunkler werden, erscheinen grüne Lichtbänder am Himmel und verwandeln die Landschaft in ein faszinierendes Schauspiel. Die reflektierenden Farben, die schneebedeckten Hänge und die abgelegene Lage schaffen eine Atmosphäre, die Besucher aus aller Welt anzieht. Besonders in den kalten Monaten gehören solche Nächte zu den eindrucksvollsten Naturerlebnissen des Landes.",
+                "Image": {
+                    "Url": "/th?id=OHR.AurorasIceland_DE-DE5182720309_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AurorasIceland_DE-DE5182720309_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Farbspiele am Himmel",
+                "Title": "Polarlichter über dem Kirkjufell, Island",
+                "Copyright": "© Cavan Images/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/64.939949,-23.307478/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=64.939949,-23.307478;S9;Kirkjufell, Island&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260826_AurorasIceland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Polarlicht&form=hpcapt&filters=HpDate:\"20260825_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260826_AurorasIceland"
+            },
+            "Ssd": "20260826",
+            "Name": "AurorasIceland",
+            "Market": "DE-DE",
+            "Hash": "5182720309",
+            "FullDateString": "26. Aug.. 2026"
+        }
+    },
+    {
         "startdate": "20260824",
         "fullstartdate": "202608242200",
         "enddate": "20260825",
