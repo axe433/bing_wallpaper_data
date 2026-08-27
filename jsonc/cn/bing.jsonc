@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260826",
+        "fullstartdate": "202608261600",
+        "enddate": "20260827",
+        "url": "/th?id=OHR.LakeMagadi_ZH-CN0601527009_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LakeMagadi_ZH-CN0601527009",
+        "copyright": "日出时的小红鹳群，马加迪湖，肯尼亚 (© Denis-Huot/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B9%96%E6%B3%8A%E6%97%A5&form=hpcapt&mkt=zh-cn",
+        "title": "湖水、野生动物与奇景",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260826_LakeMagadi%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f84184110285c943c227bfe98b60c109",
+        "hsh": "10d60cf76cca639372535997c3c54ddf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "想象一个没有这些自然奇观的世界——它们容纳着地球约90%的地表淡水。湖泊是地球上最宝贵的资源之一。它们提供清洁水源、支持野生动物、帮助调节气候，并维系全球各地的社区。为肯定湖泊的重要作用，联合国将8月27日定为世界湖泊日，并于2025年首次纪念。采取行动的必要性比以往任何时候都更为迫切。全球超过1.17亿个湖泊覆盖了近4%的陆地表面，但许多湖泊正面临污染、过度利用和气候变化带来的日益严峻的压力。",
+                "Image": {
+                    "Url": "/th?id=OHR.LakeMagadi_ZH-CN0601527009_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LakeMagadi_ZH-CN0601527009_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "湖水、野生动物与奇景",
+                "Title": "日出时的小红鹳群，马加迪湖，肯尼亚",
+                "Copyright": "© Denis-Huot/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "马加迪湖位于火山盆地中，温泉为富含碳酸钠的高碱性湖水提供补给。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260827_LakeMagadi\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e4%b8%96%e7%95%8c%e6%b9%96%e6%b3%8a%e6%97%a5&form=hpcapt&filters=HpDate:\"20260826_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260827_LakeMagadi"
+            },
+            "Ssd": "20260827",
+            "Name": "LakeMagadi",
+            "Market": "ZH-CN",
+            "Hash": "0601527009",
+            "FullDateString": "2026 8月 27"
+        }
+    },
+    {
         "startdate": "20260825",
         "fullstartdate": "202608251600",
         "enddate": "20260826",

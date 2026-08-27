@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260826",
+        "fullstartdate": "202608262200",
+        "enddate": "20260827",
+        "url": "/th?id=OHR.LakeMagadi_IT-IT1397011994_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LakeMagadi_IT-IT1397011994",
+        "copyright": "Il fenicottero minore all'alba, Lago Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Lago+Magadi&form=hpcapt",
+        "title": "Acqua, fauna selvatica e meraviglia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260826_LakeMagadi%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f84184110285c943c227bfe98b60c109",
+        "hsh": "9354ae288099a037c4aaea34e0d2547e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "I fenicotteri minori del Lago Magadi, nella Grande Rift Valley del Kenya, tingono l'orizzonte di rosa all'alba, trasformando le rive di questo lago alcalino e poco profondo in uno spettacolo di colore straordinario. Le sue acque ricche di minerali favoriscono la proliferazione di alghe di cui si nutrono a migliaia. Il 27 agosto è la Giornata Mondiale dei Laghi, istituita dall'ONU nel 2025: i laghi coprono quasi il 4 % della superficie terrestre e contengono circa il 90 % dell'acqua dolce superficiale del pianeta, ma molti sono minacciati da inquinamento e cambiamenti climatici.",
+                "Image": {
+                    "Url": "/th?id=OHR.LakeMagadi_IT-IT1397011994_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LakeMagadi_IT-IT1397011994_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Acqua, fauna selvatica e meraviglia",
+                "Title": "Il fenicottero minore all'alba, Lago Magadi, Kenya",
+                "Copyright": "© Denis-Huot/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-1.902409,36.265224/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=-1.902409,36.265224;S9;Lago Magadi, Kenya&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260827_LakeMagadi\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lago+Magadi&form=hpcapt&filters=HpDate:\"20260826_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260827_LakeMagadi"
+            },
+            "Ssd": "20260827",
+            "Name": "LakeMagadi",
+            "Market": "IT-IT",
+            "Hash": "1397011994",
+            "FullDateString": "27 agosto 2026"
+        }
+    },
+    {
         "startdate": "20260825",
         "fullstartdate": "202608252200",
         "enddate": "20260826",

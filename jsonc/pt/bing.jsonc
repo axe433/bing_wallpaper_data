@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260826",
+        "fullstartdate": "202608260700",
+        "enddate": "20260827",
+        "url": "/th?id=OHR.AurorasIceland_ROW6294379114_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AurorasIceland_ROW6294379114",
+        "copyright": "Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Aurora+borealis&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260826_AurorasIceland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a6ccf33781c442d55ca7e64e45272f6a",
+        "hsh": "bb863d0c8f45f47f655430a9f722ad6c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "As darker nights return to Iceland, visitors will soon look to the skies for a chance to see the aurora borealis. Better known as the northern lights, this luminous phenomenon occurs when particles from the sun interact with gases high in Earth's atmosphere, creating shimmering ribbons of green, pink, purple and sometimes red light. Iceland's northern location and increasingly dark autumn and winter nights make it one of the world's premier destinations for aurora viewing.",
+                "Image": {
+                    "Url": "/th?id=OHR.AurorasIceland_ROW6294379114_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AurorasIceland_ROW6294379114_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Auroras over Kirkjufell, Iceland",
+                "Copyright": "© Cavan Images/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260826_AurorasIceland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Aurora+borealis&form=hpcapt&filters=HpDate:\"20260826_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260826_AurorasIceland"
+            },
+            "Ssd": "20260826",
+            "Name": "AurorasIceland",
+            "Market": "ROW",
+            "Hash": "6294379114",
+            "FullDateString": "26 ago. 2026"
+        }
+    },
+    {
         "startdate": "20260825",
         "fullstartdate": "202608250700",
         "enddate": "20260826",

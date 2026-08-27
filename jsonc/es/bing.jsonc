@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260826",
+        "fullstartdate": "202608262200",
+        "enddate": "20260827",
+        "url": "/th?id=OHR.LakeMagadi_ES-ES9474511114_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LakeMagadi_ES-ES9474511114",
+        "copyright": "Bandada de flamencos enanos al amanecer, Lago Magadi, Kenia (© Denis-Huot/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Lago+Magadi&form=hpcapt&filters=HpDate%3a%2220260826_2200%22",
+        "title": "Agua, fauna y maravilla",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260826_LakeMagadi%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f84184110285c943c227bfe98b60c109",
+        "hsh": "219feaf9b63a7486ab8718515d1ad413",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En el lago Magadi, en el Gran Valle del Rift, Kenia, los flamencos enanos tiñen el horizonte de rosa al amanecer. Este lago somero y alcalino, rico en minerales, genera una proliferación de algas que atrae a miles de estas aves para alimentarse, transformando la orilla en un espectáculo de color extraordinario. Los lagos son mucho más que agua: almacenan alrededor del noventa por ciento del agua dulce superficial del planeta, regulan el clima y sostienen ecosistemas enteros. La ONU designó el 27 de agosto como Día Mundial de los Lagos, celebrado por primera vez en 2025, para visibilizar las amenazas que afrontan: contaminación, sobreexplotación y cambio climático.",
+                "Image": {
+                    "Url": "/th?id=OHR.LakeMagadi_ES-ES9474511114_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LakeMagadi_ES-ES9474511114_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Agua, fauna y maravilla",
+                "Title": "Bandada de flamencos enanos al amanecer, Lago Magadi, Kenia",
+                "Copyright": "© Denis-Huot/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-1.902409,36.265224/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=-1.902409,36.265224;S9;Lago Magadi, Kenia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260827_LakeMagadi\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lago+Magadi&form=hpcapt&filters=HpDate:\"20260826_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260827_LakeMagadi"
+            },
+            "Ssd": "20260827",
+            "Name": "LakeMagadi",
+            "Market": "ES-ES",
+            "Hash": "9474511114",
+            "FullDateString": "27 de ago de 2026"
+        }
+    },
+    {
         "startdate": "20260825",
         "fullstartdate": "202608252200",
         "enddate": "20260826",

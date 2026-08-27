@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260826",
+        "fullstartdate": "202608261500",
+        "enddate": "20260827",
+        "url": "/th?id=OHR.LakeMagadi_JA-JP0125683063_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LakeMagadi_JA-JP0125683063",
+        "copyright": "マガディ湖, ケニア (© Denis-Huot/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B9%96%E6%B2%BC%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260826_1500%22",
+        "title": "今日は世界湖沼の日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260826_LakeMagadi%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f84184110285c943c227bfe98b60c109",
+        "hsh": "63dc11ff3cb14078f3b6639ffafaea0d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日8月27日は「世界湖沼の日」。湖沼の重要性と保全への意識を高めるため、2024 年に国連総会で制定されました。湖沼は貴重な淡水資源であり、多様な生物を支える重要な存在です。しかし、都市化や気候変動などの影響により、その存続が脅かされています。そして、今日の画像は、ケニア南西部のマガディ湖に集まるコフラミンゴの群れ。マガディ湖は強アルカリ性で魚はほとんどいないものの、藻類が豊富であり、フラミンゴはそれを求めて集まっています。",
+                "Image": {
+                    "Url": "/th?id=OHR.LakeMagadi_JA-JP0125683063_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LakeMagadi_JA-JP0125683063_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日は世界湖沼の日",
+                "Title": "マガディ湖, ケニア",
+                "Copyright": "© Denis-Huot/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-1.902409,36.265224/12?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=-1.902409,36.265224;S9;マガディ湖, ケニア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260827_LakeMagadi%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260827_LakeMagadi\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e4%b8%96%e7%95%8c%e6%b9%96%e6%b2%bc%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate:\"20260826_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260827_LakeMagadi"
+            },
+            "Ssd": "20260827",
+            "Name": "LakeMagadi",
+            "Market": "JA-JP",
+            "Hash": "0125683063",
+            "FullDateString": "2026 年 8月 月 27 日"
+        }
+    },
+    {
         "startdate": "20260825",
         "fullstartdate": "202608251500",
         "enddate": "20260826",

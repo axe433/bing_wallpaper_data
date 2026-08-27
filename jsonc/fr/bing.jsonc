@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260826",
+        "fullstartdate": "202608262200",
+        "enddate": "20260827",
+        "url": "/th?id=OHR.LakeMagadi_FR-FR8316800874_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LakeMagadi_FR-FR8316800874",
+        "copyright": "Volée de flamants nains à l’aube, Lac Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+mondiale+des+lacs&form=hpcapt&filters=HpDate%3a%2220260826_2200%22",
+        "title": "Des trésors à protéger",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260826_LakeMagadi%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f84184110285c943c227bfe98b60c109",
+        "hsh": "6433cc78499b3451466b7591561b0fb6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Il est difficile d’imaginer un monde privé de ces vastes miroirs d’eau qui renferment l’essentiel de l’eau douce liquide présente à la surface de la Terre. Les lacs sont au cœur de l’équilibre des écosystèmes : ils fournissent de l’eau, abritent une biodiversité remarquable, influencent le climat local et soutiennent d’innombrables communautés humaines. Pour souligner leur importance, les Nations unies ont instauré la Journée mondiale des lacs, célébrée chaque 27 août depuis 2025. Plus de 117 millions de lacs couvrent près de 4 % des terres émergées, mais beaucoup subissent pollution, surexploitation et dérèglement climatique.",
+                "Image": {
+                    "Url": "/th?id=OHR.LakeMagadi_FR-FR8316800874_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LakeMagadi_FR-FR8316800874_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Des trésors à protéger",
+                "Title": "Volée de flamants nains à l’aube, Lac Magadi, Kenya",
+                "Copyright": "© Denis-Huot/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-1.902409,36.265224/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=-1.902409,36.265224;S9;Lac Magadi, Kenya&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260827_LakeMagadi\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Journ%c3%a9e+mondiale+des+lacs&form=hpcapt&filters=HpDate:\"20260826_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260827_LakeMagadi"
+            },
+            "Ssd": "20260827",
+            "Name": "LakeMagadi",
+            "Market": "FR-FR",
+            "Hash": "8316800874",
+            "FullDateString": "27 août 2026"
+        }
+    },
+    {
         "startdate": "20260825",
         "fullstartdate": "202608252200",
         "enddate": "20260826",
