@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260827",
+        "fullstartdate": "202608271500",
+        "enddate": "20260828",
+        "url": "/th?id=OHR.MichelSunset_JA-JP0274204340_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MichelSunset_JA-JP0274204340",
+        "copyright": "モン・サン＝ミシェル, フランス (© Clement LEONARD/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%A2%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%B3%EF%BC%9D%E3%83%9F%E3%82%B7%E3%82%A7%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220260827_1500%22",
+        "title": "海岸風景の中にそびえる修道院",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260827_MichelSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "006b990ab1c8f2db5704b84382aa68e6",
+        "hsh": "bb1fc442088bb9262573ab8b0d9ce1ca",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "フランス・ノルマンディーの海に浮かぶモン・サン＝ミシェルが、夕陽に照らされて幻想的な姿を見せています。岩山の上にそびえ立つこの修道院は、ヨーロッパでも屈指の海岸景観で知られており、潮が引くと広大な干潟が現れ、満潮になると周囲を海に囲まれた島のような景観となります。その起源は 708 年にさかのぼるとされ、長い歴史の中でヨーロッパを代表するカトリックの巡礼地のひとつへと発展しました。そして、1979 年には「モン＝サン＝ミシェルとその湾」として、ユネスコの世界遺産に登録されました。",
+                "Image": {
+                    "Url": "/th?id=OHR.MichelSunset_JA-JP0274204340_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MichelSunset_JA-JP0274204340_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "海岸風景の中にそびえる修道院",
+                "Title": "モン・サン＝ミシェル, フランス",
+                "Copyright": "© Clement LEONARD/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.635078,-1.51064/15?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=48.635078,-1.51064;S9;モン・サン＝ミシェル, フランス&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260828_MichelSunset%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260828_MichelSunset\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%a2%e3%83%b3%e3%83%bb%e3%82%b5%e3%83%b3%ef%bc%9d%e3%83%9f%e3%82%b7%e3%82%a7%e3%83%ab&form=hpcapt&filters=HpDate:\"20260827_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260828_MichelSunset"
+            },
+            "Ssd": "20260828",
+            "Name": "MichelSunset",
+            "Market": "JA-JP",
+            "Hash": "0274204340",
+            "FullDateString": "2026 年 8月 月 28 日"
+        }
+    },
+    {
         "startdate": "20260826",
         "fullstartdate": "202608261500",
         "enddate": "20260827",

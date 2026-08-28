@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260827",
+        "fullstartdate": "202608272200",
+        "enddate": "20260828",
+        "url": "/th?id=OHR.MichelSunset_FR-FR8060193680_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MichelSunset_FR-FR8060193680",
+        "copyright": "Le Mont-Saint-Michel à marée haute, Manche, Normandie (© Clement LEONARD/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Le+Mont-Saint-Michel&form=hpcapt&filters=HpDate%3a%2220260827_2200%22",
+        "title": "Bercé par la marée",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260827_MichelSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "006b990ab1c8f2db5704b84382aa68e6",
+        "hsh": "76613bc304b535e6d7c932cc1122e118",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Au coucher du soleil, le Mont-Saint-Michel semble surgir des eaux de Normandie comme un mirage façonné par les marées. Dressée sur un îlot rocheux, cette silhouette emblématique domine l’une des baies les plus spectaculaires d’Europe. Deux fois par jour, la mer se retire sur plusieurs kilomètres, dévoilant d’immenses étendues de sable où s’aventurent oiseaux côtiers et promeneurs attentifs. Puis l’eau revient, transformant à nouveau le mont en île. Depuis des siècles, habitants, marchands et pèlerins vivent au rythme de ce mouvement incessant, voyant le paysage se métamorphoser au fil des heures dans une lumière changeante et fascinante.",
+                "Image": {
+                    "Url": "/th?id=OHR.MichelSunset_FR-FR8060193680_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MichelSunset_FR-FR8060193680_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Bercé par la marée",
+                "Title": "Le Mont-Saint-Michel à marée haute, Manche, Normandie",
+                "Copyright": "© Clement LEONARD/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.637417,-1.5112/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=48.637417,-1.5112;S9;Le Mont-Saint-Michel, Normandie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260828_MichelSunset\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Le+Mont-Saint-Michel&form=hpcapt&filters=HpDate:\"20260827_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260828_MichelSunset"
+            },
+            "Ssd": "20260828",
+            "Name": "MichelSunset",
+            "Market": "FR-FR",
+            "Hash": "8060193680",
+            "FullDateString": "28 août 2026"
+        }
+    },
+    {
         "startdate": "20260826",
         "fullstartdate": "202608262200",
         "enddate": "20260827",

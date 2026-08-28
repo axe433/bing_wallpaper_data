@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260828",
+        "fullstartdate": "202608280400",
+        "enddate": "20260829",
+        "url": "/th?id=OHR.MichelSunset_EN-CA0604318625_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MichelSunset_EN-CA0604318625",
+        "copyright": "Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mont+Saint+Michel&form=hpcapt&filters=HpDate%3a%2220260828_0400%22",
+        "title": "Where tides shape a legend",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260828_MichelSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "006b990ab1c8f2db5704b84382aa68e6",
+        "hsh": "a723b911006263c8397d299bdaafe57e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "At sunset, Mont-Saint Michel rises from the waters of Normandy, France, like a fortress shaped by the sea. Perched on a rocky tidal island, the abbey and village stand at the centre of one of Europe's most dramatic coastal settings. Twice a day, the sea retreats to reveal vast stretches of sand before surging back to reclaim the landscape. At high tide, the mount becomes an island once again. For centuries, travellers timed their journeys to this rhythm, crossing the flats when conditions allowed and watching the sea return hours later.",
+                "Image": {
+                    "Url": "/th?id=OHR.MichelSunset_EN-CA0604318625_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MichelSunset_EN-CA0604318625_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Where tides shape a legend",
+                "Title": "Mont-Saint-Michel during high tide, Manche, Normandy, France",
+                "Copyright": "© Clement LEONARD/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.637417,-1.5112/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=48.637417,-1.5112;S9;Mont-Saint-Michel, Normandy, France&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260828_MichelSunset\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Mont+Saint+Michel&form=hpcapt&filters=HpDate:\"20260828_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260828_MichelSunset"
+            },
+            "Ssd": "20260828",
+            "Name": "MichelSunset",
+            "Market": "EN-CA",
+            "Hash": "0604318625",
+            "FullDateString": "Aug 28, 2026"
+        }
+    },
+    {
         "startdate": "20260827",
         "fullstartdate": "202608270400",
         "enddate": "20260828",

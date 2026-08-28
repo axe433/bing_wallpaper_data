@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260827",
+        "fullstartdate": "202608270700",
+        "enddate": "20260828",
+        "url": "/th?id=OHR.LakeMagadi_EN-US3401664434_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LakeMagadi_EN-US3401664434",
+        "copyright": "Lesser flamingo flock at sunrise, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=World+Lake+Day&form=hpcapt&filters=HpDate%3a%2220260827_0700%22",
+        "title": "Water, wildlife, and wonder",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260827_LakeMagadi%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f84184110285c943c227bfe98b60c109",
+        "hsh": "5da81fe9acc758a9beafb035dab00d8b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Imagine a world without the natural wonders that hold about 90% of Earth's surface freshwater. Lakes are among our planet's most valuable resources. They provide clean water, support wildlife, help regulate climate, and sustain communities around the globe. In recognition of their vital role, the United Nations designated August 27 as World Lake Day, first observed in 2025. The need for action is greater than ever. More than 117 million lakes cover nearly 4% of Earth's land surface, yet many face growing pressure from pollution, overuse, and climate change.",
+                "Image": {
+                    "Url": "/th?id=OHR.LakeMagadi_EN-US3401664434_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LakeMagadi_EN-US3401664434_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Water, wildlife, and wonder",
+                "Title": "Lesser flamingo flock at sunrise, Lake Magadi, Kenya",
+                "Copyright": "© Denis-Huot/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-1.902409,36.265224/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=-1.902409,36.265224;S9;Lake Magadi, Kenya&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260827_LakeMagadi\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=World+Lake+Day&form=hpcapt&filters=HpDate:\"20260827_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260827_LakeMagadi"
+            },
+            "Ssd": "20260827",
+            "Name": "LakeMagadi",
+            "Market": "EN-US",
+            "Hash": "3401664434",
+            "FullDateString": "Aug 27, 2026"
+        }
+    },
+    {
         "startdate": "20260826",
         "fullstartdate": "202608260700",
         "enddate": "20260827",
