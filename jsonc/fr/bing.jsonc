@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260828",
+        "fullstartdate": "202608282200",
+        "enddate": "20260829",
+        "url": "/th?id=OHR.SantaCatarina_FR-FR8615743181_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SantaCatarina_FR-FR8615743181",
+        "copyright": "Vue aérienne de surfeurs, Santa Catarina, Brésil (© Wonderful Nature/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Br%C3%A9sil+Santa+Catarina&form=hpcapt&filters=HpDate%3a%2220260828_2200%22",
+        "title": "L’art de lire entre les vagues",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260828_SantaCatarina%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "7a8141f3ac7f5202c3def695a1a84100",
+        "hsh": "09f0d1462b4f7c7988aac08fd090f19a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Au large de l’État de Santa Catarina, dans le sud du Brésil, une scène familière se répète à l’infini : des surfeurs attendent derrière les vagues déferlantes, leurs planches montant et descendant au rythme de l’Atlantique. Vu du ciel, le spectacle semble presque immobile. Pourtant, c'est précisément là que tout se joue. Chaque houle transporte une énergie née de vents parfois soufflés à des centaines, voire à des milliers de kilomètres. Pour glisser sur l’eau, il faut savoir reconnaître le moment précis où cette force atteint la côte.",
+                "Image": {
+                    "Url": "/th?id=OHR.SantaCatarina_FR-FR8615743181_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SantaCatarina_FR-FR8615743181_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "L'art de lire entre les vagues",
+                "Title": "Vue aérienne de surfeurs, Santa Catarina, Brésil",
+                "Copyright": "© Wonderful Nature/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-27.374188,-48.654926/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=-27.374188,-48.654926;S9;Santa Catarina, Brésil&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260829_SantaCatarina\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Br%c3%a9sil+Santa+Catarina&form=hpcapt&filters=HpDate:\"20260828_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260829_SantaCatarina"
+            },
+            "Ssd": "20260829",
+            "Name": "SantaCatarina",
+            "Market": "FR-FR",
+            "Hash": "8615743181",
+            "FullDateString": "29 août 2026"
+        }
+    },
+    {
         "startdate": "20260827",
         "fullstartdate": "202608272200",
         "enddate": "20260828",

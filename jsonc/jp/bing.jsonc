@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260828",
+        "fullstartdate": "202608281500",
+        "enddate": "20260829",
+        "url": "/th?id=OHR.OmagariFireworks2026_JA-JP0416831919_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OmagariFireworks2026_JA-JP0416831919",
+        "copyright": "全国花火競技大会, 秋田県, 大仙市 (© Toru Hanai/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%85%A8%E5%9B%BD%E8%8A%B1%E7%81%AB%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A&form=hpcapt&filters=HpDate%3a%2220260828_1500%22",
+        "title": "今日は大曲の花火の開催日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260828_OmagariFireworks2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f395b253874db9404863890112db30a7",
+        "hsh": "711d33579d48eb83b3e57ea99d7994ea",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 8 月 29 日は全国花火競技大会の開催日。秋田県大仙市で行われるこの大会は、「大曲の花火」とも呼ばれ、日本三大花火大会の一つとして知られており、全国から選抜された花火師が、「昼花火の部」と「夜花火の部」で技を競います。昼花火とは、光ではなく煙で美しさを表現する花火です。また、大曲の花火最大の特徴であり、大会を象徴する競技が、夜花火の部で行われる「創造花火」。既成概念に囚われず、形や色、大きさなど全てがオリジナルの花火を、音楽にあわせて披露する競技です。",
+                "Image": {
+                    "Url": "/th?id=OHR.OmagariFireworks2026_JA-JP0416831919_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OmagariFireworks2026_JA-JP0416831919_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日は大曲の花火の開催日",
+                "Title": "全国花火競技大会, 秋田県, 大仙市",
+                "Copyright": "© Toru Hanai/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.453094,140.475449/11?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=39.453094,140.475449;S9;秋田県, 大仙市&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260829_OmagariFireworks2026%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260829_OmagariFireworks2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%85%a8%e5%9b%bd%e8%8a%b1%e7%81%ab%e7%ab%b6%e6%8a%80%e5%a4%a7%e4%bc%9a&form=hpcapt&filters=HpDate:\"20260828_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260829_OmagariFireworks2026"
+            },
+            "Ssd": "20260829",
+            "Name": "OmagariFireworks2026",
+            "Market": "JA-JP",
+            "Hash": "0416831919",
+            "FullDateString": "2026 年 8月 月 29 日"
+        }
+    },
+    {
         "startdate": "20260827",
         "fullstartdate": "202608271500",
         "enddate": "20260828",
