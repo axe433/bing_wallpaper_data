@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260829",
+        "fullstartdate": "202608290700",
+        "enddate": "20260830",
+        "url": "/th?id=OHR.SantaCatarina_EN-US3600536393_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SantaCatarina_EN-US3600536393",
+        "copyright": "Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Brazil+Santa+Catarina&form=hpcapt&filters=HpDate%3a%2220260829_0700%22",
+        "title": "Reading between the waves",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260829_SantaCatarina%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "7a8141f3ac7f5202c3def695a1a84100",
+        "hsh": "c813e0fa454fb807b791501b8929aa43",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Off the coast of Santa Catarina, a state in southern Brazil, the image captures a familiar ritual: surfers waiting beyond the breaking waves, their boards rising and falling with the Atlantic. From above, almost nothing seems to happen. But that's when the real work begins.",
+                "Image": {
+                    "Url": "/th?id=OHR.SantaCatarina_EN-US3600536393_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SantaCatarina_EN-US3600536393_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Reading between the waves",
+                "Title": "Aerial view of surfers, Santa Catarina, Brazil",
+                "Copyright": "© Wonderful Nature/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-27.374188,-48.654926/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=-27.374188,-48.654926;S9;Santa Catarina, Brazil&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260829_SantaCatarina\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Brazil+Santa+Catarina&form=hpcapt&filters=HpDate:\"20260829_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260829_SantaCatarina"
+            },
+            "Ssd": "20260829",
+            "Name": "SantaCatarina",
+            "Market": "EN-US",
+            "Hash": "3600536393",
+            "FullDateString": "Aug 29, 2026"
+        }
+    },
+    {
         "startdate": "20260828",
         "fullstartdate": "202608280700",
         "enddate": "20260829",

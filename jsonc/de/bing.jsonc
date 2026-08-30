@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260829",
+        "fullstartdate": "202608292200",
+        "enddate": "20260830",
+        "url": "/th?id=OHR.YellowShark_DE-DE7632036192_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.YellowShark_DE-DE7632036192",
+        "copyright": "Walhai und Goldmakrelen, Cenderawasih-Bucht, West-Papua, Indonesien (© Pete Oxford/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+des+Walhais&form=hpcapt&filters=HpDate%3a%2220260829_2200%22",
+        "title": "Majestät der Ozeane",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260829_YellowShark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "05148ee7bb829346f26baa72fc1b0d8a",
+        "hsh": "1bf7dbc24f41c84544d624683ad0ec53",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Am 30. August macht der Internationale Tag des Walhais auf die Bedeutung des größten Fisches der Erde aufmerksam. Trotz seiner beeindruckenden Größe gilt der Walhai als friedlicher Filterer, der sich vor allem von Plankton und kleinen Meerestieren ernährt. Ausgewachsene Tiere können bis zu 18 Meter lang werden und etwa 20 Tonnen wiegen. Damit gehört diese Art zu den eindrucksvollsten Bewohnern der tropischen und subtropischen Meere und fasziniert Forschende ebenso wie Naturbegeisterte auf der ganzen Welt.",
+                "Image": {
+                    "Url": "/th?id=OHR.YellowShark_DE-DE7632036192_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.YellowShark_DE-DE7632036192_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Majestät der Ozeane",
+                "Title": "Walhai und Goldmakrelen, Cenderawasih-Bucht, West-Papua, Indonesien",
+                "Copyright": "© Pete Oxford/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Walhaie können 100 Jahre oder sogar noch älter werden. Damit hat der größte Fisch der Welt eine überraschend hohe Lebenserwartung.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260830_YellowShark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Internationaler+Tag+des+Walhais&form=hpcapt&filters=HpDate:\"20260829_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260830_YellowShark"
+            },
+            "Ssd": "20260830",
+            "Name": "YellowShark",
+            "Market": "DE-DE",
+            "Hash": "7632036192",
+            "FullDateString": "30. Aug.. 2026"
+        }
+    },
+    {
         "startdate": "20260828",
         "fullstartdate": "202608282200",
         "enddate": "20260829",
