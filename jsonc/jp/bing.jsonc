@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260830",
+        "fullstartdate": "202608301500",
+        "enddate": "20260831",
+        "url": "/th?id=OHR.SamarkandCeiling_JA-JP0717876578_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SamarkandCeiling_JA-JP0717876578",
+        "copyright": "レギスタン広場のマドラサ, ウズベキスタン (© Piero M. Bianchi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%AC%E3%82%AE%E3%82%B9%E3%82%BF%E3%83%B3%E5%BA%83%E5%A0%B4%E3%81%AE%E3%83%9E%E3%83%89%E3%83%A9%E3%82%B5&form=hpcapt&filters=HpDate%3a%2220260830_1500%22",
+        "title": "精緻な幾何学模様が彩る天井",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260830_SamarkandCeiling%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "464695c1069afdb8d213c9a6e7614436",
+        "hsh": "64bf4e518df0cb18c4ec91f82dbcc0a6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "レギスタン広場は、ウズベキスタンの古代都市サマルカンドの中心に位置する歴史的な広場です。 3 つのマドラサ（イスラムの神学校）に囲まれ、それぞれに独自の装飾が施されています。今日の画像は、マドラサ内部の天井に施された芸術的な装飾の一端です。釉薬を施したタイル、幾何学模様、花柄、そして美しく装飾された文字（カリグラフィー）が、驚くほどの精緻さで調和しています。こうした建築群を含むサマルカンドの歴史地区は、2001 年に世界遺産に登録されました。",
+                "Image": {
+                    "Url": "/th?id=OHR.SamarkandCeiling_JA-JP0717876578_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SamarkandCeiling_JA-JP0717876578_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "精緻な幾何学模様が彩る天井",
+                "Title": "レギスタン広場のマドラサ, ウズベキスタン",
+                "Copyright": "© Piero M. Bianchi/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.654785,66.975616/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=39.654785,66.975616;S9;レギスタン広場, ウズベキスタン&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260831_SamarkandCeiling%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260831_SamarkandCeiling\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%ac%e3%82%ae%e3%82%b9%e3%82%bf%e3%83%b3%e5%ba%83%e5%a0%b4%e3%81%ae%e3%83%9e%e3%83%89%e3%83%a9%e3%82%b5&form=hpcapt&filters=HpDate:\"20260830_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260831_SamarkandCeiling"
+            },
+            "Ssd": "20260831",
+            "Name": "SamarkandCeiling",
+            "Market": "JA-JP",
+            "Hash": "0717876578",
+            "FullDateString": "2026 年 8月 月 31 日"
+        }
+    },
+    {
         "startdate": "20260829",
         "fullstartdate": "202608291500",
         "enddate": "20260830",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260830",
+        "fullstartdate": "202608300300",
+        "enddate": "20260831",
+        "url": "/th?id=OHR.YellowShark_PT-BR2490068911_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.YellowShark_PT-BR2490068911",
+        "copyright": "Tubarão-baleia e xaréus-dourados na Baía de Cenderawasih, Papua Ocidental, Indonésia (© Pete Oxford/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=tubarao+baleia&form=hpcapt&mkt=pt-br",
+        "title": "Gigante por natureza",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260830_YellowShark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "05148ee7bb829346f26baa72fc1b0d8a",
+        "hsh": "27026d48bed9d8cc865564f119fb30c2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dá para medir um peixe em andares de prédio? Nesse caso, dá sim. A imagem registra um tubarão-baleia na Baía de Cenderawasih, na Indonésia, cercado por um cardume de xaréus-dourados que aproveitam a carona, a proteção e os petiscos deixados pelo gigante.",
+                "Image": {
+                    "Url": "/th?id=OHR.YellowShark_PT-BR2490068911_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.YellowShark_PT-BR2490068911_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Gigante por natureza",
+                "Title": "Tubarão-baleia e xaréus-dourados na Baía de Cenderawasih, Papua Ocidental, Indonésia",
+                "Copyright": "© Pete Oxford/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260830_YellowShark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=tubarao+baleia&form=hpcapt&filters=HpDate:\"20260830_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260830_YellowShark"
+            },
+            "Ssd": "20260830",
+            "Name": "YellowShark",
+            "Market": "PT-BR",
+            "Hash": "2490068911",
+            "FullDateString": "30 ago. 2026"
+        }
+    },
+    {
         "startdate": "20260829",
         "fullstartdate": "202608290300",
         "enddate": "20260830",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260830",
+        "fullstartdate": "202608300700",
+        "enddate": "20260831",
+        "url": "/th?id=OHR.YellowShark_ROW3439446140_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.YellowShark_ROW3439446140",
+        "copyright": "Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Whale+shark&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260830_YellowShark%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "05148ee7bb829346f26baa72fc1b0d8a",
+        "hsh": "c0c0cacf8bcc466d0bc5b9cb5c6000e7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Imagine coming face to face with a fish the size of a bus. The whale shark is the world's largest fish, yet it is a remarkably gentle giant. Despite its name, it is not a whale but a shark, with the biggest confirmed individuals measuring around 18 metres long and weighing more than 20 tonnes. Found in warm tropical and subtropical seas, whale sharks move slowly through the water with their mouths open, filtering plankton, fish eggs and other tiny prey. Their distinctive white spots and stripes form patterns unique to each individual, allowing researchers to identify and track them over time.",
+                "Image": {
+                    "Url": "/th?id=OHR.YellowShark_ROW3439446140_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.YellowShark_ROW3439446140_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia",
+                "Copyright": "© Pete Oxford/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260830_YellowShark\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Whale+shark&form=hpcapt&filters=HpDate:\"20260830_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260830_YellowShark"
+            },
+            "Ssd": "20260830",
+            "Name": "YellowShark",
+            "Market": "ROW",
+            "Hash": "3439446140",
+            "FullDateString": "30 Ağu, 2026"
+        }
+    },
+    {
         "startdate": "20260829",
         "fullstartdate": "202608290700",
         "enddate": "20260830",

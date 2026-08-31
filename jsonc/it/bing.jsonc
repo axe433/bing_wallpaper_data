@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260830",
+        "fullstartdate": "202608302200",
+        "enddate": "20260831",
+        "url": "/th?id=OHR.SamarkandCeiling_IT-IT1763957510_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SamarkandCeiling_IT-IT1763957510",
+        "copyright": "Cupola all'interno della moschea Tilla Kari Madrasa, Piazza Registan, Samarcanda, Uzbekistan (© Piero M. Bianchi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Madrasa+Tilla+Kari&form=hpcapt",
+        "title": "Un design ipnotico",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260830_SamarkandCeiling%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "464695c1069afdb8d213c9a6e7614436",
+        "hsh": "35c7c057da6a471c5c4c4413296dbd42",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La piazza del Registan è il cuore storico di Samarcanda, una delle città a continuità abitativa più antiche dell'Asia Centrale, con oltre 2.500 anni di storia. Tre imponenti madrasse — l'Ulugbek, la Sher-Dor e la Tilla Kari — delimitano lo spazio con una precisione quasi simmetrica, sebbene costruite in epoche diverse tra il XV e il XVII secolo.",
+                "Image": {
+                    "Url": "/th?id=OHR.SamarkandCeiling_IT-IT1763957510_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SamarkandCeiling_IT-IT1763957510_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un design ipnotico",
+                "Title": "Cupola all'interno della moschea Tilla Kari Madrasa, Piazza Registan, Samarcanda, Uzbekistan",
+                "Copyright": "© Piero M. Bianchi/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.655009,66.975755/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=39.655009,66.975755;S9;Piazza Registan, Samarcanda, Uzbekistan&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260831_SamarkandCeiling\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Madrasa+Tilla+Kari&form=hpcapt&filters=HpDate:\"20260830_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260831_SamarkandCeiling"
+            },
+            "Ssd": "20260831",
+            "Name": "SamarkandCeiling",
+            "Market": "IT-IT",
+            "Hash": "1763957510",
+            "FullDateString": "31 agosto 2026"
+        }
+    },
+    {
         "startdate": "20260829",
         "fullstartdate": "202608292200",
         "enddate": "20260830",
