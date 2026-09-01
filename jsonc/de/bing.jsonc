@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260831",
+        "fullstartdate": "202608312200",
+        "enddate": "20260901",
+        "url": "/th?id=OHR.HorseHairShroom_DE-DE7910104416_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HorseHairShroom_DE-DE7910104416",
+        "copyright": "Rosshaar-Schwindling, Belarus (© Máté/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Rosshaar-Schwindling&form=hpcapt&filters=HpDate%3a%2220260831_2200%22",
+        "title": "Die verborgene Welt der Pilze",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260831_HorseHairShroom%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "40492ebc96b0c9c8ba75256a5d464d55",
+        "hsh": "6bd15f3a1c1e2e792051f2898d313b05",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Im September erreicht in vielen Regionen Europas die Pilzsaison ihren Höhepunkt. Auch der Rosshaar-Schwindling bildet dann häufig Fruchtkörper und lässt sich mit etwas Aufmerksamkeit in Wäldern entdecken. Der kleine Pilz wächst auf abgestorbenen Nadeln, Blättern und Zweigen und trägt als Zersetzer zum natürlichen Stoffkreislauf im Wald bei. In Belarus kommt er sowohl in Mischwäldern als auch in ausgedehnten Nadelwäldern vor, die einen wichtigen Teil der Landschaft prägen. Seine zarten Fruchtkörper sind jedoch leicht zu übersehen und werden oft erst auf den zweiten Blick sichtbar.",
+                "Image": {
+                    "Url": "/th?id=OHR.HorseHairShroom_DE-DE7910104416_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HorseHairShroom_DE-DE7910104416_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Die verborgene Welt der Pilze",
+                "Title": "Rosshaar-Schwindling, Belarus",
+                "Copyright": "© Máté/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Im Südosten Pennsylvanias hat sich Kennett Square den weltweiten Ruf als „Pilzhauptstadt der Welt“ erworben.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260901_HorseHairShroom\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Rosshaar-Schwindling&form=hpcapt&filters=HpDate:\"20260831_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260901_HorseHairShroom"
+            },
+            "Ssd": "20260901",
+            "Name": "HorseHairShroom",
+            "Market": "DE-DE",
+            "Hash": "7910104416",
+            "FullDateString": "1. Sept.. 2026"
+        }
+    },
+    {
         "startdate": "20260830",
         "fullstartdate": "202608302200",
         "enddate": "20260831",

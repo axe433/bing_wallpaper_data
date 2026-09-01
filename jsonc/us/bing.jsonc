@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260831",
+        "fullstartdate": "202608310700",
+        "enddate": "20260901",
+        "url": "/th?id=OHR.SamarkandCeiling_EN-US3761829748_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SamarkandCeiling_EN-US3761829748",
+        "copyright": "Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Samarkand&form=hpcapt&filters=HpDate%3a%2220260831_0700%22",
+        "title": "A master class in pattern",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260831_SamarkandCeiling%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "464695c1069afdb8d213c9a6e7614436",
+        "hsh": "189d7da80debbe586470e96d07b3eeef",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Stand in Registan Square and it's easy to see why it is considered the architectural heart of Samarkand—one of Central Asia's oldest cities. This plaza in Uzbekistan is framed by three magnificent madrasas—Islamic centers of learning—whose soaring portals draw the eye upward. Yet some of the square's greatest treasures reveal themselves only when you look closer.",
+                "Image": {
+                    "Url": "/th?id=OHR.SamarkandCeiling_EN-US3761829748_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SamarkandCeiling_EN-US3761829748_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A master class in pattern",
+                "Title": "Building detail of Registan Square, Samarkand, Uzbekistan",
+                "Copyright": "© Piero M. Bianchi/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.655009,66.975755/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=39.655009,66.975755;S9;Registan Square, Samarkand, Uzbekistan&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260831_SamarkandCeiling\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Samarkand&form=hpcapt&filters=HpDate:\"20260831_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260831_SamarkandCeiling"
+            },
+            "Ssd": "20260831",
+            "Name": "SamarkandCeiling",
+            "Market": "EN-US",
+            "Hash": "3761829748",
+            "FullDateString": "Aug 31, 2026"
+        }
+    },
+    {
         "startdate": "20260830",
         "fullstartdate": "202608300700",
         "enddate": "20260831",

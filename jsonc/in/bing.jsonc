@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260831",
+        "fullstartdate": "202608311830",
+        "enddate": "20260901",
+        "url": "/th?id=OHR.SurathkalBeach2026_EN-IN6160079394_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SurathkalBeach2026_EN-IN6160079394",
+        "copyright": "The stranded wreck at Surathkal Beach, Karnataka (© Amith Nag Photography/Moment/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Surathkal+Beach&form=hpcapt&filters=HpDate%3a%2220260831_1830%22",
+        "title": "The tide that carries tales",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260831_SurathkalBeach2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b35d98ae0b9db1171d3477cd268e666f",
+        "hsh": "a1460d5a674ed560275afa70de681e53",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "At Surathkal Beach, the waves aren't the only things making an impression. A lighthouse watches over the shore, a historic temple keeps centuries-old legends alive and, until recently, a stranded ship added an unexpected chapter to its story.",
+                "Image": {
+                    "Url": "/th?id=OHR.SurathkalBeach2026_EN-IN6160079394_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SurathkalBeach2026_EN-IN6160079394_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "The tide that carries tales",
+                "Title": "The stranded wreck at Surathkal Beach, Karnataka",
+                "Copyright": "© Amith Nag Photography/Moment/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/12.987831,74.794159/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=12.987831,74.794159;S9;Surathkal Beach, Karnataka&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260901_SurathkalBeach2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Surathkal+Beach&form=hpcapt&filters=HpDate:\"20260831_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260901_SurathkalBeach2026"
+            },
+            "Ssd": "20260901",
+            "Name": "SurathkalBeach2026",
+            "Market": "EN-IN",
+            "Hash": "6160079394",
+            "FullDateString": "1 Sept, 2026"
+        }
+    },
+    {
         "startdate": "20260830",
         "fullstartdate": "202608301830",
         "enddate": "20260831",
