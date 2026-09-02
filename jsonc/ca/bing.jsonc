@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260901",
+        "fullstartdate": "202609010400",
+        "enddate": "20260902",
+        "url": "/th?id=OHR.HorseHairShroom_EN-CA6859526783_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HorseHairShroom_EN-CA6859526783",
+        "copyright": "Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Fungus&form=hpcapt&filters=HpDate%3a%2220260901_0400%22",
+        "title": "A world beneath your feet",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260901_HorseHairShroom%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "40492ebc96b0c9c8ba75256a5d464d55",
+        "hsh": "a9202e6cfd24f92cac9cc0b5215189e3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Fungi often go unnoticed beneath forest floors, lawns and fallen leaves, yet their underground threads help recycle nutrients and support healthy ecosystems. The mushrooms we see are only the fruiting bodies of much larger organisms. They appear briefly, release spores, then disappear from sight. Unlike plants, fungi belong to a kingdom of their own. Some species even glow, while others form partnerships with trees.",
+                "Image": {
+                    "Url": "/th?id=OHR.HorseHairShroom_EN-CA6859526783_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HorseHairShroom_EN-CA6859526783_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A world beneath your feet",
+                "Title": "Horsehair parachute fungus, Belarus",
+                "Copyright": "© Máté/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "In southeastern Pennsylvania, Kennett Square has earned a global reputation as the 'Mushroom Capital of the World.'",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260901_HorseHairShroom\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Fungus&form=hpcapt&filters=HpDate:\"20260901_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260901_HorseHairShroom"
+            },
+            "Ssd": "20260901",
+            "Name": "HorseHairShroom",
+            "Market": "EN-CA",
+            "Hash": "6859526783",
+            "FullDateString": "Sep 1, 2026"
+        }
+    },
+    {
         "startdate": "20260831",
         "fullstartdate": "202608310400",
         "enddate": "20260901",

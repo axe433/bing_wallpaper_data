@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260901",
+        "fullstartdate": "202609010300",
+        "enddate": "20260902",
+        "url": "/th?id=OHR.HorseHairShroom_PT-BR3941207361_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HorseHairShroom_PT-BR3941207361",
+        "copyright": "Cogumelo Gymnopus androsaceus, Belarus (© Máté/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Cogumelo&form=hpcapt&mkt=pt-br",
+        "title": "Um universo em miniatura",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260901_HorseHairShroom%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "40492ebc96b0c9c8ba75256a5d464d55",
+        "hsh": "937779c7c16c25ce0c13154a24d008ef",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Se os fungos desaparecessem amanhã, a conta chegaria rápido: folhas deixariam de se decompor, nutrientes parariam de circular e muitos ecossistemas perderiam uma de suas engrenagens mais importantes. Debaixo da terra, entre folhas secas e troncos em decomposição, eles formam uma vasta rede invisível que recicla matéria, alimenta plantas e mantém florestas funcionando.",
+                "Image": {
+                    "Url": "/th?id=OHR.HorseHairShroom_PT-BR3941207361_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HorseHairShroom_PT-BR3941207361_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Um universo em miniatura",
+                "Title": "Cogumelo Gymnopus androsaceus, Belarus",
+                "Copyright": "© Máté/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260901_HorseHairShroom\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Cogumelo&form=hpcapt&filters=HpDate:\"20260901_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260901_HorseHairShroom"
+            },
+            "Ssd": "20260901",
+            "Name": "HorseHairShroom",
+            "Market": "PT-BR",
+            "Hash": "3941207361",
+            "FullDateString": "1 set. 2026"
+        }
+    },
+    {
         "startdate": "20260831",
         "fullstartdate": "202608310300",
         "enddate": "20260901",

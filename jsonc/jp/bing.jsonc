@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260901",
+        "fullstartdate": "202609011500",
+        "enddate": "20260902",
+        "url": "/th?id=OHR.SuffolkHuts_JA-JP3115171778_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SuffolkHuts_JA-JP3115171778",
+        "copyright": "ビーチハット, イングランド (© stevendocwra/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%B5%E3%82%A6%E3%82%B9%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%89%E3%82%B5%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220260901_1500%22",
+        "title": "海岸に並ぶカラフルな小屋",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260901_SuffolkHuts%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "fdcd640520dcf11e302e77e5290dc003",
+        "hsh": "21453c4a4db4977e1c0f83cf77ecf442",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "サウスウォルドは、イングランド東部サフォーク州の美しい海辺の町です。北海やブライス川、広大な湿地に囲まれた細長い半島に位置し、古くから漁業や交易で栄えてきました。海岸沿いには約 300 棟の色鮮やかな木造の小屋が並んでいます。この小屋はビーチハットと呼ばれ、もともとは海水浴客や漁師のための簡易的な休憩所として利用されていましたが、現在はレジャーや休暇を楽しむための施設として親しまれています。",
+                "Image": {
+                    "Url": "/th?id=OHR.SuffolkHuts_JA-JP3115171778_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SuffolkHuts_JA-JP3115171778_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "海岸に並ぶカラフルな小屋",
+                "Title": "ビーチハット, イングランド",
+                "Copyright": "© stevendocwra/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.326221,1.678968/13?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=52.326221,1.678968;S9;サウスウォルド, イングランド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260902_SuffolkHuts%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260902_SuffolkHuts\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%b5%e3%82%a6%e3%82%b9%e3%82%a6%e3%82%a9%e3%83%ab%e3%83%89%e3%82%b5%e3%83%95%e3%82%a9%e3%83%bc%e3%82%af%e5%b7%9e&form=hpcapt&filters=HpDate:\"20260901_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260902_SuffolkHuts"
+            },
+            "Ssd": "20260902",
+            "Name": "SuffolkHuts",
+            "Market": "JA-JP",
+            "Hash": "3115171778",
+            "FullDateString": "2026 年 9月 月 2 日"
+        }
+    },
+    {
         "startdate": "20260831",
         "fullstartdate": "202608311500",
         "enddate": "20260901",

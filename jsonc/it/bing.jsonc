@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260901",
+        "fullstartdate": "202609012200",
+        "enddate": "20260902",
+        "url": "/th?id=OHR.SuffolkHuts_IT-IT2530615485_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SuffolkHuts_IT-IT2530615485",
+        "copyright": "Capanne tradizionali sulla spiaggia, Southwold, Suffolk Heritage Coast, Inghilterra (© stevendocwra/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Southwold+Suffolk&form=hpcapt",
+        "title": "Dipinta lungo la riva",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260901_SuffolkHuts%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "fdcd640520dcf11e302e77e5290dc003",
+        "hsh": "6930ff0da7972edb9472766884bad9fb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Le capanne da spiaggia di Southwold, sulla Suffolk Heritage Coast in Inghilterra, sono tra i simboli più riconoscibili del litorale britannico: decine di piccole cabine di legno dipinte a colori vivaci si allineano davanti al Mare del Nord, aggiungendo un tocco festoso al paesaggio ventoso dell'est dell'Inghilterra. Costruite originariamente come rifugi per bagnanti e pescatori, alcune passano di generazione in generazione come beni di famiglia.",
+                "Image": {
+                    "Url": "/th?id=OHR.SuffolkHuts_IT-IT2530615485_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SuffolkHuts_IT-IT2530615485_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Dipinta lungo la riva",
+                "Title": "Capanne tradizionali sulla spiaggia, Southwold, Suffolk Heritage Coast, Inghilterra",
+                "Copyright": "© stevendocwra/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.326221,1.678968/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=52.326221,1.678968;S9;Southwold, Suffolk, Inghilterra&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260902_SuffolkHuts\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Southwold+Suffolk&form=hpcapt&filters=HpDate:\"20260901_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260902_SuffolkHuts"
+            },
+            "Ssd": "20260902",
+            "Name": "SuffolkHuts",
+            "Market": "IT-IT",
+            "Hash": "2530615485",
+            "FullDateString": "2 settembre 2026"
+        }
+    },
+    {
         "startdate": "20260831",
         "fullstartdate": "202608312200",
         "enddate": "20260901",

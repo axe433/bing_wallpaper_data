@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260901",
+        "fullstartdate": "202609010700",
+        "enddate": "20260902",
+        "url": "/th?id=OHR.HorseHairShroom_EN-US3885857486_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HorseHairShroom_EN-US3885857486",
+        "copyright": "Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=National+Mushroom+Month&form=hpcapt&filters=HpDate%3a%2220260901_0700%22",
+        "title": "A world beneath your feet",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260901_HorseHairShroom%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "40492ebc96b0c9c8ba75256a5d464d55",
+        "hsh": "8b1d99a3414c36b988e4a7c66b5874b5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "September's National Mushroom Month celebrates a world that often goes unnoticed. Beneath forest floors, lawns, and fallen leaves, fungal networks recycle nutrients, helping ecosystems thrive. The mushrooms we notice are only the fruiting bodies of these hidden organisms, emerging briefly to release spores before fading back from view. They are not plants; fungi form a kingdom of their own and play an essential role in nature's cycles.",
+                "Image": {
+                    "Url": "/th?id=OHR.HorseHairShroom_EN-US3885857486_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HorseHairShroom_EN-US3885857486_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A world beneath your feet",
+                "Title": "Horsehair parachute fungus, Belarus",
+                "Copyright": "© Máté/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "In southeastern Pennsylvania, Kennett Square has earned a global reputation as the 'Mushroom Capital of the World.'",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260901_HorseHairShroom\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=National+Mushroom+Month&form=hpcapt&filters=HpDate:\"20260901_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260901_HorseHairShroom"
+            },
+            "Ssd": "20260901",
+            "Name": "HorseHairShroom",
+            "Market": "EN-US",
+            "Hash": "3885857486",
+            "FullDateString": "Sep 1, 2026"
+        }
+    },
+    {
         "startdate": "20260831",
         "fullstartdate": "202608310700",
         "enddate": "20260901",
