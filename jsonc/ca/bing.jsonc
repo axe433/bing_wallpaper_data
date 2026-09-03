@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260902",
+        "fullstartdate": "202609020400",
+        "enddate": "20260903",
+        "url": "/th?id=OHR.SuffolkHuts_EN-CA7283935954_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SuffolkHuts_EN-CA7283935954",
+        "copyright": "Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Southwold+Suffolk&form=hpcapt&filters=HpDate%3a%2220260902_0400%22",
+        "title": "Painted along the shore",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260902_SuffolkHuts%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "fdcd640520dcf11e302e77e5290dc003",
+        "hsh": "27b8014bb58870bce8ea5c9869b5ed79",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Along England's east shore, the Suffolk Heritage Coast blends windswept heaths, marshes, shingle beaches and expansive North Sea views. One of its best-known towns is Southwold, where water and history are inseparable. Almost encircled by the sea, the River Blyth and surrounding wetlands, the town occupies a slender peninsula shaped by centuries of fishing, trade and life at the edge of the water.",
+                "Image": {
+                    "Url": "/th?id=OHR.SuffolkHuts_EN-CA7283935954_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SuffolkHuts_EN-CA7283935954_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Painted along the shore",
+                "Title": "Traditional beach huts, Southwold, Suffolk Heritage Coast, England",
+                "Copyright": "© stevendocwra/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.326221,1.678968/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=52.326221,1.678968;S9;Southwold, Suffolk, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260902_SuffolkHuts\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Southwold+Suffolk&form=hpcapt&filters=HpDate:\"20260902_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260902_SuffolkHuts"
+            },
+            "Ssd": "20260902",
+            "Name": "SuffolkHuts",
+            "Market": "EN-CA",
+            "Hash": "7283935954",
+            "FullDateString": "Sep 2, 2026"
+        }
+    },
+    {
         "startdate": "20260901",
         "fullstartdate": "202609010400",
         "enddate": "20260902",

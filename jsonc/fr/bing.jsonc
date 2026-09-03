@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260902",
+        "fullstartdate": "202609022200",
+        "enddate": "20260903",
+        "url": "/th?id=OHR.AZWilderness_FR-FR4389464671_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AZWilderness_FR-FR4389464671",
+        "copyright": "Buttes Coyote, Monument national des Falaises Vermilion, Arizona, États-Unis (© James Hager/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Buttes+Coyote+%C3%89tats-Unis&form=hpcapt&filters=HpDate%3a%2220260902_2200%22",
+        "title": "Une mer de grès",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260902_AZWilderness%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5b54bf2e6fc9844965e6e1112ea56e79",
+        "hsh": "2dc8dbf4e7a259001b8e88cc172956eb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dans le nord de l’Arizona (États-Unis), les vagues semblent avoir quitté l’océan pour se figer dans le désert. Aux Buttes Coyote, au sein du Monument national des Falaises Vermilion (« Vermilion Cliffs National Monument »), les couches de grès aux courbes ondulantes témoignent d’une histoire vieille de millions d’années. D’anciennes dunes, sculptées par le vent, la pluie et les écarts de température, ont façonné un décor spectaculaire aux teintes ocre, rouge et or. Même immobile, le paysage semble en mouvement, telle une mer figée sous le soleil.",
+                "Image": {
+                    "Url": "/th?id=OHR.AZWilderness_FR-FR4389464671_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AZWilderness_FR-FR4389464671_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Une mer de grès",
+                "Title": "Buttes Coyote, Monument national des Falaises Vermilion, Arizona, États-Unis",
+                "Copyright": "© James Hager/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.7783,-111.7361/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=36.7783,-111.7361;S9;Monument national des Falaises Vermilion, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260903_AZWilderness\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Buttes+Coyote+%c3%89tats-Unis&form=hpcapt&filters=HpDate:\"20260902_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260903_AZWilderness"
+            },
+            "Ssd": "20260903",
+            "Name": "AZWilderness",
+            "Market": "FR-FR",
+            "Hash": "4389464671",
+            "FullDateString": "3 sept. 2026"
+        }
+    },
+    {
         "startdate": "20260901",
         "fullstartdate": "202609012200",
         "enddate": "20260902",

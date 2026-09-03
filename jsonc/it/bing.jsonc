@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260902",
+        "fullstartdate": "202609022200",
+        "enddate": "20260903",
+        "url": "/th?id=OHR.AZWilderness_IT-IT2616845424_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AZWilderness_IT-IT2616845424",
+        "copyright": "Coyote Buttes, Monumento Nazionale Vermilion Cliffs, Arizona, USA (© James Hager/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Coyote+Buttes&form=hpcapt",
+        "title": "Onde statiche",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260902_AZWilderness%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5b54bf2e6fc9844965e6e1112ea56e79",
+        "hsh": "13061d919ba1da6ebf029549f25a7a5b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Di solito le onde appartengono all'oceano. In Arizona settentrionale, invece, nascono dal deserto. Le formazioni di arenaria di Coyote Buttes, nel Monumento Nazionale di Vermilion Cliffs, Stati Uniti, furono modellate da dune antiche e milioni di anni di erosione, creando un paesaggio che sembra ondeggiare pur restando immobile. I colori — rossi e arancioni da ossido di ferro, viola dal manganese, gialli dalla limonite — non sono filtri fotografici, ma reazioni chimiche avvenute nel sottosuolo per millenni.",
+                "Image": {
+                    "Url": "/th?id=OHR.AZWilderness_IT-IT2616845424_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AZWilderness_IT-IT2616845424_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Onde statiche",
+                "Title": "Coyote Buttes, Monumento Nazionale Vermilion Cliffs, Arizona, USA",
+                "Copyright": "© James Hager/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.7783,-111.7361/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=36.7783,-111.7361;S9;Coyote Buttes, Arizona, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260903_AZWilderness\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Coyote+Buttes&form=hpcapt&filters=HpDate:\"20260902_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260903_AZWilderness"
+            },
+            "Ssd": "20260903",
+            "Name": "AZWilderness",
+            "Market": "IT-IT",
+            "Hash": "2616845424",
+            "FullDateString": "3 settembre 2026"
+        }
+    },
+    {
         "startdate": "20260901",
         "fullstartdate": "202609012200",
         "enddate": "20260902",

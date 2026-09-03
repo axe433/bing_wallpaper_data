@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260902",
+        "fullstartdate": "202609020700",
+        "enddate": "20260903",
+        "url": "/th?id=OHR.SuffolkHuts_ROW5530395883_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SuffolkHuts_ROW5530395883",
+        "copyright": "Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Southwold+Suffolk&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260902_SuffolkHuts%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "fdcd640520dcf11e302e77e5290dc003",
+        "hsh": "69643c8cf5dfc8de8aa6933097d13311",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Along England's east shore, the Suffolk Heritage Coast blends windswept heaths, marshes, shingle beaches and expansive North Sea views. One of its best-known towns is Southwold, where water and history are inseparable. Almost encircled by the sea, the River Blyth and surrounding wetlands, the town occupies a slender peninsula shaped by centuries of fishing, trade and life at the edge of the water.",
+                "Image": {
+                    "Url": "/th?id=OHR.SuffolkHuts_ROW5530395883_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SuffolkHuts_ROW5530395883_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Traditional beach huts, Southwold, Suffolk Heritage Coast, England",
+                "Copyright": "© stevendocwra/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260902_SuffolkHuts\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Southwold+Suffolk&form=hpcapt&filters=HpDate:\"20260902_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260902_SuffolkHuts"
+            },
+            "Ssd": "20260902",
+            "Name": "SuffolkHuts",
+            "Market": "ROW",
+            "Hash": "5530395883",
+            "FullDateString": "2. syysk. 2026"
+        }
+    },
+    {
         "startdate": "20260901",
         "fullstartdate": "202609010700",
         "enddate": "20260902",

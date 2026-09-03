@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260902",
+        "fullstartdate": "202609021500",
+        "enddate": "20260903",
+        "url": "/th?id=OHR.AZWilderness_JA-JP3309055326_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AZWilderness_JA-JP3309055326",
+        "copyright": "コヨーテ・ビュート, 米国 アリゾナ州 (© James Hager/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%B3%E3%83%A8%E3%83%BC%E3%83%86%E3%83%BB%E3%83%93%E3%83%A5%E3%83%BC%E3%83%88&form=hpcapt&filters=HpDate%3a%2220260902_1500%22",
+        "title": "今日は米国原生自然法制定の記念日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260902_AZWilderness%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5b54bf2e6fc9844965e6e1112ea56e79",
+        "hsh": "ea7caca1406d74113a6ef116d63c1526",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日の画像は米国アリゾナ州バーミリオン・クリフ国定公園に位置するコヨーテ・ビュート。砂漠に波が押し寄せたような独特の景観は、風や水が長い年月をかけて砂丘を浸食することで生まれました。こうした原生的な自然を守るため、米国では 1964 年 9 月 3 日に「原生自然法」が制定されました。当初は 54 か所、約 3 万 6,800km² が保護対象でしたが、現在ではその 10 倍を超える面積が指定され、手つかずの森や砂漠など大自然の魅力を未来へ受け継いでいます。",
+                "Image": {
+                    "Url": "/th?id=OHR.AZWilderness_JA-JP3309055326_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AZWilderness_JA-JP3309055326_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今日は米国原生自然法制定の記念日",
+                "Title": "コヨーテ・ビュート, 米国 アリゾナ州",
+                "Copyright": "© James Hager/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.862603,-111.826977/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=36.862603,-111.826977;S9;バーミリオン・クリフ国定公園, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260903_AZWilderness%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260903_AZWilderness\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%b3%e3%83%a8%e3%83%bc%e3%83%86%e3%83%bb%e3%83%93%e3%83%a5%e3%83%bc%e3%83%88&form=hpcapt&filters=HpDate:\"20260902_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260903_AZWilderness"
+            },
+            "Ssd": "20260903",
+            "Name": "AZWilderness",
+            "Market": "JA-JP",
+            "Hash": "3309055326",
+            "FullDateString": "2026 年 9月 月 3 日"
+        }
+    },
+    {
         "startdate": "20260901",
         "fullstartdate": "202609011500",
         "enddate": "20260902",

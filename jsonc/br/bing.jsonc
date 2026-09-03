@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260902",
+        "fullstartdate": "202609020300",
+        "enddate": "20260903",
+        "url": "/th?id=OHR.SuffolkHuts_PT-BR0383836238_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SuffolkHuts_PT-BR0383836238",
+        "copyright": "Cabanas de praia tradicionais em Southwold, Suffolk, Inglaterra (© stevendocwra/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Suffolk+Inglaterra&form=hpcapt&mkt=pt-br",
+        "title": "Patrimônio colorido",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260902_SuffolkHuts%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "fdcd640520dcf11e302e77e5290dc003",
+        "hsh": "c0462b21c35848d576e64648385b91de",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Em Southwold, na costa do condado de Suffolk, Inglaterra, até uma casinha de madeira pode ter uma história de família. As famosas cabanas coloridas da praia nasceram como estruturas simples para banho e pesca. Hoje, algumas são disputadas, herdadas e cuidadosamente mantidas por gerações, enquanto centenas formam uma faixa colorida junto ao mar do Norte.",
+                "Image": {
+                    "Url": "/th?id=OHR.SuffolkHuts_PT-BR0383836238_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SuffolkHuts_PT-BR0383836238_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Patrimônio colorido",
+                "Title": "Cabanas de praia tradicionais em Southwold, Suffolk, Inglaterra",
+                "Copyright": "© stevendocwra/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260902_SuffolkHuts\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Suffolk+Inglaterra&form=hpcapt&filters=HpDate:\"20260902_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260902_SuffolkHuts"
+            },
+            "Ssd": "20260902",
+            "Name": "SuffolkHuts",
+            "Market": "PT-BR",
+            "Hash": "0383836238",
+            "FullDateString": "2 set. 2026"
+        }
+    },
+    {
         "startdate": "20260901",
         "fullstartdate": "202609010300",
         "enddate": "20260902",

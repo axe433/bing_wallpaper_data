@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260902",
+        "fullstartdate": "202609022200",
+        "enddate": "20260903",
+        "url": "/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183",
+        "copyright": "Römerberg, historischer Altstadtplatz in Frankfurt am Main (© f11photo/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=R%C3%B6merberg&form=hpcapt&filters=HpDate%3a%2220260902_2200%22",
+        "title": "Frankfurts historische Mitte",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260902_FrankfurtRomerberg%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "32f661e5661ed173150ab3188037c803",
+        "hsh": "124ba9adf4cf43081f38439180427b72",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Der Römerberg im Herzen von Frankfurt am Main zählt zu den bekanntesten Plätzen Deutschlands. Seit Jahrhunderten bildet er das historische Zentrum der Stadt und dient bis heute als Kulisse für Märkte, Feste und öffentliche Veranstaltungen. Trotz der modernen Skyline, für die Frankfurt heute berühmt ist, erinnert dieser Platz an eine Zeit, in der Handel, Handwerk und Bürgersinn das Leben prägten. Besonders die rekonstruierten Fachwerkhäuser entlang der Ostzeile verleihen dem Römerberg sein unverwechselbares Erscheinungsbild und schlagen eine Brücke zwischen Vergangenheit und Gegenwart.",
+                "Image": {
+                    "Url": "/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Frankfurts historische Mitte",
+                "Title": "Römerberg, historischer Altstadtplatz in Frankfurt am Main",
+                "Copyright": "© f11photo/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.110294,8.682143/10?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=50.110294,8.682143;S9;Römerberg, Frankfurt am Main&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260903_FrankfurtRomerberg\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=R%c3%b6merberg&form=hpcapt&filters=HpDate:\"20260902_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260903_FrankfurtRomerberg"
+            },
+            "Ssd": "20260903",
+            "Name": "FrankfurtRomerberg",
+            "Market": "DE-DE",
+            "Hash": "6749197183",
+            "FullDateString": "3. Sept.. 2026"
+        }
+    },
+    {
         "startdate": "20260901",
         "fullstartdate": "202609012200",
         "enddate": "20260902",
