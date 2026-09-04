@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260903",
+        "fullstartdate": "202609032200",
+        "enddate": "20260904",
+        "url": "/th?id=OHR.Westerheversand_IT-IT2705992595_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Westerheversand_IT-IT2705992595",
+        "copyright": "Faro di Westerheversand in Westerhever, Schleswig-Holstein, Germania (© bluejayphoto/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Faro+di+Westerheversand&form=hpcapt",
+        "title": "Rosso e bianco all'orizzonte",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260903_Westerheversand%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4d5e9ea46cce65b1070a7ea0de4c03cc",
+        "hsh": "1c4960540e52ce5e149318677bed9e05",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Tra le paludi salmastre di Westerhever, nello Schleswig-Holstein (Germania), una torre a fasce rosse e bianche sorveglia il Mare del Nord dal 1908. Il faro di Westerheversand è una struttura in ghisa alta quaranta metri, poggiata su un rilievo artificiale e circondata da canali che la marea disegna e cancella due volte al giorno.",
+                "Image": {
+                    "Url": "/th?id=OHR.Westerheversand_IT-IT2705992595_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Westerheversand_IT-IT2705992595_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Rosso e bianco all'orizzonte",
+                "Title": "Faro di Westerheversand in Westerhever, Schleswig-Holstein, Germania",
+                "Copyright": "© bluejayphoto/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/54.373402,8.6399/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=54.373402,8.6399;S9;Faro di Westerheversand, Westerhever, Germania&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260904_Westerheversand\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Faro+di+Westerheversand&form=hpcapt&filters=HpDate:\"20260903_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260904_Westerheversand"
+            },
+            "Ssd": "20260904",
+            "Name": "Westerheversand",
+            "Market": "IT-IT",
+            "Hash": "2705992595",
+            "FullDateString": "4 settembre 2026"
+        }
+    },
+    {
         "startdate": "20260902",
         "fullstartdate": "202609022200",
         "enddate": "20260903",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260903",
+        "fullstartdate": "202609032200",
+        "enddate": "20260904",
+        "url": "/th?id=OHR.Westerheversand_FR-FR6860967880_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Westerheversand_FR-FR6860967880",
+        "copyright": "Phare de Westerheversand à Westerhever, Schleswig-Holstein, Allemagne (© bluejayphoto/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=phare+de+Westerheversand+Allemagne&form=hpcapt&filters=HpDate%3a%2220260903_2200%22",
+        "title": "Rouge et blanc à l’horizon",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260903_Westerheversand%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4d5e9ea46cce65b1070a7ea0de4c03cc",
+        "hsh": "b3c04a92127322cbc82dec521847e814",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dressé au-dessus des marais salés de la côte allemande de la mer du Nord, le phare de Westerheversand attire immédiatement le regard avec ses bandes rouges et blanches. Érigé entre 1906 et 1908 sur la péninsule d’Eiderstedt, il guide depuis plus d’un siècle les navigateurs dans les eaux parfois capricieuses de la mer du Nord. Aujourd’hui encore, cette silhouette emblématique figure parmi les monuments côtiers les plus célèbres du nord de l’Allemagne. Après l’ascension de ses 157 marches, les visiteurs découvrent un vaste panorama où ciel, mer et terre semblent ne faire qu’un.",
+                "Image": {
+                    "Url": "/th?id=OHR.Westerheversand_FR-FR6860967880_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Westerheversand_FR-FR6860967880_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Rouge et blanc à l'horizon",
+                "Title": "Phare de Westerheversand à Westerhever, Schleswig-Holstein, Allemagne",
+                "Copyright": "© bluejayphoto/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/54.373402,8.6399/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=54.373402,8.6399;S9;Phare de Westerheversand, Schleswig-Holstein, Allemagne&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260904_Westerheversand\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=phare+de+Westerheversand+Allemagne&form=hpcapt&filters=HpDate:\"20260903_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260904_Westerheversand"
+            },
+            "Ssd": "20260904",
+            "Name": "Westerheversand",
+            "Market": "FR-FR",
+            "Hash": "6860967880",
+            "FullDateString": "4 sept. 2026"
+        }
+    },
+    {
         "startdate": "20260902",
         "fullstartdate": "202609022200",
         "enddate": "20260903",

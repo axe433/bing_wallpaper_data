@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260903",
+        "fullstartdate": "202609030300",
+        "enddate": "20260904",
+        "url": "/th?id=OHR.CommonBlue_PT-BR1879697147_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CommonBlue_PT-BR1879697147",
+        "copyright": "Borboleta-azul-comum, Devon, Inglaterra (© Ross Hoddinott/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=borboleta+azul+comum&form=hpcapt&mkt=pt-br",
+        "title": "Nem tudo são flores",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260903_CommonBlue%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "fb1a69fcd2d543cc28cbd8e60c5ca564",
+        "hsh": "f2484d1d567c3388439d4558133f34e6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "De comum, ela tem só o nome. A borboleta-azul-comum começa a vida em uma planta, passa por uma aliança improvável com formigas e termina com um par de asas azuis. A espécie, que não ocorre naturalmente no Brasil, é encontrada em grande parte da Europa, no norte da África e em partes da Ásia. Suas lagartas costumam se alimentar de plantas como o cornichão.",
+                "Image": {
+                    "Url": "/th?id=OHR.CommonBlue_PT-BR1879697147_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CommonBlue_PT-BR1879697147_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Nem tudo são flores",
+                "Title": "Borboleta-azul-comum, Devon, Inglaterra",
+                "Copyright": "© Ross Hoddinott/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260903_CommonBlue\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=borboleta+azul+comum&form=hpcapt&filters=HpDate:\"20260903_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260903_CommonBlue"
+            },
+            "Ssd": "20260903",
+            "Name": "CommonBlue",
+            "Market": "PT-BR",
+            "Hash": "1879697147",
+            "FullDateString": "3 set. 2026"
+        }
+    },
+    {
         "startdate": "20260902",
         "fullstartdate": "202609020300",
         "enddate": "20260903",

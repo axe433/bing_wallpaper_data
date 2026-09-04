@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260903",
+        "fullstartdate": "202609030700",
+        "enddate": "20260904",
+        "url": "/th?id=OHR.AZWilderness_ROW6879233352_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AZWilderness_ROW6879233352",
+        "copyright": "Coyote Buttes, Vermilion Cliffs National Monument, Arizona, United States (© James Hager/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Vermilion+Cliffs+National+Monument&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260903_AZWilderness%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5b54bf2e6fc9844965e6e1112ea56e79",
+        "hsh": "dcd265bb90ec3c19901b88b07667919c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Blink and you'll miss the turn, but you definitely won't miss the cliffs. Vermilion Cliffs National Monument stretches across northern Arizona and protects a landscape shaped over nearly 200 million years. The area became a national monument in 2000, helping safeguard fragile rock formations, prehistoric sites and habitats for rare wildlife. Coyote Buttes is the star attraction for many visitors. Its famous Wave is carved into Navajo Sandstone, which began as vast sand dunes during the Jurassic Period. Over millions of years, wind erosion, rainfall and temperature changes sculpted the flowing bands and curves seen today.",
+                "Image": {
+                    "Url": "/th?id=OHR.AZWilderness_ROW6879233352_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AZWilderness_ROW6879233352_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Coyote Buttes, Vermilion Cliffs National Monument, Arizona, United States",
+                "Copyright": "© James Hager/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260903_AZWilderness\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Vermilion+Cliffs+National+Monument&form=hpcapt&filters=HpDate:\"20260903_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260903_AZWilderness"
+            },
+            "Ssd": "20260903",
+            "Name": "AZWilderness",
+            "Market": "ROW",
+            "Hash": "6879233352",
+            "FullDateString": "3 set. 2026"
+        }
+    },
+    {
         "startdate": "20260902",
         "fullstartdate": "202609020700",
         "enddate": "20260903",
