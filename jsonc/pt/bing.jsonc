@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260904",
+        "fullstartdate": "202609040700",
+        "enddate": "20260905",
+        "url": "/th?id=OHR.Westerheversand_ROW0428047340_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Westerheversand_ROW0428047340",
+        "copyright": "Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Westerheversand+Lighthouse&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260904_Westerheversand%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4d5e9ea46cce65b1070a7ea0de4c03cc",
+        "hsh": "8599b1c12d2f422e656fe466423153ee",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Rising above the salt marshes along Germany's North Sea coast, the Westerheversand Lighthouse is instantly recognisable thanks to its distinctive red-and-white stripes. Built between 1906 and 1908, the lighthouse has stood as an icon on the Eiderstedt Peninsula for more than a century, guiding ships through the waters of the North Sea. Today, it remains one of northern Germany's best-known coastal landmarks. Visitors who climb its 157 steps are rewarded with sweeping views of the surrounding scenery.",
+                "Image": {
+                    "Url": "/th?id=OHR.Westerheversand_ROW0428047340_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Westerheversand_ROW0428047340_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany",
+                "Copyright": "© bluejayphoto/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260904_Westerheversand\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Westerheversand+Lighthouse&form=hpcapt&filters=HpDate:\"20260904_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260904_Westerheversand"
+            },
+            "Ssd": "20260904",
+            "Name": "Westerheversand",
+            "Market": "ROW",
+            "Hash": "0428047340",
+            "FullDateString": "4 set. 2026"
+        }
+    },
+    {
         "startdate": "20260903",
         "fullstartdate": "202609030700",
         "enddate": "20260904",

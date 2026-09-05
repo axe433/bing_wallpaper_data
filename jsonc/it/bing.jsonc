@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260904",
+        "fullstartdate": "202609042200",
+        "enddate": "20260905",
+        "url": "/th?id=OHR.GreenCrowned_IT-IT8492187001_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GreenCrowned_IT-IT8492187001",
+        "copyright": "Colibrì dalla fronte verde brillante, Costa Rica (© Paul Hobson/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=il+colibr%C3%AC+uccello&form=hpcapt",
+        "title": "Un piccolo spuntino per la giornata",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260904_GreenCrowned%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5c6d1ccaa107c9ac18384779f427928d",
+        "hsh": "b2dd7d81ca6430300ff8782dd1e9a054",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Il colibrì dalla fronte verde brillante (Heliodoxa jacula) vive nelle foreste umide del Costa Rica, dove il piumaggio verde smeraldo cambia tonalità a seconda di come lo colpisce la luce. Misura appena dodici o tredici centimetri e frequenta i versanti montani tra i 700 e i 2.000 metri, là dove i fiori non finiscono mai.",
+                "Image": {
+                    "Url": "/th?id=OHR.GreenCrowned_IT-IT8492187001_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GreenCrowned_IT-IT8492187001_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un piccolo spuntino per la giornata",
+                "Title": "Colibrì dalla fronte verde brillante, Costa Rica",
+                "Copyright": "© Paul Hobson/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260905_GreenCrowned\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=il+colibr%c3%ac+uccello&form=hpcapt&filters=HpDate:\"20260904_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260905_GreenCrowned"
+            },
+            "Ssd": "20260905",
+            "Name": "GreenCrowned",
+            "Market": "IT-IT",
+            "Hash": "8492187001",
+            "FullDateString": "5 settembre 2026"
+        }
+    },
+    {
         "startdate": "20260903",
         "fullstartdate": "202609032200",
         "enddate": "20260904",

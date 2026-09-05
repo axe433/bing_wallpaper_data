@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260904",
+        "fullstartdate": "202609042300",
+        "enddate": "20260905",
+        "url": "/th?id=OHR.SardineBait_EN-GB5662354179_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SardineBait_EN-GB5662354179",
+        "copyright": "California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=California+sea+lion&form=hpcapt&filters=HpDate%3a%2220260904_2300%22",
+        "title": "Masters of the surf and shore",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260904_SardineBait%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "af40c2cb01e7bb9dd129f1818d9887b6",
+        "hsh": "9ba9227264044472538fecfa75d51a35",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A day at the beach is rarely quiet when California sea lions are around. With their booming barks, playful personalities and a knack for stealing the spotlight, these marine mammals know how to put on a show.",
+                "Image": {
+                    "Url": "/th?id=OHR.SardineBait_EN-GB5662354179_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SardineBait_EN-GB5662354179_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Masters of the surf and shore",
+                "Title": "California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean",
+                "Copyright": "© Henley Spiers/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "California sea lions can dive as deep as 300 metres and hold their breath for up to 10 minutes.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260905_SardineBait\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=California+sea+lion&form=hpcapt&filters=HpDate:\"20260904_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260905_SardineBait"
+            },
+            "Ssd": "20260905",
+            "Name": "SardineBait",
+            "Market": "EN-GB",
+            "Hash": "5662354179",
+            "FullDateString": "5 Sept 2026"
+        }
+    },
+    {
         "startdate": "20260903",
         "fullstartdate": "202609032300",
         "enddate": "20260904",

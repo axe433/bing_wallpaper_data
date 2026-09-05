@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260904",
+        "fullstartdate": "202609042200",
+        "enddate": "20260905",
+        "url": "/th?id=OHR.LillePlace_FR-FR3992764620_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LillePlace_FR-FR3992764620",
+        "copyright": "La Grand’Place, Lille (© Aliaksandr Antanovich/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=la+Grand%E2%80%99+Place+Lille&form=hpcapt&filters=HpDate%3a%2220260904_2200%22",
+        "title": "Le rendez-vous des chineurs",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260904_LillePlace%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c19ab14c0fe065b49448f64f08f5ce76",
+        "hsh": "5b48e8d838bff88abef86ad1411d539f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Chaque année, le premier week-end de septembre, Lille se transforme en un immense théâtre à ciel ouvert. Cette année, la célèbre Braderie a lieu les 5 et 6 septembre et invite les visiteurs, les chineurs et les curieux à parcourir une cinquantaine de kilomètres d’étals au cœur de la capitale des Flandres.",
+                "Image": {
+                    "Url": "/th?id=OHR.LillePlace_FR-FR3992764620_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LillePlace_FR-FR3992764620_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Le rendez-vous des chineurs",
+                "Title": "La Grand’Place, Lille",
+                "Copyright": "© Aliaksandr Antanovich/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Chaque année, environ 2 millions de visiteurs se donnent rendez-vous à la Braderie de Lille.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260905_LillePlace\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=la+Grand%e2%80%99+Place+Lille&form=hpcapt&filters=HpDate:\"20260904_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260905_LillePlace"
+            },
+            "Ssd": "20260905",
+            "Name": "LillePlace",
+            "Market": "FR-FR",
+            "Hash": "3992764620",
+            "FullDateString": "5 sept. 2026"
+        }
+    },
+    {
         "startdate": "20260903",
         "fullstartdate": "202609032200",
         "enddate": "20260904",
