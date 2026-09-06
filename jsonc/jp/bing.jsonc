@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260905",
+        "fullstartdate": "202609051500",
+        "enddate": "20260906",
+        "url": "/th?id=OHR.LakeFyans_JA-JP2778092364_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LakeFyans_JA-JP2778092364",
+        "copyright": "ファイアンズ湖, オーストラリア (© tracielouise/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Fyans+Lake+%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220260905_1500%22",
+        "title": "空を映す静かな人工貯水池",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260905_LakeFyans%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e69ffab52a966c9ac2a9f773896b7ee0",
+        "hsh": "e555064732d4b72795a089abb454f768",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ここは、ファイアンズ湖。オーストラリア・ビクトリア州のグランピアンズ国立公園の麓に位置する人工貯水池で、ボートや釣り、セーリング、水上スキーなどで人気です。そして湖の向こうには、グランピアンズ国立公園の砂岩の山並みが広がっています。公園は壮大な景観や美しい滝、先住民の文化遺産で知られ、トレイルではカンガルーやエミューなどの野生動物を観察することもできます。",
+                "Image": {
+                    "Url": "/th?id=OHR.LakeFyans_JA-JP2778092364_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LakeFyans_JA-JP2778092364_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "空を映す静かな人工貯水池",
+                "Title": "ファイアンズ湖, オーストラリア",
+                "Copyright": "© tracielouise/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-37.142867,142.612567/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=-37.142867,142.612567;S9;ファイアンズ湖, オーストラリア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260906_LakeFyans%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260906_LakeFyans\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Fyans+Lake+%e3%82%aa%e3%83%bc%e3%82%b9%e3%83%88%e3%83%a9%e3%83%aa%e3%82%a2&form=hpcapt&filters=HpDate:\"20260905_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260906_LakeFyans"
+            },
+            "Ssd": "20260906",
+            "Name": "LakeFyans",
+            "Market": "JA-JP",
+            "Hash": "2778092364",
+            "FullDateString": "2026 年 9月 月 6 日"
+        }
+    },
+    {
         "startdate": "20260904",
         "fullstartdate": "202609041500",
         "enddate": "20260905",

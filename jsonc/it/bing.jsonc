@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260905",
+        "fullstartdate": "202609052200",
+        "enddate": "20260906",
+        "url": "/th?id=OHR.RegataStoricaVen_IT-IT3438860394_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RegataStoricaVen_IT-IT3438860394",
+        "copyright": "Regata Storica di Venezia, Venezia, Italia (© Javen/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Regata+Storica+di+Venezia&form=hpcapt",
+        "title": "Una regata attraverso la storia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260905_RegataStoricaVen%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1dee1868d886eff1064ffe352d8249ef",
+        "hsh": "b5ce2dc1d5c70a55f4f2dbbfe045b092",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Oggi il Canal Grande di Venezia (Italia) si trasforma in una pista d'acqua: è la prima domenica di settembre e va in scena la Regata Storica, l'appuntamento più atteso della voga alla veneta.",
+                "Image": {
+                    "Url": "/th?id=OHR.RegataStoricaVen_IT-IT3438860394_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RegataStoricaVen_IT-IT3438860394_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Una regata attraverso la storia",
+                "Title": "Regata Storica di Venezia, Venezia, Italia",
+                "Copyright": "© Javen/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.437101,12.34136/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=45.437101,12.34136;S9;Venezia, Italia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260906_RegataStoricaVen\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Regata+Storica+di+Venezia&form=hpcapt&filters=HpDate:\"20260905_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260906_RegataStoricaVen"
+            },
+            "Ssd": "20260906",
+            "Name": "RegataStoricaVen",
+            "Market": "IT-IT",
+            "Hash": "3438860394",
+            "FullDateString": "6 settembre 2026"
+        }
+    },
+    {
         "startdate": "20260904",
         "fullstartdate": "202609042200",
         "enddate": "20260905",

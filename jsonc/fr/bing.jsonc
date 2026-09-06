@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260905",
+        "fullstartdate": "202609052200",
+        "enddate": "20260906",
+        "url": "/th?id=OHR.LakeFyans_FR-FR2873606415_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LakeFyans_FR-FR2873606415",
+        "copyright": "Lac Fyans, Parc national des Grampians, Victoria, Australie (© tracielouise/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=parc+national+des+Grampians+Australie&form=hpcapt&filters=HpDate%3a%2220260905_2200%22",
+        "title": "Des reflets infinis",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260905_LakeFyans%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e69ffab52a966c9ac2a9f773896b7ee0",
+        "hsh": "d6a33055e282b68cbf38e7d4c34ef9cc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "À première vue, l’image évoque davantage une forêt engloutie qu’un lac. Des troncs dénudés émergent de l’eau immobile, tandis que leurs reflets allongés dessinent des lignes mouvantes sous la lumière. Nous sommes au lac Fyans, un réservoir artificiel situé aux portes du parc national des Grampians, également connu sous le nom traditionnel de Gariwerd, dans l’État australien du Victoria. Très apprécié des plaisanciers, pêcheurs, véliplanchistes et amateurs de sports nautiques, ce vaste plan d’eau offre un remarquable point d’observation sur un paysage où la nature paraît se renouveler sans cesse.",
+                "Image": {
+                    "Url": "/th?id=OHR.LakeFyans_FR-FR2873606415_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LakeFyans_FR-FR2873606415_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Des reflets infinis",
+                "Title": "Lac Fyans, Parc national des Grampians, Victoria, Australie",
+                "Copyright": "© tracielouise/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-37.1431,142.6352/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=-37.1431,142.6352;S9;Lac Fyans, Parc national des Grampians, Australie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260906_LakeFyans\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=parc+national+des+Grampians+Australie&form=hpcapt&filters=HpDate:\"20260905_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260906_LakeFyans"
+            },
+            "Ssd": "20260906",
+            "Name": "LakeFyans",
+            "Market": "FR-FR",
+            "Hash": "2873606415",
+            "FullDateString": "6 sept. 2026"
+        }
+    },
+    {
         "startdate": "20260904",
         "fullstartdate": "202609042200",
         "enddate": "20260905",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260905",
+        "fullstartdate": "202609051830",
+        "enddate": "20260906",
+        "url": "/th?id=OHR.LakeFyans_EN-IN6678174820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LakeFyans_EN-IN6678174820",
+        "copyright": "Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Grampians+National+Park+Victoria&form=hpcapt&filters=HpDate%3a%2220260905_1830%22",
+        "title": "A reservoir of reflections",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260905_LakeFyans%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e69ffab52a966c9ac2a9f773896b7ee0",
+        "hsh": "60d41551bb4957ce8bbe235a8c93c8e9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "At first glance, today's image looks more like a drowned woodland than a lake. Bare tree trunks emerge from the water, their reflections stretching across the surface as the Grampians glow in the distance. This is Lake Fyans, a man-made off-stream reservoir at the foot of the Grampians (Gariwerd) National Park in Victoria, Australia. Part of the regional Wimmera-Mallee water supply system, it also draws anglers with its brown and rainbow trout and trophy-sized redfin.",
+                "Image": {
+                    "Url": "/th?id=OHR.LakeFyans_EN-IN6678174820_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.LakeFyans_EN-IN6678174820_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A reservoir of reflections",
+                "Title": "Lake Fyans, Grampians National Park, Victoria, Australia",
+                "Copyright": "© tracielouise/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-37.1431,142.6352/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=-37.1431,142.6352;S9;Lake Fyans, Grampians National Park, Victoria, Australia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260906_LakeFyans\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Grampians+National+Park+Victoria&form=hpcapt&filters=HpDate:\"20260905_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260906_LakeFyans"
+            },
+            "Ssd": "20260906",
+            "Name": "LakeFyans",
+            "Market": "EN-IN",
+            "Hash": "6678174820",
+            "FullDateString": "6 Sept, 2026"
+        }
+    },
+    {
         "startdate": "20260904",
         "fullstartdate": "202609041830",
         "enddate": "20260905",

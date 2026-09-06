@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260905",
+        "fullstartdate": "202609050300",
+        "enddate": "20260906",
+        "url": "/th?id=OHR.GreenCrowned_PT-BR1965351936_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GreenCrowned_PT-BR1965351936",
+        "copyright": "Beija-flores-brilhantes-de-coroa-verde alimentando-se de flores de garra-de-lagosta, Costa Rica (© Paul Hobson/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=beija+flor&form=hpcapt&mkt=pt-br",
+        "title": "Um doce intervalo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260905_GreenCrowned%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5c6d1ccaa107c9ac18384779f427928d",
+        "hsh": "c42ab9fa3f80021f86667656aae90439",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Se existisse uma escola de acrobacia para aves, o beija-flor daria aula. Encontradas exclusivamente nas Américas, estas pequenas aves pairam no mesmo lugar, voam para trás, freiam de repente e mudam de direção em um piscar de olhos, tudo enquanto batem as asas dezenas de vezes por segundo. Tanta agilidade exige muita energia, e cada flor vira uma parada estratégica para se reabastecer com néctar. E há uma recompensa extra para o jardim: ao visitar várias flores, a ave transporta pólen e ajuda plantas a se reproduzir.",
+                "Image": {
+                    "Url": "/th?id=OHR.GreenCrowned_PT-BR1965351936_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GreenCrowned_PT-BR1965351936_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Um doce intervalo",
+                "Title": "Beija-flores-brilhantes-de-coroa-verde alimentando-se de flores de garra-de-lagosta, Costa Rica",
+                "Copyright": "© Paul Hobson/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260905_GreenCrowned\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=beija+flor&form=hpcapt&filters=HpDate:\"20260905_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260905_GreenCrowned"
+            },
+            "Ssd": "20260905",
+            "Name": "GreenCrowned",
+            "Market": "PT-BR",
+            "Hash": "1965351936",
+            "FullDateString": "5 set. 2026"
+        }
+    },
+    {
         "startdate": "20260904",
         "fullstartdate": "202609040300",
         "enddate": "20260905",

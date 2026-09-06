@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260905",
+        "fullstartdate": "202609050700",
+        "enddate": "20260906",
+        "url": "/th?id=OHR.GreenCrowned_ROW0730008155_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GreenCrowned_ROW0730008155",
+        "copyright": "Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica (© Paul Hobson/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Green-crowned+brilliant&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260905_GreenCrowned%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5c6d1ccaa107c9ac18384779f427928d",
+        "hsh": "b0ba0332cbeec42a5213de585d97e1bd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "When it comes to aerial acrobatics, hummingbirds are in a league of their own. Found only in the Americas, these tiny birds can hover in place, fly backwards and beat their wings dozens of times per second. As they visit flowers in search of nectar, they also serve as important pollinators, helping sustain ecosystems from alpine meadows to tropical rainforests. Their shimmering plumage, remarkable agility and high-energy lifestyles make them some of the world's most fascinating birds.",
+                "Image": {
+                    "Url": "/th?id=OHR.GreenCrowned_ROW0730008155_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GreenCrowned_ROW0730008155_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica",
+                "Copyright": "© Paul Hobson/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260905_GreenCrowned\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Green-crowned+brilliant&form=hpcapt&filters=HpDate:\"20260905_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260905_GreenCrowned"
+            },
+            "Ssd": "20260905",
+            "Name": "GreenCrowned",
+            "Market": "ROW",
+            "Hash": "0730008155",
+            "FullDateString": "5 sep, 2026"
+        }
+    },
+    {
         "startdate": "20260904",
         "fullstartdate": "202609040700",
         "enddate": "20260905",
