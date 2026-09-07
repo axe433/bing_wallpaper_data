@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260906",
+        "fullstartdate": "202609061500",
+        "enddate": "20260907",
+        "url": "/th?id=OHR.BambergTownhall_JA-JP4474746509_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BambergTownhall_JA-JP4474746509",
+        "copyright": "バンベルク市街, ドイツ (© SCStock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%90%E3%83%B3%E3%83%99%E3%83%AB%E3%82%AF%E5%B8%82%E8%A1%97&form=hpcapt&filters=HpDate%3a%2220260906_1500%22",
+        "title": "川の上に建つ旧市庁舎",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260906_BambergTownhall%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "dca20c5c548e2c89e44e115e1ae12ec0",
+        "hsh": "834518acfb24984d216d60f470b01371",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ここは、ドイツ・バイエルン州バンベルクの旧市街です。画像の中心にある旧市庁舎は、街を象徴するランドマークとして知られており、ゴシック様式とバロック様式が調和した美しい建物と石橋が、印象的な景観をつくり出しています。伝承によると、司教が市庁舎を建てるための土地を与えなかったため、市民がレーグニッツ川に人工島を築き、その上に建設したとされています。この建物を含む旧市街は、中世の街並みをよく残す歴史都市として評価され、1993 年に世界遺産に登録されました。",
+                "Image": {
+                    "Url": "/th?id=OHR.BambergTownhall_JA-JP4474746509_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BambergTownhall_JA-JP4474746509_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "川の上に建つ旧市庁舎",
+                "Title": "バンベルク市街, ドイツ",
+                "Copyright": "© SCStock/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/49.894218,10.885527/13?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=49.894218,10.885527;S9;バンベルク市街, ドイツ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260907_BambergTownhall%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260907_BambergTownhall\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%90%e3%83%b3%e3%83%99%e3%83%ab%e3%82%af%e5%b8%82%e8%a1%97&form=hpcapt&filters=HpDate:\"20260906_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260907_BambergTownhall"
+            },
+            "Ssd": "20260907",
+            "Name": "BambergTownhall",
+            "Market": "JA-JP",
+            "Hash": "4474746509",
+            "FullDateString": "2026 年 9月 月 7 日"
+        }
+    },
+    {
         "startdate": "20260905",
         "fullstartdate": "202609051500",
         "enddate": "20260906",
