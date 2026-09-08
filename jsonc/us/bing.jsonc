@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260907",
+        "fullstartdate": "202609070700",
+        "enddate": "20260908",
+        "url": "/th?id=OHR.RalphStackpole_EN-US4463800234_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RalphStackpole_EN-US4463800234",
+        "copyright": "'Industries of California' mural by Ralph Stackpole at Coit Tower, San Francisco, California (© David R. Frazier Photolibrary, Inc./Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Labor+Day+US&form=hpcapt&filters=HpDate%3a%2220260907_0700%22",
+        "title": "Labor's legacy",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260907_RalphStackpole%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "b01ced1f05fc9a3765f454e98e285276",
+        "hsh": "db615818c0a897ea5378d8158e9bb394",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Labor Day honors the contributions of American workers and the history of labor in the United States. Established as a federal holiday in 1894, it emerged during a period of rapid industrial growth and social change. Today, Labor Day recognizes the people whose efforts have helped build communities, industries, and infrastructure across the nation. From farms and factories to railroads and construction sites, generations of workers have played a vital role in shaping the country's history.",
+                "Image": {
+                    "Url": "/th?id=OHR.RalphStackpole_EN-US4463800234_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RalphStackpole_EN-US4463800234_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Labor's legacy",
+                "Title": "'Industries of California' mural by Ralph Stackpole at Coit Tower, San Francisco, California",
+                "Copyright": "© David R. Frazier Photolibrary, Inc./Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.802705,-122.405821/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=37.802705,-122.405821;S9;Coit Tower, San Francisco, California&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260907_RalphStackpole\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Labor+Day+US&form=hpcapt&filters=HpDate:\"20260907_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260907_RalphStackpole"
+            },
+            "Ssd": "20260907",
+            "Name": "RalphStackpole",
+            "Market": "EN-US",
+            "Hash": "4463800234",
+            "FullDateString": "Sep 7, 2026"
+        }
+    },
+    {
         "startdate": "20260906",
         "fullstartdate": "202609060700",
         "enddate": "20260907",

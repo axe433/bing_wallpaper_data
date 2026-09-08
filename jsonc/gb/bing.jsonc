@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260907",
+        "fullstartdate": "202609072300",
+        "enddate": "20260908",
+        "url": "/th?id=OHR.BeechEngland_EN-GB6264734535_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BeechEngland_EN-GB6264734535",
+        "copyright": "Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Hampshire+England&form=hpcapt&filters=HpDate%3a%2220260907_2300%22",
+        "title": "Fields of gold",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260907_BeechEngland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0be73ea5460000dc7eed39f79761b256",
+        "hsh": "d13a3fc9816cde1bf020a6337df40063",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A beech tree stands alone amid golden fields near East Meon in Hampshire, providing a striking focal point in the rolling landscape of England's South Downs National Park. Agriculture has shaped these chalk hills for centuries, and farming remains an important part of the region today. The area's free-draining chalk soils support extensive arable farming, with wheat and barley among the most common crops. Throughout the summer, these crops ripen in the fields before harvest transforms the countryside into a patchwork of gold and stubble.",
+                "Image": {
+                    "Url": "/th?id=OHR.BeechEngland_EN-GB6264734535_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BeechEngland_EN-GB6264734535_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Fields of gold",
+                "Title": "Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England",
+                "Copyright": "© Guy Edwardes/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.994476,-1.03351/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=50.994476,-1.03351;S9;East Meon, Hampshire, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260908_BeechEngland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hampshire+England&form=hpcapt&filters=HpDate:\"20260907_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260908_BeechEngland"
+            },
+            "Ssd": "20260908",
+            "Name": "BeechEngland",
+            "Market": "EN-GB",
+            "Hash": "6264734535",
+            "FullDateString": "8 Sept 2026"
+        }
+    },
+    {
         "startdate": "20260906",
         "fullstartdate": "202609062300",
         "enddate": "20260907",

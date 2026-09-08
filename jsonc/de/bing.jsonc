@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260907",
+        "fullstartdate": "202609072200",
+        "enddate": "20260908",
+        "url": "/th?id=OHR.BeechEngland_DE-DE7492588392_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BeechEngland_DE-DE7492588392",
+        "copyright": "Buche in einem Getreidefeld, East Meon, South-Downs-Nationalpark, Hampshire, England (© Guy Edwardes/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=South-Downs-Nationalpark+Informationen&form=hpcapt&filters=HpDate%3a%2220260907_2200%22",
+        "title": "Goldene Felder",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260907_BeechEngland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0be73ea5460000dc7eed39f79761b256",
+        "hsh": "7f420cab5347eb45dd5f4ad88309e1e9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Im South-Downs-Nationalpark in Hampshire, England, steht bei East Meon eine einzelne Buche mitten in einem Getreidefeld. Zwischen den sanften Hügeln der südenglischen Landschaft wirkt der Baum wie ein natürlicher Orientierungspunkt. Mit ihrer ausladenden Krone hebt sich die Buche deutlich von den Feldern ab und zeigt, wie eng Natur und Landwirtschaft in dieser Region miteinander verbunden sind. Je nach Jahreszeit verändert sich das Bild. Im Frühjahr leuchtet das junge Grün, während im Sommer das goldene Getreide einen reizvollen Kontrast zum dichten Blätterdach bildet.",
+                "Image": {
+                    "Url": "/th?id=OHR.BeechEngland_DE-DE7492588392_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BeechEngland_DE-DE7492588392_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Goldene Felder",
+                "Title": "Buche in einem Getreidefeld, East Meon, South-Downs-Nationalpark, Hampshire, England",
+                "Copyright": "© Guy Edwardes/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.994476,-1.03351/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=50.994476,-1.03351;S9;East Meon, Hampshire, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260908_BeechEngland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=South-Downs-Nationalpark+Informationen&form=hpcapt&filters=HpDate:\"20260907_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260908_BeechEngland"
+            },
+            "Ssd": "20260908",
+            "Name": "BeechEngland",
+            "Market": "DE-DE",
+            "Hash": "7492588392",
+            "FullDateString": "8. Sept.. 2026"
+        }
+    },
+    {
         "startdate": "20260906",
         "fullstartdate": "202609062200",
         "enddate": "20260907",

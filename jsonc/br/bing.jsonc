@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260907",
+        "fullstartdate": "202609070300",
+        "enddate": "20260908",
+        "url": "/th?id=OHR.IndependenceBR_PT-BR8326749510_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IndependenceBR_PT-BR8326749510",
+        "copyright": "Esquadrilha da Fumaça no desfile do Dia da Independência em Brasília, 2023 (© EVARISTO SA/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=dia+da+independencia&form=hpcapt&mkt=pt-br",
+        "title": "Manobras de liberdade",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260907_IndependenceBR%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "63c6add8c961dfb0eee6de27ddb83937",
+        "hsh": "b440354fb4e079c4401f4889f5f5c1cf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dizem que Brasília foi planejada para ser vista do alto. Hoje, o Dia da Independência convida a fazer o contrário. Em 7 de setembro de 1822, depois de uma longa crise entre Brasil e Portugal, Dom Pedro proclamou nossa Independência. A cena virou pintura, monumento, feriado e desfile. E, em Brasília, ganhou uma atualização bastante brasileira: aviões fazendo piruetas no céu.",
+                "Image": {
+                    "Url": "/th?id=OHR.IndependenceBR_PT-BR8326749510_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.IndependenceBR_PT-BR8326749510_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Manobras de liberdade",
+                "Title": "Esquadrilha da Fumaça no desfile do Dia da Independência em Brasília, 2023",
+                "Copyright": "© EVARISTO SA/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260907_IndependenceBR\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=dia+da+independencia&form=hpcapt&filters=HpDate:\"20260907_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260907_IndependenceBR"
+            },
+            "Ssd": "20260907",
+            "Name": "IndependenceBR",
+            "Market": "PT-BR",
+            "Hash": "8326749510",
+            "FullDateString": "7 set. 2026"
+        }
+    },
+    {
         "startdate": "20260906",
         "fullstartdate": "202609060300",
         "enddate": "20260907",
