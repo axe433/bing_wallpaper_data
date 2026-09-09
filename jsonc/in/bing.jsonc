@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260908",
+        "fullstartdate": "202609081830",
+        "enddate": "20260909",
+        "url": "/th?id=OHR.GabitKeni_EN-IN7043546490_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GabitKeni_EN-IN7043546490",
+        "copyright": "Gabit Keni Beach near Ankola, Karnataka (© Amith Nag Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ankola+Karnataka&form=hpcapt&filters=HpDate%3a%2220260908_1830%22",
+        "title": "Life on India's west coast",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260908_GabitKeni%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e9dbddd96349e3e34afaa3560db064c2",
+        "hsh": "bbf937a767d11c2f32dfc9bd541d4728",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "When people think of South India, they often picture spice trade routes, classical music, folk traditions and a coastline shaped by centuries of maritime life. Follow Karnataka's Arabian Sea coast to the quieter shores of Gabit Keni Beach near Ankola, where fishing remains part of everyday life.",
+                "Image": {
+                    "Url": "/th?id=OHR.GabitKeni_EN-IN7043546490_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GabitKeni_EN-IN7043546490_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Life on India's west coast",
+                "Title": "Gabit Keni Beach near Ankola, Karnataka",
+                "Copyright": "© Amith Nag Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/14.662778,74.278056/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=14.662778,74.278056;S9;Gabit Keni Beach, Ankola, Karnataka&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260909_GabitKeni\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ankola+Karnataka&form=hpcapt&filters=HpDate:\"20260908_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260909_GabitKeni"
+            },
+            "Ssd": "20260909",
+            "Name": "GabitKeni",
+            "Market": "EN-IN",
+            "Hash": "7043546490",
+            "FullDateString": "9 Sept, 2026"
+        }
+    },
+    {
         "startdate": "20260907",
         "fullstartdate": "202609071830",
         "enddate": "20260908",

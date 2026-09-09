@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260908",
+        "fullstartdate": "202609080300",
+        "enddate": "20260909",
+        "url": "/th?id=OHR.BeechEngland_PT-BR8581055675_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BeechEngland_PT-BR8581055675",
+        "copyright": "Faia-europeia em um campo de cereais, Parque Nacional de South Downs, Hampshire, Inglaterra (© Guy Edwardes/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Hampshire+Inglaterra&form=hpcapt&mkt=pt-br",
+        "title": "Um horizonte dourado",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260908_BeechEngland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0be73ea5460000dc7eed39f79761b256",
+        "hsh": "766293c3135c1d3839ea251359cc44d3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Uma única árvore pode roubar a cena de um campo inteiro. Enquanto no Brasil setembro anuncia a chegada da primavera, no Parque Nacional de South Downs, na Inglaterra, o verão dá lugar ao outono. A imagem foi registrada perto de East Meon, em Hampshire, onde uma faia-europeia se destaca sozinha entre campos e colinas de calcário cultivadas há séculos. O solo bem drenado favorece o cultivo de cereais, principalmente trigo e cevada, que amadurecem durante o verão e tingem os campos de dourado antes da colheita.",
+                "Image": {
+                    "Url": "/th?id=OHR.BeechEngland_PT-BR8581055675_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BeechEngland_PT-BR8581055675_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Um horizonte dourado",
+                "Title": "Faia-europeia em um campo de cereais, Parque Nacional de South Downs, Hampshire, Inglaterra",
+                "Copyright": "© Guy Edwardes/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260908_BeechEngland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hampshire+Inglaterra&form=hpcapt&filters=HpDate:\"20260908_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260908_BeechEngland"
+            },
+            "Ssd": "20260908",
+            "Name": "BeechEngland",
+            "Market": "PT-BR",
+            "Hash": "8581055675",
+            "FullDateString": "8 set. 2026"
+        }
+    },
+    {
         "startdate": "20260907",
         "fullstartdate": "202609070300",
         "enddate": "20260908",

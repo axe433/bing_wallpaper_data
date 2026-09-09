@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260908",
+        "fullstartdate": "202609082200",
+        "enddate": "20260909",
+        "url": "/th?id=OHR.GabitKeni_DE-DE7644159107_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GabitKeni_DE-DE7644159107",
+        "copyright": "Gabit-Keni-Strand bei Ankola, Karnataka, Indien (© Amith Nag Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Karnataka+Indien+Informationen&form=hpcapt&filters=HpDate%3a%2220260908_2200%22",
+        "title": "Leben an Indiens Westküste",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260908_GabitKeni%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e9dbddd96349e3e34afaa3560db064c2",
+        "hsh": "55c835e445da721f60f0e4b1c8fe8118",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "An der Westküste Indiens, im Bundesstaat Karnataka, liegt der Gabit-Keni-Strand nahe der Stadt Ankola. Der breite Sandstrand öffnet sich zum Arabischen Meer und vermittelt eine ruhige, fast unberührte Atmosphäre. Besonders in den frühen Morgenstunden prägen Fischerboote das Bild, wenn sie hinausfahren und später mit ihrem Fang zurückkehren. Die Nähe zum Meer bestimmt hier seit Generationen den Alltag vieler Menschen.",
+                "Image": {
+                    "Url": "/th?id=OHR.GabitKeni_DE-DE7644159107_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GabitKeni_DE-DE7644159107_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Leben an Indiens Westküste",
+                "Title": "Gabit-Keni-Strand bei Ankola, Karnataka, Indien",
+                "Copyright": "© Amith Nag Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/14.662778,74.278056/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=14.662778,74.278056;S9;Gabit-Keni-Strand, Ankola, Karnataka, Indien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260909_GabitKeni\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Karnataka+Indien+Informationen&form=hpcapt&filters=HpDate:\"20260908_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260909_GabitKeni"
+            },
+            "Ssd": "20260909",
+            "Name": "GabitKeni",
+            "Market": "DE-DE",
+            "Hash": "7644159107",
+            "FullDateString": "9. Sept.. 2026"
+        }
+    },
+    {
         "startdate": "20260907",
         "fullstartdate": "202609072200",
         "enddate": "20260908",

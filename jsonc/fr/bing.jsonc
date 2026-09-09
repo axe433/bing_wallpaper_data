@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260908",
+        "fullstartdate": "202609082200",
+        "enddate": "20260909",
+        "url": "/th?id=OHR.GabitKeni_FR-FR5031931256_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GabitKeni_FR-FR5031931256",
+        "copyright": "Plage de Gabit Keni près d’Ankola, Karnataka, Inde (© Amith Nag Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Karnataka+Inde&form=hpcapt&filters=HpDate%3a%2220260908_2200%22",
+        "title": "La vie sur la côte sud de l’Inde",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260908_GabitKeni%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e9dbddd96349e3e34afaa3560db064c2",
+        "hsh": "78ff9d6fbb90455cf56892a9b40259f0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Quand on évoque le sud de l’Inde, viennent souvent à l’esprit les anciennes routes des épices, les mélodies de la musique carnatique et les rivages qui ont relié le sous-continent au monde pendant des siècles. En suivant la côte occidentale du Karnataka jusqu’aux environs d’Ankola, un lieu attire les voyageurs en quête d’authenticité : la plage de Gabit Keni. Ici, le rythme de la vie est dicté par la mer d’Arabie. Avant l’aube, les bateaux de pêche quittent le rivage, perpétuant un savoir-faire profondément enraciné dans le paysage côtier.",
+                "Image": {
+                    "Url": "/th?id=OHR.GabitKeni_FR-FR5031931256_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GabitKeni_FR-FR5031931256_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La vie sur la côte sud de l'Inde",
+                "Title": "Plage de Gabit Keni près d’Ankola, Karnataka, Inde",
+                "Copyright": "© Amith Nag Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/14.662778,74.278056/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=14.662778,74.278056;S9;Ankola, Karnataka, Inde&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260909_GabitKeni\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Karnataka+Inde&form=hpcapt&filters=HpDate:\"20260908_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260909_GabitKeni"
+            },
+            "Ssd": "20260909",
+            "Name": "GabitKeni",
+            "Market": "FR-FR",
+            "Hash": "5031931256",
+            "FullDateString": "9 sept. 2026"
+        }
+    },
+    {
         "startdate": "20260907",
         "fullstartdate": "202609072200",
         "enddate": "20260908",

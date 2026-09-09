@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260908",
+        "fullstartdate": "202609082200",
+        "enddate": "20260909",
+        "url": "/th?id=OHR.GabitKeni_ES-ES9410799048_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GabitKeni_ES-ES9410799048",
+        "copyright": "Playa Gabit Keni cerca de Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ankola+en+India&form=hpcapt&filters=HpDate%3a%2220260908_2200%22",
+        "title": "Vida en la costa oeste de la India",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260908_GabitKeni%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e9dbddd96349e3e34afaa3560db064c2",
+        "hsh": "281d9051eb1615fbaf58d13ac20c16c2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La playa de Gabit Keni, junto a Ankola, en el estado indio de Karnataka, es una de esas paradas discretas del mar de Arabia donde la vida sigue el ritmo de las barcas: salen antes del amanecer y regresan con la captura del día. El arenal debe su nombre a los gabit, comunidad pesquera de la costa de Konkan.",
+                "Image": {
+                    "Url": "/th?id=OHR.GabitKeni_ES-ES9410799048_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GabitKeni_ES-ES9410799048_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Vida en la costa oeste de la India",
+                "Title": "Playa Gabit Keni cerca de Ankola, Karnataka, India",
+                "Copyright": "© Amith Nag Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/14.662778,74.278056/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=14.662778,74.278056;S9;Playa Gabit Keni, Ankola, Karnataka, India&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260909_GabitKeni\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ankola+en+India&form=hpcapt&filters=HpDate:\"20260908_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260909_GabitKeni"
+            },
+            "Ssd": "20260909",
+            "Name": "GabitKeni",
+            "Market": "ES-ES",
+            "Hash": "9410799048",
+            "FullDateString": "9 de sept de 2026"
+        }
+    },
+    {
         "startdate": "20260907",
         "fullstartdate": "202609072200",
         "enddate": "20260908",

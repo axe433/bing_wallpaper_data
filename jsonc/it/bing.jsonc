@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260908",
+        "fullstartdate": "202609082200",
+        "enddate": "20260909",
+        "url": "/th?id=OHR.GabitKeni_IT-IT3860805604_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GabitKeni_IT-IT3860805604",
+        "copyright": "Gabit Keni Beach vicino ad Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ankola+Karnataka&form=hpcapt",
+        "title": "Sabbia, tranquillità e panorami",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260908_GabitKeni%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e9dbddd96349e3e34afaa3560db064c2",
+        "hsh": "60df7b34c28513c1bab197469417d991",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La spiaggia di Gabit Keni, vicino ad Ankola, nello stato indiano del Karnataka, è una di quelle tappe discrete del Mar Arabico dove tutto segue il ritmo delle barche: escono prima dell'alba e rientrano con il pescato del giorno. Il nome ricorda i gabit, comunità di pescatori della costa del Konkan.",
+                "Image": {
+                    "Url": "/th?id=OHR.GabitKeni_IT-IT3860805604_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GabitKeni_IT-IT3860805604_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Sabbia, tranquillità e panorami",
+                "Title": "Gabit Keni Beach vicino ad Ankola, Karnataka, India",
+                "Copyright": "© Amith Nag Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/14.662778,74.278056/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=14.662778,74.278056;S9;Gabit Keni Beach, Ankola, Karnataka, India&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260909_GabitKeni\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ankola+Karnataka&form=hpcapt&filters=HpDate:\"20260908_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260909_GabitKeni"
+            },
+            "Ssd": "20260909",
+            "Name": "GabitKeni",
+            "Market": "IT-IT",
+            "Hash": "3860805604",
+            "FullDateString": "9 settembre 2026"
+        }
+    },
+    {
         "startdate": "20260907",
         "fullstartdate": "202609072200",
         "enddate": "20260908",
