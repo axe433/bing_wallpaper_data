@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260909",
+        "fullstartdate": "202609092200",
+        "enddate": "20260910",
+        "url": "/th?id=OHR.Olvera_DE-DE7810722479_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Olvera_DE-DE7810722479",
+        "copyright": "Luftaufnahme von Olvera, Andalusien, Spanien (© Marco Bottigelli/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Olvera+Informationen&form=hpcapt&filters=HpDate%3a%2220260909_2200%22",
+        "title": "Ein buntes Mosaik aus der Luft",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260909_Olvera%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "dbd0392e22dc44c6ea0a85a616cd9045",
+        "hsh": "2c2fa7aa17643be5c9660bc1a1250180",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Von oben betrachtet wirkt Olvera in Spanien wie ein dichtes Mosaik aus Dächern, Gassen und Plätzen, das sich über einen Höhenzug in Andalusien erstreckt. Die eng beieinanderliegenden Gebäude formen ein markantes Muster aus Linien, Farben sowie Licht und Schatten, das aus der Luft besonders deutlich sichtbar wird. Die erhöhte Lage der Stadt ermöglicht weite Ausblicke auf die umliegende Landschaft und macht Olvera zu einem auffälligen Blickfang in der Provinz Cádiz.",
+                "Image": {
+                    "Url": "/th?id=OHR.Olvera_DE-DE7810722479_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Olvera_DE-DE7810722479_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ein buntes Mosaik aus der Luft",
+                "Title": "Luftaufnahme von Olvera, Andalusien, Spanien",
+                "Copyright": "© Marco Bottigelli/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.935253,-5.267688/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=36.935253,-5.267688;S9;Olvera, Andalusien, Spanien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260910_Olvera\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Olvera+Informationen&form=hpcapt&filters=HpDate:\"20260909_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260910_Olvera"
+            },
+            "Ssd": "20260910",
+            "Name": "Olvera",
+            "Market": "DE-DE",
+            "Hash": "7810722479",
+            "FullDateString": "10. Sept.. 2026"
+        }
+    },
+    {
         "startdate": "20260908",
         "fullstartdate": "202609082200",
         "enddate": "20260909",

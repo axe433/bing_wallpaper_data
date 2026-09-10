@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260909",
+        "fullstartdate": "202609090300",
+        "enddate": "20260910",
+        "url": "/th?id=OHR.GabitKeni_PT-BR1706073463_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GabitKeni_PT-BR1706073463",
+        "copyright": "Praia de Gabit Keni, perto de Ankola, Carnataca, Índia (© Amith Nag Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Carnataca+na+%C3%8Dndia&form=hpcapt&mkt=pt-br",
+        "title": "Onde a Índia encontra o mar",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260909_GabitKeni%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e9dbddd96349e3e34afaa3560db064c2",
+        "hsh": "87fcc3c4e4b3ba5aabf11bdaf08377cf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Na praia de Gabit Keni, perto de Ankola, na Índia, o Mar da Arábia não fica só fazendo bonito no horizonte. Ele dita horários, movimenta barcos e ajuda a colocar o almoço na mesa. A imagem mostra esta faixa do litoral de Karnataka, onde pescadores da comunidade Gabit, que deu nome à praia, saem cedo para o mar e voltam com o pescado do dia.",
+                "Image": {
+                    "Url": "/th?id=OHR.GabitKeni_PT-BR1706073463_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GabitKeni_PT-BR1706073463_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Onde a Índia encontra o mar",
+                "Title": "Praia de Gabit Keni, perto de Ankola, Carnataca, Índia",
+                "Copyright": "© Amith Nag Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260909_GabitKeni\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Carnataca+na+%c3%8dndia&form=hpcapt&filters=HpDate:\"20260909_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260909_GabitKeni"
+            },
+            "Ssd": "20260909",
+            "Name": "GabitKeni",
+            "Market": "PT-BR",
+            "Hash": "1706073463",
+            "FullDateString": "9 set. 2026"
+        }
+    },
+    {
         "startdate": "20260908",
         "fullstartdate": "202609080300",
         "enddate": "20260909",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260909",
+        "fullstartdate": "202609092200",
+        "enddate": "20260910",
+        "url": "/th?id=OHR.Olvera_IT-IT3958001884_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Olvera_IT-IT3958001884",
+        "copyright": "Vista aerea di Olvera, Cadice, Andalusia, Spagna (© Marco Bottigelli/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Andalusia+Spagna&form=hpcapt",
+        "title": "Un mosaico dall'alto",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260909_Olvera%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "dbd0392e22dc44c6ea0a85a616cd9045",
+        "hsh": "4e23283f3c0cdb0c0fd27bd670450634",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Olvera, nella sierra di Cadice (Andalusia, Spagna), si vede da lontanissimo: un colle di case imbiancate a calce sormontato da un castello di origine musulmana e dalla mole neoclassica della chiesa di Nuestra Señora de la Encarnación. A 643 metri di quota, questo borgo bianco è stato per secoli terra di frontiera, e quel passato si racconta a La Cilla, l'antico granaio dei duchi di Osuna oggi diventato centro culturale.",
+                "Image": {
+                    "Url": "/th?id=OHR.Olvera_IT-IT3958001884_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Olvera_IT-IT3958001884_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un mosaico dall'alto",
+                "Title": "Vista aerea di Olvera, Cadice, Andalusia, Spagna",
+                "Copyright": "© Marco Bottigelli/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.935253,-5.267688/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=36.935253,-5.267688;S9;Olvera, Andalusia, Spagna&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260910_Olvera\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Andalusia+Spagna&form=hpcapt&filters=HpDate:\"20260909_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260910_Olvera"
+            },
+            "Ssd": "20260910",
+            "Name": "Olvera",
+            "Market": "IT-IT",
+            "Hash": "3958001884",
+            "FullDateString": "10 settembre 2026"
+        }
+    },
+    {
         "startdate": "20260908",
         "fullstartdate": "202609082200",
         "enddate": "20260909",

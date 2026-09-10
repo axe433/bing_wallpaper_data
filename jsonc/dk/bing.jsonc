@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260909",
+        "fullstartdate": "202609090700",
+        "enddate": "20260910",
+        "url": "/th?id=OHR.PurplePuffin_ROW7550028597_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PurplePuffin_ROW7550028597",
+        "copyright": "Atlantic puffin holding a wild iris in his beak in Elliston, Newfoundland, Canada (© mlorenzphotography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Atlantic+puffin&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260909_PurplePuffin%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "13fc564e789cb510fb43aac9ac9a0767",
+        "hsh": "ee82267e6e128ddd14558949261a6799",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "As morning breaks over Elliston, a small seabird appears with a wild iris held across its bill. The scene looks almost like a gift, yet biologists say Atlantic puffins are not known to offer flowers to their mates during courtship. The colourful bill, which becomes brightest in the breeding season and fades later in the year, helps make the photograph memorable. Even their feet turn brighter.",
+                "Image": {
+                    "Url": "/th?id=OHR.PurplePuffin_ROW7550028597_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PurplePuffin_ROW7550028597_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Atlantic puffin holding a wild iris in his beak in Elliston, Newfoundland, Canada",
+                "Copyright": "© mlorenzphotography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260909_PurplePuffin\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Atlantic+puffin&form=hpcapt&filters=HpDate:\"20260909_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260909_PurplePuffin"
+            },
+            "Ssd": "20260909",
+            "Name": "PurplePuffin",
+            "Market": "ROW",
+            "Hash": "7550028597",
+            "FullDateString": "9. sep. 2026"
+        }
+    },
+    {
         "startdate": "20260908",
         "fullstartdate": "202609080700",
         "enddate": "20260909",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260909",
+        "fullstartdate": "202609091500",
+        "enddate": "20260910",
+        "url": "/th?id=OHR.Olvera_JA-JP5093791420_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Olvera_JA-JP5093791420",
+        "copyright": "オルベラ, スペイン (© Marco Bottigelli/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%AA%E3%83%AB%E3%83%99%E3%83%A9&form=hpcapt&filters=HpDate%3a%2220260909_1500%22",
+        "title": "赤茶色の屋根が映えるアンダルシアの街",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260909_Olvera%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "dbd0392e22dc44c6ea0a85a616cd9045",
+        "hsh": "48c45da470937a1cd104b078e6004501",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ここは、スペイン南部アンダルシア州にある町、オルベラです。白い壁と赤や茶色の瓦屋根の家が丘の斜面に連なる光景は、アンダルシアに点在している「白い村（プエブロ・ブランコ）」の一つとして知られています。町は、広大なオリーブ畑に囲まれた丘の上に広がり、古くから戦略的な要地として発展してきました。丘の頂にそびえるムーア人の城塞とエンカルナシオン教会は、オルベラのランドマークであり、イスラム文化とキリスト教文化が交錯した歴史を今に伝えています。",
+                "Image": {
+                    "Url": "/th?id=OHR.Olvera_JA-JP5093791420_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Olvera_JA-JP5093791420_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "赤茶色の屋根が映えるアンダルシアの街",
+                "Title": "オルベラ, スペイン",
+                "Copyright": "© Marco Bottigelli/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.935253,-5.267688/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=36.935253,-5.267688;S9;オルベラ, スペイン&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260910_Olvera%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260910_Olvera\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%aa%e3%83%ab%e3%83%99%e3%83%a9&form=hpcapt&filters=HpDate:\"20260909_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260910_Olvera"
+            },
+            "Ssd": "20260910",
+            "Name": "Olvera",
+            "Market": "JA-JP",
+            "Hash": "5093791420",
+            "FullDateString": "2026 年 9月 月 10 日"
+        }
+    },
+    {
         "startdate": "20260908",
         "fullstartdate": "202609081500",
         "enddate": "20260909",
