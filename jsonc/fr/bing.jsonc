@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260910",
+        "fullstartdate": "202609102200",
+        "enddate": "20260911",
+        "url": "/th?id=OHR.FrenchRivieraVillage_FR-FR2966437166_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FrenchRivieraVillage_FR-FR2966437166",
+        "copyright": "Vue aérienne de la baie de Villefranche-sur-Mer, Alpes-Maritimes, Provence-Alpes-Côte d'Azur (© StockByM/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Villefranche-sur-Mer&form=hpcapt&filters=HpDate%3a%2220260910_2200%22",
+        "title": "Là où la Méditerranée est reine",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260910_FrenchRivieraVillage%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "95f1e2b1efa0bcb62b961c41a4ff37bf",
+        "hsh": "0c54c0a26b52dda0a66057595d33cdb4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En septembre, la Côte d’Azur se pare d’une lumière plus douce et la végétation méditerranéenne retrouve progressivement son éclat. Les collines embaument des senteurs de pin d’Alep, de romarin et de thym sauvage. Dans l’arrière-pays, les oliviers centenaires et les villages perchés racontent une histoire façonnée par les influences grecques, romaines et provençales.",
+                "Image": {
+                    "Url": "/th?id=OHR.FrenchRivieraVillage_FR-FR2966437166_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FrenchRivieraVillage_FR-FR2966437166_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Là où la Méditerranée est reine",
+                "Title": "Vue aérienne de la baie de Villefranche-sur-Mer, Alpes-Maritimes, Provence-Alpes-Côte d'Azur",
+                "Copyright": "© StockByM/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.703599,7.312096/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=43.703599,7.312096;S9;Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260911_FrenchRivieraVillage\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Villefranche-sur-Mer&form=hpcapt&filters=HpDate:\"20260910_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260911_FrenchRivieraVillage"
+            },
+            "Ssd": "20260911",
+            "Name": "FrenchRivieraVillage",
+            "Market": "FR-FR",
+            "Hash": "2966437166",
+            "FullDateString": "11 sept. 2026"
+        }
+    },
+    {
         "startdate": "20260909",
         "fullstartdate": "202609092200",
         "enddate": "20260910",

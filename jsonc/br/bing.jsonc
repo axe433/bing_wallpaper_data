@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260910",
+        "fullstartdate": "202609100300",
+        "enddate": "20260911",
+        "url": "/th?id=OHR.Olvera_PT-BR2296737928_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Olvera_PT-BR2296737928",
+        "copyright": "Vista aérea de Olvera, Andaluzia, Espanha (© Marco Bottigelli/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Olvera+na+Espanha&form=hpcapt&mkt=pt-br",
+        "title": "A Andaluzia em mosaico",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260910_Olvera%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "dbd0392e22dc44c6ea0a85a616cd9045",
+        "hsh": "d0cf122b4d909781499e7826bfd14f20",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Olvera parece ter sido construída em camadas: primeiro vêm as oliveiras, depois as casas brancas, depois a igreja e, lá em cima, o castelo. Estamos na Andaluzia, na Espanha, em uma vila cercada por mais de 2 milhões de oliveiras, onde a paisagem agrícola praticamente sobe a montanha junto com as ruas.",
+                "Image": {
+                    "Url": "/th?id=OHR.Olvera_PT-BR2296737928_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Olvera_PT-BR2296737928_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A Andaluzia em mosaico",
+                "Title": "Vista aérea de Olvera, Andaluzia, Espanha",
+                "Copyright": "© Marco Bottigelli/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260910_Olvera\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Olvera+na+Espanha&form=hpcapt&filters=HpDate:\"20260910_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260910_Olvera"
+            },
+            "Ssd": "20260910",
+            "Name": "Olvera",
+            "Market": "PT-BR",
+            "Hash": "2296737928",
+            "FullDateString": "10 set. 2026"
+        }
+    },
+    {
         "startdate": "20260909",
         "fullstartdate": "202609090300",
         "enddate": "20260910",
