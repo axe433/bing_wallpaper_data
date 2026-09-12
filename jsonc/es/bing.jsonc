@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260911",
+        "fullstartdate": "202609112200",
+        "enddate": "20260912",
+        "url": "/th?id=OHR.SardineBait_ES-ES9719293392_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SardineBait_ES-ES9719293392",
+        "copyright": "Leones marinos de California cazando un cardumen de sardinas, México, Océano Pacífico (© Henley Spiers/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=lobo+marino+de+California&form=hpcapt&filters=HpDate%3a%2220260911_2200%22",
+        "title": "Maestros de las olas y los giros",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260911_SardineBait%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "af40c2cb01e7bb9dd129f1818d9887b6",
+        "hsh": "d0b2046a0b8df0bb46e3d10d5cb8ca26",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Un banco de sardinas se convierte en un torbellino cuando aparecen los leones marinos de California, aquí frente a las costas de México, en el océano Pacífico. Cazan en equipo, giran, aceleran y desordenan al cardumen hasta abrir el hueco perfecto; a veces aprovechan incluso el trabajo de delfines y aves marinas para acorralar a los peces.",
+                "Image": {
+                    "Url": "/th?id=OHR.SardineBait_ES-ES9719293392_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SardineBait_ES-ES9719293392_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Maestros de las olas y los giros",
+                "Title": "Leones marinos de California cazando un cardumen de sardinas, México, Océano Pacífico",
+                "Copyright": "© Henley Spiers/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260912_SardineBait\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=lobo+marino+de+California&form=hpcapt&filters=HpDate:\"20260911_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260912_SardineBait"
+            },
+            "Ssd": "20260912",
+            "Name": "SardineBait",
+            "Market": "ES-ES",
+            "Hash": "9719293392",
+            "FullDateString": "12 de sept de 2026"
+        }
+    },
+    {
         "startdate": "20260910",
         "fullstartdate": "202609102200",
         "enddate": "20260911",

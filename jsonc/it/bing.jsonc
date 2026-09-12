@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260911",
+        "fullstartdate": "202609112200",
+        "enddate": "20260912",
+        "url": "/th?id=OHR.SardineBait_IT-IT4326891508_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SardineBait_IT-IT4326891508",
+        "copyright": "Leoni marini della California a caccia di una palla di esca per sardine, al largo del Messico, Oceano Pacifico (© Henley Spiers/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Leoni+marini+della+California&form=hpcapt",
+        "title": "Maestri del surf e della riva",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260911_SardineBait%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "af40c2cb01e7bb9dd129f1818d9887b6",
+        "hsh": "d9135203a90b95a1b3e554b0847a6260",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Un banco di sardine si trasforma in un vortice quando arrivano i leoni marini della California, qui al largo del Messico, nell'Oceano Pacifico. Cacciano in squadra, girano, accelerano e disfano il branco fino ad aprire il varco giusto; a volte sfruttano perfino il lavoro di delfini e uccelli marini per accerchiare i pesci.",
+                "Image": {
+                    "Url": "/th?id=OHR.SardineBait_IT-IT4326891508_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SardineBait_IT-IT4326891508_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Maestri del surf e della riva",
+                "Title": "Leoni marini della California a caccia di una palla di esca per sardine, al largo del Messico, Oceano Pacifico",
+                "Copyright": "© Henley Spiers/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260912_SardineBait\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Leoni+marini+della+California&form=hpcapt&filters=HpDate:\"20260911_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260912_SardineBait"
+            },
+            "Ssd": "20260912",
+            "Name": "SardineBait",
+            "Market": "IT-IT",
+            "Hash": "4326891508",
+            "FullDateString": "12 settembre 2026"
+        }
+    },
+    {
         "startdate": "20260910",
         "fullstartdate": "202609102200",
         "enddate": "20260911",
