@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260912",
+        "fullstartdate": "202609120300",
+        "enddate": "20260913",
+        "url": "/th?id=OHR.SardineBait_PT-BR1473169959_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SardineBait_PT-BR1473169959",
+        "copyright": "Leões-marinhos-da-califórnia caçando cardume de sardinhas no litoral do México, Oceano Pacífico (© Henley Spiers/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=leoes-marinhos-da-california&form=hpcapt&mkt=pt-br",
+        "title": "O baile das barbatanas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260912_SardineBait%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "af40c2cb01e7bb9dd129f1818d9887b6",
+        "hsh": "f528e933c9067ecb549a0a86ec401745",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Você pode encontrar um leão-marinho-da-califórnia largado na praia, olhos semicerrados, parecendo que o expediente acabou. Não se engane. Quando entra na água, ele pode acelerar até cerca de 40 km/h. A espécie vive no litoral do Pacífico da América do Norte, da Colúmbia Britânica até o México.",
+                "Image": {
+                    "Url": "/th?id=OHR.SardineBait_PT-BR1473169959_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SardineBait_PT-BR1473169959_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O baile das barbatanas",
+                "Title": "Leões-marinhos-da-califórnia caçando cardume de sardinhas no litoral do México, Oceano Pacífico",
+                "Copyright": "© Henley Spiers/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260912_SardineBait\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=leoes-marinhos-da-california&form=hpcapt&filters=HpDate:\"20260912_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260912_SardineBait"
+            },
+            "Ssd": "20260912",
+            "Name": "SardineBait",
+            "Market": "PT-BR",
+            "Hash": "1473169959",
+            "FullDateString": "12 set. 2026"
+        }
+    },
+    {
         "startdate": "20260911",
         "fullstartdate": "202609110300",
         "enddate": "20260912",

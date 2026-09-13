@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260912",
+        "fullstartdate": "202609122200",
+        "enddate": "20260913",
+        "url": "/th?id=OHR.MisurinaPeak_IT-IT4415699665_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MisurinaPeak_IT-IT4415699665",
+        "copyright": "Cadini di Misurina, Dolomiti, Veneto, Italia (© Vithun Khamsong/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Cadini+di+Misurina+Dolomiti&form=hpcapt",
+        "title": "La corona d'Italia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260912_MisurinaPeak%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "63fc6c95bc937e8fc3c5612078f7c273",
+        "hsh": "ea4fb4e864bb1f6d645a5ddc5e9274e5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Alle prime luci le guglie dei Cadini di Misurina, nelle Dolomiti (Italia), sembrano tagliate con le forbici. In molti arrivano in questo angolo del Veneto per le Tre Cime di Lavaredo e finiscono ipnotizzati da questo labirinto di cime, la più alta delle quali, la Cima Cadin di San Lucano, raggiunge più di 2.800 metri.",
+                "Image": {
+                    "Url": "/th?id=OHR.MisurinaPeak_IT-IT4415699665_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MisurinaPeak_IT-IT4415699665_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La corona d'Italia",
+                "Title": "Cadini di Misurina, Dolomiti, Veneto, Italia",
+                "Copyright": "© Vithun Khamsong/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.573096,12.276032/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=46.573096,12.276032;S9;Cadini di Misurina, Dolomiti, Veneto, Italia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260913_MisurinaPeak\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Cadini+di+Misurina+Dolomiti&form=hpcapt&filters=HpDate:\"20260912_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260913_MisurinaPeak"
+            },
+            "Ssd": "20260913",
+            "Name": "MisurinaPeak",
+            "Market": "IT-IT",
+            "Hash": "4415699665",
+            "FullDateString": "13 settembre 2026"
+        }
+    },
+    {
         "startdate": "20260911",
         "fullstartdate": "202609112200",
         "enddate": "20260912",
