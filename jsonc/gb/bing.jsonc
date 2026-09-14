@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260913",
+        "fullstartdate": "202609132300",
+        "enddate": "20260914",
+        "url": "/th?id=OHR.KochiaChina_EN-GB8041098184_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KochiaChina_EN-GB8041098184",
+        "copyright": "Field of kochia plants, China (© lingqi xie/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Kochia+plant&form=hpcapt&filters=HpDate%3a%2220260913_2300%22",
+        "title": "Where toughness takes root",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260913_KochiaChina%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0139c147f5b13af2f55c134dc3feae3d",
+        "hsh": "96604929d1ee51eb3c8d972ffd8dc838",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "In today's image, kochia plants spread across the landscape in China in shades of green and deep red. Native to parts of Eurasia, kochia was introduced to the United States in the late 1800s as an ornamental plant and a source of material for broom making. Its ability to withstand drought, heat, saline soils and low rainfall helped it spread across the Great Plains and much of the American West.",
+                "Image": {
+                    "Url": "/th?id=OHR.KochiaChina_EN-GB8041098184_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KochiaChina_EN-GB8041098184_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Where toughness takes root",
+                "Title": "Field of kochia plants, China",
+                "Copyright": "© lingqi xie/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Kochia is a member of the amaranth family, sharing botanical ties with beets, spinach and quinoa.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260914_KochiaChina\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Kochia+plant&form=hpcapt&filters=HpDate:\"20260913_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260914_KochiaChina"
+            },
+            "Ssd": "20260914",
+            "Name": "KochiaChina",
+            "Market": "EN-GB",
+            "Hash": "8041098184",
+            "FullDateString": "14 Sept 2026"
+        }
+    },
+    {
         "startdate": "20260912",
         "fullstartdate": "202609122300",
         "enddate": "20260913",

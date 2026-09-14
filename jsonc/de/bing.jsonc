@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260913",
+        "fullstartdate": "202609132200",
+        "enddate": "20260914",
+        "url": "/th?id=OHR.KochiaChina_DE-DE7299864606_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KochiaChina_DE-DE7299864606",
+        "copyright": "Feld mit Besen-Radmelden, China (© lingqi xie/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Besen-Radmelde&form=hpcapt&filters=HpDate%3a%2220260913_2200%22",
+        "title": "Wo Widerstandskraft Wurzeln schlägt",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260913_KochiaChina%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0139c147f5b13af2f55c134dc3feae3d",
+        "hsh": "36e10b7fc0d180e26908e383e0f5bf44",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Im heutigen Bild breitet sich ein Feld voller Besen-Radmelden in China aus. Die Pflanzen leuchten in kräftigen Rot- und Grüntönen und verwandeln die Landschaft in ein auffälliges Muster. Ursprünglich stammt die Art aus Teilen Eurasiens und ist für ihre Anpassungsfähigkeit bekannt. Sie verträgt Trockenheit, Hitze und nährstoffarme Böden und kann deshalb auch in Regionen gedeihen, in denen andere Pflanzen nur schwer wachsen. Im Laufe des Jahres verändert sich ihre Färbung deutlich. Besonders im Spätsommer und Herbst entstehen die intensiven Farbtöne.",
+                "Image": {
+                    "Url": "/th?id=OHR.KochiaChina_DE-DE7299864606_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KochiaChina_DE-DE7299864606_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Wo Widerstandskraft Wurzeln schlägt",
+                "Title": "Feld mit Besen-Radmelden, China",
+                "Copyright": "© lingqi xie/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Besen-Radmelde gehört zur Familie der Amaranthgewächse und ist botanisch mit Roter Bete, Spinat und Quinoa verwandt.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260914_KochiaChina\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Besen-Radmelde&form=hpcapt&filters=HpDate:\"20260913_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260914_KochiaChina"
+            },
+            "Ssd": "20260914",
+            "Name": "KochiaChina",
+            "Market": "DE-DE",
+            "Hash": "7299864606",
+            "FullDateString": "14. Sept.. 2026"
+        }
+    },
+    {
         "startdate": "20260912",
         "fullstartdate": "202609122200",
         "enddate": "20260913",

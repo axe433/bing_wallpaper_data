@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260913",
+        "fullstartdate": "202609132200",
+        "enddate": "20260914",
+        "url": "/th?id=OHR.KochiaChina_FR-FR3921834032_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KochiaChina_FR-FR3921834032",
+        "copyright": "Champ de kochia, Chine (© lingqi xie/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=kochia+plante&form=hpcapt&filters=HpDate%3a%2220260913_2200%22",
+        "title": "Quand la tenacité prend racine",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260913_KochiaChina%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0139c147f5b13af2f55c134dc3feae3d",
+        "hsh": "2caf14ef72b25995c0c6177fb3c8d260",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dans l’image du jour, des étendues de kochias dessinent un paysage étonnant, où le vert tendre côtoie des teintes rouge foncé. Originaire de certaines régions d’Eurasie, cette plante est appréciée pour ses qualités ornementales et sa remarquable capacité d’adaptation. Sa résistance à la sécheresse, à la chaleur et aux sols pauvres lui permet de prospérer dans des environnements variés, y compris dans certaines régions méditerranéennes où les étés sont particulièrement secs.",
+                "Image": {
+                    "Url": "/th?id=OHR.KochiaChina_FR-FR3921834032_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KochiaChina_FR-FR3921834032_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Quand la tenacité prend racine",
+                "Title": "Champ de kochia, Chine",
+                "Copyright": "© lingqi xie/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Le kochia appartient à la famille des Amaranthacées, dont il partage les liens botaniques avec la betterave, les épinards et le quinoa.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260914_KochiaChina\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=kochia+plante&form=hpcapt&filters=HpDate:\"20260913_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260914_KochiaChina"
+            },
+            "Ssd": "20260914",
+            "Name": "KochiaChina",
+            "Market": "FR-FR",
+            "Hash": "3921834032",
+            "FullDateString": "14 sept. 2026"
+        }
+    },
+    {
         "startdate": "20260912",
         "fullstartdate": "202609122200",
         "enddate": "20260913",

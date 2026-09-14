@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260913",
+        "fullstartdate": "202609130700",
+        "enddate": "20260914",
+        "url": "/th?id=OHR.MisurinaPeak_ROW5646793381_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MisurinaPeak_ROW5646793381",
+        "copyright": "Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Cadini+di+Misurina+Dolomites&form=hpcapt&filters=HpDate%3a%2220260913_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260913_MisurinaPeak%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "63fc6c95bc937e8fc3c5612078f7c273",
+        "hsh": "dc361ca6abe85e07a5bc47121cb5976d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "The image captures the jagged skyline of Cadini di Misurina at sunrise in Veneto, northeastern Italy. Visitors heading toward nearby Tre Cime di Lavaredo often come for the famous route only to find their attention hijacked by the Cadini. Part of the Dolomites, these needle-like peaks reaching more than 2,800 metres at their highest point seem sculpted for drama. The twist? They started out as ancient coral reefs.",
+                "Image": {
+                    "Url": "/th?id=OHR.MisurinaPeak_ROW5646793381_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MisurinaPeak_ROW5646793381_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Cadini di Misurina, Dolomites, Veneto, Italy",
+                "Copyright": "© Vithun Khamsong/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260913_MisurinaPeak\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Cadini+di+Misurina+Dolomites&form=hpcapt&filters=HpDate:\"20260913_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260913_MisurinaPeak"
+            },
+            "Ssd": "20260913",
+            "Name": "MisurinaPeak",
+            "Market": "ROW",
+            "Hash": "5646793381",
+            "FullDateString": "13 Sept 2026"
+        }
+    },
+    {
         "startdate": "20260912",
         "fullstartdate": "202609120700",
         "enddate": "20260913",
