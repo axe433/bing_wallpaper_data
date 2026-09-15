@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260914",
+        "fullstartdate": "202609142200",
+        "enddate": "20260915",
+        "url": "/th?id=OHR.RedMacawsFlight_FR-FR7707103223_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RedMacawsFlight_FR-FR7707103223",
+        "copyright": "Aras chloroptères, Amérique du Sud (© markes51/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=ara+chloropt%C3%A8re&form=hpcapt&filters=HpDate%3a%2220260914_2200%22",
+        "title": "Ça plane pour moi !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260914_RedMacawsFlight%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8633d6f323d5d9968730a710f8e4c443",
+        "hsh": "351ff6f02db1db7109633f9f88e2dd6a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dans les forêts tropicales d’Amérique du Sud, l’ara chloroptère semble défier toute notion de discrétion. Son plumage écarlate, rehaussé d’ailes vertes et de longues rémiges bleues, illumine la canopée. Pourtant, derrière ce spectacle éclatant se cache un rôle essentiel : en consommant fruits et graines puis en les dispersant au fil de ses déplacements, cet oiseau contribue à la régénération de la forêt.",
+                "Image": {
+                    "Url": "/th?id=OHR.RedMacawsFlight_FR-FR7707103223_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RedMacawsFlight_FR-FR7707103223_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ça plane pour moi !",
+                "Title": "Aras chloroptères, Amérique du Sud",
+                "Copyright": "© markes51/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Le bec des grands aras peut exercer une pression de plusieurs centaines de PSI, bien supérieure à celle d'une morsure humaine moyenne, leur permettant de casser aisément des noix et des graines dures.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260915_RedMacawsFlight\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=ara+chloropt%c3%a8re&form=hpcapt&filters=HpDate:\"20260914_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260915_RedMacawsFlight"
+            },
+            "Ssd": "20260915",
+            "Name": "RedMacawsFlight",
+            "Market": "FR-FR",
+            "Hash": "7707103223",
+            "FullDateString": "15 sept. 2026"
+        }
+    },
+    {
         "startdate": "20260913",
         "fullstartdate": "202609132200",
         "enddate": "20260914",

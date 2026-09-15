@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260914",
+        "fullstartdate": "202609142200",
+        "enddate": "20260915",
+        "url": "/th?id=OHR.RedMacawsFlight_DE-DE7450519779_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RedMacawsFlight_DE-DE7450519779",
+        "copyright": "Grünflügelaras (© markes51/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Gr%C3%BCnfl%C3%BCgelara&form=hpcapt&filters=HpDate%3a%2220260914_2200%22",
+        "title": "Das Überleben der Auffälligsten",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260914_RedMacawsFlight%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8633d6f323d5d9968730a710f8e4c443",
+        "hsh": "5af769c6870f9914daeac2430e10682d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Mit ihrem leuchtend roten Gefieder, den grünen Flügeln und den blauen Schwungfedern gehören Grünflügelaras zu den auffälligsten Papageien der Welt. Sie leben in den tropischen Regionen Südamerikas, wo sie durch Regenwälder, Galeriewälder und Savannenlandschaften ziehen. Mit einer Körperlänge von bis zu einem Meter zählen sie zu den größten flugfähigen Papageien. Ihr kräftiger Schnabel ermöglicht es ihnen, harte Nüsse und Früchte zu öffnen, die für viele andere Tiere unerreichbar bleiben.",
+                "Image": {
+                    "Url": "/th?id=OHR.RedMacawsFlight_DE-DE7450519779_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RedMacawsFlight_DE-DE7450519779_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Das Überleben der Auffälligsten",
+                "Title": "Grünflügelaras",
+                "Copyright": "© markes51/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Große Aras verfügen über eine außergewöhnlich starke Beißkraft, mit der sie selbst besonders harte Nüsse und Samen mühelos knacken können.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260915_RedMacawsFlight\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Gr%c3%bcnfl%c3%bcgelara&form=hpcapt&filters=HpDate:\"20260914_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260915_RedMacawsFlight"
+            },
+            "Ssd": "20260915",
+            "Name": "RedMacawsFlight",
+            "Market": "DE-DE",
+            "Hash": "7450519779",
+            "FullDateString": "15. Sept.. 2026"
+        }
+    },
+    {
         "startdate": "20260913",
         "fullstartdate": "202609132200",
         "enddate": "20260914",

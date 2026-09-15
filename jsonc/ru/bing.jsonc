@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260914",
+        "fullstartdate": "202609140700",
+        "enddate": "20260915",
+        "url": "/th?id=OHR.KochiaChina_ROW6162442762_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KochiaChina_ROW6162442762",
+        "copyright": "Field of kochia plants, China (© lingqi xie/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Kochia+plant&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260914_KochiaChina%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0139c147f5b13af2f55c134dc3feae3d",
+        "hsh": "ca1d681d20d43c721d24b9d1d865927e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "In today's image, kochia plants spread across the landscape in China in shades of green and deep red. Native to parts of Eurasia, kochia was introduced to the United States in the late 1800s as an ornamental plant and a source of material for broom making. Its ability to withstand drought, heat, saline soils and low rainfall helped it spread across the Great Plains and much of the American West.",
+                "Image": {
+                    "Url": "/th?id=OHR.KochiaChina_ROW6162442762_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KochiaChina_ROW6162442762_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Field of kochia plants, China",
+                "Copyright": "© lingqi xie/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260914_KochiaChina\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Kochia+plant&form=hpcapt&filters=HpDate:\"20260914_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260914_KochiaChina"
+            },
+            "Ssd": "20260914",
+            "Name": "KochiaChina",
+            "Market": "ROW",
+            "Hash": "6162442762",
+            "FullDateString": "14 сент. 2026 г."
+        }
+    },
+    {
         "startdate": "20260913",
         "fullstartdate": "202609130700",
         "enddate": "20260914",
