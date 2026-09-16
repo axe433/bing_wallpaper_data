@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260915",
+        "fullstartdate": "202609152200",
+        "enddate": "20260916",
+        "url": "/th?id=OHR.IcyCubs_ES-ES0423960114_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IcyCubs_ES-ES0423960114",
+        "copyright": "Cachorros de oso polar jugando en Svalbard, Noruega (© Danny Green/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Oso+polar&form=hpcapt&filters=HpDate%3a%2220260915_2200%22",
+        "title": "Los nuevos exploradores del Ártico",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260915_IcyCubs%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a72a1222d106f1e00f8add70e21123d7",
+        "hsh": "fe99f05b54289a3b2b48c95ef0b46887",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dos cachorros de oso polar cruzan la nieve en Svalbard, el archipiélago noruego de glaciares y fiordos helados donde el Ártico se muestra sin adornos. Nacieron en una madriguera excavada en la nieve, ciegos y con poco más de medio kilo de peso, y no salieron al exterior hasta la primavera.",
+                "Image": {
+                    "Url": "/th?id=OHR.IcyCubs_ES-ES0423960114_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.IcyCubs_ES-ES0423960114_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Los nuevos exploradores del Ártico",
+                "Title": "Cachorros de oso polar jugando en Svalbard, Noruega",
+                "Copyright": "© Danny Green/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/78.719849,20.349333/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=78.719849,20.349333;S9;Svalbard, Noruega&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260916_IcyCubs\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Oso+polar&form=hpcapt&filters=HpDate:\"20260915_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260916_IcyCubs"
+            },
+            "Ssd": "20260916",
+            "Name": "IcyCubs",
+            "Market": "ES-ES",
+            "Hash": "0423960114",
+            "FullDateString": "16 de sept de 2026"
+        }
+    },
+    {
         "startdate": "20260914",
         "fullstartdate": "202609142200",
         "enddate": "20260915",

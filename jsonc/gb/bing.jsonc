@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260915",
+        "fullstartdate": "202609152300",
+        "enddate": "20260916",
+        "url": "/th?id=OHR.IcyCubs_EN-GB8373772893_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IcyCubs_EN-GB8373772893",
+        "copyright": "Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Polar+bear&form=hpcapt&filters=HpDate%3a%2220260915_2300%22",
+        "title": "The Arctic's new explorers",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260915_IcyCubs%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a72a1222d106f1e00f8add70e21123d7",
+        "hsh": "5f264b02d7e8179486b8e74b9863578a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Two polar bear cubs pick their way across the snow in Svalbard, a remote Norwegian archipelago of glaciers, mountains and frozen fjords deep in the Arctic Ocean. This wild landscape is part of the Barents Sea region, home to one of the world's largest polar bear populations, with around 2,600 bears.",
+                "Image": {
+                    "Url": "/th?id=OHR.IcyCubs_EN-GB8373772893_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.IcyCubs_EN-GB8373772893_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "The Arctic's new explorers",
+                "Title": "Polar bear cubs playing in Svalbard, Norway",
+                "Copyright": "© Danny Green/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/78.719849,20.349333/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=78.719849,20.349333;S9;Svalbard, Norway&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260916_IcyCubs\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Polar+bear&form=hpcapt&filters=HpDate:\"20260915_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260916_IcyCubs"
+            },
+            "Ssd": "20260916",
+            "Name": "IcyCubs",
+            "Market": "EN-GB",
+            "Hash": "8373772893",
+            "FullDateString": "16 Sept 2026"
+        }
+    },
+    {
         "startdate": "20260914",
         "fullstartdate": "202609142300",
         "enddate": "20260915",

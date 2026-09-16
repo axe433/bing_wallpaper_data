@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260915",
+        "fullstartdate": "202609152200",
+        "enddate": "20260916",
+        "url": "/th?id=OHR.IcyCubs_IT-IT4666651798_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IcyCubs_IT-IT4666651798",
+        "copyright": "Cuccioli di orso polare che giocano a Svalbard, Norvegia (© Danny Green/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=orso+polare&form=hpcapt",
+        "title": "I nuovi esploratori dell'Artico",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260915_IcyCubs%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a72a1222d106f1e00f8add70e21123d7",
+        "hsh": "cfc71fa535fa035bb49ee4835719cd4c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Due cuccioli di orso polare attraversano la neve alle Svalbard, l'arcipelago norvegese di ghiacciai e fiordi gelati dove l'Artico si mostra senza filtri. Sono nati in una tana scavata nella neve, ciechi e con poco più di mezzo chilogrammo di peso, e non sono usciti all'aperto fino alla primavera.",
+                "Image": {
+                    "Url": "/th?id=OHR.IcyCubs_IT-IT4666651798_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.IcyCubs_IT-IT4666651798_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "I nuovi esploratori dell'Artico",
+                "Title": "Cuccioli di orso polare che giocano a Svalbard, Norvegia",
+                "Copyright": "© Danny Green/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/78.719849,20.349333/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=78.719849,20.349333;S9;Svalbard, Norvegia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260916_IcyCubs\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=orso+polare&form=hpcapt&filters=HpDate:\"20260915_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260916_IcyCubs"
+            },
+            "Ssd": "20260916",
+            "Name": "IcyCubs",
+            "Market": "IT-IT",
+            "Hash": "4666651798",
+            "FullDateString": "16 settembre 2026"
+        }
+    },
+    {
         "startdate": "20260914",
         "fullstartdate": "202609142200",
         "enddate": "20260915",

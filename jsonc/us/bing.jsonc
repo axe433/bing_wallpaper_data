@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260915",
+        "fullstartdate": "202609150700",
+        "enddate": "20260916",
+        "url": "/th?id=OHR.FortUnion_EN-US5138724452_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FortUnion_EN-US5138724452",
+        "copyright": "Fort Union National Monument, New Mexico (© zrfphoto/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Hispanic+Heritage+Month&form=hpcapt&filters=HpDate%3a%2220260915_0700%22",
+        "title": "A crossroad of cultures",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260915_FortUnion%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e03b1858031b417e8e2cafa4cec06a48",
+        "hsh": "3bb41316fc68eeaa65d14df6fdb398d9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Today marks the first day of Hispanic Heritage Month, a nationwide celebration honoring the histories, cultures, and contributions of Americans with roots in Spain, Mexico, the Caribbean, and Central and South America. Observed each year from September 15 to October 15, the month begins on a date that coincides with the independence anniversaries of several Latin American nations, including Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua.",
+                "Image": {
+                    "Url": "/th?id=OHR.FortUnion_EN-US5138724452_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FortUnion_EN-US5138724452_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A crossroad of cultures",
+                "Title": "Fort Union National Monument, New Mexico",
+                "Copyright": "© zrfphoto/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.906501,-105.011522/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=35.906501,-105.011522;S9;Fort Union National Monument, New Mexico&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260915_FortUnion\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hispanic+Heritage+Month&form=hpcapt&filters=HpDate:\"20260915_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260915_FortUnion"
+            },
+            "Ssd": "20260915",
+            "Name": "FortUnion",
+            "Market": "EN-US",
+            "Hash": "5138724452",
+            "FullDateString": "Sep 15, 2026"
+        }
+    },
+    {
         "startdate": "20260914",
         "fullstartdate": "202609140700",
         "enddate": "20260915",

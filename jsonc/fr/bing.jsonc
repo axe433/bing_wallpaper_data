@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260915",
+        "fullstartdate": "202609152200",
+        "enddate": "20260916",
+        "url": "/th?id=OHR.IcyCubs_FR-FR5288498074_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IcyCubs_FR-FR5288498074",
+        "copyright": "Oursons polaires à Svalbard, Norvège (© Danny Green/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=ours+polaire&form=hpcapt&filters=HpDate%3a%2220260915_2200%22",
+        "title": "L’Arctique comme terrain de jeux",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260915_IcyCubs%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a72a1222d106f1e00f8add70e21123d7",
+        "hsh": "65c799a9487c201b41443c57a05cf2cb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Deux oursons polaires avancent avec précaution sur la neige du Svalbard, un archipel norvégien isolé au cœur de l’océan Arctique. Entre glaciers majestueux, sommets escarpés et fjords pris dans la glace, ce territoire appartient à la région de la mer de Barents, qui abrite l’une des populations d’ours polaires les plus importantes au monde, avec environ 2 600 individus. Dans ce décor silencieux, chaque pas raconte une histoire de survie.",
+                "Image": {
+                    "Url": "/th?id=OHR.IcyCubs_FR-FR5288498074_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.IcyCubs_FR-FR5288498074_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "L'Arctique comme terrain de jeux",
+                "Title": "Oursons polaires à Svalbard, Norvège",
+                "Copyright": "© Danny Green/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/78.719849,20.349333/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=78.719849,20.349333;S9;Svalbard, Norvège&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260916_IcyCubs\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=ours+polaire&form=hpcapt&filters=HpDate:\"20260915_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260916_IcyCubs"
+            },
+            "Ssd": "20260916",
+            "Name": "IcyCubs",
+            "Market": "FR-FR",
+            "Hash": "5288498074",
+            "FullDateString": "16 sept. 2026"
+        }
+    },
+    {
         "startdate": "20260914",
         "fullstartdate": "202609142200",
         "enddate": "20260915",

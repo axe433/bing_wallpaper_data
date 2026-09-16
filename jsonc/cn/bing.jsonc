@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260915",
+        "fullstartdate": "202609151600",
+        "enddate": "20260916",
+        "url": "/th?id=OHR.IcyCubs_ZH-CN5287408951_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IcyCubs_ZH-CN5287408951",
+        "copyright": "斯瓦尔巴群岛玩耍的北极熊幼崽，挪威 (© Danny Green/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%8C%97%E6%9E%81%E7%86%8A&form=hpcapt&mkt=zh-cn",
+        "title": "北极的新晋探索者",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260915_IcyCubs%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a72a1222d106f1e00f8add70e21123d7",
+        "hsh": "3464e2609dc4cc5a425308f4e13b7ea0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "两只北极熊幼崽小心翼翼地穿行在斯瓦尔巴群岛的雪地上；这片偏远的挪威群岛深入北冰洋腹地，由冰川、山脉和冰封峡湾构成。这片荒野属于巴伦支海地区，生活着全球最大的北极熊种群之一，约有2,600只。",
+                "Image": {
+                    "Url": "/th?id=OHR.IcyCubs_ZH-CN5287408951_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.IcyCubs_ZH-CN5287408951_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "北极的新晋探索者",
+                "Title": "斯瓦尔巴群岛玩耍的北极熊幼崽，挪威",
+                "Copyright": "© Danny Green/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "在经历了约一个世纪的大规模捕猎后，斯瓦尔巴群岛的北极熊自1973年起受到保护。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260916_IcyCubs\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%8c%97%e6%9e%81%e7%86%8a&form=hpcapt&filters=HpDate:\"20260915_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260916_IcyCubs"
+            },
+            "Ssd": "20260916",
+            "Name": "IcyCubs",
+            "Market": "ZH-CN",
+            "Hash": "5287408951",
+            "FullDateString": "2026 9月 16"
+        }
+    },
+    {
         "startdate": "20260914",
         "fullstartdate": "202609141600",
         "enddate": "20260915",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260915",
+        "fullstartdate": "202609150700",
+        "enddate": "20260916",
+        "url": "/th?id=OHR.RedMacawsFlight_ROW6429842138_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RedMacawsFlight_ROW6429842138",
+        "copyright": "Red-and-green macaws (© markes51/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Red-and-green+macaw&form=hpcapt&filters=HpDate%3a%2220260915_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260915_RedMacawsFlight%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8633d6f323d5d9968730a710f8e4c443",
+        "hsh": "5c1754338e94991654049ec51e962fd4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Evolution occasionally favours maximalism. Just look at these red-and-green macaws with their scarlet plumage, vivid green wings and blue flight feathers. Their lives unfold across tropical South America, in a routine that connects fruit, seeds and soil in ways that are easy to miss from the ground.",
+                "Image": {
+                    "Url": "/th?id=OHR.RedMacawsFlight_ROW6429842138_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RedMacawsFlight_ROW6429842138_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Red-and-green macaws",
+                "Copyright": "© markes51/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260915_RedMacawsFlight\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Red-and-green+macaw&form=hpcapt&filters=HpDate:\"20260915_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260915_RedMacawsFlight"
+            },
+            "Ssd": "20260915",
+            "Name": "RedMacawsFlight",
+            "Market": "ROW",
+            "Hash": "6429842138",
+            "FullDateString": "15 Sept 2026"
+        }
+    },
+    {
         "startdate": "20260914",
         "fullstartdate": "202609140700",
         "enddate": "20260915",
