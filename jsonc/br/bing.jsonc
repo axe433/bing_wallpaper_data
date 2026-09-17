@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260916",
+        "fullstartdate": "202609160300",
+        "enddate": "20260917",
+        "url": "/th?id=OHR.IcyCubs_PT-BR1372199595_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IcyCubs_PT-BR1372199595",
+        "copyright": "Filhotes de urso-polar brincando em Svalbard, Noruega (© Danny Green/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=urso+polar&form=hpcapt&mkt=pt-br",
+        "title": "Uma aventura polar",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260916_IcyCubs%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a72a1222d106f1e00f8add70e21123d7",
+        "hsh": "0b5c70fdfca96ffe6176b4ac3b35eebb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Um tropeça. O outro corre atrás. Em seguida, os dois se embolam na neve. Para quem vê de longe, é só uma dupla de filhotes de urso-polar brincando em Svalbard, Noruega. Para eles, é treinamento para a vida em um dos ambientes mais exigentes do planeta.",
+                "Image": {
+                    "Url": "/th?id=OHR.IcyCubs_PT-BR1372199595_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.IcyCubs_PT-BR1372199595_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Uma aventura polar",
+                "Title": "Filhotes de urso-polar brincando em Svalbard, Noruega",
+                "Copyright": "© Danny Green/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260916_IcyCubs\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=urso+polar&form=hpcapt&filters=HpDate:\"20260916_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260916_IcyCubs"
+            },
+            "Ssd": "20260916",
+            "Name": "IcyCubs",
+            "Market": "PT-BR",
+            "Hash": "1372199595",
+            "FullDateString": "16 set. 2026"
+        }
+    },
+    {
         "startdate": "20260915",
         "fullstartdate": "202609150300",
         "enddate": "20260916",

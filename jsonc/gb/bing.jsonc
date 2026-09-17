@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260916",
+        "fullstartdate": "202609162300",
+        "enddate": "20260917",
+        "url": "/th?id=OHR.Santenay_EN-GB8477225756_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Santenay_EN-GB8477225756",
+        "copyright": "Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Santenay+wine+region&form=hpcapt&filters=HpDate%3a%2220260916_2300%22",
+        "title": "A toast to the harvest",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260916_Santenay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "69d4b1379dbc6e69da7e3dfbdf950d63",
+        "hsh": "8f19176b86ab065d09a48d35b4811b46",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Each year, late summer and early autumn bring one of France's most anticipated traditions: the 'vendanges,' the grape-picking season. The timing varies from one wine region to another and depends on weather conditions, sun exposure and the ripeness of the fruit. For many vineyards, harvest is still a hands-on effort, with teams carefully selecting bunches destined for some of the country's most celebrated wines.",
+                "Image": {
+                    "Url": "/th?id=OHR.Santenay_EN-GB8477225756_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Santenay_EN-GB8477225756_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A toast to the harvest",
+                "Title": "Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France",
+                "Copyright": "© Marco Bottigelli/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.913044,4.696484/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=46.913044,4.696484;S9;Santenay, Côte de Beaune, France&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260917_Santenay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Santenay+wine+region&form=hpcapt&filters=HpDate:\"20260916_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260917_Santenay"
+            },
+            "Ssd": "20260917",
+            "Name": "Santenay",
+            "Market": "EN-GB",
+            "Hash": "8477225756",
+            "FullDateString": "17 Sept 2026"
+        }
+    },
+    {
         "startdate": "20260915",
         "fullstartdate": "202609152300",
         "enddate": "20260916",

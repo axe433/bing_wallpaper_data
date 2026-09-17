@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260916",
+        "fullstartdate": "202609161500",
+        "enddate": "20260917",
+        "url": "/th?id=OHR.Santenay_JA-JP6491231112_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Santenay_JA-JP6491231112",
+        "copyright": "サントネー, フランス (© Marco Bottigelli/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%B5%E3%83%B3%E3%83%88%E3%83%8D%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220260916_1500%22",
+        "title": "収穫期を迎えたブドウ畑",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260916_Santenay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "69d4b1379dbc6e69da7e3dfbdf950d63",
+        "hsh": "5cc3e1e9a3b694071d4a00987f944031",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "「ヴァンダンジュ」とはフランス語で「収穫」を意味し、毎年夏の終わりから秋にかけて行われる「ブドウの収穫」を指します。地域や天候、ブドウの熟し具合によって微妙に時期は異なるものの、多くの畑では今も人の手で丁寧に収穫が行われています。そして、今日の画像は、ブルゴーニュ地方サントネーで、色づいたブドウ畑の先に佇む「ソリーヌの風車」。19世紀から残るこの風車は、豊かなワイン産地の景観を象徴する存在であり、ブドウの栽培・収穫、そしてワイン作りの歴史を見守り続けています。",
+                "Image": {
+                    "Url": "/th?id=OHR.Santenay_JA-JP6491231112_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Santenay_JA-JP6491231112_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "収穫期を迎えたブドウ畑",
+                "Title": "サントネー, フランス",
+                "Copyright": "© Marco Bottigelli/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.913044,4.696484/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=46.913044,4.696484;S9;サントネー, フランス&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260917_Santenay %22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260917_Santenay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%b5%e3%83%b3%e3%83%88%e3%83%8d%e3%83%bc&form=hpcapt&filters=HpDate:\"20260916_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260917_Santenay"
+            },
+            "Ssd": "20260917",
+            "Name": "Santenay",
+            "Market": "JA-JP",
+            "Hash": "6491231112",
+            "FullDateString": "2026 年 9月 月 17 日"
+        }
+    },
+    {
         "startdate": "20260915",
         "fullstartdate": "202609151500",
         "enddate": "20260916",

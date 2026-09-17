@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260916",
+        "fullstartdate": "202609160700",
+        "enddate": "20260917",
+        "url": "/th?id=OHR.IcyCubs_ROW6681401044_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IcyCubs_ROW6681401044",
+        "copyright": "Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Polar+bear&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260916_IcyCubs%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a72a1222d106f1e00f8add70e21123d7",
+        "hsh": "eab47aa19da39c26482e9cf5da0129b2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Two polar bear cubs pick their way across the snow in Svalbard, a remote Norwegian archipelago of glaciers, mountains and frozen fjords deep in the Arctic Ocean. This wild landscape is part of the Barents Sea region, home to one of the world's largest polar bear populations, with around 2,600 bears.",
+                "Image": {
+                    "Url": "/th?id=OHR.IcyCubs_ROW6681401044_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.IcyCubs_ROW6681401044_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Polar bear cubs playing in Svalbard, Norway",
+                "Copyright": "© Danny Green/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260916_IcyCubs\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Polar+bear&form=hpcapt&filters=HpDate:\"20260916_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260916_IcyCubs"
+            },
+            "Ssd": "20260916",
+            "Name": "IcyCubs",
+            "Market": "ROW",
+            "Hash": "6681401044",
+            "FullDateString": "16 Sept 2026"
+        }
+    },
+    {
         "startdate": "20260915",
         "fullstartdate": "202609150700",
         "enddate": "20260916",
