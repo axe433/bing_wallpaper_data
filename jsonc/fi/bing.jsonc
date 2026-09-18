@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260917",
+        "fullstartdate": "202609170700",
+        "enddate": "20260918",
+        "url": "/th?id=OHR.Santenay_ROW6963784310_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Santenay_ROW6963784310",
+        "copyright": "Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Santenay+wine+region&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260917_Santenay%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "69d4b1379dbc6e69da7e3dfbdf950d63",
+        "hsh": "15b32ae08fd4cbc1c72930bffe088917",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Each year, late summer and early autumn bring one of France's most anticipated traditions: the 'vendanges,' the grape-picking season. The timing varies from one wine region to another and depends on weather conditions, sun exposure and the ripeness of the fruit. For many vineyards, harvest is still a hands-on effort, with teams carefully selecting bunches destined for some of the country's most celebrated wines.",
+                "Image": {
+                    "Url": "/th?id=OHR.Santenay_ROW6963784310_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Santenay_ROW6963784310_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France",
+                "Copyright": "© Marco Bottigelli/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260917_Santenay\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Santenay+wine+region&form=hpcapt&filters=HpDate:\"20260917_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260917_Santenay"
+            },
+            "Ssd": "20260917",
+            "Name": "Santenay",
+            "Market": "ROW",
+            "Hash": "6963784310",
+            "FullDateString": "17. syysk. 2026"
+        }
+    },
+    {
         "startdate": "20260916",
         "fullstartdate": "202609160700",
         "enddate": "20260917",

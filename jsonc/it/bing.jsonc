@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260917",
+        "fullstartdate": "202609172200",
+        "enddate": "20260918",
+        "url": "/th?id=OHR.WinnatsPassPeak_IT-IT0574437458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WinnatsPassPeak_IT-IT0574437458",
+        "copyright": "Winnats Pass, Parco Nazionale del Peak District, Inghilterra (© Daniel_Kay/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Peak+District&form=hpcapt",
+        "title": "Attraverso il cuore del passo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260917_WinnatsPassPeak%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f7c684f400f5fe290ca9293a14170b5d",
+        "hsh": "5604d2671cfcb1658b5e521bd8291c0f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La strada che serpeggia nell'immagine attraversa il Winnats Pass, una gola calcarea del Parco Nazionale del Peak District (Inghilterra) scavata in rocce di oltre 300 milioni di anni. Quelle pareti si sono formate sul fondo di un mare tropicale e oggi stringono il passaggio fino a trasformarlo in un imbuto di pietra ed erba, con pendenze che mettono alla prova freni e polmoni.",
+                "Image": {
+                    "Url": "/th?id=OHR.WinnatsPassPeak_IT-IT0574437458_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WinnatsPassPeak_IT-IT0574437458_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Attraverso il cuore del passo",
+                "Title": "Winnats Pass, Parco Nazionale del Peak District, Inghilterra",
+                "Copyright": "© Daniel_Kay/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/53.339626,-1.798998/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=53.339626,-1.798998;S9;Winnats Pass, Parco Nazionale del Peak District, Inghilterra&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260918_WinnatsPassPeak\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Peak+District&form=hpcapt&filters=HpDate:\"20260917_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260918_WinnatsPassPeak"
+            },
+            "Ssd": "20260918",
+            "Name": "WinnatsPassPeak",
+            "Market": "IT-IT",
+            "Hash": "0574437458",
+            "FullDateString": "18 settembre 2026"
+        }
+    },
+    {
         "startdate": "20260916",
         "fullstartdate": "202609162200",
         "enddate": "20260917",
