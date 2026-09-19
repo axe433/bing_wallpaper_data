@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260918",
+        "fullstartdate": "202609182200",
+        "enddate": "20260919",
+        "url": "/th?id=OHR.BorgoMarinari_IT-IT7423218886_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BorgoMarinari_IT-IT7423218886",
+        "copyright": "A Borgo Marinari, sul Golfo di Napoli, Campania, Italia (© Siegfried Schnepf/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Festa+di+San+Gennaro+a+Napoli&form=hpcapt",
+        "title": "Porta fortuna, San Gennà",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260918_BorgoMarinari%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "947de90a68136178933e018a679c96b3",
+        "hsh": "4b002c1b7b2a21b91dbad34d4669a1d4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Oggi Napoli (Campania, Italia) festeggia san Gennaro, il suo patrono: il 19 settembre è la data più sentita del calendario cittadino, con celebrazioni nel Duomo, bancarelle nei vicoli e una città che resta in strada fino a notte.",
+                "Image": {
+                    "Url": "/th?id=OHR.BorgoMarinari_IT-IT7423218886_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BorgoMarinari_IT-IT7423218886_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Porta fortuna, San Gennà",
+                "Title": "A Borgo Marinari, sul Golfo di Napoli, Campania, Italia",
+                "Copyright": "© Siegfried Schnepf/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.828506,14.24839/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=40.828506,14.24839;S9;Borgo Marinari, Napoli, Italia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260919_BorgoMarinari\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Festa+di+San+Gennaro+a+Napoli&form=hpcapt&filters=HpDate:\"20260918_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260919_BorgoMarinari"
+            },
+            "Ssd": "20260919",
+            "Name": "BorgoMarinari",
+            "Market": "IT-IT",
+            "Hash": "7423218886",
+            "FullDateString": "19 settembre 2026"
+        }
+    },
+    {
         "startdate": "20260917",
         "fullstartdate": "202609172200",
         "enddate": "20260918",

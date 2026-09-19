@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260918",
+        "fullstartdate": "202609181500",
+        "enddate": "20260919",
+        "url": "/th?id=OHR.AlphornBavaria_JA-JP7669654652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlphornBavaria_JA-JP7669654652",
+        "copyright": "アルプホルン奏者たち, ドイツ (© U. J. Alexander/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%83%AB%E3%83%97%E3%83%9B%E3%83%AB%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220260918_1500%22",
+        "title": "今日はオクトーバーフェストの開幕日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260918_AlphornBavaria%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "68051143939d08551b98d031b112394c",
+        "hsh": "003fbd303794d58da739aabe1a13839d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日 9 月 19 日からオクトーバーフェストが開幕します。ドイツ・バイエルン州では、祭りのにぎわいに欠かせない伝統楽器「アルプホルン」の響きが広がります。全長約 3.5m の木製管楽器で、かつては羊飼いたちが遠く離れた谷や山々の間で連絡を取り合うために使われていました。バルブや指穴はなく、息づかいと唇の動きだけで音を奏でます。祭りや文化イベントで演奏されており、その深く温かな音色はアルプスの風景と調和し、バイエルンならではの歴史や文化を今に伝えています。",
+                "Image": {
+                    "Url": "/th?id=OHR.AlphornBavaria_JA-JP7669654652_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AlphornBavaria_JA-JP7669654652_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "今日はオクトーバーフェストの開幕日",
+                "Title": "アルプホルン奏者たち, ドイツ",
+                "Copyright": "© U. J. Alexander/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.946812,11.419012/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=48.946812,11.419012;S9;ドイツ バイエルン州&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260919_AlphornBavaria\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%a2%e3%83%ab%e3%83%97%e3%83%9b%e3%83%ab%e3%83%b3&form=hpcapt&filters=HpDate:\"20260918_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260919_AlphornBavaria"
+            },
+            "Ssd": "20260919",
+            "Name": "AlphornBavaria",
+            "Market": "JA-JP",
+            "Hash": "7669654652",
+            "FullDateString": "2026 年 9月 月 19 日"
+        }
+    },
+    {
         "startdate": "20260917",
         "fullstartdate": "202609171500",
         "enddate": "20260918",

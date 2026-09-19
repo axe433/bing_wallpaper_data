@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260918",
+        "fullstartdate": "202609180300",
+        "enddate": "20260919",
+        "url": "/th?id=OHR.WinnatsPassPeak_PT-BR5887935422_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WinnatsPassPeak_PT-BR5887935422",
+        "copyright": "Winnats Pass, Parque Nacional Peak District, Inglaterra (© Daniel_Kay/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Peak+District+na+Inglaterra&form=hpcapt&mkt=pt-br",
+        "title": "Um capítulo aberto da Terra",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260918_WinnatsPassPeak%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f7c684f400f5fe290ca9293a14170b5d",
+        "hsh": "ed2b6ba17c7a633b63de0a9c7dee385f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "O asfalto que atravessa o Winnats Pass, no Peak District, é só a camada mais recente de uma história muito mais antiga. Há mais de 300 milhões de anos, este trecho do norte da Inglaterra fazia parte de um ambiente marinho tropical. Sedimentos acumulados no fundo do oceano deram origem ao calcário que hoje forma os paredões do desfiladeiro.",
+                "Image": {
+                    "Url": "/th?id=OHR.WinnatsPassPeak_PT-BR5887935422_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WinnatsPassPeak_PT-BR5887935422_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Um capítulo aberto da Terra",
+                "Title": "Winnats Pass, Parque Nacional Peak District, Inglaterra",
+                "Copyright": "© Daniel_Kay/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260918_WinnatsPassPeak\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Peak+District+na+Inglaterra&form=hpcapt&filters=HpDate:\"20260918_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260918_WinnatsPassPeak"
+            },
+            "Ssd": "20260918",
+            "Name": "WinnatsPassPeak",
+            "Market": "PT-BR",
+            "Hash": "5887935422",
+            "FullDateString": "18 set. 2026"
+        }
+    },
+    {
         "startdate": "20260917",
         "fullstartdate": "202609170300",
         "enddate": "20260918",

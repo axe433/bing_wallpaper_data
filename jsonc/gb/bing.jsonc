@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260918",
+        "fullstartdate": "202609182300",
+        "enddate": "20260919",
+        "url": "/th?id=OHR.AlphornBavaria_EN-GB8912057279_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlphornBavaria_EN-GB8912057279",
+        "copyright": "Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220260918_2300%22",
+        "title": "The Alpine sound of Oktoberfest",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260918_AlphornBavaria%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "68051143939d08551b98d031b112394c",
+        "hsh": "2f2689475a083c7a43c81f6ca058d056",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "As Oktoberfest opens today, visitors arriving in Bavaria, Germany, may hear a sound even older than the famous festival itself: the deep, resonant voice of the alphorn. This traditional Alpine instrument is closely linked to Bavaria, Austria and Switzerland, where it once helped shepherds communicate across mountain valleys.",
+                "Image": {
+                    "Url": "/th?id=OHR.AlphornBavaria_EN-GB8912057279_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AlphornBavaria_EN-GB8912057279_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "The Alpine sound of Oktoberfest",
+                "Title": "Alphorn players, Bavaria, Germany",
+                "Copyright": "© U. J. Alexander/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Oktoberfest began in 1810 as a celebration of the wedding of Bavarian Crown Prince Ludwig and Princess Therese.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260919_AlphornBavaria\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Oktoberfest&form=hpcapt&filters=HpDate:\"20260918_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260919_AlphornBavaria"
+            },
+            "Ssd": "20260919",
+            "Name": "AlphornBavaria",
+            "Market": "EN-GB",
+            "Hash": "8912057279",
+            "FullDateString": "19 Sept 2026"
+        }
+    },
+    {
         "startdate": "20260917",
         "fullstartdate": "202609172300",
         "enddate": "20260918",
