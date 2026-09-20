@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260919",
+        "fullstartdate": "202609191500",
+        "enddate": "20260920",
+        "url": "/th?id=OHR.ParisSunset_JA-JP6560235841_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ParisSunset_JA-JP6560235841",
+        "copyright": "パリ, フランス (© Alexander Spatari/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%91%E3%83%AA&form=hpcapt&filters=HpDate%3a%2220260919_1500%22",
+        "title": "夕焼けに染まるエッフェル塔",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260919_ParisSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "af919e8a336d960b98e2a695547deefb",
+        "hsh": "8ba0d05ca006ac7c3ba2d933d7621c43",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ここはフランス最大の都市パリ。そして、中央にそびえるのがエッフェル塔です。フランス革命 100 周年を記念する 1889 年のパリ万国博覧会に合わせて建設されました。塔の名前は、設計者であるギュスターヴ・エッフェルに由来します。完成当初の高さは 300m で、1930 年に米国でクライスラー・ビルディングが建設されるまでは、世界で最も高い建造物でした。現在も多くの観光客が訪れる名所として親しまれており、フランスの創造性や技術力を象徴しています。",
+                "Image": {
+                    "Url": "/th?id=OHR.ParisSunset_JA-JP6560235841_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ParisSunset_JA-JP6560235841_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "夕焼けに染まるエッフェル塔",
+                "Title": "パリ, フランス",
+                "Copyright": "© Alexander Spatari/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.856895,2.350849/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=48.856895,2.350849;S9;パリ, フランス&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260920_ParisSunset%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260920_ParisSunset\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%91%e3%83%aa&form=hpcapt&filters=HpDate:\"20260919_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260920_ParisSunset"
+            },
+            "Ssd": "20260920",
+            "Name": "ParisSunset",
+            "Market": "JA-JP",
+            "Hash": "6560235841",
+            "FullDateString": "2026 年 9月 月 20 日"
+        }
+    },
+    {
         "startdate": "20260918",
         "fullstartdate": "202609181500",
         "enddate": "20260919",

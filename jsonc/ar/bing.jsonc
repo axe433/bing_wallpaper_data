@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260919",
+        "fullstartdate": "202609190700",
+        "enddate": "20260920",
+        "url": "/th?id=OHR.Lencois_ROW1554257872_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Lencois_ROW1554257872",
+        "copyright": "Lençóis Maranhenses National Park, Brazil (© Ignacio Palacios/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lencois+Maranhenses+National+Park&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260919_Lencois%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "18bca4a453e22c492dec06f87443bca6",
+        "hsh": "b45cf7c1956f8b97349bb9216e50393d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Think you know what a desert looks like? Lençóis Maranhenses National Park might change your mind. Along Brazil's Maranhão coast, huge white dunes sit beside freshwater lagoons, creating a landscape that changes with the seasons. Established as a national park in 1981 and recognised as a UNESCO World Heritage Site in 2024, it covers more than 156,000 hectares (about 386,887 acres) and stretches along 80 kilometres of coastline. The dunes are shaped by prevailing winds, while seasonal rains collect in the hollows between them. Some lagoons last only through the wet season, while others remain year-round, including Lagoa da Esperança.",
+                "Image": {
+                    "Url": "/th?id=OHR.Lencois_ROW1554257872_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Lencois_ROW1554257872_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Lençóis Maranhenses National Park, Brazil",
+                "Copyright": "© Ignacio Palacios/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260919_Lencois\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lencois+Maranhenses+National+Park&form=hpcapt&filters=HpDate:\"20260919_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260919_Lencois"
+            },
+            "Ssd": "20260919",
+            "Name": "Lencois",
+            "Market": "ROW",
+            "Hash": "1554257872",
+            "FullDateString": "19 de sept de 2026"
+        }
+    },
+    {
         "startdate": "20260918",
         "fullstartdate": "202609180700",
         "enddate": "20260919",

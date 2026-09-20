@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260919",
+        "fullstartdate": "202609192200",
+        "enddate": "20260920",
+        "url": "/th?id=OHR.ParisSunset_DE-DE1426517976_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ParisSunset_DE-DE1426517976",
+        "copyright": "Eiffelturm bei Sonnenuntergang, Paris, Frankreich (© Alexander Spatari/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Paris&form=hpcapt&filters=HpDate%3a%2220260919_2200%22",
+        "title": "Der Turm, der Paris eroberte",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260919_ParisSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "af919e8a336d960b98e2a695547deefb",
+        "hsh": "a899ddf0385ad31cf9fc89b9c84db849",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Paris gehört zu den Städten, die Menschen auf der ganzen Welt faszinieren. Wenn die Sonne hinter dem Eiffelturm untergeht und den Himmel in warme Farben taucht, zeigt sich die französische Hauptstadt von ihrer besonders stimmungsvollen Seite. Der berühmte Turm erhebt sich über dem Champ de Mars und prägt seit mehr als einem Jahrhundert die Silhouette der Stadt.",
+                "Image": {
+                    "Url": "/th?id=OHR.ParisSunset_DE-DE1426517976_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ParisSunset_DE-DE1426517976_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Der Turm, der Paris eroberte",
+                "Title": "Eiffelturm bei Sonnenuntergang, Paris, Frankreich",
+                "Copyright": "© Alexander Spatari/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.85341,2.3488/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=48.85341,2.3488;S9;Paris, Frankreich&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260920_ParisSunset\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Paris&form=hpcapt&filters=HpDate:\"20260919_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260920_ParisSunset"
+            },
+            "Ssd": "20260920",
+            "Name": "ParisSunset",
+            "Market": "DE-DE",
+            "Hash": "1426517976",
+            "FullDateString": "20. Sept.. 2026"
+        }
+    },
+    {
         "startdate": "20260918",
         "fullstartdate": "202609182200",
         "enddate": "20260919",

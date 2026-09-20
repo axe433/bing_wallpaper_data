@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260919",
+        "fullstartdate": "202609191600",
+        "enddate": "20260920",
+        "url": "/th?id=OHR.ParisSunset_ZH-CN6050686638_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ParisSunset_ZH-CN6050686638",
+        "copyright": "日落时分的埃菲尔铁塔，巴黎，法国 (© Alexander Spatari/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%B7%B4%E9%BB%8E&form=hpcapt&mkt=zh-cn",
+        "title": "终获巴黎青睐的铁塔",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260919_ParisSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "af919e8a336d960b98e2a695547deefb",
+        "hsh": "223a4f5afd837772060bf1f172590482",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "几乎没有哪座城市像巴黎这样被赋予如此多的浪漫想象。然而，这座法国首都的历史并非始终像埃菲尔铁塔背后的落日霞光一样绚丽。铁塔为1889年世界博览会而建；这届世博会纪念法国大革命爆发一百周年，而铁塔最初计划作为博览会入口处的核心建筑。由工程师古斯塔夫·埃菲尔及其团队设计的这座钢铁地标，从战神广场拔地而起，高度接近1,000英尺，并成为当时世界上最高的建筑。",
+                "Image": {
+                    "Url": "/th?id=OHR.ParisSunset_ZH-CN6050686638_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ParisSunset_ZH-CN6050686638_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "终获巴黎青睐的铁塔",
+                "Title": "日落时分的埃菲尔铁塔，巴黎，法国",
+                "Copyright": "© Alexander Spatari/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "如今埃菲尔铁塔高330米；2022年安装一根新的数字广播天线后，塔身增高了6米。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260920_ParisSunset\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%b7%b4%e9%bb%8e&form=hpcapt&filters=HpDate:\"20260919_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260920_ParisSunset"
+            },
+            "Ssd": "20260920",
+            "Name": "ParisSunset",
+            "Market": "ZH-CN",
+            "Hash": "6050686638",
+            "FullDateString": "2026 9月 20"
+        }
+    },
+    {
         "startdate": "20260918",
         "fullstartdate": "202609181600",
         "enddate": "20260919",

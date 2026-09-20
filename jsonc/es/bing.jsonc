@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260919",
+        "fullstartdate": "202609192200",
+        "enddate": "20260920",
+        "url": "/th?id=OHR.ParisSunset_ES-ES7380438298_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ParisSunset_ES-ES7380438298",
+        "copyright": "Torre Eiffel al atardecer, París, Francia (© Alexander Spatari/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Par%C3%ADs&form=hpcapt&filters=HpDate%3a%2220260919_2200%22",
+        "title": "La torre que conquistó París",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260919_ParisSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "af919e8a336d960b98e2a695547deefb",
+        "hsh": "3f4b5ec978ad9979f7b4f4460ce230f3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La Torre Eiffel se recorta al atardecer sobre París (Francia), aunque su historia empezó con bastante peor prensa: se levantó como puerta de entrada de la Exposición Universal de 1889, que celebraba el centenario de la Revolución Francesa, y buena parte de la intelectualidad parisina la tachó de adefesio de hierro.",
+                "Image": {
+                    "Url": "/th?id=OHR.ParisSunset_ES-ES7380438298_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ParisSunset_ES-ES7380438298_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La torre que conquistó París",
+                "Title": "Torre Eiffel al atardecer, París, Francia",
+                "Copyright": "© Alexander Spatari/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.85341,2.3488/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=48.85341,2.3488;S9;París, Francia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260920_ParisSunset\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Par%c3%ads&form=hpcapt&filters=HpDate:\"20260919_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260920_ParisSunset"
+            },
+            "Ssd": "20260920",
+            "Name": "ParisSunset",
+            "Market": "ES-ES",
+            "Hash": "7380438298",
+            "FullDateString": "20 de sept de 2026"
+        }
+    },
+    {
         "startdate": "20260918",
         "fullstartdate": "202609182200",
         "enddate": "20260919",
