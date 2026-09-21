@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260920",
+        "fullstartdate": "202609200300",
+        "enddate": "20260921",
+        "url": "/th?id=OHR.ParisSunset_PT-BR5131210882_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ParisSunset_PT-BR5131210882",
+        "copyright": "Torre Eiffel ao pôr do sol, Paris, França (© Alexander Spatari/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Paris&form=hpcapt&mkt=pt-br",
+        "title": "De polêmica a cartão-postal",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260920_ParisSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "af919e8a336d960b98e2a695547deefb",
+        "hsh": "3311e8f27103566817e7fda5648ce0f8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A Torre Eiffel não nasceu como símbolo romântico. Nasceu como atração de feira e, para muita gente em Paris, era uma ideia de gosto bastante duvidoso. A torre foi construída para ser um dos grandes destaques da Exposição Universal de 1889, realizada no centenário da Revolução Francesa. Gustave Eiffel e sua equipe ergueram uma estrutura de 300 metros de altura, a construção mais alta do mundo na época.",
+                "Image": {
+                    "Url": "/th?id=OHR.ParisSunset_PT-BR5131210882_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ParisSunset_PT-BR5131210882_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "De polêmica a cartão-postal",
+                "Title": "Torre Eiffel ao pôr do sol, Paris, França",
+                "Copyright": "© Alexander Spatari/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260920_ParisSunset\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Paris&form=hpcapt&filters=HpDate:\"20260920_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260920_ParisSunset"
+            },
+            "Ssd": "20260920",
+            "Name": "ParisSunset",
+            "Market": "PT-BR",
+            "Hash": "5131210882",
+            "FullDateString": "20 set. 2026"
+        }
+    },
+    {
         "startdate": "20260919",
         "fullstartdate": "202609190300",
         "enddate": "20260920",

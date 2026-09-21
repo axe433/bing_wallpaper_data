@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260920",
+        "fullstartdate": "202609200700",
+        "enddate": "20260921",
+        "url": "/th?id=OHR.ParisSunset_ROW1775373883_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ParisSunset_ROW1775373883",
+        "copyright": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Paris&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260920_ParisSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "af919e8a336d960b98e2a695547deefb",
+        "hsh": "e3ec9abe9ae8b74c43affcbc65d9cac9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "No other city is nearly as romanticised as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centrepiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose 300 metres above the Champ de Mars and became the tallest structure in the world at the time.",
+                "Image": {
+                    "Url": "/th?id=OHR.ParisSunset_ROW1775373883_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ParisSunset_ROW1775373883_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Eiffel Tower at sunset, Paris, France",
+                "Copyright": "© Alexander Spatari/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260920_ParisSunset\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Paris&form=hpcapt&filters=HpDate:\"20260920_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260920_ParisSunset"
+            },
+            "Ssd": "20260920",
+            "Name": "ParisSunset",
+            "Market": "ROW",
+            "Hash": "1775373883",
+            "FullDateString": "20 Sept 2026"
+        }
+    },
+    {
         "startdate": "20260919",
         "fullstartdate": "202609190700",
         "enddate": "20260920",

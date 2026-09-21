@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260920",
+        "fullstartdate": "202609202200",
+        "enddate": "20260921",
+        "url": "/th?id=OHR.GroomingOtter_IT-IT7662965878_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GroomingOtter_IT-IT7662965878",
+        "copyright": "Lontra marina, baia di Monterey, California, USA (© Suzi Eszterhas/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Lontra+marina&form=hpcapt",
+        "title": "Vita tra pelliccia e mare",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260920_GroomingOtter%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9ffcd9436c72df8996a5bbfe20aed7c3",
+        "hsh": "e715fbc06c0a13d74d131d0dafeb7a30",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Una lontra marina si liscia il pelo nella baia di Monterey, in California (USA), e non lo fa per vanità. A differenza di foche e balene ha pochissimo grasso isolante: sopravvive grazie alla pelliccia più densa del regno animale e trattiene il calore solo se la pulisce e la aera continuamente, intrappolando bollicine d'aria che formano uno strato impermeabile.",
+                "Image": {
+                    "Url": "/th?id=OHR.GroomingOtter_IT-IT7662965878_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GroomingOtter_IT-IT7662965878_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Vita tra pelliccia e mare",
+                "Title": "Lontra marina, baia di Monterey, California, USA",
+                "Copyright": "© Suzi Eszterhas/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.800739,-121.947311/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=36.800739,-121.947311;S9;Baia di Monterey, California, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260921_GroomingOtter\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lontra+marina&form=hpcapt&filters=HpDate:\"20260920_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260921_GroomingOtter"
+            },
+            "Ssd": "20260921",
+            "Name": "GroomingOtter",
+            "Market": "IT-IT",
+            "Hash": "7662965878",
+            "FullDateString": "21 settembre 2026"
+        }
+    },
+    {
         "startdate": "20260919",
         "fullstartdate": "202609192200",
         "enddate": "20260920",

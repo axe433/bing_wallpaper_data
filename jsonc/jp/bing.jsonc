@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260920",
+        "fullstartdate": "202609201500",
+        "enddate": "20260921",
+        "url": "/th?id=OHR.GroomingOtter_JA-JP7012183872_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GroomingOtter_JA-JP7012183872",
+        "copyright": "ラッコ, 米国 カリフォルニア州 (© Suzi Eszterhas/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%A9%E3%83%83%E3%82%B3%E5%95%93%E8%92%99%E9%80%B1%E9%96%93&form=hpcapt&filters=HpDate%3a%2220260920_1500%22",
+        "title": "今週はラッコ啓蒙週間",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260920_GroomingOtter%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9ffcd9436c72df8996a5bbfe20aed7c3",
+        "hsh": "e7d28dd5436df425e482182d8598dd2c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日の画像は、米国カリフォルニア州のモントレー湾で毛づくろいをするラッコ。アザラシやクジラは、皮下脂肪によって海でも体温を保ちますが、ラッコには皮下脂肪がほとんどありません。その代わり、全身を約 8 億本もの体毛が覆っており、その密な体毛の間に空気の層を作ることで、体温を保っています。かつては毛皮目的の乱獲によって個体数が大きく減少しましたが、保護活動によって徐々に回復しています。",
+                "Image": {
+                    "Url": "/th?id=OHR.GroomingOtter_JA-JP7012183872_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GroomingOtter_JA-JP7012183872_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "今週はラッコ啓蒙週間",
+                "Title": "ラッコ, 米国 カリフォルニア州",
+                "Copyright": "© Suzi Eszterhas/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.800739,-121.947311/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=36.800739,-121.947311;S9;モントレー湾, 米国 カリフォルニア州&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260921_GroomingOtter%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260921_GroomingOtter\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%a9%e3%83%83%e3%82%b3%e5%95%93%e8%92%99%e9%80%b1%e9%96%93&form=hpcapt&filters=HpDate:\"20260920_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260921_GroomingOtter"
+            },
+            "Ssd": "20260921",
+            "Name": "GroomingOtter",
+            "Market": "JA-JP",
+            "Hash": "7012183872",
+            "FullDateString": "2026 年 9月 月 21 日"
+        }
+    },
+    {
         "startdate": "20260919",
         "fullstartdate": "202609191500",
         "enddate": "20260920",

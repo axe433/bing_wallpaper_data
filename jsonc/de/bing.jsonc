@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260920",
+        "fullstartdate": "202609202200",
+        "enddate": "20260921",
+        "url": "/th?id=OHR.GroomingOtter_DE-DE1586162162_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GroomingOtter_DE-DE1586162162",
+        "copyright": "Seeotter bei der Fellpflege, Monterey Bay, Kalifornien, USA (© Suzi Eszterhas/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Seeotter&form=hpcapt&filters=HpDate%3a%2220260920_2200%22",
+        "title": "Leben zwischen Fell und Meer",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260920_GroomingOtter%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9ffcd9436c72df8996a5bbfe20aed7c3",
+        "hsh": "9ae01894c6e85324b15758ca88abadc0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Seeotter verbringen einen großen Teil ihres Lebens im Wasser und widmen viele Stunden täglich der sorgfältigen Fellpflege. In der Monterey Bay im US-Bundesstaat Kalifornien kann man diese geschickten Meeressäuger oft beobachten, wie sie auf dem Rücken treiben und ihr dichtes Fell reinigen. Dabei streifen, kämmen und lockern sie die Haare mit ihren Pfoten, damit Luft zwischen den Fellschichten eingeschlossen bleibt. Dieser natürliche Schutz ist lebenswichtig, denn Seeotter besitzen keine isolierende Fettschicht wie viele andere Meeressäuger.",
+                "Image": {
+                    "Url": "/th?id=OHR.GroomingOtter_DE-DE1586162162_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GroomingOtter_DE-DE1586162162_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Leben zwischen Fell und Meer",
+                "Title": "Seeotter bei der Fellpflege, Monterey Bay, Kalifornien, USA",
+                "Copyright": "© Suzi Eszterhas/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.800739,-121.947311/2?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=36.800739,-121.947311;S9;Monterey Bay, Kalifornien, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260921_GroomingOtter\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Seeotter&form=hpcapt&filters=HpDate:\"20260920_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260921_GroomingOtter"
+            },
+            "Ssd": "20260921",
+            "Name": "GroomingOtter",
+            "Market": "DE-DE",
+            "Hash": "1586162162",
+            "FullDateString": "21. Sept.. 2026"
+        }
+    },
+    {
         "startdate": "20260919",
         "fullstartdate": "202609192200",
         "enddate": "20260920",
