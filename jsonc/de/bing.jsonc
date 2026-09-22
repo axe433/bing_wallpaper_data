@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260921",
+        "fullstartdate": "202609212200",
+        "enddate": "20260922",
+        "url": "/th?id=OHR.TolkienWeek_DE-DE1744424672_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TolkienWeek_DE-DE1744424672",
+        "copyright": "Hobbit-Haus am Filmset von Hobbiton, Matamata, Neuseeland (© djr-photography/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Hobbit-Tag&form=hpcapt&filters=HpDate%3a%2220260921_2200%22",
+        "title": "Willkommen in Hobbiton",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260921_TolkienWeek%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "29b3b1b00f568075b22229d8183719c0",
+        "hsh": "36b71b854a7748d3c41a58a6a50b6f48",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Heute wird der Hobbit-Tag gefeiert, ein Anlass, der Fans von J. R. R. Tolkien auf der ganzen Welt zusammenbringt. Kaum ein Ort verkörpert die Magie seiner Geschichten so eindrucksvoll wie das Hobbit-Haus am Filmset von Hobbiton in Matamata. Eingebettet in die sanften Hügel Neuseelands wirkt die Kulisse, als wäre sie direkt aus den Seiten eines Fantasyromans in die Wirklichkeit versetzt worden.",
+                "Image": {
+                    "Url": "/th?id=OHR.TolkienWeek_DE-DE1744424672_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TolkienWeek_DE-DE1744424672_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Willkommen in Hobbiton",
+                "Title": "Hobbit-Haus am Filmset von Hobbiton, Matamata, Neuseeland",
+                "Copyright": "© djr-photography/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-37.8721,175.682907/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=-37.8721,175.682907;S9;Filmset von Hobbiton, Matamata, Neuseeland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260922_TolkienWeek\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hobbit-Tag&form=hpcapt&filters=HpDate:\"20260921_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260922_TolkienWeek"
+            },
+            "Ssd": "20260922",
+            "Name": "TolkienWeek",
+            "Market": "DE-DE",
+            "Hash": "1744424672",
+            "FullDateString": "22. Sept.. 2026"
+        }
+    },
+    {
         "startdate": "20260920",
         "fullstartdate": "202609202200",
         "enddate": "20260921",

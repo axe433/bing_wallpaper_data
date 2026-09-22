@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260921",
+        "fullstartdate": "202609210700",
+        "enddate": "20260922",
+        "url": "/th?id=OHR.GroomingOtter_EN-US6710084372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GroomingOtter_EN-US6710084372",
+        "copyright": "Sea otter grooming fur, Monterey Bay, California (© Suzi Eszterhas/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=sea+otter+awareness+week&form=hpcapt&filters=HpDate%3a%2220260921_0700%22",
+        "title": "Life between fur and sea",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260921_GroomingOtter%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9ffcd9436c72df8996a5bbfe20aed7c3",
+        "hsh": "5dcff995bfcc7730941f080d61e4668f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Few animals can claim to be both expert groomers and guardians of underwater forests. That's why Sea Otter Awareness Week, held each year during the last full week of September, encourages people to discover more about these remarkable marine mammals and the challenges they face.",
+                "Image": {
+                    "Url": "/th?id=OHR.GroomingOtter_EN-US6710084372_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GroomingOtter_EN-US6710084372_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Life between fur and sea",
+                "Title": "Sea otter grooming fur, Monterey Bay, California",
+                "Copyright": "© Suzi Eszterhas/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.800739,-121.947311/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=36.800739,-121.947311;S9;Monterey Bay, California&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260921_GroomingOtter\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=sea+otter+awareness+week&form=hpcapt&filters=HpDate:\"20260921_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260921_GroomingOtter"
+            },
+            "Ssd": "20260921",
+            "Name": "GroomingOtter",
+            "Market": "EN-US",
+            "Hash": "6710084372",
+            "FullDateString": "Sep 21, 2026"
+        }
+    },
+    {
         "startdate": "20260920",
         "fullstartdate": "202609200700",
         "enddate": "20260921",

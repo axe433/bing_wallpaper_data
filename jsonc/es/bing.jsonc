@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260921",
+        "fullstartdate": "202609212200",
+        "enddate": "20260922",
+        "url": "/th?id=OHR.TolkienWeek_ES-ES8577009856_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TolkienWeek_ES-ES8577009856",
+        "copyright": "Casa de Hobbit en el decorado de películas de Hobbiton, Matamata, Nueva Zelanda (© djr-photography/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Hobbiton&form=hpcapt&filters=HpDate%3a%2220260921_2200%22",
+        "title": "Donde lo pequeño se hace grande",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260921_TolkienWeek%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "29b3b1b00f568075b22229d8183719c0",
+        "hsh": "c404e8bebe93ff05236e55aaae7bbefe",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Casi todos los lugares célebres los construyó la historia; este lo construyó un relato. El decorado de Hobbiton está en Matamata (Nueva Zelanda), sobre una granja de ovejas que en 1998 llamó la atención de los localizadores de El Señor de los Anillos: las colinas ya parecían la Comarca y solo faltaron puertas redondas, huertos ordenados y chimeneas humeantes.",
+                "Image": {
+                    "Url": "/th?id=OHR.TolkienWeek_ES-ES8577009856_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TolkienWeek_ES-ES8577009856_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Donde lo pequeño se hace grande",
+                "Title": "Casa de Hobbit en el decorado de películas de Hobbiton, Matamata, Nueva Zelanda",
+                "Copyright": "© djr-photography/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-37.8721,175.682907/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=-37.8721,175.682907;S9;Decorado de películas de Hobbiton, Matamata, Nueva Zelanda&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260922_TolkienWeek\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hobbiton&form=hpcapt&filters=HpDate:\"20260921_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260922_TolkienWeek"
+            },
+            "Ssd": "20260922",
+            "Name": "TolkienWeek",
+            "Market": "ES-ES",
+            "Hash": "8577009856",
+            "FullDateString": "22 de sept de 2026"
+        }
+    },
+    {
         "startdate": "20260920",
         "fullstartdate": "202609202200",
         "enddate": "20260921",

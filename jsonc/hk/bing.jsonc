@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260921",
+        "fullstartdate": "202609210700",
+        "enddate": "20260922",
+        "url": "/th?id=OHR.GroomingOtter_ROW2104979669_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GroomingOtter_ROW2104979669",
+        "copyright": "Sea otter grooming fur, Monterey Bay, California, United States (© Suzi Eszterhas/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Sea+otter&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260921_GroomingOtter%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9ffcd9436c72df8996a5bbfe20aed7c3",
+        "hsh": "916b3f146f8ec873bdf61f7bf53c6185",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Few animals are as closely tied to the health of coastal ecosystems as the sea otter. In today's image, one grooms its fur in Monterey Bay, California, USA. This behaviour is far more than a daily ritual. Unlike seals and whales, sea otters have little insulating blubber, so they rely on the densest fur of any animal. Careful cleaning traps air within their coat, creating a waterproof layer that helps them stay warm in the cold Pacific.",
+                "Image": {
+                    "Url": "/th?id=OHR.GroomingOtter_ROW2104979669_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GroomingOtter_ROW2104979669_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Sea otter grooming fur, Monterey Bay, California, United States",
+                "Copyright": "© Suzi Eszterhas/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260921_GroomingOtter\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Sea+otter&form=hpcapt&filters=HpDate:\"20260921_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260921_GroomingOtter"
+            },
+            "Ssd": "20260921",
+            "Name": "GroomingOtter",
+            "Market": "ROW",
+            "Hash": "2104979669",
+            "FullDateString": "2026 年 9月 月 21 日"
+        }
+    },
+    {
         "startdate": "20260920",
         "fullstartdate": "202609200700",
         "enddate": "20260921",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260921",
+        "fullstartdate": "202609210300",
+        "enddate": "20260922",
+        "url": "/th?id=OHR.GroomingOtter_PT-BR4986034219_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GroomingOtter_PT-BR4986034219",
+        "copyright": "Lontra-marinha na Baía de Monterey, Califórnia, EUA (© Suzi Eszterhas/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=lontra+marinha&form=hpcapt&mkt=pt-br",
+        "title": "A pequena guardiã dos oceanos",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260921_GroomingOtter%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9ffcd9436c72df8996a5bbfe20aed7c3",
+        "hsh": "ff7eac92a45d81c3d29a71d6deaea99a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Parece que esta lontra-marinha em Monterey Bay, na Califórnia, está só cuidando do visual… Mas está fazendo a manutenção de um dos seus equipamentos mais importantes. Ao contrário de focas e baleias, ela não conta com uma espessa camada de gordura para conservar o calor. Em compensação, tem a pelagem mais densa de qualquer mamífero. Ao se pentear, espalha óleos naturais e prende ar entre os fios, criando uma barreira contra a água gelada do Pacífico.",
+                "Image": {
+                    "Url": "/th?id=OHR.GroomingOtter_PT-BR4986034219_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GroomingOtter_PT-BR4986034219_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A pequena guardiã dos oceanos",
+                "Title": "Lontra-marinha na Baía de Monterey, Califórnia, EUA",
+                "Copyright": "© Suzi Eszterhas/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260921_GroomingOtter\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=lontra+marinha&form=hpcapt&filters=HpDate:\"20260921_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260921_GroomingOtter"
+            },
+            "Ssd": "20260921",
+            "Name": "GroomingOtter",
+            "Market": "PT-BR",
+            "Hash": "4986034219",
+            "FullDateString": "21 set. 2026"
+        }
+    },
+    {
         "startdate": "20260920",
         "fullstartdate": "202609200300",
         "enddate": "20260921",
