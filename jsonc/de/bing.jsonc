@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260922",
+        "fullstartdate": "202609222200",
+        "enddate": "20260923",
+        "url": "/th?id=OHR.FallAspens_DE-DE1894805045_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FallAspens_DE-DE1894805045",
+        "copyright": "Herbstliche Espen nahe dem Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=September-Tagundnachtgleiche&form=hpcapt&filters=HpDate%3a%2220260922_2200%22",
+        "title": "Die goldene Jahreszeit",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260922_FallAspens%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c50362ac26ee08ea87d83d76a23c8102",
+        "hsh": "1cd0f4539b97b5c43c058049dfc0ef5f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Die September-Tagundnachtgleiche markiert in Deutschland den astronomischen Beginn des Herbstes. An diesem Tag stehen Tag und Nacht nahezu im Gleichgewicht, bevor die Nächte wieder länger werden. Seit Jahrhunderten gilt dieser Zeitpunkt als Wendepunkt im Jahreslauf. Die Natur bereitet sich auf die kalte Jahreszeit vor und vielerorts beginnt die Landschaft ihr herbstliches Farbenspiel.",
+                "Image": {
+                    "Url": "/th?id=OHR.FallAspens_DE-DE1894805045_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FallAspens_DE-DE1894805045_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Die goldene Jahreszeit",
+                "Title": "Herbstliche Espen nahe dem Guardsman Pass, Utah, USA",
+                "Copyright": "© Danita Delimont/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Nur während der Tagundnachtgleichen werden der Nord- und der Südpol gleichzeitig vom Sonnenlicht beleuchtet.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260923_FallAspens\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=September-Tagundnachtgleiche&form=hpcapt&filters=HpDate:\"20260922_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260923_FallAspens"
+            },
+            "Ssd": "20260923",
+            "Name": "FallAspens",
+            "Market": "DE-DE",
+            "Hash": "1894805045",
+            "FullDateString": "23. Sept.. 2026"
+        }
+    },
+    {
         "startdate": "20260921",
         "fullstartdate": "202609212200",
         "enddate": "20260922",

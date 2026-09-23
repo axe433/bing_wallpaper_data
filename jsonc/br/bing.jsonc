@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260922",
+        "fullstartdate": "202609220300",
+        "enddate": "20260923",
+        "url": "/th?id=OHR.FallAspens_PT-BR3565559044_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FallAspens_PT-BR3565559044",
+        "copyright": "Álamos perto do Guardsman Pass, Utah, Estados Unidos (© Danita Delimont/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=equinocio+setembro&form=hpcapt&mkt=pt-br",
+        "title": "O ponto de equilíbrio",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260922_FallAspens%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c50362ac26ee08ea87d83d76a23c8102",
+        "hsh": "a7f3c91040203c143f0981f86fb4e908",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "O equinócio é uma espécie de troca de turno planetária. Hoje, o Sol cruza o equador celeste, a linha imaginária que prolonga o equador da Terra pelo céu, rumo ao sul, deixando os dois hemisférios com períodos de luz e escuridão quase equilibrados. A partir daqui, o Hemisfério Sul entra na primavera, com dias cada vez mais longos, enquanto o Norte segue para o outono, com dias mais curtos.",
+                "Image": {
+                    "Url": "/th?id=OHR.FallAspens_PT-BR3565559044_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FallAspens_PT-BR3565559044_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O ponto de equilíbrio",
+                "Title": "Álamos perto do Guardsman Pass, Utah, Estados Unidos",
+                "Copyright": "© Danita Delimont/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260922_FallAspens\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=equinocio+setembro&form=hpcapt&filters=HpDate:\"20260922_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260922_FallAspens"
+            },
+            "Ssd": "20260922",
+            "Name": "FallAspens",
+            "Market": "PT-BR",
+            "Hash": "3565559044",
+            "FullDateString": "22 set. 2026"
+        }
+    },
+    {
         "startdate": "20260921",
         "fullstartdate": "202609210300",
         "enddate": "20260922",

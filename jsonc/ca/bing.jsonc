@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260922",
+        "fullstartdate": "202609220400",
+        "enddate": "20260923",
+        "url": "/th?id=OHR.FallAspens_EN-CA6568286298_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FallAspens_EN-CA6568286298",
+        "copyright": "Fall aspen trees near Guardsman Pass, Utah, United States (© Danita Delimont/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=September+equinox&form=hpcapt&filters=HpDate%3a%2220260922_0400%22",
+        "title": "The golden season",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260922_FallAspens%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c50362ac26ee08ea87d83d76a23c8102",
+        "hsh": "ce4c81c5334e5d3b0c5fbb694c4c1692",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "The autumn equinox marks a turning point in the Northern Hemisphere. Occurring each September, it is the moment when the sun crosses the equator heading south, and day and night are nearly equal in length. After this celestial balance, daylight gradually shrinks as the journey towards winter begins.",
+                "Image": {
+                    "Url": "/th?id=OHR.FallAspens_EN-CA6568286298_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FallAspens_EN-CA6568286298_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "The golden season",
+                "Title": "Fall aspen trees near Guardsman Pass, Utah, United States",
+                "Copyright": "© Danita Delimont/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "The North and South Poles are illuminated by sunlight at the same time only during the equinoxes.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260922_FallAspens\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=September+equinox&form=hpcapt&filters=HpDate:\"20260922_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260922_FallAspens"
+            },
+            "Ssd": "20260922",
+            "Name": "FallAspens",
+            "Market": "EN-CA",
+            "Hash": "6568286298",
+            "FullDateString": "Sep 22, 2026"
+        }
+    },
+    {
         "startdate": "20260921",
         "fullstartdate": "202609210400",
         "enddate": "20260922",

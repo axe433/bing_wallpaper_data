@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260922",
+        "fullstartdate": "202609222200",
+        "enddate": "20260923",
+        "url": "/th?id=OHR.FallAspens_FR-FR8326000854_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FallAspens_FR-FR8326000854",
+        "copyright": "Peupliers faux-trembles près du col de Guardsman Pass, Utah, États-Unis (© Danita Delimont/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%C3%A9quinoxe+de+septembre&form=hpcapt&filters=HpDate%3a%2220260922_2200%22",
+        "title": "La saison dorée",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260922_FallAspens%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c50362ac26ee08ea87d83d76a23c8102",
+        "hsh": "cf62d59dc43656d31a12ca91ae3ffcac",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Chaque année, vers la fin de septembre, l’équinoxe d’automne marque un subtil basculement dans l’hémisphère Nord. Le Soleil semble alors franchir l’équateur céleste vers le sud et le jour s’accorde presque à la nuit. Cet instant d’équilibre annonce la lente diminution de la lumière et l’approche progressive de l’hiver.",
+                "Image": {
+                    "Url": "/th?id=OHR.FallAspens_FR-FR8326000854_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FallAspens_FR-FR8326000854_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La saison dorée",
+                "Title": "Peupliers faux-trembles près du col de Guardsman Pass, Utah, États-Unis",
+                "Copyright": "© Danita Delimont/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Lors des équinoxes, le Soleil se trouve approximativement sur l’horizon aux pôles Nord et Sud.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260923_FallAspens\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%c3%a9quinoxe+de+septembre&form=hpcapt&filters=HpDate:\"20260922_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260923_FallAspens"
+            },
+            "Ssd": "20260923",
+            "Name": "FallAspens",
+            "Market": "FR-FR",
+            "Hash": "8326000854",
+            "FullDateString": "23 sept. 2026"
+        }
+    },
+    {
         "startdate": "20260921",
         "fullstartdate": "202609212200",
         "enddate": "20260922",

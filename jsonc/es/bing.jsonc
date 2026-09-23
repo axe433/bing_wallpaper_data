@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260922",
+        "fullstartdate": "202609222200",
+        "enddate": "20260923",
+        "url": "/th?id=OHR.FallAspens_ES-ES8557164613_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FallAspens_ES-ES8557164613",
+        "copyright": "Álamos de otoño cerca de Guardsman Pass, Utah, EE. UU. (© Danita Delimont/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Equinoccio+de+oto%C3%B1o&form=hpcapt&filters=HpDate%3a%2220260922_2200%22",
+        "title": "La estación dorada",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260922_FallAspens%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c50362ac26ee08ea87d83d76a23c8102",
+        "hsh": "d5803cf3d906ce813ffe0709a0e30655",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Los álamos temblones tiñen de oro las laderas próximas a Guardsman Pass, en Utah (EE. UU.), justo cuando el hemisferio norte estrena estación. El otoño ha entrado en España esta madrugada, a las 02:05 en hora peninsular, según el Observatorio Astronómico Nacional: el Sol cruza el ecuador celeste rumbo al sur y el día y la noche pasan a durar casi lo mismo.",
+                "Image": {
+                    "Url": "/th?id=OHR.FallAspens_ES-ES8557164613_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FallAspens_ES-ES8557164613_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La estación dorada",
+                "Title": "Álamos de otoño cerca de Guardsman Pass, Utah, EE. UU.",
+                "Copyright": "© Danita Delimont/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260923_FallAspens\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Equinoccio+de+oto%c3%b1o&form=hpcapt&filters=HpDate:\"20260922_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260923_FallAspens"
+            },
+            "Ssd": "20260923",
+            "Name": "FallAspens",
+            "Market": "ES-ES",
+            "Hash": "8557164613",
+            "FullDateString": "23 de sept de 2026"
+        }
+    },
+    {
         "startdate": "20260921",
         "fullstartdate": "202609212200",
         "enddate": "20260922",
