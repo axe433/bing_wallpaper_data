@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260923",
+        "fullstartdate": "202609230300",
+        "enddate": "20260924",
+        "url": "/th?id=OHR.SpringTree_PT-BR3107057910_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpringTree_PT-BR3107057910",
+        "copyright": "Ipê-amarelo florido contra o céu azul (© Rogerio Peccioli/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=a+primavera&form=hpcapt&mkt=pt-br",
+        "title": "A estação em flor",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260923_SpringTree%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "caf942a2dae798f1014ba14675f94700",
+        "hsh": "c7e5c4521d6c6d089d8e1b702abb84cc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Enquanto muitas árvores ainda parecem indecisas sobre a mudança de estação, o ipê simplesmente larga suas folhas e se cobre de flores. De um dia para o outro, ruas, praças e estradas recebem uma camada extra de saturação. Nada de filtro: é só botânica.",
+                "Image": {
+                    "Url": "/th?id=OHR.SpringTree_PT-BR3107057910_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SpringTree_PT-BR3107057910_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A estação em flor",
+                "Title": "Ipê-amarelo florido contra o céu azul",
+                "Copyright": "© Rogerio Peccioli/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260923_SpringTree\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=a+primavera&form=hpcapt&filters=HpDate:\"20260923_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260923_SpringTree"
+            },
+            "Ssd": "20260923",
+            "Name": "SpringTree",
+            "Market": "PT-BR",
+            "Hash": "3107057910",
+            "FullDateString": "23 set. 2026"
+        }
+    },
+    {
         "startdate": "20260922",
         "fullstartdate": "202609220300",
         "enddate": "20260923",

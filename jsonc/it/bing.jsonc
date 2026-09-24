@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260923",
+        "fullstartdate": "202609232200",
+        "enddate": "20260924",
+        "url": "/th?id=OHR.ElGolfo_IT-IT8270823745_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ElGolfo_IT-IT8270823745",
+        "copyright": "Vista aerea della spiaggia di lava nera, El Golfo, Lanzarote, Isole Canarie, Spagna (© Westend61/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Lanzarote+Spagna&form=hpcapt",
+        "title": "Cenere incontra splash",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260923_ElGolfo%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "426ac1fcbc07dac2515e9ec2c5eb5862",
+        "hsh": "7b5dbdeeff5ba587017446c0cb48f6e9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A El Golfo, sulla costa occidentale di Lanzarote (Isole Canarie, Spagna), la geologia ha perso ogni misura: sabbia nera, falesie striate di ocra e ruggine e l'Atlantico che non smette mai. Il paese è una manciata di case bianche che vivono di pesca e di pesce fresco.",
+                "Image": {
+                    "Url": "/th?id=OHR.ElGolfo_IT-IT8270823745_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ElGolfo_IT-IT8270823745_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Cenere incontra splash",
+                "Title": "Vista aerea della spiaggia di lava nera, El Golfo, Lanzarote, Isole Canarie, Spagna",
+                "Copyright": "© Westend61/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/28.978999,-13.829368/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=28.978999,-13.829368;S9;El Golfo, Lanzarote, Isole Canarie, Spagna&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260924_ElGolfo\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lanzarote+Spagna&form=hpcapt&filters=HpDate:\"20260923_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260924_ElGolfo"
+            },
+            "Ssd": "20260924",
+            "Name": "ElGolfo",
+            "Market": "IT-IT",
+            "Hash": "8270823745",
+            "FullDateString": "24 settembre 2026"
+        }
+    },
+    {
         "startdate": "20260922",
         "fullstartdate": "202609222200",
         "enddate": "20260923",

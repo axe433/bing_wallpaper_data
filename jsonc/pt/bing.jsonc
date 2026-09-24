@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260923",
+        "fullstartdate": "202609230700",
+        "enddate": "20260924",
+        "url": "/th?id=OHR.TolkienWeek_ROW2596246369_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TolkienWeek_ROW2596246369",
+        "copyright": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Hobbiton+Movie+Set&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260923_TolkienWeek%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "29b3b1b00f568075b22229d8183719c0",
+        "hsh": "4e8f87f06de86ce2ba6cf1e49abf4657",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A round door, a bright green frame and a hillside that looks straight out of Middle-earth—welcome to Hobbiton Movie Set in Matamata, New Zealand. Built in 1999 for 'The Lord of the Rings,' the original set featured 39 temporary Hobbit Holes across a 4.9-hectare site. After filming ended, the set was dismantled, but it returned in 2009 for 'The Hobbit' films and was rebuilt as a permanent attraction.",
+                "Image": {
+                    "Url": "/th?id=OHR.TolkienWeek_ROW2596246369_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TolkienWeek_ROW2596246369_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand",
+                "Copyright": "© djr-photography/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260923_TolkienWeek\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hobbiton+Movie+Set&form=hpcapt&filters=HpDate:\"20260923_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260923_TolkienWeek"
+            },
+            "Ssd": "20260923",
+            "Name": "TolkienWeek",
+            "Market": "ROW",
+            "Hash": "2596246369",
+            "FullDateString": "23 set. 2026"
+        }
+    },
+    {
         "startdate": "20260922",
         "fullstartdate": "202609220700",
         "enddate": "20260923",

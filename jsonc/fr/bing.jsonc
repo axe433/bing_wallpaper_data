@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260923",
+        "fullstartdate": "202609232200",
+        "enddate": "20260924",
+        "url": "/th?id=OHR.ElGolfo_FR-FR8422872224_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ElGolfo_FR-FR8422872224",
+        "copyright": "Vue aérienne de la plage de sable noir El Golfo, Lanzarote, Îles Canaries, Espagne (© Westend61/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Lanzarote+Espagne&form=hpcapt&filters=HpDate%3a%2220260923_2200%22",
+        "title": "Le dialogue entre vagues et cendres",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260923_ElGolfo%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "426ac1fcbc07dac2515e9ec2c5eb5862",
+        "hsh": "41202a87abe1403c75ad910adeaa7c32",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "À Lanzarote, dans l’archipel espagnol des Canaries, la nature semble avoir laissé libre cours à son imagination. Sur la côte ouest, le sable noir rejoint l’Atlantique au pied de falaises teintées d’ocre et de rouille, façonnées par une ancienne activité volcanique. L’un des épisodes les plus marquants s’est déroulé entre 1730 et 1736, lorsque de multiples fissures se sont ouvertes à travers l’île. Les coulées de lave ont recouvert des dizaines de kilomètres carrés, ensevelissant routes, hameaux et terres cultivées tout en redessinant durablement le paysage.",
+                "Image": {
+                    "Url": "/th?id=OHR.ElGolfo_FR-FR8422872224_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ElGolfo_FR-FR8422872224_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Le dialogue entre vagues et cendres",
+                "Title": "Vue aérienne de la plage de sable noir El Golfo, Lanzarote, Îles Canaries, Espagne",
+                "Copyright": "© Westend61/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/28.978999,-13.829368/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=28.978999,-13.829368;S9;El Golfo, Lanzarote, Îles Canaries, Espagne&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260924_ElGolfo\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lanzarote+Espagne&form=hpcapt&filters=HpDate:\"20260923_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260924_ElGolfo"
+            },
+            "Ssd": "20260924",
+            "Name": "ElGolfo",
+            "Market": "FR-FR",
+            "Hash": "8422872224",
+            "FullDateString": "24 sept. 2026"
+        }
+    },
+    {
         "startdate": "20260922",
         "fullstartdate": "202609222200",
         "enddate": "20260923",

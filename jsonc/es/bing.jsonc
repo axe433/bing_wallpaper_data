@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260923",
+        "fullstartdate": "202609232200",
+        "enddate": "20260924",
+        "url": "/th?id=OHR.FiestaMerceBarcelona_ES-ES7742458972_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FiestaMerceBarcelona_ES-ES7742458972",
+        "copyright": "Vista del Parque Güell en Barcelona, Cataluña, España (© Vershinin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=La+Merc%C3%A8&form=hpcapt&filters=HpDate%3a%2220260923_2200%22",
+        "title": "La ciudad está de fiesta",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260923_FiestaMerceBarcelona%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bf3fe2dc93eb777fc2d13d8570d497c0",
+        "hsh": "da30798da7157ab3adc0e30787cafb8e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Hoy Barcelona (Cataluña, España) celebra a su patrona y se echa a la calle: es el día de la Mercè, festivo en la ciudad y punto álgido de una fiesta mayor que desde 1871 despide el verano con un programa desplegado por plazas, calles y playas.",
+                "Image": {
+                    "Url": "/th?id=OHR.FiestaMerceBarcelona_ES-ES7742458972_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FiestaMerceBarcelona_ES-ES7742458972_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La ciudad está de fiesta",
+                "Title": "Vista del Parque Güell en Barcelona, Cataluña, España",
+                "Copyright": "© Vershinin/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.414782,2.152882/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=41.414782,2.152882;S9;Parque Güell, Barcelona, España&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260924_FiestaMerceBarcelona\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=La+Merc%c3%a8&form=hpcapt&filters=HpDate:\"20260923_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260924_FiestaMerceBarcelona"
+            },
+            "Ssd": "20260924",
+            "Name": "FiestaMerceBarcelona",
+            "Market": "ES-ES",
+            "Hash": "7742458972",
+            "FullDateString": "24 de sept de 2026"
+        }
+    },
+    {
         "startdate": "20260922",
         "fullstartdate": "202609222200",
         "enddate": "20260923",
