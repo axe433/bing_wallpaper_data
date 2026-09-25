@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260924",
+        "fullstartdate": "202609242200",
+        "enddate": "20260925",
+        "url": "/th?id=OHR.MidAutumn2026_FR-FR8607088238_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MidAutumn2026_FR-FR8607088238",
+        "copyright": "Lanternes chinoises lors de la Fête de la Mi-Automne (© LeeYiuTung/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=F%C3%AAte+de+la+Mi-Automne&form=hpcapt&filters=HpDate%3a%2220260924_2200%22",
+        "title": "Quand la lune est de la partie",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260924_MidAutumn2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4c5cf614d69aa9dd4da9b1215ed05e98",
+        "hsh": "ebbba634b245e4d015bf19b385428514",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Et si la pleine lune était l’invitée d’honneur d’un repas familial ? Voici l’esprit de la Fête de la Mi-Automne, ou Fête de la Lune, célébrée le quinzième jour du huitième mois lunaire. Comptant parmi les grandes traditions chinoises, elle plonge ses racines il y a plus de trois millénaires, jusqu’aux rituels de la dynastie Zhou. À la tombée du soir, les récits de Chang’e, qui aurait bu un élixir d’immortalité avant de rejoindre la lune, continuent de nourrir l’imaginaire collectif.",
+                "Image": {
+                    "Url": "/th?id=OHR.MidAutumn2026_FR-FR8607088238_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MidAutumn2026_FR-FR8607088238_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Quand la lune est de la partie",
+                "Title": "Lanternes chinoises lors de la Fête de la Mi-Automne",
+                "Copyright": "© LeeYiuTung/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "En Chine, le plus gros gâteau de la Lune jamais préparé pesait près de 13 tonnes et mesurait près de 8 mètres de large.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260925_MidAutumn2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=F%c3%aate+de+la+Mi-Automne&form=hpcapt&filters=HpDate:\"20260924_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260925_MidAutumn2026"
+            },
+            "Ssd": "20260925",
+            "Name": "MidAutumn2026",
+            "Market": "FR-FR",
+            "Hash": "8607088238",
+            "FullDateString": "25 sept. 2026"
+        }
+    },
+    {
         "startdate": "20260923",
         "fullstartdate": "202609232200",
         "enddate": "20260924",

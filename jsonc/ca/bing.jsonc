@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260924",
+        "fullstartdate": "202609240400",
+        "enddate": "20260925",
+        "url": "/th?id=OHR.ElGolfo_EN-CA7672858081_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ElGolfo_EN-CA7672858081",
+        "copyright": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Lanzarote+Spain&form=hpcapt&filters=HpDate%3a%2220260924_0400%22",
+        "title": "Ash meets splash",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260924_ElGolfo%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "426ac1fcbc07dac2515e9ec2c5eb5862",
+        "hsh": "98a3f07057a48c9920287953a6a54e9c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "On Lanzarote, part of Spain's Canary Islands, geology got carried away. Dark sand meets the Atlantic beneath cliffs streaked with ochre and rust, the handiwork of volcanic activity spanning millions of years. One chapter of this story arrived remarkably recently: between 1730 and 1736, numerous vents opened across Lanzarote, sending lava over dozens of square kilometres and burying roads, villages and farmland.",
+                "Image": {
+                    "Url": "/th?id=OHR.ElGolfo_EN-CA7672858081_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ElGolfo_EN-CA7672858081_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ash meets splash",
+                "Title": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain",
+                "Copyright": "© Westend61/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/28.978999,-13.829368/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=28.978999,-13.829368;S9;El Golfo, Lanzarote, Canary Islands, Spain&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260924_ElGolfo\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lanzarote+Spain&form=hpcapt&filters=HpDate:\"20260924_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260924_ElGolfo"
+            },
+            "Ssd": "20260924",
+            "Name": "ElGolfo",
+            "Market": "EN-CA",
+            "Hash": "7672858081",
+            "FullDateString": "Sep 24, 2026"
+        }
+    },
+    {
         "startdate": "20260923",
         "fullstartdate": "202609230400",
         "enddate": "20260924",

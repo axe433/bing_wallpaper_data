@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260924",
+        "fullstartdate": "202609240300",
+        "enddate": "20260925",
+        "url": "/th?id=OHR.TolkienWeek_PT-BR2214990560_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TolkienWeek_PT-BR2214990560",
+        "copyright": "Vila dos Hobbits em Matamata, Nova Zelândia (© djr-photography/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Semana+Tolkien+e+Dia+Hobbit&form=hpcapt&mkt=pt-br",
+        "title": "Muito além da última página",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260924_TolkienWeek%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "29b3b1b00f568075b22229d8183719c0",
+        "hsh": "39c8c24317b05e51e54c7d03a3b36af6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Alguns lugares entram para a história. Hobbiton, em Matamata, Nova Zelândia, foi feito para dar vida a uma. Quando produtores de “O Senhor dos Anéis” procuravam locações em 1998, encontraram ali colinas verdes que já pareciam pertencer ao Condado. A equipe acrescentou portas redondas, jardins e chaminés, e o cenário foi reconstruído para os filmes de “O Hobbit”. Uma locação temporária acabou virando atração para fãs do mundo inteiro.",
+                "Image": {
+                    "Url": "/th?id=OHR.TolkienWeek_PT-BR2214990560_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TolkienWeek_PT-BR2214990560_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Muito além da última página",
+                "Title": "Vila dos Hobbits em Matamata, Nova Zelândia",
+                "Copyright": "© djr-photography/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260924_TolkienWeek\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Semana+Tolkien+e+Dia+Hobbit&form=hpcapt&filters=HpDate:\"20260924_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260924_TolkienWeek"
+            },
+            "Ssd": "20260924",
+            "Name": "TolkienWeek",
+            "Market": "PT-BR",
+            "Hash": "2214990560",
+            "FullDateString": "24 set. 2026"
+        }
+    },
+    {
         "startdate": "20260923",
         "fullstartdate": "202609230300",
         "enddate": "20260924",

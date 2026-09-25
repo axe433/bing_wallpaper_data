@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260924",
+        "fullstartdate": "202609240700",
+        "enddate": "20260925",
+        "url": "/th?id=OHR.CastelmezzanoItaly_ROW3044667748_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CastelmezzanoItaly_ROW3044667748",
+        "copyright": "Castelmezzano, Basilicata, Italy (© Sean Pavone/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Castelmezzano&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260924_CastelmezzanoItaly%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f44889d7e8e81bb9238123453de8d3d1",
+        "hsh": "55ccf4b6b1e5b8fef078f657120ff5f7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Castelmezzano, in the province of Potenza in Basilicata, Italy, is hidden from view until you reach it. You arrive through a tunnel and as you emerge, the village suddenly appears, wedged among the sandstone pinnacles of the Lucanian Dolomites. The houses seem to climb over one another at around 750 metres above sea level, connected by steps and narrow lanes that rise towards the remains of the Norman fortress.",
+                "Image": {
+                    "Url": "/th?id=OHR.CastelmezzanoItaly_ROW3044667748_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CastelmezzanoItaly_ROW3044667748_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Castelmezzano, Basilicata, Italy",
+                "Copyright": "© Sean Pavone/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260924_CastelmezzanoItaly\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Castelmezzano&form=hpcapt&filters=HpDate:\"20260924_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260924_CastelmezzanoItaly"
+            },
+            "Ssd": "20260924",
+            "Name": "CastelmezzanoItaly",
+            "Market": "ROW",
+            "Hash": "3044667748",
+            "FullDateString": "24 Sept 2026"
+        }
+    },
+    {
         "startdate": "20260923",
         "fullstartdate": "202609230700",
         "enddate": "20260924",
