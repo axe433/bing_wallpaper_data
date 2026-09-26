@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260925",
+        "fullstartdate": "202609250700",
+        "enddate": "20260926",
+        "url": "/th?id=OHR.JogFalls2026_ROW3282923682_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JogFalls2026_ROW3282923682",
+        "copyright": "Jog Falls, Sharavathi River, Karnataka, India (© Amith Nag Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Jog+Falls+India&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260925_JogFalls2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c361572180a36ddd1e6c5ad00c378a4b",
+        "hsh": "4d12d5e10f683f041c927951952773d1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Most rivers spend their lives flowing around obstacles. The Sharavathi River reaches the edge of a cliff and simply jumps. At Jog Falls in Karnataka, the river plunges 253 metres, making it the third-highest waterfall in India.",
+                "Image": {
+                    "Url": "/th?id=OHR.JogFalls2026_ROW3282923682_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.JogFalls2026_ROW3282923682_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Jog Falls, Sharavathi River, Karnataka, India",
+                "Copyright": "© Amith Nag Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260925_JogFalls2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Jog+Falls+India&form=hpcapt&filters=HpDate:\"20260925_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260925_JogFalls2026"
+            },
+            "Ssd": "20260925",
+            "Name": "JogFalls2026",
+            "Market": "ROW",
+            "Hash": "3282923682",
+            "FullDateString": "25 sep. 2026"
+        }
+    },
+    {
         "startdate": "20260924",
         "fullstartdate": "202609240700",
         "enddate": "20260925",

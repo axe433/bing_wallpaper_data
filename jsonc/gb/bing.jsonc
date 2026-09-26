@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260925",
+        "fullstartdate": "202609252300",
+        "enddate": "20260926",
+        "url": "/th?id=OHR.BearsEars_EN-GB9519047413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BearsEars_EN-GB9519047413",
+        "copyright": "Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, United States (© Jeff Clay/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Bears+Ears+National+Monument&form=hpcapt&filters=HpDate%3a%2220260925_2300%22",
+        "title": "The stories written across the land",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260925_BearsEars%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4141b431b935264a65ca22330170c748",
+        "hsh": "8eb20f9cff0dd042ac70f4df7ded07c6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "What do a bear's ears, a house on fire and a road packed with hairpin turns have in common? They're all part of the story of southeastern Utah's public lands.",
+                "Image": {
+                    "Url": "/th?id=OHR.BearsEars_EN-GB9519047413_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BearsEars_EN-GB9519047413_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "The stories written across the land",
+                "Title": "Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, United States",
+                "Copyright": "© Jeff Clay/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.630001,-109.867653/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=37.630001,-109.867653;S9;Bears Ears, Utah, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260926_BearsEars\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Bears+Ears+National+Monument&form=hpcapt&filters=HpDate:\"20260925_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260926_BearsEars"
+            },
+            "Ssd": "20260926",
+            "Name": "BearsEars",
+            "Market": "EN-GB",
+            "Hash": "9519047413",
+            "FullDateString": "26 Sept 2026"
+        }
+    },
+    {
         "startdate": "20260924",
         "fullstartdate": "202609242300",
         "enddate": "20260925",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260925",
+        "fullstartdate": "202609252200",
+        "enddate": "20260926",
+        "url": "/th?id=OHR.BoriesPoppies_FR-FR9955316118_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BoriesPoppies_FR-FR9955316118",
+        "copyright": "Village des Bories, Gordes, Provence-Alpes-Côte d’Azur (© AGUILAR PATRICE/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Village+des+Bories&form=hpcapt&filters=HpDate%3a%2220260925_2200%22",
+        "title": "Le savoir-faire provençal",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260925_BoriesPoppies%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c407a4b8cf871e92fe40107a11b1838b",
+        "hsh": "afc824de1be9f7026b5ec93516db6e92",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Aux premiers jours de l’automne, le Village des Bories se pare d’une lumière dorée qui sublime les pierres sèches du Luberon. Sous un ciel encore lumineux, les chênes verts se mêlent aux premiers feuillages mordorés, tandis que les senteurs de thym et de romarin se fondent dans l’air plus frais de la saison.",
+                "Image": {
+                    "Url": "/th?id=OHR.BoriesPoppies_FR-FR9955316118_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BoriesPoppies_FR-FR9955316118_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Le savoir-faire provençal",
+                "Title": "Village des Bories, Gordes, Provence-Alpes-Côte d’Azur",
+                "Copyright": "© AGUILAR PATRICE/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.907041,5.180164/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=43.907041,5.180164;S9;Village des Bories, Provence-Alpes-Côte d’Azur&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260926_BoriesPoppies\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Village+des+Bories&form=hpcapt&filters=HpDate:\"20260925_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260926_BoriesPoppies"
+            },
+            "Ssd": "20260926",
+            "Name": "BoriesPoppies",
+            "Market": "FR-FR",
+            "Hash": "9955316118",
+            "FullDateString": "26 sept. 2026"
+        }
+    },
+    {
         "startdate": "20260924",
         "fullstartdate": "202609242200",
         "enddate": "20260925",

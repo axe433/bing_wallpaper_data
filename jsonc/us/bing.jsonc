@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260925",
+        "fullstartdate": "202609250700",
+        "enddate": "20260926",
+        "url": "/th?id=OHR.MidAutumn2026_EN-US9341405351_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MidAutumn2026_EN-US9341405351",
+        "copyright": "Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mid+Autumn+Festival&form=hpcapt&filters=HpDate%3a%2220260925_0700%22",
+        "title": "When the moon joins the party",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260925_MidAutumn2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4c5cf614d69aa9dd4da9b1215ed05e98",
+        "hsh": "72a26b2e95cf9fe8c2cb1949dc019f8e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "What if the full moon were the guest of honor at your family dinner? That is the idea behind the Mid-Autumn Festival, also known as the Moon Festival. Celebrated on the 15th day of the eighth lunar month, it is one of the most important festivals in Chinese culture. Its roots trace back more than 3,000 years to moon-honoring rituals during the Zhou Dynasty. Its best-known legend tells of Chang'e, who drank an elixir of immortality and rose to the moon.",
+                "Image": {
+                    "Url": "/th?id=OHR.MidAutumn2026_EN-US9341405351_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MidAutumn2026_EN-US9341405351_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "When the moon joins the party",
+                "Title": "Chinese lanterns for Mid-Autumn Festival celebration",
+                "Copyright": "© LeeYiuTung/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "A record-breaking mooncake in China once weighed nearly 13 tons and measured over 26 feet wide.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260925_MidAutumn2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Mid+Autumn+Festival&form=hpcapt&filters=HpDate:\"20260925_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260925_MidAutumn2026"
+            },
+            "Ssd": "20260925",
+            "Name": "MidAutumn2026",
+            "Market": "EN-US",
+            "Hash": "9341405351",
+            "FullDateString": "Sep 25, 2026"
+        }
+    },
+    {
         "startdate": "20260924",
         "fullstartdate": "202609240700",
         "enddate": "20260925",
