@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260926",
+        "fullstartdate": "202609260300",
+        "enddate": "20260927",
+        "url": "/th?id=OHR.ElGolfo_PT-BR1964322549_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ElGolfo_PT-BR1964322549",
+        "copyright": "Vista aérea da praia de lava negra, El Golfo, Lanzarote, Ilhas Canárias, Espanha (© Westend61/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Lanzarote&form=hpcapt&mkt=pt-br",
+        "title": "O legado de um vulcão",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260926_ElGolfo%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "426ac1fcbc07dac2515e9ec2c5eb5862",
+        "hsh": "690f74097a5341e0628275900add782f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A ilha de Lanzarote, nas Canárias espanholas, parece ter escolhido cores que não deveriam funcionar juntas: areia negra, mar azul e falésias riscadas de ferrugem e ocre. Mas aqui, quem segura o pincel é a geologia. Milhões de anos de atividade vulcânica moldaram essas terras, e um dos capítulos dessa história é recente: entre 1730 e 1736, dezenas de aberturas vulcânicas entraram em atividade, cobrindo cerca de 200 km² com lava e destruindo campos, estradas e povoados.",
+                "Image": {
+                    "Url": "/th?id=OHR.ElGolfo_PT-BR1964322549_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ElGolfo_PT-BR1964322549_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O legado de um vulcão",
+                "Title": "Vista aérea da praia de lava negra, El Golfo, Lanzarote, Ilhas Canárias, Espanha",
+                "Copyright": "© Westend61/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260926_ElGolfo\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lanzarote&form=hpcapt&filters=HpDate:\"20260926_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260926_ElGolfo"
+            },
+            "Ssd": "20260926",
+            "Name": "ElGolfo",
+            "Market": "PT-BR",
+            "Hash": "1964322549",
+            "FullDateString": "26 set. 2026"
+        }
+    },
+    {
         "startdate": "20260925",
         "fullstartdate": "202609250300",
         "enddate": "20260926",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260926",
+        "fullstartdate": "202609262200",
+        "enddate": "20260927",
+        "url": "/th?id=OHR.DecoCrab_DE-DE3687547943_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DecoCrab_DE-DE3687547943",
+        "copyright": "Dekorateurkrabbe auf einer Seefeder, Nationalpark Komodo, Indonesien (© Alex Mustard/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Nationalpark+Komodo&form=hpcapt&filters=HpDate%3a%2220260926_2200%22",
+        "title": "Nachtgarten der Tiefe",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260926_DecoCrab%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9b203309d862ca3497f99d000bf663b1",
+        "hsh": "67c8d4b15fa1735ae085b388b6440c23",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Im heutigen Bild spielt sich ein stilles Versteckspiel unter Wasser ab. Eine Dekorateurkrabbe sitzt auf einer Seefeder und verschmilzt beinahe mit ihrer Umgebung. Die Aufnahme entstand im Nationalpark Komodo in Indonesien, einem Schutzgebiet, das 1980 eingerichtet wurde und nach dem Komodowaran benannt ist. Zwischen dem Pazifischen und dem Indischen Ozean gelegen, umfasst der Park Inseln, Mangrovenwälder, Seegraswiesen und farbenreiche Korallenriffe. Starke Meeresströmungen fördern hier eine außergewöhnliche Vielfalt an Tieren und Pflanzen.",
+                "Image": {
+                    "Url": "/th?id=OHR.DecoCrab_DE-DE3687547943_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DecoCrab_DE-DE3687547943_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Nachtgarten der Tiefe",
+                "Title": "Dekorateurkrabbe auf einer Seefeder, Nationalpark Komodo, Indonesien",
+                "Copyright": "© Alex Mustard/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-8.527705,119.483323/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=-8.527705,119.483323;S9;Nationalpark Komodo, Indonesien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260927_DecoCrab\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Nationalpark+Komodo&form=hpcapt&filters=HpDate:\"20260926_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260927_DecoCrab"
+            },
+            "Ssd": "20260927",
+            "Name": "DecoCrab",
+            "Market": "DE-DE",
+            "Hash": "3687547943",
+            "FullDateString": "27. Sept.. 2026"
+        }
+    },
+    {
         "startdate": "20260925",
         "fullstartdate": "202609252200",
         "enddate": "20260926",
