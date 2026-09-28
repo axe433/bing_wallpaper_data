@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260927",
+        "fullstartdate": "202609272200",
+        "enddate": "20260928",
+        "url": "/th?id=OHR.AmberHall_IT-IT8621021328_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AmberHall_IT-IT8621021328",
+        "copyright": "Sattais Katcheri, Forte Amber vicino a Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Forte+Amber+Jaipur&form=hpcapt",
+        "title": "Storie tra i pilastri",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260927_AmberHall%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "496c3f3c9044944701bc77f13ec4968f",
+        "hsh": "15d1ea4c0fde654cfae93a0ab6f7f20d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Il Forte Amber, vicino a Jaipur (Rajasthan, India), è stato la capitale reale prima che esistesse la città rosa. La costruzione partì nel 1592 con Raja Man Singh I e continuò per oltre un secolo con i sovrani kachwaha; nel 1727 la corte si trasferì nella nuova Jaipur, ma Amber restò sede di cerimonie.",
+                "Image": {
+                    "Url": "/th?id=OHR.AmberHall_IT-IT8621021328_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AmberHall_IT-IT8621021328_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Storie tra i pilastri",
+                "Title": "Sattais Katcheri, Forte Amber vicino a Jaipur, Rajasthan, India",
+                "Copyright": "© R.M. Nunes/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/26.986382,75.851341/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=26.986382,75.851341;S9;Forte Amber, Jaipur, Rajasthan, India&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260928_AmberHall\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Forte+Amber+Jaipur&form=hpcapt&filters=HpDate:\"20260927_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260928_AmberHall"
+            },
+            "Ssd": "20260928",
+            "Name": "AmberHall",
+            "Market": "IT-IT",
+            "Hash": "8621021328",
+            "FullDateString": "28 settembre 2026"
+        }
+    },
+    {
         "startdate": "20260926",
         "fullstartdate": "202609262200",
         "enddate": "20260927",

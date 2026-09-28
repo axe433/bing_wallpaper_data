@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260927",
+        "fullstartdate": "202609272200",
+        "enddate": "20260928",
+        "url": "/th?id=OHR.AmberHall_DE-DE3888408627_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AmberHall_DE-DE3888408627",
+        "copyright": "Sattais-Katcheri-Halle im Fort Amber bei Jaipur, Rajasthan, Indien (© R.M. Nunes/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Fort+Amber+Indien&form=hpcapt&filters=HpDate%3a%2220260927_2200%22",
+        "title": "Geschichte mit Aussicht",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260927_AmberHall%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "496c3f3c9044944701bc77f13ec4968f",
+        "hsh": "d88e4f0cf13fd49aa96877aa67cc14e1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Jaipur ist heute als „Pink City“, die rosafarbene Stadt, bekannt. Ihre historische Entwicklung nahm jedoch ihren Ausgang in Amber. Das Fort Amber war über lange Zeit politisches und kulturelles Zentrum der Region. Mit dem Bau wurde 1592 unter Raja Man Singh I. begonnen. Spätere Herrscher erweiterten die Anlage schrittweise, bevor die Residenz im Jahr 1727 in die neu gegründete Stadt Jaipur verlegt wurde.",
+                "Image": {
+                    "Url": "/th?id=OHR.AmberHall_DE-DE3888408627_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AmberHall_DE-DE3888408627_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Geschichte mit Aussicht",
+                "Title": "Sattais-Katcheri-Halle im Fort Amber bei Jaipur, Rajasthan, Indien",
+                "Copyright": "© R.M. Nunes/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/26.986382,75.851341/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=26.986382,75.851341;S9;Fort Amber bei Jaipur, Rajasthan, Indien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260928_AmberHall\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Fort+Amber+Indien&form=hpcapt&filters=HpDate:\"20260927_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260928_AmberHall"
+            },
+            "Ssd": "20260928",
+            "Name": "AmberHall",
+            "Market": "DE-DE",
+            "Hash": "3888408627",
+            "FullDateString": "28. Sept.. 2026"
+        }
+    },
+    {
         "startdate": "20260926",
         "fullstartdate": "202609262200",
         "enddate": "20260927",

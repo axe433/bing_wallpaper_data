@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260927",
+        "fullstartdate": "202609271500",
+        "enddate": "20260928",
+        "url": "/th?id=OHR.AmberHall_JA-JP9172458689_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AmberHall_JA-JP9172458689",
+        "copyright": "アンベール城, インド (© R.M. Nunes/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%83%B3%E3%83%99%E3%83%BC%E3%83%AB%E5%9F%8E&form=hpcapt&filters=HpDate%3a%2220260927_1500%22",
+        "title": "優美な柱が並ぶ宮殿",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260927_AmberHall%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "496c3f3c9044944701bc77f13ec4968f",
+        "hsh": "236a639b14aaf44431a4cca2ef630f89",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "アンベール城は、インドのラージャスターン州ジャイプル郊外にある宮殿要塞です。1592年、ラージャ・マーン・シング 1 世が築城を始め、以後、カッチワハ朝の歴代統治者によって拡張されていきました。1727 年に王族はジャイプルへと移りましたが、アンベール城はその後も儀礼の場として使用されていました。ヒンドゥー、ラージプート、ムガルの建築様式が融合した壮麗な城で、現在はジャイプルを代表する観光名所の一つとして知られています。そして、今日の画像は城内にあるサッタイス・カチェリで、「 27 本の柱の宮殿」を意味する建造物です。",
+                "Image": {
+                    "Url": "/th?id=OHR.AmberHall_JA-JP9172458689_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AmberHall_JA-JP9172458689_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "優美な柱が並ぶ宮殿",
+                "Title": "アンベール城, インド",
+                "Copyright": "© R.M. Nunes/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/26.986382,75.851341/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=26.986382,75.851341;S9;アンベール城, インド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260928_AmberHall%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260928_AmberHall\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%a2%e3%83%b3%e3%83%99%e3%83%bc%e3%83%ab%e5%9f%8e&form=hpcapt&filters=HpDate:\"20260927_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260928_AmberHall"
+            },
+            "Ssd": "20260928",
+            "Name": "AmberHall",
+            "Market": "JA-JP",
+            "Hash": "9172458689",
+            "FullDateString": "2026 年 9月 月 28 日"
+        }
+    },
+    {
         "startdate": "20260926",
         "fullstartdate": "202609261500",
         "enddate": "20260927",

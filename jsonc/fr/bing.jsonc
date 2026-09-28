@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260927",
+        "fullstartdate": "202609272200",
+        "enddate": "20260928",
+        "url": "/th?id=OHR.AmberHall_FR-FR6136179100_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AmberHall_FR-FR6136179100",
+        "copyright": "La salle Sattais Katcheri dans le fort d’Amber près de Jaipur, Rajasthan, Inde (© R.M. Nunes/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=fort+d%E2%80%99Amber+Jaipur+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260927_2200%22",
+        "title": "Vue sur l’histoire",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260927_AmberHall%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "496c3f3c9044944701bc77f13ec4968f",
+        "hsh": "ab2d87e5c4cb14f91d8f5ba4d4e26872",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Bien avant que Jaipur ne soit célébrée comme la Ville rose, le cœur du pouvoir battait à Amber, nichée dans les collines arides du Rajasthan (Inde). Dès 1592, le souverain Rajput Raja Man Singh I lança l’édification d’une forteresse destinée à s’agrandir au fil des générations. Pendant plus d’un siècle, les dirigeants Kachwaha y façonnèrent la vie politique et culturelle du royaume qui deviendrait l’État de Jaipur. Lorsque la cour rejoignit la ville nouvelle en 1727, Amber conserva un rôle cérémoniel, témoin vivant d’un héritage prestigieux.",
+                "Image": {
+                    "Url": "/th?id=OHR.AmberHall_FR-FR6136179100_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AmberHall_FR-FR6136179100_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Vue sur l'histoire",
+                "Title": "La salle Sattais Katcheri dans le fort d’Amber près de Jaipur, Rajasthan, Inde",
+                "Copyright": "© R.M. Nunes/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/26.986382,75.851341/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=26.986382,75.851341;S9;Fort d’Amber près de Jaipur, Rajasthan, Inde&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260928_AmberHall\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=fort+d%e2%80%99Amber+Jaipur+Rajasthan&form=hpcapt&filters=HpDate:\"20260927_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260928_AmberHall"
+            },
+            "Ssd": "20260928",
+            "Name": "AmberHall",
+            "Market": "FR-FR",
+            "Hash": "6136179100",
+            "FullDateString": "28 sept. 2026"
+        }
+    },
+    {
         "startdate": "20260926",
         "fullstartdate": "202609262200",
         "enddate": "20260927",
