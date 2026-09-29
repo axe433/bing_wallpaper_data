@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260928",
+        "fullstartdate": "202609281500",
+        "enddate": "20260929",
+        "url": "/th?id=OHR.KasilofRiver_JA-JP7219675730_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KasilofRiver_JA-JP7219675730",
+        "copyright": "カシロフ川, 米国 アラスカ州 (© jared lloyd/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%AB%E3%82%B7%E3%83%AD%E3%83%95%E5%B7%9D&form=hpcapt&filters=HpDate%3a%2220260928_1500%22",
+        "title": "氷河の恵みをたたえる川",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260928_KasilofRiver%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b16c58b0a22bed40fda518087746dee9",
+        "hsh": "86e8816fb8a4f0efba46c91decd64da9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日の画像は、米国アラスカ州南部のキナイ半島を流れるカシロフ川。水源であるツツメナ氷河から運ばれる氷河岩粉によって、水の色は鮮やかなミルキーブルーとなっています。川は約 27km にわたって流れ、クック湾へと注ぎ込みます。この川には、サケやマスが豊富に生息し、人気の釣りスポットとして知られています。また、周辺ではキャンプや自然遊歩道の散策も楽しめます。",
+                "Image": {
+                    "Url": "/th?id=OHR.KasilofRiver_JA-JP7219675730_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KasilofRiver_JA-JP7219675730_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "氷河の恵みをたたえる川",
+                "Title": "カシロフ川, 米国 アラスカ州",
+                "Copyright": "© jared lloyd/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/60.386498,-151.301832/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=60.386498,-151.301832;S9;カシロフ川, 米国 アラスカ州&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260929_KasilofRiver%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260929_KasilofRiver\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%ab%e3%82%b7%e3%83%ad%e3%83%95%e5%b7%9d&form=hpcapt&filters=HpDate:\"20260928_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260929_KasilofRiver"
+            },
+            "Ssd": "20260929",
+            "Name": "KasilofRiver",
+            "Market": "JA-JP",
+            "Hash": "7219675730",
+            "FullDateString": "2026 年 9月 月 29 日"
+        }
+    },
+    {
         "startdate": "20260927",
         "fullstartdate": "202609271500",
         "enddate": "20260928",
