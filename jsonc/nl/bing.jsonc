@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260929",
+        "fullstartdate": "202609290700",
+        "enddate": "20260930",
+        "url": "/th?id=OHR.KasilofRiver_ROW4499047229_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KasilofRiver_ROW4499047229",
+        "copyright": "The blue, glacier-fed waters of the Kasilof River, Alaska, United States (© jared lloyd/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Kasilof+River+Alaska&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260929_KasilofRiver%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b16c58b0a22bed40fda518087746dee9",
+        "hsh": "fe1dcf283a5bd80e8ccd19fefa12ed9e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Seen from above, the Kasilof River winds like a ribbon of turquoise through Alaska's Kenai Peninsula. The vivid blue water comes from glacial silt carried downstream from Tustumena Lake, one of the largest freshwater lakes in the state. Flowing about 27 kilometres before emptying into Cook Inlet, the river is shorter than its famous neighbour, the Kenai, but no less remarkable.",
+                "Image": {
+                    "Url": "/th?id=OHR.KasilofRiver_ROW4499047229_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KasilofRiver_ROW4499047229_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "The blue, glacier-fed waters of the Kasilof River, Alaska, United States",
+                "Copyright": "© jared lloyd/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260929_KasilofRiver\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Kasilof+River+Alaska&form=hpcapt&filters=HpDate:\"20260929_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260929_KasilofRiver"
+            },
+            "Ssd": "20260929",
+            "Name": "KasilofRiver",
+            "Market": "ROW",
+            "Hash": "4499047229",
+            "FullDateString": "29 sep, 2026"
+        }
+    },
+    {
         "startdate": "20260928",
         "fullstartdate": "202609280700",
         "enddate": "20260929",

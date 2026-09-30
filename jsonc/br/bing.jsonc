@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260929",
+        "fullstartdate": "202609290300",
+        "enddate": "20260930",
+        "url": "/th?id=OHR.KasilofRiver_PT-BR1313310893_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KasilofRiver_PT-BR1313310893",
+        "copyright": "Rio Kasilof, Península de Kenai, Alasca, Estados Unidos (© jared lloyd/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Pen%C3%ADnsula+de+Kenai+no+Alasca&form=hpcapt&mkt=pt-br",
+        "title": "Uma jornada glacial",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260929_KasilofRiver%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b16c58b0a22bed40fda518087746dee9",
+        "hsh": "29bf47392944bc5c8be25621ee029f19",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Se alguém dissesse que esta água foi tingida de azul, seria fácil acreditar. O rio Kasilof, na Península de Kenai, no Alasca, realmente ganha esse tom turquesa intenso. A explicação, porém, está nas geleiras: partículas microscópicas de rocha, chamadas silte glacial, chegam ao rio vindas do lago Tustumena e permanecem suspensas na água, ajudando a produzir a coloração.",
+                "Image": {
+                    "Url": "/th?id=OHR.KasilofRiver_PT-BR1313310893_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KasilofRiver_PT-BR1313310893_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Uma jornada glacial",
+                "Title": "Rio Kasilof, Península de Kenai, Alasca, Estados Unidos",
+                "Copyright": "© jared lloyd/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260929_KasilofRiver\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Pen%c3%adnsula+de+Kenai+no+Alasca&form=hpcapt&filters=HpDate:\"20260929_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260929_KasilofRiver"
+            },
+            "Ssd": "20260929",
+            "Name": "KasilofRiver",
+            "Market": "PT-BR",
+            "Hash": "1313310893",
+            "FullDateString": "29 set. 2026"
+        }
+    },
+    {
         "startdate": "20260928",
         "fullstartdate": "202609280300",
         "enddate": "20260929",

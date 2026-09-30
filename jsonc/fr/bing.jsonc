@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260929",
+        "fullstartdate": "202609292200",
+        "enddate": "20260930",
+        "url": "/th?id=OHR.BeardReedling_FR-FR6298814586_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BeardReedling_FR-FR6298814586",
+        "copyright": "Panure à moustaches mâle, Norfolk, Angleterre (© Andrew Sproule/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=panure+%C3%A0+moustache&form=hpcapt&filters=HpDate%3a%2220260929_2200%22",
+        "title": "Une drôle de petite tête",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260929_BeardReedling%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "fcd731bc7a689e69cbd07d0125e4431b",
+        "hsh": "c1b2b6baa23f91a149f30d42f71edc30",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dans les roselières du Norfolk, à l’est de l’Angleterre, un petit éclat de couleur attire parfois le regard avant de disparaître entre les tiges frémissantes. Le mâle de la panure à moustaches, avec sa tête bleu gris pâle, son bec orange vif et ses marques noires caractéristiques, semble avoir été peint pour se distinguer. Pourtant, cet oiseau discret passe l’essentiel de sa vie à l’abri des regards, au cœur des marais, des berges lacustres et des vastes étendues de roseaux qui façonnent ces paysages humides.",
+                "Image": {
+                    "Url": "/th?id=OHR.BeardReedling_FR-FR6298814586_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BeardReedling_FR-FR6298814586_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Une drôle de petite tête",
+                "Title": "Panure à moustaches mâle, Norfolk, Angleterre",
+                "Copyright": "© Andrew Sproule/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Les panures à moustaches sont présentes sur une grande partie de l'Europe et de l'Asie, depuis les zones humides de Grande-Bretagne jusqu'aux roselières d'Asie centrale et orientale.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260930_BeardReedling\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=panure+%c3%a0+moustache&form=hpcapt&filters=HpDate:\"20260929_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20260930_BeardReedling"
+            },
+            "Ssd": "20260930",
+            "Name": "BeardReedling",
+            "Market": "FR-FR",
+            "Hash": "6298814586",
+            "FullDateString": "30 sept. 2026"
+        }
+    },
+    {
         "startdate": "20260928",
         "fullstartdate": "202609282200",
         "enddate": "20260929",
