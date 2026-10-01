@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260930",
+        "fullstartdate": "202609302200",
+        "enddate": "20261001",
+        "url": "/th?id=OHR.ParisSunset_FR-FR0051640032_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ParisSunset_FR-FR0051640032",
+        "copyright": "La tour Eiffel au coucher de soleil, Paris (© Alexander Spatari/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Paris&form=hpcapt&filters=HpDate%3a%2220260930_2200%22",
+        "title": "Elle nous fait tourner la tête",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260930_ParisSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "af919e8a336d960b98e2a695547deefb",
+        "hsh": "0be64b03461f34004c2a53fe3ea7f477",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Paris évoque instantanément les promenades au crépuscule, les quais de la Seine et une élégance célébrée dans le monde entier. Pourtant, derrière cette image romantique se cache une histoire plus nuancée. À la fin du XIXᵉ siècle, la ville accueille l’Exposition universelle commémorant le centenaire de la Révolution française, dans un contexte de profondes transformations urbaines et culturelles.",
+                "Image": {
+                    "Url": "/th?id=OHR.ParisSunset_FR-FR0051640032_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ParisSunset_FR-FR0051640032_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Elle nous fait tourner la tête",
+                "Title": "La tour Eiffel au coucher de soleil, Paris",
+                "Copyright": "© Alexander Spatari/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.85341,2.3488/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=48.85341,2.3488;S9;Paris, France&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261001_ParisSunset\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Paris&form=hpcapt&filters=HpDate:\"20260930_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261001_ParisSunset"
+            },
+            "Ssd": "20261001",
+            "Name": "ParisSunset",
+            "Market": "FR-FR",
+            "Hash": "0051640032",
+            "FullDateString": "1 oct. 2026"
+        }
+    },
+    {
         "startdate": "20260929",
         "fullstartdate": "202609292200",
         "enddate": "20260930",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260930",
+        "fullstartdate": "202609302200",
+        "enddate": "20261001",
+        "url": "/th?id=OHR.ElGolfo_ES-ES8850772045_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ElGolfo_ES-ES8850772045",
+        "copyright": "Vista aérea de la playa de lava negra, El Golfo, Lanzarote, Islas Canarias, España (© Westend61/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Lanzarote&form=hpcapt&filters=HpDate%3a%2220260930_2200%22",
+        "title": "Arena volcánica y olas salvajes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260930_ElGolfo%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "426ac1fcbc07dac2515e9ec2c5eb5862",
+        "hsh": "ff5d1b0518903d6489743ceb547b7cdc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En El Golfo, en la costa oeste de Lanzarote (Canarias, España), la geología perdió toda contención: arena negra, acantilados con vetas ocres y el Atlántico rompiendo sin tregua. El pueblo es un puñado de casas blancas dedicadas a la pesca y al pescado fresco.",
+                "Image": {
+                    "Url": "/th?id=OHR.ElGolfo_ES-ES8850772045_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ElGolfo_ES-ES8850772045_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Arena volcánica y olas salvajes",
+                "Title": "Vista aérea de la playa de lava negra, El Golfo, Lanzarote, Islas Canarias, España",
+                "Copyright": "© Westend61/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/28.978999,-13.829368/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=28.978999,-13.829368;S9;El Golfo, Lanzarote, Islas Canarias, España&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261001_ElGolfo\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lanzarote&form=hpcapt&filters=HpDate:\"20260930_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261001_ElGolfo"
+            },
+            "Ssd": "20261001",
+            "Name": "ElGolfo",
+            "Market": "ES-ES",
+            "Hash": "8850772045",
+            "FullDateString": "1 de oct de 2026"
+        }
+    },
+    {
         "startdate": "20260929",
         "fullstartdate": "202609292200",
         "enddate": "20260930",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260930",
+        "fullstartdate": "202609301830",
+        "enddate": "20261001",
+        "url": "/th?id=OHR.NathmaljiHaveli2026_EN-IN9027003376_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NathmaljiHaveli2026_EN-IN9027003376",
+        "copyright": "View into the sky from Nathmal Ki Haveli courtyard, Jaisalmer, Rajasthan (© Emad Aljumah/Moment/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Jaisalmer+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260930_1830%22",
+        "title": "Carved from two points of view",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260930_NathmaljiHaveli2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "03d51f90a4d8880698a38354bd1b828b",
+        "hsh": "cdaba8fe679ae1cc37feea69d55a853f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "What if two architects worked on the same house but saw it differently? Nathmal Ki Haveli in Jaisalmer offers the answer in carved sandstone. Built in the late 19th century, the haveli is associated with architect brothers Hathi and Lulu, who worked independently on its two sides. They look similar at first, but their fine details differ.",
+                "Image": {
+                    "Url": "/th?id=OHR.NathmaljiHaveli2026_EN-IN9027003376_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NathmaljiHaveli2026_EN-IN9027003376_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Carved from two points of view",
+                "Title": "View into the sky from Nathmal Ki Haveli courtyard, Jaisalmer, Rajasthan",
+                "Copyright": "© Emad Aljumah/Moment/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/26.91358,70.925537/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=26.91358,70.925537;S9;Jaisalmer, Rajasthan&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261001_NathmaljiHaveli2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Jaisalmer+Rajasthan&form=hpcapt&filters=HpDate:\"20260930_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261001_NathmaljiHaveli2026"
+            },
+            "Ssd": "20261001",
+            "Name": "NathmaljiHaveli2026",
+            "Market": "EN-IN",
+            "Hash": "9027003376",
+            "FullDateString": "1 Oct, 2026"
+        }
+    },
+    {
         "startdate": "20260929",
         "fullstartdate": "202609291830",
         "enddate": "20260930",

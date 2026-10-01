@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20260930",
+        "fullstartdate": "202609302200",
+        "enddate": "20261001",
+        "url": "/th?id=OHR.OlmstedPoint_IT-IT8819239294_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OlmstedPoint_IT-IT8819239294",
+        "copyright": "Tramonto da Olmsted Point, Parco Nazionale di Yosemite, California, USA (© Robb Hirsch/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Parco+Nazionale+di+Yosemite+California&form=hpcapt",
+        "title": "Tempo di lettura nel granito",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260930_OlmstedPoint%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0b098254dd9bd531c84e26b2252bb009",
+        "hsh": "e4aec32c7ec94773a8030cc3f1ad4f17",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Il 1º ottobre 1890 Yosemite diventò il terzo parco nazionale degli Stati Uniti, ma la sua tutela era cominciata prima: nel 1864 Abraham Lincoln aveva firmato la legge che proteggeva la valle e il bosco di sequoie giganti di Mariposa.",
+                "Image": {
+                    "Url": "/th?id=OHR.OlmstedPoint_IT-IT8819239294_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OlmstedPoint_IT-IT8819239294_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Tempo di lettura nel granito",
+                "Title": "Tramonto da Olmsted Point, Parco Nazionale di Yosemite, California, USA",
+                "Copyright": "© Robb Hirsch/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.850924,-119.572719/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=37.850924,-119.572719;S9;Parco Nazionale di Yosemite, California, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261001_OlmstedPoint\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parco+Nazionale+di+Yosemite+California&form=hpcapt&filters=HpDate:\"20260930_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261001_OlmstedPoint"
+            },
+            "Ssd": "20261001",
+            "Name": "OlmstedPoint",
+            "Market": "IT-IT",
+            "Hash": "8819239294",
+            "FullDateString": "1 ottobre 2026"
+        }
+    },
+    {
         "startdate": "20260929",
         "fullstartdate": "202609292200",
         "enddate": "20260930",
