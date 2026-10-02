@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261001",
+        "fullstartdate": "202610011830",
+        "enddate": "20261002",
+        "url": "/th?id=OHR.GandhiJayanti2026_EN-IN7052712451_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GandhiJayanti2026_EN-IN7052712451",
+        "copyright": "Mahatma Gandhi statue at the Sabarmati Ashram in Ahmedabad, Gujarat (© Kandarp Gupta/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Gandhi+Jayanti&form=hpcapt&filters=HpDate%3a%2220261001_1830%22",
+        "title": "The man who made peace powerful",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261001_GandhiJayanti2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ee3cb726014229e2c0601bd771921e19",
+        "hsh": "e3a09fa30de7c1b0e1e9ac4f45c6f56c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Not every freedom fighter carried a weapon. He carried an idea. Gandhi Jayanti marks the birth of Mohandas Karamchand Gandhi, born in Porbandar, India, in 1869. He became a key leader of India's independence movement through satyagraha, his philosophy of truth and non-violent resistance. His 1930 Salt March showed how something as ordinary as salt could become a powerful symbol of protest. His influence eventually reached far beyond India, inspiring movements built around peaceful resistance.",
+                "Image": {
+                    "Url": "/th?id=OHR.GandhiJayanti2026_EN-IN7052712451_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GandhiJayanti2026_EN-IN7052712451_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "The man who made peace powerful",
+                "Title": "Mahatma Gandhi statue at the Sabarmati Ashram in Ahmedabad, Gujarat",
+                "Copyright": "© Kandarp Gupta/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/23.060703,72.580301/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=23.060703,72.580301;S9;Sabarmati Ashram, Ahmedabad, Gujarat&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261002_GandhiJayanti2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Gandhi+Jayanti&form=hpcapt&filters=HpDate:\"20261001_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261002_GandhiJayanti2026"
+            },
+            "Ssd": "20261002",
+            "Name": "GandhiJayanti2026",
+            "Market": "EN-IN",
+            "Hash": "7052712451",
+            "FullDateString": "2 Oct, 2026"
+        }
+    },
+    {
         "startdate": "20260930",
         "fullstartdate": "202609301830",
         "enddate": "20261001",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261001",
+        "fullstartdate": "202610012200",
+        "enddate": "20261002",
+        "url": "/th?id=OHR.AutumnPeatBog_FR-FR3286332172_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AutumnPeatBog_FR-FR3286332172",
+        "copyright": "Végétation automnale multicolore sur la tourbière (© Utopia_88/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=tourbi%C3%A8re+d%C3%A9finition&form=hpcapt&filters=HpDate%3a%2220261001_2200%22",
+        "title": "L'automne en tourbière",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261001_AutumnPeatBog%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2b13ca81c8d2163706bf456a6361bd1c",
+        "hsh": "bdc8b2fd765c610a598ff5db21dfdd47",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "On parle souvent des forêts pour célébrer les couleurs de l'automne — le hêtre cuivré, le chêne doré, l'érable écarlate. Mais en France, d'autres paysages se parent de teintes tout aussi saisissantes, dans un silence que les sous-bois ne connaissent pas.",
+                "Image": {
+                    "Url": "/th?id=OHR.AutumnPeatBog_FR-FR3286332172_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AutumnPeatBog_FR-FR3286332172_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "L'automne en tourbière",
+                "Title": "Végétation automnale multicolore sur la tourbière",
+                "Copyright": "© Utopia_88/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Les tourbières couvrent seulement 3 % de la surface terrestre, mais stockent deux fois plus de carbone que toutes les forêts du monde réunies.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261002_AutumnPeatBog\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=tourbi%c3%a8re+d%c3%a9finition&form=hpcapt&filters=HpDate:\"20261001_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261002_AutumnPeatBog"
+            },
+            "Ssd": "20261002",
+            "Name": "AutumnPeatBog",
+            "Market": "FR-FR",
+            "Hash": "3286332172",
+            "FullDateString": "2 oct. 2026"
+        }
+    },
+    {
         "startdate": "20260930",
         "fullstartdate": "202609302200",
         "enddate": "20261001",

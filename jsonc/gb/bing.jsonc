@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261001",
+        "fullstartdate": "202610012300",
+        "enddate": "20261002",
+        "url": "/th?id=OHR.ChattoogaRiver_EN-GB2495394216_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ChattoogaRiver_EN-GB2495394216",
+        "copyright": "Chattooga River in the Appalachian Mountains, North Carolina, United States (© mtilghma/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Chattooga+River&form=hpcapt&filters=HpDate%3a%2220261001_2300%22",
+        "title": "A river worth protecting",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261001_ChattoogaRiver%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0e8a7d342367be8d340af273275b4859",
+        "hsh": "40668cbd32c4b2729bef0138d8b46ea8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Few rivers combine wild scenery and whitewater quite like the Chattooga. Rising in the mountains near Cashiers, North Carolina, it winds through Georgia, North Carolina and South Carolina in the United States, dropping nearly half a mile in elevation along its journey. With no dams upstream, its water levels can change quickly after rainfall, adding excitement for rafters and kayakers.",
+                "Image": {
+                    "Url": "/th?id=OHR.ChattoogaRiver_EN-GB2495394216_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ChattoogaRiver_EN-GB2495394216_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A river worth protecting",
+                "Title": "Chattooga River in the Appalachian Mountains, North Carolina, United States",
+                "Copyright": "© mtilghma/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.080936,-83.109932/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=35.080936,-83.109932;S9;Chattooga River, North Carolina, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261002_ChattoogaRiver\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Chattooga+River&form=hpcapt&filters=HpDate:\"20261001_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261002_ChattoogaRiver"
+            },
+            "Ssd": "20261002",
+            "Name": "ChattoogaRiver",
+            "Market": "EN-GB",
+            "Hash": "2495394216",
+            "FullDateString": "2 Oct 2026"
+        }
+    },
+    {
         "startdate": "20260930",
         "fullstartdate": "202609302300",
         "enddate": "20261001",

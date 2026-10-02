@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261001",
+        "fullstartdate": "202610010700",
+        "enddate": "20261002",
+        "url": "/th?id=OHR.OlmstedPoint_ROW5031185741_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OlmstedPoint_ROW5031185741",
+        "copyright": "Sunset from Olmsted Point, Yosemite National Park, California, United States (© Robb Hirsch/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Yosemite+National+Park&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261001_OlmstedPoint%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0b098254dd9bd531c84e26b2252bb009",
+        "hsh": "dd0a5591be4c40db16b583b88498e004",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "In 1890, Yosemite became America's third national park. More than a century later, it still feels like a place that operates on geological time rather than human schedules. From Olmsted Point, the overlook in today's image, that timescale is impossible to miss. The smooth granite underfoot was sculpted by glaciers, while scattered boulders known as glacial erratics were carried here by ice and abandoned when it melted.",
+                "Image": {
+                    "Url": "/th?id=OHR.OlmstedPoint_ROW5031185741_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.OlmstedPoint_ROW5031185741_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Sunset from Olmsted Point, Yosemite National Park, California, United States",
+                "Copyright": "© Robb Hirsch/Tandem Stills + Motion",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261001_OlmstedPoint\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Yosemite+National+Park&form=hpcapt&filters=HpDate:\"20261001_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261001_OlmstedPoint"
+            },
+            "Ssd": "20261001",
+            "Name": "OlmstedPoint",
+            "Market": "ROW",
+            "Hash": "5031185741",
+            "FullDateString": "Oct 1, 2026"
+        }
+    },
+    {
         "startdate": "20260930",
         "fullstartdate": "202609300700",
         "enddate": "20261001",

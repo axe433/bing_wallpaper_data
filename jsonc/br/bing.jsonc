@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261001",
+        "fullstartdate": "202610010300",
+        "enddate": "20261002",
+        "url": "/th?id=OHR.GreenLake_PT-BR0948770849_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GreenLake_PT-BR0948770849",
+        "copyright": "Vista aérea da Lagoa Verde, Angra dos Reis, Rio de Janeiro (© Avalon/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Angra+dos+Reis&form=hpcapt&mkt=pt-br",
+        "title": "O segredo da Lagoa Verde",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261001_GreenLake%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "07d4a82d79c8ba6b3cc053dd36e3d042",
+        "hsh": "d13f19473bc9ef5d67c874d953fb0357",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Existem lugares que mudam com as estações. A Lagoa Verde prefere acompanhar a maré. Entre a Ilha Grande e a Ilha da Longa, em Angra dos Reis, Rio de Janeiro, marés, correntes e relevo criam um cenário que muda ao longo do dia. Na maré baixa, a água pode recuar o suficiente para revelar uma estreita faixa de areia e pedras ligando as duas ilhas. Por algumas horas, o mapa simplesmente ganha outro desenho.",
+                "Image": {
+                    "Url": "/th?id=OHR.GreenLake_PT-BR0948770849_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GreenLake_PT-BR0948770849_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O segredo da Lagoa Verde",
+                "Title": "Vista aérea da Lagoa Verde, Angra dos Reis, Rio de Janeiro",
+                "Copyright": "© Avalon/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261001_GreenLake\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Angra+dos+Reis&form=hpcapt&filters=HpDate:\"20261001_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261001_GreenLake"
+            },
+            "Ssd": "20261001",
+            "Name": "GreenLake",
+            "Market": "PT-BR",
+            "Hash": "0948770849",
+            "FullDateString": "1 out. 2026"
+        }
+    },
+    {
         "startdate": "20260930",
         "fullstartdate": "202609300300",
         "enddate": "20261001",

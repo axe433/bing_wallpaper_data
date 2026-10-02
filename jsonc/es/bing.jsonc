@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261001",
+        "fullstartdate": "202610012200",
+        "enddate": "20261002",
+        "url": "/th?id=OHR.ChattoogaRiver_ES-ES4729549409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ChattoogaRiver_ES-ES4729549409",
+        "copyright": "Río Chattooga en los montes Apalaches, Carolina del Norte, EE. UU. (© mtilghma/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Montes+Apalaches&form=hpcapt&filters=HpDate%3a%2220261001_2200%22",
+        "title": "Aguas bravas entre bosques",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261001_ChattoogaRiver%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0e8a7d342367be8d340af273275b4859",
+        "hsh": "a31b7ecc497954b0241637bc306452ce",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El río Chattooga baja por los montes Apalaches, en Carolina del Norte (Estados Unidos), y es uno de los tramos de aguas bravas más celebrados del sureste del país. Nace en plena montaña y durante kilómetros marca la frontera entre Georgia, Carolina del Norte y Carolina del Sur, encajonado entre laderas boscosas y escalones de roca.",
+                "Image": {
+                    "Url": "/th?id=OHR.ChattoogaRiver_ES-ES4729549409_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ChattoogaRiver_ES-ES4729549409_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Aguas bravas entre bosques",
+                "Title": "Río Chattooga en los montes Apalaches, Carolina del Norte, EE. UU.",
+                "Copyright": "© mtilghma/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.080936,-83.109932/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=35.080936,-83.109932;S9;Río Chattooga, Carolina del Norte, EE.UU.&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261002_ChattoogaRiver\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Montes+Apalaches&form=hpcapt&filters=HpDate:\"20261001_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261002_ChattoogaRiver"
+            },
+            "Ssd": "20261002",
+            "Name": "ChattoogaRiver",
+            "Market": "ES-ES",
+            "Hash": "4729549409",
+            "FullDateString": "2 de oct de 2026"
+        }
+    },
+    {
         "startdate": "20260930",
         "fullstartdate": "202609302200",
         "enddate": "20261001",

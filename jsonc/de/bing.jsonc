@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261001",
+        "fullstartdate": "202610012200",
+        "enddate": "20261002",
+        "url": "/th?id=OHR.GrizzlySwim_DE-DE4187515695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrizzlySwim_DE-DE4187515695",
+        "copyright": "Braunbär am Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, USA (© Danny Green/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Braunb%C3%A4r&form=hpcapt&filters=HpDate%3a%2220261001_2200%22",
+        "title": "Kolosse des Nordens",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261001_GrizzlySwim%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a6a0d567ddd411681ce614edd557b321",
+        "hsh": "0534e2ebbae494298a3d768906bd6cbc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Im Lake Clark National Park and Preserve im US-Bundesstaat Alaska gehört der Silver Salmon Creek zu den besten Orten, um Braunbären in ihrer natürlichen Umgebung zu beobachten. Während der Lachswanderung versammeln sich die Tiere an Flussufern und in flachen Gewässern, wo sie geduldig auf vorbeiziehende Fische warten. Die weitläufige Landschaft aus Bergen, Feuchtgebieten und Küstenebenen bietet ihnen reichlich Nahrung und Rückzugsorte. Da große Teile des Schutzgebiets nur per Boot oder Wasserflugzeug erreichbar sind, wirkt die Region bis heute außergewöhnlich ursprünglich.",
+                "Image": {
+                    "Url": "/th?id=OHR.GrizzlySwim_DE-DE4187515695_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GrizzlySwim_DE-DE4187515695_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Kolosse des Nordens",
+                "Title": "Braunbär am Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, USA",
+                "Copyright": "© Danny Green/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/61.147081,-153.734242/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=61.147081,-153.734242;S9;Lake Clark National Park and Preserve, Alaska, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261002_GrizzlySwim\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Braunb%c3%a4r&form=hpcapt&filters=HpDate:\"20261001_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261002_GrizzlySwim"
+            },
+            "Ssd": "20261002",
+            "Name": "GrizzlySwim",
+            "Market": "DE-DE",
+            "Hash": "4187515695",
+            "FullDateString": "2. Okt.. 2026"
+        }
+    },
+    {
         "startdate": "20260930",
         "fullstartdate": "202609302200",
         "enddate": "20261001",
