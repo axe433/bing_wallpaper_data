@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261002",
+        "fullstartdate": "202610022200",
+        "enddate": "20261003",
+        "url": "/th?id=OHR.GrizzlySwim_IT-IT0100605871_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrizzlySwim_IT-IT0100605871",
+        "copyright": "Orso bruno a Silver Salmon Creek, Parco nazionale e riserva di Lake Clark, Alaska, Stati Uniti (© Danny Green/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Orso+bruno&form=hpcapt",
+        "title": "Pesca, mangia, ripeti",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261002_GrizzlySwim%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a6a0d567ddd411681ce614edd557b321",
+        "hsh": "9cdd046ef1305263433a9229c043a3e8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Gli orsi bruni del Parco nazionale e riserva di Lake Clark, in Alaska (Stati Uniti), stanno vivendo la loro stagione delle grandi mangiate. A ottobre sfruttano tutto ciò che resta disponibile, dal pesce alle carici, dalle bacche alle radici fino ai molluschi, perché ogni grammo conta: alcuni superano i 450 chilogrammi prima di infilarsi nella tana, e quel grasso è l'unica riserva che li sostiene in un inverno senza mangiare né bere.",
+                "Image": {
+                    "Url": "/th?id=OHR.GrizzlySwim_IT-IT0100605871_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GrizzlySwim_IT-IT0100605871_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Pesca, mangia, ripeti",
+                "Title": "Orso bruno a Silver Salmon Creek, Parco nazionale e riserva di Lake Clark, Alaska, Stati Uniti",
+                "Copyright": "© Danny Green/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/61.147081,-153.734242/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=61.147081,-153.734242;S9;Parco nazionale e riserva di Lake Clark, Alaska, Stati Uniti&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261003_GrizzlySwim\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Orso+bruno&form=hpcapt&filters=HpDate:\"20261002_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261003_GrizzlySwim"
+            },
+            "Ssd": "20261003",
+            "Name": "GrizzlySwim",
+            "Market": "IT-IT",
+            "Hash": "0100605871",
+            "FullDateString": "3 ottobre 2026"
+        }
+    },
+    {
         "startdate": "20261001",
         "fullstartdate": "202610012200",
         "enddate": "20261002",

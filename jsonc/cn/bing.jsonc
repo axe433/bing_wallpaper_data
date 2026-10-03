@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261002",
+        "fullstartdate": "202610021600",
+        "enddate": "20261003",
+        "url": "/th?id=OHR.GrizzlySwim_ZH-CN1005455737_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrizzlySwim_ZH-CN1005455737",
+        "copyright": "美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊 (© Danny Green/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=%E6%A3%95%E7%86%8A&form=hpcapt&mkt=zh-cn",
+        "title": "捕捉、进食、重复",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261002_GrizzlySwim%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a6a0d567ddd411681ce614edd557b321",
+        "hsh": "9ed9a42beee43d28f667ab6b68b9e800",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "大快朵颐、肚皮更鼓并为冬季囤积能量的时节到了。在阿拉斯加州，克拉克湖国家公园和自然保护区的棕熊充分利用10月仍可获取的食物。它们以鱼、莎草、浆果、根、蛤蜊和其他食物为食，以积累脂肪储备。有些棕熊在进入洞穴冬眠前体重可超过1,000磅。储存的脂肪帮助它们度过不吃不喝的冬季。",
+                "Image": {
+                    "Url": "/th?id=OHR.GrizzlySwim_ZH-CN1005455737_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GrizzlySwim_ZH-CN1005455737_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "捕捉、进食、重复",
+                "Title": "美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊",
+                "Copyright": "© Danny Green/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "棕熊幼崽在冬季洞穴中出生，体型很小且没有毛，有时不足半磅；到春天时会长到4至8磅。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261003_GrizzlySwim\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e6%a3%95%e7%86%8a&form=hpcapt&filters=HpDate:\"20261002_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261003_GrizzlySwim"
+            },
+            "Ssd": "20261003",
+            "Name": "GrizzlySwim",
+            "Market": "ZH-CN",
+            "Hash": "1005455737",
+            "FullDateString": "2026 10月 3"
+        }
+    },
+    {
         "startdate": "20261001",
         "fullstartdate": "202610011600",
         "enddate": "20261002",

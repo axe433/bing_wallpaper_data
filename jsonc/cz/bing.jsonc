@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261002",
+        "fullstartdate": "202610020700",
+        "enddate": "20261003",
+        "url": "/th?id=OHR.ChattoogaRiver_ROW2393025936_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ChattoogaRiver_ROW2393025936",
+        "copyright": "Chattooga River in the Appalachian Mountains, North Carolina, United States (© mtilghma/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Chattooga+River&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261002_ChattoogaRiver%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0e8a7d342367be8d340af273275b4859",
+        "hsh": "0f1acdbd1faf62fc0ce79a651fab98e3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Rivers have long played an important role in life across the world, supporting communities, wildlife and industry. Featured in today's image, the Chattooga River runs for about 92 kilometres across Georgia, North Carolina and South Carolina in the United States. Flowing through the Appalachian Mountains, it winds between steep, forested slopes, rocky gorges and cascading rapids before reaching Lake Tugaloo. The river remains one of the Southeast's few major free-flowing rivers and is known for its scenery, whitewater recreation and wildlife.",
+                "Image": {
+                    "Url": "/th?id=OHR.ChattoogaRiver_ROW2393025936_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ChattoogaRiver_ROW2393025936_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Chattooga River in the Appalachian Mountains, North Carolina, United States",
+                "Copyright": "© mtilghma/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261002_ChattoogaRiver\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Chattooga+River&form=hpcapt&filters=HpDate:\"20261002_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261002_ChattoogaRiver"
+            },
+            "Ssd": "20261002",
+            "Name": "ChattoogaRiver",
+            "Market": "ROW",
+            "Hash": "2393025936",
+            "FullDateString": "2. Oct rrrr"
+        }
+    },
+    {
         "startdate": "20261001",
         "fullstartdate": "202610010700",
         "enddate": "20261002",

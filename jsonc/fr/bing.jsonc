@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261002",
+        "fullstartdate": "202610022200",
+        "enddate": "20261003",
+        "url": "/th?id=OHR.GrizzlySwim_FR-FR9368655618_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrizzlySwim_FR-FR9368655618",
+        "copyright": "Ours brun à Silver Salmon Creek, parc national et réserve de Lake Clark, Alaska, États-Unis (© Danny Green/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=ours+brun+animal&form=hpcapt&filters=HpDate%3a%2220261002_2200%22",
+        "title": "Maître des eaux",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261002_GrizzlySwim%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a6a0d567ddd411681ce614edd557b321",
+        "hsh": "5d6ee81732ddb7d68a43d5b28ac1a8fc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "En octobre, dans le parc national de Lake Clark en Alaska, aux États-Unis, les ours bruns vivent leurs semaines les plus précieuses. Silver Salmon Creek devient un véritable buffet sauvage : poissons, baies, racines, palourdes — ils mangent sans relâche, accumulant les réserves de graisse qui leur permettront de traverser l'hiver sans manger ni boire. Certains atteignent plus de 450 kilos avant de rejoindre leur tanière.",
+                "Image": {
+                    "Url": "/th?id=OHR.GrizzlySwim_FR-FR9368655618_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GrizzlySwim_FR-FR9368655618_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Maître des eaux",
+                "Title": "Ours brun à Silver Salmon Creek, parc national et réserve de Lake Clark, Alaska, États-Unis",
+                "Copyright": "© Danny Green/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/61.147081,-153.734242/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=61.147081,-153.734242;S9;Réserve de Lake Clark, Alaska, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261003_GrizzlySwim\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=ours+brun+animal&form=hpcapt&filters=HpDate:\"20261002_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261003_GrizzlySwim"
+            },
+            "Ssd": "20261003",
+            "Name": "GrizzlySwim",
+            "Market": "FR-FR",
+            "Hash": "9368655618",
+            "FullDateString": "3 oct. 2026"
+        }
+    },
+    {
         "startdate": "20261001",
         "fullstartdate": "202610012200",
         "enddate": "20261002",

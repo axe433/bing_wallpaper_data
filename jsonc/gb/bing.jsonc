@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261002",
+        "fullstartdate": "202610022300",
+        "enddate": "20261003",
+        "url": "/th?id=OHR.GrizzlySwim_EN-GB2587469687_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrizzlySwim_EN-GB2587469687",
+        "copyright": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Brown+bear&form=hpcapt&filters=HpDate%3a%2220261002_2300%22",
+        "title": "Catch, eat, repeat",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261002_GrizzlySwim%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a6a0d567ddd411681ce614edd557b321",
+        "hsh": "0e7af8fcf04b13409fe4b7c74ce64dd9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "The season of big meals, bigger bellies and stocking up for winter is here. In Alaska, United States, brown bears at Lake Clark National Park and Preserve make the most of the food still available in October. They feed on fish, sedges, berries, roots, clams and other foods to build up fat reserves. Some can weigh more than 450 kilograms before entering their dens for hibernation. That stored fat helps them survive the winter, when they do not eat or drink.",
+                "Image": {
+                    "Url": "/th?id=OHR.GrizzlySwim_EN-GB2587469687_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GrizzlySwim_EN-GB2587469687_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Catch, eat, repeat",
+                "Title": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States",
+                "Copyright": "© Danny Green/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/61.147081,-153.734242/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=61.147081,-153.734242;S9;Lake Clark National Park and Preserve, Alaska, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261003_GrizzlySwim\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Brown+bear&form=hpcapt&filters=HpDate:\"20261002_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261003_GrizzlySwim"
+            },
+            "Ssd": "20261003",
+            "Name": "GrizzlySwim",
+            "Market": "EN-GB",
+            "Hash": "2587469687",
+            "FullDateString": "3 Oct 2026"
+        }
+    },
+    {
         "startdate": "20261001",
         "fullstartdate": "202610012300",
         "enddate": "20261002",

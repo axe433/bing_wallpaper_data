@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261002",
+        "fullstartdate": "202610021500",
+        "enddate": "20261003",
+        "url": "/th?id=OHR.AmmoniteFossils_JA-JP8778940090_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AmmoniteFossils_JA-JP8778940090",
+        "copyright": "アンモナイトの化石 (© J Nemchinova/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8A%E3%82%A4%E3%83%88&form=hpcapt&filters=HpDate%3a%2220261002_1500%22",
+        "title": "古代の海に生息していた動物の化石",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261002_AmmoniteFossils%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cded710c5872c48d574088c5174c11a2",
+        "hsh": "796f08c1a9d408dee63c1a79f8c4ffd9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日の画像は、アンモナイトの化石。アンモナイトは、約 4 億年前から 6600 万年前まで海に生息していた海洋軟体動物です。殻の内部が複数の部屋に分かれているなど、現生のオウムガイ類と似た特徴を持っていますが、イカやタコなどを含むグループにより近いと考えられています。多くの種類に見られる特徴的な螺旋形の殻から、古代生物の代表的な化石として広く知られています。また、世界各地で化石が発見されており、地層の年代決定や先史時代の海洋環境の研究に活用されています。",
+                "Image": {
+                    "Url": "/th?id=OHR.AmmoniteFossils_JA-JP8778940090_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AmmoniteFossils_JA-JP8778940090_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "古代の海に生息していた動物の化石",
+                "Title": "アンモナイトの化石",
+                "Copyright": "© J Nemchinova/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "化石とは、過去の生物の体や活動の痕跡が長い時間を経て自然に保存されたものです。アンモナイトの殻もその一種です。",
+                    "LinkUrl": "/search?q=%e5%8c%96%e7%9f%b3%e3%81%ab%e3%81%af%e3%81%a9%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa%e3%82%82%e3%81%ae%e3%81%8c%e3%81%82%e3%82%8b%ef%bc%9f&form=hpvsfa",
+                    "LinkText": "化石にはどのようなものがある？"
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261003_AmmoniteFossils\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%a2%e3%83%b3%e3%83%a2%e3%83%8a%e3%82%a4%e3%83%88&form=hpcapt&filters=HpDate:\"20261002_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261003_AmmoniteFossils"
+            },
+            "Ssd": "20261003",
+            "Name": "AmmoniteFossils",
+            "Market": "JA-JP",
+            "Hash": "8778940090",
+            "FullDateString": "2026 年 10月 月 3 日"
+        }
+    },
+    {
         "startdate": "20261001",
         "fullstartdate": "202610011500",
         "enddate": "20261002",

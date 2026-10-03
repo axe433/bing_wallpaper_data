@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261002",
+        "fullstartdate": "202610022200",
+        "enddate": "20261003",
+        "url": "/th?id=OHR.BrandenburgGateFireworks_DE-DE4410403528_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BrandenburgGateFireworks_DE-DE4410403528",
+        "copyright": "Brandenburger Tor, Berlin (© almir1968/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Tag+der+Deutschen+Einheit&form=hpcapt&filters=HpDate%3a%2220261002_2200%22",
+        "title": "Ein Zeichen der Einheit",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261002_BrandenburgGateFireworks%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5aab0ab8c31deecbf5e7cc05459795f1",
+        "hsh": "f3515435bbed62e33ddfad90173ab873",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Heute steht Deutschland ganz im Zeichen der Einheit. Der 3. Oktober erinnert an die Wiedervereinigung im Jahr 1990 und an einen historischen Moment, der das Land bis heute prägt. Unser heutiges Bild zeigt die Quadriga auf dem Brandenburger Tor in Berlin vor einem Feuerwerk. Während der deutschen Teilung wurde das Brandenburger Tor zum Sinnbild der Grenze zwischen Ost und West. Jahrzehntelang war der Zugang versperrt, ehe es nach dem Fall der Berliner Mauer erneut zu einem Symbol der Freiheit wurde. Heute steht das Wahrzeichen für Zusammenhalt und ein vereintes Deutschland.",
+                "Image": {
+                    "Url": "/th?id=OHR.BrandenburgGateFireworks_DE-DE4410403528_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BrandenburgGateFireworks_DE-DE4410403528_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ein Zeichen der Einheit",
+                "Title": "Brandenburger Tor, Berlin",
+                "Copyright": "© almir1968/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.516526,13.377748/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=52.516526,13.377748;S9;Brandenburger Tor, Berlin&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261003_BrandenburgGateFireworks\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tag+der+Deutschen+Einheit&form=hpcapt&filters=HpDate:\"20261002_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261003_BrandenburgGateFireworks"
+            },
+            "Ssd": "20261003",
+            "Name": "BrandenburgGateFireworks",
+            "Market": "DE-DE",
+            "Hash": "4410403528",
+            "FullDateString": "3. Okt.. 2026"
+        }
+    },
+    {
         "startdate": "20261001",
         "fullstartdate": "202610012200",
         "enddate": "20261002",
