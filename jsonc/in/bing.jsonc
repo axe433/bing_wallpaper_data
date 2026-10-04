@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261003",
+        "fullstartdate": "202610031830",
+        "enddate": "20261004",
+        "url": "/th?id=OHR.ArtemisRocket_EN-IN7247754075_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ArtemisRocket_EN-IN7247754075",
+        "copyright": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States (© EVA MARIE UZCATEGUI/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=World+Space+Week&form=hpcapt&filters=HpDate%3a%2220261003_1830%22",
+        "title": "The universe is calling",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261003_ArtemisRocket%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "8d135efe62df21594684191962cd12ef",
+        "hsh": "b4a6a18fa36ef241952ad8d389973561",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every 4-10 October, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on 4 October 1957, and the entry into force of the Outer Space Treaty on 10 October 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
+                "Image": {
+                    "Url": "/th?id=OHR.ArtemisRocket_EN-IN7247754075_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ArtemisRocket_EN-IN7247754075_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "The universe is calling",
+                "Title": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States",
+                "Copyright": "© EVA MARIE UZCATEGUI/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/28.522254,-80.68167/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=28.522254,-80.68167;S9;Kennedy Space Center, Florida, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261004_ArtemisRocket\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=World+Space+Week&form=hpcapt&filters=HpDate:\"20261003_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261004_ArtemisRocket"
+            },
+            "Ssd": "20261004",
+            "Name": "ArtemisRocket",
+            "Market": "EN-IN",
+            "Hash": "7247754075",
+            "FullDateString": "4 Oct, 2026"
+        }
+    },
+    {
         "startdate": "20261002",
         "fullstartdate": "202610021830",
         "enddate": "20261003",

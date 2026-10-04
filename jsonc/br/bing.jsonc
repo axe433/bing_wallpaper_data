@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261003",
+        "fullstartdate": "202610030300",
+        "enddate": "20261004",
+        "url": "/th?id=OHR.GrizzlySwim_PT-BR4132076191_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrizzlySwim_PT-BR4132076191",
+        "copyright": "Urso-pardo, Silver Salmon Creek, Parque Nacional e Reserva do Lago Clark, Alasca, EUA (© Danny Green/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+e+Reserva+do+Lago+Clark+Alasca&form=hpcapt&mkt=pt-br",
+        "title": "O último buffet do ano",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261003_GrizzlySwim%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a6a0d567ddd411681ce614edd557b321",
+        "hsh": "9d442bbf783d2f472f8ac64d16d57d44",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "No Silver Salmon Creek, no Parque Nacional e Reserva do Lago Clark, no Alasca, outubro não é mês de contar calorias. Pelo contrário: é mês de comer... e muito. Os ursos-pardos aproveitam a fartura que ainda resta na paisagem para acumular energia antes do inverno.",
+                "Image": {
+                    "Url": "/th?id=OHR.GrizzlySwim_PT-BR4132076191_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GrizzlySwim_PT-BR4132076191_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O último buffet do ano",
+                "Title": "Urso-pardo, Silver Salmon Creek, Parque Nacional e Reserva do Lago Clark, Alasca, EUA",
+                "Copyright": "© Danny Green/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261003_GrizzlySwim\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parque+Nacional+e+Reserva+do+Lago+Clark+Alasca&form=hpcapt&filters=HpDate:\"20261003_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261003_GrizzlySwim"
+            },
+            "Ssd": "20261003",
+            "Name": "GrizzlySwim",
+            "Market": "PT-BR",
+            "Hash": "4132076191",
+            "FullDateString": "3 out. 2026"
+        }
+    },
+    {
         "startdate": "20261002",
         "fullstartdate": "202610020300",
         "enddate": "20261003",

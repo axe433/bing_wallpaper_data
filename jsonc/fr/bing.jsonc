@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261003",
+        "fullstartdate": "202610032200",
+        "enddate": "20261004",
+        "url": "/th?id=OHR.GruesDer_FR-FR4180166006_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GruesDer_FR-FR4180166006",
+        "copyright": "Grues cendrées en vol à l'aube, lac du Der, France (© Christophe Lehenaff/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=journ%C3%A9es+europ%C3%A9ennes+de+la+migration&form=hpcapt&filters=HpDate%3a%2220261003_2200%22",
+        "title": "L’aube des grues",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261003_GruesDer%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "8dd82864935a5104d14604101bbd62cd",
+        "hsh": "dee5986126ea1b6cc324fd43c27b15bf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Chaque premier week-end d'octobre, l'EuroBirdwatch invite toute l'Europe à lever les yeux. Créé en 1993 par BirdLife International et coordonné en France par la LPO, cet événement célèbre la migration à travers sorties de terrain, points d'observation et animations ouvertes à tous.",
+                "Image": {
+                    "Url": "/th?id=OHR.GruesDer_FR-FR4180166006_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GruesDer_FR-FR4180166006_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "L'aube des grues",
+                "Title": "Grues cendrées en vol à l'aube, lac du Der, France",
+                "Copyright": "© Christophe Lehenaff/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.789235,4.771107/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=48.789235,4.771107;S9;Lac du Der, France&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261004_GruesDer\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=journ%c3%a9es+europ%c3%a9ennes+de+la+migration&form=hpcapt&filters=HpDate:\"20261003_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261004_GruesDer"
+            },
+            "Ssd": "20261004",
+            "Name": "GruesDer",
+            "Market": "FR-FR",
+            "Hash": "4180166006",
+            "FullDateString": "4 oct. 2026"
+        }
+    },
+    {
         "startdate": "20261002",
         "fullstartdate": "202610022200",
         "enddate": "20261003",
