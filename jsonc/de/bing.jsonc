@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261004",
+        "fullstartdate": "202610042200",
+        "enddate": "20261005",
+        "url": "/th?id=OHR.AdelieTeacher_DE-DE4553591722_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AdelieTeacher_DE-DE4553591722",
+        "copyright": "Adeliepinguine, Antarktis (© Otto Plantema/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Tag+des+Lehrers&form=hpcapt&filters=HpDate%3a%2220261004_2200%22",
+        "title": "Lehren der Natur",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261004_AdelieTeacher%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a4db8411f04b6a7a310ba1646452ae3c",
+        "hsh": "26cc4205435d22e93083346563ef633b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Am 5. Oktober rückt der Tag der Lehrer die Bedeutung von Wissen, Zusammenarbeit und gegenseitiger Unterstützung in den Mittelpunkt. Auch in der Natur finden sich spannende Beispiele dafür, wie Gemeinschaft zum Erfolg beitragen kann. Adeliepinguine leben in großen Kolonien an den Küsten der Antarktis und meistern ihren Alltag in einer Umgebung, die zu den lebensfeindlichsten der Erde zählt. Dabei profitieren sie von ihrem Zusammenhalt und ihrer Fähigkeit, sich an extreme Bedingungen anzupassen.",
+                "Image": {
+                    "Url": "/th?id=OHR.AdelieTeacher_DE-DE4553591722_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AdelieTeacher_DE-DE4553591722_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Lehren der Natur",
+                "Title": "Adeliepinguine, Antarktis",
+                "Copyright": "© Otto Plantema/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Adeliepinguine haben keine Zähne, sondern scharfe, nach hinten gerichtete Papillen auf Zunge und Gaumen, die ihnen helfen, ihre Beute festzuhalten.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261005_AdelieTeacher\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tag+des+Lehrers&form=hpcapt&filters=HpDate:\"20261004_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261005_AdelieTeacher"
+            },
+            "Ssd": "20261005",
+            "Name": "AdelieTeacher",
+            "Market": "DE-DE",
+            "Hash": "4553591722",
+            "FullDateString": "5. Okt.. 2026"
+        }
+    },
+    {
         "startdate": "20261003",
         "fullstartdate": "202610032200",
         "enddate": "20261004",

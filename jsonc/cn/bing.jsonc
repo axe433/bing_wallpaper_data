@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261004",
+        "fullstartdate": "202610041600",
+        "enddate": "20261005",
+        "url": "/th?id=OHR.AdelieTeacher_ZH-CN2201820679_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AdelieTeacher_ZH-CN2201820679",
+        "copyright": "南极洲的阿德利企鹅 (© Otto Plantema/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%95%99%E5%B8%88%E6%97%A5&form=hpcapt&mkt=zh-cn",
+        "title": "纵身一跃，一次一课",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261004_AdelieTeacher%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a4db8411f04b6a7a310ba1646452ae3c",
+        "hsh": "70a754d46405850799ade2d1da5d4856",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "一只身高28英寸的鸟能教给我们哪些人生道理？非常多。在世界教师日这一天，阿德利企鹅带来了一份充满足智多谋、坚韧不拔和些许顽皮的课程计划。这一物种分布于南极海岸，以法国探险家儒勒·迪蒙·迪维尔的妻子阿黛尔之名命名；在1840年的一次远征中，人们发现了这些企鹅。",
+                "Image": {
+                    "Url": "/th?id=OHR.AdelieTeacher_ZH-CN2201820679_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AdelieTeacher_ZH-CN2201820679_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "纵身一跃，一次一课",
+                "Title": "南极洲的阿德利企鹅",
+                "Copyright": "© Otto Plantema/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "阿德利企鹅没有牙齿，但它们的舌头和上腭长有被称为乳突的尖锐倒刺。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261005_AdelieTeacher\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e4%b8%96%e7%95%8c%e6%95%99%e5%b8%88%e6%97%a5&form=hpcapt&filters=HpDate:\"20261004_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261005_AdelieTeacher"
+            },
+            "Ssd": "20261005",
+            "Name": "AdelieTeacher",
+            "Market": "ZH-CN",
+            "Hash": "2201820679",
+            "FullDateString": "2026 10月 5"
+        }
+    },
+    {
         "startdate": "20261003",
         "fullstartdate": "202610031600",
         "enddate": "20261004",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261004",
+        "fullstartdate": "202610040300",
+        "enddate": "20261005",
+        "url": "/th?id=OHR.ArtemisRocket_PT-BR6940961892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ArtemisRocket_PT-BR6940961892",
+        "copyright": "Foguete Artemis I no Complexo de Lançamento 39B, Centro Espacial Kennedy, Flórida, EUA (© EVA MARIE UZCATEGUI/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Semana+Mundial+do+Espa%C3%A7o&form=hpcapt&mkt=pt-br",
+        "title": "Partiu, universo!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261004_ArtemisRocket%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "8d135efe62df21594684191962cd12ef",
+        "hsh": "b71730d6491bbd1e1c91d6eed4356f22",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Viajar até a lua está longe de ser simples. É preciso lançar uma espaçonave, chegar até lá, enfrentar temperaturas e radiação extremas e voltar em segurança. A Semana Mundial do Espaço, de 4 a 10 de outubro, celebra a ciência que torna isso possível. Criada pela ONU em 1999, a comemoração começa na data do lançamento do Sputnik 1, em 1957, e termina no aniversário da entrada em vigor do Tratado do Espaço Sideral, em 1967. Em 2026, o tema “Revolução dos Foguetes” destaca tecnologias que estão mudando a exploração espacial.",
+                "Image": {
+                    "Url": "/th?id=OHR.ArtemisRocket_PT-BR6940961892_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ArtemisRocket_PT-BR6940961892_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Partiu, universo!",
+                "Title": "Foguete Artemis I no Complexo de Lançamento 39B, Centro Espacial Kennedy, Flórida, EUA",
+                "Copyright": "© EVA MARIE UZCATEGUI/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261004_ArtemisRocket\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Semana+Mundial+do+Espa%c3%a7o&form=hpcapt&filters=HpDate:\"20261004_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261004_ArtemisRocket"
+            },
+            "Ssd": "20261004",
+            "Name": "ArtemisRocket",
+            "Market": "PT-BR",
+            "Hash": "6940961892",
+            "FullDateString": "4 out. 2026"
+        }
+    },
+    {
         "startdate": "20261003",
         "fullstartdate": "202610030300",
         "enddate": "20261004",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261004",
+        "fullstartdate": "202610041830",
+        "enddate": "20261005",
+        "url": "/th?id=OHR.AdelieTeacher_EN-IN7367199250_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AdelieTeacher_EN-IN7367199250",
+        "copyright": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Adelie+penguins&form=hpcapt&filters=HpDate%3a%2220261004_1830%22",
+        "title": "Slide into adventure",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261004_AdelieTeacher%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a4db8411f04b6a7a310ba1646452ae3c",
+        "hsh": "aa873673873c381aa4e1f74cc8e7d7c0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "What can a 70-centimetre-tall bird teach us about life? Quite a lot. The Adélie penguin offers a lesson plan packed with resourcefulness, resilience and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840.",
+                "Image": {
+                    "Url": "/th?id=OHR.AdelieTeacher_EN-IN7367199250_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AdelieTeacher_EN-IN7367199250_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Slide into adventure",
+                "Title": "Adélie penguins, Antarctica",
+                "Copyright": "© Otto Plantema/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Adélie penguins do not have teeth, but instead have sharp, backward-pointing spikes called papillae on their tongues and the roofs of their mouths.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261005_AdelieTeacher\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Adelie+penguins&form=hpcapt&filters=HpDate:\"20261004_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261005_AdelieTeacher"
+            },
+            "Ssd": "20261005",
+            "Name": "AdelieTeacher",
+            "Market": "EN-IN",
+            "Hash": "7367199250",
+            "FullDateString": "5 Oct, 2026"
+        }
+    },
+    {
         "startdate": "20261003",
         "fullstartdate": "202610031830",
         "enddate": "20261004",

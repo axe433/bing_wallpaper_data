@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261004",
+        "fullstartdate": "202610042200",
+        "enddate": "20261005",
+        "url": "/th?id=OHR.AdelieTeacher_ES-ES0045236370_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AdelieTeacher_ES-ES0045236370",
+        "copyright": "Pingüinos de Adelia, Antártida (© Otto Plantema/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+Mundial+de+los+Docentes&form=hpcapt&filters=HpDate%3a%2220261004_2200%22",
+        "title": "Al agua, lección a lección",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261004_AdelieTeacher%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a4db8411f04b6a7a310ba1646452ae3c",
+        "hsh": "02b7150bbf49b734f89396d375c9376e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "¿Qué puede enseñarnos un pingüino de Adelia, un ave de apenas setenta centímetros? Bastante. En el Día Mundial de los Docentes, esta especie de las costas de la Antártida ofrece una lección de ingenio, resistencia y algo de picaresca. Debe su nombre a Adèle, esposa del explorador francés Jules Dumont d'Urville, que dio con la especie durante una expedición en 1840.",
+                "Image": {
+                    "Url": "/th?id=OHR.AdelieTeacher_ES-ES0045236370_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AdelieTeacher_ES-ES0045236370_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Al agua, lección a lección",
+                "Title": "Pingüinos de Adelia, Antártida",
+                "Copyright": "© Otto Plantema/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Los pingüinos de Adelia no tienen dientes: en la lengua y el paladar presentan púas afiladas orientadas hacia atrás, llamadas papilas.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261005_AdelieTeacher\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=D%c3%ada+Mundial+de+los+Docentes&form=hpcapt&filters=HpDate:\"20261004_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261005_AdelieTeacher"
+            },
+            "Ssd": "20261005",
+            "Name": "AdelieTeacher",
+            "Market": "ES-ES",
+            "Hash": "0045236370",
+            "FullDateString": "5 de oct de 2026"
+        }
+    },
+    {
         "startdate": "20261003",
         "fullstartdate": "202610032200",
         "enddate": "20261004",

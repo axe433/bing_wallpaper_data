@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261004",
+        "fullstartdate": "202610042200",
+        "enddate": "20261005",
+        "url": "/th?id=OHR.AdelieTeacher_IT-IT0908380283_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AdelieTeacher_IT-IT0908380283",
+        "copyright": "Pinguini di Adelia, Antartide (© Otto Plantema/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Giornata+mondiale+degli+insegnanti&form=hpcapt",
+        "title": "Un tuffo, una lezione",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261004_AdelieTeacher%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a4db8411f04b6a7a310ba1646452ae3c",
+        "hsh": "c542581dfb469c7ab558313a84fa2e71",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Che cosa può insegnarci un pinguino di Adelia, un uccello di appena settanta centimetri? Parecchio. Nella Giornata mondiale degli insegnanti, questa specie delle coste antartiche offre una lezione di ingegno, resistenza e un pizzico di furbizia. Deve il suo nome ad Adèle, moglie dell'esploratore francese Jules Dumont d'Urville, che la scoprì durante la spedizione del 1840.",
+                "Image": {
+                    "Url": "/th?id=OHR.AdelieTeacher_IT-IT0908380283_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AdelieTeacher_IT-IT0908380283_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un tuffo, una lezione",
+                "Title": "Pinguini di Adelia, Antartide",
+                "Copyright": "© Otto Plantema/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "I pinguini di Adelia non hanno denti: su lingua e palato presentano spine affilate rivolte verso l'interno, chiamate papille.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261005_AdelieTeacher\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Giornata+mondiale+degli+insegnanti&form=hpcapt&filters=HpDate:\"20261004_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261005_AdelieTeacher"
+            },
+            "Ssd": "20261005",
+            "Name": "AdelieTeacher",
+            "Market": "IT-IT",
+            "Hash": "0908380283",
+            "FullDateString": "5 ottobre 2026"
+        }
+    },
+    {
         "startdate": "20261003",
         "fullstartdate": "202610032200",
         "enddate": "20261004",
