@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261005",
+        "fullstartdate": "202610052300",
+        "enddate": "20261006",
+        "url": "/th?id=OHR.DanxiaLandform_EN-GB2873051697_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DanxiaLandform_EN-GB2873051697",
+        "copyright": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=International+Geodiversity+Day&form=hpcapt&filters=HpDate%3a%2220261005_2300%22",
+        "title": "Earth's story in stripes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261005_DanxiaLandform%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ab0cbc9299752b85268d7e684769fb8c",
+        "hsh": "4a1120f6229d4ac98992b8b04079160f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "What if a mountain range could show you its geological history in stripes? At Zhangye National Geopark in China, the rocks do exactly that. Ridges roll across the landscape in bands of red, orange, yellow, brown and other earthy tones. Known as the Danxia landform, this striking landscape was shaped by layers of sedimentary rock deposited over geological time. Tectonic forces later lifted and folded the rocks, while weathering and erosion carved them into ridges, cliffs, gullies and peaks.",
+                "Image": {
+                    "Url": "/th?id=OHR.DanxiaLandform_EN-GB2873051697_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DanxiaLandform_EN-GB2873051697_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Earth's story in stripes",
+                "Title": "Danxia landform, Zhangye National Geopark, Gansu, China",
+                "Copyright": "© Weiquan Lin/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.966774,100.04408/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=38.966774,100.04408;S9;Zhangye National Geopark, Gansu, China&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261006_DanxiaLandform\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=International+Geodiversity+Day&form=hpcapt&filters=HpDate:\"20261005_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261006_DanxiaLandform"
+            },
+            "Ssd": "20261006",
+            "Name": "DanxiaLandform",
+            "Market": "EN-GB",
+            "Hash": "2873051697",
+            "FullDateString": "6 Oct 2026"
+        }
+    },
+    {
         "startdate": "20261004",
         "fullstartdate": "202610042300",
         "enddate": "20261005",

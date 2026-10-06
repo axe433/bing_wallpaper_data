@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261005",
+        "fullstartdate": "202610052200",
+        "enddate": "20261006",
+        "url": "/th?id=OHR.DanxiaLandform_IT-IT8922583550_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DanxiaLandform_IT-IT8922583550",
+        "copyright": "Rilievi Danxia, Geoparco nazionale di Zhangye, Gansu, Cina (© Weiquan Lin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Giornata+internazionale+della+geodiversit%C3%A0&form=hpcapt",
+        "title": "La Terra a strisce",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261005_DanxiaLandform%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ab0cbc9299752b85268d7e684769fb8c",
+        "hsh": "6e67cc282ce2e4d30b48d3f4e7c9379e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nel Geoparco nazionale di Zhangye, nel Gansu (Cina), le montagne raccontano la propria storia geologica a strisce: le colline si susseguono in bande rosse, arancioni, gialle e ocra. È il rilievo Danxia, formato da strati sedimentari che i movimenti tettonici hanno sollevato e piegato e che l'erosione ha poi scolpito in creste, calanchi e pareti.",
+                "Image": {
+                    "Url": "/th?id=OHR.DanxiaLandform_IT-IT8922583550_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DanxiaLandform_IT-IT8922583550_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La Terra a strisce",
+                "Title": "Rilievi Danxia, Geoparco nazionale di Zhangye, Gansu, Cina",
+                "Copyright": "© Weiquan Lin/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.966774,100.04408/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=38.966774,100.04408;S9;Geoparco nazionale di Zhangye, Gansu, Cina&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261006_DanxiaLandform\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Giornata+internazionale+della+geodiversit%c3%a0&form=hpcapt&filters=HpDate:\"20261005_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261006_DanxiaLandform"
+            },
+            "Ssd": "20261006",
+            "Name": "DanxiaLandform",
+            "Market": "IT-IT",
+            "Hash": "8922583550",
+            "FullDateString": "6 ottobre 2026"
+        }
+    },
+    {
         "startdate": "20261004",
         "fullstartdate": "202610042200",
         "enddate": "20261005",

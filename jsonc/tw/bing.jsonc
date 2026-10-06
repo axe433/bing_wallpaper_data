@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261005",
+        "fullstartdate": "202610050700",
+        "enddate": "20261006",
+        "url": "/th?id=OHR.AdelieTeacher_ROW3833533139_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AdelieTeacher_ROW3833533139",
+        "copyright": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Adelie+penguins&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261005_AdelieTeacher%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a4db8411f04b6a7a310ba1646452ae3c",
+        "hsh": "520a961d236fa43630dc4a69b5ebb432",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "What can a 70-centimetre-tall bird teach us about life? Quite a lot. The Adélie penguin offers a lesson plan packed with resourcefulness, resilience and a little mischief. Found along the Antarctic coast, the species was named after Adèle, the wife of French explorer Jules Dumont d'Urville, during the expedition that encountered the penguins in 1840.",
+                "Image": {
+                    "Url": "/th?id=OHR.AdelieTeacher_ROW3833533139_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AdelieTeacher_ROW3833533139_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Adélie penguins, Antarctica",
+                "Copyright": "© Otto Plantema/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261005_AdelieTeacher\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Adelie+penguins&form=hpcapt&filters=HpDate:\"20261005_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261005_AdelieTeacher"
+            },
+            "Ssd": "20261005",
+            "Name": "AdelieTeacher",
+            "Market": "ROW",
+            "Hash": "3833533139",
+            "FullDateString": "2026 年 10月 月 5 日"
+        }
+    },
+    {
         "startdate": "20261004",
         "fullstartdate": "202610040700",
         "enddate": "20261005",

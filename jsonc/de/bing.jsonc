@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261005",
+        "fullstartdate": "202610052200",
+        "enddate": "20261006",
+        "url": "/th?id=OHR.DanxiaLandform_DE-DE4675912635_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DanxiaLandform_DE-DE4675912635",
+        "copyright": "Zhangye-Danxia-Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Zhangye-Danxia-Geopark&form=hpcapt&filters=HpDate%3a%2220261005_2200%22",
+        "title": "Erdgeschichte in bunten Streifen",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261005_DanxiaLandform%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ab0cbc9299752b85268d7e684769fb8c",
+        "hsh": "7a8683f764499d6b0ad6266ccd312b16",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Im Zhangye-Danxia-Geopark in der chinesischen Provinz Gansu wirken die Hügel und Felsformationen, als wären sie mit Farbe bemalt. Über Millionen von Jahren lagerten sich unterschiedliche Sedimente ab, die durch geologische Prozesse angehoben und freigelegt wurden. So entstanden die auffälligen Schichten in Rot, Orange, Gelb und weiteren Farbtönen, die heute zu den bekanntesten Naturwundern Chinas zählen. Je nach Lichteinfall verändern sich die Farben und verleihen der Landschaft immer wieder ein anderes Erscheinungsbild.",
+                "Image": {
+                    "Url": "/th?id=OHR.DanxiaLandform_DE-DE4675912635_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DanxiaLandform_DE-DE4675912635_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Erdgeschichte in bunten Streifen",
+                "Title": "Zhangye-Danxia-Geopark, Gansu, China",
+                "Copyright": "© Weiquan Lin/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.966774,100.04408/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=38.966774,100.04408;S9;Zhangye-Danxia-Geopark, Gansu, China&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261006_DanxiaLandform\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Zhangye-Danxia-Geopark&form=hpcapt&filters=HpDate:\"20261005_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261006_DanxiaLandform"
+            },
+            "Ssd": "20261006",
+            "Name": "DanxiaLandform",
+            "Market": "DE-DE",
+            "Hash": "4675912635",
+            "FullDateString": "6. Okt.. 2026"
+        }
+    },
+    {
         "startdate": "20261004",
         "fullstartdate": "202610042200",
         "enddate": "20261005",
