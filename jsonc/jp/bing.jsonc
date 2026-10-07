@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261006",
+        "fullstartdate": "202610061500",
+        "enddate": "20261007",
+        "url": "/th?id=OHR.ForestofDean_JA-JP0675230191_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ForestofDean_JA-JP0675230191",
+        "copyright": "パズルウッド, イングランド (© Fulcanelli_AOS/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%87%E3%82%A3%E3%83%BC%E3%83%B3%E3%81%AE%E6%A3%AE%E3%81%AE%E3%83%91%E3%82%BA%E3%83%AB%E3%82%A6%E3%83%83%E3%83%89&form=hpcapt&filters=HpDate%3a%2220261006_1500%22",
+        "title": "苔むした森",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261006_ForestofDean%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "086b0fabb9a216de0c15de0367aaf09b",
+        "hsh": "ffe031232e556cb803f265788846a969",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ここはパズルウッド。イングランドのグロスターシャー州にある「ディーンの森」に広がる古代森林地帯です。苔むした岩や「スカウル」と呼ばれる独特の地形で知られています。不規則で迷路状な窪みが特徴のスカウルは、数百万年にわたり、石灰岩にできた地下洞窟が隆起や浸食によって地表に現れることで形成されました。その後、鉄器時代からローマ時代にかけて、鉄鉱石の採掘に利用されたと考えられています。森の中には、約 1.6km の小道が張り巡らされ、奇岩や洞窟、古木が織りなす幻想的な景観が広がります。その神秘的な雰囲気から、「スター・ウォーズ／フォースの覚醒」をはじめ、さまざまな映画のロケ地としても使用されています。",
+                "Image": {
+                    "Url": "/th?id=OHR.ForestofDean_JA-JP0675230191_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ForestofDean_JA-JP0675230191_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "苔むした森",
+                "Title": "パズルウッド, イングランド",
+                "Copyright": "© Fulcanelli_AOS/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.812183,-2.516615/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=51.812183,-2.516615;S9;ディーンの森のパズルウッド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20261007_ForestofDean%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261007_ForestofDean\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%87%e3%82%a3%e3%83%bc%e3%83%b3%e3%81%ae%e6%a3%ae%e3%81%ae%e3%83%91%e3%82%ba%e3%83%ab%e3%82%a6%e3%83%83%e3%83%89&form=hpcapt&filters=HpDate:\"20261006_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261007_ForestofDean"
+            },
+            "Ssd": "20261007",
+            "Name": "ForestofDean",
+            "Market": "JA-JP",
+            "Hash": "0675230191",
+            "FullDateString": "2026 年 10月 月 7 日"
+        }
+    },
+    {
         "startdate": "20261005",
         "fullstartdate": "202610051500",
         "enddate": "20261006",

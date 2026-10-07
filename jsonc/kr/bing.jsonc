@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261006",
+        "fullstartdate": "202610060700",
+        "enddate": "20261007",
+        "url": "/th?id=OHR.DanxiaLandform_ROW6165298580_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DanxiaLandform_ROW6165298580",
+        "copyright": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Zhangye+National+Geopark&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261006_DanxiaLandform%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ab0cbc9299752b85268d7e684769fb8c",
+        "hsh": "293e9189e4165fee0c496027f0087236",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "What if a mountain range could show you its geological history in stripes? At Zhangye National Geopark in China, the rocks do exactly that. Designated as a UNESCO Global Geopark in 2020, Zhangye is in Gansu, a region linked to the ancient Silk Road. Here, ridges roll across the landscape in bands of red, orange, yellow, brown and other earthy tones. Known as the Danxia landform, this striking landscape was shaped by layers of sedimentary rock deposited over geological time. Tectonic forces later lifted and folded these layers, while weathering and erosion carved them into ridges, cliffs, gullies and peaks.",
+                "Image": {
+                    "Url": "/th?id=OHR.DanxiaLandform_ROW6165298580_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DanxiaLandform_ROW6165298580_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Danxia landform, Zhangye National Geopark, Gansu, China",
+                "Copyright": "© Weiquan Lin/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261006_DanxiaLandform\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Zhangye+National+Geopark&form=hpcapt&filters=HpDate:\"20261006_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261006_DanxiaLandform"
+            },
+            "Ssd": "20261006",
+            "Name": "DanxiaLandform",
+            "Market": "ROW",
+            "Hash": "6165298580",
+            "FullDateString": "2026 10월 6"
+        }
+    },
+    {
         "startdate": "20261005",
         "fullstartdate": "202610050700",
         "enddate": "20261006",

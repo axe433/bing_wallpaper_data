@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261006",
+        "fullstartdate": "202610060300",
+        "enddate": "20261007",
+        "url": "/th?id=OHR.DanxiaLandform_PT-BR7632834539_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DanxiaLandform_PT-BR7632834539",
+        "copyright": "Formações de Danxia, Geoparque Nacional de Zhangye, Gansu, China (© Weiquan Lin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+Internacional+da+Geodiversidade&form=hpcapt&mkt=pt-br",
+        "title": "Geologia em cores",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261006_DanxiaLandform%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ab0cbc9299752b85268d7e684769fb8c",
+        "hsh": "26f785fa3f02494901571a8a121b4618",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Como ler a história de uma montanha sem abrir um livro? Na China, basta olhar para o chão. No Geoparque Nacional de Zhangye, na região de Gansu, enormes faixas de vermelho, laranja, amarelo e marrom atravessam o relevo como páginas empilhadas de uma história que leva milhões de anos para ser escrita. Movimentos tectônicos elevaram e dobraram camadas de rochas sedimentares acumuladas, enquanto chuva, vento e outros processos de intemperismo e erosão esculpiram cristas, paredões, ravinas e picos.",
+                "Image": {
+                    "Url": "/th?id=OHR.DanxiaLandform_PT-BR7632834539_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DanxiaLandform_PT-BR7632834539_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Geologia em cores",
+                "Title": "Formações de Danxia, Geoparque Nacional de Zhangye, Gansu, China",
+                "Copyright": "© Weiquan Lin/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261006_DanxiaLandform\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dia+Internacional+da+Geodiversidade&form=hpcapt&filters=HpDate:\"20261006_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261006_DanxiaLandform"
+            },
+            "Ssd": "20261006",
+            "Name": "DanxiaLandform",
+            "Market": "PT-BR",
+            "Hash": "7632834539",
+            "FullDateString": "6 out. 2026"
+        }
+    },
+    {
         "startdate": "20261005",
         "fullstartdate": "202610050300",
         "enddate": "20261006",
@@ -167,8 +216,8 @@
             "ImageContent": {
                 "Description": "Balneário Camboriú, em Santa Catarina, passou anos olhando para cima. Arranha-céus se empilham diante do mar, numa disputa permanente por alguns metros extras de horizonte. Mas basta seguir cerca de 8 quilômetros pela Rodovia Interpraias para a paisagem trocar de assunto.",
                 "Image": {
-                    "Url": "/th?id=OHR.Camburiu_PT-BR9036477210_1920x1080.webp",
-                    "Wallpaper": "/th?id=OHR.Camburiu_PT-BR9036477210_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Url": "/th?id=OHR.Camburiu_PT-BR2030410087_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Camburiu_PT-BR2030410087_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
                     "Downloadable": true
                 },
                 "Headline": "Maré de tranquilidade",
@@ -191,7 +240,7 @@
             "Ssd": "20261002",
             "Name": "Camburiu",
             "Market": "PT-BR",
-            "Hash": "9036477210",
+            "Hash": "2030410087",
             "FullDateString": "2 out. 2026"
         }
     },
