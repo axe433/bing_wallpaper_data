@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261007",
+        "fullstartdate": "202610070300",
+        "enddate": "20261008",
+        "url": "/th?id=OHR.ForestofDean_PT-BR7892976998_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ForestofDean_PT-BR7892976998",
+        "copyright": "Rochas cobertas de musgo em Puzzlewood, Floresta de Dean, Gloucestershire, Inglaterra (© Fulcanelli_AOS/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Puzzlewood+na+Inglaterra&form=hpcapt&mkt=pt-br",
+        "title": "Um labirinto de musgo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261007_ForestofDean%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "086b0fabb9a216de0c15de0367aaf09b",
+        "hsh": "ecdf3e425a6c69ec9ef68469e381dc61",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Árvores retorcidas, ravinas de pedra, rochas cobertas de musgo e antigas moedas romanas escondidas. Parece cenário de fantasia, mas Puzzlewood existe de verdade. Na Floresta de Dean, Inglaterra, suas trilhas serpenteiam por um terreno marcado por formações geológicas naturais que incluem cavidades e paredões rochosos. Expostas e transformadas por processos naturais ao longo do tempo, essas formações também foram exploradas em busca de minério de ferro durante o período romano e, possivelmente, antes dele.",
+                "Image": {
+                    "Url": "/th?id=OHR.ForestofDean_PT-BR7892976998_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ForestofDean_PT-BR7892976998_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Um labirinto de musgo",
+                "Title": "Rochas cobertas de musgo em Puzzlewood, Floresta de Dean, Gloucestershire, Inglaterra",
+                "Copyright": "© Fulcanelli_AOS/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261007_ForestofDean\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Puzzlewood+na+Inglaterra&form=hpcapt&filters=HpDate:\"20261007_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261007_ForestofDean"
+            },
+            "Ssd": "20261007",
+            "Name": "ForestofDean",
+            "Market": "PT-BR",
+            "Hash": "7892976998",
+            "FullDateString": "7 out. 2026"
+        }
+    },
+    {
         "startdate": "20261006",
         "fullstartdate": "202610060300",
         "enddate": "20261007",

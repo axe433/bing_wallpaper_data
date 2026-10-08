@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261007",
+        "fullstartdate": "202610070700",
+        "enddate": "20261008",
+        "url": "/th?id=OHR.ForestofDean_ROW6726223892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ForestofDean_ROW6726223892",
+        "copyright": "Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Puzzlewood+England&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261007_ForestofDean%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "086b0fabb9a216de0c15de0367aaf09b",
+        "hsh": "843e9a941265a8bcda4fe1d1d5c27a3e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "What if a forest could keep you guessing at every turn? At Puzzlewood, near Coleford in the Forest of Dean, England, winding paths lead through twisted trees, moss-covered rocks and deep stone ravines. Its unusual rock formations, known as scowles, are natural geological features that were exposed and modified over time and later exploited for iron ore mining during the Roman period and possibly earlier. In 1848, a worker discovered more than 3,000 Roman-era coins hidden in earthenware jars inside a rock cavity, turning the woodland into a real-life treasure hunt.",
+                "Image": {
+                    "Url": "/th?id=OHR.ForestofDean_ROW6726223892_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ForestofDean_ROW6726223892_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England",
+                "Copyright": "© Fulcanelli_AOS/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261007_ForestofDean\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Puzzlewood+England&form=hpcapt&filters=HpDate:\"20261007_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261007_ForestofDean"
+            },
+            "Ssd": "20261007",
+            "Name": "ForestofDean",
+            "Market": "ROW",
+            "Hash": "6726223892",
+            "FullDateString": "7. okt. 2026"
+        }
+    },
+    {
         "startdate": "20261006",
         "fullstartdate": "202610060700",
         "enddate": "20261007",
