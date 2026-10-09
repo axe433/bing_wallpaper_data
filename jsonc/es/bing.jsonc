@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261008",
+        "fullstartdate": "202610082200",
+        "enddate": "20261009",
+        "url": "/th?id=OHR.IlesSanguinaires_ES-ES4266688471_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IlesSanguinaires_ES-ES4266688471",
+        "copyright": "Vista de las islas Sanguinarias desde Córcega, Francia (© Francesco Riccardo Iacomino/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=islas+Sanguinarias&form=hpcapt&filters=HpDate%3a%2220261008_2200%22",
+        "title": "Los centinelas de Córcega",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261008_IlesSanguinaires%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6ba54e4d1a2290e9b13cdc6bee8ac3d8",
+        "hsh": "8de5c067c5a54d618bcb72d0f077f467",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Frente a la costa de Córcega (Francia), las islas Sanguinarias emergen del Mediterráneo como un pequeño archipiélago de cuatro islotes rocosos y escarpados. Vistos desde una antigua torre de vigilancia, custodian la entrada del golfo de Ajaccio, y aunque el más alejado queda a menos de dos kilómetros de tierra firme, el conjunto transmite un aislamiento sorprendente, moldeado por el viento, las olas y el salitre.",
+                "Image": {
+                    "Url": "/th?id=OHR.IlesSanguinaires_ES-ES4266688471_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.IlesSanguinaires_ES-ES4266688471_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Los centinelas de Córcega",
+                "Title": "Vista de las islas Sanguinarias desde Córcega, Francia",
+                "Copyright": "© Francesco Riccardo Iacomino/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.88166,8.59779/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=41.88166,8.59779;S9;Islas Sanguinarias, Córcega, Francia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261009_IlesSanguinaires\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=islas+Sanguinarias&form=hpcapt&filters=HpDate:\"20261008_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261009_IlesSanguinaires"
+            },
+            "Ssd": "20261009",
+            "Name": "IlesSanguinaires",
+            "Market": "ES-ES",
+            "Hash": "4266688471",
+            "FullDateString": "9 de oct de 2026"
+        }
+    },
+    {
         "startdate": "20261007",
         "fullstartdate": "202610072200",
         "enddate": "20261008",

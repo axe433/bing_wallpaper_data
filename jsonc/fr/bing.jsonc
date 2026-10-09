@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261008",
+        "fullstartdate": "202610082200",
+        "enddate": "20261009",
+        "url": "/th?id=OHR.IlesSanguinaires_FR-FR5994303029_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IlesSanguinaires_FR-FR5994303029",
+        "copyright": "Vue des îles Sanguinaires depuis la Corse (© Francesco Riccardo Iacomino/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=archipel+des+Sanguinaires+Corse&form=hpcapt&filters=HpDate%3a%2220261008_2200%22",
+        "title": "Les îles du bout du monde",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261008_IlesSanguinaires%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6ba54e4d1a2290e9b13cdc6bee8ac3d8",
+        "hsh": "b5385af2ac36577d2e8ca2b2eec984d5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "À deux kilomètres à peine des côtes corses, les îles Sanguinaires surgissent de la Méditerranée comme une poignée de rochers jetés par quelque titan oublié. Vues depuis une tour de guet historique dominant le golfe d'Ajaccio, elles semblent pourtant appartenir à un autre monde — battu par le vent, sculpté par les vagues et le sel.",
+                "Image": {
+                    "Url": "/th?id=OHR.IlesSanguinaires_FR-FR5994303029_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.IlesSanguinaires_FR-FR5994303029_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Les îles du bout du monde",
+                "Title": "Vue des îles Sanguinaires depuis la Corse",
+                "Copyright": "© Francesco Riccardo Iacomino/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.88166,8.59779/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=41.88166,8.59779;S9;Archipel des Sanguinaires, Corse&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261009_IlesSanguinaires\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=archipel+des+Sanguinaires+Corse&form=hpcapt&filters=HpDate:\"20261008_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261009_IlesSanguinaires"
+            },
+            "Ssd": "20261009",
+            "Name": "IlesSanguinaires",
+            "Market": "FR-FR",
+            "Hash": "5994303029",
+            "FullDateString": "9 oct. 2026"
+        }
+    },
+    {
         "startdate": "20261007",
         "fullstartdate": "202610072200",
         "enddate": "20261008",

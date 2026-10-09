@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261008",
+        "fullstartdate": "202610080700",
+        "enddate": "20261009",
+        "url": "/th?id=OHR.MayotteOctopus_ROW7337263277_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MayotteOctopus_ROW7337263277",
+        "copyright": "Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Octopus+animal&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261008_MayotteOctopus%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "dc9580cbf2d365860141d7ff0078537d",
+        "hsh": "1cc25c789f2264fdd073fe9029e8c58c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Something has clearly crossed a line. Off the coast of Mayotte in the Indian Ocean, this octopus has adopted a defensive posture that says: whatever is approaching should reconsider its life choices.",
+                "Image": {
+                    "Url": "/th?id=OHR.MayotteOctopus_ROW7337263277_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MayotteOctopus_ROW7337263277_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Octopus in defensive posture, Mayotte, Indian Ocean",
+                "Copyright": "© Gabriel Barathieu/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261008_MayotteOctopus\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Octopus+animal&form=hpcapt&filters=HpDate:\"20261008_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261008_MayotteOctopus"
+            },
+            "Ssd": "20261008",
+            "Name": "MayotteOctopus",
+            "Market": "ROW",
+            "Hash": "7337263277",
+            "FullDateString": "2026 10월 8"
+        }
+    },
+    {
         "startdate": "20261007",
         "fullstartdate": "202610070700",
         "enddate": "20261008",

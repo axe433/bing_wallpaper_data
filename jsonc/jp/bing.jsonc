@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261008",
+        "fullstartdate": "202610081500",
+        "enddate": "20261009",
+        "url": "/th?id=OHR.IlesSanguinaires_JA-JP1377358410_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IlesSanguinaires_JA-JP1377358410",
+        "copyright": "サンギネール諸島, フランス (© Francesco Riccardo Iacomino/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%B5%E3%83%B3%E3%82%AE%E3%83%8D%E3%83%BC%E3%83%AB%E8%AB%B8%E5%B3%B6&form=hpcapt&filters=HpDate%3a%2220261008_1500%22",
+        "title": "コルシカ島を彩る美しい夕日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261008_IlesSanguinaires%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6ba54e4d1a2290e9b13cdc6bee8ac3d8",
+        "hsh": "a460408fddfdbf2472474c36dbedec46",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "フランス・コルシカ島の沖合に浮かぶサンギネール諸島。4 つの小さな島で構成された群島で、近隣の街アジャクシオからは、島の荒々しい岩肌と透明度の高い海が織りなす景観を眺めることができます。各島には海鳥や地中海特有の植物が生息しており、その自然環境保護のため、基本的に立ち入れるのは最も大きな島であるメズ・マレ島のみです。メズ・マレ島には、灯台が設置されているほか、遊歩道も整備されており、島の散策を楽しむことができます。",
+                "Image": {
+                    "Url": "/th?id=OHR.IlesSanguinaires_JA-JP1377358410_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.IlesSanguinaires_JA-JP1377358410_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "コルシカ島を彩る美しい夕日",
+                "Title": "サンギネール諸島, フランス",
+                "Copyright": "© Francesco Riccardo Iacomino/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.88166,8.59779/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=41.88166,8.59779;S9;サンギネール諸島, フランス&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20261009_IlesSanguinaires%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261009_IlesSanguinaires\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%b5%e3%83%b3%e3%82%ae%e3%83%8d%e3%83%bc%e3%83%ab%e8%ab%b8%e5%b3%b6&form=hpcapt&filters=HpDate:\"20261008_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261009_IlesSanguinaires"
+            },
+            "Ssd": "20261009",
+            "Name": "IlesSanguinaires",
+            "Market": "JA-JP",
+            "Hash": "1377358410",
+            "FullDateString": "2026 年 10月 月 9 日"
+        }
+    },
+    {
         "startdate": "20261007",
         "fullstartdate": "202610071500",
         "enddate": "20261008",
