@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261009",
+        "fullstartdate": "202610092200",
+        "enddate": "20261010",
+        "url": "/th?id=OHR.CormorantsFlight_DE-DE5717719144_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CormorantsFlight_DE-DE5717719144",
+        "copyright": "Ohrenscharben über der Monterey Bay, Kalifornien, USA (© Hiroya Minakuchi/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Welttag+der+Zugv%C3%B6gel&form=hpcapt&filters=HpDate%3a%2220261009_2200%22",
+        "title": "Leben entlang der Vogelzugroute",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261009_CormorantsFlight%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "fcc36828d6e851cef709e2cb0b2ddead",
+        "hsh": "42e70252302399c63a094c37cf404424",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Am 10. Oktober lenkt der Welttag der Zugvögel die Aufmerksamkeit auf die außergewöhnlichen Reisen wandernder Vogelarten. Jedes Jahr legen Millionen von Vögeln enorme Entfernungen zurück und verbinden dabei Regionen, Länder und Kontinente. Der Aktionstag erinnert daran, wie wichtig sichere Rastplätze, geeignete Brutgebiete und intakte Lebensräume entlang ihrer Zugrouten sind. Zugvögel spielen eine bedeutende Rolle in vielen Ökosystemen und zeigen zugleich, wie eng die Natur weltweit miteinander verknüpft ist. Ihre Wanderungen gehören zu den faszinierendsten Naturschauspielen überhaupt und wecken seit jeher die Neugier von Menschen auf der ganzen Welt.",
+                "Image": {
+                    "Url": "/th?id=OHR.CormorantsFlight_DE-DE5717719144_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CormorantsFlight_DE-DE5717719144_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Leben entlang der Vogelzugroute",
+                "Title": "Ohrenscharben über der Monterey Bay, Kalifornien, USA",
+                "Copyright": "© Hiroya Minakuchi/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Der Vogelzug kann viele Formen annehmen: Manche Vögel ziehen nach Norden oder Süden, während andere in andere Höhenlagen oder Lebensräume ziehen.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261010_CormorantsFlight\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Welttag+der+Zugv%c3%b6gel&form=hpcapt&filters=HpDate:\"20261009_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261010_CormorantsFlight"
+            },
+            "Ssd": "20261010",
+            "Name": "CormorantsFlight",
+            "Market": "DE-DE",
+            "Hash": "5717719144",
+            "FullDateString": "10. Okt.. 2026"
+        }
+    },
+    {
         "startdate": "20261008",
         "fullstartdate": "202610082200",
         "enddate": "20261009",
