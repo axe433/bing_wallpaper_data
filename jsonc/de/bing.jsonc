@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261010",
+        "fullstartdate": "202610102200",
+        "enddate": "20261011",
+        "url": "/th?id=OHR.MouflonAutumn_DE-DE6144771164_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MouflonAutumn_DE-DE6144771164",
+        "copyright": "Europäisches Mufflon (Widder) im Herbstwald, Bayern (© imageBROKER/David & Micha Sheldon/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Europ%C3%A4isches+Mufflon&form=hpcapt&filters=HpDate%3a%2220261010_2200%22",
+        "title": "Symbol ursprünglicher Natur",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261010_MouflonAutumn%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6f56c100b8e92b5306728251dde0136a",
+        "hsh": "0e4330aadec483b158efba1a14fbe3ce",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Wenn der Herbst die Wälder Bayerns in warme Braun- und Goldtöne taucht, beginnt für viele Wildtiere eine besonders reizvolle Jahreszeit. Zu ihnen gehört das Europäische Mufflon, eine Unterart der Wildschafe mit einer langen Geschichte in Europa. Auf unserem Bild hat sich ein Widder zwischen Laub und Moos niedergelassen. Seine mächtigen, schneckenförmig geschwungenen Hörner machen ihn unverwechselbar. Ursprünglich waren Mufflons vor allem auf Korsika und Sardinien verbreitet, kommen heute jedoch auch in einigen Regionen Mitteleuropas vor. Die Tiere sind aufmerksam, beweglich und hervorragend an das Leben in abwechslungsreichen Landschaften angepasst.",
+                "Image": {
+                    "Url": "/th?id=OHR.MouflonAutumn_DE-DE6144771164_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MouflonAutumn_DE-DE6144771164_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Symbol ursprünglicher Natur",
+                "Title": "Europäisches Mufflon (Widder) im Herbstwald, Bayern",
+                "Copyright": "© imageBROKER/David & Micha Sheldon/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Mufflons sind äußerst trittsicher und können sich sicher in steilem und felsigem Gelände bewegen.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261011_MouflonAutumn\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Europ%c3%a4isches+Mufflon&form=hpcapt&filters=HpDate:\"20261010_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261011_MouflonAutumn"
+            },
+            "Ssd": "20261011",
+            "Name": "MouflonAutumn",
+            "Market": "DE-DE",
+            "Hash": "6144771164",
+            "FullDateString": "11. Okt.. 2026"
+        }
+    },
+    {
         "startdate": "20261009",
         "fullstartdate": "202610092200",
         "enddate": "20261010",

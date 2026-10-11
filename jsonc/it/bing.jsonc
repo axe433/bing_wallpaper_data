@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261010",
+        "fullstartdate": "202610102200",
+        "enddate": "20261011",
+        "url": "/th?id=OHR.BarcolanaBoats_IT-IT7828341555_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BarcolanaBoats_IT-IT7828341555",
+        "copyright": "La regata della Barcolana nel Golfo di Trieste, Friuli-Venezia Giulia, Italia (© Marco Saracco/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=La+Barcolana+di+Trieste&form=hpcapt",
+        "title": "Il golfo si riempie di vele",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261010_BarcolanaBoats%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "3fd26d3797d84322c5baebcdf7cca6bc",
+        "hsh": "a62535a6c85d1e35ce8cb0455acdfc08",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Il Golfo di Trieste, in Friuli-Venezia Giulia (Italia), oggi si riempie di vele: alle 10.30 un colpo di cannone dà il via alla Barcolana, la regata velica più partecipata del pianeta, che chiude una settimana di prove ed eventi sulle Rive.",
+                "Image": {
+                    "Url": "/th?id=OHR.BarcolanaBoats_IT-IT7828341555_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BarcolanaBoats_IT-IT7828341555_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Il golfo si riempie di vele",
+                "Title": "La regata della Barcolana nel Golfo di Trieste, Friuli-Venezia Giulia, Italia",
+                "Copyright": "© Marco Saracco/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.708254,13.785912/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=45.708254,13.785912;S9;Trieste, Friuli-Venezia Giulia, Italia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261011_BarcolanaBoats\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=La+Barcolana+di+Trieste&form=hpcapt&filters=HpDate:\"20261010_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261011_BarcolanaBoats"
+            },
+            "Ssd": "20261011",
+            "Name": "BarcolanaBoats",
+            "Market": "IT-IT",
+            "Hash": "7828341555",
+            "FullDateString": "11 ottobre 2026"
+        }
+    },
+    {
         "startdate": "20261009",
         "fullstartdate": "202610092200",
         "enddate": "20261010",
