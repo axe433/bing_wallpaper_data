@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261011",
+        "fullstartdate": "202610112200",
+        "enddate": "20261012",
+        "url": "/th?id=OHR.MumblesSwansea2026_DE-DE6402348082_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MumblesSwansea2026_DE-DE6402348082",
+        "copyright": "Mumbles Pier, Swansea, Wales (© Helen Hotson/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Mumbles+Pier+Informationen&form=hpcapt&filters=HpDate%3a%2220261011_2200%22",
+        "title": "Ein Pier voller Geschichte",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261011_MumblesSwansea2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1ee1a49fceab8945fb4c7ba99ff68a70",
+        "hsh": "48c1e276b1d7a71006f66b5d1c901634",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Was haben eine historische Eisenbahn, eine Seenotrettungsstation und ein Ausflug ans Meer gemeinsam? Am Mumbles Pier treffen sie alle aufeinander. Der 255 Meter lange Pier ragt in die Swansea Bay und wurde am 10. Mai 1898 eröffnet. Seitdem prägt er die Küste von Wales. Einst war er die westliche Endstation der Swansea and Mumbles Railway, deren Ursprünge auf den weltweit ersten regelmäßigen Personenverkehr auf Schienen zurückgehen. Heute ist die Bahn verschwunden, doch der denkmalgeschützte Pier erinnert weiterhin an diese besondere Vergangenheit.",
+                "Image": {
+                    "Url": "/th?id=OHR.MumblesSwansea2026_DE-DE6402348082_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MumblesSwansea2026_DE-DE6402348082_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ein Pier voller Geschichte",
+                "Title": "Mumbles Pier, Swansea, Wales",
+                "Copyright": "© Helen Hotson/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.5755,-4.001746/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=51.5755,-4.001746;S9;Mumbles, Swansea, Wales&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261012_MumblesSwansea2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Mumbles+Pier+Informationen&form=hpcapt&filters=HpDate:\"20261011_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261012_MumblesSwansea2026"
+            },
+            "Ssd": "20261012",
+            "Name": "MumblesSwansea2026",
+            "Market": "DE-DE",
+            "Hash": "6402348082",
+            "FullDateString": "12. Okt.. 2026"
+        }
+    },
+    {
         "startdate": "20261010",
         "fullstartdate": "202610102200",
         "enddate": "20261011",

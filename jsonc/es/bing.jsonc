@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261011",
+        "fullstartdate": "202610112200",
+        "enddate": "20261012",
+        "url": "/th?id=OHR.PatrullaAguila_ES-ES5090687481_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PatrullaAguila_ES-ES5090687481",
+        "copyright": "La Patrulla Águila sobrevuela durante el Desfile Militar del Día Nacional, Madrid, España (© Carlos Alvarez/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Fiesta+Nacional+de+Espa%C3%B1a&form=hpcapt&filters=HpDate%3a%2220261011_2200%22",
+        "title": "Los colores de la hispanidad",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261011_PatrullaAguila%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "0beb2ea0431467c16e0bfb724ad754fe",
+        "hsh": "96003733eb39caffff4e866d0f17549c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La Patrulla Águila sobrevuela Madrid (España) dejando en el cielo el rojo y el amarillo de la bandera: durante cuatro décadas fue la imagen más esperada del desfile de la Fiesta Nacional, la jornada que se celebra cada 12 de octubre y que una ley fijó en esa fecha en 1987.",
+                "Image": {
+                    "Url": "/th?id=OHR.PatrullaAguila_ES-ES5090687481_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PatrullaAguila_ES-ES5090687481_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Los colores de la hispanidad",
+                "Title": "La Patrulla Águila sobrevuela durante el Desfile Militar del Día Nacional, Madrid, España",
+                "Copyright": "© Carlos Alvarez/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.416691,-3.700346/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=40.416691,-3.700346;S9;Madrid, España&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261012_PatrullaAguila\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Fiesta+Nacional+de+Espa%c3%b1a&form=hpcapt&filters=HpDate:\"20261011_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261012_PatrullaAguila"
+            },
+            "Ssd": "20261012",
+            "Name": "PatrullaAguila",
+            "Market": "ES-ES",
+            "Hash": "5090687481",
+            "FullDateString": "12 de oct de 2026"
+        }
+    },
+    {
         "startdate": "20261010",
         "fullstartdate": "202610102200",
         "enddate": "20261011",
