@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261012",
+        "fullstartdate": "202610122200",
+        "enddate": "20261013",
+        "url": "/th?id=OHR.PlitviceAutumn_IT-IT0543699035_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PlitviceAutumn_IT-IT0543699035",
+        "copyright": "Parco nazionale dei laghi di Plitvice, Croazia (© Jan Wlodarczyk/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Parco+nazionale+dei+laghi+di+Plitvice&form=hpcapt",
+        "title": "Sinfonia in blu e verde",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261012_PlitviceAutumn%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "74bc358af78e5c451a6805c32761c38e",
+        "hsh": "18b7b74c760a3de85546c5ed90fa5871",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Nel Parco nazionale dei laghi di Plitvice, in Croazia, l'acqua sembra essere davvero ovunque. Sedici laghi a gradoni si collegano attraverso cascate, ruscelli e salti che attraversano canyon calcarei coperti di foresta, e il colore passa dal verde smeraldo al blu profondo a seconda dei minerali, della luce e dei riflessi. Istituito nel 1949, è il parco nazionale più antico e più grande del Paese.",
+                "Image": {
+                    "Url": "/th?id=OHR.PlitviceAutumn_IT-IT0543699035_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PlitviceAutumn_IT-IT0543699035_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Sinfonia in blu e verde",
+                "Title": "Parco nazionale dei laghi di Plitvice, Croazia",
+                "Copyright": "© Jan Wlodarczyk/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.866465,15.581867/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=44.866465,15.581867;S9;Parco nazionale dei laghi di Plitvice, Croazia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261013_PlitviceAutumn\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parco+nazionale+dei+laghi+di+Plitvice&form=hpcapt&filters=HpDate:\"20261012_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261013_PlitviceAutumn"
+            },
+            "Ssd": "20261013",
+            "Name": "PlitviceAutumn",
+            "Market": "IT-IT",
+            "Hash": "0543699035",
+            "FullDateString": "13 ottobre 2026"
+        }
+    },
+    {
         "startdate": "20261011",
         "fullstartdate": "202610112200",
         "enddate": "20261012",

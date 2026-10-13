@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261012",
+        "fullstartdate": "202610120400",
+        "enddate": "20261013",
+        "url": "/th?id=OHR.HeartLakeTG_EN-CA2157233427_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HeartLakeTG_EN-CA2157233427",
+        "copyright": "Baker Lake near East Bolton, Quebec (© SEBASTIEN ST-JEAN/Contributor/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Canadian+Thanksgiving&form=hpcapt&filters=HpDate%3a%2220261012_0400%22",
+        "title": "Hearts filled with gratitude",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261012_HeartLakeTG%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "9640ea9fa0a820cc444721fa9c132631",
+        "hsh": "2b18d867ab82377d0036c577c2705343",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Pull up a chair, pass the pie and make some room for gratitude. Thanksgiving in Canada has a story that goes back much further than the holiday table. This holiday is rooted in harvest traditions, with people gathering to give thanks. Its history is not tied to one single event, although an early celebration is associated with English explorer Martin Frobisher. In 1578, after his expedition made a safe passage across the Atlantic and reached what is now Nunavut, Frobisher held a celebratory feast. Over time, Thanksgiving evolved into a national holiday centred on the harvest and spending time with loved ones.",
+                "Image": {
+                    "Url": "/th?id=OHR.HeartLakeTG_EN-CA2157233427_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HeartLakeTG_EN-CA2157233427_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Hearts filled with gratitude",
+                "Title": "Baker Lake near East Bolton, Quebec",
+                "Copyright": "© SEBASTIEN ST-JEAN/Contributor/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Thanksgiving has been observed on the second Monday in October throughout Canada since 1957.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261012_HeartLakeTG\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Canadian+Thanksgiving&form=hpcapt&filters=HpDate:\"20261012_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261012_HeartLakeTG"
+            },
+            "Ssd": "20261012",
+            "Name": "HeartLakeTG",
+            "Market": "EN-CA",
+            "Hash": "2157233427",
+            "FullDateString": "Oct 12, 2026"
+        }
+    },
+    {
         "startdate": "20261011",
         "fullstartdate": "202610110400",
         "enddate": "20261012",

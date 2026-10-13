@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261012",
+        "fullstartdate": "202610122200",
+        "enddate": "20261013",
+        "url": "/th?id=OHR.PlitviceAutumn_DE-DE7625110895_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PlitviceAutumn_DE-DE7625110895",
+        "copyright": "Nationalpark Plitvicer Seen, Kroatien (© Jan Wlodarczyk/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Nationalpark+Plitvicer+Seen+Kroatien&form=hpcapt&filters=HpDate%3a%2220261012_2200%22",
+        "title": "Eine Symphonie in Blau und Grün",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261012_PlitviceAutumn%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "74bc358af78e5c451a6805c32761c38e",
+        "hsh": "d2660d70a47e1e66596b1949385dc859",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Im Nationalpark Plitvicer Seen scheint Wasser allgegenwärtig zu sein. Sechzehn terrassenförmig angeordnete Seen sind durch zahlreiche Wasserfälle, Bäche und Kaskaden miteinander verbunden und schlängeln sich durch bewaldete Kalksteinschluchten. Je nach Mineralgehalt, Sonneneinstrahlung und Spiegelungen schimmert das Wasser in immer neuen Farbtönen von Smaragdgrün bis Tiefblau. Der 1949 gegründete Nationalpark ist der älteste und größte Kroatiens. Besonders charakteristisch sind seine natürlichen Tuffbarrieren, die durch die Ablagerung von Kalziumkarbonat entstehen. Dieser Prozess setzt sich bis heute fort und verändert die Seen und Wasserfälle stetig.",
+                "Image": {
+                    "Url": "/th?id=OHR.PlitviceAutumn_DE-DE7625110895_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PlitviceAutumn_DE-DE7625110895_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Eine Symphonie in Blau und Grün",
+                "Title": "Nationalpark Plitvicer Seen, Kroatien",
+                "Copyright": "© Jan Wlodarczyk/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.866465,15.581867/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=44.866465,15.581867;S9;Nationalpark Plitvicer Seen, Kroatien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261013_PlitviceAutumn\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Nationalpark+Plitvicer+Seen+Kroatien&form=hpcapt&filters=HpDate:\"20261012_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261013_PlitviceAutumn"
+            },
+            "Ssd": "20261013",
+            "Name": "PlitviceAutumn",
+            "Market": "DE-DE",
+            "Hash": "7625110895",
+            "FullDateString": "13. Okt.. 2026"
+        }
+    },
+    {
         "startdate": "20261011",
         "fullstartdate": "202610112200",
         "enddate": "20261012",
