@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261013",
+        "fullstartdate": "202610131600",
+        "enddate": "20261014",
+        "url": "/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AmmoniteFossils_ZH-CN5825251327",
+        "copyright": "侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%9B%BD%E5%AE%B6%E5%8C%96%E7%9F%B3%E6%97%A5&form=hpcapt&mkt=zh-cn",
+        "title": "穿越时间的螺旋",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261013_AmmoniteFossils%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cded710c5872c48d574088c5174c11a2",
+        "hsh": "999a4070dbede033fe884401e20c4f09",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "我们如何知道早在人类出现之前地球是什么样子？化石提供了许多线索。国家化石日旨在赞颂古生物学，以及那些帮助科学家重建过去环境、追溯生命演化并了解数百万年前消失生物的发现。从恐龙到微小的海洋生物，这些过去的遗存保存着早已不复存在的远古世界的一个个瞬间。",
+                "Image": {
+                    "Url": "/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "穿越时间的螺旋",
+                "Title": "侏罗纪时期的菊石化石",
+                "Copyright": "© J Nemchinova/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "化石不一定非得是骨骼。足迹、洞道、巢穴以及古代生命留下的其他痕迹也可以成为化石。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261014_AmmoniteFossils\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%9b%bd%e5%ae%b6%e5%8c%96%e7%9f%b3%e6%97%a5&form=hpcapt&filters=HpDate:\"20261013_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261014_AmmoniteFossils"
+            },
+            "Ssd": "20261014",
+            "Name": "AmmoniteFossils",
+            "Market": "ZH-CN",
+            "Hash": "5825251327",
+            "FullDateString": "2026 10月 14"
+        }
+    },
+    {
         "startdate": "20261012",
         "fullstartdate": "202610121600",
         "enddate": "20261013",

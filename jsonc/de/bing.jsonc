@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261013",
+        "fullstartdate": "202610132200",
+        "enddate": "20261014",
+        "url": "/th?id=OHR.AmmoniteFossils_DE-DE6773160072_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AmmoniteFossils_DE-DE6773160072",
+        "copyright": "Ammonitenfossilien aus der Jurazeit (© J Nemchinova/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Fossilien&form=hpcapt&filters=HpDate%3a%2220261013_2200%22",
+        "title": "Spiralen durch die Zeit",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261013_AmmoniteFossils%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cded710c5872c48d574088c5174c11a2",
+        "hsh": "901eef751bec2f1ad45708c53d06529f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ammoniten gehören zu den faszinierendsten Fossilien der Jurazeit. Die ausgestorbenen Meerestiere entwickelten eine erstaunliche Vielfalt an Formen und Größen. Heute sind ihre versteinerten Schalen wichtige Zeugen einer längst vergangenen Welt. Für die Wissenschaft sind sie besonders wertvoll, da bestimmte Arten als Leitfossilien dienen und dabei helfen, Gesteinsschichten zeitlich einzuordnen.",
+                "Image": {
+                    "Url": "/th?id=OHR.AmmoniteFossils_DE-DE6773160072_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AmmoniteFossils_DE-DE6773160072_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Spiralen durch die Zeit",
+                "Title": "Ammonitenfossilien aus der Jurazeit",
+                "Copyright": "© J Nemchinova/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Ein Fossil muss nicht unbedingt ein Knochen sein. Auch Spuren, Tierbaue, Nester und andere Überreste urzeitlichen Lebens können zu Fossilien werden.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261014_AmmoniteFossils\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Fossilien&form=hpcapt&filters=HpDate:\"20261013_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261014_AmmoniteFossils"
+            },
+            "Ssd": "20261014",
+            "Name": "AmmoniteFossils",
+            "Market": "DE-DE",
+            "Hash": "6773160072",
+            "FullDateString": "14. Okt.. 2026"
+        }
+    },
+    {
         "startdate": "20261012",
         "fullstartdate": "202610122200",
         "enddate": "20261013",

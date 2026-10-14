@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261013",
+        "fullstartdate": "202610132200",
+        "enddate": "20261014",
+        "url": "/th?id=OHR.AmmoniteFossils_ES-ES5982555890_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AmmoniteFossils_ES-ES5982555890",
+        "copyright": "Fósiles de amonites del Jurásico (© J Nemchinova/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=F%C3%B3siles+de+amonites&form=hpcapt&filters=HpDate%3a%2220261013_2200%22",
+        "title": "Espirales en el tiempo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261013_AmmoniteFossils%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cded710c5872c48d574088c5174c11a2",
+        "hsh": "9bc707f8937f8ea3790b92f9d1ae9799",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Las conchas enrolladas de la imagen pertenecen a amonites del Jurásico, unos moluscos marinos que poblaban los océanos cuando los dinosaurios dominaban la tierra firme. Se parecían a los nautilos actuales, pero estaban más emparentados con los calamares y los pulpos, y sus conchas tabicadas formaron esas espirales que hoy reconocemos al instante.",
+                "Image": {
+                    "Url": "/th?id=OHR.AmmoniteFossils_ES-ES5982555890_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AmmoniteFossils_ES-ES5982555890_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Espirales en el tiempo",
+                "Title": "Fósiles de amonites del Jurásico",
+                "Copyright": "© J Nemchinova/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Un fósil no tiene que ser un hueso: huellas, madrigueras, nidos y otros rastros de vida antigua también pueden fosilizar.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261014_AmmoniteFossils\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=F%c3%b3siles+de+amonites&form=hpcapt&filters=HpDate:\"20261013_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261014_AmmoniteFossils"
+            },
+            "Ssd": "20261014",
+            "Name": "AmmoniteFossils",
+            "Market": "ES-ES",
+            "Hash": "5982555890",
+            "FullDateString": "14 de oct de 2026"
+        }
+    },
+    {
         "startdate": "20261012",
         "fullstartdate": "202610122200",
         "enddate": "20261013",

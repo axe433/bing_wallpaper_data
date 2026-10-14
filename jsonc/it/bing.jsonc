@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261013",
+        "fullstartdate": "202610132200",
+        "enddate": "20261014",
+        "url": "/th?id=OHR.AmmoniteFossils_IT-IT0745512844_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AmmoniteFossils_IT-IT0745512844",
+        "copyright": "Fossili di ammoniti del Giurassico (© J Nemchinova/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Fossili+di+ammoniti&form=hpcapt",
+        "title": "Spirali nel tempo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261013_AmmoniteFossils%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cded710c5872c48d574088c5174c11a2",
+        "hsh": "b6d1c05996626f8e3a68ffa96e633a7f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Le conchiglie avvolte a spirale dell'immagine appartengono ad ammoniti del Giurassico, molluschi marini che popolavano gli oceani quando i dinosauri dominavano le terre emerse. Somigliavano ai nautili di oggi, ma erano parenti più stretti di calamari e polpi, e le loro conchiglie divise in camere hanno prodotto quelle spirali che riconosciamo al primo sguardo.",
+                "Image": {
+                    "Url": "/th?id=OHR.AmmoniteFossils_IT-IT0745512844_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AmmoniteFossils_IT-IT0745512844_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Spirali nel tempo",
+                "Title": "Fossili di ammoniti del Giurassico",
+                "Copyright": "© J Nemchinova/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Un fossile non è per forza un osso: anche impronte, tane, nidi e altre tracce di vita antica possono fossilizzare.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261014_AmmoniteFossils\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Fossili+di+ammoniti&form=hpcapt&filters=HpDate:\"20261013_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261014_AmmoniteFossils"
+            },
+            "Ssd": "20261014",
+            "Name": "AmmoniteFossils",
+            "Market": "IT-IT",
+            "Hash": "0745512844",
+            "FullDateString": "14 ottobre 2026"
+        }
+    },
+    {
         "startdate": "20261012",
         "fullstartdate": "202610122200",
         "enddate": "20261013",
