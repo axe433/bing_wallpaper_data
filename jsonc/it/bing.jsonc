@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261014",
+        "fullstartdate": "202610142200",
+        "enddate": "20261015",
+        "url": "/th?id=OHR.WroclawPoland_IT-IT1033829565_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WroclawPoland_IT-IT1033829565",
+        "copyright": "Veduta della piazza del Mercato di Breslavia dal Ponte delle Streghe, Breslavia, Polonia (© Piotr Mitelski/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Breslavia&form=hpcapt",
+        "title": "Ponti, tetti e crepuscolo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261014_WroclawPoland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ccb8d4a71cd9d456394b086ed2d59dbd",
+        "hsh": "87d49315333027ebc00787aeda7a1420",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Quando la sera scende su Breslavia (Polonia), la luce dorata si posa sui tetti, sulle torri delle chiese e su uno dei centri storici più sorprendenti dell'Europa centrale. La città si distribuisce tra isole e canali collegati da oltre 100 ponti, e mescola architettura medievale a una vita urbana molto vivace. Il suo cuore è il Rynek, la piazza del Mercato nata nel Duecento, dominata dal vecchio municipio gotico.",
+                "Image": {
+                    "Url": "/th?id=OHR.WroclawPoland_IT-IT1033829565_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WroclawPoland_IT-IT1033829565_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ponti, tetti e crepuscolo",
+                "Title": "Veduta della piazza del Mercato di Breslavia dal Ponte delle Streghe, Breslavia, Polonia",
+                "Copyright": "© Piotr Mitelski/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.10977,17.034634/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=51.10977,17.034634;S9;Breslavia, Polonia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261015_WroclawPoland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Breslavia&form=hpcapt&filters=HpDate:\"20261014_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261015_WroclawPoland"
+            },
+            "Ssd": "20261015",
+            "Name": "WroclawPoland",
+            "Market": "IT-IT",
+            "Hash": "1033829565",
+            "FullDateString": "15 ottobre 2026"
+        }
+    },
+    {
         "startdate": "20261013",
         "fullstartdate": "202610132200",
         "enddate": "20261014",

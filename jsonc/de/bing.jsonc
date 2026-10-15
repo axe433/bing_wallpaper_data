@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261014",
+        "fullstartdate": "202610142200",
+        "enddate": "20261015",
+        "url": "/th?id=OHR.WroclawPoland_DE-DE7177247783_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WroclawPoland_DE-DE7177247783",
+        "copyright": "Blick auf den Breslauer Marktplatz von der Hexenbrücke in Breslau, Polen (© Piotr Mitelski/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Breslau&form=hpcapt&filters=HpDate%3a%2220261014_2200%22",
+        "title": "Brücken, Dächer und Dämmerung",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261014_WroclawPoland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ccb8d4a71cd9d456394b086ed2d59dbd",
+        "hsh": "e76714f129ecbdaf006276a8be080253",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Wenn in Breslau die Dämmerung einsetzt, legt sich ein warmes Licht über die roten Dächer, die Kirchtürme und die Fassaden der Altstadt. Die Stadt im Südwesten Polens erstreckt sich über mehrere Inseln an der Oder, die durch zahlreiche Brücken miteinander verbunden sind. Im Mittelpunkt steht der Marktplatz, dessen Ursprünge bis ins 13. Jahrhundert zurückreichen. Rund um den Rynek prägen restaurierte Bürgerhäuser und das gotische Rathaus eines der eindrucksvollsten Stadtbilder Mitteleuropas. Zwischen historischen Bauwerken und belebten Straßencafés begegnen sich hier Geschichte und modernes Stadtleben auf besonders reizvolle Weise.",
+                "Image": {
+                    "Url": "/th?id=OHR.WroclawPoland_DE-DE7177247783_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WroclawPoland_DE-DE7177247783_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Brücken, Dächer und Dämmerung",
+                "Title": "Blick auf den Breslauer Marktplatz von der Hexenbrücke in Breslau, Polen",
+                "Copyright": "© Piotr Mitelski/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.10977,17.034634/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=51.10977,17.034634;S9;Breslau, Polen&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261015_WroclawPoland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Breslau&form=hpcapt&filters=HpDate:\"20261014_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261015_WroclawPoland"
+            },
+            "Ssd": "20261015",
+            "Name": "WroclawPoland",
+            "Market": "DE-DE",
+            "Hash": "7177247783",
+            "FullDateString": "15. Okt.. 2026"
+        }
+    },
+    {
         "startdate": "20261013",
         "fullstartdate": "202610132200",
         "enddate": "20261014",

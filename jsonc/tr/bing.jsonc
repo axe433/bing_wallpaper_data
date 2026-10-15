@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261014",
+        "fullstartdate": "202610140700",
+        "enddate": "20261015",
+        "url": "/th?id=OHR.AmmoniteFossils_ROW1149504413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AmmoniteFossils_ROW1149504413",
+        "copyright": "Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ammonite+fossils&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261014_AmmoniteFossils%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cded710c5872c48d574088c5174c11a2",
+        "hsh": "6a6ad93d71d054440157c22f6a554269",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "How do we know what Earth looked like long before humans appeared? Fossils provide many clues. Palaeontological discoveries help scientists reconstruct past environments, trace the evolution of life and learn about creatures that vanished millions of years ago. From dinosaurs to tiny marine organisms, these remnants of the past preserve snapshots of ancient worlds that no longer exist.",
+                "Image": {
+                    "Url": "/th?id=OHR.AmmoniteFossils_ROW1149504413_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AmmoniteFossils_ROW1149504413_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Ammonite fossils from the Jurassic Period",
+                "Copyright": "© J Nemchinova/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261014_AmmoniteFossils\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ammonite+fossils&form=hpcapt&filters=HpDate:\"20261014_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261014_AmmoniteFossils"
+            },
+            "Ssd": "20261014",
+            "Name": "AmmoniteFossils",
+            "Market": "ROW",
+            "Hash": "1149504413",
+            "FullDateString": "14 Eki, 2026"
+        }
+    },
+    {
         "startdate": "20261013",
         "fullstartdate": "202610130700",
         "enddate": "20261014",
