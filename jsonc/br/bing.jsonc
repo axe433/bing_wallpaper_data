@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261015",
+        "fullstartdate": "202610150300",
+        "enddate": "20261016",
+        "url": "/th?id=OHR.WroclawPoland_PT-BR5779158730_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WroclawPoland_PT-BR5779158730",
+        "copyright": "Vista da Praça do Mercado de Wrocław a partir da Ponte das Bruxas, Wrocław, Polônia (© Piotr Mitelski/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Wroclaw+na+Polonia&form=hpcapt&mkt=pt-br",
+        "title": "O brilho de Wrocław",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261015_WroclawPoland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ccb8d4a71cd9d456394b086ed2d59dbd",
+        "hsh": "f0275e40c2d8dd9a2eec5ce056391a48",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Se uma cidade pudesse ser descrita como um quebra-cabeça, Wrocław (também chamada Breslávia) já viria com peças extras. Espalhada por ilhas e cortada por canais e rios, a cidade polonesa é atravessada por mais de 100 pontes. No centro está a Rynek, a enorme Praça do Mercado criada no século XIII, cercada por fachadas coloridas e pela antiga Prefeitura gótica.",
+                "Image": {
+                    "Url": "/th?id=OHR.WroclawPoland_PT-BR5779158730_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WroclawPoland_PT-BR5779158730_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O brilho de Wrocław",
+                "Title": "Vista da Praça do Mercado de Wrocław a partir da Ponte das Bruxas, Wrocław, Polônia",
+                "Copyright": "© Piotr Mitelski/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261015_WroclawPoland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Wroclaw+na+Polonia&form=hpcapt&filters=HpDate:\"20261015_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261015_WroclawPoland"
+            },
+            "Ssd": "20261015",
+            "Name": "WroclawPoland",
+            "Market": "PT-BR",
+            "Hash": "5779158730",
+            "FullDateString": "15 out. 2026"
+        }
+    },
+    {
         "startdate": "20261014",
         "fullstartdate": "202610140300",
         "enddate": "20261015",

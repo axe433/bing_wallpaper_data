@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261015",
+        "fullstartdate": "202610152200",
+        "enddate": "20261016",
+        "url": "/th?id=OHR.SneffelsAutumn_IT-IT1945499761_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SneffelsAutumn_IT-IT1945499761",
+        "copyright": "Monte Sneffels, San Juan Mountains, vicino a Ridgway, Colorado, USA (© lightphoto/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Monte+Sneffels&form=hpcapt",
+        "title": "Oro e neve in Colorado",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261015_SneffelsAutumn%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "66cc0c6386baa2b23323552da968931c",
+        "hsh": "90477fbb4b7e82659fbe647d43265a56",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Il monte Sneffels si alza sulle San Juan Mountains, vicino a Ridgway, in Colorado (Stati Uniti), e supera i 4.300 metri di quota. Fa parte del club dei cosiddetti «quattordicimila», le cime che oltrepassano i 14.000 piedi (4270 metri), e in ottobre regala uno degli spettacoli più cercati dell'ovest americano: i versanti si riempiono di pioppi tremuli dorati proprio quando la neve inizia a fermarsi sulle vette.",
+                "Image": {
+                    "Url": "/th?id=OHR.SneffelsAutumn_IT-IT1945499761_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SneffelsAutumn_IT-IT1945499761_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Oro e neve in Colorado",
+                "Title": "Monte Sneffels, San Juan Mountains, vicino a Ridgway, Colorado, USA",
+                "Copyright": "© lightphoto/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.003941,-107.792358/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=38.003941,-107.792358;S9;Monte Sneffels, Colorado, Stati Uniti&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261016_SneffelsAutumn\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Monte+Sneffels&form=hpcapt&filters=HpDate:\"20261015_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261016_SneffelsAutumn"
+            },
+            "Ssd": "20261016",
+            "Name": "SneffelsAutumn",
+            "Market": "IT-IT",
+            "Hash": "1945499761",
+            "FullDateString": "16 ottobre 2026"
+        }
+    },
+    {
         "startdate": "20261014",
         "fullstartdate": "202610142200",
         "enddate": "20261015",

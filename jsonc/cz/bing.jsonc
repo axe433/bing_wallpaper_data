@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261015",
+        "fullstartdate": "202610150700",
+        "enddate": "20261016",
+        "url": "/th?id=OHR.NiagaraOnt_ROW1418204353_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NiagaraOnt_ROW1418204353",
+        "copyright": "Horseshoe Falls illuminated at night in Niagara Falls, Ontario, Canada (© Jianmei Wang/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Horseshoe+Falls+Niagara+Falls&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261015_NiagaraOnt%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b2400419795b587676c451d460838cca",
+        "hsh": "82ecddd88cae44a01297abab424b3d09",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "People have been coming to Niagara Falls, on the Canada-US border, for centuries to admire the view. A few, however, decided admiring it from a safe distance was overrated. In 1901, Annie Edson Taylor climbed into a barrel and became the first recorded person to survive going over the Falls. Others followed with their own stunts, although such attempts are now illegal. The Falls have also inspired artists, filmmakers and musicians, with Hollywood giving them a starring role in 'Niagara' (1953), featuring Marilyn Monroe and Joseph Cotten.",
+                "Image": {
+                    "Url": "/th?id=OHR.NiagaraOnt_ROW1418204353_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NiagaraOnt_ROW1418204353_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Horseshoe Falls illuminated at night in Niagara Falls, Ontario, Canada",
+                "Copyright": "© Jianmei Wang/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261015_NiagaraOnt\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Horseshoe+Falls+Niagara+Falls&form=hpcapt&filters=HpDate:\"20261015_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261015_NiagaraOnt"
+            },
+            "Ssd": "20261015",
+            "Name": "NiagaraOnt",
+            "Market": "ROW",
+            "Hash": "1418204353",
+            "FullDateString": "15. Oct rrrr"
+        }
+    },
+    {
         "startdate": "20261014",
         "fullstartdate": "202610140700",
         "enddate": "20261015",

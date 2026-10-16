@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261015",
+        "fullstartdate": "202610152200",
+        "enddate": "20261016",
+        "url": "/th?id=OHR.SneffelsAutumn_ES-ES3631909168_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SneffelsAutumn_ES-ES3631909168",
+        "copyright": "Monte Sneffels, montañas San Juan, cerca de Ridgway, Colorado, EE. UU. (© lightphoto/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Monte+Sneffels&form=hpcapt&filters=HpDate%3a%2220261015_2200%22",
+        "title": "Oro y nieve en Colorado",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261015_SneffelsAutumn%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "66cc0c6386baa2b23323552da968931c",
+        "hsh": "e4696c64aa954d2db6f3c05b1e2b325e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El monte Sneffels se alza sobre las montañas San Juan, cerca de Ridgway, en Colorado (Estados Unidos), y supera los 4.300 metros de altitud. Pertenece al club de los llamados «catorcemiles», los picos que rebasan los 14.000 pies (4.270 m), y en octubre protagoniza uno de los espectáculos más buscados del oeste americano: las laderas se llenan de álamos temblones dorados justo cuando la nieve empieza a asentarse en las cumbres.",
+                "Image": {
+                    "Url": "/th?id=OHR.SneffelsAutumn_ES-ES3631909168_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SneffelsAutumn_ES-ES3631909168_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Oro y nieve en Colorado",
+                "Title": "Monte Sneffels, montañas San Juan, cerca de Ridgway, Colorado, EE. UU.",
+                "Copyright": "© lightphoto/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.003941,-107.792358/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=38.003941,-107.792358;S9;Monte Sneffels, Colorado, EE. UU.&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261016_SneffelsAutumn\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Monte+Sneffels&form=hpcapt&filters=HpDate:\"20261015_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261016_SneffelsAutumn"
+            },
+            "Ssd": "20261016",
+            "Name": "SneffelsAutumn",
+            "Market": "ES-ES",
+            "Hash": "3631909168",
+            "FullDateString": "16 de oct de 2026"
+        }
+    },
+    {
         "startdate": "20261014",
         "fullstartdate": "202610142200",
         "enddate": "20261015",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261015",
+        "fullstartdate": "202610152200",
+        "enddate": "20261016",
+        "url": "/th?id=OHR.SneffelsAutumn_FR-FR3895133232_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SneffelsAutumn_FR-FR3895133232",
+        "copyright": "Le mont Sneffels dans les montagnes San Juan, près de Ridgway, Colorado, États-Unis (© lightphoto/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mont+Sneffels+Colorado+%C3%89tats-Unis&form=hpcapt&filters=HpDate%3a%2220261015_2200%22",
+        "title": "En haut du Colorado",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261015_SneffelsAutumn%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "66cc0c6386baa2b23323552da968931c",
+        "hsh": "09475694739f675a828b3bf36b641479",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Certains sommets se méritent avant de dévoiler leur panorama. Le mont Sneffels, lui, concentre son ultime défi dans les dernières centaines de mètres. Culminant à 4 313 mètres dans les monts San Juan, au Colorado (États-Unis), ce géant domine les paysages de Ridgway, Ouray et Telluride. Il s’élève au cœur des 6 713 hectares de la Mount Sneffels Wilderness, territoire protégé depuis 1980. Plusieurs itinéraires permettent de l’approcher, notamment par Yankee Boy Basin ou depuis le secteur des Blue Lakes.",
+                "Image": {
+                    "Url": "/th?id=OHR.SneffelsAutumn_FR-FR3895133232_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SneffelsAutumn_FR-FR3895133232_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "En haut du Colorado",
+                "Title": "Le mont Sneffels dans les montagnes San Juan, près de Ridgway, Colorado, États-Unis",
+                "Copyright": "© lightphoto/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.00354,-107.792695/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=38.00354,-107.792695;S9;Mont Sneffels, Colorado, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261016_SneffelsAutumn\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Mont+Sneffels+Colorado+%c3%89tats-Unis&form=hpcapt&filters=HpDate:\"20261015_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261016_SneffelsAutumn"
+            },
+            "Ssd": "20261016",
+            "Name": "SneffelsAutumn",
+            "Market": "FR-FR",
+            "Hash": "3895133232",
+            "FullDateString": "16 oct. 2026"
+        }
+    },
+    {
         "startdate": "20261014",
         "fullstartdate": "202610142200",
         "enddate": "20261015",

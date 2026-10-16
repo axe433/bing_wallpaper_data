@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261015",
+        "fullstartdate": "202610152200",
+        "enddate": "20261016",
+        "url": "/th?id=OHR.AndechsAbbey_DE-DE4997798666_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AndechsAbbey_DE-DE4997798666",
+        "copyright": "Kloster Andechs bei Sonnenuntergang, Andechs, Bayern (© imageBROKER/Martin Moxter)",
+        "copyrightlink": "https://www.bing.com/search?q=Kloster+Andechs&form=hpcapt&filters=HpDate%3a%2220261015_2200%22",
+        "title": "Hoch über Bayern",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261015_AndechsAbbey%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1782f40bd5ce807f1c85edee846c7e7a",
+        "hsh": "9d4c63d95790927e9c82119094eca7c6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Andechs in Oberbayern verbindet weite Ausblicke mit einer langen Geschichte. Hoch auf dem Heiligen Berg thront das Kloster Andechs, ein Wallfahrtsort, zu dem Menschen bereits seit dem 12. Jahrhundert pilgern. Das Benediktinerkloster selbst wurde 1455 gegründet. Seitdem betreuen Benediktiner die Wallfahrt. Die religiösen Wurzeln des Berges sind jedoch noch älter: Der dort verwahrte Reliquienschatz reicht bis ins 10. Jahrhundert zurück.",
+                "Image": {
+                    "Url": "/th?id=OHR.AndechsAbbey_DE-DE4997798666_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AndechsAbbey_DE-DE4997798666_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Hoch über Bayern",
+                "Title": "Kloster Andechs bei Sonnenuntergang, Andechs, Bayern",
+                "Copyright": "© imageBROKER/Martin Moxter",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.974493,11.182802/9?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=47.974493,11.182802;S9;Kloster Andechs, Bayern&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261016_AndechsAbbey\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Kloster+Andechs&form=hpcapt&filters=HpDate:\"20261015_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261016_AndechsAbbey"
+            },
+            "Ssd": "20261016",
+            "Name": "AndechsAbbey",
+            "Market": "DE-DE",
+            "Hash": "4997798666",
+            "FullDateString": "16. Okt.. 2026"
+        }
+    },
+    {
         "startdate": "20261014",
         "fullstartdate": "202610142200",
         "enddate": "20261015",
