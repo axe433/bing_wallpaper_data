@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261016",
+        "fullstartdate": "202610160400",
+        "enddate": "20261017",
+        "url": "/th?id=OHR.MaligneFest_EN-CA6755477171_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MaligneFest_EN-CA6755477171",
+        "copyright": "Maligne Lake, Jasper National Park, Alberta (© Andrey Popov/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Jasper+Dark+Sky+Festival&form=hpcapt&filters=HpDate%3a%2220261016_0400%22",
+        "title": "Under a blanket of stars",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261016_MaligneFest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "91cc1a6a0da9fde5a3983c1789f19e12",
+        "hsh": "8ff465b834b0c8483ec62cd479bc4e7d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Why settle for a planetarium ceiling when Jasper can give you the real thing? That's rather the point of the Jasper Dark Sky Festival, which kicks off today and runs until October 25. The annual event grew from celebrations surrounding Jasper National Park's 2011 designation as a Dark Sky Preserve. The idea is simple: protect natural darkness, then give people plenty of reasons to appreciate it.",
+                "Image": {
+                    "Url": "/th?id=OHR.MaligneFest_EN-CA6755477171_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MaligneFest_EN-CA6755477171_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Under a blanket of stars",
+                "Title": "Maligne Lake, Jasper National Park, Alberta",
+                "Copyright": "© Andrey Popov/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/54.358091,-117.849547/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=54.358091,-117.849547;S9;Jasper National Park, Alberta&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261016_MaligneFest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Jasper+Dark+Sky+Festival&form=hpcapt&filters=HpDate:\"20261016_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261016_MaligneFest"
+            },
+            "Ssd": "20261016",
+            "Name": "MaligneFest",
+            "Market": "EN-CA",
+            "Hash": "6755477171",
+            "FullDateString": "Oct 16, 2026"
+        }
+    },
+    {
         "startdate": "20261015",
         "fullstartdate": "202610150400",
         "enddate": "20261016",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261016",
+        "fullstartdate": "202610162200",
+        "enddate": "20261017",
+        "url": "/th?id=OHR.SmilingSquirrel_FR-FR7350313584_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SmilingSquirrel_FR-FR7350313584",
+        "copyright": "Écureuil roux (© Cédric GUERE/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%C3%A9cureuil+roux&form=hpcapt&filters=HpDate%3a%2220261016_2200%22",
+        "title": "Le jardinier des bois",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261016_SmilingSquirrel%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "cbb0acc8a291142b8b7d8b7da386f39c",
+        "hsh": "30caee2351acc2b7501d64ed30346445",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sur l’image du jour, un écureuil semble nous adresser un sourire malicieux. Une expression irrésistible, parfaitement assortie à l’effervescence de l’automne.",
+                "Image": {
+                    "Url": "/th?id=OHR.SmilingSquirrel_FR-FR7350313584_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SmilingSquirrel_FR-FR7350313584_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Le jardinier des bois",
+                "Title": "Écureuil roux",
+                "Copyright": "© Cédric GUERE/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Le pelage de l’écureuil roux peut beaucoup varier, allant du roux orangé au brun très foncé, voire presque noir.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261017_SmilingSquirrel\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%c3%a9cureuil+roux&form=hpcapt&filters=HpDate:\"20261016_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261017_SmilingSquirrel"
+            },
+            "Ssd": "20261017",
+            "Name": "SmilingSquirrel",
+            "Market": "FR-FR",
+            "Hash": "7350313584",
+            "FullDateString": "17 oct. 2026"
+        }
+    },
+    {
         "startdate": "20261015",
         "fullstartdate": "202610152200",
         "enddate": "20261016",
