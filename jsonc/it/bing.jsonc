@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261017",
+        "fullstartdate": "202610172200",
+        "enddate": "20261018",
+        "url": "/th?id=OHR.ValdiFunesDolomite_IT-IT2572646672_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ValdiFunesDolomite_IT-IT2572646672",
+        "copyright": "La Val di Funes, Bolzano, Trentino-Alto Adige, Italia (© Achim Thomae/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=La+Val+di+Funes&form=hpcapt",
+        "title": "Il segreto delle Dolomiti",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261017_ValdiFunesDolomite%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0169c9b329886e41d0a3bd3fedb6bdbb",
+        "hsh": "64e72ee29240810c745ab206a0b7b8d2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La Val di Funes, in provincia di Bolzano (Trentino-Alto Adige, Italia), è una di quelle valli che si nascondono bene: si stacca dalla Valle Isarco attraverso una gola strettissima e si apre solo dopo, per ventiquattro chilometri di prati, boschi e masi appesi ai versanti.",
+                "Image": {
+                    "Url": "/th?id=OHR.ValdiFunesDolomite_IT-IT2572646672_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ValdiFunesDolomite_IT-IT2572646672_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Il segreto delle Dolomiti",
+                "Title": "La Val di Funes, Bolzano, Trentino-Alto Adige, Italia",
+                "Copyright": "© Achim Thomae/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.657829,11.92385/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=46.657829,11.92385;S9;Bolzano, Trentino-Alto Adige, Italia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261018_ValdiFunesDolomite\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=La+Val+di+Funes&form=hpcapt&filters=HpDate:\"20261017_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261018_ValdiFunesDolomite"
+            },
+            "Ssd": "20261018",
+            "Name": "ValdiFunesDolomite",
+            "Market": "IT-IT",
+            "Hash": "2572646672",
+            "FullDateString": "18 ottobre 2026"
+        }
+    },
+    {
         "startdate": "20261016",
         "fullstartdate": "202610162200",
         "enddate": "20261017",
