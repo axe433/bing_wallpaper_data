@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261018",
+        "fullstartdate": "202610181500",
+        "enddate": "20261019",
+        "url": "/th?id=OHR.VeniceSunrise_JA-JP2535499489_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VeniceSunrise_JA-JP2535499489",
+        "copyright": "カナル・グランデ, イタリア (© Juan Romero/Cavan Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%AB%E3%83%8A%E3%83%AB%E3%83%BB%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87&form=hpcapt&filters=HpDate%3a%2220261018_1500%22",
+        "title": "夕焼けに染まるヴェネツィアの大運河",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261018_VeniceSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e8f2ef6ce117f9b67ba8ee49a44f72c7",
+        "hsh": "e65aabb3d8da636f099bf137d3647b45",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今日の画像は、イタリア・ヴェネツィアにあるカナル・グランデ。全長は約 3.8km で、S字形を描きながら街を二分する大運河です。水上バス「ヴァポレット」や水上タクシー、ゴンドラなどが行き交う主要な水上交通路で、ヴェネツィアの「メインストリート」となっています。運河沿いには 13 世紀から 18 世紀にかけて建てられた歴史的な建造物が数多く残されており、カナル・グランデは、世界文化遺産「ヴェネツィアとその潟」を代表する景観のひとつとして知られています。",
+                "Image": {
+                    "Url": "/th?id=OHR.VeniceSunrise_JA-JP2535499489_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VeniceSunrise_JA-JP2535499489_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "夕焼けに染まるヴェネツィアの大運河",
+                "Title": "カナル・グランデ, イタリア",
+                "Copyright": "© Juan Romero/Cavan Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.435337,12.32783/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=45.435337,12.32783;S9;カナル・グランデ, イタリア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20261019_VeniceSunrise%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261019_VeniceSunrise\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%ab%e3%83%8a%e3%83%ab%e3%83%bb%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%87&form=hpcapt&filters=HpDate:\"20261018_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261019_VeniceSunrise"
+            },
+            "Ssd": "20261019",
+            "Name": "VeniceSunrise",
+            "Market": "JA-JP",
+            "Hash": "2535499489",
+            "FullDateString": "2026 年 10月 月 19 日"
+        }
+    },
+    {
         "startdate": "20261017",
         "fullstartdate": "202610171500",
         "enddate": "20261018",

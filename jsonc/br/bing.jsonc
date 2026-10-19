@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261018",
+        "fullstartdate": "202610180300",
+        "enddate": "20261019",
+        "url": "/th?id=OHR.DolbadarnWales_PT-BR0887027747_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DolbadarnWales_PT-BR0887027747",
+        "copyright": "Castelo de Dolbadarn, Llanberis, Parque Nacional de Eryri (Snowdonia), País de Gales (© joe daniel price/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+de+Eryri+Snowdonia+Pais+de+Gales&form=hpcapt&mkt=pt-br",
+        "title": "Onde o tempo perde altitude",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261018_DolbadarnWales%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e228bfbd823f982d5659cbe09a27a73a",
+        "hsh": "3387f9eaec2b5054b7539aa55cc81d56",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Hoje tem parabéns no País de Gales: o Parque Nacional de Eryri completa 75 anos. Eryri é o nome galês oficial; Snowdonia, o antigo nome em inglês. Criado em 1951, o parque não perdeu tempo para impressionar. São mais de 2 mil km² de montanhas, turfeiras, bosques nativos e litoral, reunindo nove cadeias montanhosas e mais de cem quilômetros de costa. No topo da conversa está Yr Wyddfa, com mais de mil metros de altitude. Por perto vêm os maciços de Carneddau e Glyderau; ao sul, Cadair Idris também faz questão de aparecer.",
+                "Image": {
+                    "Url": "/th?id=OHR.DolbadarnWales_PT-BR0887027747_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DolbadarnWales_PT-BR0887027747_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Onde o tempo perde altitude",
+                "Title": "Castelo de Dolbadarn, Llanberis, Parque Nacional de Eryri (Snowdonia), País de Gales",
+                "Copyright": "© joe daniel price/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261018_DolbadarnWales\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parque+Nacional+de+Eryri+Snowdonia+Pais+de+Gales&form=hpcapt&filters=HpDate:\"20261018_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261018_DolbadarnWales"
+            },
+            "Ssd": "20261018",
+            "Name": "DolbadarnWales",
+            "Market": "PT-BR",
+            "Hash": "0887027747",
+            "FullDateString": "18 out. 2026"
+        }
+    },
+    {
         "startdate": "20261017",
         "fullstartdate": "202610170300",
         "enddate": "20261018",

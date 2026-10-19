@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261018",
+        "fullstartdate": "202610180700",
+        "enddate": "20261019",
+        "url": "/th?id=OHR.DolbadarnWales_ROW9422076532_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DolbadarnWales_ROW9422076532",
+        "copyright": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Eryri+National+Park+Wales&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261018_DolbadarnWales%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e228bfbd823f982d5659cbe09a27a73a",
+        "hsh": "1c706a014bcbbd2f43229d5e11ac582d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "If parks could keep birthday diaries, Eryri National Park (Snowdonia) in Wales would have quite the story to tell. The park turns 75 today, marking the anniversary of its designation in 1951. Eryri stretches across 2,130 square kilometres, with nine mountain ranges, 119 kilometres of coastline and habitats ranging from peatlands and native woodlands to upland landscapes. At more than 1,050 metres, Yr Wyddfa is Eryri's highest point. Nearby, the Carneddau and Glyderau add their own peaks, while Cadair Idris rises in the south. These protected landscapes provide habitats for wildlife and include 17 National Nature Reserves and 56 Sites of Special Scientific Interest.",
+                "Image": {
+                    "Url": "/th?id=OHR.DolbadarnWales_ROW9422076532_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DolbadarnWales_ROW9422076532_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales",
+                "Copyright": "© joe daniel price/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261018_DolbadarnWales\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Eryri+National+Park+Wales&form=hpcapt&filters=HpDate:\"20261018_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261018_DolbadarnWales"
+            },
+            "Ssd": "20261018",
+            "Name": "DolbadarnWales",
+            "Market": "ROW",
+            "Hash": "9422076532",
+            "FullDateString": "18 out. 2026"
+        }
+    },
+    {
         "startdate": "20261017",
         "fullstartdate": "202610170700",
         "enddate": "20261018",

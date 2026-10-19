@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261018",
+        "fullstartdate": "202610181600",
+        "enddate": "20261019",
+        "url": "/th?id=OHR.VeniceSunrise_ZH-CN5251815339_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VeniceSunrise_ZH-CN5251815339",
+        "copyright": "大运河，威尼斯，意大利 (© Juan Romero/Cavan Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%A8%81%E5%B0%BC%E6%96%AF%E5%A4%A7%E8%BF%90%E6%B2%B3&form=hpcapt&mkt=zh-cn",
+        "title": "水上通衢",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261018_VeniceSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e8f2ef6ce117f9b67ba8ee49a44f72c7",
+        "hsh": "423ca0274a16c6906e776de99f1a0240",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "如果一座城市最繁忙的街道根本没有路，会是什么样？在意大利威尼斯，交通沿着大运河往来。这条长2.4英里的水道以巨大的反S形蜿蜒穿过城市。当地人称它为“大运河”，它是威尼斯主要的水上交通通道，水上巴士、水上出租车、贡多拉、警用艇和其他船只都在此穿行。大运河沿着一条古河道延伸，这条河过去曾流入威尼斯潟湖。",
+                "Image": {
+                    "Url": "/th?id=OHR.VeniceSunrise_ZH-CN5251815339_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VeniceSunrise_ZH-CN5251815339_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "水上通衢",
+                "Title": "大运河，威尼斯，意大利",
+                "Copyright": "© Juan Romero/Cavan Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "威尼斯及其潟湖于1987年列入联合国教科文组织世界遗产名录，并符合该遗产地全部六项文化标准。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261019_VeniceSunrise\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%a8%81%e5%b0%bc%e6%96%af%e5%a4%a7%e8%bf%90%e6%b2%b3&form=hpcapt&filters=HpDate:\"20261018_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261019_VeniceSunrise"
+            },
+            "Ssd": "20261019",
+            "Name": "VeniceSunrise",
+            "Market": "ZH-CN",
+            "Hash": "5251815339",
+            "FullDateString": "2026 10月 19"
+        }
+    },
+    {
         "startdate": "20261017",
         "fullstartdate": "202610171600",
         "enddate": "20261018",
