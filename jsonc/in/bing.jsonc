@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261019",
+        "fullstartdate": "202610191830",
+        "enddate": "20261020",
+        "url": "/th?id=OHR.BrownSloth_EN-IN7427775510_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BrownSloth_EN-IN7427775510",
+        "copyright": "Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=International+Sloth+Day&form=hpcapt&filters=HpDate%3a%2220261019_1830%22",
+        "title": "Life in the slow lane",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261019_BrownSloth%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "94b224bb3d6eb478d090d60786f91560",
+        "hsh": "6bf672b9c4c24d57b90f90a7c89b8f90",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Slow and steady wins the race—and the brown-throated sloth seems perfectly happy to skip the race altogether. On International Sloth Day, this three-toed mammal offers a different lesson in getting by: conserve energy, hang on and take your time.",
+                "Image": {
+                    "Url": "/th?id=OHR.BrownSloth_EN-IN7427775510_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BrownSloth_EN-IN7427775510_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Life in the slow lane",
+                "Title": "Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica",
+                "Copyright": "© Suzi Eszterhas/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/9.65531,-82.755699/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=9.65531,-82.755699;S9;Puerto Viejo de Talamanca, Limón, Costa Rica&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261020_BrownSloth\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=International+Sloth+Day&form=hpcapt&filters=HpDate:\"20261019_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261020_BrownSloth"
+            },
+            "Ssd": "20261020",
+            "Name": "BrownSloth",
+            "Market": "EN-IN",
+            "Hash": "7427775510",
+            "FullDateString": "20 Oct, 2026"
+        }
+    },
+    {
         "startdate": "20261018",
         "fullstartdate": "202610181830",
         "enddate": "20261019",

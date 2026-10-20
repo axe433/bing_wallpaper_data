@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261019",
+        "fullstartdate": "202610190300",
+        "enddate": "20261020",
+        "url": "/th?id=OHR.VeniceSunrise_PT-BR8365610239_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VeniceSunrise_PT-BR8365610239",
+        "copyright": "Grande Canal de Veneza, Itália (© Juan Romero/Cavan Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Grande+Canal+de+Veneza&form=hpcapt&mkt=pt-br",
+        "title": "Quando a água vira caminho",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261019_VeniceSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e8f2ef6ce117f9b67ba8ee49a44f72c7",
+        "hsh": "8ce5c6dba845163d0a5b40c0360f19d6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Em Veneza, na Itália, a avenida principal dispensa carros, ônibus e até faixa de pedestres. É o Grande Canal, uma serpente de água com cerca de 4 quilômetros de extensão e profundidade média de 5 metros que atravessa a cidade e concentra boa parte do seu tráfego. Por ele passam táxis e ônibus aquáticos, gôndolas, barcos da polícia e outras embarcações. O canal segue o curso de um antigo rio que desembocava na Lagoa de Veneza.",
+                "Image": {
+                    "Url": "/th?id=OHR.VeniceSunrise_PT-BR8365610239_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VeniceSunrise_PT-BR8365610239_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Quando a água vira caminho",
+                "Title": "Grande Canal de Veneza, Itália",
+                "Copyright": "© Juan Romero/Cavan Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261019_VeniceSunrise\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Grande+Canal+de+Veneza&form=hpcapt&filters=HpDate:\"20261019_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261019_VeniceSunrise"
+            },
+            "Ssd": "20261019",
+            "Name": "VeniceSunrise",
+            "Market": "PT-BR",
+            "Hash": "8365610239",
+            "FullDateString": "19 out. 2026"
+        }
+    },
+    {
         "startdate": "20261018",
         "fullstartdate": "202610180300",
         "enddate": "20261019",

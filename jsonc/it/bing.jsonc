@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261019",
+        "fullstartdate": "202610192200",
+        "enddate": "20261020",
+        "url": "/th?id=OHR.BrownSloth_IT-IT3225849910_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BrownSloth_IT-IT3225849910",
+        "copyright": "Giovane bradipo tridattilo dalla gola bruna, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=bradipo+tridattilo&form=hpcapt",
+        "title": "La lentezza come strategia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261019_BrownSloth%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "94b224bb3d6eb478d090d60786f91560",
+        "hsh": "c3ab380f7a8a70b2ee261948a154deaf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Questo bradipo tridattilo, fotografato a Puerto Viejo de Talamanca (Costa Rica), non è un animale pigro: è un animale efficiente. La sua dieta si basa sulle foglie, un alimento povero di energia e difficile da digerire, così ha risolto il problema dall'altro capo, spendendo il minimo indispensabile. Si muove piano, dorme molto e digerisce per giorni.",
+                "Image": {
+                    "Url": "/th?id=OHR.BrownSloth_IT-IT3225849910_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BrownSloth_IT-IT3225849910_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La lentezza come strategia",
+                "Title": "Giovane bradipo tridattilo dalla gola bruna, Puerto Viejo de Talamanca, Costa Rica",
+                "Copyright": "© Suzi Eszterhas/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/9.654,-82.7549/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=9.654,-82.7549;S9;Puerto Viejo de Talamanca, Costa Rica&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261020_BrownSloth\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=bradipo+tridattilo&form=hpcapt&filters=HpDate:\"20261019_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261020_BrownSloth"
+            },
+            "Ssd": "20261020",
+            "Name": "BrownSloth",
+            "Market": "IT-IT",
+            "Hash": "3225849910",
+            "FullDateString": "20 ottobre 2026"
+        }
+    },
+    {
         "startdate": "20261018",
         "fullstartdate": "202610182200",
         "enddate": "20261019",

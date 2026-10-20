@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261019",
+        "fullstartdate": "202610190700",
+        "enddate": "20261020",
+        "url": "/th?id=OHR.VeniceSunrise_ROW9643744702_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VeniceSunrise_ROW9643744702",
+        "copyright": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Grand+Canal+Venice&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261019_VeniceSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e8f2ef6ce117f9b67ba8ee49a44f72c7",
+        "hsh": "87624c138d37f024d600fda55ba8f9f5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 3.8-kilometre waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
+                "Image": {
+                    "Url": "/th?id=OHR.VeniceSunrise_ROW9643744702_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VeniceSunrise_ROW9643744702_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Grand Canal in Venice, Italy",
+                "Copyright": "© Juan Romero/Cavan Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261019_VeniceSunrise\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Grand+Canal+Venice&form=hpcapt&filters=HpDate:\"20261019_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261019_VeniceSunrise"
+            },
+            "Ssd": "20261019",
+            "Name": "VeniceSunrise",
+            "Market": "ROW",
+            "Hash": "9643744702",
+            "FullDateString": "19. Oct rrrr"
+        }
+    },
+    {
         "startdate": "20261018",
         "fullstartdate": "202610180700",
         "enddate": "20261019",
