@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261020",
+        "fullstartdate": "202610202200",
+        "enddate": "20261021",
+        "url": "/th?id=OHR.VietnamBridge_ES-ES2577546493_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VietnamBridge_ES-ES2577546493",
+        "copyright": "Puente Nguyễn Hoàng sobre el río de los Perfumes, Hue, Vietnam (© VU PHAM VAN/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Hue%2c+Vietnam&form=hpcapt&filters=HpDate%3a%2220261020_2200%22",
+        "title": "Un puente recién estrenado",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261020_VietnamBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "fcec710a797c6486f81ec82ae932f1ca",
+        "hsh": "e377fd0eff63568a185179939cede7f5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El puente Nguyễn Hoàng cruza el río de los Perfumes en Hue (Vietnam), y es una incorporación muy reciente al paisaje: se abrió al tráfico en marzo de 2025. Mide 380 metros de largo y más de 40 de ancho, y su diseño es obra del finlandés Antti Karjalainen, especialista en puentes.",
+                "Image": {
+                    "Url": "/th?id=OHR.VietnamBridge_ES-ES2577546493_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VietnamBridge_ES-ES2577546493_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un puente recién estrenado",
+                "Title": "Puente Nguyễn Hoàng sobre el río de los Perfumes, Hue, Vietnam",
+                "Copyright": "© VU PHAM VAN/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/16.455292,107.55998/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=16.455292,107.55998;S9;Hue, Vietnam&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261021_VietnamBridge\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hue%2c+Vietnam&form=hpcapt&filters=HpDate:\"20261020_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261021_VietnamBridge"
+            },
+            "Ssd": "20261021",
+            "Name": "VietnamBridge",
+            "Market": "ES-ES",
+            "Hash": "2577546493",
+            "FullDateString": "21 de oct de 2026"
+        }
+    },
+    {
         "startdate": "20261019",
         "fullstartdate": "202610192200",
         "enddate": "20261020",

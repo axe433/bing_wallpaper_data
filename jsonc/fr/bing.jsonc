@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261020",
+        "fullstartdate": "202610202200",
+        "enddate": "20261021",
+        "url": "/th?id=OHR.VietnamBridge_FR-FR7991423921_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VietnamBridge_FR-FR7991423921",
+        "copyright": "Le pont Nguyen Hoang sur la rivière des Parfums, Hué, Vietnam (© VU PHAM VAN/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Hu%C3%A9+Vietnam&form=hpcapt&filters=HpDate%3a%2220261020_2200%22",
+        "title": "Vol au-dessus de la rivière",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261020_VietnamBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "fcec710a797c6486f81ec82ae932f1ca",
+        "hsh": "92b881122e341d2dacf10d588e7812c2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "À Hué, au Vietnam, passé et avenir se rejoignent au-dessus de la rivière des Parfums. Ouvert à la circulation le 26 mars 2025, le pont Nguyen Hoang redessine l’horizon de la ville. Son concept, « La grue tournée vers Thien Mu », s’inspire d’une légende locale et de la célèbre pagode voisine.",
+                "Image": {
+                    "Url": "/th?id=OHR.VietnamBridge_FR-FR7991423921_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VietnamBridge_FR-FR7991423921_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Vol au-dessus de la rivière",
+                "Title": "Le pont Nguyen Hoang sur la rivière des Parfums, Hué, Vietnam",
+                "Copyright": "© VU PHAM VAN/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/16.455292,107.55998/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=16.455292,107.55998;S9;Pont Nguyen Hoang, Hué, Vietnam&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261021_VietnamBridge\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Hu%c3%a9+Vietnam&form=hpcapt&filters=HpDate:\"20261020_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261021_VietnamBridge"
+            },
+            "Ssd": "20261021",
+            "Name": "VietnamBridge",
+            "Market": "FR-FR",
+            "Hash": "7991423921",
+            "FullDateString": "21 oct. 2026"
+        }
+    },
+    {
         "startdate": "20261019",
         "fullstartdate": "202610192200",
         "enddate": "20261020",

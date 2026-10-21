@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261020",
+        "fullstartdate": "202610200700",
+        "enddate": "20261021",
+        "url": "/th?id=OHR.BrownSloth_ROW9869731535_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BrownSloth_ROW9869731535",
+        "copyright": "Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Brown+throated+sloth&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261020_BrownSloth%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "94b224bb3d6eb478d090d60786f91560",
+        "hsh": "52a187c5756da9aa4957d0fcd8789660",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Slow and steady wins the race—and the brown-throated sloth seems perfectly happy to skip the race altogether. This three-toed mammal has a different approach to life: conserve energy, hang on and take your time.",
+                "Image": {
+                    "Url": "/th?id=OHR.BrownSloth_ROW9869731535_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BrownSloth_ROW9869731535_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica",
+                "Copyright": "© Suzi Eszterhas/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261020_BrownSloth\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Brown+throated+sloth&form=hpcapt&filters=HpDate:\"20261020_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261020_BrownSloth"
+            },
+            "Ssd": "20261020",
+            "Name": "BrownSloth",
+            "Market": "ROW",
+            "Hash": "9869731535",
+            "FullDateString": "Oct 20, 2026"
+        }
+    },
+    {
         "startdate": "20261019",
         "fullstartdate": "202610190700",
         "enddate": "20261020",
