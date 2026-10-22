@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261021",
+        "fullstartdate": "202610212200",
+        "enddate": "20261022",
+        "url": "/th?id=OHR.NaejangsanNP_FR-FR8219456677_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NaejangsanNP_FR-FR8219456677",
+        "copyright": "Le parc national de Naejangsan en automne, Corée du Sud (© Twenty47studio/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=parc+national+de+Naejangsan&form=hpcapt&filters=HpDate%3a%2220261021_2200%22",
+        "title": "Eaux paisibles, teintes flamboyantes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261021_NaejangsanNP%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b38f607531e2d5b589500c922e8af939",
+        "hsh": "3cb68dde86425308677a2e65c5cb7d27",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Peu d’endroits en Corée du Sud incarnent l’automne avec autant d’éclat que le parc national de Naejangsan. Dans le sud-ouest du pays, ses montagnes se parent de rouge écarlate, d’orange et d’or, portées par des érables flamboyants. Son nom, qui évoque les « nombreux secrets de la montagne », semble inviter à découvrir ses paysages changeants.",
+                "Image": {
+                    "Url": "/th?id=OHR.NaejangsanNP_FR-FR8219456677_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NaejangsanNP_FR-FR8219456677_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Eaux paisibles, teintes flamboyantes",
+                "Title": "Le parc national de Naejangsan en automne, Corée du Sud",
+                "Copyright": "© Twenty47studio/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.481191,126.889374/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=35.481191,126.889374;S9;Parc national de Naejangsan, Corée du Sud&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261022_NaejangsanNP\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=parc+national+de+Naejangsan&form=hpcapt&filters=HpDate:\"20261021_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261022_NaejangsanNP"
+            },
+            "Ssd": "20261022",
+            "Name": "NaejangsanNP",
+            "Market": "FR-FR",
+            "Hash": "8219456677",
+            "FullDateString": "22 oct. 2026"
+        }
+    },
+    {
         "startdate": "20261020",
         "fullstartdate": "202610202200",
         "enddate": "20261021",

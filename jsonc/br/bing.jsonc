@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261021",
+        "fullstartdate": "202610210300",
+        "enddate": "20261022",
+        "url": "/th?id=OHR.VietnamBridge_PT-BR8870725479_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VietnamBridge_PT-BR8870725479",
+        "copyright": "Ponte Nguyen Hoang sobre o Rio Perfume, Hue, Vietnã (© VU PHAM VAN/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=hue+no+vietna&form=hpcapt&mkt=pt-br",
+        "title": "O voo que virou ponte",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261021_VietnamBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "fcec710a797c6486f81ec82ae932f1ca",
+        "hsh": "dec35e2111a58ab65d0cf90a926264ef",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Em Hue, no Vietnã, esta ponte faz mais do que ligar margens. Ela transforma uma lenda em paisagem. Em 1601, o governante Nguyen Hoang ouviu a história de uma mulher misteriosa que teria aparecido às margens do rio Perfume anunciando que um grande líder construiria ali um templo budista. Ele levou o recado a sério e mandou erguer o Pagode Thien Mu, que ainda hoje domina a paisagem.",
+                "Image": {
+                    "Url": "/th?id=OHR.VietnamBridge_PT-BR8870725479_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VietnamBridge_PT-BR8870725479_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O voo que virou ponte",
+                "Title": "Ponte Nguyen Hoang sobre o Rio Perfume, Hue, Vietnã",
+                "Copyright": "© VU PHAM VAN/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261021_VietnamBridge\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=hue+no+vietna&form=hpcapt&filters=HpDate:\"20261021_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261021_VietnamBridge"
+            },
+            "Ssd": "20261021",
+            "Name": "VietnamBridge",
+            "Market": "PT-BR",
+            "Hash": "8870725479",
+            "FullDateString": "21 out. 2026"
+        }
+    },
+    {
         "startdate": "20261020",
         "fullstartdate": "202610200300",
         "enddate": "20261021",
