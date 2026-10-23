@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261022",
+        "fullstartdate": "202610220700",
+        "enddate": "20261023",
+        "url": "/th?id=OHR.NaejangsanNP_EN-US7010419904_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NaejangsanNP_EN-US7010419904",
+        "copyright": "Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Naejangsan+National+Park&form=hpcapt&filters=HpDate%3a%2220261022_0700%22",
+        "title": "Still waters, vivid colors",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261022_NaejangsanNP%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b38f607531e2d5b589500c922e8af939",
+        "hsh": "a3adc35d3112b7c71d573dc4c5d3a267",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Few places in South Korea capture the magic of autumn quite like Naejangsan National Park, where mountainsides glow in brilliant shades of scarlet, orange, yellow, and gold. Located in the country's southwest, the park is particularly famous for its vivid maple colors, making it one of Korea's premier destinations for fall scenery. Its name, meaning 'many secrets in the mountains,' reflects the varied landscapes found throughout the region.",
+                "Image": {
+                    "Url": "/th?id=OHR.NaejangsanNP_EN-US7010419904_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NaejangsanNP_EN-US7010419904_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Still waters, vivid colors",
+                "Title": "Autumn in Naejangsan National Park, South Korea",
+                "Copyright": "© Twenty47studio/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.481191,126.889374/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=35.481191,126.889374;S9;Naejangsan National Park, South Korea&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261022_NaejangsanNP\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Naejangsan+National+Park&form=hpcapt&filters=HpDate:\"20261022_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261022_NaejangsanNP"
+            },
+            "Ssd": "20261022",
+            "Name": "NaejangsanNP",
+            "Market": "EN-US",
+            "Hash": "7010419904",
+            "FullDateString": "Oct 22, 2026"
+        }
+    },
+    {
         "startdate": "20261021",
         "fullstartdate": "202610210700",
         "enddate": "20261022",

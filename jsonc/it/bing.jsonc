@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261022",
+        "fullstartdate": "202610222200",
+        "enddate": "20261023",
+        "url": "/th?id=OHR.YellowstoneWolves_IT-IT3969091116_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.YellowstoneWolves_IT-IT3969091116",
+        "copyright": "Due lupi grigi, Parco nazionale di Yellowstone, Wyoming, USA (© John Morrison/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=parco+nazionale+di+yellowstone&form=hpcapt",
+        "title": "La vita nel branco",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261022_YellowstoneWolves%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6d333ef8499ac32b4dfd6bb861c53303",
+        "hsh": "ccd5ba3c93eecf10148c17232e8b0854",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Due lupi grigi attraversano la boscaglia del Parco nazionale di Yellowstone, nel Wyoming (Stati Uniti), dove vivono alcuni dei branchi più studiati al mondo. E quella parola, branco, descrive in realtà una famiglia: un gruppo di parenti che caccia in squadra, difende il territorio e alleva insieme i cuccioli dell'anno.",
+                "Image": {
+                    "Url": "/th?id=OHR.YellowstoneWolves_IT-IT3969091116_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.YellowstoneWolves_IT-IT3969091116_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La vita nel branco",
+                "Title": "Due lupi grigi, Parco nazionale di Yellowstone, Wyoming, USA",
+                "Copyright": "© John Morrison/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "I lupi grigi comunicano con ululati, linguaggio del corpo, marcature odorose e un repertorio di suoni che comprende latrati, guaiti e ringhi.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261023_YellowstoneWolves\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=parco+nazionale+di+yellowstone&form=hpcapt&filters=HpDate:\"20261022_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261023_YellowstoneWolves"
+            },
+            "Ssd": "20261023",
+            "Name": "YellowstoneWolves",
+            "Market": "IT-IT",
+            "Hash": "3969091116",
+            "FullDateString": "23 ottobre 2026"
+        }
+    },
+    {
         "startdate": "20261021",
         "fullstartdate": "202610212200",
         "enddate": "20261022",

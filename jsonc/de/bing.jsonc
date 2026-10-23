@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261022",
+        "fullstartdate": "202610222200",
+        "enddate": "20261023",
+        "url": "/th?id=OHR.YellowstoneWolves_DE-DE2017697752_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.YellowstoneWolves_DE-DE2017697752",
+        "copyright": "Wölfe im Yellowstone-Nationalpark, Wyoming, USA (© John Morrison/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Wolf+Tier&form=hpcapt&filters=HpDate%3a%2220261022_2200%22",
+        "title": "Partner in freier Wildbahn",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261022_YellowstoneWolves%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6d333ef8499ac32b4dfd6bb861c53303",
+        "hsh": "95a05e174a85c811538bc0ce91bb7939",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Im Yellowstone-Nationalpark im US-Bundesstaat Wyoming gehören Wölfe zu den faszinierendsten Bewohnern der weitläufigen Wildnis. Nachdem sie dort im frühen 20. Jahrhundert verschwunden waren, wurden zwischen 1995 und 1997 insgesamt 41 Tiere aus Kanada und dem Nordwesten Montanas im Park ausgesetzt. Seitdem leben wieder mehrere Rudel in dieser beeindruckenden Landschaft.",
+                "Image": {
+                    "Url": "/th?id=OHR.YellowstoneWolves_DE-DE2017697752_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.YellowstoneWolves_DE-DE2017697752_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Partner in freier Wildbahn",
+                "Title": "Wölfe im Yellowstone-Nationalpark, Wyoming, USA",
+                "Copyright": "© John Morrison/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Wölfe können durch Heulen, Körpersprache, Duftmarkierungen und eine Reihe von Lautäußerungen kommunizieren, darunter Bellen, Winseln und Knurren.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261023_YellowstoneWolves\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Wolf+Tier&form=hpcapt&filters=HpDate:\"20261022_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261023_YellowstoneWolves"
+            },
+            "Ssd": "20261023",
+            "Name": "YellowstoneWolves",
+            "Market": "DE-DE",
+            "Hash": "2017697752",
+            "FullDateString": "23. Okt.. 2026"
+        }
+    },
+    {
         "startdate": "20261021",
         "fullstartdate": "202610212200",
         "enddate": "20261022",
