@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261023",
+        "fullstartdate": "202610232200",
+        "enddate": "20261024",
+        "url": "/th?id=OHR.BerlinLibrary_DE-DE5145605761_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BerlinLibrary_DE-DE5145605761",
+        "copyright": "Philologische Bibliothek der Freien Universität Berlin, Berlin (© ullstein bild/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Tag+der+Bibliotheken&form=hpcapt&filters=HpDate%3a%2220261023_2200%22",
+        "title": "Architektur des Wissens",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261023_BerlinLibrary%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "d427bd601c9e1efafdf2fa3f40c2ddf1",
+        "hsh": "9c5b9f920b4fb3d0b584940791a948d7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Am heutigen Tag der Bibliotheken dreht sich alles um Bücher, Wissen und die Orte, die beides zugänglich machen. Seit 1995 macht der bundesweite Aktionstag am 24. Oktober auf die Bedeutung von Bibliotheken als Kultur- und Bildungseinrichtungen aufmerksam. Ins Leben gerufen wurde er von der Deutschen Literaturkonferenz unter der Schirmherrschaft des damaligen Bundespräsidenten Richard von Weizsäcker. Auch 2026 beteiligen sich Bibliotheken in ganz Deutschland mit analogen und digitalen Aktionen und Veranstaltungen. Lesungen, Ausstellungen und Führungen laden dazu ein, ihre vielfältigen Angebote neu zu entdecken.",
+                "Image": {
+                    "Url": "/th?id=OHR.BerlinLibrary_DE-DE5145605761_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BerlinLibrary_DE-DE5145605761_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Architektur des Wissens",
+                "Title": "Philologische Bibliothek der Freien Universität Berlin, Berlin",
+                "Copyright": "© ullstein bild/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.451914,13.288265/9?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=52.451914,13.288265;S9;Philologische Bibliothek, Berlin&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261024_BerlinLibrary\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tag+der+Bibliotheken&form=hpcapt&filters=HpDate:\"20261023_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261024_BerlinLibrary"
+            },
+            "Ssd": "20261024",
+            "Name": "BerlinLibrary",
+            "Market": "DE-DE",
+            "Hash": "5145605761",
+            "FullDateString": "24. Okt.. 2026"
+        }
+    },
+    {
         "startdate": "20261022",
         "fullstartdate": "202610222200",
         "enddate": "20261023",

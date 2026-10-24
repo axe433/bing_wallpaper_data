@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261023",
+        "fullstartdate": "202610230700",
+        "enddate": "20261024",
+        "url": "/th?id=OHR.YellowstoneWolves_EN-US7105521535_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.YellowstoneWolves_EN-US7105521535",
+        "copyright": "Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Wolf+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220261023_0700%22",
+        "title": "Partners in the wild",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261023_YellowstoneWolves%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6d333ef8499ac32b4dfd6bb861c53303",
+        "hsh": "8abec359cbf3a5980614a3263fd4fc4f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Two gray wolves move through the sagebrush of Yellowstone National Park in Wyoming, home to some of North America's most closely watched wolf packs. Their thick coats help them withstand harsh winters, and their keen senses make them skilled hunters and communicators.",
+                "Image": {
+                    "Url": "/th?id=OHR.YellowstoneWolves_EN-US7105521535_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.YellowstoneWolves_EN-US7105521535_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Partners in the wild",
+                "Title": "Two gray wolves, Yellowstone National Park, Wyoming",
+                "Copyright": "© John Morrison/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Gray wolves can communicate through howls, body language, scent marking, and a range of vocalizations, including barks, whines, and growls.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261023_YellowstoneWolves\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Wolf+Awareness+Week&form=hpcapt&filters=HpDate:\"20261023_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261023_YellowstoneWolves"
+            },
+            "Ssd": "20261023",
+            "Name": "YellowstoneWolves",
+            "Market": "EN-US",
+            "Hash": "7105521535",
+            "FullDateString": "Oct 23, 2026"
+        }
+    },
+    {
         "startdate": "20261022",
         "fullstartdate": "202610220700",
         "enddate": "20261023",

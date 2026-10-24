@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261023",
+        "fullstartdate": "202610230300",
+        "enddate": "20261024",
+        "url": "/th?id=OHR.YellowstoneWolves_PT-BR5538259597_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.YellowstoneWolves_PT-BR5538259597",
+        "copyright": "Dois lobos-cinzentos no Parque Nacional de Yellowstone, Wyoming, EUA (© John Morrison/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=lobo+cinzento&form=hpcapt&mkt=pt-br",
+        "title": "Lobo solitário? Nada disso",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261023_YellowstoneWolves%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "6d333ef8499ac32b4dfd6bb861c53303",
+        "hsh": "e7d215767627c8e501a452251650a31f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Quem vê esses dois lobos‑cinzentos no Parque Nacional de Yellowstone talvez nem imagine que seus antepassados foram expulsos dali. Nos Estados Unidos, a perseguição aos grandes predadores levou à eliminação dos lobos na região no início do século XX. Então, em 1995, eles começaram a voltar, reintroduzidos como parte de um dos mais conhecidos projetos de conservação do mundo.",
+                "Image": {
+                    "Url": "/th?id=OHR.YellowstoneWolves_PT-BR5538259597_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.YellowstoneWolves_PT-BR5538259597_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Lobo solitário? Nada disso",
+                "Title": "Dois lobos-cinzentos no Parque Nacional de Yellowstone, Wyoming, EUA",
+                "Copyright": "© John Morrison/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261023_YellowstoneWolves\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=lobo+cinzento&form=hpcapt&filters=HpDate:\"20261023_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261023_YellowstoneWolves"
+            },
+            "Ssd": "20261023",
+            "Name": "YellowstoneWolves",
+            "Market": "PT-BR",
+            "Hash": "5538259597",
+            "FullDateString": "23 out. 2026"
+        }
+    },
+    {
         "startdate": "20261022",
         "fullstartdate": "202610220300",
         "enddate": "20261023",
