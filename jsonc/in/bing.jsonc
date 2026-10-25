@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261024",
+        "fullstartdate": "202610241830",
+        "enddate": "20261025",
+        "url": "/th?id=OHR.VeniceSunrise_EN-IN8305689376_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VeniceSunrise_EN-IN8305689376",
+        "copyright": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Grand+Canal+Venice&form=hpcapt&filters=HpDate%3a%2220261024_1830%22",
+        "title": "The road that runs on water",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261024_VeniceSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "e8f2ef6ce117f9b67ba8ee49a44f72c7",
+        "hsh": "99a8c448469a4e8c81ad080f11e2dbc8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 3.9-kilometre waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
+                "Image": {
+                    "Url": "/th?id=OHR.VeniceSunrise_EN-IN8305689376_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VeniceSunrise_EN-IN8305689376_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "The road that runs on water",
+                "Title": "Grand Canal in Venice, Italy",
+                "Copyright": "© Juan Romero/Cavan Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.435337,12.32783/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=45.435337,12.32783;S9;Grand Canal, Venice, Italy&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261025_VeniceSunrise\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Grand+Canal+Venice&form=hpcapt&filters=HpDate:\"20261024_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261025_VeniceSunrise"
+            },
+            "Ssd": "20261025",
+            "Name": "VeniceSunrise",
+            "Market": "EN-IN",
+            "Hash": "8305689376",
+            "FullDateString": "25 Oct, 2026"
+        }
+    },
+    {
         "startdate": "20261023",
         "fullstartdate": "202610231830",
         "enddate": "20261024",

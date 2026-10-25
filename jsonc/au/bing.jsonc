@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261024",
+        "fullstartdate": "202610240700",
+        "enddate": "20261025",
+        "url": "/th?id=OHR.Tanager_ROW0977269473_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Tanager_ROW0977269473",
+        "copyright": "Green-headed tanager (© Juan Carlos Vindas/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Green-headed+tanager&form=hpcapt&filters=HpDate%3a%2220261024_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261024_Tanager%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "92ffb5308ada3a4a47cbfff4ca7569df",
+        "hsh": "15927852371e72f3c4c5a1f1b9936867",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "In much of Brazil, July is synonymous with cold weather, mist and muted tones. The green-headed tanager goes in the opposite direction. Green, blue, turquoise, yellow, black, orange and touches of violet come together on a body just over 13 centimetres long, appearing among the branches like a living argument for extravagance. It is no surprise that it frequently features on lists of the most beautiful birds in the world.",
+                "Image": {
+                    "Url": "/th?id=OHR.Tanager_ROW0977269473_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Tanager_ROW0977269473_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Green-headed tanager",
+                "Copyright": "© Juan Carlos Vindas/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261024_Tanager\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Green-headed+tanager&form=hpcapt&filters=HpDate:\"20261024_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261024_Tanager"
+            },
+            "Ssd": "20261024",
+            "Name": "Tanager",
+            "Market": "ROW",
+            "Hash": "0977269473",
+            "FullDateString": "24 Oct 2026"
+        }
+    },
+    {
         "startdate": "20261023",
         "fullstartdate": "202610230700",
         "enddate": "20261024",

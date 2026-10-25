@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261024",
+        "fullstartdate": "202610242300",
+        "enddate": "20261026",
+        "url": "/th?id=OHR.BSTEnds2026_EN-GB5502884225_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BSTEnds2026_EN-GB5502884225",
+        "copyright": "The Eastgate Clock, Chester, England (© Alexey_Fedoren/iStock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=British+Summer+Time&form=hpcapt&filters=HpDate%3a%2220261024_2300%22",
+        "title": "The clock strikes back",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261024_BSTEnds2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f3477511a8f7b3872904917a6227a8de",
+        "hsh": "6c844eb5517f3c2803ccb1670c3c67e0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ready to turn back time? Britain does it every autumn, no time machine required. Today, British Summer Time (BST) ends as clocks go back one hour from 2 am BST to 1 am GMT, giving you an extra hour in bed.",
+                "Image": {
+                    "Url": "/th?id=OHR.BSTEnds2026_EN-GB5502884225_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BSTEnds2026_EN-GB5502884225_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "The clock strikes back",
+                "Title": "The Eastgate Clock, Chester, England",
+                "Copyright": "© Alexey_Fedoren/iStock/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/53.190205,-2.891644/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=53.190205,-2.891644;S9;Chester, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261025_BSTEnds2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=British+Summer+Time&form=hpcapt&filters=HpDate:\"20261024_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261025_BSTEnds2026"
+            },
+            "Ssd": "20261025",
+            "Name": "BSTEnds2026",
+            "Market": "EN-GB",
+            "Hash": "5502884225",
+            "FullDateString": "25 Oct 2026"
+        }
+    },
+    {
         "startdate": "20261023",
         "fullstartdate": "202610232300",
         "enddate": "20261024",

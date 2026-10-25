@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261024",
+        "fullstartdate": "202610242200",
+        "enddate": "20261025",
+        "url": "/th?id=OHR.GernikaPaisVasco_ES-ES5108223011_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GernikaPaisVasco_ES-ES5108223011",
+        "copyright": "Entrada a la Iglesia de Santa María, Gernika-Lumo, Vizcaya, País Vasco, España (© tichr/ShutterStock)",
+        "copyrightlink": "https://www.bing.com/search?q=Iglesia+de+Santa+Mar%C3%ADa+Gernika-Lumo&form=hpcapt&filters=HpDate%3a%2220261024_2200%22",
+        "title": "Las puertas al cielo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261024_GernikaPaisVasco%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4904e1397bba197ea42672bc592ca039",
+        "hsh": "47440825f5a31fca30202c09e6c9e317",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La portada gótica de la imagen pertenece a la iglesia de Santa María, en Gernika-Lumo (Vizcaya, País Vasco, España), el edificio más antiguo de la villa. Se empezó a mediados del siglo XV y las obras se alargaron dos siglos, de ahí su mezcla de estilos: arco ojival en la puerta y un interior renacentista de planta de salón, con las bóvedas cerradas hacia 1660.",
+                "Image": {
+                    "Url": "/th?id=OHR.GernikaPaisVasco_ES-ES5108223011_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GernikaPaisVasco_ES-ES5108223011_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Las puertas al cielo",
+                "Title": "Entrada a la Iglesia de Santa María, Gernika-Lumo, Vizcaya, País Vasco, España",
+                "Copyright": "© tichr/ShutterStock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.317001,-2.678954/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=43.317001,-2.678954;S9;Gernika-Lumo, Vizcaya, España&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261025_GernikaPaisVasco\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Iglesia+de+Santa+Mar%c3%ada+Gernika-Lumo&form=hpcapt&filters=HpDate:\"20261024_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261025_GernikaPaisVasco"
+            },
+            "Ssd": "20261025",
+            "Name": "GernikaPaisVasco",
+            "Market": "ES-ES",
+            "Hash": "5108223011",
+            "FullDateString": "25 de oct de 2026"
+        }
+    },
+    {
         "startdate": "20261023",
         "fullstartdate": "202610232200",
         "enddate": "20261024",

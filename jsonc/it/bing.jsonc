@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261024",
+        "fullstartdate": "202610242200",
+        "enddate": "20261025",
+        "url": "/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754",
+        "copyright": "Chiesa di Santa Barbara in Largo dei Librari, vicino al mercato di Campo de' Fiori a Roma, Italia (© Alexander Spatari/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Festa+del+Cinema+di+Roma&form=hpcapt",
+        "title": "Cinema, piazze e pasta",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261024_CarbonaraRomeMarket%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1dabd63e601828aae0f73f618219f12b",
+        "hsh": "ebc4b355ad017454d5c2026d4cfe3003",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Largo dei Librari, a due passi dal mercato di Campo de' Fiori, è uno degli angoli più fotogenici di Roma (Italia): una piazzetta trapezoidale chiusa dalla facciata tardobarocca della chiesa di Santa Barbara. Il nome arriva dai librai, ai quali papa Clemente VIII affidò la chiesa nel 1601, e le fondamenta poggiano sui resti del teatro di Pompeo. Sconsacrata nell'Ottocento e restaurata negli anni Novanta, oggi ospita concerti e attività culturali.",
+                "Image": {
+                    "Url": "/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Cinema, piazze e pasta",
+                "Title": "Chiesa di Santa Barbara in Largo dei Librari, vicino al mercato di Campo de' Fiori a Roma, Italia",
+                "Copyright": "© Alexander Spatari/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.895235,12.47369/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=41.895235,12.47369;S9;Chiesa di Santa Barbara in Largo dei Librari, Roma, Italia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261025_CarbonaraRomeMarket\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Festa+del+Cinema+di+Roma&form=hpcapt&filters=HpDate:\"20261024_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261025_CarbonaraRomeMarket"
+            },
+            "Ssd": "20261025",
+            "Name": "CarbonaraRomeMarket",
+            "Market": "IT-IT",
+            "Hash": "4675824754",
+            "FullDateString": "25 ottobre 2026"
+        }
+    },
+    {
         "startdate": "20261023",
         "fullstartdate": "202610232200",
         "enddate": "20261024",
