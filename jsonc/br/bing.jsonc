@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261025",
+        "fullstartdate": "202610250300",
+        "enddate": "20261026",
+        "url": "/th?id=OHR.MaligneFest_PT-BR7307872506_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MaligneFest_PT-BR7307872506",
+        "copyright": "Lago Maligne, Parque Nacional de Jasper, Alberta, Canadá (© Andrey Popov/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+de+Jasper+Canad%C3%A1&form=hpcapt&mkt=pt-br",
+        "title": "Um cenário que dispensa moldura",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261025_MaligneFest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "91cc1a6a0da9fde5a3983c1789f19e12",
+        "hsh": "73390f7f0f35cc4fae5218227436f92c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "O Parque Nacional de Jasper, em Alberta, Canadá, trabalha em turnos: de dia, grandes mamíferos dominam as montanhas; à noite, o céu entra em cena. Reconhecido como Reserva de Céu Escuro em 2011, o parque ocupa mais de 11 mil km² e adota medidas para reduzir a poluição luminosa. Com pouca interferência das luzes artificiais, estrelas, planetas e a Via Láctea ganham condições privilegiadas para aparecer.",
+                "Image": {
+                    "Url": "/th?id=OHR.MaligneFest_PT-BR7307872506_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MaligneFest_PT-BR7307872506_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Um cenário que dispensa moldura",
+                "Title": "Lago Maligne, Parque Nacional de Jasper, Alberta, Canadá",
+                "Copyright": "© Andrey Popov/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261025_MaligneFest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parque+Nacional+de+Jasper+Canad%c3%a1&form=hpcapt&filters=HpDate:\"20261025_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261025_MaligneFest"
+            },
+            "Ssd": "20261025",
+            "Name": "MaligneFest",
+            "Market": "PT-BR",
+            "Hash": "7307872506",
+            "FullDateString": "25 out. 2026"
+        }
+    },
+    {
         "startdate": "20261024",
         "fullstartdate": "202610240300",
         "enddate": "20261025",

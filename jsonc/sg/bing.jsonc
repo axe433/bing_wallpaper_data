@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261025",
+        "fullstartdate": "202610250700",
+        "enddate": "20261026",
+        "url": "/th?id=OHR.MaligneFest_ROW1322674228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MaligneFest_ROW1322674228",
+        "copyright": "Maligne Lake, Jasper National Park, Alberta, Canada (© Andrey Popov/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Jasper+National+Park&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261025_MaligneFest%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "91cc1a6a0da9fde5a3983c1789f19e12",
+        "hsh": "17b642526f8f7369c0bd9ce98a9554fc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "When night falls in Jasper National Park, Alberta, Canada, the mountains get a whole new backdrop. Designated a Dark-Sky Preserve in 2011, the park spans more than 11,000 square kilometres, with measures in place to reduce light pollution. Here, the stars, planets and the Milky Way put up a celestial show, giving visitors a reason to look up. Then morning arrives and the focus shifts from the sky above to the landscape below.",
+                "Image": {
+                    "Url": "/th?id=OHR.MaligneFest_ROW1322674228_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.MaligneFest_ROW1322674228_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Maligne Lake, Jasper National Park, Alberta, Canada",
+                "Copyright": "© Andrey Popov/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261025_MaligneFest\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Jasper+National+Park&form=hpcapt&filters=HpDate:\"20261025_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261025_MaligneFest"
+            },
+            "Ssd": "20261025",
+            "Name": "MaligneFest",
+            "Market": "ROW",
+            "Hash": "1322674228",
+            "FullDateString": "Oct 25, 2026"
+        }
+    },
+    {
         "startdate": "20261024",
         "fullstartdate": "202610240700",
         "enddate": "20261025",

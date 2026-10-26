@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261026",
+        "fullstartdate": "202610260000",
+        "enddate": "20261027",
+        "url": "/th?id=OHR.SitovoWaterfall_EN-GB5626792550_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SitovoWaterfall_EN-GB5626792550",
+        "copyright": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Sitovo+Plovdiv+Bulgaria&form=hpcapt&filters=HpDate%3a%2220261026_0000%22",
+        "title": "Nature's autumn soundtrack",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261026_SitovoWaterfall%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "1d7de16c9a1a3666b17970874ae3f4a2",
+        "hsh": "a77243cea00cacb321bdd1edac434faa",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "In Bulgaria's Western Rhodope Mountains, autumn leaves gather beside the rushing waters of Sitovo Waterfall. Near the village of Sitovo, southwest of Plovdiv, the falls tumble beneath an old stone bridge whose arch frames the cascades like a storybook scene. Moss-covered stones and pine trees add shades of green to the autumn landscape, while fallen leaves gather along the water's edge or drift through its pools. The falls become especially lively after rain and during spring snowmelt, when the surrounding woodland echoes with the sound of rushing water.",
+                "Image": {
+                    "Url": "/th?id=OHR.SitovoWaterfall_EN-GB5626792550_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SitovoWaterfall_EN-GB5626792550_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Nature's autumn soundtrack",
+                "Title": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria",
+                "Copyright": "© Nadya85/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.926863,24.615841/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=41.926863,24.615841;S9;Sitovo, Plovdiv Province, Bulgaria&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261026_SitovoWaterfall\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Sitovo+Plovdiv+Bulgaria&form=hpcapt&filters=HpDate:\"20261026_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261026_SitovoWaterfall"
+            },
+            "Ssd": "20261026",
+            "Name": "SitovoWaterfall",
+            "Market": "EN-GB",
+            "Hash": "5626792550",
+            "FullDateString": "26 Oct 2026"
+        }
+    },
+    {
         "startdate": "20261024",
         "fullstartdate": "202610242300",
         "enddate": "20261026",
