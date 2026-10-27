@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261026",
+        "fullstartdate": "202610260700",
+        "enddate": "20261027",
+        "url": "/th?id=OHR.HangingBat_EN-US7714746725_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HangingBat_EN-US7714746725",
+        "copyright": "Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=Bat+Week&form=hpcapt&filters=HpDate%3a%2220261026_0700%22",
+        "title": "Hanging in there",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261026_HangingBat%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "ad95b546a75b30ca41d8aa2074aa7cd6",
+        "hsh": "a7c299adafaab46a527c467155126330",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Bat Week shines a spotlight on some of the world's most important and often misunderstood mammals. Observed each October, the event celebrates the vital role bats play in healthy ecosystems across the globe. As pollinators, seed dispersers, and natural pest controllers, they support forests, farms, and food supplies. Some can consume thousands of insects in a single night, helping reduce the need for pesticides. With more than 1,500 species found worldwide, bats are the only mammals capable of sustained flight, making them one of nature's most impressive success stories.",
+                "Image": {
+                    "Url": "/th?id=OHR.HangingBat_EN-US7714746725_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HangingBat_EN-US7714746725_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Hanging in there",
+                "Title": "Gray-headed flying fox, Victoria, Australia",
+                "Copyright": "© Doug Gimesy/Nature Picture Library",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-36.850086,144.304291/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=-36.850086,144.304291;S9;Victoria, Australia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261026_HangingBat\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Bat+Week&form=hpcapt&filters=HpDate:\"20261026_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261026_HangingBat"
+            },
+            "Ssd": "20261026",
+            "Name": "HangingBat",
+            "Market": "EN-US",
+            "Hash": "7714746725",
+            "FullDateString": "Oct 26, 2026"
+        }
+    },
+    {
         "startdate": "20261025",
         "fullstartdate": "202610250700",
         "enddate": "20261026",

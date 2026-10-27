@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261026",
+        "fullstartdate": "202610261600",
+        "enddate": "20261027",
+        "url": "/th?id=OHR.PondCypress_ZH-CN9472607734_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PondCypress_ZH-CN9472607734",
+        "copyright": "秋叶缤纷的池杉林，乔治亚州，美国 (© Chris Moore/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E6%B1%A0%E6%9D%89&form=hpcapt&mkt=zh-cn",
+        "title": "大自然的金色明镜",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261026_PondCypress%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2739770b0843c3744e3ee176cee94f86",
+        "hsh": "bd1e1d7a297913000ce4600e3fa393b8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "这片池杉林倒映在平静的水面上，在落日余晖中熠熠生辉，呈现出色彩与对称之美，令人叹为观止。池杉原产于美国东南部，通常生长在浅水池塘、洼地和湿地生境中。这张照片拍摄于乔治亚州，当地的奥克弗诺基沼泽及其他低洼湿地中均可见这些树木。",
+                "Image": {
+                    "Url": "/th?id=OHR.PondCypress_ZH-CN9472607734_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PondCypress_ZH-CN9472607734_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "大自然的金色明镜",
+                "Title": "秋叶缤纷的池杉林，乔治亚州，美国",
+                "Copyright": "© Chris Moore/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "池杉会长出被称为“膝根”的瘤状根部结构，高出树木周围的水面或土壤。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261027_PondCypress\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e6%b1%a0%e6%9d%89&form=hpcapt&filters=HpDate:\"20261026_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261027_PondCypress"
+            },
+            "Ssd": "20261027",
+            "Name": "PondCypress",
+            "Market": "ZH-CN",
+            "Hash": "9472607734",
+            "FullDateString": "2026 10月 27"
+        }
+    },
+    {
         "startdate": "20261025",
         "fullstartdate": "202610251600",
         "enddate": "20261026",

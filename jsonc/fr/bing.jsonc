@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261026",
+        "fullstartdate": "202610262300",
+        "enddate": "20261027",
+        "url": "/th?id=OHR.PondCypress_FR-FR3578297716_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PondCypress_FR-FR3578297716",
+        "copyright": "Un bosquet de cyprès des étangs aux couleurs automnales, Géorgie, États-Unis (© Chris Moore/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=cypr%C3%A8s+des+%C3%A9tangs&form=hpcapt&filters=HpDate%3a%2220261026_2300%22",
+        "title": "Le reflet doré de la nature",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261026_PondCypress%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2739770b0843c3744e3ee176cee94f86",
+        "hsh": "b861b8207975be95946c47f039c354dc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Se reflétant dans une eau paisible sous la lumière dorée du couchant, ce bosquet de cyprès des étangs compose un saisissant tableau de couleurs et de symétrie. Originaire du sud-est des États-Unis, cet arbre affectionne les mares peu profondes, les dépressions humides et les zones marécageuses. En Géorgie (États-Unis), où cette image a été capturée, il peuple notamment le célèbre marais d’Okefenokee et d’autres terres basses gorgées d’eau.",
+                "Image": {
+                    "Url": "/th?id=OHR.PondCypress_FR-FR3578297716_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PondCypress_FR-FR3578297716_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Le reflet doré de la nature",
+                "Title": "Un bosquet de cyprès des étangs aux couleurs automnales, Géorgie, États-Unis",
+                "Copyright": "© Chris Moore/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Le cyprès des étangs peut développer des racines noueuses, appelées « genoux », qui émergent de l'eau ou du sol autour de l'arbre.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261027_PondCypress\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=cypr%c3%a8s+des+%c3%a9tangs&form=hpcapt&filters=HpDate:\"20261026_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261027_PondCypress"
+            },
+            "Ssd": "20261027",
+            "Name": "PondCypress",
+            "Market": "FR-FR",
+            "Hash": "3578297716",
+            "FullDateString": "27 oct. 2026"
+        }
+    },
+    {
         "startdate": "20261025",
         "fullstartdate": "202610252300",
         "enddate": "20261026",
