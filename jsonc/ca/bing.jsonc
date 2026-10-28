@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261027",
+        "fullstartdate": "202610270400",
+        "enddate": "20261028",
+        "url": "/th?id=OHR.PondCypress_EN-CA4795569261_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PondCypress_EN-CA4795569261",
+        "copyright": "A grove of pond cypress trees with fall foliage, Georgia, United States (© Chris Moore/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Pond+cypress&form=hpcapt&filters=HpDate%3a%2220261027_0400%22",
+        "title": "Nature's golden mirror",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261027_PondCypress%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "2739770b0843c3744e3ee176cee94f86",
+        "hsh": "8c72acb7da1795e9aa2c8f42264dfe21",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Reflected in calm water and glowing in the light of the setting sun, this grove of pond cypress creates a striking display of colour and symmetry. Native to the southeastern United States, the species is associated with shallow ponds, depressions and wetland habitats. This image was captured in Georgia, where these trees can be found in places such as the Okefenokee Swamp and other low-lying wetlands.",
+                "Image": {
+                    "Url": "/th?id=OHR.PondCypress_EN-CA4795569261_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PondCypress_EN-CA4795569261_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Nature's golden mirror",
+                "Title": "A grove of pond cypress trees with fall foliage, Georgia, United States",
+                "Copyright": "© Chris Moore/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Pond cypress can develop knobby root structures known as 'knees' that rise above the water or soil around the tree.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261027_PondCypress\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Pond+cypress&form=hpcapt&filters=HpDate:\"20261027_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261027_PondCypress"
+            },
+            "Ssd": "20261027",
+            "Name": "PondCypress",
+            "Market": "EN-CA",
+            "Hash": "4795569261",
+            "FullDateString": "Oct 27, 2026"
+        }
+    },
+    {
         "startdate": "20261026",
         "fullstartdate": "202610260400",
         "enddate": "20261027",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261027",
+        "fullstartdate": "202610270300",
+        "enddate": "20261028",
+        "url": "/th?id=OHR.PondCypress_PT-BR8608067056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PondCypress_PT-BR8608067056",
+        "copyright": "Bosque de ciprestes-dos-pântanos com folhagem de outono, Geórgia, EUA (© Chris Moore/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=cipreste+dos+pantanos&form=hpcapt&mkt=pt-br",
+        "title": "Um espelho com raízes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261027_PondCypress%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "26ad0eb2359003ac576ce5f0de968c2a",
+        "hsh": "f24b7a2d83c02caeb7786d497a4db885",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Olhando esta paisagem, dá para jurar que o outono resolveu trocar as montanhas por um pântano. Quase. O cenário está na Geórgia, nos Estados Unidos, onde o cipreste-dos-pântanos forma extensos bosques em águas rasas e terrenos encharcados.",
+                "Image": {
+                    "Url": "/th?id=OHR.PondCypress_PT-BR8608067056_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PondCypress_PT-BR8608067056_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Um espelho com raízes",
+                "Title": "Bosque de ciprestes-dos-pântanos com folhagem de outono, Geórgia, EUA",
+                "Copyright": "© Chris Moore/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261027_PondCypress\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=cipreste+dos+pantanos&form=hpcapt&filters=HpDate:\"20261027_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261027_PondCypress"
+            },
+            "Ssd": "20261027",
+            "Name": "PondCypress",
+            "Market": "PT-BR",
+            "Hash": "8608067056",
+            "FullDateString": "27 out. 2026"
+        }
+    },
+    {
         "startdate": "20261026",
         "fullstartdate": "202610260300",
         "enddate": "20261027",
