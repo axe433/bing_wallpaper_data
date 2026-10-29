@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261028",
+        "fullstartdate": "202610281500",
+        "enddate": "20261029",
+        "url": "/th?id=OHR.AveburyStones_JA-JP4031336786_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AveburyStones_JA-JP4031336786",
+        "copyright": "エーヴベリー 巨石群, イングランド (© George W Johnson/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%A8%E3%83%BC%E3%83%B4%E3%83%99%E3%83%AA%E3%83%BC+%E5%B7%A8%E7%9F%B3%E7%BE%A4&form=hpcapt&filters=HpDate%3a%2220261028_1500%22",
+        "title": "草原に立ち並ぶ巨石群",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261028_AveburyStones%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "26ad0eb2359003ac576ce5f0de968c2a",
+        "hsh": "d6e319715f7572177def89ba9f8da2ca",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "イングランド南西部ウィルトシャーにあるエーヴベリー。朝霧に包まれた巨石群は、約 4500 年前の新石器時代に築かれた遺跡の一部です。世界最大の先史時代の環状列石をはじめ、巨大な環状遺構や列石が残されており、シルベリー・ヒルなど周辺の遺跡とともに広大な遺跡群を形成し、ユネスコ世界遺産にも登録されています。訪れる人は巨石の間を歩くことで、現代の田園風景に溶け込む古代遺跡を間近に体感することができます。",
+                "Image": {
+                    "Url": "/th?id=OHR.AveburyStones_JA-JP4031336786_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AveburyStones_JA-JP4031336786_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "草原に立ち並ぶ巨石群",
+                "Title": "エーヴベリー 巨石群, イングランド",
+                "Copyright": "© George W Johnson/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.42898,-1.854909/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=51.42898,-1.854909;S9;エーヴベリー, イングランド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": "/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20261029_AveburyStones%22+WQId:%221%22&form=hpbal1"
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261029_AveburyStones\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%a8%e3%83%bc%e3%83%b4%e3%83%99%e3%83%aa%e3%83%bc+%e5%b7%a8%e7%9f%b3%e7%be%a4&form=hpcapt&filters=HpDate:\"20261028_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261029_AveburyStones"
+            },
+            "Ssd": "20261029",
+            "Name": "AveburyStones",
+            "Market": "JA-JP",
+            "Hash": "4031336786",
+            "FullDateString": "2026 年 10月 月 29 日"
+        }
+    },
+    {
         "startdate": "20261027",
         "fullstartdate": "202610271500",
         "enddate": "20261028",

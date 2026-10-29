@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261028",
+        "fullstartdate": "202610282300",
+        "enddate": "20261029",
+        "url": "/th?id=OHR.AveburyStones_FR-FR0792308002_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AveburyStones_FR-FR0792308002",
+        "copyright": "Pierres dressées à Avebury dans le Wiltshire, Angleterre (© George W Johnson/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=cercle+de+pierres+Avebury+Wiltshire&form=hpcapt&filters=HpDate%3a%2220261028_2300%22",
+        "title": "Des millénaires caressés par la brume",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261028_AveburyStones%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "26ad0eb2359003ac576ce5f0de968c2a",
+        "hsh": "b1c67b505596f327f29db1c78b0ac685",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Au petit matin, la brume glisse entre les pierres dressées d’Avebury, dans le Wiltshire, en Angleterre, et le paysage semble suspendu hors du temps. Érigé il y a environ 4 500 ans, cet immense ensemble néolithique comprend l’un des plus vastes cercles de pierres préhistoriques au monde, entouré d’un vaste henge et prolongé par des avenues de mégalithes. Avec Silbury Hill et West Kennet Avenue, il forme un remarquable paysage préhistorique qui, depuis des générations, intrigue visiteurs, chercheurs et archéologues.",
+                "Image": {
+                    "Url": "/th?id=OHR.AveburyStones_FR-FR0792308002_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AveburyStones_FR-FR0792308002_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Des millénaires caressés par la brume",
+                "Title": "Pierres dressées à Avebury dans le Wiltshire, Angleterre",
+                "Copyright": "© George W Johnson/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.42898,-1.854909/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=51.42898,-1.854909;S9;Avebury, Wiltshire, Angleterre&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261029_AveburyStones\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=cercle+de+pierres+Avebury+Wiltshire&form=hpcapt&filters=HpDate:\"20261028_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261029_AveburyStones"
+            },
+            "Ssd": "20261029",
+            "Name": "AveburyStones",
+            "Market": "FR-FR",
+            "Hash": "0792308002",
+            "FullDateString": "29 oct. 2026"
+        }
+    },
+    {
         "startdate": "20261027",
         "fullstartdate": "202610272300",
         "enddate": "20261028",
