@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261029",
+        "fullstartdate": "202610292300",
+        "enddate": "20261030",
+        "url": "/th?id=OHR.AutumnCranes_ES-ES8460518037_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AutumnCranes_ES-ES8460518037",
+        "copyright": "Grullas canadienses, Refugio Nacional de Vida Silvestre Bosque del Apache, Nuevo Mexico, EUA (© Terry St.Louis/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Grullas+Canadienses&form=hpcapt&filters=HpDate%3a%2220261029_2300%22",
+        "title": "Hora de levantar el vuelo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261029_AutumnCranes%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bd24c783f4de9501ac5b1529307f9567",
+        "hsh": "1938794829b93607f3bf772d97e9acb9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "El invierno trae consigo un ritmo familiar al Refugio Nacional de Vida Silvestre Bosque del Apache, en Nuevo México. Las grullas regresan, los humedales se llenan de aves y la zona se convierte en un punto de encuentro para la fauna estacional. Fundado en 1939, este santuario de 57.331 acres (23,201 hectáreas) se creó para ofrecer una parada protegida a las aves acuáticas migratorias. Hoy, sus humedales, campos y cursos de agua albergan fauna durante todo el año. Las grullas canadienses, protagonistas de la imagen de hoy, están especialmente ligadas al refugio durante el invierno.",
+                "Image": {
+                    "Url": "/th?id=OHR.AutumnCranes_ES-ES8460518037_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AutumnCranes_ES-ES8460518037_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Hora de levantar el vuelo",
+                "Title": "Grullas canadienses, Refugio Nacional de Vida Silvestre Bosque del Apache, Nuevo Mexico, EUA",
+                "Copyright": "© Terry St.Louis/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/34.384147,-106.900263/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=34.384147,-106.900263;S9;Refugio Nacional de Vida Silvestre Bosque del Apache&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261030_AutumnCranes\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Grullas+Canadienses&form=hpcapt&filters=HpDate:\"20261029_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261030_AutumnCranes"
+            },
+            "Ssd": "20261030",
+            "Name": "AutumnCranes",
+            "Market": "ES-ES",
+            "Hash": "8460518037",
+            "FullDateString": "30 de oct de 2026"
+        }
+    },
+    {
         "startdate": "20261028",
         "fullstartdate": "202610282300",
         "enddate": "20261029",
@@ -118,8 +167,8 @@
             "ImageContent": {
                 "Description": "Reflejado en un agua sin una onda y encendido por la última luz del día, este bosquete de cipreses de estanque compone una escena de simetría casi perfecta. La especie es propia del sureste de Estados Unidos y esta imagen se tomó en Georgia, donde crece en lugares como el gran pantano de Okefenokee y otros humedales de tierras bajas.",
                 "Image": {
-                    "Url": "/th?id=OHR.PondCypress_ES-ES1413599118_1920x1080.webp",
-                    "Wallpaper": "/th?id=OHR.PondCypress_ES-ES1413599118_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Url": "/th?id=OHR.PondCypress_ES-ES5888685254_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PondCypress_ES-ES5888685254_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
                     "Downloadable": true
                 },
                 "Headline": "Reflejos dorados",
@@ -142,7 +191,7 @@
             "Ssd": "20261027",
             "Name": "PondCypress",
             "Market": "ES-ES",
-            "Hash": "1413599118",
+            "Hash": "5888685254",
             "FullDateString": "27 de oct de 2026"
         }
     },
