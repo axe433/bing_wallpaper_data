@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261030",
+        "fullstartdate": "202610302300",
+        "enddate": "20261031",
+        "url": "/th?id=OHR.FrankfurtHalloween_DE-DE2172526536_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FrankfurtHalloween_DE-DE2172526536",
+        "copyright": "Kaiserdom St. Bartholomäus in Frankfurt am Main, Deutschland (© AlxeyPnferov/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261030_2300%22",
+        "title": "Der Geist vergangener Kaiserreiche",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261030_FrankfurtHalloween%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "29170f3e4dffd2ab8163b912064dd455",
+        "hsh": "ead7a5128f2dac8473d3b22c72a6d9d4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Vergessen Sie die Nebelmaschine. Frankfurt am Main hat etwas weitaus Wirkungsvolleres zu bieten: eine gotische Kathedrale mit einem Turm, wie geschaffen für eine Mitternachts-Séance. Der hier abgebildete Kaiserdom St. Bartholomäus bietet die perfekte mittelalterliche Kulisse für Halloween. Doch die Geschichte dieses Feiertags ist noch gruseliger als das Foto.",
+                "Image": {
+                    "Url": "/th?id=OHR.FrankfurtHalloween_DE-DE2172526536_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FrankfurtHalloween_DE-DE2172526536_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Der Geist vergangener Kaiserreiche",
+                "Title": "Kaiserdom St. Bartholomäus in Frankfurt am Main, Deutschland",
+                "Copyright": "© AlxeyPnferov/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.110766,8.68539/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=50.110766,8.68539;S9;Kaiserdom St. Bartholomäus, Frankfurt am Main&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261031_FrankfurtHalloween\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Halloween&form=hpcapt&filters=HpDate:\"20261030_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261031_FrankfurtHalloween"
+            },
+            "Ssd": "20261031",
+            "Name": "FrankfurtHalloween",
+            "Market": "DE-DE",
+            "Hash": "2172526536",
+            "FullDateString": "31. Okt.. 2026"
+        }
+    },
+    {
         "startdate": "20261029",
         "fullstartdate": "202610292300",
         "enddate": "20261030",

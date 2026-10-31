@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261030",
+        "fullstartdate": "202610302300",
+        "enddate": "20261031",
+        "url": "/th?id=OHR.FrankfurtHalloween_ES-ES0138515727_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FrankfurtHalloween_ES-ES0138515727",
+        "copyright": "Catedral de San Bartolomé, Fráncfort, Alemania (© AlxeyPnferov/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261030_2300%22",
+        "title": "Los fantasmas de imperios pasados",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261030_FrankfurtHalloween%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "29170f3e4dffd2ab8163b912064dd455",
+        "hsh": "8245bdb6e180d9de710d68657456b9e7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Olvídate de la máquina de humo. Fráncfort, Alemania, tiene algo mucho más efectivo: una catedral gótica con una torre que parece lista para una sesión espiritista a medianoche. La catedral de San Bartolomé, que vemos en la imagen, tiene la silueta medieval que Halloween habría elegido como escenario perfecto. Pero la historia de esta celebración es aún más extraña.",
+                "Image": {
+                    "Url": "/th?id=OHR.FrankfurtHalloween_ES-ES0138515727_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FrankfurtHalloween_ES-ES0138515727_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Los fantasmas de imperios pasados",
+                "Title": "Catedral de San Bartolomé, Fráncfort, Alemania",
+                "Copyright": "© AlxeyPnferov/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.110766,8.68539/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=50.110766,8.68539;S9;Catedral de San Bartolomé, Fráncfort, Alemania&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261031_FrankfurtHalloween\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Halloween&form=hpcapt&filters=HpDate:\"20261030_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261031_FrankfurtHalloween"
+            },
+            "Ssd": "20261031",
+            "Name": "FrankfurtHalloween",
+            "Market": "ES-ES",
+            "Hash": "0138515727",
+            "FullDateString": "31 de oct de 2026"
+        }
+    },
+    {
         "startdate": "20261029",
         "fullstartdate": "202610292300",
         "enddate": "20261030",
