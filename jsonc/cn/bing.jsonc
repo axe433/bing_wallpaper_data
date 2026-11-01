@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261031",
+        "fullstartdate": "202610311600",
+        "enddate": "20261101",
+        "url": "/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599",
+        "copyright": "黑森林，巴登-符腾堡州，德国 (© Britus/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%BE%B7%E5%9B%BD%E9%BB%91%E6%A3%AE%E6%9E%97&form=hpcapt&mkt=zh-cn",
+        "title": "林间迷雾",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261031_SchwarzwaldAutumn%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "df46caacfbbf0e5227a892488370987a",
+        "hsh": "242d9ded23355c54c0b733c1211d1586",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今天，我们一起欣赏笼罩在黑森林上空的朦胧景色。黑森林绵延约160公里，横跨德国西南部，汇集了葱郁的山丘、幽深的山谷、湖泊和迷人的小镇。最高峰费尔德贝格山海拔1,493米；多瑙河和内卡河也发源于黑森林。这里同样不乏历史与传统。林业长期以来在当地占据重要地位，而延续数百年的钟表制造传统，更让别具特色的布谷鸟钟名扬德国以外。",
+                "Image": {
+                    "Url": "/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "林间迷雾",
+                "Title": "黑森林，巴登-符腾堡州，德国",
+                "Copyright": "© Britus/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "黑森林传统民俗头饰“绒球帽”上有14个羊毛绒球；未婚女性传统上佩戴红色绒球帽。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261101_SchwarzwaldAutumn\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%be%b7%e5%9b%bd%e9%bb%91%e6%a3%ae%e6%9e%97&form=hpcapt&filters=HpDate:\"20261031_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261101_SchwarzwaldAutumn"
+            },
+            "Ssd": "20261101",
+            "Name": "SchwarzwaldAutumn",
+            "Market": "ZH-CN",
+            "Hash": "6323627599",
+            "FullDateString": "2026 11月 1"
+        }
+    },
+    {
         "startdate": "20261030",
         "fullstartdate": "202610301600",
         "enddate": "20261031",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261031",
+        "fullstartdate": "202610312300",
+        "enddate": "20261101",
+        "url": "/th?id=OHR.SchwarzwaldAutumn_IT-IT2276159599_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SchwarzwaldAutumn_IT-IT2276159599",
+        "copyright": "Foresta Nera, Baden-Württemberg, Germania (© Britus/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Foresta+Nera+Germania&form=hpcapt",
+        "title": "Alberi che svettano tra la foschia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261031_SchwarzwaldAutumn%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "df46caacfbbf0e5227a892488370987a",
+        "hsh": "4b219b5015349f11fb7d3fe19b9b97aa",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Lasciati avvolgere dai panorami nebbiosi della Foresta Nera, che si estende per circa 160 km nella Germania sudoccidentale. Tra colline boscose, profonde vallate, laghi e incantevoli cittadine svetta il Feldberg, la cima più alta della regione, con i suoi 1.493 metri. Qui nascono anche i fiumi Danubio e Neckar e sopravvivono tradizioni secolari: la silvicoltura svolge da sempre un ruolo importante, mentre l’antica arte orologiaia ha contribuito a rendere il caratteristico orologio a cucù famoso ben oltre i confini della Germania.",
+                "Image": {
+                    "Url": "/th?id=OHR.SchwarzwaldAutumn_IT-IT2276159599_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SchwarzwaldAutumn_IT-IT2276159599_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Alberi che svettano tra la foschia",
+                "Title": "Foresta Nera, Baden-Württemberg, Germania",
+                "Copyright": "© Britus/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.286722,8.215281/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=48.286722,8.215281;S9;Foresta Nera, Baden-Württemberg&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261101_SchwarzwaldAutumn\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Foresta+Nera+Germania&form=hpcapt&filters=HpDate:\"20261031_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261101_SchwarzwaldAutumn"
+            },
+            "Ssd": "20261101",
+            "Name": "SchwarzwaldAutumn",
+            "Market": "IT-IT",
+            "Hash": "2276159599",
+            "FullDateString": "1 novembre 2026"
+        }
+    },
+    {
         "startdate": "20261030",
         "fullstartdate": "202610302300",
         "enddate": "20261031",

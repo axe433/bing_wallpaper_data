@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261031",
+        "fullstartdate": "202610311830",
+        "enddate": "20261101",
+        "url": "/th?id=OHR.SchwarzwaldAutumn_EN-IN9123894203_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SchwarzwaldAutumn_EN-IN9123894203",
+        "copyright": "Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Black+Forest+Germany&form=hpcapt&filters=HpDate%3a%2220261031_1830%22",
+        "title": "Mist among the trees",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261031_SchwarzwaldAutumn%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "df46caacfbbf0e5227a892488370987a",
+        "hsh": "cdea8a27d35f6ff272d8e0de0f95f83e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Today we're enjoying the misty views sweeping across the Black Forest, which stretches for around 160 kilometres across south-west Germany, bringing together wooded hills, deep valleys, lakes and charming towns. Its highest point, Feldberg, rises to 1,493 metres, while the Black Forest is also the starting point for the Danube and Neckar rivers. There's plenty of history and tradition here too. Forestry has long played an important role in the region, while its centuries-old clockmaking heritage helped make the distinctive cuckoo clock famous far beyond Germany.",
+                "Image": {
+                    "Url": "/th?id=OHR.SchwarzwaldAutumn_EN-IN9123894203_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SchwarzwaldAutumn_EN-IN9123894203_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Mist among the trees",
+                "Title": "Black Forest, Baden-Württemberg, Germany",
+                "Copyright": "© Britus/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.286722,8.215281/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=48.286722,8.215281;S9;Black Forest, Baden-Württemberg&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261101_SchwarzwaldAutumn\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Black+Forest+Germany&form=hpcapt&filters=HpDate:\"20261031_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261101_SchwarzwaldAutumn"
+            },
+            "Ssd": "20261101",
+            "Name": "SchwarzwaldAutumn",
+            "Market": "EN-IN",
+            "Hash": "9123894203",
+            "FullDateString": "1 Nov, 2026"
+        }
+    },
+    {
         "startdate": "20261030",
         "fullstartdate": "202610301830",
         "enddate": "20261031",

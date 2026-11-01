@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261031",
+        "fullstartdate": "202610312300",
+        "enddate": "20261101",
+        "url": "/th?id=OHR.SchwarzwaldAutumn_FR-FR8510928698_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SchwarzwaldAutumn_FR-FR8510928698",
+        "copyright": "Forêt-Noire, Bade-Wurtemberg, Allemagne  (© Britus/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=For%C3%AAt-Noire+Allemagne&form=hpcapt&filters=HpDate%3a%2220261031_2300%22",
+        "title": "Manteau de brume sur la forêt",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261031_SchwarzwaldAutumn%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "df46caacfbbf0e5227a892488370987a",
+        "hsh": "e0fee05c7ff3b9c39eb6a77dd9762d4b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ces paysages brumeux à perte de vue se trouvent en Forêt-Noire, une région qui s’étend sur environ 160 kilomètres dans le sud-ouest de l’Allemagne. Collines boisées, vallées profondes, lacs et charmantes petites villes dessinent ses particularités très appréciées par les visiteurs.",
+                "Image": {
+                    "Url": "/th?id=OHR.SchwarzwaldAutumn_FR-FR8510928698_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SchwarzwaldAutumn_FR-FR8510928698_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Manteau de brume sur la forêt",
+                "Title": "Forêt-Noire, Bade-Wurtemberg, Allemagne",
+                "Copyright": "© Britus/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.286722,8.215281/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=48.286722,8.215281;S9;Forêt-Noire, Bade-Wurtemberg&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261101_SchwarzwaldAutumn\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=For%c3%aat-Noire+Allemagne&form=hpcapt&filters=HpDate:\"20261031_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261101_SchwarzwaldAutumn"
+            },
+            "Ssd": "20261101",
+            "Name": "SchwarzwaldAutumn",
+            "Market": "FR-FR",
+            "Hash": "8510928698",
+            "FullDateString": "1 nov. 2026"
+        }
+    },
+    {
         "startdate": "20261030",
         "fullstartdate": "202610302300",
         "enddate": "20261031",

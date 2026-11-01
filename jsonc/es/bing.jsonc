@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261031",
+        "fullstartdate": "202610312300",
+        "enddate": "20261101",
+        "url": "/th?id=OHR.SchwarzwaldAutumn_ES-ES0251623557_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SchwarzwaldAutumn_ES-ES0251623557",
+        "copyright": "La selva Negra, Baden-Württemberg, Alemania (© Britus/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Selva+Negra+Alemania&form=hpcapt&filters=HpDate%3a%2220261031_2300%22",
+        "title": "Niebla entre los árboles",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261031_SchwarzwaldAutumn%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "df46caacfbbf0e5227a892488370987a",
+        "hsh": "4871cb3085d9dcd75070bd4ec40af68a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Hoy disfrutamos de las vistas envueltas en la niebla de la Selva Negra, que se extiende a lo largo de unos 160 kilómetros por el suroeste de Alemania entre colinas boscosas, profundos valles, lagos y encantadores pueblos. Su punto más alto, el Feldberg, alcanza los 1.493 metros, y la Selva Negra también alberga el nacimiento de los ríos Danubio y Neckar. La historia y la tradición también están muy presentes en esta región. La actividad forestal ha desempeñado durante mucho tiempo un papel importante, mientras que una tradición relojera de varios siglos contribuyó a que sus característicos relojes de cuco se hicieran famosos mucho más allá de las fronteras de Alemania.",
+                "Image": {
+                    "Url": "/th?id=OHR.SchwarzwaldAutumn_ES-ES0251623557_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SchwarzwaldAutumn_ES-ES0251623557_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Niebla entre los árboles",
+                "Title": "La selva Negra, Baden-Württemberg, Alemania",
+                "Copyright": "© Britus/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.286722,8.215281/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=48.286722,8.215281;S9;Selva Negra, Baden-Württemberg&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261101_SchwarzwaldAutumn\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Selva+Negra+Alemania&form=hpcapt&filters=HpDate:\"20261031_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261101_SchwarzwaldAutumn"
+            },
+            "Ssd": "20261101",
+            "Name": "SchwarzwaldAutumn",
+            "Market": "ES-ES",
+            "Hash": "0251623557",
+            "FullDateString": "1 de nov de 2026"
+        }
+    },
+    {
         "startdate": "20261030",
         "fullstartdate": "202610302300",
         "enddate": "20261031",
