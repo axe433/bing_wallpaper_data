@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261101",
+        "fullstartdate": "202611010700",
+        "enddate": "20261102",
+        "url": "/th?id=OHR.NativeBaskets_EN-US0205712064_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NativeBaskets_EN-US0205712064",
+        "copyright": "Handmade baskets, Santa Fe, New Mexico (© Patrick Lane/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Native+American+Heritage+Month&form=hpcapt&filters=HpDate%3a%2220261101_0700%22",
+        "title": "Crafting continuity",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261101_NativeBaskets%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d023aa970295821cc11959954f529fbb",
+        "hsh": "cbbf95e19ef284f39a83ac650e836604",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A basket can carry far more than its contents. The Native American basketry seen here in Santa Fe, New Mexico, points to a much bigger story: a rich variety of techniques and designs developed by communities across the country. Their materials, patterns, and styles reflect their places of origin, turning everyday objects into records of local knowledge and identity.",
+                "Image": {
+                    "Url": "/th?id=OHR.NativeBaskets_EN-US0205712064_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NativeBaskets_EN-US0205712064_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Crafting continuity",
+                "Title": "Handmade baskets, Santa Fe, New Mexico",
+                "Copyright": "© Patrick Lane/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.662783,-105.974807/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=35.662783,-105.974807;S9;Santa Fe, New Mexico&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261101_NativeBaskets\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Native+American+Heritage+Month&form=hpcapt&filters=HpDate:\"20261101_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261101_NativeBaskets"
+            },
+            "Ssd": "20261101",
+            "Name": "NativeBaskets",
+            "Market": "EN-US",
+            "Hash": "0205712064",
+            "FullDateString": "Nov 1, 2026"
+        }
+    },
+    {
         "startdate": "20261031",
         "fullstartdate": "202610310700",
         "enddate": "20261101",

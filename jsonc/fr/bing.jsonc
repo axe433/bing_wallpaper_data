@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261101",
+        "fullstartdate": "202611012300",
+        "enddate": "20261102",
+        "url": "/th?id=OHR.HudsonBear_FR-FR2767726453_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HudsonBear_FR-FR2767726453",
+        "copyright": "Ours polaire et oursons, baie d'Hudson, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=ours+polaire&form=hpcapt&filters=HpDate%3a%2220261101_2300%22",
+        "title": "Un avenir écrit dans la glace",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261101_HudsonBear%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c09343a224b288353bf7f88c2818bba5",
+        "hsh": "38626787e73cf9f113c6f938cd201edc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Si le mois de novembre nous rapproche un peu plus des fêtes de fin d’année, les ours polaires, eux, ont d’autres projets. Ils se rassemblent le long des rives de la baie d’Hudson, dans le Manitoba (Canada), en attendant que la banquise se forme pour pouvoir repartir chasser le phoque. Les ours polaires sont de puissants nageurs, des chasseurs hors pair et remarquablement adaptés à la vie dans l’un des environnements les plus hostiles de la planète. Pourtant, le recul de la banquise les oblige à passer plus de temps sur la terre ferme, ce qui rend la recherche de nourriture plus difficile et augmente le risque de rencontres avec les humains.",
+                "Image": {
+                    "Url": "/th?id=OHR.HudsonBear_FR-FR2767726453_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HudsonBear_FR-FR2767726453_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un avenir écrit dans la glace",
+                "Title": "Ours polaire et oursons, baie d'Hudson, Manitoba, Canada",
+                "Copyright": "© Danita Delimont/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "En une saison, un ours polaire peut parcourir plus de 1 000 km à la recherche de nourriture et de la banquise.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261102_HudsonBear\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=ours+polaire&form=hpcapt&filters=HpDate:\"20261101_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261102_HudsonBear"
+            },
+            "Ssd": "20261102",
+            "Name": "HudsonBear",
+            "Market": "FR-FR",
+            "Hash": "2767726453",
+            "FullDateString": "2 nov. 2026"
+        }
+    },
+    {
         "startdate": "20261031",
         "fullstartdate": "202610312300",
         "enddate": "20261101",

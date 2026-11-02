@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261101",
+        "fullstartdate": "202611010700",
+        "enddate": "20261102",
+        "url": "/th?id=OHR.SchwarzwaldAutumn_ROW3364796116_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SchwarzwaldAutumn_ROW3364796116",
+        "copyright": "Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Black+Forest+Germany&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261101_SchwarzwaldAutumn%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "df46caacfbbf0e5227a892488370987a",
+        "hsh": "066b09ffcd5a906a3dcac5b14ef9f3ea",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Today we're enjoying the misty views sweeping across the Black Forest, which stretches for around 160 kilometres across south-west Germany, bringing together wooded hills, deep valleys, lakes and charming towns. Its highest point, Feldberg, rises to 1,493 metres, while the Black Forest is also the starting point for the Danube and Neckar rivers. There's plenty of history and tradition here too. Forestry has long played an important role in the region, while its centuries-old clockmaking heritage helped make the distinctive cuckoo clock famous far beyond Germany.",
+                "Image": {
+                    "Url": "/th?id=OHR.SchwarzwaldAutumn_ROW3364796116_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SchwarzwaldAutumn_ROW3364796116_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Black Forest, Baden-Württemberg, Germany",
+                "Copyright": "© Britus/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261101_SchwarzwaldAutumn\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Black+Forest+Germany&form=hpcapt&filters=HpDate:\"20261101_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261101_SchwarzwaldAutumn"
+            },
+            "Ssd": "20261101",
+            "Name": "SchwarzwaldAutumn",
+            "Market": "ROW",
+            "Hash": "3364796116",
+            "FullDateString": "1 Kas, 2026"
+        }
+    },
+    {
         "startdate": "20261031",
         "fullstartdate": "202610310700",
         "enddate": "20261101",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261101",
+        "fullstartdate": "202611011500",
+        "enddate": "20261102",
+        "url": "/th?id=OHR.HudsonBear_JA-JP9155678647_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HudsonBear_JA-JP9155678647",
+        "copyright": "ホッキョクグマの親子、ハドソン湾、マニトバ州、カナダ (© Danita Delimont/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%9B%E3%83%83%E3%82%AD%E3%83%A7%E3%82%AF%E3%82%B0%E3%83%9E%E9%80%B1%E9%96%93&form=hpcapt&filters=HpDate%3a%2220261101_1500%22",
+        "title": "氷がつなぐ未来",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261101_HudsonBear%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c09343a224b288353bf7f88c2818bba5",
+        "hsh": "0960b68acb12cc5637d49b762a871631",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "カナダ・マニトバ州のハドソン湾沿岸では、ホッキョクグマたちが、海氷が張るのを待っています。海氷ができると、再び氷の上でアザラシを狩れるようになります。11月の第1週には「ホッキョクグマ週間」が行われます。泳ぎも狩りも得意な彼らは、地球上でも指折りの厳しい環境に適応して暮らしています。しかし、海氷の減少によって陸上で過ごす時間が長くなり、餌を確保しにくくなるなどの影響が出ています。写真に写っているのは、ハドソン湾近くで暮らす母グマと子グマたちです。この愛らしい親子の姿は、北極の美しい自然と、ホッキョクグマが生きるために欠かせない海氷を守る大切さを伝えています。",
+                "Image": {
+                    "Url": "/th?id=OHR.HudsonBear_JA-JP9155678647_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HudsonBear_JA-JP9155678647_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "氷がつなぐ未来",
+                "Title": "ホッキョクグマの親子、ハドソン湾、マニトバ州、カナダ",
+                "Copyright": "© Danita Delimont/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "ホッキョクグマは、餌を捕りやすく、生息に適した氷を求めて、1シーズンに1,000キロメートル以上移動することがあります。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261102_HudsonBear\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%9b%e3%83%83%e3%82%ad%e3%83%a7%e3%82%af%e3%82%b0%e3%83%9e%e9%80%b1%e9%96%93&form=hpcapt&filters=HpDate:\"20261101_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261102_HudsonBear"
+            },
+            "Ssd": "20261102",
+            "Name": "HudsonBear",
+            "Market": "JA-JP",
+            "Hash": "9155678647",
+            "FullDateString": "2026 年 11月 月 2 日"
+        }
+    },
+    {
         "startdate": "20261031",
         "fullstartdate": "202610311500",
         "enddate": "20261101",

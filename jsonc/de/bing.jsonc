@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261101",
+        "fullstartdate": "202611012300",
+        "enddate": "20261102",
+        "url": "/th?id=OHR.HudsonBear_DE-DE3504338986_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HudsonBear_DE-DE3504338986",
+        "copyright": "Eisbär mit Jungen, Hudson Bay, Manitoba, Kanada (© Danita Delimont/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Eisb%C3%A4ren&form=hpcapt&filters=HpDate%3a%2220261101_2300%22",
+        "title": "Eine Zukunft, geprägt vom Eis",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261101_HudsonBear%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c09343a224b288353bf7f88c2818bba5",
+        "hsh": "bf8891f81fe007be6cb02cf43de9a9bd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Auch wenn uns der November der Weihnachtszeit einen Schritt näherbringt, haben Eisbären andere Pläne. Sie versammeln sich an den Ufern der Hudson Bay in Manitoba, Kanada, und warten darauf, dass sich Meereis bildet, damit sie wieder auf Robbenjagd gehen können.",
+                "Image": {
+                    "Url": "/th?id=OHR.HudsonBear_DE-DE3504338986_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HudsonBear_DE-DE3504338986_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Eine Zukunft, geprägt vom Eis",
+                "Title": "Eisbär mit Jungen, Hudson Bay, Manitoba, Kanada",
+                "Copyright": "© Danita Delimont/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "In einer einzigen Saison kann ein Eisbär auf der Suche nach Nahrung und geeigneten Eisflächen mehr als 1.000 Kilometer zurücklegen.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261102_HudsonBear\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Eisb%c3%a4ren&form=hpcapt&filters=HpDate:\"20261101_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261102_HudsonBear"
+            },
+            "Ssd": "20261102",
+            "Name": "HudsonBear",
+            "Market": "DE-DE",
+            "Hash": "3504338986",
+            "FullDateString": "2. Nov.. 2026"
+        }
+    },
+    {
         "startdate": "20261031",
         "fullstartdate": "202610312300",
         "enddate": "20261101",

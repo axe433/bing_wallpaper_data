@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261101",
+        "fullstartdate": "202611012300",
+        "enddate": "20261102",
+        "url": "/th?id=OHR.HudsonBear_ES-ES0469501883_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HudsonBear_ES-ES0469501883",
+        "copyright": "Osa polar con sus cachorros cerca de la bahía de Hudson, Manitoba, Canadá (© Danita Delimont/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate%3a%2220261101_2300%22",
+        "title": "Un futuro escrito en hielo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261101_HudsonBear%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c09343a224b288353bf7f88c2818bba5",
+        "hsh": "86189092d068b691871e539091f7f3e5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Aunque noviembre nos acerca un poco más a la época navideña, los osos polares tienen otros planes. Se reúnen en las costas de la bahía de Hudson, en Manitoba, Canadá, a la espera de que se forme el hielo marino para volver a salir en busca de focas. Este espectáculo anual inspiró la Semana del Oso Polar, que se celebra durante la primera semana de noviembre y rinde homenaje al mayor depredador terrestre del Ártico. Los osos polares son excelentes nadadores, hábiles cazadores y están extraordinariamente adaptados a la vida en uno de los entornos más extremos del planeta. Sin embargo, la reducción del hielo marino hace que muchos pasen más tiempo en tierra firme, lo que dificulta la búsqueda de alimento y aumenta el riesgo de encuentros con personas.",
+                "Image": {
+                    "Url": "/th?id=OHR.HudsonBear_ES-ES0469501883_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HudsonBear_ES-ES0469501883_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un futuro escrito en hielo",
+                "Title": "Osa polar con sus cachorros cerca de la bahía de Hudson, Manitoba, Canadá",
+                "Copyright": "© Danita Delimont/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "En una sola temporada, un oso polar puede recorrer más de 1,000 kilómetros en busca de alimento y hielo adecuado.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261102_HudsonBear\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate:\"20261101_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261102_HudsonBear"
+            },
+            "Ssd": "20261102",
+            "Name": "HudsonBear",
+            "Market": "ES-ES",
+            "Hash": "0469501883",
+            "FullDateString": "2 de nov de 2026"
+        }
+    },
+    {
         "startdate": "20261031",
         "fullstartdate": "202610312300",
         "enddate": "20261101",
