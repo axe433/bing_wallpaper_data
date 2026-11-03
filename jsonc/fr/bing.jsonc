@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261102",
+        "fullstartdate": "202611022300",
+        "enddate": "20261103",
+        "url": "/th?id=OHR.AlpineBraies_FR-FR8651963330_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlpineBraies_FR-FR8651963330",
+        "copyright": "Lac de Braies, Parc naturel Fanes‑Sennes‑Braies, Dolomites, Italie (© leonid_tit/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lac+de+Braies+Dolomites&form=hpcapt&filters=HpDate%3a%2220261102_2300%22",
+        "title": "La paix parmi les sommets",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261102_AlpineBraies%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "dc2e3bf67a0389bb98561e43c926467e",
+        "hsh": "0f6ae79e0a62e140c8d77829d70cef83",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Le lac de Braies se trouve à près de 1 500 mètres d'altitude dans les Dolomites du Tyrol du Sud, au nord de l'Italie. Entouré de forêts et des sommets spectaculaires du parc naturel de Fanes-Sennes-Braies, ce lac est réputé pour ses eaux d'un vert et d'un bleu saisissants. Un sentier de 3,5 kilomètres fait le tour de ses rives, tandis que des barques traditionnelles en bois permettent de profiter autrement du paysage. Le lac est également le point de départ de plusieurs randonnées en montagne, dont la célèbre Alta Via 1 des Dolomites qui parcoure 125 km dans les montagnes.",
+                "Image": {
+                    "Url": "/th?id=OHR.AlpineBraies_FR-FR8651963330_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AlpineBraies_FR-FR8651963330_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "La paix parmi les sommets",
+                "Title": "Lac de Braies, Parc naturel Fanes‑Sennes‑Braies, Dolomites, Italie",
+                "Copyright": "© leonid_tit/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.693566,12.084606/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=46.693566,12.084606;S9;Lac de Braies, Parc naturel Fanes‑Sennes‑Braies&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261103_AlpineBraies\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lac+de+Braies+Dolomites&form=hpcapt&filters=HpDate:\"20261102_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261103_AlpineBraies"
+            },
+            "Ssd": "20261103",
+            "Name": "AlpineBraies",
+            "Market": "FR-FR",
+            "Hash": "8651963330",
+            "FullDateString": "3 nov. 2026"
+        }
+    },
+    {
         "startdate": "20261101",
         "fullstartdate": "202611012300",
         "enddate": "20261102",

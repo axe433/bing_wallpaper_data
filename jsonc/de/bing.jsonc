@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261102",
+        "fullstartdate": "202611022300",
+        "enddate": "20261103",
+        "url": "/th?id=OHR.AlpineBraies_DE-DE4176036164_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlpineBraies_DE-DE4176036164",
+        "copyright": "Pragser Wildsee, Naturpark Fanes‑Sennes‑Prags, Dolomiten, Italien (© leonid_tit/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Pragser+Wildsee+Dolomiten&form=hpcapt&filters=HpDate%3a%2220261102_2300%22",
+        "title": "Stille Gipfelwelten",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261102_AlpineBraies%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "dc2e3bf67a0389bb98561e43c926467e",
+        "hsh": "5d09031a93a455e4cca7225082b52406",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Der Pragser Wildsee liegt auf fast 1.500 Metern Höhe in den Südtiroler Dolomiten. Umgeben von Wäldern und den imposanten Gipfeln des Naturparks Fanes-Sennes-Prags, ist der See für sein auffallend grün-blaues Wasser bekannt. Ein 3,5 Kilometer langer Wanderweg führt um das Ufer herum, aber der Wildsee lässt sich auch mit traditionellen Holzruderbooten erkunden. Der See ist zudem Ausgangspunkt für mehrere Bergwanderungen, darunter der berühmte Alta Via 1 Höhenweg der Dolomiten.",
+                "Image": {
+                    "Url": "/th?id=OHR.AlpineBraies_DE-DE4176036164_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AlpineBraies_DE-DE4176036164_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Stille Gipfelwelten",
+                "Title": "Pragser Wildsee, Naturpark Fanes‑Sennes‑Prags, Dolomiten, Italien",
+                "Copyright": "© leonid_tit/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.693566,12.084606/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=46.693566,12.084606;S9;Pragser Wildsee, Dolomiten&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261103_AlpineBraies\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Pragser+Wildsee+Dolomiten&form=hpcapt&filters=HpDate:\"20261102_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261103_AlpineBraies"
+            },
+            "Ssd": "20261103",
+            "Name": "AlpineBraies",
+            "Market": "DE-DE",
+            "Hash": "4176036164",
+            "FullDateString": "3. Nov.. 2026"
+        }
+    },
+    {
         "startdate": "20261101",
         "fullstartdate": "202611012300",
         "enddate": "20261102",

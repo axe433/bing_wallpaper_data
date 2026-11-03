@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261102",
+        "fullstartdate": "202611020800",
+        "enddate": "20261103",
+        "url": "/th?id=OHR.HudsonBear_EN-US0297833232_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HudsonBear_EN-US0297833232",
+        "copyright": "Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate%3a%2220261102_0800%22",
+        "title": "A future written in ice",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261102_HudsonBear%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c09343a224b288353bf7f88c2818bba5",
+        "hsh": "ffd667463af0d9f224c644a4e59629fb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "While November might bring us a step closer to the holiday season, polar bears have other plans. They gather along the shores of Hudson Bay in Manitoba, Canada, waiting for sea ice to form so they can head back out to hunt seals. That annual spectacle inspired Polar Bear Week, observed during the first week of November, a celebration of the Arctic's largest land predator. Polar bears are powerful swimmers, expert hunters, and remarkably adapted to life in one of Earth's harshest environments. Yet shrinking sea ice means many spend longer on land, making it harder to find food and raising the risk of encounters with people.",
+                "Image": {
+                    "Url": "/th?id=OHR.HudsonBear_EN-US0297833232_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.HudsonBear_EN-US0297833232_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A future written in ice",
+                "Title": "Polar bear and cubs by Hudson Bay, Manitoba, Canada",
+                "Copyright": "© Danita Delimont/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "In a single season, a polar bear may cover more than 620 miles while searching for food and suitable ice.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261102_HudsonBear\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate:\"20261102_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261102_HudsonBear"
+            },
+            "Ssd": "20261102",
+            "Name": "HudsonBear",
+            "Market": "EN-US",
+            "Hash": "0297833232",
+            "FullDateString": "Nov 2, 2026"
+        }
+    },
+    {
         "startdate": "20261101",
         "fullstartdate": "202611010700",
         "enddate": "20261102",
