@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261104",
+        "fullstartdate": "202611040300",
+        "enddate": "20261105",
+        "url": "/th?id=OHR.AutumnChina_PT-BR3147584224_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AutumnChina_PT-BR3147584224",
+        "copyright": "Pessoas remando entre ciprestes-calvos coloridos, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=cipreste-calvo&form=hpcapt&mkt=pt-br",
+        "title": "A floresta virou galeria",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261104_AutumnChina%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d278a3364f05065c56c5ac6380c98e6c",
+        "hsh": "66b20ab0d8dfe5000a37bae464ab39de",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Pessoas remam por um labirinto de ciprestes-calvos de cores vibrantes em Xuancheng, Anhui, onde o outono transforma a floresta alagada em um mosaico de tons de âmbar, cobre e ferrugem escuro. Conhecido cientificamente como Taxodium distichum, o cipreste-calvo é incomum entre as coníferas por perder suas folhas finas e macias, semelhantes a penas, a cada outono. Antes de cair, elas adquirem uma coloração marrom-avermelhada. Na América do Norte, a espécie é conhecida por prosperar em pântanos, planícies de inundação e outros ambientes úmidos, muitas vezes desenvolvendo projeções das raízes em forma de nódulos chamadas de “joelhos”, que se projetam acima do solo e da água ao redor.",
+                "Image": {
+                    "Url": "/th?id=OHR.AutumnChina_PT-BR3147584224_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AutumnChina_PT-BR3147584224_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A floresta virou galeria",
+                "Title": "Pessoas remando entre ciprestes-calvos coloridos, Xuancheng, Anhui, China",
+                "Copyright": "© Jackal Pan/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/30.9525,118.75528/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=pt-BR&od=2&shading=flat&pp=30.9525,118.75528;S9;Xuancheng, Anhui, China&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261104_AutumnChina\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=cipreste-calvo&form=hpcapt&filters=HpDate:\"20261104_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261104_AutumnChina"
+            },
+            "Ssd": "20261104",
+            "Name": "AutumnChina",
+            "Market": "PT-BR",
+            "Hash": "3147584224",
+            "FullDateString": "4 nov. 2026"
+        }
+    },
+    {
         "startdate": "20261103",
         "fullstartdate": "202611030300",
         "enddate": "20261104",

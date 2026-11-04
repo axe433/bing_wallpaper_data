@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261103",
+        "fullstartdate": "202611032300",
+        "enddate": "20261104",
+        "url": "/th?id=OHR.AutumnChina_FR-FR8803814320_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AutumnChina_FR-FR8803814320",
+        "copyright": "Kayak dans une forêt de cyprès, Xuancheng, Anhui, Chine (© Jackal Pan/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=cypr%C3%A8s+chauve&form=hpcapt&filters=HpDate%3a%2220261103_2300%22",
+        "title": "Glisser à travers une peinture",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261103_AutumnChina%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d278a3364f05065c56c5ac6380c98e6c",
+        "hsh": "f871f5d11c264b35ee9f041da09ed3f2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dans ce labyrinthe lumineux de cyprès chauves à Xuancheng, dans la province de l'Anhui, l’automne métamorphose les zones boisées inondées en une mosaïque aux teintes ambre, cuivre et rouille profond. Le cyprès chauve se distingue des autres conifères par sa particularité de perdre ses aiguilles souples et plumeuses chaque automne. Celles-ci virent au brun rougeâtre avant de tomber.",
+                "Image": {
+                    "Url": "/th?id=OHR.AutumnChina_FR-FR8803814320_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AutumnChina_FR-FR8803814320_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Glisser à travers une peinture",
+                "Title": "Kayak dans une forêt de cyprès, Xuancheng, Anhui, Chine",
+                "Copyright": "© Jackal Pan/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/30.9525,118.75528/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=30.9525,118.75528;S9;Xuancheng, Anhui, Chine&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261104_AutumnChina\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=cypr%c3%a8s+chauve&form=hpcapt&filters=HpDate:\"20261103_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261104_AutumnChina"
+            },
+            "Ssd": "20261104",
+            "Name": "AutumnChina",
+            "Market": "FR-FR",
+            "Hash": "8803814320",
+            "FullDateString": "4 nov. 2026"
+        }
+    },
+    {
         "startdate": "20261102",
         "fullstartdate": "202611022300",
         "enddate": "20261103",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261103",
+        "fullstartdate": "202611030800",
+        "enddate": "20261104",
+        "url": "/th?id=OHR.Camburiu_ROW3589076688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Camburiu_ROW3589076688",
+        "copyright": "Taquaras Beach, Balneário Camboriú, Brazil (© MaRabelo/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Balne%C3%A1rio+Cambori%C3%BA&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261103_Camburiu%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "26f5328cc0a36a480e920cba065f18ad",
+        "hsh": "bafd67bab8148420cb744f5abd71398d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "On Brazil's southern coast, Taquaras Beach offers a quieter escape in Balneário Camboriú, Santa Catarina. Clear blue-green waters meet a broad stretch of golden sand, backed by lush vegetation and rolling green hills. Away from the livelier atmosphere of the city centre, the beach is known for its peaceful surroundings and natural beauty. With its inviting shoreline, rich greenery and unspoilt feel, Taquaras showcases a calmer side of this popular Brazilian coastal destination.",
+                "Image": {
+                    "Url": "/th?id=OHR.Camburiu_ROW3589076688_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Camburiu_ROW3589076688_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Taquaras Beach, Balneário Camboriú, Brazil",
+                "Copyright": "© MaRabelo/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261103_Camburiu\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Balne%c3%a1rio+Cambori%c3%ba&form=hpcapt&filters=HpDate:\"20261103_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261103_Camburiu"
+            },
+            "Ssd": "20261103",
+            "Name": "Camburiu",
+            "Market": "ROW",
+            "Hash": "3589076688",
+            "FullDateString": "Nov 3, 2026"
+        }
+    },
+    {
         "startdate": "20261102",
         "fullstartdate": "202611020800",
         "enddate": "20261103",
