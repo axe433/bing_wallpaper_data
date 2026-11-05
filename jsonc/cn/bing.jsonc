@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261104",
+        "fullstartdate": "202611041600",
+        "enddate": "20261105",
+        "url": "/th?id=OHR.StileCrossing_ZH-CN9811465935_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.StileCrossing_ZH-CN9811465935",
+        "copyright": "石墙边的木制翻越梯，黑岩，湖区，英格兰 (© Alex Treadway/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%B9%96%E5%8C%BA&form=hpcapt&mkt=zh-cn",
+        "title": "向山巅再迈一步",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261104_StileCrossing%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c1b05ca836dba56f305850cb5ed06eb0",
+        "hsh": "e764edbedb3e17b846cc1a31ea9fa5a8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "一座简朴的木制翻越梯，将人们引向英格兰最负盛名的风景区之一。被列为联合国教科文组织世界遗产的湖区，湖泊波光粼粼，山丘崎岖起伏，古老的石墙纵横其间；自然力量与世代相传的农耕传统共同塑造了这片景观。",
+                "Image": {
+                    "Url": "/th?id=OHR.StileCrossing_ZH-CN9811465935_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.StileCrossing_ZH-CN9811465935_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "向山巅再迈一步",
+                "Title": "石墙边的木制翻越梯，黑岩，湖区，英格兰",
+                "Copyright": "© Alex Treadway/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "英格兰湖区于2017年被列入联合国教科文组织世界遗产名录，其独特的文化景观由此获得认可。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261105_StileCrossing\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e8%8b%b1%e6%a0%bc%e5%85%b0%e6%b9%96%e5%8c%ba&form=hpcapt&filters=HpDate:\"20261104_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261105_StileCrossing"
+            },
+            "Ssd": "20261105",
+            "Name": "StileCrossing",
+            "Market": "ZH-CN",
+            "Hash": "9811465935",
+            "FullDateString": "2026 11月 5"
+        }
+    },
+    {
         "startdate": "20261103",
         "fullstartdate": "202611031600",
         "enddate": "20261104",

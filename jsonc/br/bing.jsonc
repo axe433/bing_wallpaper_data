@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261105",
+        "fullstartdate": "202611050300",
+        "enddate": "20261106",
+        "url": "/th?id=OHR.StileCrossing_PT-BR3493884309_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.StileCrossing_PT-BR3493884309",
+        "copyright": "Escada de madeira sobre um muro de pedra, Black Crag, Lake District, Inglaterra (© Alex Treadway/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lake+District+Inglaterra&form=hpcapt&mkt=pt-br",
+        "title": "Falta muito pro topo?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261105_StileCrossing%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c1b05ca836dba56f305850cb5ed06eb0",
+        "hsh": "a40820ce336739829afd0c4ee6ee097f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Uma simples escada de madeira para transpor um muro dá acesso a uma das paisagens mais famosas da Inglaterra. O Lake District, reconhecido como Patrimônio Mundial pela UNESCO, é um mosaico de lagos cintilantes, elevações de relevo acidentado e muros de pedra centenários, moldado tanto pela natureza quanto pelas tradições agrícolas.",
+                "Image": {
+                    "Url": "/th?id=OHR.StileCrossing_PT-BR3493884309_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.StileCrossing_PT-BR3493884309_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Falta muito pro topo?",
+                "Title": "Escada de madeira sobre um muro de pedra, Black Crag, Lake District, Inglaterra",
+                "Copyright": "© Alex Treadway/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/54.460861,-3.08875/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=pt-BR&od=2&shading=flat&pp=54.460861,-3.08875;S9;Lake District&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261105_StileCrossing\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lake+District+Inglaterra&form=hpcapt&filters=HpDate:\"20261105_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261105_StileCrossing"
+            },
+            "Ssd": "20261105",
+            "Name": "StileCrossing",
+            "Market": "PT-BR",
+            "Hash": "3493884309",
+            "FullDateString": "5 nov. 2026"
+        }
+    },
+    {
         "startdate": "20261104",
         "fullstartdate": "202611040300",
         "enddate": "20261105",

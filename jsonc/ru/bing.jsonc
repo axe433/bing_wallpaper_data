@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261104",
+        "fullstartdate": "202611040800",
+        "enddate": "20261105",
+        "url": "/th?id=OHR.AutumnChina_ROW6919148725_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AutumnChina_ROW6919148725",
+        "copyright": "People rowing among colourful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=bald+cypress&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261104_AutumnChina%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "d278a3364f05065c56c5ac6380c98e6c",
+        "hsh": "fecc232eacc153b1e0bbf74c0ce9b1f8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "People paddle through a glowing maze of bald cypress in Xuancheng, Anhui, where autumn transforms flooded woodlands into a tapestry of amber, copper and deep rust. Known scientifically as 'Taxodium distichum', bald cypress is unusual among conifers because it sheds its soft, feathery needles each fall, turning reddish-brown before they drop.",
+                "Image": {
+                    "Url": "/th?id=OHR.AutumnChina_ROW6919148725_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AutumnChina_ROW6919148725_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "People rowing among colourful bald cypress, Xuancheng, Anhui, China",
+                "Copyright": "© Jackal Pan/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261104_AutumnChina\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=bald+cypress&form=hpcapt&filters=HpDate:\"20261104_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261104_AutumnChina"
+            },
+            "Ssd": "20261104",
+            "Name": "AutumnChina",
+            "Market": "ROW",
+            "Hash": "6919148725",
+            "FullDateString": "4 нояб. 2026 г."
+        }
+    },
+    {
         "startdate": "20261103",
         "fullstartdate": "202611030800",
         "enddate": "20261104",
