@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261105",
+        "fullstartdate": "202611052300",
+        "enddate": "20261106",
+        "url": "/th?id=OHR.PipiwaiTrail_DE-DE9691097479_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PipiwaiTrail_DE-DE9691097479",
+        "copyright": "Bambuswald, Pīpīwai Trail, Haleakalā-Nationalpark, Maui, Hawaii, USA (© MNStudio/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Haleakala-Nationalpark+Hawaii&form=hpcapt&filters=HpDate%3a%2220261105_2300%22",
+        "title": "Ein grüner Tunnel durch Maui",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261105_PipiwaiTrail%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "a93fce1c54dbea1e7c97ad06b0797ead",
+        "hsh": "810b899ff51c2cd8b235520b75a69105",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ein Vulkan, ein Regenwald und ein Bambushain? Der Haleakalā-Nationalpark auf Maui bietet all das. Der Park erstreckt sich über die gesamte Insel Maui, vom 3.055 Meter hohen Gipfel bis zur Küste, und schützt Landschaften, die sich je nach Höhe, Niederschlagsmenge und Temperatur dramatisch verändern. Er wurde 1916 als Teil des Hawaii-Nationalparks gegründet und 1961 zu einem eigenständigen Nationalpark erklärt. Der Name Haleakalā bedeutet übersetzt „Haus der Sonne“ und spiegelt die hawaiianische Legende (mo’olelo) wider, wonach Māui die Sonne einfing, um den Tag zu verlängern.",
+                "Image": {
+                    "Url": "/th?id=OHR.PipiwaiTrail_DE-DE9691097479_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.PipiwaiTrail_DE-DE9691097479_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ein grüner Tunnel durch Maui",
+                "Title": "Bambuswald, Pīpīwai Trail, Haleakalā-Nationalpark, Maui, Hawaii, USA",
+                "Copyright": "© MNStudio/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/20.760987,-156.155095/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=20.760987,-156.155095;S9;Haleakalā-Nationalpark, Maui, Hawaii&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261106_PipiwaiTrail\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Haleakala-Nationalpark+Hawaii&form=hpcapt&filters=HpDate:\"20261105_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261106_PipiwaiTrail"
+            },
+            "Ssd": "20261106",
+            "Name": "PipiwaiTrail",
+            "Market": "DE-DE",
+            "Hash": "9691097479",
+            "FullDateString": "6. Nov.. 2026"
+        }
+    },
+    {
         "startdate": "20261104",
         "fullstartdate": "202611042300",
         "enddate": "20261105",
