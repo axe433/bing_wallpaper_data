@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261106",
+        "fullstartdate": "202611062300",
+        "enddate": "20261107",
+        "url": "/th?id=OHR.DakotaBison_DE-DE0154878283_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DakotaBison_DE-DE0154878283",
+        "copyright": "Ein Bison in der Grassteppe des Theodore-Roosevelt-Nationalparks, Nord-Dakota, USA (© Tandem Stock/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Bisons&form=hpcapt&filters=HpDate%3a%2220261106_2300%22",
+        "title": "Der zurückgekehrte Riese",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261106_DakotaBison%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "59522cd5113b98ead4186172722d69d1",
+        "hsh": "636d5cb1bbeef8034ddfafd2a20b8e72",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Obwohl er oft als Büffel bezeichnet wird, gehört der amerikanische Bison nicht zu den echten Büffeln, die in Afrika und Asien beheimatet sind. Sein wissenschaftlicher Name „Bison bison”, lässt wenig Raum für Verwechslungen. Dieses nordamerikanische Säugetier kann bis zu 900 Kilo wiegen und dennoch mit einer Geschwindigkeit von fast 60 km/h sprinten. Sein muskulöser Schulterhöcker hilft ihm den Kopf hin und her zu schwingen, um Schnee beiseite zu schieben und so an das darunter liegende Gras zu gelangen. Sowohl Männchen als auch Weibchen haben Hörner und einen Bart. Schwanzbewegungen geben Aufschluss über ihre Stimmung: Schwanzwedeln signalisiert in der Regel Gelassenheit, während ein gehobener Schwanz auf Unruhe hindeuten kann.",
+                "Image": {
+                    "Url": "/th?id=OHR.DakotaBison_DE-DE0154878283_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DakotaBison_DE-DE0154878283_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Der zurückgekehrte Riese",
+                "Title": "Ein Bison in der Grassteppe des Theodore-Roosevelt-Nationalparks, Nord-Dakota, USA",
+                "Copyright": "© Tandem Stock/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.275714,-103.463282/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=47.275714,-103.463282;S9;Theodore-Roosevelt-Nationalpark, Nord-Dakota&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261107_DakotaBison\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Bisons&form=hpcapt&filters=HpDate:\"20261106_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261107_DakotaBison"
+            },
+            "Ssd": "20261107",
+            "Name": "DakotaBison",
+            "Market": "DE-DE",
+            "Hash": "0154878283",
+            "FullDateString": "7. Nov.. 2026"
+        }
+    },
+    {
         "startdate": "20261105",
         "fullstartdate": "202611052300",
         "enddate": "20261106",

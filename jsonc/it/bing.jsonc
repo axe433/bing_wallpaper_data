@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261106",
+        "fullstartdate": "202611062300",
+        "enddate": "20261107",
+        "url": "/th?id=OHR.DakotaBison_IT-IT5607960276_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DakotaBison_IT-IT5607960276",
+        "copyright": "Un bisonte nelle praterie del Parco Nazionale Theodore Roosevelt, North Dakota, USA (© Tandem Stock/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Bisonte&form=hpcapt",
+        "title": "Il ritorno del gigante",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261106_DakotaBison%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "59522cd5113b98ead4186172722d69d1",
+        "hsh": "41358e2c47e1c2e90faf32455690b028",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Imponente ma sorprendentemente agile, il bisonte americano può pesare fino a 900 kg e correre a circa 56 km/h. Spesso chiamato erroneamente “bufalo”, specie originaria di Africa e Asia, è dotato di una possente gobba che lo aiuta a spostare la neve con la testa per raggiungere l’erba sottostante. Curiosità: sia i maschi che le femmine hanno corna e barba. Ma attenzione alla coda: se si muove, generalmente segnala calma; se sollevata, può indicare agitazione! Un tempo vicino all’estinzione, il bisonte ha compiuto uno straordinario ritorno grazie agli enormi sforzi per la sua conservazione. Yellowstone resta l’unico luogo negli Stati Uniti dove continua a vivere ininterrottamente fin dalla preistoria.",
+                "Image": {
+                    "Url": "/th?id=OHR.DakotaBison_IT-IT5607960276_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DakotaBison_IT-IT5607960276_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Il ritorno del gigante",
+                "Title": "Un bisonte nelle praterie del Parco Nazionale Theodore Roosevelt, North Dakota, USA",
+                "Copyright": "© Tandem Stock/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.275714,-103.463282/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=47.275714,-103.463282;S9;Parco Nazionale Theodore Roosevelt, North Dakota&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261107_DakotaBison\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Bisonte&form=hpcapt&filters=HpDate:\"20261106_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261107_DakotaBison"
+            },
+            "Ssd": "20261107",
+            "Name": "DakotaBison",
+            "Market": "IT-IT",
+            "Hash": "5607960276",
+            "FullDateString": "7 novembre 2026"
+        }
+    },
+    {
         "startdate": "20261105",
         "fullstartdate": "202611052300",
         "enddate": "20261106",

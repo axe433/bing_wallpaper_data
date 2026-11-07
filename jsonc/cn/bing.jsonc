@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261106",
+        "fullstartdate": "202611061600",
+        "enddate": "20261107",
+        "url": "/th?id=OHR.DakotaBison_ZH-CN2302503868_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DakotaBison_ZH-CN2302503868",
+        "copyright": "草原上的一头野牛，西奥多·罗斯福国家公园，北达科他州，美国 (© Tandem Stock/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E7%BE%8E%E6%B4%B2%E9%87%8E%E7%89%9B&form=hpcapt&mkt=zh-cn",
+        "title": "归来的草原巨兽",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261106_DakotaBison%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "59522cd5113b98ead4186172722d69d1",
+        "hsh": "8bd1a0a85b934a78ee8c90d2a6692a2b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "再艰难的环境，也挡不住野牛吃草的脚步。美国全国野牛日赞颂这种北美哺乳动物：它体重可达2000磅(约907千克)，奔跑时速却能达到35英里(约56千米)。这个节日定在每年11月的第一个星期六，旨在向2016年成为美国国家哺乳动物的野牛致敬。",
+                "Image": {
+                    "Url": "/th?id=OHR.DakotaBison_ZH-CN2302503868_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DakotaBison_ZH-CN2302503868_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "归来的草原巨兽",
+                "Title": "草原上的一头野牛，西奥多·罗斯福国家公园，北达科他州，美国",
+                "Copyright": "© Tandem Stock/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "野牛在泥土中打滚形成的浅坑可能积水，为草原植物和动物提供栖息地。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261107_DakotaBison\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e7%be%8e%e6%b4%b2%e9%87%8e%e7%89%9b&form=hpcapt&filters=HpDate:\"20261106_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261107_DakotaBison"
+            },
+            "Ssd": "20261107",
+            "Name": "DakotaBison",
+            "Market": "ZH-CN",
+            "Hash": "2302503868",
+            "FullDateString": "2026 11月 7"
+        }
+    },
+    {
         "startdate": "20261105",
         "fullstartdate": "202611051600",
         "enddate": "20261106",
