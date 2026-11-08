@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261107",
+        "fullstartdate": "202611070500",
+        "enddate": "20261108",
+        "url": "/th?id=OHR.DakotaBison_EN-CA6055061732_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DakotaBison_EN-CA6055061732",
+        "copyright": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA (© Tandem Stock/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Bison&form=hpcapt&filters=HpDate%3a%2220261107_0500%22",
+        "title": "The giant that came back",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261107_DakotaBison%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "59522cd5113b98ead4186172722d69d1",
+        "hsh": "06c00699e357cde481950b98c1145147",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "One of North America's most remarkable animals, the bison is a powerful symbol of strength, resilience and conservation. Weighing as much as 900 kilograms (2,000 pounds) and capable of running up to 55 km/h (35 mph), bison are surprisingly agile. Despite being commonly called buffalo, American bison are a distinct species known for their massive shoulder hump, curved horns and shaggy coats that help them thrive through harsh winters. Once pushed to the brink of extinction, bison have made an inspiring comeback thanks to conservation efforts across Canada and the United States, making them a powerful example of successful wildlife recovery.",
+                "Image": {
+                    "Url": "/th?id=OHR.DakotaBison_EN-CA6055061732_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DakotaBison_EN-CA6055061732_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "The giant that came back",
+                "Title": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA",
+                "Copyright": "© Tandem Stock/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.275714,-103.463282/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=47.275714,-103.463282;S9;Theodore Roosevelt National Park, North Dakota&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261107_DakotaBison\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Bison&form=hpcapt&filters=HpDate:\"20261107_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261107_DakotaBison"
+            },
+            "Ssd": "20261107",
+            "Name": "DakotaBison",
+            "Market": "EN-CA",
+            "Hash": "6055061732",
+            "FullDateString": "Nov 7, 2026"
+        }
+    },
+    {
         "startdate": "20261106",
         "fullstartdate": "202611060500",
         "enddate": "20261107",

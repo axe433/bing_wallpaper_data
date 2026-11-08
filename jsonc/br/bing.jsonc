@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261107",
+        "fullstartdate": "202611070300",
+        "enddate": "20261108",
+        "url": "/th?id=OHR.DakotaBison_PT-BR6015279362_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DakotaBison_PT-BR6015279362",
+        "copyright": "Um bisão nas pastagens do Parque Nacional Theodore Roosevelt, Dakota do Norte, EUA. (© Tandem Stock/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Bis%C3%A3o+americano&form=hpcapt&mkt=pt-br",
+        "title": "O grandão está de volta",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261107_DakotaBison%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "59522cd5113b98ead4186172722d69d1",
+        "hsh": "90427e7ba74fe2b5be8bff3f6abf882e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Um bisão no Parque Nacional Theodore Roosevelt, EUA. Os bisões estão entre os maiores mamíferos terrestres do mundo; podem pesar até 900 quilos e atingir velocidades de 65 quilômetros por hora, apesar do grande porte.",
+                "Image": {
+                    "Url": "/th?id=OHR.DakotaBison_PT-BR6015279362_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DakotaBison_PT-BR6015279362_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O grandão está de volta",
+                "Title": "Um bisão nas pastagens do Parque Nacional Theodore Roosevelt, Dakota do Norte, EUA.",
+                "Copyright": "© Tandem Stock/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.275714,-103.463282/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=pt-BR&od=2&shading=flat&pp=47.275714,-103.463282;S9;Parque Theodore Roosevelt&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261107_DakotaBison\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Bis%c3%a3o+americano&form=hpcapt&filters=HpDate:\"20261107_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261107_DakotaBison"
+            },
+            "Ssd": "20261107",
+            "Name": "DakotaBison",
+            "Market": "PT-BR",
+            "Hash": "6015279362",
+            "FullDateString": "7 nov. 2026"
+        }
+    },
+    {
         "startdate": "20261106",
         "fullstartdate": "202611060300",
         "enddate": "20261107",

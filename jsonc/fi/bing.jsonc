@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261107",
+        "fullstartdate": "202611070800",
+        "enddate": "20261108",
+        "url": "/th?id=OHR.DakotaBison_ROW7172064410_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DakotaBison_ROW7172064410",
+        "copyright": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA (© Tandem Stock/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=American+bison&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261107_DakotaBison%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "59522cd5113b98ead4186172722d69d1",
+        "hsh": "a682ceeee36e88e0c90fd64c985f393c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Bison are among the largest land mammals in the world, capable of weighing up to 900 kilograms and reaching speeds of 65 kilometres per hour despite their massive size. Despite often being called a buffalo, the American bison is not one of the true buffaloes, which are native to Africa and Asia. Its scientific name, Bison bison, leaves little room for confusion.",
+                "Image": {
+                    "Url": "/th?id=OHR.DakotaBison_ROW7172064410_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DakotaBison_ROW7172064410_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA",
+                "Copyright": "© Tandem Stock/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261107_DakotaBison\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=American+bison&form=hpcapt&filters=HpDate:\"20261107_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261107_DakotaBison"
+            },
+            "Ssd": "20261107",
+            "Name": "DakotaBison",
+            "Market": "ROW",
+            "Hash": "7172064410",
+            "FullDateString": "7. marrask. 2026"
+        }
+    },
+    {
         "startdate": "20261106",
         "fullstartdate": "202611060800",
         "enddate": "20261107",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261107",
+        "fullstartdate": "202611070800",
+        "enddate": "20261108",
+        "url": "/th?id=OHR.DakotaBison_EN-US0710175615_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DakotaBison_EN-US0710175615",
+        "copyright": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota (© Tandem Stock/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=National+Bison+Day&form=hpcapt&filters=HpDate%3a%2220261107_0800%22",
+        "title": "The giant that came back",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261107_DakotaBison%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "59522cd5113b98ead4186172722d69d1",
+        "hsh": "14f52a3cfe0e742954ce9e56d6b1dc46",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "When the going gets tough, the bison gets grazing. National Bison Day celebrates the North American mammal that can weigh up to 2,000 pounds yet sprint at 35 mph. Observed on the first Saturday of November, the day honors the bovine that became the United States' national mammal in 2016.",
+                "Image": {
+                    "Url": "/th?id=OHR.DakotaBison_EN-US0710175615_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DakotaBison_EN-US0710175615_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "The giant that came back",
+                "Title": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota",
+                "Copyright": "© Tandem Stock/Adobe Stock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.275714,-103.463282/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=47.275714,-103.463282;S9;Theodore Roosevelt National Park, North Dakota&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261107_DakotaBison\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=National+Bison+Day&form=hpcapt&filters=HpDate:\"20261107_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261107_DakotaBison"
+            },
+            "Ssd": "20261107",
+            "Name": "DakotaBison",
+            "Market": "EN-US",
+            "Hash": "0710175615",
+            "FullDateString": "Nov 7, 2026"
+        }
+    },
+    {
         "startdate": "20261106",
         "fullstartdate": "202611060800",
         "enddate": "20261107",

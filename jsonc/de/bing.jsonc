@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261107",
+        "fullstartdate": "202611072300",
+        "enddate": "20261108",
+        "url": "/th?id=OHR.DiwaliLamps_DE-DE0703233561_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DiwaliLamps_DE-DE0703233561",
+        "copyright": "Laternen für Diwali, Mumbai, Maharashtra, Indien (© Dinodia Photo/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261107_2300%22",
+        "title": "Ein strahlendes Fest",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261107_DiwaliLamps%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "0ef6179737b840b87fce3c4589d265cb",
+        "hsh": "ff8bdd1fae981d8db5c1ae69a254a878",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Was ist los, wenn die dunkelste Nacht des Jahres zum strahlendsten Fest wird? Dann ist Diwali! Das Lichterfest wird weltweit von Millionen Menschen gefeiert und steht ganz im Zeichen von Diyas, Laternen, Rangoli, Gebeten, Süßigkeiten und Familientreffen.",
+                "Image": {
+                    "Url": "/th?id=OHR.DiwaliLamps_DE-DE0703233561_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.DiwaliLamps_DE-DE0703233561_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ein strahlendes Fest",
+                "Title": "Laternen für Diwali, Mumbai, Maharashtra, Indien",
+                "Copyright": "© Dinodia Photo/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/18.969048,72.821182/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=18.969048,72.821182;S9;Mumbai, Maharashtra, Indien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261108_DiwaliLamps\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Diwali&form=hpcapt&filters=HpDate:\"20261107_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261108_DiwaliLamps"
+            },
+            "Ssd": "20261108",
+            "Name": "DiwaliLamps",
+            "Market": "DE-DE",
+            "Hash": "0703233561",
+            "FullDateString": "8. Nov.. 2026"
+        }
+    },
+    {
         "startdate": "20261106",
         "fullstartdate": "202611062300",
         "enddate": "20261107",
