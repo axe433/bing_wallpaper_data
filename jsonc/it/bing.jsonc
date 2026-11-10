@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261109",
+        "fullstartdate": "202611092300",
+        "enddate": "20261110",
+        "url": "/th?id=OHR.RoseIsland_IT-IT6994665330_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RoseIsland_IT-IT6994665330",
+        "copyright": "Vista aerea di Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt",
+        "title": "Missione: relax",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261109_RoseIsland%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "97070cb15abd3c0fb8cd1e63678dd4b7",
+        "hsh": "4b03ad372dbd965e74eff5eae383b341",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Vista dall’alto, Rose Island sembra una pennellata di verde immersa nelle mille sfumature di blu delle Bahamas. A pochi chilometri da Paradise Island, l’isola è circondata da spiagge sabbiose, bassi fondali e acque cristalline, e racchiude al suo interno una tranquilla laguna. Nel 1965 fu scelta come location per alcune riprese del film di James Bond “Thunderball”, ma oggi è conosciuta anche per i suoi simpatici maialini nuotatori. Tra spiagge bianche, barriere coralline e acque dai colori spettacolari, Rose Island regala dall’alto un panorama paradisiaco.",
+                "Image": {
+                    "Url": "/th?id=OHR.RoseIsland_IT-IT6994665330_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RoseIsland_IT-IT6994665330_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Missione: relax",
+                "Title": "Vista aerea di Rose Island, Bahamas",
+                "Copyright": "© Abstract Aerial Art/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/25.088243,-77.225304/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=25.088243,-77.225304;S9;Rose Island, Bahamas&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261110_RoseIsland\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate:\"20261109_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261110_RoseIsland"
+            },
+            "Ssd": "20261110",
+            "Name": "RoseIsland",
+            "Market": "IT-IT",
+            "Hash": "6994665330",
+            "FullDateString": "10 novembre 2026"
+        }
+    },
+    {
         "startdate": "20261108",
         "fullstartdate": "202611082300",
         "enddate": "20261109",
