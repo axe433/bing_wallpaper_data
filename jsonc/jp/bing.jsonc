@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261110",
+        "fullstartdate": "202611101500",
+        "enddate": "20261111",
+        "url": "/th?id=OHR.Atlantica_JA-JP3902829738_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Atlantica_JA-JP3902829738",
+        "copyright": "大西洋岸森林、ブラジル (© FG Trade/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E8%A5%BF%E6%B4%8B%E5%B2%B8%E6%A3%AE%E6%9E%97+%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220261110_1500%22",
+        "title": "驚きに満ちた森",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261110_Atlantica%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "04031982a05a340b0cb0a1a48a61e827",
+        "hsh": "c5d48b3afb82e05b8f0bb7a0a962d338",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "大西洋岸森林は、世界有数の生物多様性を誇る地域の一つです。ブラジルの大西洋沿岸からアルゼンチンやパラグアイにまで広がり、熱帯・亜熱帯の森林やマングローブなど、さまざまな環境が見られます。約2万種の植物が生育し、ジャガーやゴールデンライオンタマリンをはじめ、多彩な野生動物が暮らしています。長い年月の間に森林の多くが失われましたが、現在も炭素を蓄え、地域の多くの人々に淡水をもたらすなど、大切な役割を果たしています。",
+                "Image": {
+                    "Url": "/th?id=OHR.Atlantica_JA-JP3902829738_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Atlantica_JA-JP3902829738_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "驚きに満ちた森",
+                "Title": "大西洋岸森林、ブラジル",
+                "Copyright": "© FG Trade/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "大西洋岸森林には約1億5,000万人が暮らしており、これは南米の総人口のおよそ3分の1にあたります。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261111_Atlantica\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%a4%a7%e8%a5%bf%e6%b4%8b%e5%b2%b8%e6%a3%ae%e6%9e%97+%e3%83%96%e3%83%a9%e3%82%b8%e3%83%ab&form=hpcapt&filters=HpDate:\"20261110_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261111_Atlantica"
+            },
+            "Ssd": "20261111",
+            "Name": "Atlantica",
+            "Market": "JA-JP",
+            "Hash": "3902829738",
+            "FullDateString": "2026 年 11月 月 11 日"
+        }
+    },
+    {
         "startdate": "20261109",
         "fullstartdate": "202611091500",
         "enddate": "20261110",

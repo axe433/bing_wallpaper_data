@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261110",
+        "fullstartdate": "202611102300",
+        "enddate": "20261111",
+        "url": "/th?id=OHR.ArmisticeTriomphe_FR-FR3844367700_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ArmisticeTriomphe_FR-FR3844367700",
+        "copyright": "Arc de Triomphe, Paris, France (© Beboy_ltd/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Tombe+du+Soldat+Inconnu+Arc+De+Triomphe&form=hpcapt&filters=HpDate%3a%2220261110_2300%22",
+        "title": "Une flamme rallumée chaque jour",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261110_ArmisticeTriomphe%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "96859b80be02c14825a1fa8740e0ba48",
+        "hsh": "3f169b871fd435a1c3b814f6bde5d85c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Sous l’Arc de Triomphe repose le Soldat inconnu, symbole de tous les combattants morts pour la France durant la Première guerre mondiale. Sa tombe, sur laquelle brûle la flamme du souvenir, ravivée chaque soir, invite au recueillement et perpétue la mémoire de ceux qui ont donné leur vie pour leur pays. Le jour de l'Armistice, une gerbe y est déposée.",
+                "Image": {
+                    "Url": "/th?id=OHR.ArmisticeTriomphe_FR-FR3844367700_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ArmisticeTriomphe_FR-FR3844367700_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Une flamme rallumée chaque jour",
+                "Title": "Arc de Triomphe, Paris, France",
+                "Copyright": "© Beboy_ltd/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.874455,2.295115/10?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=48.874455,2.295115;S9;Arc de Triomphe&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261111_ArmisticeTriomphe\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Tombe+du+Soldat+Inconnu+Arc+De+Triomphe&form=hpcapt&filters=HpDate:\"20261110_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261111_ArmisticeTriomphe"
+            },
+            "Ssd": "20261111",
+            "Name": "ArmisticeTriomphe",
+            "Market": "FR-FR",
+            "Hash": "3844367700",
+            "FullDateString": "11 nov. 2026"
+        }
+    },
+    {
         "startdate": "20261109",
         "fullstartdate": "202611092300",
         "enddate": "20261110",

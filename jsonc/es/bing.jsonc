@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261110",
+        "fullstartdate": "202611102300",
+        "enddate": "20261111",
+        "url": "/th?id=OHR.Atlantica_ES-ES2909750092_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Atlantica_ES-ES2909750092",
+        "copyright": "Selva Atlántica, Brasil (© FG Trade/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Selva+Atl%C3%A1ntica+Brasil&form=hpcapt&filters=HpDate%3a%2220261110_2300%22",
+        "title": "Una jungla llena de maravillas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261110_Atlantica%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "04031982a05a340b0cb0a1a48a61e827",
+        "hsh": "f2b0b1383fa83edc0ccae163671b2b7b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La Selva Atlántica es uno de los grandes puntos críticos de biodiversidad del mundo. Se extiende a lo largo de buena parte de la costa atlántica de Brasil y llega hasta Argentina y Paraguay. Su paisaje comprende bosques tropicales y subtropicales, manglares y hábitats costeros, y alberga alrededor de 20.000 especies de plantas y una extraordinaria variedad de fauna, incluidos jaguares y tamarinos león dorados. Gran parte la selva ha desaparecido a lo largo de los siglos, pero aún desempeña un papel importante al almacenar carbono y abastecer de agua dulce a millones de personas en toda la región.",
+                "Image": {
+                    "Url": "/th?id=OHR.Atlantica_ES-ES2909750092_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Atlantica_ES-ES2909750092_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Una jungla llena de maravillas",
+                "Title": "Selva Atlántica, Brasil",
+                "Copyright": "© FG Trade/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "La Selva Atlántica alberga a unos 150 millones de personas, aproximadamente un tercio de la población total de Sudamérica.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261111_Atlantica\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Selva+Atl%c3%a1ntica+Brasil&form=hpcapt&filters=HpDate:\"20261110_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261111_Atlantica"
+            },
+            "Ssd": "20261111",
+            "Name": "Atlantica",
+            "Market": "ES-ES",
+            "Hash": "2909750092",
+            "FullDateString": "11 de nov de 2026"
+        }
+    },
+    {
         "startdate": "20261109",
         "fullstartdate": "202611092300",
         "enddate": "20261110",
