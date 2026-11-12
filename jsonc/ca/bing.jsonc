@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261111",
+        "fullstartdate": "202611110500",
+        "enddate": "20261112",
+        "url": "/th?id=OHR.Atlantica_EN-CA7496830701_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Atlantica_EN-CA7496830701",
+        "copyright": "The Atlantic Forest, Brazil (© FG Trade/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Atlantic+Forest+Brazil&form=hpcapt&filters=HpDate%3a%2220261111_0500%22",
+        "title": "A forest full of wonder",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261111_Atlantica%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "04031982a05a340b0cb0a1a48a61e827",
+        "hsh": "ca439f4592e2a08b87459d6936018226",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "The Atlantic Forest is one of the world's great biodiversity hotspots, stretching along much of Brazil's Atlantic coast and into Argentina and Paraguay. Its landscape includes tropical and subtropical forests, mangroves and coastal habitats, providing a home for around 20,000 plant species and an extraordinary variety of wildlife, including jaguars and golden lion tamarins. Much of the forest has disappeared over the centuries, but it continues to play an important role in storing carbon and providing fresh water for millions of people across the region.",
+                "Image": {
+                    "Url": "/th?id=OHR.Atlantica_EN-CA7496830701_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Atlantica_EN-CA7496830701_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A forest full of wonder",
+                "Title": "The Atlantic Forest, Brazil",
+                "Copyright": "© FG Trade/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "The Atlantic Forest is home to around 150 million people, which is roughly a third of South America's total population.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261111_Atlantica\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Atlantic+Forest+Brazil&form=hpcapt&filters=HpDate:\"20261111_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261111_Atlantica"
+            },
+            "Ssd": "20261111",
+            "Name": "Atlantica",
+            "Market": "EN-CA",
+            "Hash": "7496830701",
+            "FullDateString": "Nov 11, 2026"
+        }
+    },
+    {
         "startdate": "20261110",
         "fullstartdate": "202611100500",
         "enddate": "20261111",

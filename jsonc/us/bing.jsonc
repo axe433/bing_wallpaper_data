@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261111",
+        "fullstartdate": "202611110800",
+        "enddate": "20261112",
+        "url": "/th?id=OHR.SunsetFlags_EN-US1046151448_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SunsetFlags_EN-US1046151448",
+        "copyright": "American flags in a public park in upstate New York (© Matt Champlin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Veterans+Day&form=hpcapt&filters=HpDate%3a%2220261111_0800%22",
+        "title": "A salute in red, white, and blue",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261111_SunsetFlags%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "5be761a94ec4eda50ef0cbdce3a955e2",
+        "hsh": "44fd904fb552c2c90c9c58be8ad7154c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "As the sun filters through autumn trees in an upstate New York park, rows of flags turn the landscape into a tribute. Veterans Day, observed every November 11, honors all who have served in the US Armed Forces.",
+                "Image": {
+                    "Url": "/th?id=OHR.SunsetFlags_EN-US1046151448_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SunsetFlags_EN-US1046151448_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A salute in red, white, and blue",
+                "Title": "American flags in a public park in upstate New York",
+                "Copyright": "© Matt Champlin/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Veterans Day was originally known as Armistice Day. In 1954, the holiday was renamed to honor American veterans of all wars.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261111_SunsetFlags\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Veterans+Day&form=hpcapt&filters=HpDate:\"20261111_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261111_SunsetFlags"
+            },
+            "Ssd": "20261111",
+            "Name": "SunsetFlags",
+            "Market": "EN-US",
+            "Hash": "1046151448",
+            "FullDateString": "Nov 11, 2026"
+        }
+    },
+    {
         "startdate": "20261110",
         "fullstartdate": "202611100800",
         "enddate": "20261111",

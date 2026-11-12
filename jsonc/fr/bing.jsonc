@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261111",
+        "fullstartdate": "202611112300",
+        "enddate": "20261112",
+        "url": "/th?id=OHR.NorthWindow_FR-FR9118968859_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NorthWindow_FR-FR9118968859",
+        "copyright": "North Window, parc national des Arches, Moab, Utah, États-Unis (© lightphoto/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parc+national+des+Arches&form=hpcapt&filters=HpDate%3a%2220261111_2300%22",
+        "title": "Architecture sans architecte",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261111_NorthWindow%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "81e07c561fc9506556ef8e225fe3e198",
+        "hsh": "2f0311814dbbf3da1b5869c7ce668e34",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Situé juste au nord de Moab, dans l'Utah, le parc national des Arches abrite plus de 2 000 arches naturelles en grès. « North Window » (la Fenêtre Nord) est l'une des formations les plus célèbres. Les imposantes lames rocheuses, les larges ouvertures et les sculptures de grès composent un paysage aux allures quasi architecturales.",
+                "Image": {
+                    "Url": "/th?id=OHR.NorthWindow_FR-FR9118968859_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NorthWindow_FR-FR9118968859_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Architecture sans architecte",
+                "Title": "North Window, parc national des Arches, Moab, Utah, États-Unis",
+                "Copyright": "© lightphoto/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.6857117,-109.5328291/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=38.6857117,-109.5328291;S9;Parc national des Arches, Moab, Utah&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261112_NorthWindow\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parc+national+des+Arches&form=hpcapt&filters=HpDate:\"20261111_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261112_NorthWindow"
+            },
+            "Ssd": "20261112",
+            "Name": "NorthWindow",
+            "Market": "FR-FR",
+            "Hash": "9118968859",
+            "FullDateString": "12 nov. 2026"
+        }
+    },
+    {
         "startdate": "20261110",
         "fullstartdate": "202611102300",
         "enddate": "20261111",

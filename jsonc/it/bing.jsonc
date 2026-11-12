@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261111",
+        "fullstartdate": "202611112300",
+        "enddate": "20261112",
+        "url": "/th?id=OHR.NorthWindow_IT-IT7586548726_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NorthWindow_IT-IT7586548726",
+        "copyright": "North Window, Parco Nazionale degli Arches, Moab, Utah, USA (© lightphoto/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parco+Nazionale+degli+Arches&form=hpcapt",
+        "title": "Architettura senza architetto",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261111_NorthWindow%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "81e07c561fc9506556ef8e225fe3e198",
+        "hsh": "a45fc874e4fddf5e9cdf068943f47cab",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Il Parco Nazionale degli Arches, istituito il 12 novembre 1971, custodisce nel cuore dello Utah oltre 2.000 archi naturali di arenaria, la più alta concentrazione al mondo. Tra le formazioni più celebri spicca North Window, protagonista dell’immagine di oggi: un’imponente apertura nella roccia affacciata su scogliere e cieli sconfinati. Ma dietro questa spettacolare architettura non c’è la mano dell’uomo. Acqua, ghiaccio, sbalzi di temperatura e gravità hanno lentamente eroso la roccia più tenera, lasciando intatti gli strati più resistenti. Un capolavoro plasmato dal tempo, con la natura nel ruolo di architetto.",
+                "Image": {
+                    "Url": "/th?id=OHR.NorthWindow_IT-IT7586548726_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NorthWindow_IT-IT7586548726_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Architettura senza architetto",
+                "Title": "North Window, Parco Nazionale degli Arches, Moab, Utah, USA",
+                "Copyright": "© lightphoto/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.6857117,-109.5328291/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=38.6857117,-109.5328291;S9;North Window, Parco Nazionale degli Arches, Moab, Utah&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261112_NorthWindow\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parco+Nazionale+degli+Arches&form=hpcapt&filters=HpDate:\"20261111_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261112_NorthWindow"
+            },
+            "Ssd": "20261112",
+            "Name": "NorthWindow",
+            "Market": "IT-IT",
+            "Hash": "7586548726",
+            "FullDateString": "12 novembre 2026"
+        }
+    },
+    {
         "startdate": "20261110",
         "fullstartdate": "202611102300",
         "enddate": "20261111",
