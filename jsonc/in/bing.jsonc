@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261112",
+        "fullstartdate": "202611121830",
+        "enddate": "20261113",
+        "url": "/th?id=OHR.ChhathPuja2026_EN-IN1437573581_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ChhathPuja2026_EN-IN1437573581",
+        "copyright": "Sunset over the Damodar River during Chhath Puja (© ParthapratimMukherjee2056/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Chhath+Puja&form=hpcapt&filters=HpDate%3a%2220261112_1830%22",
+        "title": "Glow of Chhath Puja",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261112_ChhathPuja2026%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f0d35a8d3cd394a6f19e4ea17f3545de",
+        "hsh": "170818bc8837c5b2b15d6dd347d418fe",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "As the Sun dips towards the horizon, the Damodar River becomes a gathering place for Chhath Puja. The four-day Hindu festival is dedicated to Surya, the Sun God, and Chhathi Maiya. Mainly observed in Bihar, Jharkhand and Uttar Pradesh, as well as parts of Nepal, it is a celebration of gratitude for the Sun and its life-sustaining energy. Devotees observe fasting and gather beside rivers and other bodies of water to pray. One of the festival's most distinctive traditions is offering prayers to both the setting and rising sun, creating striking scenes as families and communities gather at the water's edge at dusk and dawn.",
+                "Image": {
+                    "Url": "/th?id=OHR.ChhathPuja2026_EN-IN1437573581_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.ChhathPuja2026_EN-IN1437573581_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Glow of Chhath Puja",
+                "Title": "Sunset over the Damodar River during Chhath Puja",
+                "Copyright": "© ParthapratimMukherjee2056/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/23.480162,87.290903/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=23.480162,87.290903;S9;Damodar River&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261113_ChhathPuja2026\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Chhath+Puja&form=hpcapt&filters=HpDate:\"20261112_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261113_ChhathPuja2026"
+            },
+            "Ssd": "20261113",
+            "Name": "ChhathPuja2026",
+            "Market": "EN-IN",
+            "Hash": "1437573581",
+            "FullDateString": "13 Nov, 2026"
+        }
+    },
+    {
         "startdate": "20261111",
         "fullstartdate": "202611111830",
         "enddate": "20261112",

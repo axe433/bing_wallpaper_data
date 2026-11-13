@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261113",
+        "fullstartdate": "202611130000",
+        "enddate": "20261114",
+        "url": "/th?id=OHR.AbrahamCanada_EN-GB1908527515_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AbrahamCanada_EN-GB1908527515",
+        "copyright": "Abraham Lake in Alberta, Canada (© Guang Cao/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Abraham+Lake+Alberta&form=hpcapt&filters=HpDate%3a%2220261113_0000%22",
+        "title": "Hidden depths",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261113_AbrahamCanada%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b83aacc2597bebd705c30bcad09e434b",
+        "hsh": "6b44e80fb5b3057b9733d0d2b540fb93",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dawn's first light reflects off the frozen surface of Abraham Lake, framed by the peaks of the Rocky Mountains. In winter, this picturesque lake in Alberta is famous for its frozen methane bubbles, trapped beneath the ice. Strong winds keep the ice largely clear of snow, revealing the bubbles below throughout the winter. As spring arrives and the ice thaws, the trapped gas can escape into the atmosphere.",
+                "Image": {
+                    "Url": "/th?id=OHR.AbrahamCanada_EN-GB1908527515_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AbrahamCanada_EN-GB1908527515_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Hidden depths",
+                "Title": "Abraham Lake in Alberta, Canada",
+                "Copyright": "© Guang Cao/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.1392,-116.4355/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=52.1392,-116.4355;S9;Abraham Lake, Alberta&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261113_AbrahamCanada\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Abraham+Lake+Alberta&form=hpcapt&filters=HpDate:\"20261113_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261113_AbrahamCanada"
+            },
+            "Ssd": "20261113",
+            "Name": "AbrahamCanada",
+            "Market": "EN-GB",
+            "Hash": "1908527515",
+            "FullDateString": "13 Nov 2026"
+        }
+    },
+    {
         "startdate": "20261112",
         "fullstartdate": "202611120000",
         "enddate": "20261113",

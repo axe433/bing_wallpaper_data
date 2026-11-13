@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261112",
+        "fullstartdate": "202611122300",
+        "enddate": "20261113",
+        "url": "/th?id=OHR.AbrahamCanada_FR-FR1972061533_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AbrahamCanada_FR-FR1972061533",
+        "copyright": "Lac Abraham, Alberta, Canada (© Guang Cao/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lac+Abraham+Alberta&form=hpcapt&filters=HpDate%3a%2220261112_2300%22",
+        "title": "Des profondeurs mystérieuses",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261112_AbrahamCanada%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b83aacc2597bebd705c30bcad09e434b",
+        "hsh": "2508c7db40df956a02b142f0965b2930",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Les premières lueurs de l'aube se reflètent sur la surface gelée du lac Abraham, encadré par les sommets des montagnes Rocheuses. En hiver, ce lac pittoresque de l'Alberta au Canada est célèbre pour ses bulles de méthane gelées, piégées sous la glace. Les vents violents empêchent la neige de s'accumuler à la surface, offrant ainsi une image étonnante tout au long de l'hiver. Au printemps, lorsque la glace fond, le gaz s'échappe dans l'atmosphère.",
+                "Image": {
+                    "Url": "/th?id=OHR.AbrahamCanada_FR-FR1972061533_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AbrahamCanada_FR-FR1972061533_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Des profondeurs mystérieuses",
+                "Title": "Lac Abraham, Alberta, Canada",
+                "Copyright": "© Guang Cao/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.1392,-116.4355/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=52.1392,-116.4355;S9;Lac Abraham&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261113_AbrahamCanada\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lac+Abraham+Alberta&form=hpcapt&filters=HpDate:\"20261112_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261113_AbrahamCanada"
+            },
+            "Ssd": "20261113",
+            "Name": "AbrahamCanada",
+            "Market": "FR-FR",
+            "Hash": "1972061533",
+            "FullDateString": "13 nov. 2026"
+        }
+    },
+    {
         "startdate": "20261111",
         "fullstartdate": "202611112300",
         "enddate": "20261112",

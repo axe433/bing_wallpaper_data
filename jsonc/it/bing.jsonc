@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261112",
+        "fullstartdate": "202611122300",
+        "enddate": "20261113",
+        "url": "/th?id=OHR.AbrahamCanada_IT-IT8830047843_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AbrahamCanada_IT-IT8830047843",
+        "copyright": "Lago Abraham, Alberta, Canada (© Guang Cao/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lago+Abraham+Alberta&form=hpcapt",
+        "title": "Misteri sommersi",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261112_AbrahamCanada%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b83aacc2597bebd705c30bcad09e434b",
+        "hsh": "8bb8c813f00cba610e02923bc9d8c861",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Alle prime luci dell’alba, la superficie ghiacciata del lago Abraham si accende di riflessi, con le maestose vette delle Montagne Rocciose a farne da contorno. Durante l'inverno, è possibile ammirare un incredibile spettacolo: bolle ghiacciate di metano restano intrappolate sotto la superficie del lago, resa visibile dai forti venti che spazzano via la neve. Con il disgelo primaverile, il gas tornerà a liberarsi nell’atmosfera. Nonostante il suo fascino selvaggio, si tratta in realtà di un bacino artificiale, nato nel 1972 con la costruzione della diga di Bighorn sul fiume North Saskatchewan. Ghiacciato d’inverno e turchese d’estate, il lago Abraham offre scenari da fotografare in ogni stagione.",
+                "Image": {
+                    "Url": "/th?id=OHR.AbrahamCanada_IT-IT8830047843_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AbrahamCanada_IT-IT8830047843_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Misteri sommersi",
+                "Title": "Lago Abraham, Alberta, Canada",
+                "Copyright": "© Guang Cao/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.1392,-116.4355/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=52.1392,-116.4355;S9;Lago Abraham, Alberta&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261113_AbrahamCanada\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lago+Abraham+Alberta&form=hpcapt&filters=HpDate:\"20261112_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261113_AbrahamCanada"
+            },
+            "Ssd": "20261113",
+            "Name": "AbrahamCanada",
+            "Market": "IT-IT",
+            "Hash": "8830047843",
+            "FullDateString": "13 novembre 2026"
+        }
+    },
+    {
         "startdate": "20261111",
         "fullstartdate": "202611112300",
         "enddate": "20261112",

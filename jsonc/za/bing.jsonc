@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261112",
+        "fullstartdate": "202611120800",
+        "enddate": "20261113",
+        "url": "/th?id=OHR.NorthWindow_ROW5709754561_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NorthWindow_ROW5709754561",
+        "copyright": "North Window, Arches National Park, Moab, Utah, USA (© lightphoto/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Arches+National+Park&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261112_NorthWindow%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "81e07c561fc9506556ef8e225fe3e198",
+        "hsh": "5eb8c3f28b1b267d942482662b21676b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Just north of Moab, Utah, the high-desert park is home to more than 2,000 natural sandstone arches—the densest concentration of arches in the world. Today's image, North Window, is one of the best-known formations in the park's Windows Section, where towering fins, openings and sculpted sandstone create a landscape that looks almost architectural.",
+                "Image": {
+                    "Url": "/th?id=OHR.NorthWindow_ROW5709754561_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NorthWindow_ROW5709754561_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "North Window, Arches National Park, Moab, Utah, USA",
+                "Copyright": "© lightphoto/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261112_NorthWindow\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Arches+National+Park&form=hpcapt&filters=HpDate:\"20261112_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261112_NorthWindow"
+            },
+            "Ssd": "20261112",
+            "Name": "NorthWindow",
+            "Market": "ROW",
+            "Hash": "5709754561",
+            "FullDateString": "Nov 12, jjjj"
+        }
+    },
+    {
         "startdate": "20261111",
         "fullstartdate": "202611110800",
         "enddate": "20261112",

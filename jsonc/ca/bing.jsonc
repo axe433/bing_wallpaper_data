@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261112",
+        "fullstartdate": "202611120500",
+        "enddate": "20261113",
+        "url": "/th?id=OHR.NorthWindow_EN-CA6553146914_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NorthWindow_EN-CA6553146914",
+        "copyright": "North Window, Arches National Park, Moab, Utah, USA (© lightphoto/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Arches+National+Park&form=hpcapt&filters=HpDate%3a%2220261112_0500%22",
+        "title": "Architecture without an architect",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261112_NorthWindow%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "81e07c561fc9506556ef8e225fe3e198",
+        "hsh": "71ca35e64a82b3511c65b53d036b5c3b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Just north of Moab, Utah, Arches National Park is home to more than 2,000 natural sandstone arches – the densest concentration of arches in the world. Today's image, North Window, is one of the best-known formations in the park's Windows Section, where towering fins, openings and sculpted sandstone create a landscape that looks almost architectural.",
+                "Image": {
+                    "Url": "/th?id=OHR.NorthWindow_EN-CA6553146914_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.NorthWindow_EN-CA6553146914_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Architecture without an architect",
+                "Title": "North Window, Arches National Park, Moab, Utah, USA",
+                "Copyright": "© lightphoto/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.6857117,-109.5328291/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=38.6857117,-109.5328291;S9;North Window, Arches National Park, Moab, Utah&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261112_NorthWindow\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Arches+National+Park&form=hpcapt&filters=HpDate:\"20261112_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261112_NorthWindow"
+            },
+            "Ssd": "20261112",
+            "Name": "NorthWindow",
+            "Market": "EN-CA",
+            "Hash": "6553146914",
+            "FullDateString": "Nov 12, 2026"
+        }
+    },
+    {
         "startdate": "20261111",
         "fullstartdate": "202611110500",
         "enddate": "20261112",
