@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261114",
+        "fullstartdate": "202611140300",
+        "enddate": "20261115",
+        "url": "/th?id=OHR.BlueHK_PT-BR4557088394_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BlueHK_PT-BR4557088394",
+        "copyright": "Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Victoria+Harbour+em+Hong+Kong+na+China&form=hpcapt&mkt=pt-br",
+        "title": "O céu é o limite",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261114_BlueHK%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "61f65c1aaff0fc2834ede955e84616da",
+        "hsh": "aa0ae51deb84430929e7f78d6ad9173f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Bem-vindo a Hong Kong, que abriga a maior concentração de arranha-céus do mundo. Os edifícios vistos aqui se erguem sobre Victoria Harbour, cujas águas profundas permitiram que a ilha se desenvolvesse como um movimentado porto comercial. Desde a década de 1840, navios transportando chá, seda e outras mercadorias passam pela região, mas o crescimento disparou nas décadas após a Segunda Guerra Mundial, impulsionando um boom na construção civil. Com pouco terreno plano disponível entre o porto e as colinas, os incorporadores tiveram de construir verticalmente, criando esse horizonte urbano inconfundível. Em 2026, Hong Kong tem 569 edifícios com mais de 150 metros de altura, mais do que qualquer outra cidade.",
+                "Image": {
+                    "Url": "/th?id=OHR.BlueHK_PT-BR4557088394_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BlueHK_PT-BR4557088394_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "O céu é o limite",
+                "Title": "Victoria Harbour, Hong Kong, China",
+                "Copyright": "© Juan Romero/Cavan Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/22.285,114.165/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=pt-BR&od=2&shading=flat&pp=22.285,114.165;S9;Victoria Harbour, Hong Kong&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261114_BlueHK\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Victoria+Harbour+em+Hong+Kong+na+China&form=hpcapt&filters=HpDate:\"20261114_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261114_BlueHK"
+            },
+            "Ssd": "20261114",
+            "Name": "BlueHK",
+            "Market": "PT-BR",
+            "Hash": "4557088394",
+            "FullDateString": "14 nov. 2026"
+        }
+    },
+    {
         "startdate": "20261113",
         "fullstartdate": "202611130300",
         "enddate": "20261114",

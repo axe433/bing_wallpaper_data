@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261113",
+        "fullstartdate": "202611132300",
+        "enddate": "20261114",
+        "url": "/th?id=OHR.BlueHK_ES-ES3038554146_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BlueHK_ES-ES3038554146",
+        "copyright": "Puerto Victoria, Hong Kong, China (© Juan Romero/Cavan Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Puerto+Victoria+Hong+Kong&form=hpcapt&filters=HpDate%3a%2220261113_2300%22",
+        "title": "Una ciudad que mira al cielo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261113_BlueHK%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "61f65c1aaff0fc2834ede955e84616da",
+        "hsh": "7aca4665641404a9ad50c3472ccdfeb3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Bienvenidos a Hong Kong, la ciudad con la mayor concentración de rascacielos del mundo. Los edificios de la imagen se elevan sobre el puerto Victoria, cuyas aguas profundas permitieron que la isla se desarrollara como un importante puerto comercial. Desde la década de 1840 han pasado por aquí barcos cargados de té, seda y otras mercancías; tras la Segunda Guerra Mundial, su rápido crecimiento impulsó un auge de la construcción.",
+                "Image": {
+                    "Url": "/th?id=OHR.BlueHK_ES-ES3038554146_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BlueHK_ES-ES3038554146_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Una ciudad que mira al cielo",
+                "Title": "Puerto Victoria, Hong Kong, China",
+                "Copyright": "© Juan Romero/Cavan Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/22.285,114.165/10?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=22.285,114.165;S9;Puerto Victoria, Hong Kong&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261114_BlueHK\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Puerto+Victoria+Hong+Kong&form=hpcapt&filters=HpDate:\"20261113_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261114_BlueHK"
+            },
+            "Ssd": "20261114",
+            "Name": "BlueHK",
+            "Market": "ES-ES",
+            "Hash": "3038554146",
+            "FullDateString": "14 de nov de 2026"
+        }
+    },
+    {
         "startdate": "20261112",
         "fullstartdate": "202611122300",
         "enddate": "20261113",

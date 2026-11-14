@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261113",
+        "fullstartdate": "202611130800",
+        "enddate": "20261114",
+        "url": "/th?id=OHR.AbrahamCanada_ROW4975668347_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AbrahamCanada_ROW4975668347",
+        "copyright": "Abraham Lake in Alberta, Canada (© Guang Cao/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Abraham+Lake+Alberta&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261113_AbrahamCanada%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b83aacc2597bebd705c30bcad09e434b",
+        "hsh": "74b1708540676365196e26d4987d6de2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dawn's first light is reflected on the frozen surface of Abraham Lake, framed by Rocky Mountains peaks in western Canada. In winter, this picturesque lake in Alberta is famous for its frozen bubbles of methane gas, trapped beneath the ice. Strong winds keep the surface clear of snow, offering winter-long views. Come spring, when the ice thaws, the gas escapes into the atmosphere.",
+                "Image": {
+                    "Url": "/th?id=OHR.AbrahamCanada_ROW4975668347_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.AbrahamCanada_ROW4975668347_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Abraham Lake in Alberta, Canada",
+                "Copyright": "© Guang Cao/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261113_AbrahamCanada\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Abraham+Lake+Alberta&form=hpcapt&filters=HpDate:\"20261113_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261113_AbrahamCanada"
+            },
+            "Ssd": "20261113",
+            "Name": "AbrahamCanada",
+            "Market": "ROW",
+            "Hash": "4975668347",
+            "FullDateString": "2026 11월 13"
+        }
+    },
+    {
         "startdate": "20261112",
         "fullstartdate": "202611120800",
         "enddate": "20261113",

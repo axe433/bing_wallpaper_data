@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261113",
+        "fullstartdate": "202611131500",
+        "enddate": "20261114",
+        "url": "/th?id=OHR.BlueHK_JA-JP0477081186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BlueHK_JA-JP0477081186",
+        "copyright": "ビクトリア・ハーバー、香港、中国 (© Juan Romero/Cavan Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%93%E3%82%AF%E3%83%88%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC+%E9%A6%99%E6%B8%AF&form=hpcapt&filters=HpDate%3a%2220261113_1500%22",
+        "title": "上へ上へと伸びる街",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261113_BlueHK%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "61f65c1aaff0fc2834ede955e84616da",
+        "hsh": "5d42d27196ff90d27166fb6428d33938",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "超高層ビルの数が世界一の街、香港へようこそ。ビクトリア・ハーバー沿いにビルがひしめくのは、港と山の間に平地がほとんどなく、戦後の建設ラッシュで上に伸びるしかなかったためです。2026年現在、高さ150m以上のビルは569棟にのぼり、世界のどの都市よりも多くなっています。",
+                "Image": {
+                    "Url": "/th?id=OHR.BlueHK_JA-JP0477081186_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BlueHK_JA-JP0477081186_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "上へ上へと伸びる街",
+                "Title": "ビクトリア・ハーバー、香港、中国",
+                "Copyright": "© Juan Romero/Cavan Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/22.285,114.165/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=22.285,114.165;S9;ビクトリア・ハーバー、香港&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261114_BlueHK\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%93%e3%82%af%e3%83%88%e3%83%aa%e3%82%a2%e3%83%bb%e3%83%8f%e3%83%bc%e3%83%90%e3%83%bc+%e9%a6%99%e6%b8%af&form=hpcapt&filters=HpDate:\"20261113_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261114_BlueHK"
+            },
+            "Ssd": "20261114",
+            "Name": "BlueHK",
+            "Market": "JA-JP",
+            "Hash": "0477081186",
+            "FullDateString": "2026 年 11月 月 14 日"
+        }
+    },
+    {
         "startdate": "20261112",
         "fullstartdate": "202611121500",
         "enddate": "20261113",

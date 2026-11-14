@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261113",
+        "fullstartdate": "202611132300",
+        "enddate": "20261114",
+        "url": "/th?id=OHR.BlueHK_FR-FR2342913478_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BlueHK_FR-FR2342913478",
+        "copyright": "Port Victoria, Hong Kong, Chine (© Juan Romero/Cavan Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Port+Victoria+Hong+Kong&form=hpcapt&filters=HpDate%3a%2220261113_2300%22",
+        "title": "Les yeux rivés vers le haut",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261113_BlueHK%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "61f65c1aaff0fc2834ede955e84616da",
+        "hsh": "689801b15dd6ba537223118437693503",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Bienvenue à Hong Kong, la ville qui abrite la plus grande concentration de gratte-ciel au monde. Ceux que l'on voit ici dominent le port Victoria. Ses eaux profondes ont permis à l'île de se développer en tant que port de commerce très dynamique et prospère. Si des navires chargés de thé, de soie et d'autres marchandises y transitent depuis les années 1840, la croissance s'est accélérée de façon spectaculaire après la Seconde Guerre mondiale, déclenchant un véritable boom de la construction.",
+                "Image": {
+                    "Url": "/th?id=OHR.BlueHK_FR-FR2342913478_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BlueHK_FR-FR2342913478_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Les yeux rivés vers le haut",
+                "Title": "Port Victoria, Hong Kong, Chine",
+                "Copyright": "© Juan Romero/Cavan Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/22.285,114.165/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=22.285,114.165;S9;Port Victoria, Hong Kong&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261114_BlueHK\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Port+Victoria+Hong+Kong&form=hpcapt&filters=HpDate:\"20261113_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261114_BlueHK"
+            },
+            "Ssd": "20261114",
+            "Name": "BlueHK",
+            "Market": "FR-FR",
+            "Hash": "2342913478",
+            "FullDateString": "14 nov. 2026"
+        }
+    },
+    {
         "startdate": "20261112",
         "fullstartdate": "202611122300",
         "enddate": "20261113",

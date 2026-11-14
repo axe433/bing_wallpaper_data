@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261113",
+        "fullstartdate": "202611132300",
+        "enddate": "20261114",
+        "url": "/th?id=OHR.BlueHK_DE-DE1662761141_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BlueHK_DE-DE1662761141",
+        "copyright": "Victoria Harbour, Hongkong, China (© Juan Romero/Cavan Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Victoria+Harbour+Hongkong&form=hpcapt&filters=HpDate%3a%2220261113_2300%22",
+        "title": "Hoch, höher, Hongkong",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261113_BlueHK%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "61f65c1aaff0fc2834ede955e84616da",
+        "hsh": "58304e0446787beabccd167e3c2262d9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Willkommen in Hongkong, der Stadt mit der weltweit höchsten Anzahl an Wolkenkratzern. Die hier abgebildeten Hochhäuser überragen den Victoria Harbour, der sich dank seiner tiefen Gewässer zum geschäftigen Handelshafen der Insel entwickelt hat. Seit den 1840er Jahren laufen hier Schiffe mit Tee, Seide und anderen Waren ein und aus, doch erst in den Jahrzehnten nach dem Zweiten Weltkrieg nahm das Wachstum rasant zu und löste einen Bauboom aus. Da zwischen dem Hafen und den Hügeln nur wenig flaches Land zur Verfügung stand, mussten Bauunternehmer in die Höhe bauen und haben so diese einzigartige Skyline geschaffen. Im Jahr 2026 zählt Hongkong 569 Gebäude, die höher als 150 Meter sind – mehr als jede andere Stadt.",
+                "Image": {
+                    "Url": "/th?id=OHR.BlueHK_DE-DE1662761141_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BlueHK_DE-DE1662761141_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Hoch, höher, Hongkong",
+                "Title": "Victoria Harbour, Hongkong, China",
+                "Copyright": "© Juan Romero/Cavan Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/22.285,114.165/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=22.285,114.165;S9;Victoria Harbour, Hongkong&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261114_BlueHK\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Victoria+Harbour+Hongkong&form=hpcapt&filters=HpDate:\"20261113_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261114_BlueHK"
+            },
+            "Ssd": "20261114",
+            "Name": "BlueHK",
+            "Market": "DE-DE",
+            "Hash": "1662761141",
+            "FullDateString": "14. Nov.. 2026"
+        }
+    },
+    {
         "startdate": "20261112",
         "fullstartdate": "202611122300",
         "enddate": "20261113",
