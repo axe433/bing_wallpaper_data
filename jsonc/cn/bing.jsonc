@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261114",
+        "fullstartdate": "202611141600",
+        "enddate": "20261115",
+        "url": "/th?id=OHR.FirstFrost_ZH-CN2219029557_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FirstFrost_ZH-CN2219029557",
+        "copyright": "覆霜的红叶杜鹃 (© avoferten/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E6%9D%9C%E9%B9%83%E8%8A%B1&form=hpcapt&mkt=zh-cn",
+        "title": "霜染枝叶",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261114_FirstFrost%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4cf186821d597619f20b09306e28befb",
+        "hsh": "ec68aadb483bc1046ea041d7af239397",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "随着秋天的第一场霜降临南方，冰晶在常绿灌木的叶片上凝结，就像这株杜鹃。春日花朵的粉色、橙色和黄色早已褪去，但新的色彩盛宴即将上演：绿色的叶片渐渐变成深浅不一的红色和紫色。对植物而言，这些新形成的色素能在气温下降时保护叶片；对园丁而言，白霜映衬下则是一幅绚丽的秋日景象。春天到来时，新芽会让灌木重披绿装，缤纷的色彩轮回也将重新开始。",
+                "Image": {
+                    "Url": "/th?id=OHR.FirstFrost_ZH-CN2219029557_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FirstFrost_ZH-CN2219029557_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "霜染枝叶",
+                "Title": "覆霜的红叶杜鹃",
+                "Copyright": "© avoferten/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "使杜鹃叶片呈现红色或紫色的色素叫作花青素。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261115_FirstFrost\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e6%9d%9c%e9%b9%83%e8%8a%b1&form=hpcapt&filters=HpDate:\"20261114_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261115_FirstFrost"
+            },
+            "Ssd": "20261115",
+            "Name": "FirstFrost",
+            "Market": "ZH-CN",
+            "Hash": "2219029557",
+            "FullDateString": "2026 11月 15"
+        }
+    },
+    {
         "startdate": "20261113",
         "fullstartdate": "202611131600",
         "enddate": "20261114",

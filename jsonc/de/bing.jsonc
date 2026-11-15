@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261114",
+        "fullstartdate": "202611142300",
+        "enddate": "20261115",
+        "url": "/th?id=OHR.FirstFrost_DE-DE6574553682_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FirstFrost_DE-DE6574553682",
+        "copyright": "Gefrorene Azalee mit roten Blättern (© avoferten/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Azaleen&form=hpcapt&filters=HpDate%3a%2220261114_2300%22",
+        "title": "Frostige Blätter",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261114_FirstFrost%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4cf186821d597619f20b09306e28befb",
+        "hsh": "e2d55e28de5d51a87f0d260afc1c1b42",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Während der erste Herbstfrost über das Land zieht, bilden sich Eiskristalle auf den Blättern immergrüner Sträucher wie dieser Azalee. Die Rosa-, Orange- und Gelbtöne ihrer Frühlingsblüte sind längst verschwunden und nun erwartet uns ein neues farbenfrohes Schauspiel, bei dem sich die grünen Blätter in Rot- und Violetttöne verwandeln. Diese neuen Pigmente schützen die Blätter der Pflanzen vor den sinkenden Temperaturen, während sie Gärtnern prächtige Herbstfarben liefern, eingerahmt von weißem Raureif. Im Frühling wachsen neue grüne Triebe und dann beginnt der bunte Kreislauf von Neuem.",
+                "Image": {
+                    "Url": "/th?id=OHR.FirstFrost_DE-DE6574553682_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FirstFrost_DE-DE6574553682_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Frostige Blätter",
+                "Title": "Gefrorene Azalee mit roten Blättern",
+                "Copyright": "© avoferten/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Die Pigmente, die Azaleenblätter rot oder violett färben, werden Anthocyane genannt.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261115_FirstFrost\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Azaleen&form=hpcapt&filters=HpDate:\"20261114_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261115_FirstFrost"
+            },
+            "Ssd": "20261115",
+            "Name": "FirstFrost",
+            "Market": "DE-DE",
+            "Hash": "6574553682",
+            "FullDateString": "15. Nov.. 2026"
+        }
+    },
+    {
         "startdate": "20261113",
         "fullstartdate": "202611132300",
         "enddate": "20261114",
