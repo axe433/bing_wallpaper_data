@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261115",
+        "fullstartdate": "202611150800",
+        "enddate": "20261116",
+        "url": "/th?id=OHR.FirstFrost_ROW5798320108_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FirstFrost_ROW5798320108",
+        "copyright": "Frozen azalea with red leaves (© avoferten/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=azaleas&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261115_FirstFrost%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4cf186821d597619f20b09306e28befb",
+        "hsh": "b11158a9b9c9a1c0aeb6bcafbe39ee02",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "As colder weather sets in, ice crystals form on the leaves of evergreen shrubs, like this azalea. Long gone are the pinks, orange and yellows of their spring blooms, but a new colourful display awaits, as their green leaves turn shades of red and purple. For the plants, the new pigments protect their leaves as temperatures drop, but for gardeners, they create a vibrant autumnal display, framed in white frost. When spring arrives, new growth will restore the shrub's green leaves, and the colourful cycle begins anew.",
+                "Image": {
+                    "Url": "/th?id=OHR.FirstFrost_ROW5798320108_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FirstFrost_ROW5798320108_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Frozen azalea with red leaves",
+                "Copyright": "© avoferten/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261115_FirstFrost\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=azaleas&form=hpcapt&filters=HpDate:\"20261115_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261115_FirstFrost"
+            },
+            "Ssd": "20261115",
+            "Name": "FirstFrost",
+            "Market": "ROW",
+            "Hash": "5798320108",
+            "FullDateString": "15. nov. 2026"
+        }
+    },
+    {
         "startdate": "20261114",
         "fullstartdate": "202611140800",
         "enddate": "20261115",

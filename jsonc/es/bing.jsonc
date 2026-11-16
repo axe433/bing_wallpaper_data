@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261115",
+        "fullstartdate": "202611152300",
+        "enddate": "20261116",
+        "url": "/th?id=OHR.GilaCliff_ES-ES3316486595_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GilaCliff_ES-ES3316486595",
+        "copyright": "Monumento de las Viviendas en los Acantilados de Gila (© Chiara Salvadori/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Monumento+Nacional+Casas+Acantilado+Gila&form=hpcapt&filters=HpDate%3a%2220261115_2300%22",
+        "title": "Construidas para perdurar",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261115_GilaCliff%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b443dff34926382dd0183c86bbceb524",
+        "hsh": "fe2edfdd6f163d356412f0f545da4fff",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Unas vistas impresionantes y unos cimientos sólidos forman parte del encanto de estas antiguas viviendas excavadas en un acantilado de Nuevo México. Los nómadas utilizaban desde hacía tiempo las cuevas naturales sobre el arroyo Cliff Dweller como refugio temporal, pero fue el pueblo indígena mogollón quien las convirtió en su hogar.",
+                "Image": {
+                    "Url": "/th?id=OHR.GilaCliff_ES-ES3316486595_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GilaCliff_ES-ES3316486595_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Construidas para perdurar",
+                "Title": "Monumento de las Viviendas en los Acantilados de Gila",
+                "Copyright": "© Chiara Salvadori/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/33.254028,-108.272634/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=33.254028,-108.272634;S9;Viviendas en los Acantilados de Gila, Nuevo México&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261116_GilaCliff\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Monumento+Nacional+Casas+Acantilado+Gila&form=hpcapt&filters=HpDate:\"20261115_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261116_GilaCliff"
+            },
+            "Ssd": "20261116",
+            "Name": "GilaCliff",
+            "Market": "ES-ES",
+            "Hash": "3316486595",
+            "FullDateString": "16 de nov de 2026"
+        }
+    },
+    {
         "startdate": "20261114",
         "fullstartdate": "202611142300",
         "enddate": "20261115",

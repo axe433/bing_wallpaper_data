@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261116",
+        "fullstartdate": "202611160000",
+        "enddate": "20261117",
+        "url": "/th?id=OHR.GilaCliff_EN-GB1863069273_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GilaCliff_EN-GB1863069273",
+        "copyright": "Gila Cliff Dwellings National Monument, New Mexico, USA (© Chiara Salvadori/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Gila+Cliff+Dwellings+National+Monument&form=hpcapt&filters=HpDate%3a%2220261116_0000%22",
+        "title": "Built to last",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261116_GilaCliff%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b443dff34926382dd0183c86bbceb524",
+        "hsh": "e796acdf3fa2587dd77996bc659ac222",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Incredible views and rock-solid foundations are part of the charm of these ancient dwellings, set into the cliffside in New Mexico. Nomads had long used the natural caves above Cliff Dweller Creek as temporary shelter, but it was the Native American Mogollon people who made them their home. Archaeologists believe they created dozens of rooms inside five alcoves in the 1270s and 1280s. Up to 15 families lived here at any one time, raising children, making pottery and overlooking the fertile Gila River valley where they grew crops and hunted wildlife. For reasons unknown, the Mogollon people moved on around 1300, leaving behind one of the American Southwest's most important archaeological sites.",
+                "Image": {
+                    "Url": "/th?id=OHR.GilaCliff_EN-GB1863069273_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GilaCliff_EN-GB1863069273_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Built to last",
+                "Title": "Gila Cliff Dwellings National Monument, New Mexico, USA",
+                "Copyright": "© Chiara Salvadori/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/33.254028,108.272634/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=33.254028,108.272634;S9;Gila Cliff Dwellings National Monument, New Mexico&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261116_GilaCliff\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Gila+Cliff+Dwellings+National+Monument&form=hpcapt&filters=HpDate:\"20261116_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261116_GilaCliff"
+            },
+            "Ssd": "20261116",
+            "Name": "GilaCliff",
+            "Market": "EN-GB",
+            "Hash": "1863069273",
+            "FullDateString": "16 Nov 2026"
+        }
+    },
+    {
         "startdate": "20261115",
         "fullstartdate": "202611150000",
         "enddate": "20261116",

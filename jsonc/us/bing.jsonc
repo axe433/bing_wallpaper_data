@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261115",
+        "fullstartdate": "202611150800",
+        "enddate": "20261116",
+        "url": "/th?id=OHR.FirstFrost_EN-US8881008245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FirstFrost_EN-US8881008245",
+        "copyright": "Frozen azalea with red leaves (© avoferten/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=azaleas&form=hpcapt&filters=HpDate%3a%2220261115_0800%22",
+        "title": "Frosty foliage",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261115_FirstFrost%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4cf186821d597619f20b09306e28befb",
+        "hsh": "6c1b2ebce94f441a9a12cbcfecd61ca5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "As fall's first frost works its way across the South, ice crystals form on the leaves of evergreen shrubs, like this azalea. Long gone are the pinks, oranges, and yellows of their spring blooms, but a new colorful display awaits, as their green leaves turn shades of red and purple. For the plants, the new pigments protect their leaves as temperatures drop, but for gardeners, they create a vibrant autumnal display, framed in white frost. When spring arrives, new growth will restore the shrub's green leaves, and the colorful cycle begins anew.",
+                "Image": {
+                    "Url": "/th?id=OHR.FirstFrost_EN-US8881008245_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FirstFrost_EN-US8881008245_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Frosty foliage",
+                "Title": "Frozen azalea with red leaves",
+                "Copyright": "© avoferten/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "The pigments that turn azalea leaves shades of red or purple are called anthocyanins.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261115_FirstFrost\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=azaleas&form=hpcapt&filters=HpDate:\"20261115_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261115_FirstFrost"
+            },
+            "Ssd": "20261115",
+            "Name": "FirstFrost",
+            "Market": "EN-US",
+            "Hash": "8881008245",
+            "FullDateString": "Nov 15, 2026"
+        }
+    },
+    {
         "startdate": "20261114",
         "fullstartdate": "202611140800",
         "enddate": "20261115",
