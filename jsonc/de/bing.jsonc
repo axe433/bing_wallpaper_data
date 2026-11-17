@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261116",
+        "fullstartdate": "202611162300",
+        "enddate": "20261117",
+        "url": "/th?id=OHR.TrailCedars_DE-DE2756657002_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TrailCedars_DE-DE2756657002",
+        "copyright": "Trail of the Cedars, Glacier-Nationalpark, Montana, USA (© DBushue Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Glacier-Nationalpark%2c+Montana%2c+USA&form=hpcapt&filters=HpDate%3a%2220261116_2300%22",
+        "title": "Raus in die Natur!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261116_TrailCedars%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "59cec50f9d0b39a7ca1c6c5d315ebe22",
+        "hsh": "b0558da63542a26b7f0d93b552035c98",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Zeit, die frische Herbstluft einzuatmen und die Schönheit der Natur zu genießen! Das heutige Bild zeigt den „Trail of the Cedars“, einen der insgesamt 1.120 Kilometer langen Wanderwege im Glacier-Nationalpark in Montana. Der 1,4 Kilometer lange Rundweg führt über einen Holzsteg durch einen Wald aus Rotzedern und Hemlocktannen. Der Park bietet Wanderwege für jedes Niveau, entlang alpiner Seen, Wildblumenwiesen, über Bergpässe und durch wilde Landschaften, die sich bis zur kanadischen Grenze erstrecken. Aber auch ohne spektakuläre Landschaften vor der Haustür kann man den Herbst bei einem Spaziergang genießen, während die Tage immer kürzer werden.",
+                "Image": {
+                    "Url": "/th?id=OHR.TrailCedars_DE-DE2756657002_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TrailCedars_DE-DE2756657002_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Raus in die Natur!",
+                "Title": "Trail of the Cedars, Glacier-Nationalpark, Montana, USA",
+                "Copyright": "© DBushue Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.706957,-113.817235/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=48.706957,-113.817235;S9;Glacier-Nationalpark, Montana&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261117_TrailCedars\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Glacier-Nationalpark%2c+Montana%2c+USA&form=hpcapt&filters=HpDate:\"20261116_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261117_TrailCedars"
+            },
+            "Ssd": "20261117",
+            "Name": "TrailCedars",
+            "Market": "DE-DE",
+            "Hash": "2756657002",
+            "FullDateString": "17. Nov.. 2026"
+        }
+    },
+    {
         "startdate": "20261115",
         "fullstartdate": "202611152300",
         "enddate": "20261116",

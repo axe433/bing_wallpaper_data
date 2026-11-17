@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261116",
+        "fullstartdate": "202611161830",
+        "enddate": "20261117",
+        "url": "/th?id=OHR.TrailCedars_EN-IN2433074172_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TrailCedars_EN-IN2433074172",
+        "copyright": "Trail of the Cedars, Glacier National Park, Montana, USA (© DBushue Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Trail+of+the+Cedars&form=hpcapt&filters=HpDate%3a%2220261116_1830%22",
+        "title": "Step into the great outdoors",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261116_TrailCedars%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "59cec50f9d0b39a7ca1c6c5d315ebe22",
+        "hsh": "5a13ab166db393e1a60538ed14bc4ed8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Today's image features the Trail of the Cedars, one of 1,126 kilometres of hiking trails in Glacier National Park, Montana. Its 1.4-km-long loop includes a raised boardwalk which cuts a path through western red cedars and hemlock trees. The park boasts routes for all abilities, taking in alpine lakes, wildflower meadows, mountain passes and wilderness stretching to the Canadian border.",
+                "Image": {
+                    "Url": "/th?id=OHR.TrailCedars_EN-IN2433074172_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TrailCedars_EN-IN2433074172_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Step into the great outdoors",
+                "Title": "Trail of the Cedars, Glacier National Park, Montana, USA",
+                "Copyright": "© DBushue Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.706957,-113.817235/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=48.706957,-113.817235;S9;Glacier National Park, Montana&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261117_TrailCedars\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Trail+of+the+Cedars&form=hpcapt&filters=HpDate:\"20261116_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261117_TrailCedars"
+            },
+            "Ssd": "20261117",
+            "Name": "TrailCedars",
+            "Market": "EN-IN",
+            "Hash": "2433074172",
+            "FullDateString": "17 Nov, 2026"
+        }
+    },
+    {
         "startdate": "20261115",
         "fullstartdate": "202611151830",
         "enddate": "20261116",

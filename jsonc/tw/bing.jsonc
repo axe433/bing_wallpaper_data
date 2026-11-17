@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261116",
+        "fullstartdate": "202611160800",
+        "enddate": "20261117",
+        "url": "/th?id=OHR.GilaCliff_ROW5960011422_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GilaCliff_ROW5960011422",
+        "copyright": "Gila Cliff Dwellings National Monument, New Mexico, USA (© Chiara Salvadori/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Gila+Cliff+Dwellings+National+Monument&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261116_GilaCliff%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "b443dff34926382dd0183c86bbceb524",
+        "hsh": "e060e5b35d8f44ef1a764987976c9233",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Incredible views and rock-solid foundations are part of the charm of these ancient dwellings, set into the cliffside in New Mexico, USA. Nomads had long used the natural caves above Cliff Dweller Creek as temporary shelter, but it was the Native American Mogollon people who made them their home. Archaeologists believe they created dozens of rooms inside five alcoves in the 1270s and 1280s. Up to 15 families lived here at any one time, raising children, making pottery and overlooking the fertile Gila River valley where they grew crops and hunted wildlife. For reasons unknown, the Mogollon people moved on around 1300, leaving behind one of the American Southwest's most important archaeological sites.",
+                "Image": {
+                    "Url": "/th?id=OHR.GilaCliff_ROW5960011422_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GilaCliff_ROW5960011422_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Gila Cliff Dwellings National Monument, New Mexico, USA",
+                "Copyright": "© Chiara Salvadori/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261116_GilaCliff\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Gila+Cliff+Dwellings+National+Monument&form=hpcapt&filters=HpDate:\"20261116_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261116_GilaCliff"
+            },
+            "Ssd": "20261116",
+            "Name": "GilaCliff",
+            "Market": "ROW",
+            "Hash": "5960011422",
+            "FullDateString": "2026 年 11月 月 16 日"
+        }
+    },
+    {
         "startdate": "20261115",
         "fullstartdate": "202611150800",
         "enddate": "20261116",
