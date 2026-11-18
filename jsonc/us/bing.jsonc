@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261117",
+        "fullstartdate": "202611170800",
+        "enddate": "20261118",
+        "url": "/th?id=OHR.TrailCedars_EN-US2240500417_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TrailCedars_EN-US2240500417",
+        "copyright": "Trail of the Cedars, Glacier National Park, Montana (© DBushue Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Take+a+Hike+Day&form=hpcapt&filters=HpDate%3a%2220261117_0800%22",
+        "title": "Step into the great outdoors",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261117_TrailCedars%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "59cec50f9d0b39a7ca1c6c5d315ebe22",
+        "hsh": "26808cee991f9a84e7d473324ca022b6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Happy National Take a Hike Day! It's time to breathe in that crisp fall air and step into the great outdoors. Today's image features the Trail of the Cedars, one of 700 miles of hiking trails in Glacier National Park, Montana. Its 0.9-mile-long loop includes a raised boardwalk which cuts a path through western red cedars and hemlock trees. The park boasts routes for all abilities, taking in alpine lakes, wildflower meadows, mountain passes, and wilderness stretching to the Canadian border. But if you don't have spectacular scenery on your doorstep, a short stroll along a tree-lined street is an easy way to celebrate and enjoy the benefits of getting out, as the days draw in.",
+                "Image": {
+                    "Url": "/th?id=OHR.TrailCedars_EN-US2240500417_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.TrailCedars_EN-US2240500417_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Step into the great outdoors",
+                "Title": "Trail of the Cedars, Glacier National Park, Montana",
+                "Copyright": "© DBushue Photography/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.706957,-113.817235/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=48.706957,-113.817235;S9;Glacier National Park, Montana&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261117_TrailCedars\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Take+a+Hike+Day&form=hpcapt&filters=HpDate:\"20261117_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261117_TrailCedars"
+            },
+            "Ssd": "20261117",
+            "Name": "TrailCedars",
+            "Market": "EN-US",
+            "Hash": "2240500417",
+            "FullDateString": "Nov 17, 2026"
+        }
+    },
+    {
         "startdate": "20261116",
         "fullstartdate": "202611160800",
         "enddate": "20261117",

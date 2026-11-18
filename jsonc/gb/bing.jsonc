@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261118",
+        "fullstartdate": "202611180000",
+        "enddate": "20261119",
+        "url": "/th?id=OHR.BarnOwlsUnite_EN-GB9873814926_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BarnOwlsUnite_EN-GB9873814926",
+        "copyright": "Pair of barn owls (© Zahoor Salmi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Barn+owl&form=hpcapt&filters=HpDate%3a%2220261118_0000%22",
+        "title": "Hunting from dusk till dawn",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261118_BarnOwlsUnite%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4e87dcc76225b1836891318bcb87067d",
+        "hsh": "609740cd3435c310124486dbb8c12a9b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "These barn owls, bathed in the evening light, are waiting for the hunt to begin. As night falls, the birds of prey swoop into action, listening for the faint movements of mice and voles in the grass and leaves. Their heart-shaped faces help funnel sound towards their exceptionally sensitive ears, allowing them to locate prey with remarkable precision in the dark. They then swoop down almost silently, their soft feathers helping to muffle the sound of their approach.",
+                "Image": {
+                    "Url": "/th?id=OHR.BarnOwlsUnite_EN-GB9873814926_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BarnOwlsUnite_EN-GB9873814926_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Hunting from dusk till dawn",
+                "Title": "Pair of barn owls",
+                "Copyright": "© Zahoor Salmi/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Barn owls don't hoot; they make eerie, screeching noises, which might explain their reputation as harbingers of doom.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261118_BarnOwlsUnite\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Barn+owl&form=hpcapt&filters=HpDate:\"20261118_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261118_BarnOwlsUnite"
+            },
+            "Ssd": "20261118",
+            "Name": "BarnOwlsUnite",
+            "Market": "EN-GB",
+            "Hash": "9873814926",
+            "FullDateString": "18 Nov 2026"
+        }
+    },
+    {
         "startdate": "20261117",
         "fullstartdate": "202611170000",
         "enddate": "20261118",

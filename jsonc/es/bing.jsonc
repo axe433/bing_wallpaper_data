@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261117",
+        "fullstartdate": "202611172300",
+        "enddate": "20261118",
+        "url": "/th?id=OHR.BarnOwlsUnite_ES-ES4442138471_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BarnOwlsUnite_ES-ES4442138471",
+        "copyright": "Una pareja de lechuzas al anochecer (© Zahoor Salmi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lechuzas&form=hpcapt&filters=HpDate%3a%2220261117_2300%22",
+        "title": "De caza desde el anochecer",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261117_BarnOwlsUnite%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "4e87dcc76225b1836891318bcb87067d",
+        "hsh": "fb3d3bc8f32eba6a144af6acff869e48",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Estas lechuzas, bañadas por la luz del atardecer, esperan a que comience la caza. Al caer la noche, entran en acción y escuchan los pequeños movimientos que ratones y topillos producen entre la hierba y las hojas. Su rostro en forma de corazón canaliza el sonido hacia uno de los sistemas auditivos más agudos del reino animal.",
+                "Image": {
+                    "Url": "/th?id=OHR.BarnOwlsUnite_ES-ES4442138471_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.BarnOwlsUnite_ES-ES4442138471_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "De caza desde el anochecer",
+                "Title": "Una pareja de lechuzas al anochecer",
+                "Copyright": "© Zahoor Salmi/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Las lechuzas no ululan: emiten chillidos inquietantes, quizá origen de su fama de aves de mal agüero.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261118_BarnOwlsUnite\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lechuzas&form=hpcapt&filters=HpDate:\"20261117_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261118_BarnOwlsUnite"
+            },
+            "Ssd": "20261118",
+            "Name": "BarnOwlsUnite",
+            "Market": "ES-ES",
+            "Hash": "4442138471",
+            "FullDateString": "18 de nov de 2026"
+        }
+    },
+    {
         "startdate": "20261116",
         "fullstartdate": "202611162300",
         "enddate": "20261117",
