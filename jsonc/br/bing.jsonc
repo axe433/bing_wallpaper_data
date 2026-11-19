@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261119",
+        "fullstartdate": "202611190300",
+        "enddate": "20261120",
+        "url": "/th?id=OHR.KnowledgeSculpture_PT-BR4000726900_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KnowledgeSculpture_PT-BR4000726900",
+        "copyright": "Escultura \"Body of Knowledge\", de Jaume Plensa, na Universidade Goethe em Frankfurt, Alemanha (© Todamo/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+Mundial+da+Filosofia&form=hpcapt&mkt=pt-br",
+        "title": "Cabeça cheia de ideias",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261119_KnowledgeSculpture%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "31e26411579476c0c97c4489eddb18c5",
+        "hsh": "94ece1e380f7a8372321cb05884b89c1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Hoje é o Dia Mundial da Filosofia, quando grandes pensadores se reúnem para discutir os mistérios eternos da vida. Para celebrar a data, a imagem de hoje mostra a escultura Body of Knowledge (“Corpo do Conhecimento”), na Universidade Goethe, em Frankfurt, na Alemanha. A obra reúne letras de aço de oito alfabetos diferentes para formar uma figura humana. O artista espanhol Jaume Plensa explica: “Nosso corpo é o lar do espírito. O lugar onde vivem as ideias.” No Dia Mundial da Filosofia, todos somos convidados a ir além das respostas fáceis e explorar as perguntas que moldam quem somos e o mundo ao nosso redor.",
+                "Image": {
+                    "Url": "/th?id=OHR.KnowledgeSculpture_PT-BR4000726900_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KnowledgeSculpture_PT-BR4000726900_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Cabeça cheia de ideias",
+                "Title": "Escultura \"Body of Knowledge\", de Jaume Plensa, na Universidade Goethe em Frankfurt, Alemanha",
+                "Copyright": "© Todamo/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.127805,8.667807/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=pt-BR&od=2&shading=flat&pp=50.127805,8.667807;S9;Universidade Goethe, Frankfurt&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261119_KnowledgeSculpture\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dia+Mundial+da+Filosofia&form=hpcapt&filters=HpDate:\"20261119_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261119_KnowledgeSculpture"
+            },
+            "Ssd": "20261119",
+            "Name": "KnowledgeSculpture",
+            "Market": "PT-BR",
+            "Hash": "4000726900",
+            "FullDateString": "19 nov. 2026"
+        }
+    },
+    {
         "startdate": "20261118",
         "fullstartdate": "202611180300",
         "enddate": "20261119",
