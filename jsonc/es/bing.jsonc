@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261119",
+        "fullstartdate": "202611192300",
+        "enddate": "20261120",
+        "url": "/th?id=OHR.Megaptera_ES-ES5370739195_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Megaptera_ES-ES5370739195",
+        "copyright": "Ballena jorobada (Megaptera novaeangliae) sumergiéndose, Kvaløya, Troms, norte de Noruega (© Espen Bergersen/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=ballenas+jorobadas&form=hpcapt&filters=HpDate%3a%2220261119_2300%22",
+        "title": "Un festín en los fiordos",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261119_Megaptera%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "76f359975fc28beda93c3cfb8b70624a",
+        "hsh": "6ea4b353391b41114ece91f1dcbf93c0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Frente a la costa de Kvaløya, en Troms, al norte de Noruega, las ballenas jorobadas recorren las frías aguas árticas en busca de alimento. Visitan la región durante los meses de invierno mientras siguen a los arenques que migran hacia los fiordos.",
+                "Image": {
+                    "Url": "/th?id=OHR.Megaptera_ES-ES5370739195_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Megaptera_ES-ES5370739195_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un festín en los fiordos",
+                "Title": "Ballena jorobada (Megaptera novaeangliae) sumergiéndose, Kvaløya, Troms, norte de Noruega",
+                "Copyright": "© Espen Bergersen/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/69.62389,18.53103/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=69.62389,18.53103;S9;Kvaløya, Troms, Noruega&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261120_Megaptera\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=ballenas+jorobadas&form=hpcapt&filters=HpDate:\"20261119_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261120_Megaptera"
+            },
+            "Ssd": "20261120",
+            "Name": "Megaptera",
+            "Market": "ES-ES",
+            "Hash": "5370739195",
+            "FullDateString": "20 de nov de 2026"
+        }
+    },
+    {
         "startdate": "20261118",
         "fullstartdate": "202611182300",
         "enddate": "20261119",

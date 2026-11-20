@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261119",
+        "fullstartdate": "202611192300",
+        "enddate": "20261120",
+        "url": "/th?id=OHR.Megaptera_FR-FR4844041131_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Megaptera_FR-FR4844041131",
+        "copyright": "Baleine à bosse plongeant, Kvaløya, Troms, Norvège (© Espen Bergersen/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=baleine+%C3%A0+bosse&form=hpcapt&filters=HpDate%3a%2220261119_2300%22",
+        "title": "Festin dans les fjords",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261119_Megaptera%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "76f359975fc28beda93c3cfb8b70624a",
+        "hsh": "fff63e094976f6b33fc53bd3182735e4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Au large de Kvaløya, dans la région de Troms, au nord de la Norvège, des baleines à bosse parcourent les eaux arctiques glacées en quête de nourriture. Elles fréquentent cette zone durant les mois d’hiver, suivant les bancs de harengs qui migrent vers les fjords. Les baleines à bosse sont réputées pour leur technique de chasse au « filet de bulles ». Elles créent des cercles de bulles pour encercler les poissons, avant de remonter en surface, la gueule grande ouverte, pour capturer leurs proies.",
+                "Image": {
+                    "Url": "/th?id=OHR.Megaptera_FR-FR4844041131_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Megaptera_FR-FR4844041131_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Festin dans les fjords",
+                "Title": "Baleine à bosse plongeant, Kvaløya, Troms, Norvège",
+                "Copyright": "© Espen Bergersen/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/69.62389,18.53103/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=69.62389,18.53103;S9;Kvaløya, Troms&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261120_Megaptera\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=baleine+%c3%a0+bosse&form=hpcapt&filters=HpDate:\"20261119_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261120_Megaptera"
+            },
+            "Ssd": "20261120",
+            "Name": "Megaptera",
+            "Market": "FR-FR",
+            "Hash": "4844041131",
+            "FullDateString": "20 nov. 2026"
+        }
+    },
+    {
         "startdate": "20261118",
         "fullstartdate": "202611182300",
         "enddate": "20261119",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261119",
+        "fullstartdate": "202611191500",
+        "enddate": "20261120",
+        "url": "/th?id=OHR.Megaptera_JA-JP4163269980_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Megaptera_JA-JP4163269980",
+        "copyright": "潜るザトウクジラ、クヴァロイア島、トロムス県、ノルウェー (© Espen Bergersen/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%B6%E3%83%88%E3%82%A6%E3%82%AF%E3%82%B8%E3%83%A9&form=hpcapt&filters=HpDate%3a%2220261119_1500%22",
+        "title": "フィヨルドを訪れる冬の使者",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261119_Megaptera%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "76f359975fc28beda93c3cfb8b70624a",
+        "hsh": "92f413ed480b839d5c27b167251faf89",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "ノルウェー北部、トロムス県のクヴァロイア島沖には、冬になるとザトウクジラが姿を現します。北極圏の冷たいフィヨルドに、ニシンの群れを追ってやって来るのです。ザトウクジラは、泡の輪で魚の群れを囲い込む「バブルネット・フィーディング」というユニークな方法で知られています。写真は、淡いパステルカラーの空の下、クジラが静かに海へ潜っていく瞬間をとらえたものです。ノルウェー北部の大自然ならではの、穏やかなひとときが伝わってきます。",
+                "Image": {
+                    "Url": "/th?id=OHR.Megaptera_JA-JP4163269980_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Megaptera_JA-JP4163269980_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "フィヨルドを訪れる冬の使者",
+                "Title": "潜るザトウクジラ、クヴァロイア島、トロムス県、ノルウェー",
+                "Copyright": "© Espen Bergersen/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/69.62389,18.53103/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=69.62389,18.53103;S9;クヴァロイア島、トロムス県、ノルウェー&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261120_Megaptera\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%b6%e3%83%88%e3%82%a6%e3%82%af%e3%82%b8%e3%83%a9&form=hpcapt&filters=HpDate:\"20261119_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261120_Megaptera"
+            },
+            "Ssd": "20261120",
+            "Name": "Megaptera",
+            "Market": "JA-JP",
+            "Hash": "4163269980",
+            "FullDateString": "2026 年 11月 月 20 日"
+        }
+    },
+    {
         "startdate": "20261118",
         "fullstartdate": "202611181500",
         "enddate": "20261119",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261119",
+        "fullstartdate": "202611192300",
+        "enddate": "20261120",
+        "url": "/th?id=OHR.Megaptera_DE-DE6966438629_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Megaptera_DE-DE6966438629",
+        "copyright": "Tauchender Buckelwal (Megaptera novaeangliae) Kvaloya, Troms, Norwegen (© Espen Bergersen/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Buckelwal&form=hpcapt&filters=HpDate%3a%2220261119_2300%22",
+        "title": "Festmahl in den Fjorden",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261119_Megaptera%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "76f359975fc28beda93c3cfb8b70624a",
+        "hsh": "aa9330fd7eadd41bb6e9a59d12f0cea0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Vor der Küste von Kvaløya in Troms, im Norden Norwegens, durchstreifen Buckelwale die kalten arktischen Gewässer auf der Suche nach einem ausgiebigen Festmahl. Sie besuchen diese Region in den Wintermonaten und folgen dabei den wandernden Heringsschwärmen in die Fjorde. Buckelwale sind bekannt für ihre „Blasennetz-Jagd“, eine bemerkenswerte Jagdtechnik, bei der die Wale Fischschwärme mit Blasenringen einkreisen, um ihre Beute dann mit weit geöffnetem Maul aufzuschnappen. Auf dem heutigen Bild gleitet ein Buckelwal durch die eisigen Wellen unter einem leuchtenden Pastellhimmel und hält einen Moment der Ruhe im wilden Norden Norwegens fest.",
+                "Image": {
+                    "Url": "/th?id=OHR.Megaptera_DE-DE6966438629_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Megaptera_DE-DE6966438629_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Festmahl in den Fjorden",
+                "Title": "Tauchender Buckelwal (Megaptera novaeangliae) Kvaloya, Troms, Norwegen",
+                "Copyright": "© Espen Bergersen/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/69.62389,18.53103/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=69.62389,18.53103;S9;Kvaloya, Troms, Norwegen&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261120_Megaptera\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Buckelwal&form=hpcapt&filters=HpDate:\"20261119_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261120_Megaptera"
+            },
+            "Ssd": "20261120",
+            "Name": "Megaptera",
+            "Market": "DE-DE",
+            "Hash": "6966438629",
+            "FullDateString": "20. Nov.. 2026"
+        }
+    },
+    {
         "startdate": "20261118",
         "fullstartdate": "202611182300",
         "enddate": "20261119",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261119",
+        "fullstartdate": "202611190800",
+        "enddate": "20261120",
+        "url": "/th?id=OHR.KnowledgeSculpture_EN-US9746703110_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KnowledgeSculpture_EN-US9746703110",
+        "copyright": "The \"Body of Knowledge\" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=World+Philosophy+Day&form=hpcapt&filters=HpDate%3a%2220261119_0800%22",
+        "title": "Where ideas take shape",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261119_KnowledgeSculpture%22&FORM=HPQUIZ",
+        "wp": false,
+        "md5": "31e26411579476c0c97c4489eddb18c5",
+        "hsh": "f89bdb875059d2794e228044e25f53ab",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "It's World Philosophy Day, when big thinkers gather to discuss life's eternal mysteries. To celebrate, today's image features the \"Body of Knowledge\" sculpture at Goethe University in Frankfurt, Germany, which molds steel letters from eight different alphabets into a human form. Spanish artist Jaume Plensa explains: \"Our body is the home of the spirit. The place in which ideas live.\" On World Philosophy Day, we're all encouraged to look beyond easy answers and explore the questions that shape us, and the world around us.",
+                "Image": {
+                    "Url": "/th?id=OHR.KnowledgeSculpture_EN-US9746703110_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.KnowledgeSculpture_EN-US9746703110_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": false
+                },
+                "Headline": "Where ideas take shape",
+                "Title": "The \"Body of Knowledge\" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany",
+                "Copyright": "© Todamo/Shutterstock",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.127805,8.667807/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=50.127805,8.667807;S9;Goethe University, Frankfurt&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261119_KnowledgeSculpture\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=World+Philosophy+Day&form=hpcapt&filters=HpDate:\"20261119_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261119_KnowledgeSculpture"
+            },
+            "Ssd": "20261119",
+            "Name": "KnowledgeSculpture",
+            "Market": "EN-US",
+            "Hash": "9746703110",
+            "FullDateString": "Nov 19, 2026"
+        }
+    },
+    {
         "startdate": "20261118",
         "fullstartdate": "202611180800",
         "enddate": "20261119",

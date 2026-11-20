@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261120",
+        "fullstartdate": "202611200300",
+        "enddate": "20261121",
+        "url": "/th?id=OHR.Megaptera_PT-BR4336826763_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Megaptera_PT-BR4336826763",
+        "copyright": "Baleia-jubarte (Megaptera novaeangliae) mergulhando, Kvaløya, Troms, norte da Noruega (© Espen Bergersen/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=baleias-jubarte&form=hpcapt&mkt=pt-br",
+        "title": "Banquete entre fiordes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261120_Megaptera%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "76f359975fc28beda93c3cfb8b70624a",
+        "hsh": "1b9688ad21f4cef78af453a134d2c46f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Ao largo da costa de Kvaløya, em Troms, no norte da Noruega, baleias-jubarte percorrem as frias águas do Ártico em busca de um verdadeiro banquete. Elas visitam essa região durante os meses de inverno, acompanhando os cardumes de arenque que migram para os fiordes. As jubartes são famosas pela técnica de caça conhecida como “rede de bolhas”, um método impressionante em que as baleias soltam anéis de bolhas para cercar os peixes antes de subirem rapidamente, de boca aberta, para capturar suas presas. Na imagem de hoje, uma baleia-jubarte desliza sob as ondas geladas, sob um céu iluminado em tons pastel, registrando um momento de tranquilidade na natureza selvagem do norte da Noruega.",
+                "Image": {
+                    "Url": "/th?id=OHR.Megaptera_PT-BR4336826763_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.Megaptera_PT-BR4336826763_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Banquete entre fiordes",
+                "Title": "Baleia-jubarte (Megaptera novaeangliae) mergulhando, Kvaløya, Troms, norte da Noruega",
+                "Copyright": "© Espen Bergersen/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/69.62389,18.53103/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=pt-BR&od=2&shading=flat&pp=69.62389,18.53103;S9;Kvaløya, Troms, Noruega&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261120_Megaptera\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=baleias-jubarte&form=hpcapt&filters=HpDate:\"20261120_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261120_Megaptera"
+            },
+            "Ssd": "20261120",
+            "Name": "Megaptera",
+            "Market": "PT-BR",
+            "Hash": "4336826763",
+            "FullDateString": "20 nov. 2026"
+        }
+    },
+    {
         "startdate": "20261119",
         "fullstartdate": "202611190300",
         "enddate": "20261120",
