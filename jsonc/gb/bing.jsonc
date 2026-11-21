@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261121",
+        "fullstartdate": "202611210000",
+        "enddate": "20261122",
+        "url": "/th?id=OHR.RedNice_EN-GB3371662260_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RedNice_EN-GB3371662260",
+        "copyright": "Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Nice+France&form=hpcapt&filters=HpDate%3a%2220261121_0000%22",
+        "title": "Terracotta dreams",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261121_RedNice%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "21558cc95857c779a974c764fef480d0",
+        "hsh": "13bf8a12039a156c39ec24f2ffeccbf4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Bathed in a sun-kissed glow, Nice is a patchwork of terracotta rooftops, historic churches and pastel façades along the French Riviera, as seen in today's image. Founded by the ancient Greeks and long associated with the Italian House of Savoy, Nice officially became part of France in 1860. Today, its layered past remains visible throughout this coastal city in the south of France, where historic architecture meets the blue waters of the Mediterranean and the sunlit hills of the Côte d'Azur.",
+                "Image": {
+                    "Url": "/th?id=OHR.RedNice_EN-GB3371662260_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RedNice_EN-GB3371662260_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Terracotta dreams",
+                "Title": "Nice, Provence-Alpes-Côte d'Azur, France",
+                "Copyright": "© Siripong Kaewla-iad/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.70094,7.26839/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=43.70094,7.26839;S9;Nice, France&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261121_RedNice\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Nice+France&form=hpcapt&filters=HpDate:\"20261121_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261121_RedNice"
+            },
+            "Ssd": "20261121",
+            "Name": "RedNice",
+            "Market": "EN-GB",
+            "Hash": "3371662260",
+            "FullDateString": "21 Nov 2026"
+        }
+    },
+    {
         "startdate": "20261120",
         "fullstartdate": "202611200000",
         "enddate": "20261121",

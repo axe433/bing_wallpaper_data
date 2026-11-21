@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261120",
+        "fullstartdate": "202611202300",
+        "enddate": "20261121",
+        "url": "/th?id=OHR.RedNice_IT-IT2041247927_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RedNice_IT-IT2041247927",
+        "copyright": "Nizza, Provenza-Alpi-Costa Azzurra, Francia (© Siripong Kaewla-iad/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Nizza+Francia&form=hpcapt",
+        "title": "Un sogno color terracotta",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261120_RedNice%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "21558cc95857c779a974c764fef480d0",
+        "hsh": "d95b3b3feecf490838a06b1caeae9e8e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Avvolta da una luce dorata, Nizza si presenta nella foto di oggi come un mosaico di tetti in terracotta, chiese storiche e facciate color pastello sul litorale della Costa Azzurra. Fondata dagli antichi Greci e a lungo legata ai Savoia, la città diventò ufficialmente francese nel 1860. Ancora oggi le tracce del suo passato si incontrano in ogni angolo, tra eleganti architetture d’altri tempi, colline assolate e le acque azzurre del Mediterraneo, che fanno da scenario a questa affascinante città del sud della Francia.",
+                "Image": {
+                    "Url": "/th?id=OHR.RedNice_IT-IT2041247927_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RedNice_IT-IT2041247927_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un sogno color terracotta",
+                "Title": "Nizza, Provenza-Alpi-Costa Azzurra, Francia",
+                "Copyright": "© Siripong Kaewla-iad/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.70094,7.26839/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=43.70094,7.26839;S9;Nizza, Francia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261121_RedNice\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Nizza+Francia&form=hpcapt&filters=HpDate:\"20261120_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261121_RedNice"
+            },
+            "Ssd": "20261121",
+            "Name": "RedNice",
+            "Market": "IT-IT",
+            "Hash": "2041247927",
+            "FullDateString": "21 novembre 2026"
+        }
+    },
+    {
         "startdate": "20261119",
         "fullstartdate": "202611192300",
         "enddate": "20261120",

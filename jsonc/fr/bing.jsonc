@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261120",
+        "fullstartdate": "202611202300",
+        "enddate": "20261121",
+        "url": "/th?id=OHR.RedNice_FR-FR1499556885_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RedNice_FR-FR1499556885",
+        "copyright": "Nice, Provence-Alpes-Côte d'Azur (© Siripong Kaewla-iad/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Nice+France&form=hpcapt&filters=HpDate%3a%2220261120_2300%22",
+        "title": "Mosaïque de terre cuite",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261120_RedNice%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "21558cc95857c779a974c764fef480d0",
+        "hsh": "c7dc8ea10146fdbd017b316f9c6d0078",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Baigné de lumière, le quartier du Vieux-Nice est constitué d’une mosaïque de toits en terre cuite, d’églises historiques et de façades aux couleurs ocre. Fondée par les Grecs de l’Antiquité et longtemps liée à la maison royale italienne de Savoie, Nice a officiellement été rattachée à la France en 1860. Aujourd’hui, son passé riche et varié demeure perceptible dans toute la ville, où une architecture d’antan côtoie les eaux bleues de la Méditerranée.",
+                "Image": {
+                    "Url": "/th?id=OHR.RedNice_FR-FR1499556885_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RedNice_FR-FR1499556885_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Mosaïque de terre cuite",
+                "Title": "Nice, Provence-Alpes-Côte d'Azur",
+                "Copyright": "© Siripong Kaewla-iad/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.70094,7.26839/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=43.70094,7.26839;S9;Vieille Ville, Nice&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261121_RedNice\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Nice+France&form=hpcapt&filters=HpDate:\"20261120_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261121_RedNice"
+            },
+            "Ssd": "20261121",
+            "Name": "RedNice",
+            "Market": "FR-FR",
+            "Hash": "1499556885",
+            "FullDateString": "21 nov. 2026"
+        }
+    },
+    {
         "startdate": "20261119",
         "fullstartdate": "202611192300",
         "enddate": "20261120",
