@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261121",
+        "fullstartdate": "202611212300",
+        "enddate": "20261122",
+        "url": "/th?id=OHR.JustaHermitage_DE-DE4182731523_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JustaHermitage_DE-DE4182731523",
+        "copyright": "Die Kapelle und Einsiedelei von Santa Justa in Kantabrien, Spanien (© Tramont_ana/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Einsiedelei+Santa+Justa+Spanien&form=hpcapt&filters=HpDate%3a%2220261121_2300%22",
+        "title": "Kapelle im Fels",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261121_JustaHermitage%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "659a0d221f8e38b76c21f16066238716",
+        "hsh": "e16513a5b7a739975bddd0f814335acd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Eingebettet in die Klippen der rauen Küste Nordspaniens blickt die Einsiedelei Santa Justa aus dem 16. Jahrhundert auf die tosenden Wellen des Kantabrischen Meeres. Die kleine Kapelle, die teilweise in den Fels hinein gehauen wurde und mit den Reliquien der Heiligen Justa und Rufina in Verbindung gebracht wird, entwickelte sich im Laufe der Zeit zu einem Wallfahrtsort. Ihre schützenden Steinmauern bilden einen eindrucksvollen Kontrast zu den gewaltigen Wellen und schroffen Felsklippen, von denen sie umgeben ist.",
+                "Image": {
+                    "Url": "/th?id=OHR.JustaHermitage_DE-DE4182731523_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.JustaHermitage_DE-DE4182731523_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Kapelle im Fels",
+                "Title": "Die Kapelle und Einsiedelei von Santa Justa in Kantabrien, Spanien",
+                "Copyright": "© Tramont_ana/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.42595,-4.09762/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=43.42595,-4.09762;S9;Santa Justa, Kantabrien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261122_JustaHermitage\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Einsiedelei+Santa+Justa+Spanien&form=hpcapt&filters=HpDate:\"20261121_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261122_JustaHermitage"
+            },
+            "Ssd": "20261122",
+            "Name": "JustaHermitage",
+            "Market": "DE-DE",
+            "Hash": "4182731523",
+            "FullDateString": "22. Nov.. 2026"
+        }
+    },
+    {
         "startdate": "20261120",
         "fullstartdate": "202611202300",
         "enddate": "20261121",

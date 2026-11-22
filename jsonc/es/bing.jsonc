@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261121",
+        "fullstartdate": "202611212300",
+        "enddate": "20261122",
+        "url": "/th?id=OHR.JustaHermitage_ES-ES5920553602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JustaHermitage_ES-ES5920553602",
+        "copyright": "Capilla y ermita de Santa Justa, Cantabria (© Tramont_ana/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Capilla+y+Ermita+de+Santa+Justa&form=hpcapt&filters=HpDate%3a%2220261121_2300%22",
+        "title": "Un refugio entre las olas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261121_JustaHermitage%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "659a0d221f8e38b76c21f16066238716",
+        "hsh": "832e90cdb9f3f9ea4bbc12a6297490be",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Enclavada en los acantilados de la escarpada costa del norte de España y construida en el siglo XVI, la ermita de Santa Justa domina las olas del mar Cantábrico. Construida parcialmente en la roca y asociada a reliquias de las santas Justa y Rufina, la pequeña capilla acabó convirtiéndose en lugar de peregrinación.",
+                "Image": {
+                    "Url": "/th?id=OHR.JustaHermitage_ES-ES5920553602_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.JustaHermitage_ES-ES5920553602_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Un refugio entre las olas",
+                "Title": "Capilla y ermita de Santa Justa, Cantabria",
+                "Copyright": "© Tramont_ana/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.42595,-4.09762/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=43.42595,-4.09762;S9;Santa Justa, Cantabria&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261122_JustaHermitage\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Capilla+y+Ermita+de+Santa+Justa&form=hpcapt&filters=HpDate:\"20261121_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261122_JustaHermitage"
+            },
+            "Ssd": "20261122",
+            "Name": "JustaHermitage",
+            "Market": "ES-ES",
+            "Hash": "5920553602",
+            "FullDateString": "22 de nov de 2026"
+        }
+    },
+    {
         "startdate": "20261120",
         "fullstartdate": "202611202300",
         "enddate": "20261121",
