@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261123",
+        "fullstartdate": "202611230300",
+        "enddate": "20261124",
+        "url": "/th?id=OHR.FibonacciFern_PT-BR5976883875_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FibonacciFern_PT-BR5976883875",
+        "copyright": "Broto de samambaia (© Reza Saputra/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+de+Fibonacci&form=hpcapt&mkt=pt-br",
+        "title": "A natureza fez as contas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261123_FibonacciFern%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bc978cd7b0ef1919d036ff4340de9cd9",
+        "hsh": "e6d6af942a383649629721b0764c8396",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A imagem de hoje mostra a ponta de uma jovem folha de samambaia se enrolando aos poucos, lembrando os padrões geométricos encontrados por toda a natureza. Na matemática, a sequência de Fibonacci segue uma progressão semelhante: cada número é a soma dos dois anteriores — 0, 1, 1, 2, 3, 5, 8 e assim por diante. Hoje é o Dia de Fibonacci, celebrado nesta data porque, no formato americano, 11/23 faz referência aos primeiros números da sequência. À medida que cresce, a jovem folha de samambaia mostrada aqui vai se desenrolar. Em outras partes do mundo vegetal, porém, a sequência continuará aparecendo nos padrões em espiral dos girassóis, das pinhas, das suculentas e dos abacaxis.",
+                "Image": {
+                    "Url": "/th?id=OHR.FibonacciFern_PT-BR5976883875_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FibonacciFern_PT-BR5976883875_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "A natureza fez as contas",
+                "Title": "Broto de samambaia",
+                "Copyright": "© Reza Saputra/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "A sequência de Fibonacci foi popularizada a partir de um problema matemático do século XIII sobre a reprodução de coelhos.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261123_FibonacciFern\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Dia+de+Fibonacci&form=hpcapt&filters=HpDate:\"20261123_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261123_FibonacciFern"
+            },
+            "Ssd": "20261123",
+            "Name": "FibonacciFern",
+            "Market": "PT-BR",
+            "Hash": "5976883875",
+            "FullDateString": "23 nov. 2026"
+        }
+    },
+    {
         "startdate": "20261122",
         "fullstartdate": "202611220300",
         "enddate": "20261123",

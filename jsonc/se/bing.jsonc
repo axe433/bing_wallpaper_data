@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261122",
+        "fullstartdate": "202611220800",
+        "enddate": "20261123",
+        "url": "/th?id=OHR.GreenIceberg_ROW6926688504_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GreenIceberg_ROW6926688504",
+        "copyright": "Icebergs, Ilulissat, Greenland (© James Yu/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ilulissat+Greenland&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261122_GreenIceberg%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "c6b7e62e67713ece3438a8ed03afad82",
+        "hsh": "cba17b06e4e61db58eb317b9a1520a4b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Off Greenland's west coast, enormous icebergs drift through the cold waters, creating a landscape that's constantly changing. Many originate from the nearby Jakobshavn Glacier, one of the world's fastest and most active glaciers. The surrounding Ilulissat Icefjord, a UNESCO World Heritage Site, lies about 250 kilometres north of the Arctic Circle. Here, towering blocks of ice break away and begin their slow journey towards the open sea, forming one of Greenland's most remarkable natural sights.",
+                "Image": {
+                    "Url": "/th?id=OHR.GreenIceberg_ROW6926688504_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.GreenIceberg_ROW6926688504_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Icebergs, Ilulissat, Greenland",
+                "Copyright": "© James Yu/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261122_GreenIceberg\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ilulissat+Greenland&form=hpcapt&filters=HpDate:\"20261122_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261122_GreenIceberg"
+            },
+            "Ssd": "20261122",
+            "Name": "GreenIceberg",
+            "Market": "ROW",
+            "Hash": "6926688504",
+            "FullDateString": "22 nov. 2026"
+        }
+    },
+    {
         "startdate": "20261121",
         "fullstartdate": "202611210800",
         "enddate": "20261122",

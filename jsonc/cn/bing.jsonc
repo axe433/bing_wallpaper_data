@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261122",
+        "fullstartdate": "202611221600",
+        "enddate": "20261123",
+        "url": "/th?id=OHR.FibonacciFern_ZH-CN3882237848_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FibonacciFern_ZH-CN3882237848",
+        "copyright": "蕨类植物的卷曲嫩叶 (© Reza Saputra/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%97%A5&form=hpcapt&mkt=zh-cn",
+        "title": "自然中的几何之美",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261122_FibonacciFern%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bc978cd7b0ef1919d036ff4340de9cd9",
+        "hsh": "8bcab12cbf53fd1c7b81ec7e9b34e20c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "今天的图片展示了一片蕨类嫩叶的顶端逐渐卷曲的样子，呼应着自然界随处可见的几何图案。在数学中，斐波那契数列也遵循类似的递进规律：每个数都是前两个数之和，即0、1、1、2、3、5、8，依此类推。今天是斐波那契日；选定这一天，是因为日期11/23中的数字与这一数列相呼应，以此向它致敬。图中的蕨类嫩叶终将随着生长而舒展开来，而在植物世界的其他地方，这一数列还会不断出现在向日葵花盘、松果、多肉植物和菠萝的螺旋排列中。",
+                "Image": {
+                    "Url": "/th?id=OHR.FibonacciFern_ZH-CN3882237848_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FibonacciFern_ZH-CN3882237848_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "自然中的几何之美",
+                "Title": "蕨类植物的卷曲嫩叶",
+                "Copyright": "© Reza Saputra/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "斐波那契数列因一道关于兔子繁殖的13世纪数学题而广为人知。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261123_FibonacciFern\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e6%96%90%e6%b3%a2%e9%82%a3%e5%a5%91%e6%97%a5&form=hpcapt&filters=HpDate:\"20261122_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261123_FibonacciFern"
+            },
+            "Ssd": "20261123",
+            "Name": "FibonacciFern",
+            "Market": "ZH-CN",
+            "Hash": "3882237848",
+            "FullDateString": "2026 11月 23"
+        }
+    },
+    {
         "startdate": "20261121",
         "fullstartdate": "202611211600",
         "enddate": "20261122",

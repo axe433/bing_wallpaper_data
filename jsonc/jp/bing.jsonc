@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261122",
+        "fullstartdate": "202611221500",
+        "enddate": "20261123",
+        "url": "/th?id=OHR.FibonacciFern_JA-JP6039925060_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FibonacciFern_JA-JP6039925060",
+        "copyright": "シダの若芽 (© Reza Saputra/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%95%E3%82%A3%E3%83%9C%E3%83%8A%E3%83%83%E3%83%81%E6%95%B0%E5%88%97&form=hpcapt&filters=HpDate%3a%2220261122_1500%22",
+        "title": "自然が描く幾何学模様",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261122_FibonacciFern%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bc978cd7b0ef1919d036ff4340de9cd9",
+        "hsh": "fb916fe2210b163403a23ba2da0bfe00",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "写真は、シダの若芽の先がくるくると渦を巻いている様子です。こうした渦巻き模様は、自然界のあちこちで見ることができます。数学の「フィボナッチ数列」も、前の2つの数を足して次の数をつくる「0、1、1、2、3、5、8……」という並びで、少しずつ大きくなっていく様子がよく似ています。この若芽はやがて伸びて葉を広げますが、ヒマワリの種の並びや松ぼっくり、多肉植物、パイナップルのらせん模様には、この数列がこれからも現れ続けます。",
+                "Image": {
+                    "Url": "/th?id=OHR.FibonacciFern_JA-JP6039925060_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FibonacciFern_JA-JP6039925060_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "自然が描く幾何学模様",
+                "Title": "シダの若芽",
+                "Copyright": "© Reza Saputra/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "フィボナッチ数列が広く知られるようになったきっかけは、13世紀のウサギの増え方をめぐる数学の問題でした。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261123_FibonacciFern\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%83%95%e3%82%a3%e3%83%9c%e3%83%8a%e3%83%83%e3%83%81%e6%95%b0%e5%88%97&form=hpcapt&filters=HpDate:\"20261122_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261123_FibonacciFern"
+            },
+            "Ssd": "20261123",
+            "Name": "FibonacciFern",
+            "Market": "JA-JP",
+            "Hash": "6039925060",
+            "FullDateString": "2026 年 11月 月 23 日"
+        }
+    },
+    {
         "startdate": "20261121",
         "fullstartdate": "202611211500",
         "enddate": "20261122",

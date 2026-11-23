@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261122",
+        "fullstartdate": "202611222300",
+        "enddate": "20261123",
+        "url": "/th?id=OHR.FibonacciFern_ES-ES6597098315_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FibonacciFern_ES-ES6597098315",
+        "copyright": "Brote de helecho (© Reza Saputra/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+de+Fibonacci&form=hpcapt&filters=HpDate%3a%2220261122_2300%22",
+        "title": "Geometría en la naturaleza",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261122_FibonacciFern%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bc978cd7b0ef1919d036ff4340de9cd9",
+        "hsh": "497330d898806c223f7a29d7b2d7be6d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La imagen muestra el enrollamiento gradual del extremo de un brote de helecho, que recuerda los patrones geométricos presentes en la naturaleza. En matemáticas, la sucesión de Fibonacci sigue una progresión similar: cada número se obtiene sumando los dos anteriores: 0, 1, 1, 2, 3, 5, 8 y así sucesivamente.",
+                "Image": {
+                    "Url": "/th?id=OHR.FibonacciFern_ES-ES6597098315_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FibonacciFern_ES-ES6597098315_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Geometría en la naturaleza",
+                "Title": "Brote de helecho",
+                "Copyright": "© Reza Saputra/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "La sucesión de Fibonacci se popularizó mediante un problema matemático del siglo XIII sobre la reproducción de conejos.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261123_FibonacciFern\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=D%c3%ada+de+Fibonacci&form=hpcapt&filters=HpDate:\"20261122_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261123_FibonacciFern"
+            },
+            "Ssd": "20261123",
+            "Name": "FibonacciFern",
+            "Market": "ES-ES",
+            "Hash": "6597098315",
+            "FullDateString": "23 de nov de 2026"
+        }
+    },
+    {
         "startdate": "20261121",
         "fullstartdate": "202611212300",
         "enddate": "20261122",

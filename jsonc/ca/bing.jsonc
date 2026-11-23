@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261122",
+        "fullstartdate": "202611220500",
+        "enddate": "20261123",
+        "url": "/th?id=OHR.JustaHermitage_EN-CA5542255570_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JustaHermitage_EN-CA5542255570",
+        "copyright": "The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ermita+Santa+Justa+chapel&form=hpcapt&filters=HpDate%3a%2220261122_0500%22",
+        "title": "Shelter among the waves",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261122_JustaHermitage%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "659a0d221f8e38b76c21f16066238716",
+        "hsh": "57a60e6d37449675a3ce649771f721b6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Tucked into the cliffs of northern Spain's rugged coastline, the 16th-century Hermitage of Santa Justa seen in today's image overlooks the crashing waves of the Cantabrian Sea. Built partly into the rock and associated with relics of Saints Justa and Rufina, the small chapel eventually became a pilgrimage site, its sheltered stone walls creating a remarkable contrast with the powerful waves and rocky cliffs surrounding it.",
+                "Image": {
+                    "Url": "/th?id=OHR.JustaHermitage_EN-CA5542255570_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.JustaHermitage_EN-CA5542255570_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Shelter among the waves",
+                "Title": "The chapel and hermitage of Santa Justa in Cantabria, Spain",
+                "Copyright": "© Tramont_ana/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.42595,-4.09762/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=43.42595,-4.09762;S9;Santa Justa, Cantabria&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261122_JustaHermitage\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ermita+Santa+Justa+chapel&form=hpcapt&filters=HpDate:\"20261122_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261122_JustaHermitage"
+            },
+            "Ssd": "20261122",
+            "Name": "JustaHermitage",
+            "Market": "EN-CA",
+            "Hash": "5542255570",
+            "FullDateString": "Nov 22, 2026"
+        }
+    },
+    {
         "startdate": "20261121",
         "fullstartdate": "202611210500",
         "enddate": "20261122",

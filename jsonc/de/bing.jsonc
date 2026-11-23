@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261122",
+        "fullstartdate": "202611222300",
+        "enddate": "20261123",
+        "url": "/th?id=OHR.FibonacciFern_DE-DE6300100112_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FibonacciFern_DE-DE6300100112",
+        "copyright": "Farnspitzen (© Reza Saputra/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Fibonacci-Tag&form=hpcapt&filters=HpDate%3a%2220261122_2300%22",
+        "title": "Geometrie in der Natur",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261122_FibonacciFern%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bc978cd7b0ef1919d036ff4340de9cd9",
+        "hsh": "732c3d5ced8276f0e4697d1aebb5d523",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Das heutige Bild zeigt die Windung der Spitze eines jungen Farnsprosses, die an die geometrischen Muster erinnert, die überall in der Natur zu finden sind. In der Mathematik folgt die Fibonacci-Folge (benannt nach dem italienischen Mathematiker Leonardo Fibonacci) einem ähnlichen Muster, wobei jede Zahl durch die Addition der beiden vorhergehenden Zahlen entsteht: 0, 1, 1, 2, 3, 5, 8 und so weiter. Heute ist der Fibonacci-Tag, der aufgrund der amerikanischen Schreibweise des Datums (11/23) zu Ehren dieser Folge gewählt wurde.",
+                "Image": {
+                    "Url": "/th?id=OHR.FibonacciFern_DE-DE6300100112_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FibonacciFern_DE-DE6300100112_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Geometrie in der Natur",
+                "Title": "Farnspitzen",
+                "Copyright": "© Reza Saputra/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Die Fibonacci-Folge verbreitete sich durch ein mathematisches Problem aus dem 13. Jahrhundert, bei dem es um die Vermehrung von Kaninchen ging.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261123_FibonacciFern\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Fibonacci-Tag&form=hpcapt&filters=HpDate:\"20261122_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261123_FibonacciFern"
+            },
+            "Ssd": "20261123",
+            "Name": "FibonacciFern",
+            "Market": "DE-DE",
+            "Hash": "6300100112",
+            "FullDateString": "23. Nov.. 2026"
+        }
+    },
+    {
         "startdate": "20261121",
         "fullstartdate": "202611212300",
         "enddate": "20261122",

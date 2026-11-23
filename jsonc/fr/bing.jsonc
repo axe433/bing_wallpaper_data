@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261122",
+        "fullstartdate": "202611222300",
+        "enddate": "20261123",
+        "url": "/th?id=OHR.FibonacciFern_FR-FR6204076819_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FibonacciFern_FR-FR6204076819",
+        "copyright": "Pousse de fougère (© Reza Saputra/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+de+Fibonacci&form=hpcapt&filters=HpDate%3a%2220261122_2300%22",
+        "title": "Géométrie au naturel",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261122_FibonacciFern%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bc978cd7b0ef1919d036ff4340de9cd9",
+        "hsh": "39a012ce6819b703c92fe3c58c2818df",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Aujourd'hui, c'est la Journée Fibonacci, une date choisie en référence aux chiffres qui la composent, 23/11 ou 11/23 écrit en anglais américain, pour rendre hommage à la suite établie par ce mathématicien italien. En mathématiques, la suite de Fibonacci suit une progression similaire, où chaque nombre est obtenu en additionnant les deux qui le précèdent : 0, 1, 1, 2, 3, 5, 8, et ainsi de suite.",
+                "Image": {
+                    "Url": "/th?id=OHR.FibonacciFern_FR-FR6204076819_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FibonacciFern_FR-FR6204076819_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Géométrie au naturel",
+                "Title": "Pousse de fougère",
+                "Copyright": "© Reza Saputra/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "La suite de Fibonacci a été popularisée grâce à un problème mathématique du XIIIe siècle portant sur la multiplication des lapins.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261123_FibonacciFern\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Journ%c3%a9e+de+Fibonacci&form=hpcapt&filters=HpDate:\"20261122_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261123_FibonacciFern"
+            },
+            "Ssd": "20261123",
+            "Name": "FibonacciFern",
+            "Market": "FR-FR",
+            "Hash": "6204076819",
+            "FullDateString": "23 nov. 2026"
+        }
+    },
+    {
         "startdate": "20261121",
         "fullstartdate": "202611212300",
         "enddate": "20261122",

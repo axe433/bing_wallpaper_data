@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261122",
+        "fullstartdate": "202611222300",
+        "enddate": "20261123",
+        "url": "/th?id=OHR.FibonacciFern_IT-IT3074319544_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FibonacciFern_IT-IT3074319544",
+        "copyright": "Germoglio di felce (© Reza Saputra/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=fibonacci+day&form=hpcapt",
+        "title": "Geometria in natura",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261122_FibonacciFern%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bc978cd7b0ef1919d036ff4340de9cd9",
+        "hsh": "e617fe015ccaac39c7526ccf947436d5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "L’immagine mostra la punta arrotolata di un germoglio di felce, la cui forma richiama motivi geometrici ricorrenti in natura. In matematica, la successione di Fibonacci segue una progressione simile, dove ogni numero è la somma dei due precedenti, come nella sequenza 0, 1, 1, 2, 3, 5, 8 e così via. E proprio oggi si celebra il Fibonacci Day, ricorrenza scelta per la data 11/23 (23 novembre nel formato americano) che richiama i primi numeri della successione. Crescendo, la felce si dispiegherà, ma forme simili continueranno a comparire nelle spirali di girasoli, pigne, piante succulente e ananas.",
+                "Image": {
+                    "Url": "/th?id=OHR.FibonacciFern_IT-IT3074319544_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FibonacciFern_IT-IT3074319544_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Geometria in natura",
+                "Title": "Germoglio di felce",
+                "Copyright": "© Reza Saputra/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "La successione di Fibonacci divenne famosa grazie a un problema matematico del XIII secolo sulla riproduzione dei conigli.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261123_FibonacciFern\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=fibonacci+day&form=hpcapt&filters=HpDate:\"20261122_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261123_FibonacciFern"
+            },
+            "Ssd": "20261123",
+            "Name": "FibonacciFern",
+            "Market": "IT-IT",
+            "Hash": "3074319544",
+            "FullDateString": "23 novembre 2026"
+        }
+    },
+    {
         "startdate": "20261121",
         "fullstartdate": "202611212300",
         "enddate": "20261122",
