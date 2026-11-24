@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261123",
+        "fullstartdate": "202611230800",
+        "enddate": "20261124",
+        "url": "/th?id=OHR.FibonacciFern_ROW6425813382_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FibonacciFern_ROW6425813382",
+        "copyright": "Fiddlehead fern (© Reza Saputra/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Fiddlehead+fern&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261123_FibonacciFern%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "bc978cd7b0ef1919d036ff4340de9cd9",
+        "hsh": "8f71aa0e6169ac8edaba1678d321419a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Today's image shows the gradual coiling of a young fiddlehead's tip, echoing the geometric patterns seen throughout nature. In mathematics, the Fibonacci sequence follows a similar progression, each number formed by adding the two before it: 0, 1, 1, 2, 3, 5, 8 and so on. Eventually the young fern frond shown here will unfurl as it grows, but elsewhere in the plant world, the sequence will continue to appear in the spiralling arrangements of sunflower heads, pinecones, succulents and pineapples.",
+                "Image": {
+                    "Url": "/th?id=OHR.FibonacciFern_ROW6425813382_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FibonacciFern_ROW6425813382_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Fiddlehead fern",
+                "Copyright": "© Reza Saputra/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261123_FibonacciFern\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Fiddlehead+fern&form=hpcapt&filters=HpDate:\"20261123_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261123_FibonacciFern"
+            },
+            "Ssd": "20261123",
+            "Name": "FibonacciFern",
+            "Market": "ROW",
+            "Hash": "6425813382",
+            "FullDateString": "23 нояб. 2026 г."
+        }
+    },
+    {
         "startdate": "20261122",
         "fullstartdate": "202611220800",
         "enddate": "20261123",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261123",
+        "fullstartdate": "202611232300",
+        "enddate": "20261124",
+        "url": "/th?id=OHR.CairngormsSquirrel_FR-FR2394488770_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CairngormsSquirrel_FR-FR2394488770",
+        "copyright": "Écureuil roux dans le parc national des Cairngorms, Highlands, Écosse (© Scotland: The Big Picture/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=%C3%A9cureuil+roux&form=hpcapt&filters=HpDate%3a%2220261123_2300%22",
+        "title": "Camouflage d’automne",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261123_CairngormsSquirrel%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "295b5ccdad18efb1661eb4e7cb0a4116",
+        "hsh": "a73e1266209fb640a3a4054a754c3f73",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "L'écureuil roux (Sciurus vulgaris) prospère dans le parc national des Cairngorms en Écosse. Véritable refuge, ce parc abrite d'anciennes forêts de pins calédoniens ainsi que des boisements de conifères plus récents, offrant ainsi un habitat et une nourriture abondante à cet animal tout au long de l'année. Seule espèce d'écureuil indigène de Grande-Bretagne, les écureuils roux sont toujours à la recherche des graines de pin sylvestre, des noisettes et d'autres mets savoureux.",
+                "Image": {
+                    "Url": "/th?id=OHR.CairngormsSquirrel_FR-FR2394488770_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CairngormsSquirrel_FR-FR2394488770_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Camouflage d'automne",
+                "Title": "Écureuil roux dans le parc national des Cairngorms, Highlands, Écosse",
+                "Copyright": "© Scotland: The Big Picture/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/57.0833,-3.6667/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=57.0833,-3.6667;S9;Parc national des Cairngorms, Highlands, Écosse&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261124_CairngormsSquirrel\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%c3%a9cureuil+roux&form=hpcapt&filters=HpDate:\"20261123_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261124_CairngormsSquirrel"
+            },
+            "Ssd": "20261124",
+            "Name": "CairngormsSquirrel",
+            "Market": "FR-FR",
+            "Hash": "2394488770",
+            "FullDateString": "24 nov. 2026"
+        }
+    },
+    {
         "startdate": "20261122",
         "fullstartdate": "202611222300",
         "enddate": "20261123",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261124",
+        "fullstartdate": "202611240000",
+        "enddate": "20261125",
+        "url": "/th?id=OHR.CairngormsSquirrel_EN-GB7505295031_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CairngormsSquirrel_EN-GB7505295031",
+        "copyright": "Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Eurasian+red+squirrel&form=hpcapt&filters=HpDate%3a%2220261124_0000%22",
+        "title": "Autumnal camouflage",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261124_CairngormsSquirrel%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "295b5ccdad18efb1661eb4e7cb0a4116",
+        "hsh": "c29d16eec78f3f9a549965529b4339ac",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "As Britain's only native squirrel species, red squirrels thrive in Scotland's Cairngorms National Park. An important refuge, the park offers ancient Caledonian pine forests and more recently planted conifer woodlands, providing valuable habitat and food for squirrels foraging for Scots pine seeds, nuts and other tasty morsels throughout the year. In today's image, a red squirrel is perched amid warm orange and yellow leaves, looking right at home as it ponders its next move in the Scottish Highlands.",
+                "Image": {
+                    "Url": "/th?id=OHR.CairngormsSquirrel_EN-GB7505295031_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CairngormsSquirrel_EN-GB7505295031_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Autumnal camouflage",
+                "Title": "Red squirrel in Cairngorms National Park, Highlands, Scotland",
+                "Copyright": "© Scotland: The Big Picture/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/57.0833,-3.6667/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=57.0833,-3.6667;S9;Cairngorms National Park, Highlands, Scotland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261124_CairngormsSquirrel\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Eurasian+red+squirrel&form=hpcapt&filters=HpDate:\"20261124_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261124_CairngormsSquirrel"
+            },
+            "Ssd": "20261124",
+            "Name": "CairngormsSquirrel",
+            "Market": "EN-GB",
+            "Hash": "7505295031",
+            "FullDateString": "24 Nov 2026"
+        }
+    },
+    {
         "startdate": "20261123",
         "fullstartdate": "202611230000",
         "enddate": "20261124",

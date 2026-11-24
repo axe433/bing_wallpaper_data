@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261123",
+        "fullstartdate": "202611232300",
+        "enddate": "20261124",
+        "url": "/th?id=OHR.CairngormsSquirrel_DE-DE7485834001_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CairngormsSquirrel_DE-DE7485834001",
+        "copyright": "Eichhörnchen (Sciurus vulgaris) im Cairngorms-Nationalpark, Highlands, Schottland (© Scotland: The Big Picture/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Eurasisches+Eichh%C3%B6rnchen&form=hpcapt&filters=HpDate%3a%2220261123_2300%22",
+        "title": "Herbstliche Tarnung",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261123_CairngormsSquirrel%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "295b5ccdad18efb1661eb4e7cb0a4116",
+        "hsh": "b2b78b437c78d3157e123d3df1ac6c4a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Als einzige einheimische Eichhörnchenart Großbritanniens fühlen sich die eurasischen Eichhörnchen im schottischen Cairngorms-Nationalpark besonders wohl. Der Park ist ein wichtiger Rückzugsort und bietet sowohl uralte kaledonische Kiefernwälder als auch jüngere Nadelwälder, die den Eichhörnchen das ganze Jahr über reichlich Lebensraum und Nahrung bieten, darunter Pinienkerne, Nüsse und andere Leckerbissen. Das heutige Bild zeigt ein Eichhörnchen umgeben von buntem Herbstlaub, das sich in den schottischen Highlands ganz wie zu Hause fühlt, während es seine nächsten Sprünge plant.",
+                "Image": {
+                    "Url": "/th?id=OHR.CairngormsSquirrel_DE-DE7485834001_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CairngormsSquirrel_DE-DE7485834001_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Herbstliche Tarnung",
+                "Title": "Eichhörnchen (Sciurus vulgaris) im Cairngorms-Nationalpark, Highlands, Schottland",
+                "Copyright": "© Scotland: The Big Picture/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/57.0833,-3.6667/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=57.0833,-3.6667;S9;Cairngorms-Nationalpark, Schottland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261124_CairngormsSquirrel\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Eurasisches+Eichh%c3%b6rnchen&form=hpcapt&filters=HpDate:\"20261123_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261124_CairngormsSquirrel"
+            },
+            "Ssd": "20261124",
+            "Name": "CairngormsSquirrel",
+            "Market": "DE-DE",
+            "Hash": "7485834001",
+            "FullDateString": "24. Nov.. 2026"
+        }
+    },
+    {
         "startdate": "20261122",
         "fullstartdate": "202611222300",
         "enddate": "20261123",

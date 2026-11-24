@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261123",
+        "fullstartdate": "202611231500",
+        "enddate": "20261124",
+        "url": "/th?id=OHR.CairngormsSquirrel_JA-JP8531667327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CairngormsSquirrel_JA-JP8531667327",
+        "copyright": "キタリス、ケアンゴームズ国立公園、ハイランド地方、スコットランド (© Scotland: The Big Picture/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%AD%E3%82%BF%E3%83%AA%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220261123_1500%22",
+        "title": "紅葉にまぎれて",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261123_CairngormsSquirrel%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "295b5ccdad18efb1661eb4e7cb0a4116",
+        "hsh": "c8ad10f4e06737f1da7820a50baa2e8c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "イギリスにもともとすむ唯一のリスであるキタリスは、スコットランドのケアンゴームズ国立公園で元気に暮らしています。公園には古くから残るカレドニアの松林や新しい針葉樹の森が広がり、ヨーロッパアカマツの種や木の実などの食べものが一年中豊富なため、リスたちにとって大切なすみかになっています。写真のキタリスは、オレンジや黄色に色づいた葉の中にちょこんと座り、次は何をしようかと考えているようです。",
+                "Image": {
+                    "Url": "/th?id=OHR.CairngormsSquirrel_JA-JP8531667327_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CairngormsSquirrel_JA-JP8531667327_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "紅葉にまぎれて",
+                "Title": "キタリス、ケアンゴームズ国立公園、ハイランド地方、スコットランド",
+                "Copyright": "© Scotland: The Big Picture/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/57.0833,-3.6667/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=57.0833,-3.6667;S9;ケアンゴームズ国立公園、スコットランド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261124_CairngormsSquirrel\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e3%82%ad%e3%82%bf%e3%83%aa%e3%82%b9&form=hpcapt&filters=HpDate:\"20261123_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261124_CairngormsSquirrel"
+            },
+            "Ssd": "20261124",
+            "Name": "CairngormsSquirrel",
+            "Market": "JA-JP",
+            "Hash": "8531667327",
+            "FullDateString": "2026 年 11月 月 24 日"
+        }
+    },
+    {
         "startdate": "20261122",
         "fullstartdate": "202611221500",
         "enddate": "20261123",
