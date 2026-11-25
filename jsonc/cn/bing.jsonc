@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261124",
+        "fullstartdate": "202611241600",
+        "enddate": "20261125",
+        "url": "/th?id=OHR.SunsetPoint_ZH-CN5737034685_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SunsetPoint_ZH-CN5737034685",
+        "copyright": "日落观景点，布莱斯峡谷国家公园，犹他州 (© Colin D. Young/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%B8%83%E8%8E%B1%E6%96%AF%E5%B3%A1%E8%B0%B7%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+        "title": "美国西南部的一场雪",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261124_SunsetPoint%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "587077b470d0e86371e74a88f35ab0dc",
+        "hsh": "0fde8be729d820a01149c059f0b16a26",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "白雪让布莱斯峡谷国家公园焕然一新：大地披上银装，鲜艳的橙红色石林在雪地上拔地而起。从公园最著名的观景点之一——日落观景点望去，这些奇特的岩石造型属于克拉伦组。构成它们的石灰岩约在5000万年前沉积，后来又经风化和侵蚀塑造成形。由于公园大部分地区海拔超过8000英尺，早在10月就可能降雪。今天的照片中，积雪覆着峡谷的山脊和石柱，薄雾从崖壁间飘过，呈现出美国西南部标志性的冬日景象。",
+                "Image": {
+                    "Url": "/th?id=OHR.SunsetPoint_ZH-CN5737034685_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SunsetPoint_ZH-CN5737034685_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "美国西南部的一场雪",
+                "Title": "日落观景点，布莱斯峡谷国家公园，犹他州",
+                "Copyright": "© Colin D. Young/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "在布莱斯峡谷，一年中有超过170个夜晚的气温会跨越冰点。渗入岩缝的水结冰膨胀，帮助将岩石逐渐塑造成石林柱。",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261125_SunsetPoint\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=%e5%b8%83%e8%8e%b1%e6%96%af%e5%b3%a1%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&filters=HpDate:\"20261124_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261125_SunsetPoint"
+            },
+            "Ssd": "20261125",
+            "Name": "SunsetPoint",
+            "Market": "ZH-CN",
+            "Hash": "5737034685",
+            "FullDateString": "2026 11月 25"
+        }
+    },
+    {
         "startdate": "20261123",
         "fullstartdate": "202611231600",
         "enddate": "20261124",

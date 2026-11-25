@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261125",
+        "fullstartdate": "202611250500",
+        "enddate": "20261126",
+        "url": "/th?id=OHR.SunsetPoint_EN-CA6444917407_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SunsetPoint_EN-CA6444917407",
+        "copyright": "Sunset Point, Bryce Canyon National Park, Utah, USA (© Colin D. Young/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Bryce+Canyon+National+Park&form=hpcapt&filters=HpDate%3a%2220261125_0500%22",
+        "title": "When snow meets red rock",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261125_SunsetPoint%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "587077b470d0e86371e74a88f35ab0dc",
+        "hsh": "f9f28818712e3e64098856874b6bade1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Snow transforms Bryce Canyon National Park, blanketing the landscape in white while its fiery orange-red hoodoos rise above the snowy terrain. Seen from Sunset Point, one of the park's most famous overlooks, these fantastical shapes are part of the Claron Formation, whose limestone was deposited about 50 million years ago and later shaped by weathering and erosion. Because much of the park rises above 2,440 metres, snow can arrive as early as October. In today's image, snow clings to the canyon's ridges and spires while mist drifts across the cliffs, creating an iconic winter scene in the American Southwest.",
+                "Image": {
+                    "Url": "/th?id=OHR.SunsetPoint_EN-CA6444917407_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SunsetPoint_EN-CA6444917407_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "When snow meets red rock",
+                "Title": "Sunset Point, Bryce Canyon National Park, Utah, USA",
+                "Copyright": "© Colin D. Young/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.623535,-112.167279/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=37.623535,-112.167279;S9;Sunset Point, Bryce Canyon National Park, Utah&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261125_SunsetPoint\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Bryce+Canyon+National+Park&form=hpcapt&filters=HpDate:\"20261125_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261125_SunsetPoint"
+            },
+            "Ssd": "20261125",
+            "Name": "SunsetPoint",
+            "Market": "EN-CA",
+            "Hash": "6444917407",
+            "FullDateString": "Nov 25, 2026"
+        }
+    },
+    {
         "startdate": "20261124",
         "fullstartdate": "202611240500",
         "enddate": "20261125",

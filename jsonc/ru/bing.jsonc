@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261124",
+        "fullstartdate": "202611240800",
+        "enddate": "20261125",
+        "url": "/th?id=OHR.CairngormsSquirrel_ROW7336059810_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CairngormsSquirrel_ROW7336059810",
+        "copyright": "Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Eurasian+red+squirrel&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261124_CairngormsSquirrel%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "295b5ccdad18efb1661eb4e7cb0a4116",
+        "hsh": "cfc165635d3a65bbf56cbf931e5bda9e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "As Britain's only native squirrel species, red squirrels thrive in Scotland's Cairngorms National Park. An important refuge, the park offers ancient Caledonian pine forests and newer conifer woodlands, with plentiful habitat and food for squirrels foraging for Scots pine seeds, nuts and other tasty morsels year-round. In today's image, a red squirrel is perched amid warm orange and yellow leaves, looking right at home as it ponders its next move in the Scottish Highlands.",
+                "Image": {
+                    "Url": "/th?id=OHR.CairngormsSquirrel_ROW7336059810_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.CairngormsSquirrel_ROW7336059810_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Red squirrel in Cairngorms National Park, Highlands, Scotland",
+                "Copyright": "© Scotland: The Big Picture/Minden Pictures",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261124_CairngormsSquirrel\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Eurasian+red+squirrel&form=hpcapt&filters=HpDate:\"20261124_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261124_CairngormsSquirrel"
+            },
+            "Ssd": "20261124",
+            "Name": "CairngormsSquirrel",
+            "Market": "ROW",
+            "Hash": "7336059810",
+            "FullDateString": "24 нояб. 2026 г."
+        }
+    },
+    {
         "startdate": "20261123",
         "fullstartdate": "202611230800",
         "enddate": "20261124",

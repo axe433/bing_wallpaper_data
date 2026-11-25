@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261124",
+        "fullstartdate": "202611242300",
+        "enddate": "20261125",
+        "url": "/th?id=OHR.SunsetPoint_ES-ES7252349167_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SunsetPoint_ES-ES7252349167",
+        "copyright": "Sunset Point, Parque Nacional Bryce Canyon, Utah (© Colin D. Young/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+del+Ca%C3%B1%C3%B3n+Bryce&form=hpcapt&filters=HpDate%3a%2220261124_2300%22",
+        "title": "Centinelas de piedra y nieve",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261124_SunsetPoint%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "587077b470d0e86371e74a88f35ab0dc",
+        "hsh": "ff93d5d087ad398e683a7c315a6398e5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "La nieve cubre los hoodoos de Bryce Canyon, en Utah, y acentúa las formas de estas extraordinarias columnas de roca. Aunque se denomina cañón, Bryce es en realidad una sucesión de anfiteatros naturales excavados en el borde de una elevada meseta.",
+                "Image": {
+                    "Url": "/th?id=OHR.SunsetPoint_ES-ES7252349167_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SunsetPoint_ES-ES7252349167_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Centinelas de piedra y nieve",
+                "Title": "Sunset Point, Parque Nacional Bryce Canyon, Utah",
+                "Copyright": "© Colin D. Young/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.623535,-112.167279/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=37.623535,-112.167279;S9;Parque Nacional Bryce Canyon, Utah&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261125_SunsetPoint\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parque+Nacional+del+Ca%c3%b1%c3%b3n+Bryce&form=hpcapt&filters=HpDate:\"20261124_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261125_SunsetPoint"
+            },
+            "Ssd": "20261125",
+            "Name": "SunsetPoint",
+            "Market": "ES-ES",
+            "Hash": "7252349167",
+            "FullDateString": "25 de nov de 2026"
+        }
+    },
+    {
         "startdate": "20261123",
         "fullstartdate": "202611232300",
         "enddate": "20261124",

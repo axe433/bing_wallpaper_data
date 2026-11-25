@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261125",
+        "fullstartdate": "202611250300",
+        "enddate": "20261126",
+        "url": "/th?id=OHR.SunsetPoint_PT-BR6763339998_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SunsetPoint_PT-BR6763339998",
+        "copyright": "Sunset Point, Parque Nacional Bryce Canyon, Utah (© Colin D. Young/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+Bryce+Canyon&form=hpcapt&mkt=pt-br",
+        "title": "Até o deserto sente frio",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261125_SunsetPoint%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "587077b470d0e86371e74a88f35ab0dc",
+        "hsh": "550cb97071885600c58ac2e79f0f8744",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "A neve transforma o Parque Nacional Bryce Canyon, cobrindo a paisagem de branco enquanto seus impressionantes hoodoos em tons de laranja e vermelho se elevam acima do terreno nevado. Vistas do Sunset Point, um dos mirantes mais famosos do parque, essas formações de aparência fantástica fazem parte da Formação Claron, cujo calcário foi depositado há cerca de 50 milhões de anos e, mais tarde, moldado pelo intemperismo e pela erosão. Como grande parte do parque fica a mais de 2.400 metros de altitude, a neve pode chegar já em outubro. Na imagem de hoje, ela se acumula nas cristas e nos pináculos do cânion, enquanto a névoa desliza pelos penhascos, criando uma cena de inverno emblemática no sudoeste dos Estados Unidos.",
+                "Image": {
+                    "Url": "/th?id=OHR.SunsetPoint_PT-BR6763339998_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.SunsetPoint_PT-BR6763339998_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Até o deserto sente frio",
+                "Title": "Sunset Point, Parque Nacional Bryce Canyon, Utah",
+                "Copyright": "© Colin D. Young/Alamy",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.623535,-112.167279/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=pt-BR&od=2&shading=flat&pp=37.623535,-112.167279;S9;Parque Nacional Bryce Canyon&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261125_SunsetPoint\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Parque+Nacional+Bryce+Canyon&form=hpcapt&filters=HpDate:\"20261125_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261125_SunsetPoint"
+            },
+            "Ssd": "20261125",
+            "Name": "SunsetPoint",
+            "Market": "PT-BR",
+            "Hash": "6763339998",
+            "FullDateString": "25 nov. 2026"
+        }
+    },
+    {
         "startdate": "20261124",
         "fullstartdate": "202611240300",
         "enddate": "20261125",
