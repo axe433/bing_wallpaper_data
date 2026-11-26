@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261125",
+        "fullstartdate": "202611252300",
+        "enddate": "20261126",
+        "url": "/th?id=OHR.RFHilo_IT-IT3377596162_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RFHilo_IT-IT3377596162",
+        "copyright": "Rainbow Falls sul fiume Wailuku, Hilo, Hawaii, Stati Uniti (© Peter Unger/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Cascate+Rainbow+Falls+Fiume+Wailuku+Hawaii&form=hpcapt",
+        "title": "Dove nascono gli arcobaleni",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261125_RFHilo%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "90bb3f57614380fa1a2c414a0178cb02",
+        "hsh": "9c8ade12947a3d598d85332b4fb55cd4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Acqua, luce e vegetazione tropicale si incontrano alle Rainbow Falls di Hilo, sulla “Big Island” delle Hawaii. Qui, il fiume Wailuku compie un salto di circa 24 metri da una parete di lava, sollevando una spettacolare nube di spruzzi prima di raggiungere lo specchio d’acqua sottostante. Nelle mattinate di sole, la luce attraversa la nuvola di gocce, creando i suggestivi arcobaleni che danno il nome a questo luogo. Conosciute in hawaiano come Waiānuenue (acqua arcobaleno), e circondate da una vegetazione lussureggiante, queste maestose cascate occupano un posto speciale nelle leggende dell’isola.",
+                "Image": {
+                    "Url": "/th?id=OHR.RFHilo_IT-IT3377596162_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RFHilo_IT-IT3377596162_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Dove nascono gli arcobaleni",
+                "Title": "Rainbow Falls sul fiume Wailuku, Hilo, Hawaii, Stati Uniti",
+                "Copyright": "© Peter Unger/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/19.718779,-155.108611/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=19.718779,-155.108611;S9;Rainbow Falls sul fiume Wailuku&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261126_RFHilo\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Cascate+Rainbow+Falls+Fiume+Wailuku+Hawaii&form=hpcapt&filters=HpDate:\"20261125_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261126_RFHilo"
+            },
+            "Ssd": "20261126",
+            "Name": "RFHilo",
+            "Market": "IT-IT",
+            "Hash": "3377596162",
+            "FullDateString": "26 novembre 2026"
+        }
+    },
+    {
         "startdate": "20261124",
         "fullstartdate": "202611242300",
         "enddate": "20261125",

@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261125",
+        "fullstartdate": "202611251830",
+        "enddate": "20261126",
+        "url": "/th?id=OHR.RFHilo_EN-IN3818497787_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RFHilo_EN-IN3818497787",
+        "copyright": "Rainbow Falls on the Wailuku River, Hilo, Hawaii, USA (© Peter Unger/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Rainbow+Falls+Wailuku+River+Hawaii&form=hpcapt&filters=HpDate%3a%2220261125_1830%22",
+        "title": "Where rainbows fall",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261125_RFHilo%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "90bb3f57614380fa1a2c414a0178cb02",
+        "hsh": "527b9b4cdddc28c11fb63e8efebef520",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Water, sunlight and lush greenery come together at Rainbow Falls in Hilo, on Hawaii's Big Island. Here, the Wailuku River plunges 24 metres over a lava ledge, sending mist into the air as it reaches the pool below. On sunny mornings, that mist can catch the light and produce the colourful rainbows that gave the falls their name. Known in Hawaiian as Waiānuenue, meaning 'rainbow water', this striking waterfall is surrounded by tropical vegetation and has a special place in Hawaiian legend.",
+                "Image": {
+                    "Url": "/th?id=OHR.RFHilo_EN-IN3818497787_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RFHilo_EN-IN3818497787_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Where rainbows fall",
+                "Title": "Rainbow Falls on the Wailuku River, Hilo, Hawaii, USA",
+                "Copyright": "© Peter Unger/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/19.718779,-155.108611/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=19.718779,-155.108611;S9;Rainbow Falls, Wailuku River&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261126_RFHilo\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Rainbow+Falls+Wailuku+River+Hawaii&form=hpcapt&filters=HpDate:\"20261125_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261126_RFHilo"
+            },
+            "Ssd": "20261126",
+            "Name": "RFHilo",
+            "Market": "EN-IN",
+            "Hash": "3818497787",
+            "FullDateString": "26 Nov, 2026"
+        }
+    },
+    {
         "startdate": "20261124",
         "fullstartdate": "202611241830",
         "enddate": "20261125",
