@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261126",
+        "fullstartdate": "202611260800",
+        "enddate": "20261127",
+        "url": "/th?id=OHR.WildTom_EN-US1069249609_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WildTom_EN-US1069249609",
+        "copyright": "Two wild tom turkeys (© davidsdodd/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Thanksgiving&form=hpcapt&filters=HpDate%3a%2220261126_0800%22",
+        "title": "Turkey twins",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261126_WildTom%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "fc92266f7e2f08a8c2420b4efd9ddd2b",
+        "hsh": "c4288d8653709a61b3d64b1860132dd9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "With their colorful plumage and distinctive gobble, adult male turkeys, known as toms or gobblers, are a familiar sight of the season. Toms, like those pictured here, fan their tail feathers and show off their rich coloring to attract hens. These native birds can be found in the wild across much of North America, often in forest and woodland habitats. Turkeys have also become closely tied to Thanksgiving traditions, serving as a familiar centerpiece of a holiday feast that, for many, is less about what's on the table and more about gathering with family and friends. In today's image, two toms take a Thanksgiving stroll and put their finest feathers forward in the warm glow of autumn.",
+                "Image": {
+                    "Url": "/th?id=OHR.WildTom_EN-US1069249609_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.WildTom_EN-US1069249609_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Turkey twins",
+                "Title": "Two wild tom turkeys",
+                "Copyright": "© davidsdodd/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "Historical accounts of the 1621 harvest feast don't specifically mention turkey as a menu item, referring instead to \"wild fowl,\" which could have been duck or geese.",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261126_WildTom\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Thanksgiving&form=hpcapt&filters=HpDate:\"20261126_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261126_WildTom"
+            },
+            "Ssd": "20261126",
+            "Name": "WildTom",
+            "Market": "EN-US",
+            "Hash": "1069249609",
+            "FullDateString": "Nov 26, 2026"
+        }
+    },
+    {
         "startdate": "20261125",
         "fullstartdate": "202611250800",
         "enddate": "20261126",

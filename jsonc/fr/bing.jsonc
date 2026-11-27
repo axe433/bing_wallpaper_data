@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261126",
+        "fullstartdate": "202611262300",
+        "enddate": "20261127",
+        "url": "/th?id=OHR.FaceCanyon_FR-FR9763207069_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FaceCanyon_FR-FR9763207069",
+        "copyright": "Coucher du soleil sur Face Canyon, Lac Powell, Utah, États-Unis (© Jeff Foott/Minden)",
+        "copyrightlink": "https://www.bing.com/search?q=Lac+Powell&form=hpcapt&filters=HpDate%3a%2220261126_2300%22",
+        "title": "Rubans gris et or",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261126_FaceCanyon%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "ad8e6a066fe72ea58248ba47fe973cce",
+        "hsh": "48e0d1b384285179582d73c0f7566261",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dissimulé au cœur d’un paysage de grès, Face Canyon est l’un des 96 canyons qui s’étendent depuis le lac Powell, au sud de l’Utah. Nombre d’entre eux seraient difficiles d’accès s’ils n’avaient pas été submergés par les eaux du lac.  Le lac Powell est le deuxième plus grand lac artificiel des États-Unis. Formé en 1963 lors de la construction du barrage de Glen Canyon, il s’étire sur près de 300 km.",
+                "Image": {
+                    "Url": "/th?id=OHR.FaceCanyon_FR-FR9763207069_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.FaceCanyon_FR-FR9763207069_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Rubans gris et or",
+                "Title": "Coucher du soleil sur Face Canyon, Lac Powell, Utah, États-Unis",
+                "Copyright": "© Jeff Foott/Minden",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.002262,-111.24176/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=37.002262,-111.24176;S9;Face Canyon, Lac Powell&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261127_FaceCanyon\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Lac+Powell&form=hpcapt&filters=HpDate:\"20261126_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261127_FaceCanyon"
+            },
+            "Ssd": "20261127",
+            "Name": "FaceCanyon",
+            "Market": "FR-FR",
+            "Hash": "9763207069",
+            "FullDateString": "27 nov. 2026"
+        }
+    },
+    {
         "startdate": "20261125",
         "fullstartdate": "202611252300",
         "enddate": "20261126",

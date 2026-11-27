@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261126",
+        "fullstartdate": "202611260800",
+        "enddate": "20261127",
+        "url": "/th?id=OHR.RFHilo_ROW7802013714_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RFHilo_ROW7802013714",
+        "copyright": "Rainbow Falls on the Wailuku River, Hilo, Hawaii, USA (© Peter Unger/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Rainbow+Falls+Wailuku+River+Hawaii&form=hpcapt",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261126_RFHilo%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "90bb3f57614380fa1a2c414a0178cb02",
+        "hsh": "8dd204a1acda7112bb5a850b4575cedb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Water, sunlight and lush greenery come together at Rainbow Falls in Hilo, on Hawaii's Big Island. Here, the Wailuku River plunges  24 metres over a lava ledge, sending mist into the air as it reaches the pool below. On sunny mornings, that mist can catch the light and produce the colourful rainbows that gave the falls their name.",
+                "Image": {
+                    "Url": "/th?id=OHR.RFHilo_ROW7802013714_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.RFHilo_ROW7802013714_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Info",
+                "Title": "Rainbow Falls on the Wailuku River, Hilo, Hawaii, USA",
+                "Copyright": "© Peter Unger/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261126_RFHilo\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Rainbow+Falls+Wailuku+River+Hawaii&form=hpcapt&filters=HpDate:\"20261126_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261126_RFHilo"
+            },
+            "Ssd": "20261126",
+            "Name": "RFHilo",
+            "Market": "ROW",
+            "Hash": "7802013714",
+            "FullDateString": "26. nov. 2026"
+        }
+    },
+    {
         "startdate": "20261125",
         "fullstartdate": "202611250800",
         "enddate": "20261126",
