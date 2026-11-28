@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261127",
+        "fullstartdate": "202611271830",
+        "enddate": "20261128",
+        "url": "/th?id=OHR.VltavaPrague_EN-IN7319350687_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VltavaPrague_EN-IN7319350687",
+        "copyright": "Old town and Vltava River, Prague, Czechia (© Lara_Uhryn/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Prague+bridges&form=hpcapt&filters=HpDate%3a%2220261127_1830%22",
+        "title": "Bridges through time",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261127_VltavaPrague%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f03a963a9e123509df34703911a4ff4a",
+        "hsh": "97ebd69c253e989666e9adb9c895aa5e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "This autumnal view from Letná Park looks out over Prague, which grew up along the banks of the Vltava River in Czechia. In today's image, the river winds its way through the historic Old Town and Malá Strana districts, beneath Mánes Bridge in the foreground. Many beautiful bridges now span the Vltava, but for centuries there was only one, Charles Bridge, pictured second from the bottom. Its first stones were laid in 1357 during the reign of Charles IV and until 1841, it was the only way to cross the river on foot. Today its stone arches, gothic towers and statues lining the bridge draw large crowds, so tourists are advised to get there by dawn for the best photographs. Or they could walk on to the next crossing, Legion Bridge, which is less crowded and offers beautiful views of the National Theatre, Prague Castle and its busier neighbour.",
+                "Image": {
+                    "Url": "/th?id=OHR.VltavaPrague_EN-IN7319350687_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VltavaPrague_EN-IN7319350687_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Bridges through time",
+                "Title": "Old town and Vltava River, Prague, Czechia",
+                "Copyright": "© Lara_Uhryn/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.089959,14.412867/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=50.089959,14.412867;S9;Mánes Bridge, Prague&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261128_VltavaPrague\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Prague+bridges&form=hpcapt&filters=HpDate:\"20261127_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261128_VltavaPrague"
+            },
+            "Ssd": "20261128",
+            "Name": "VltavaPrague",
+            "Market": "EN-IN",
+            "Hash": "7319350687",
+            "FullDateString": "28 Nov, 2026"
+        }
+    },
+    {
         "startdate": "20261126",
         "fullstartdate": "202611261830",
         "enddate": "20261127",

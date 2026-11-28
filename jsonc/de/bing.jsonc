@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261127",
+        "fullstartdate": "202611272300",
+        "enddate": "20261128",
+        "url": "/th?id=OHR.VltavaPrague_DE-DE9849101774_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VltavaPrague_DE-DE9849101774",
+        "copyright": "Altstadt und Moldau, Prag, Tschechien (© Lara_Uhryn/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Prager+Br%C3%BCcken&form=hpcapt&filters=HpDate%3a%2220261127_2300%22",
+        "title": "Brücken in die Vergangenheit",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261127_VltavaPrague%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f03a963a9e123509df34703911a4ff4a",
+        "hsh": "ca4acc1151f4d08c56378a4926ef9ea5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Dieser herbstliche Blick vom Letná-Park zeigt Prag, dass sich entlang der Ufer der Moldau in Tschechien erstreckt. Das heutige Bild zeigt den Lauf des Flusses durch die historische Altstadt und das Stadtviertel Malá Strana unterhalb der Mánes-Brücke im Vordergrund. Viele schöne Brücken führen heutzutage über die Moldau, doch jahrhundertelang gab es nur eine einzige: die Karlsbrücke, die als zweite von unten zu sehen ist. Ihr Grundstein wurde 1357 unter der Herrschaft Karls IV. gelegt und bis 1841 war sie die einzige Möglichkeit, den Fluss zu Fuß zu überqueren.",
+                "Image": {
+                    "Url": "/th?id=OHR.VltavaPrague_DE-DE9849101774_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VltavaPrague_DE-DE9849101774_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Brücken in die Vergangenheit",
+                "Title": "Altstadt und Moldau, Prag, Tschechien",
+                "Copyright": "© Lara_Uhryn/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.089959,14.412867/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=50.089959,14.412867;S9;Mánes-Brücke, Prag&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261128_VltavaPrague\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Prager+Br%c3%bccken&form=hpcapt&filters=HpDate:\"20261127_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261128_VltavaPrague"
+            },
+            "Ssd": "20261128",
+            "Name": "VltavaPrague",
+            "Market": "DE-DE",
+            "Hash": "9849101774",
+            "FullDateString": "28. Nov.. 2026"
+        }
+    },
+    {
         "startdate": "20261126",
         "fullstartdate": "202611262300",
         "enddate": "20261127",

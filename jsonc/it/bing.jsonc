@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261127",
+        "fullstartdate": "202611272300",
+        "enddate": "20261128",
+        "url": "/th?id=OHR.VltavaPrague_IT-IT0736491794_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VltavaPrague_IT-IT0736491794",
+        "copyright": "Città Vecchia, fiume Moldava, Praga, Cechia (© Lara_Uhryn/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ponti+di+Praga&form=hpcapt",
+        "title": "Ponti attraverso il tempo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261127_VltavaPrague%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f03a963a9e123509df34703911a4ff4a",
+        "hsh": "a4bac70ee4041099f83c1a1dcd29d999",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Questo panorama autunnale, dall’alto del parco Letná, si apre sulla città di Praga e sul Moldava, che attraversa i quartieri della Città Vecchia e di Malá Strana. Il fiume scorre veloce sotto ponti storici come il Mánes (in primo piano) e il Ponte Carlo (il secondo dal basso), costruito a partire dal 1357 sotto Carlo IV e, fino al 1841, unico attraversamento pedonale tra la due sponde. Le sue arcate in pietra, le torri gotiche e le statue ornamentali attirano ogni giorno molti visitatori. Per scattare foto lontani dalla folla, è consigliabile raggiungere il Ponte delle Legioni (quello successivo), da cui si possono ammirare il Teatro Nazionale, il Castello di Praga e lo stesso Ponte Carlo.",
+                "Image": {
+                    "Url": "/th?id=OHR.VltavaPrague_IT-IT0736491794_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VltavaPrague_IT-IT0736491794_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Ponti attraverso il tempo",
+                "Title": "Città Vecchia, fiume Moldava, Praga, Cechia",
+                "Copyright": "© Lara_Uhryn/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.089959,14.412867/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=50.089959,14.412867;S9;Ponte Mánes, Praga&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261128_VltavaPrague\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Ponti+di+Praga&form=hpcapt&filters=HpDate:\"20261127_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261128_VltavaPrague"
+            },
+            "Ssd": "20261128",
+            "Name": "VltavaPrague",
+            "Market": "IT-IT",
+            "Hash": "0736491794",
+            "FullDateString": "28 novembre 2026"
+        }
+    },
+    {
         "startdate": "20261126",
         "fullstartdate": "202611262300",
         "enddate": "20261127",

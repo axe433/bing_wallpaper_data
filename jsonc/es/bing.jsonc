@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261127",
+        "fullstartdate": "202611272300",
+        "enddate": "20261128",
+        "url": "/th?id=OHR.VltavaPrague_ES-ES8901377082_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VltavaPrague_ES-ES8901377082",
+        "copyright": "Casco antiguo y río Moldava, Praga, Chequia (© Lara_Uhryn/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Puentes+de+Praga&form=hpcapt&filters=HpDate%3a%2220261127_2300%22",
+        "title": "Puentes a través del tiempo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261127_VltavaPrague%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f03a963a9e123509df34703911a4ff4a",
+        "hsh": "9b9e807e14daed84db1287e15ba3deff",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Esta vista otoñal desde el parque de Letná contempla Praga, que creció a orillas del río Moldava, en Chequia. En la imagen de hoy, el río serpentea por el histórico casco antiguo y los distritos de Malá Strana, bajo el puente Mánes, en primer plano. Son muchos los hermosos puentes que cruzan ahora el Moldava, pero durante siglos solo hubo uno: el puente de Carlos, que aparece en segundo lugar empezando por abajo. Sus primeras piedras se colocaron en 1357, durante el reinado de Carlos IV, y hasta 1841 fue la única manera de cruzar el río a pie. Hoy sus arcos de piedra, sus torres góticas y las estatuas que bordean el puente atraen a multitudes, por lo que se aconseja a los turistas llegar al amanecer para hacer las mejores fotografías. O bien pueden seguir hasta el siguiente cruce, el puente de la Legión, menos concurrido y con hermosas vistas del Teatro Nacional, del Castillo de Praga y de su vecino más transitado.",
+                "Image": {
+                    "Url": "/th?id=OHR.VltavaPrague_ES-ES8901377082_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VltavaPrague_ES-ES8901377082_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "Puentes a través del tiempo",
+                "Title": "Casco antiguo y río Moldava, Praga, Chequia",
+                "Copyright": "© Lara_Uhryn/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.089959,14.412867/12?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=50.089959,14.412867;S9;Puente Mánes, Praga&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261128_VltavaPrague\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Puentes+de+Praga&form=hpcapt&filters=HpDate:\"20261127_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261128_VltavaPrague"
+            },
+            "Ssd": "20261128",
+            "Name": "VltavaPrague",
+            "Market": "ES-ES",
+            "Hash": "8901377082",
+            "FullDateString": "28 de nov de 2026"
+        }
+    },
+    {
         "startdate": "20261126",
         "fullstartdate": "202611262300",
         "enddate": "20261127",

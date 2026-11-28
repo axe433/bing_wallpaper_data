@@ -1,5 +1,54 @@
 [
     {
+        "startdate": "20261127",
+        "fullstartdate": "202611272300",
+        "enddate": "20261128",
+        "url": "/th?id=OHR.VltavaPrague_FR-FR4286783845_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VltavaPrague_FR-FR4286783845",
+        "copyright": "Vieille ville et rivière Vltava, Prague, Tchéquie (© Lara_Uhryn/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Prague+ponts&form=hpcapt&filters=HpDate%3a%2220261127_2300%22",
+        "title": "De pont en pont",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261127_VltavaPrague%22&FORM=HPQUIZ",
+        "wp": true,
+        "md5": "f03a963a9e123509df34703911a4ff4a",
+        "hsh": "02c220569bfe344dc3fc92c04825ae17",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": [],
+        "MediaContent": {
+            "ImageContent": {
+                "Description": "Vue depuis le parc Letná, la rivière Vltava traverse Prague, la capitale de la Tchéquie, sous un ciel automnal. Sur cette image, le cours d’eau serpente à travers les quartiers historiques de la Vieille Ville et de Malá Strana. Le pont Mánes au premier plan jouxte le fameux pont Charles qui est resté pendant des siècles l’unique structure de la ville traversant la Vltava. Ses premières pierres furent posées en 1357, sous le règne de Charles IV.",
+                "Image": {
+                    "Url": "/th?id=OHR.VltavaPrague_FR-FR4286783845_1920x1080.webp",
+                    "Wallpaper": "/th?id=OHR.VltavaPrague_FR-FR4286783845_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
+                    "Downloadable": true
+                },
+                "Headline": "De pont en pont",
+                "Title": "Vieille ville et rivière Vltava, Prague, Tchéquie",
+                "Copyright": "© Lara_Uhryn/Getty Images",
+                "SocialGood": null,
+                "MapLink": {
+                    "Url": "//platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.089959,14.412867/11?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=50.089959,14.412867;S9;Pont Mánes&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+                    "Link": ""
+                },
+                "QuickFact": {
+                    "MainText": "",
+                    "LinkUrl": "",
+                    "LinkText": ""
+                },
+                "TriviaUrl": "/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261128_VltavaPrague\"&FORM=HPQUIZ",
+                "BackstageUrl": "/search?q=Prague+ponts&form=hpcapt&filters=HpDate:\"20261127_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+                "TriviaId": "HPQuiz_20261128_VltavaPrague"
+            },
+            "Ssd": "20261128",
+            "Name": "VltavaPrague",
+            "Market": "FR-FR",
+            "Hash": "4286783845",
+            "FullDateString": "28 nov. 2026"
+        }
+    },
+    {
         "startdate": "20261126",
         "fullstartdate": "202611262300",
         "enddate": "20261127",
